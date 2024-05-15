@@ -4,7 +4,7 @@
 
 > Échate un zapateo al ritmo del tribal.
 
-84 songs - 4 hr 35 min
+85 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,8 +64,9 @@
 | [Pa' Prender](https://open.spotify.com/track/076VW4EZwBkJi2rJBHfKwF) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0) | [Pa' Prender](https://open.spotify.com/album/4239DsuTdIcdeXUIpyty97) | 3:03 | 2024-03-08 | 2024-05-06 |
 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 | 2022-08-05 |  |
 | [Pompi Cadera](https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Pompi Cadera](https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD) | 2:20 | 2022-08-05 |  |
+| [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 | 2024-05-14 |  |
 | [Quiero Bailar \(All Through the Night\) \[feat\. Becky G\]](https://open.spotify.com/track/2P3KclKBmd2oHYuTcXAcD4) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 4:20 | 2022-08-05 | 2024-04-19 |
-| [Rey de Reyes](https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 3:32 | 2024-03-08 |  |
+| [Rey de Reyes](https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 3:32 | 2024-03-08 | 2024-05-15 |
 | [Ritmo Suelto](https://open.spotify.com/track/6ykJqXUYnMKFQyN10mRYWT) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:16 | 2024-03-08 |  |
 | [Saxofon](https://open.spotify.com/track/7srKZVPwjXOy1ukLyVtaAL) | [Gio Silva](https://open.spotify.com/artist/1AiJaYXwfdIDA97ytcuWkm) | [Saxofon](https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm) | 4:37 | 2022-08-05 | 2024-04-19 |
 | [Senti2](https://open.spotify.com/track/6PCkpWCWbRKdBIlMjLPVKS) | [Holguin](https://open.spotify.com/artist/3POaPK6kssLkrO010CotXJ), [Anny Sepulveda](https://open.spotify.com/artist/3oyY4ZhNFEt3Aq0pcYdq7m), [Nick Rush](https://open.spotify.com/artist/6x2XPDItvcy6FrWoPdJV1M) | [Senti2](https://open.spotify.com/album/5x6EmQK9vVzzueIcI6j5j6) | 4:07 | 2022-08-05 | 2024-04-19 |

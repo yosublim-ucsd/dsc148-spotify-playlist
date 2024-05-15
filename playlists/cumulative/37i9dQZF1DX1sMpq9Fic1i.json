@@ -185,6 +185,32 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.1",
+        "url": "https://open.spotify.com/album/0Rj0jhW3QFmC7F5Hh6NK0k"
+      },
+      "artists": [
+        {
+          "name": "\u51ea \u8aa0\u58eb\u90ce (CV.\u5cf6\ufa11\u4fe1\u9577)",
+          "url": "https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m"
+        },
+        {
+          "name": "\u5fa1\u5f71\u73b2\u738b (CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/3fBJQAW7mepUbdLh48EZ1Y"
+        },
+        {
+          "name": "\u5263\u57ce\u65ac\u9244 (CV.\u8208\u6d25\u548c\u5e78)",
+          "url": "https://open.spotify.com/artist/5OFrXH0AP6j7BEnokutBz2"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180372,
+      "name": "BLUE LUCK - Ver.01",
+      "url": "https://open.spotify.com/track/3SE34kqmis3YB9P7S09T28"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB"
       },
@@ -704,6 +730,32 @@
       "duration_ms": 218866,
       "name": "\u30bc\u30ed",
       "url": "https://open.spotify.com/track/2gIUhgY6m1Yj0exHdXhVsR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.1",
+        "url": "https://open.spotify.com/album/0Rj0jhW3QFmC7F5Hh6NK0k"
+      },
+      "artists": [
+        {
+          "name": "\u51ea \u8aa0\u58eb\u90ce (CV.\u5cf6\ufa11\u4fe1\u9577)",
+          "url": "https://open.spotify.com/artist/7IaAIyWhEa6QmnWwbMGR2m"
+        },
+        {
+          "name": "\u5fa1\u5f71\u73b2\u738b (CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/3fBJQAW7mepUbdLh48EZ1Y"
+        },
+        {
+          "name": "\u5263\u57ce\u65ac\u9244 (CV.\u8208\u6d25\u548c\u5e78)",
+          "url": "https://open.spotify.com/artist/5OFrXH0AP6j7BEnokutBz2"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215025,
+      "name": "\u6226\u795e",
+      "url": "https://open.spotify.com/track/3dSWfBqzDQfCLth30powdR"
     },
     {
       "album": {

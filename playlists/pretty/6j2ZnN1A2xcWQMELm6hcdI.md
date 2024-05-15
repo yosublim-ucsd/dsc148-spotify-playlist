@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Normani
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 334,152 likes - 278 songs - 13 hr 55 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 334,140 likes - 278 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

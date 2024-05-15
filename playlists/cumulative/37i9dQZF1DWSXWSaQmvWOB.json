@@ -8789,6 +8789,28 @@
     },
     {
       "album": {
+        "name": "Love The Mystery (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/7zmRzYOl1IrWZtJg3s5gyX"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177196,
+      "name": "Love The Mystery - Jafunk Remix",
+      "url": "https://open.spotify.com/track/2knau46bv1OWCitS1KOE3c"
+    },
+    {
+      "album": {
         "name": "Love the Mystery",
         "url": "https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5"
       },

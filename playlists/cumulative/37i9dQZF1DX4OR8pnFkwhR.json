@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: CHO CO PA CO CHO CO QUIN QUIN",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: HOME",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 125887,
       "name": "!",
       "url": "https://open.spotify.com/track/2l8y4xSzP1b7oZBvFnpWdA"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 182815,
       "name": "Bite you",
       "url": "https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE"
@@ -3616,6 +3616,24 @@
       "duration_ms": 174147,
       "name": "Demon",
       "url": "https://open.spotify.com/track/0zZ7wK7JjXXLKd38i2M0zh"
+    },
+    {
+      "album": {
+        "name": "desert.",
+        "url": "https://open.spotify.com/album/7lN4mNizrnLV4WiiCM5AL3"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161074,
+      "name": "desert.",
+      "url": "https://open.spotify.com/track/2Gj7UhEf0eAiyZuFVApcOl"
     },
     {
       "album": {
@@ -10345,6 +10363,24 @@
     },
     {
       "album": {
+        "name": "POP OUT! \u2161",
+        "url": "https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197910,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/4vp5t5VMY0oG8IgVQoEjsg"
+    },
+    {
+      "album": {
         "name": "OKACHIMACHI FRIDAY NIGHT",
         "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
       },
@@ -11038,7 +11074,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 276292,
       "name": "People 365",
       "url": "https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk"
@@ -11204,6 +11240,24 @@
       "duration_ms": 235885,
       "name": "Planetarium",
       "url": "https://open.spotify.com/track/3gzZcJWNg8b6tXTEyGUkhG"
+    },
+    {
+      "album": {
+        "name": "Plastic Romance",
+        "url": "https://open.spotify.com/album/2zOwVX7gdy7Ufc8BxAqKux"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293629,
+      "name": "Plastic Romance",
+      "url": "https://open.spotify.com/track/7AxZFaSZFX9QhTiWHwh06g"
     },
     {
       "album": {
@@ -18602,7 +18656,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 198750,
       "name": "\u30a2\u30c0\u30f3\u306e\u6d77\u8fba",
       "url": "https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND"
@@ -19448,7 +19502,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 211466,
       "name": "\u30b5\u30f3\u30dd\u30ea\u30ba\u30e0",
       "url": "https://open.spotify.com/track/1v76huIm1TfABpvoJLxoV0"
@@ -22995,6 +23049,24 @@
     },
     {
       "album": {
+        "name": "Correspondances",
+        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
+    },
+    {
+      "album": {
         "name": "\u5909\u308f\u308a\u3086\u304f\u5b63\u7bc0",
         "url": "https://open.spotify.com/album/6thgLBzZtseSIAoz2W1W5k"
       },
@@ -24555,6 +24627,24 @@
     },
     {
       "album": {
+        "name": "\u629c\u3051\u51fa\u305b\uff01",
+        "url": "https://open.spotify.com/album/3SyuFBDpTb83QFwzGvWNK0"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244452,
+      "name": "\u629c\u3051\u51fa\u305b\uff01",
+      "url": "https://open.spotify.com/track/3I9pdS1FoRNS0rknepmyV4"
+    },
+    {
+      "album": {
         "name": "\u6301\u305f\u3056\u308b\u8005",
         "url": "https://open.spotify.com/album/47V2rBKVxSfPHs6B0GIvbe"
       },
@@ -25968,7 +26058,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 177373,
       "name": "\u71b1\u4e2d\u75c7",
       "url": "https://open.spotify.com/track/0aWbDC7sXAvKyNZSIta0DK"
@@ -27050,6 +27140,24 @@
       "duration_ms": 243000,
       "name": "\u897f\u65e5\u66ae\u91cc\u306e\u7dd1",
       "url": "https://open.spotify.com/track/0RtpYEDtccOkPrL7j1P3hz"
+    },
+    {
+      "album": {
+        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234627,
+      "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+      "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"
     },
     {
       "album": {

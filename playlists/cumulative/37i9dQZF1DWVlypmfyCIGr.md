@@ -2,7 +2,7 @@
 
 ### [キラキラポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DWVlypmfyCIGr)
 
-> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 清澄,Takumi Kawanishi
+> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Lavt
 
 5,952 songs - 14 day 23 hr 2 min
 

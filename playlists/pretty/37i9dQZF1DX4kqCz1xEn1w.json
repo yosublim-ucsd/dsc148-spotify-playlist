@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73546,
+  "num_followers": 73541,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 294813,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "How Great",
         "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 292288,
       "name": "Praise the King",
       "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 294813,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Hope Is Awake",
-        "url": "https://open.spotify.com/album/6vt5cLaUYuAg77XKgfnxYQ"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 346110,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/533vFeNPtb4R5WTSLUnUnk"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Hope Is Awake",
+        "url": "https://open.spotify.com/album/6vt5cLaUYuAg77XKgfnxYQ"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 346110,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/533vFeNPtb4R5WTSLUnUnk"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+        "name": "With/In",
+        "url": "https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
         }
       ],
-      "duration_ms": 455362,
-      "name": "Son of Suffering - Live",
-      "url": "https://open.spotify.com/track/4BT98XFVb11QHSndk2Kc8P"
+      "duration_ms": 287933,
+      "name": "Our God Is Alive",
+      "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "With/In",
-        "url": "https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4"
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
       },
       "artists": [
         {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 287933,
-      "name": "Our God Is Alive",
-      "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
+      "duration_ms": 455362,
+      "name": "Son of Suffering - Live",
+      "url": "https://open.spotify.com/track/4BT98XFVb11QHSndk2Kc8P"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Upon Him",
-        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 241901,
-      "name": "Upon Him",
-      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Hope Is Awake",
         "url": "https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 318473,
       "name": "Hope Is Awake",
       "url": "https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Upon Him",
+        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 241901,
+      "name": "Upon Him",
+      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
     },
     {
       "added_at": "2024-03-20 11:39:23",

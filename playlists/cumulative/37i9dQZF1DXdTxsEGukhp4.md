@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: Kaneee
 
-399 songs - 23 hr 3 min
+400 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [slow down](https://open.spotify.com/track/7u7oJiGYQZ2Xef6hUKNZdb) | [Ame lil melo](https://open.spotify.com/artist/0ehnoPffH5qmZNAsvEm7MN), [LUSH CARABINER](https://open.spotify.com/artist/3qKsj7tkFGpQazRVfvxTsu) | [slow down](https://open.spotify.com/album/6Xru0jm5NpwERXQfG5eqM8) | 2:33 | 2023-03-30 | 2023-07-13 |
 | [something about kiss](https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [something about kiss](https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0) | 4:09 | 2023-06-15 | 2023-08-18 |
 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-14 | 2024-03-15 |
+| [SPACE](https://open.spotify.com/track/2nH73E5GzyKrHSgvAGXUkT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [SPACE](https://open.spotify.com/album/3ZIUKKoOzTufm17noPTfFR) | 3:06 | 2024-05-14 |  |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-21 | 2023-12-14 |
 | [Starry Night](https://open.spotify.com/track/4Cas7ylKKk8heuXXBSgIO9) | [RUI](https://open.spotify.com/artist/5BAHcrY8MyM2wmIt8aspaW) | [Starry Night](https://open.spotify.com/album/4WO7X2WTA8pjxxKbqRB6Nw) | 4:01 | 2023-01-26 | 2023-02-24 |
 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2023-09-14 | 2024-02-09 |
@@ -263,7 +264,7 @@
 | [You](https://open.spotify.com/track/0zTkGAcW8rSKudSDgAzRwN) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/7sXKtNSDdHLOipBi2PeUSq) | 3:42 | 2024-04-18 |  |
 | [You](https://open.spotify.com/track/6Z0qVrfmIMId2WsJ1EIDn9) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/08cvsB41GIdh3AszsM6aPk) | 3:42 | 2024-04-11 | 2024-04-19 |
 | [you are my curse](https://open.spotify.com/track/7qALdDJNziRn0URhWKRh6P) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [you are my curse](https://open.spotify.com/album/0sXGHTRKpnvRcmnqYVsDa3) | 2:20 | 2023-07-27 | 2023-12-14 |
-| [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 | 2023-12-07 |  |
+| [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 | 2023-12-07 | 2024-05-15 |
 | [Yozora](https://open.spotify.com/track/33R9K1FOX38TIA3hSgWF4l) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [Yozora](https://open.spotify.com/album/2nCX6mYqdaV3CydVYn407Y) | 2:56 | 2023-11-09 | 2023-12-18 |
 | [Yozora](https://open.spotify.com/track/67WGNeo1vhgZxs3pAayoJG) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [Yozora](https://open.spotify.com/album/6O0dPaOmLSNXJE9zLLMoMv) | 2:56 | 2024-04-18 | 2024-04-26 |
 | [Yozora](https://open.spotify.com/track/6xUPHMakPsGiur26RV3ABu) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [20Escape](https://open.spotify.com/album/2HReb5L8Pix27hRgQRNbzS) | 2:56 | 2023-12-14 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 333726,
+  "num_followers": 333838,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
+      },
+      "artists": [
+        {
+          "name": "The Blackbyrds",
+          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
+        }
+      ],
+      "duration_ms": 352400,
+      "name": "Dreaming About You",
+      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Pushin On",
         "url": "https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 199560,
       "name": "Pushin On",
       "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98"
-      },
-      "artists": [
-        {
-          "name": "The Blackbyrds",
-          "url": "https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq"
-        }
-      ],
-      "duration_ms": 352400,
-      "name": "Dreaming About You",
-      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Here Come The Lords",
-        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
-      },
-      "artists": [
-        {
-          "name": "Lords Of The Underground",
-          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
-      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Winelight",
         "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 350600,
       "name": "Let It Flow (For \"DR. J\")",
       "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Here Come The Lords",
+        "url": "https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI"
+      },
+      "artists": [
+        {
+          "name": "Lords Of The Underground",
+          "url": "https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Lord Jazz Hit Me One Time (Make It Funky)",
+      "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1261,6 +1261,22 @@
       "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Acid Jazz Collection: Jazz",
+        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
+      },
+      "artists": [
+        {
+          "name": "Max Beesley's High Vibes",
+          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Mr. Jeckle",
+      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
+    },
+    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "Playing my piano",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Acid Jazz Collection: Jazz",
-        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
+        "name": "The Best of Acid Jazz Vol. 2",
+        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
       },
       "artists": [
         {
-          "name": "Max Beesley's High Vibes",
-          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
         }
       ],
-      "duration_ms": 244080,
-      "name": "Mr. Jeckle",
-      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
+      "duration_ms": 231093,
+      "name": "Don't Let It Go to Your Head",
+      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Best of Acid Jazz Vol. 2",
-        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
-      },
-      "artists": [
-        {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Don't Let It Go to Your Head",
-      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "The Sun )",
         "url": "https://open.spotify.com/album/0c7qsiBET91icyneq7KccE"
       },
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Brass Construction II",
-        "url": "https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 358333,
-      "name": "Now Is Tomorrow (Anticipation)",
-      "url": "https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8"
-    },
-    {
       "added_at": "2024-03-26 13:55:21",
       "album": {
         "name": "Bosh!",
@@ -1379,6 +1363,22 @@
       "duration_ms": 213560,
       "name": "Take Four",
       "url": "https://open.spotify.com/track/1kHc8mFnI7IkSf9Hi0c3UM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Brass Construction II",
+        "url": "https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 358333,
+      "name": "Now Is Tomorrow (Anticipation)",
+      "url": "https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "My Fish Is Burning - EP",
-        "url": "https://open.spotify.com/album/2keZtH0yWLiy7CwQuUiEBI"
-      },
-      "artists": [
-        {
-          "name": "Kuna Maze",
-          "url": "https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj"
-        }
-      ],
-      "duration_ms": 305560,
-      "name": "Again Again",
-      "url": "https://open.spotify.com/track/5qI3ZZy5B6AbtjS8DBmxY7"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Bring It On",
         "url": "https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 260973,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "My Fish Is Burning - EP",
+        "url": "https://open.spotify.com/album/2keZtH0yWLiy7CwQuUiEBI"
+      },
+      "artists": [
+        {
+          "name": "Kuna Maze",
+          "url": "https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj"
+        }
+      ],
+      "duration_ms": 305560,
+      "name": "Again Again",
+      "url": "https://open.spotify.com/track/5qI3ZZy5B6AbtjS8DBmxY7"
     },
     {
       "added_at": "2022-07-14 19:24:43",

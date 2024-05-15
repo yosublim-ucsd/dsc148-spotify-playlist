@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u5011\u4e00\u8d77\u52aa\u529b\u4e86\u90a3\u9ebc\u4e45\uff0c\u6700\u5f8c\u537b\u9084\u662f\u6557\u7d66\u4e0d\u9069\u5408\u3002",
-  "num_followers": 185608,
+  "num_followers": 185616,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "\u521d\u5b78\u8005",
-        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
-      },
-      "artists": [
-        {
-          "name": "Joker Xue",
-          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
-        }
-      ],
-      "duration_ms": 261249,
-      "name": "\u6f14\u54e1",
-      "url": "https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd"
-    },
-    {
-      "added_at": "2024-04-11 05:48:57",
-      "album": {
         "name": "Xposed",
         "url": "https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 258865,
       "name": "\u6ce1\u6cab",
       "url": "https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA"
+    },
+    {
+      "added_at": "2024-04-11 05:48:57",
+      "album": {
+        "name": "\u521d\u5b78\u8005",
+        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
+      },
+      "artists": [
+        {
+          "name": "Joker Xue",
+          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+        }
+      ],
+      "duration_ms": 261249,
+      "name": "\u6f14\u54e1",
+      "url": "https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd"
     },
     {
       "added_at": "2024-04-11 05:48:57",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 260878,
-      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
-    },
-    {
-      "added_at": "2024-04-11 05:48:57",
-      "album": {
         "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/5j3PCRtHQABiQLCgiRIsAk"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 299346,
       "name": "\u5931\u843d\u6c99\u6d32",
       "url": "https://open.spotify.com/track/4vBoopG4WzohMju1GUmwoi"
+    },
+    {
+      "added_at": "2024-04-11 05:48:57",
+      "album": {
+        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 260878,
+      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
     },
     {
       "added_at": "2024-04-11 05:48:57",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "SUPERMAN",
-        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
-      },
-      "artists": [
-        {
-          "name": "Gary Chaw",
-          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
-        }
-      ],
-      "duration_ms": 321629,
-      "name": "\u80cc\u53db",
-      "url": "https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo"
-    },
-    {
-      "added_at": "2024-04-11 05:48:57",
-      "album": {
         "name": "\u9ed1\u8272\u67f3\u4e01",
         "url": "https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 269000,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z"
+    },
+    {
+      "added_at": "2024-04-11 05:48:57",
+      "album": {
+        "name": "SUPERMAN",
+        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+      },
+      "artists": [
+        {
+          "name": "Gary Chaw",
+          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+        }
+      ],
+      "duration_ms": 321629,
+      "name": "\u80cc\u53db",
+      "url": "https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo"
     },
     {
       "added_at": "2024-04-11 05:48:57",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "\u60f3\u8d77",
-        "url": "https://open.spotify.com/album/5MLgsD55AhABn0M4fc28vb"
+        "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw"
       },
       "artists": [
         {
-          "name": "Maggie Chiang",
-          "url": "https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u"
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
         }
       ],
-      "duration_ms": 258333,
-      "name": "\u89aa\u611b\u7684\u4f60\u600e\u9ebc\u4e0d\u5728\u8eab\u908a",
-      "url": "https://open.spotify.com/track/3d5CdkcQnPcfODJBzjD6It"
+      "duration_ms": 268507,
+      "name": "\u611b\u4e86\u5f88\u4e45\u7684\u670b\u53cb(\u96fb\u5f71\u300c\u5f8c\u4f86\u7684\u6211\u5011\u300d\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC"
     }
   ],
   "unique_name": "\u60b2\u50b7\u91cb\u653e",

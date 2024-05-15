@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 777 songs - 1 day 15 hr 44 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 779 songs - 1 day 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -785,5 +785,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 775 | [Ice Attack](https://open.spotify.com/track/70ToiXlzl8N1EgfC07ZcZE) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:19 |
 | 776 | [Back To Back \(feat\. Future & Southside\)](https://open.spotify.com/track/4VS68hFMSdb6adNtXIBGIz) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Back To Back \(feat\. Future & Southside\)](https://open.spotify.com/album/4nOq0yHDsHVyxBTXjTgKZD) | 3:05 |
 | 777 | [Stickin And Movin](https://open.spotify.com/track/0LFytFdnyYnyjKQjFhz2XJ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Stickin And Movin](https://open.spotify.com/album/50yCR96sx5poUVluZCgH6O) | 2:47 |
+| 778 | [SLUT ME OUT 2](https://open.spotify.com/track/22yRHdYBLZMi7xnvBioqkP) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT 2](https://open.spotify.com/album/5BEgYBYUzfvGoU1uLHvGRA) | 2:15 |
+| 779 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 
-Snapshot ID: `AAADslzfvy4fgn0VB7A3YFFZDaJI5YXX`
+Snapshot ID: `AAADtHSZ0Q139H8W5moIt+5Aln4xaGSk`

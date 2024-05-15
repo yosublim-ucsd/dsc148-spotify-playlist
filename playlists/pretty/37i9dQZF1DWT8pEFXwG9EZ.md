@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,300 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,366 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 53 | [Love Theme \(From "Chinatown"\)](https://open.spotify.com/track/66tYxA2RBooo0Y6kBj7W7F) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [Kenny Kirkland](https://open.spotify.com/artist/3fvBGGCTOjiCsIqL3MFU6l), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Jazz in Film](https://open.spotify.com/album/3Ki6oezrFANfgKHfaG6AJs) | 8:23 |
 | 54 | [That's Amore](https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I) | [Harry Warren](https://open.spotify.com/artist/6vOhSMuCQ8BXVkLJOamR8Z), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Moonstruck \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN) | 3:06 |
 | 55 | [Damascus Thump](https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Babylon \(Music from the Motion Picture\)](https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe) | 2:10 |
-| 56 | [Flirtibird](https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:10 |
-| 57 | [Blue Skies](https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR), [Bruce Fowler](https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp) | [The Good Shepherd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C) | 2:32 |
+| 56 | [Blue Skies](https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR), [Bruce Fowler](https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp) | [The Good Shepherd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C) | 2:32 |
+| 57 | [Flirtibird](https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:10 |
 | 58 | [Alfie's Theme \- From "Alfie" Score](https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Alfie](https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5) | 9:44 |
 | 59 | [Your Shining Eyes](https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea) | [Biel Ballester Trio](https://open.spotify.com/artist/6YjO2mAfC8sQlsrYnnn2L2), [Leo Hipaucha](https://open.spotify.com/artist/3cm8ovGEuzgAQRiLaE9mEO), [Graci Pedro](https://open.spotify.com/artist/7dCoSS3bmQ9koae0rDzeLh) | [Vicky Cristina Barcelona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY) | 4:29 |
 | 60 | [Linus And Lucy](https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 3:06 |

@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "GOLDENWEEK",
+        "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
+      },
+      "artists": [
+        {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200910,
+      "name": "GOLDENWEEK",
+      "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
+    },
+    {
+      "album": {
         "name": "Good bye-bye",
         "url": "https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq"
       },
@@ -652,7 +670,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 211140,
       "name": "Happy Order?",
       "url": "https://open.spotify.com/track/42m2Tyvsx9DRuujxfeTjfi"
@@ -1663,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168120,
+      "name": "Rainy Driver",
+      "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
+    },
+    {
+      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -2624,7 +2660,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 264018,
       "name": "\u308f\u305f\u3057\u3001\u8776\u3005\u3002",
       "url": "https://open.spotify.com/track/1jX9A3M5N38g38REQwwglU"
@@ -3331,6 +3367,28 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30f4\u30a3\u30a6\u30b9",
+        "url": "https://open.spotify.com/album/08MVgJxxxtsQN70GbjOTeW"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        },
+        {
+          "name": "\u30cf\u30a4\u30ce\u30df",
+          "url": "https://open.spotify.com/artist/2vI6qg6VsqXpPwIawHPQEI"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "\u30e9\u30f4\u30a3\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/7F9FbiNXZGi1iAkCRCxQZW"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30ba\u30e064",
         "url": "https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs"
       },
@@ -3710,7 +3768,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 189786,
       "name": "\u5e73\u5b89",
       "url": "https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw"
@@ -4034,7 +4092,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 198826,
       "name": "\u7a7a\u8179\u306a\u52d5\u7269\u306e\u305f\u3081\u306e",
       "url": "https://open.spotify.com/track/6p1twNpwpkvnVQJpuzF4yi"
@@ -4164,6 +4222,24 @@
       "duration_ms": 207486,
       "name": "\u82b1\u5360\u3044",
       "url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj"
+    },
+    {
+      "album": {
+        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234627,
+      "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+      "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"
     },
     {
       "album": {

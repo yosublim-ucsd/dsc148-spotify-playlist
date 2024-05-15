@@ -1,13 +1,37 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57451,
+  "num_followers": 57445,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkGzlgAAAADI09DDCNoQKi+ePPLGX1Gv",
+  "snapshot_id": "ZkNeWAAAAADrEnFBf+ISoCwr+ZDDR7q5",
   "tracks": [
+    {
+      "added_at": "2024-05-14 04:29:52",
+      "album": {
+        "name": "Maathu Sothu (From \"Kotee\")",
+        "url": "https://open.spotify.com/album/3VB2Ol9vpgAXp3xel9I9ty"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "Maathu Sothu (From \"Kotee\")",
+      "url": "https://open.spotify.com/track/0UvB51pcl6Z34iPZZ8AEJK"
+    },
     {
       "added_at": "2024-05-13 06:22:08",
       "album": {
@@ -27,6 +51,70 @@
       "duration_ms": 261018,
       "name": "Time Baruthe (From \"Gowri\")",
       "url": "https://open.spotify.com/track/4byiOcGL732FhLerbMaskD"
+    },
+    {
+      "added_at": "2024-05-14 12:49:44",
+      "album": {
+        "name": "Pardana (From \"Balipe\")",
+        "url": "https://open.spotify.com/album/2VbIv579L4LnROh8SFgQuh"
+      },
+      "artists": [
+        {
+          "name": "Kalavathi Dayanand",
+          "url": "https://open.spotify.com/artist/06hgurxpkKN9vV49B830LS"
+        },
+        {
+          "name": "Dayananda G Kathalsar",
+          "url": "https://open.spotify.com/artist/3zL2JWKx8h1jnL6D4xrvTx"
+        },
+        {
+          "name": "Akash Reddy",
+          "url": "https://open.spotify.com/artist/71JGFO5mgqGqeiiG06pBrq"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Pardana - From \"Balipe\"",
+      "url": "https://open.spotify.com/track/7Cd3vSJ5zKO618jyPQiGZL"
+    },
+    {
+      "added_at": "2024-05-14 12:50:49",
+      "album": {
+        "name": "Udupi Anthem",
+        "url": "https://open.spotify.com/album/4eqOEB6xL6Tds5obPP4YRA"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Udupi Anthem",
+      "url": "https://open.spotify.com/track/7faGHJ7itPYUuDA0YCxK7K"
+    },
+    {
+      "added_at": "2024-05-14 12:40:28",
+      "album": {
+        "name": "Preethiya Sagarake",
+        "url": "https://open.spotify.com/album/5kKNBvPE6PFjV2bKeMK9F1"
+      },
+      "artists": [
+        {
+          "name": "Varun Ramachandra",
+          "url": "https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84"
+        },
+        {
+          "name": "Suprith Sharma",
+          "url": "https://open.spotify.com/artist/2DQjdiDaVXZwVMW1tPtRVb"
+        },
+        {
+          "name": "Yashwanth Venkatesh",
+          "url": "https://open.spotify.com/artist/0Za9MmuS6RBGpdKiAMlfuh"
+        }
+      ],
+      "duration_ms": 308780,
+      "name": "Preethiya Sagarake",
+      "url": "https://open.spotify.com/track/6ptZTuOn6ttBebQsxftRs0"
     },
     {
       "added_at": "2024-05-13 06:18:31",
@@ -1345,26 +1433,6 @@
       "url": "https://open.spotify.com/track/1VnsZvkBpSb5oy5Q6BJESm"
     },
     {
-      "added_at": "2024-03-08 20:31:24",
-      "album": {
-        "name": "Kole Kole (From \"Ronny - The Ruler\")",
-        "url": "https://open.spotify.com/album/4YuSAqhtbhAglYE4Umzpii"
-      },
-      "artists": [
-        {
-          "name": "Vinayak Tukarama Kottary",
-          "url": "https://open.spotify.com/artist/1WoDsDTfwQXWDrzrevEfyd"
-        },
-        {
-          "name": "Mohan Kumar N",
-          "url": "https://open.spotify.com/artist/6IHdeveUdgaHWaYxYlbDIe"
-        }
-      ],
-      "duration_ms": 250071,
-      "name": "Kole Kole (From \"Ronny - The Ruler\")",
-      "url": "https://open.spotify.com/track/1WazpE5QqkqnGzHL5d0uyA"
-    },
-    {
       "added_at": "2024-03-04 11:32:38",
       "album": {
         "name": "Mehabooba Title Track (From \"Mehabooba\") - Single",
@@ -1389,38 +1457,6 @@
       "url": "https://open.spotify.com/track/3f65YvWytHE1dz4JrAa6jI"
     },
     {
-      "added_at": "2024-03-14 12:22:29",
-      "album": {
-        "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
-        "url": "https://open.spotify.com/album/7CM0HHVTI6lXDIow8uizGT"
-      },
-      "artists": [
-        {
-          "name": "Kadri Manikanth",
-          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
-        },
-        {
-          "name": "Lekha. R",
-          "url": "https://open.spotify.com/artist/2W0ClaxNGHOk1I8ceMxX9R"
-        },
-        {
-          "name": "Rishan Deepak",
-          "url": "https://open.spotify.com/artist/52K2m7dAzmUYZhbI3ZhZwW"
-        },
-        {
-          "name": "Anushka M",
-          "url": "https://open.spotify.com/artist/0sQI6lZ23Pk88G4wmlCbW6"
-        },
-        {
-          "name": "Achintya K Bhat",
-          "url": "https://open.spotify.com/artist/433Hy4e7ShqMxQu3e4LtMd"
-        }
-      ],
-      "duration_ms": 144071,
-      "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
-      "url": "https://open.spotify.com/track/2gT0mdD11b6jM2uowlaVcu"
-    },
-    {
       "added_at": "2024-03-04 11:32:38",
       "album": {
         "name": "Hithalaka Karibyada Maava (From \"Karataka Damanaka\")",
@@ -1443,30 +1479,6 @@
       "duration_ms": 206206,
       "name": "Hithalaka Karibyada Maava (From \"Karataka Damanaka\")",
       "url": "https://open.spotify.com/track/2MMfYFIcxu0CbLVdsqFI7k"
-    },
-    {
-      "added_at": "2024-03-17 10:21:33",
-      "album": {
-        "name": "Sihi Jena Male (From \"MariGold\")",
-        "url": "https://open.spotify.com/album/6mpqhxyHb8yw3vkRioPvuR"
-      },
-      "artists": [
-        {
-          "name": "Anuradha Bhat",
-          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
-        },
-        {
-          "name": "Veer Samarth",
-          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
-        },
-        {
-          "name": "Yogaraj Bhat",
-          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
-        }
-      ],
-      "duration_ms": 255450,
-      "name": "Sihi Jena Male (From \"MariGold\")",
-      "url": "https://open.spotify.com/track/3UqR3fEANo5TR1t456KQp8"
     },
     {
       "added_at": "2024-03-14 12:22:29",
@@ -1635,82 +1647,6 @@
       "duration_ms": 282549,
       "name": "The Age Of Madness - Kannada",
       "url": "https://open.spotify.com/track/5yICKMOnrZq4HybPhmwJLJ"
-    },
-    {
-      "added_at": "2024-03-04 11:32:38",
-      "album": {
-        "name": "Malaikottai Vaaliban (Kannada)",
-        "url": "https://open.spotify.com/album/6NAqokJsRcEmPfIVBwXWrq"
-      },
-      "artists": [
-        {
-          "name": "Prashant Pillai",
-          "url": "https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK"
-        },
-        {
-          "name": "P.S Rafeeque",
-          "url": "https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        },
-        {
-          "name": "Justin Philipos",
-          "url": "https://open.spotify.com/artist/33fWNx8qcdZEDvpU8flV45"
-        }
-      ],
-      "duration_ms": 170061,
-      "name": "Raakk",
-      "url": "https://open.spotify.com/track/32UZbiFV3u4Nxu5O0dUcA4"
-    },
-    {
-      "added_at": "2024-02-22 10:18:09",
-      "album": {
-        "name": "Kuthoohala (From \"Bisi-Bisi Ice-Cream\")",
-        "url": "https://open.spotify.com/album/4SRI7R6rRIOvCDFrgHzqs3"
-      },
-      "artists": [
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "Jayant Kaikini",
-          "url": "https://open.spotify.com/artist/5p4VpAZm4FEyAeNDELFAMB"
-        }
-      ],
-      "duration_ms": 202723,
-      "name": "Kuthoohala (From \"Bisi-Bisi Ice-Cream\")",
-      "url": "https://open.spotify.com/track/3RaujlV7zWLRwlxuZHtX4r"
-    },
-    {
-      "added_at": "2024-02-23 09:41:22",
-      "album": {
-        "name": "Chandasina Chandadalli (From \"Somu Sound Engineer\")",
-        "url": "https://open.spotify.com/album/32ikgTmRVnrIYk5wMdK1Hj"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha Belmannu",
-          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
-        },
-        {
-          "name": "Meghana Bhat",
-          "url": "https://open.spotify.com/artist/0hjmJwGzgNKERfYBiKPxak"
-        },
-        {
-          "name": "Dhananjay Ranjan",
-          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
-        },
-        {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Chandasina Chandadalli - From \"Somu Sound Engineer\"",
-      "url": "https://open.spotify.com/track/72s4B6XhLm7NcrunF7BT08"
     },
     {
       "added_at": "2024-02-02 13:16:55",

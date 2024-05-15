@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-510 songs - 21 hr 49 min
+512 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Morning Skyline](https://open.spotify.com/track/0W9zDuwcQaRyxk7Z4peRmM) | [Dale Brenan](https://open.spotify.com/artist/3SZHAoiLC6bI4R1Ih2iD5W) | [Morning Skyline](https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs) | 2:29 | 2021-12-07 | 2022-03-17 |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-03-01 |  |
 | [Movement of the Clouds](https://open.spotify.com/track/4tWiogHa4QDJrXk4Ha0h25) | [Saah](https://open.spotify.com/artist/1gu7CrdnoVqZKicUZlyhoa) | [Movement of the Clouds](https://open.spotify.com/album/6wy5uroycQL15o7AgsjiSK) | 2:09 | 2024-01-05 |  |
+| [Moving on](https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Moving on](https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7) | 2:52 | 2024-05-14 |  |
 | [Mursejler](https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa) | 2:58 | 2021-12-07 | 2022-01-19 |
 | [Musing](https://open.spotify.com/track/05NMGDbC92aC738Rd0vYkX) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Musing](https://open.spotify.com/album/4M9m2atcjqVMBoWF2ibcqU) | 2:34 | 2021-12-07 | 2022-04-15 |
 | [Must](https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Autumn Sessions Watching The Apple Tree](https://open.spotify.com/album/7Hxdu0dRtRXxf6lxFHHu1A) | 2:46 | 2021-12-07 | 2023-04-19 |
@@ -356,6 +357,7 @@
 | [Penumbra](https://open.spotify.com/track/4gLQLTrX35MDaVlFSLPUrg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Penumbra](https://open.spotify.com/album/2ORmDGwBuXes6QBLKF7EAf) | 2:22 | 2023-06-20 |  |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-07 | 2022-12-24 |
 | [Pirouette](https://open.spotify.com/track/0NZ7ku5SqkWqij5SXe3FIO) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Pirouette](https://open.spotify.com/album/57Z6mfy4khEp7rRaU6t8hU) | 2:19 | 2023-04-18 |  |
+| [Places](https://open.spotify.com/track/4DWMufkvX438r7JBAJ2efc) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Places](https://open.spotify.com/album/0qrg9kqWFOZsiwQM5o418l) | 3:30 | 2024-05-14 |  |
 | [Poetry](https://open.spotify.com/track/2rlOcXfBwMlZfMvXGvSkU7) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Poetry](https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8) | 3:01 | 2023-03-29 |  |
 | [Pool of light](https://open.spotify.com/track/638iDsayTPgIScb5MSn4Qz) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Memoir](https://open.spotify.com/album/6ouP03HKu8kKGIZGXU4JcL) | 2:29 | 2022-09-20 |  |
 | [Pose](https://open.spotify.com/track/2Y2bYMpbNkHoQp0DwlSIej) | [Følgesvend](https://open.spotify.com/artist/3HFQhWHwDYkmK1x7WkKO78) | [Pose](https://open.spotify.com/album/680IQ3Ck2y4b6zmuP7vg1D) | 2:06 | 2024-03-04 |  |

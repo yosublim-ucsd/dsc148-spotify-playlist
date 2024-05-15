@@ -2,7 +2,7 @@
 
 ### [This Is Simon & Garfunkel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO48MYmY)
 
-> This is Simon & Garfunkel\. The essential tracks, all in one playlist.
+> This Is Simon & Garfunkel\. Les titres incontournables, réunis dans une seule et même playlist.
 
 53 songs - 2 hr 35 min
 

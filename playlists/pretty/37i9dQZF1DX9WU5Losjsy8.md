@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,713 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,830 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 72 | [Grapefruit](https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Julia Engelmann](https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK), [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06) | [Grapefruit](https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo) | 3:04 |
 | 73 | [Ich schieß mich weg](https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Micha von der Rampe](https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w) | [Ich schieß mich weg](https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg) | 2:07 |
 | 74 | [Sweet Caroline \- Party Remix](https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Sweet Caroline \(Party Remix\)](https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93) | 3:26 |
-| 75 | [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 |
-| 76 | [Felicità \- Stereoact Remix](https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw) | [Felicità \(Stereoact Remix\)](https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG) | 2:28 |
+| 75 | [Felicità \- Stereoact Remix](https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw) | [Felicità \(Stereoact Remix\)](https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG) | 2:28 |
+| 76 | [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 |
 | 77 | [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 |
 | 78 | [Klempner Klaus](https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY) | [GABBY](https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Klempner Klaus](https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL) | 2:35 |
 | 79 | [Arielle](https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Arielle](https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z) | 3:25 |

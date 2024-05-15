@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-591 songs - 1 day 1 hr 37 min
+592 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Full Of Life](https://open.spotify.com/track/2YsCoCOAiyDziuyHATGgz6) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Full Of Life](https://open.spotify.com/album/4vFDgnDqr5AQNnc1kElFQU) | 2:08 | 2023-03-21 |  |
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-04-22 | 2023-05-04 |
 | [Geniality](https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Geniality](https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn) | 2:50 | 2022-04-22 |  |
+| [Give Me Love](https://open.spotify.com/track/4iQvog1874l8QQsOuzPMW6) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Give Me Love](https://open.spotify.com/album/0zSP1ER1taYJi00AMyD9S1) | 2:21 | 2024-05-14 |  |
 | [Glow](https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Glow](https://open.spotify.com/album/0XirurPx9hImK25nVbAGXo) | 2:23 | 2022-04-22 | 2023-01-27 |
 | [Gnossienne: No.1 \(Satie Reworks\) \- Spotify Singles](https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 2:39 | 2022-04-22 |  |
 | [Gocce d'acqua](https://open.spotify.com/track/5GYKdUcKo5iuhHla2ekgS9) | [Andrea Binotto](https://open.spotify.com/artist/5Xns08ygOlTCdopDUjG9x7) | [Gocce d'acqua](https://open.spotify.com/album/575inVw37bOZM4Kn5Pa37f) | 1:49 | 2022-04-22 | 2023-07-19 |

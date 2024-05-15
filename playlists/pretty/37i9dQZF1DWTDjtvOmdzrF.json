@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 554598,
+  "num_followers": 554620,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-05-08 07:15:33",
       "album": {
+        "name": "Apa Mungkin (Demo Version)",
+        "url": "https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Apa Mungkin - Demo Version",
+      "url": "https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA"
+    },
+    {
+      "added_at": "2024-05-08 07:15:33",
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 236394,
       "name": "Bicara (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
-    },
-    {
-      "added_at": "2024-05-08 07:15:33",
-      "album": {
-        "name": "Apa Mungkin (Demo Version)",
-        "url": "https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Apa Mungkin - Demo Version",
-      "url": "https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA"
     },
     {
       "added_at": "2024-05-08 07:15:33",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-05-08 07:15:33",
       "album": {
-        "name": "DIA",
-        "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
+        "name": "Tanpa Pamrih",
+        "url": "https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe"
       },
       "artists": [
         {
-          "name": "Anji",
-          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
         }
       ],
-      "duration_ms": 207490,
-      "name": "Dia - Hits Single",
-      "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
+      "duration_ms": 212968,
+      "name": "Tanpa Pamrih",
+      "url": "https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr"
     }
   ],
   "unique_name": "Kopikustik",

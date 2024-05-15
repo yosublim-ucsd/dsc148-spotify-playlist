@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > that's how we do it
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,425 likes - 209 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,527 likes - 209 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

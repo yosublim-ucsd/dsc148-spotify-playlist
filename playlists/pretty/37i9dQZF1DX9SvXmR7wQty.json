@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Hay Babies",
-  "num_followers": 40642,
+  "num_followers": 40649,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Recommence-moi",
-        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
       },
       "artists": [
         {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 196334,
-      "name": "Recommence-moi",
-      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -235,22 +239,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "SPIDER",
-        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
+        "name": "Recommence-moi",
+        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
         }
       ],
-      "duration_ms": 188818,
-      "name": "SPIDER",
-      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
+      "duration_ms": 196334,
+      "name": "Recommence-moi",
+      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -335,6 +335,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Quill\u00e9",
+        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 180107,
+      "name": "Quill\u00e9",
+      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "RSQ3",
         "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
       },
@@ -371,22 +391,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Marina",
         "url": "https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp"
       },
@@ -403,6 +407,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Faut que tu m'aimes",
         "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 192998,
       "name": "Faut que tu m'aimes",
       "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Plus fort.",
-        "url": "https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk"
-      },
-      "artists": [
-        {
-          "name": "Bekar",
-          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Finalement",
-      "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -479,38 +479,42 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "5am in Paris",
-        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
+        "name": "Plus fort.",
+        "url": "https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 135179,
-      "name": "5am in Paris",
-      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
+      "duration_ms": 204986,
+      "name": "Finalement",
+      "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
     },
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Quill\u00e9",
-        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
+        "name": "Confidences",
+        "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
         },
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 180107,
-      "name": "Quill\u00e9",
-      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
+      "duration_ms": 128197,
+      "name": "Confidences",
+      "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -551,6 +555,38 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 135179,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Nothing Personal - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 178122,
+      "name": "Nothing Personal - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -571,22 +607,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Confidences",
-        "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
+        "name": "Kulule",
+        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 128197,
-      "name": "Confidences",
-      "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
+      "duration_ms": 157281,
+      "name": "Kulule",
+      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -675,18 +707,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Kulule",
-        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
+        "name": "L'\u00e9cole des Stars",
+        "url": "https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 157281,
-      "name": "Kulule",
-      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
+      "duration_ms": 191880,
+      "name": "No makeup",
+      "url": "https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -707,42 +743,6 @@
       "duration_ms": 199411,
       "name": "JOE PESCI",
       "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Nothing Personal - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 178122,
-      "name": "Nothing Personal - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "L'\u00e9cole des Stars",
-        "url": "https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv"
-      },
-      "artists": [
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 191880,
-      "name": "No makeup",
-      "url": "https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Page blanche",
+        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "Du feu",
+      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "SHE LIT",
         "url": "https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 219773,
       "name": "rentrer chez moi",
       "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Page blanche",
-        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
-      },
-      "artists": [
-        {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "Du feu",
-      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
     },
     {
       "added_at": "2024-05-10 04:00:00",

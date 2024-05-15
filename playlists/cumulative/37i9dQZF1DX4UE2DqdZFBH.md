@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-131 songs - 10 hr 25 min
+133 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bhagyada Lakshmi Baramma \- Instrumental](https://open.spotify.com/track/0cckP8UhJqr6XhQ3ijAuTD) | [Veena Srivani](https://open.spotify.com/artist/2IXmArsz1OFUyiIFLZIUsD) | [Bhagyada Lakshmi Baramma \(Instrumental\) \- Single](https://open.spotify.com/album/3QlVv7CsHbeKypUyGGwgqv) | 5:52 | 2022-06-10 |  |
 | [Bhatiyali \- Based on : Pahadi Jhinjhit](https://open.spotify.com/track/7LRkmYtrvZjH4nZaYlEEAs) | [Bidyut Khan Band](https://open.spotify.com/artist/1gOYLPSgVPPiSIsaBHh5Xd), [Lucyan](https://open.spotify.com/artist/00iiLc3ejnD5C6rjCjWned) | [Ragas: Classical Indian music for sarod, sitar and tabla](https://open.spotify.com/album/08CSfF5H2SWzz5KKX5tngY) | 5:05 | 2022-06-10 |  |
 | [Bhatiyali Dhun](https://open.spotify.com/track/0MMPQrXP5jBN6jXhvyJaMP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 7:16 | 2023-04-19 |  |
+| [Bhenge Mor Ghawrer Chabi](https://open.spotify.com/track/4isMsWHPQvwGewHEflkkGD) | [Sayandeep Roy](https://open.spotify.com/artist/2MLDiUrNZrHeXWMzlkjQGF) | [Ode To My Beloved \(Bhalobeshe Shokhi\)](https://open.spotify.com/album/2gaJaqnhluGbirPSDqJsyg) | 5:04 | 2024-05-14 |  |
 | [Black Hole Sun](https://open.spotify.com/track/4XEpk6upsPlA9lWkggG1B5) | [Bombay Acoustic People](https://open.spotify.com/artist/50m59tvsDkckztXUDOaZwU) | [A Reclaimed Interval](https://open.spotify.com/album/0IcL9FQ2Tz0LLhPi2vhiPa) | 4:35 | 2022-06-10 |  |
 | [Blossom](https://open.spotify.com/track/1fSASLRRwjPfVPF4vpQ3Gu) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv), [Aaron Sinclair](https://open.spotify.com/artist/30qeoFS7dHDWrD9idbcpLf) | [Blossom](https://open.spotify.com/album/6dZTgBjODMPiJZrijZ5MQN) | 5:58 | 2022-06-10 |  |
 | [Bowling For Peace](https://open.spotify.com/track/7AkQooU3Nmt0TpXMAdTqiH) | [Prasanna](https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ) | [Electric Ganesha Land](https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699) | 7:06 | 2022-06-10 |  |
@@ -86,6 +87,7 @@
 | [Mind In Wonderland](https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:35 | 2022-06-10 |  |
 | [Moham](https://open.spotify.com/track/4PfJiqveZXLbVBFtjs0x49) | [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Moham](https://open.spotify.com/album/1UVHplxcDWk2hRZXtUJoCx) | 5:16 | 2022-06-10 |  |
 | [Mon Kharaper Bristi](https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:03 | 2022-06-10 |  |
+| [Mone Ki Dwidha](https://open.spotify.com/track/5jRxDq3gSXqxZoDy6O8jL3) | [Sayandeep Roy](https://open.spotify.com/artist/2MLDiUrNZrHeXWMzlkjQGF) | [Ode To My Beloved \(Bhalobeshe Shokhi\)](https://open.spotify.com/album/2gaJaqnhluGbirPSDqJsyg) | 4:16 | 2024-05-14 |  |
 | [Monsoon Melodies](https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU) | [Bhooshan Gogad](https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B) | [Monsoon Melodies](https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60) | 4:56 | 2023-08-19 |  |
 | [Mukti](https://open.spotify.com/track/6n5ZoPiavpCUYSl9pmDXIj) | [Madhav Gopi Nair](https://open.spotify.com/artist/40Ww8FrhtcfhUOkCZdS3W0), [Akash S Menon](https://open.spotify.com/artist/4Ymsfydwf88TZH86sHDW8D) | [Mukti](https://open.spotify.com/album/6sqUHY8P1HVLfMCLJng7tY) | 1:51 | 2022-06-10 |  |
 | [Mumtaz](https://open.spotify.com/track/2Fehmrt3lh2kBdFjRI8v3f) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Bombay Dub Orchestra](https://open.spotify.com/album/4vRhEwSJAPGam5L9qv9FAV) | 4:11 | 2022-06-10 | 2023-09-06 |

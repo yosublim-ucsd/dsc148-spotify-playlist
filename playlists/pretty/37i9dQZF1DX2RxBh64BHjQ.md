@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1GVenmuuAtusi17LY6FvgI">Skilla Baby</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,754,512 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,754,685 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 27 | [LIFE LESSON](https://open.spotify.com/track/7J76km0mxxnV8aZCsFI0IN) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [LIFE LESSON](https://open.spotify.com/album/0U6xL9lUzQMSogzT9c4Kp8) | 2:38 |
 | 28 | [Letter to the Devil](https://open.spotify.com/track/0ycS8LLvSE22HJehLiQkDq) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Letter to the Devil](https://open.spotify.com/album/1vzVIXrFsau80EgjAK4pl8) | 2:25 |
 | 29 | [Again](https://open.spotify.com/track/0UpdzAadhUQrtVnvPk27TF) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Again](https://open.spotify.com/album/0gj9UOb9ldseO9TLeonJwX) | 2:10 |
-| 30 | [Zuper](https://open.spotify.com/track/5cMju8aHhROILtAHKsSO4A) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Zuper](https://open.spotify.com/album/44s9T0FGkafvdrtJ86YEq2) | 2:39 |
+| 30 | [Zuper \(feat\. Wizz Havinn\)](https://open.spotify.com/track/5cMju8aHhROILtAHKsSO4A) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Zuper \(feat\. Wizz Havinn\)](https://open.spotify.com/album/44s9T0FGkafvdrtJ86YEq2) | 2:39 |
 | 31 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
 | 32 | [Get In With Me](https://open.spotify.com/track/4iEoDBAgMJIzest7VsDgmT) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Get In With Me](https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx) | 2:00 |
 | 33 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 |

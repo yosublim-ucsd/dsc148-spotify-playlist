@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132845,
+  "num_followers": 132854,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Tiny Wooden Box",
-        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 247813,
-      "name": "Tiny Wooden Box",
-      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 182826,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 247813,
+      "name": "Tiny Wooden Box",
+      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3feW7kGBFTj5Yz4hd8pJ9o"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/5UAOBkqsoyC3FFiM6L8hiy"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Small Towns",
         "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
       },
@@ -1139,38 +1155,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3feW7kGBFTj5Yz4hd8pJ9o"
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 177909,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/5UAOBkqsoyC3FFiM6L8hiy"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "A Man Like Me",
-        "url": "https://open.spotify.com/album/0AiJjqdbbE94F6ZApdCdxf"
-      },
-      "artists": [
-        {
-          "name": "Junior Sisk",
-          "url": "https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp"
-        },
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "A Man Like Me",
-      "url": "https://open.spotify.com/track/0k6ieXUPtOUcqwjqPBLRmU"
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1199,18 +1195,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+        "name": "A Man Like Me",
+        "url": "https://open.spotify.com/album/0AiJjqdbbE94F6ZApdCdxf"
       },
       "artists": [
         {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+          "name": "Junior Sisk",
+          "url": "https://open.spotify.com/artist/2MgBNWdCITP6PKZirrJslp"
+        },
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
         }
       ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
+      "duration_ms": 172440,
+      "name": "A Man Like Me",
+      "url": "https://open.spotify.com/track/0k6ieXUPtOUcqwjqPBLRmU"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "The Gavel",
-        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "The Gavel",
-      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Living In A Song",
         "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 163000,
       "name": "Blues of the Night",
       "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "The Gavel",
+        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "The Gavel",
+      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "I'd Rather Be Alone",
+        "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 210998,
+      "name": "I'd Rather Be Alone",
+      "url": "https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Maria with a \"J\"",
         "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
       },
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "I'd Rather Be Alone",
-        "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
         }
       ],
-      "duration_ms": 210998,
-      "name": "I'd Rather Be Alone",
-      "url": "https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49"
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1455,22 +1471,6 @@
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
-      },
-      "artists": [
-        {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Finnland",
-        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
-      },
-      "artists": [
-        {
-          "name": "Daniel Grindstaff",
-          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Finnland",
-      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Something You Didn't Count On",
         "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
       },
@@ -1555,22 +1539,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Mr. Charlie",
-        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+        "name": "Finnland",
+        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        },
-        {
-          "name": "Josh Shilling",
-          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
         }
       ],
-      "duration_ms": 273627,
-      "name": "Mr. Charlie",
-      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+      "duration_ms": 165853,
+      "name": "Finnland",
+      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1595,6 +1575,26 @@
       "duration_ms": 191813,
       "name": "Sunny Days (Are Comin' Once Again)",
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Mr. Charlie",
+        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        },
+        {
+          "name": "Josh Shilling",
+          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+        }
+      ],
+      "duration_ms": 273627,
+      "name": "Mr. Charlie",
+      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Kentucky for Me",
+        "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Kentucky Gold",
+      "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Behind the 8 Ball",
         "url": "https://open.spotify.com/album/2kOm9yf2fKb589wXfucWP7"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 189086,
       "name": "When It All Falls Apart",
       "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Kentucky for Me",
-        "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
-      },
-      "artists": [
-        {
-          "name": "Dale Ann Bradley",
-          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Kentucky Gold",
-      "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
     },
     {
       "added_at": "2024-05-10 04:01:00",

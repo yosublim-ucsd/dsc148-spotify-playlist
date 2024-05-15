@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Groovy 90S Hits!",
+        "url": "https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9"
+      },
+      "artists": [
+        {
+          "name": "Missy Five",
+          "url": "https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194425,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf"
+    },
+    {
+      "album": {
         "name": "James Arthur (Deluxe)",
         "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
       },

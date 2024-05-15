@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,748 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,751 likes - 510 songs - 1 day 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 172 | [I Feel Beautiful](https://open.spotify.com/track/1AtjPqqE1L2QWWea0kCeQu) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:31 |
 | 173 | [What We Leave Behind](https://open.spotify.com/track/1hSC6vWh3Rzkn9JSWicerC) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Miss You Already \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OJEishIRloK73nEQ5y8Eh) | 3:12 |
 | 174 | [Miss A Thing](https://open.spotify.com/track/29DetDMNVbKCSOC3xy5RFx) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Miss A Thing](https://open.spotify.com/album/68PSnfez6PECnFMVQmjZzh) | 2:34 |
-| 175 | [Love On A Rooftop](https://open.spotify.com/track/391b0hw6MBlVreaHd1wTyU) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:25 |
-| 176 | [Tears in the Rain](https://open.spotify.com/track/21SxSkte44lujQBTfRuSwq) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [Legends](https://open.spotify.com/album/4Yn2tIGnNwUcfahxGvw1Vb) | 4:35 |
+| 175 | [Tears in the Rain](https://open.spotify.com/track/21SxSkte44lujQBTfRuSwq) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [Legends](https://open.spotify.com/album/4Yn2tIGnNwUcfahxGvw1Vb) | 4:35 |
+| 176 | [Love On A Rooftop](https://open.spotify.com/track/391b0hw6MBlVreaHd1wTyU) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:25 |
 | 177 | [What Do I Do With The Love](https://open.spotify.com/track/6qwotLZ6V1QGoSTc6bGCaZ) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:46 |
 | 178 | [Satisfaction](https://open.spotify.com/track/7twfQ9tExZor0CaC3FogKj) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 3:52 |
 | 179 | [Give Me You](https://open.spotify.com/track/2rOrfNp466dn28CP01eVCa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 5:05 |
@@ -516,6 +516,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 506 | [I want it to be me](https://open.spotify.com/track/02AL6ZhgaPtegJ1ZsGUB1O) | [Kyle Grant](https://open.spotify.com/artist/0AQwmvhVn1UuoGOG5DOynX) | [When Dreams Go Out To Play](https://open.spotify.com/album/7fohMuB9oEyVTzjenU9xvY) | 3:53 |
 | 507 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 |
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
-| 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
+| 509 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
+| 510 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbRQYgAAAACridzGB61EkNNpFpYWNjHs`
+Snapshot ID: `AbRV/gAAAAA27NnuKf4VBekCM2E2JzG7`

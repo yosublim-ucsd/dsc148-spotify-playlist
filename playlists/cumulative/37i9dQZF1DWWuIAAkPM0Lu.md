@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4ysmSq2N7badobfVT6YZ82">Gobs</a> giver dig fuld pop på New Music Friday☀️
 
-313 songs - 15 hr 49 min
+314 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Montagem Rave Eterno](https://open.spotify.com/track/18LrtjUyMolXdhGsKg2Ybu) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Montagem Rave Eterno](https://open.spotify.com/album/2O5sCzUA7DLkP0tSoypMVn) | 1:40 | 2024-05-02 | 2024-05-10 |
 | [Mountains](https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Mountains](https://open.spotify.com/album/2pgyKAkm9xy1CtxjLusURR) | 2:58 | 2024-05-09 |  |
 | [Move It](https://open.spotify.com/track/3QxRJ0aTXHCubIjCgRvVRq) | [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Camilia](https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ) | [Move It](https://open.spotify.com/album/3YnA0xM8UV4dvsUTUhm2bS) | 2:32 | 2024-05-02 | 2024-05-10 |
+| [My Dear Rat Kings](https://open.spotify.com/track/4f19ilacpJII4k91nQiHYN) | [Ghost Iris](https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka) | [My Dear Rat Kings](https://open.spotify.com/album/6CWn3QyCDxitE94RWGQxS6) | 3:48 | 2024-05-10 |  |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-02 | 2024-05-10 |
 | [Mågen](https://open.spotify.com/track/6xMtEKMZvgSSkBHA311MjA) | [Jacob Haugaard](https://open.spotify.com/artist/0i6usqMobtDshYpnUOqhpu) | [Mågen](https://open.spotify.com/album/5Yi5ldvUeC4tgdF8phzqr8) | 3:57 | 2024-05-02 | 2024-05-10 |
 | [Måske Har Det Været Så Godt Som Det Bli'r](https://open.spotify.com/track/5dW6xw7ona67t69V9iZXEC) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Sytten](https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J) | 3:33 | 2024-05-02 | 2024-05-10 |

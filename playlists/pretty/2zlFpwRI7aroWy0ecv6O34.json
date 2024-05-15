@@ -1493,7 +1493,7 @@
         }
       ],
       "duration_ms": 385000,
-      "name": "2 Serenades, Op. 69: Serenade No. 1 in D Major, Op. 69, No. 1",
+      "name": "2 Serenades for Violin & Orchestra, Op. 69: No. 1 in D Major",
       "url": "https://open.spotify.com/track/1YklMisLq3aZDqChPq2L2A"
     },
     {
@@ -1521,7 +1521,7 @@
         }
       ],
       "duration_ms": 420000,
-      "name": "2 Serenades, Op. 69: Serenade No. 2 in G Minor, Op. 69, No. 2",
+      "name": "2 Serenades for Violin & Orchestra, Op. 69: No. 2 in G Minor",
       "url": "https://open.spotify.com/track/1ZR9zA3MxtB1DEd6GHlQYk"
     },
     {
@@ -2805,7 +2805,7 @@
         }
       ],
       "duration_ms": 188280,
-      "name": "Serenade, Op. 127*: I. Maestoso",
+      "name": "S\u00e9r\u00e9nade, Op. 127: I. Maestoso",
       "url": "https://open.spotify.com/track/4YjsNXLurC69AfGwg5k9cx"
     },
     {
@@ -2829,7 +2829,7 @@
         }
       ],
       "duration_ms": 220320,
-      "name": "Serenade, Op. 127*: II. Minuetto. Allegretto",
+      "name": "S\u00e9r\u00e9nade, Op. 127: II. Minuetto. Allegretto",
       "url": "https://open.spotify.com/track/0R7TAoaYPbRayGTZaAzAwG"
     },
     {
@@ -2853,7 +2853,7 @@
         }
       ],
       "duration_ms": 378360,
-      "name": "Serenade, Op. 127*: III. Andantino mosso (Theme and three variations)",
+      "name": "S\u00e9r\u00e9nade, Op. 127: III. Andantino mosso (Theme and three variations)",
       "url": "https://open.spotify.com/track/7lLl6Xqu7OdCWYuGLnYyHA"
     },
     {
@@ -2877,7 +2877,7 @@
         }
       ],
       "duration_ms": 190080,
-      "name": "Serenade, Op. 127*: IV. Rondo. Allegro",
+      "name": "S\u00e9r\u00e9nade, Op. 127: IV. Rondo. Allegro",
       "url": "https://open.spotify.com/track/0bH0PE9t0dLePS7CfkU5S7"
     },
     {
@@ -2887,6 +2887,10 @@
         "url": "https://open.spotify.com/album/0gZf6zOKYSoK6j7eFno2PZ"
       },
       "artists": [
+        {
+          "name": "Lars-Erik Larsson",
+          "url": "https://open.spotify.com/artist/7fFoO8E3rLkTJBItdhAwCy"
+        },
         {
           "name": "Musica Vitae Chamber Orchestra",
           "url": "https://open.spotify.com/artist/43GH1vjVg0rs6uu6APET05"
@@ -2908,6 +2912,10 @@
       },
       "artists": [
         {
+          "name": "Lars-Erik Larsson",
+          "url": "https://open.spotify.com/artist/7fFoO8E3rLkTJBItdhAwCy"
+        },
+        {
           "name": "Musica Vitae Chamber Orchestra",
           "url": "https://open.spotify.com/artist/43GH1vjVg0rs6uu6APET05"
         },
@@ -2928,6 +2936,10 @@
       },
       "artists": [
         {
+          "name": "Lars-Erik Larsson",
+          "url": "https://open.spotify.com/artist/7fFoO8E3rLkTJBItdhAwCy"
+        },
+        {
           "name": "Musica Vitae Chamber Orchestra",
           "url": "https://open.spotify.com/artist/43GH1vjVg0rs6uu6APET05"
         },
@@ -2947,6 +2959,10 @@
         "url": "https://open.spotify.com/album/0gZf6zOKYSoK6j7eFno2PZ"
       },
       "artists": [
+        {
+          "name": "Lars-Erik Larsson",
+          "url": "https://open.spotify.com/artist/7fFoO8E3rLkTJBItdhAwCy"
+        },
         {
           "name": "Musica Vitae Chamber Orchestra",
           "url": "https://open.spotify.com/artist/43GH1vjVg0rs6uu6APET05"

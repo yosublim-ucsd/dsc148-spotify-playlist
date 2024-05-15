@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,700 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,727 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 51 | [Be Cool \- Radio Edit](https://open.spotify.com/track/38TAtcKt2mSIKV5aq9eVtL) | [Paffendorf](https://open.spotify.com/artist/6ncUTZAXal93c05AUvr94d) | [Planet Dance](https://open.spotify.com/album/6uqNJA1m50rvcgj6xu4qNK) | 3:32 |
 | 52 | [Perfect World \- Richi's Single Version](https://open.spotify.com/track/1QhpilbZHay4zqXmx5TGS1) | [Richi M.](https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b) | [Perfect World](https://open.spotify.com/album/7qcPuZtuCMxMwJLKeZZZlc) | 4:09 |
 | 53 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
-| 54 | [Out of the Blue \- Radio Edit](https://open.spotify.com/track/0t8fgj3EHfChyTeCT2th22) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue Remastered](https://open.spotify.com/album/6Opf5LVPBWGOhCSYY5yTQZ) | 3:54 |
-| 55 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
-| 56 | [For An Angel \- Radio Edit](https://open.spotify.com/track/1xWsg53VIHw0iTTDAGHJ4Q) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:51 |
+| 54 | [For An Angel \- Radio Edit](https://open.spotify.com/track/1xWsg53VIHw0iTTDAGHJ4Q) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:51 |
+| 55 | [Out of the Blue \- Radio Edit](https://open.spotify.com/track/0t8fgj3EHfChyTeCT2th22) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue Remastered](https://open.spotify.com/album/6Opf5LVPBWGOhCSYY5yTQZ) | 3:54 |
+| 56 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/2BrQKigNLErWheTt6nXYXZ) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2IHaZr494ZaU2M4mYmIqaq) | 3:39 |
 | 57 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
 | 58 | [You](https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:07 |
 | 59 | [Gouryella \- Radio Edit](https://open.spotify.com/track/1EAxDiugDns3MDRYENPjko) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/0qRJZ8hAlDxAVrnJpzqL6O) | 3:42 |

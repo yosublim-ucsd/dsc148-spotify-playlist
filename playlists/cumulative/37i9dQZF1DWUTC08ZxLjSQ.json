@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Seera band. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Dania. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 144000,
       "name": "3 Shoroot",
       "url": "https://open.spotify.com/track/3nISIjEGMkx6gddsXOcImZ"
@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Bahlam Maak",
+        "url": "https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Bahlam Maak",
+      "url": "https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC"
+    },
+    {
+      "album": {
         "name": "Bako",
         "url": "https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc"
       },
@@ -484,7 +502,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 167971,
       "name": "Beginning of a New Chapter",
       "url": "https://open.spotify.com/track/7HcPxC0zycaBSQxN6jwLVN"
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 170181,
       "name": "Diaba",
       "url": "https://open.spotify.com/track/5VYZq4SHVLtZgUZKU0rNlB"
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 208421,
       "name": "Fakes",
       "url": "https://open.spotify.com/track/7nyeq7E5Jpv5cQ4QguS56T"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 182934,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7ptstvvTmIBlhEqWmWTDiH"
@@ -2467,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Little Typhoons (Versions)",
+        "url": "https://open.spotify.com/album/4Dkm826JzBtLSJTYDOv2wR"
+      },
+      "artists": [
+        {
+          "name": "Maryam Shehab",
+          "url": "https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171284,
+      "name": "Little Typhoons",
+      "url": "https://open.spotify.com/track/5xPmPd3VVxC9wiOH2PahL5"
+    },
+    {
+      "album": {
         "name": "Living Hell",
         "url": "https://open.spotify.com/album/4gpNHmz52QOOfQzGvFGFNh"
       },
@@ -2611,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Mademoiselle",
+        "url": "https://open.spotify.com/album/1ItCnlUOkiAoyOuDwWo5Kn"
+      },
+      "artists": [
+        {
+          "name": "Casa Vince",
+          "url": "https://open.spotify.com/artist/4g6yjgUDDKTVTjoPoFpgSb"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167568,
+      "name": "Mademoiselle",
+      "url": "https://open.spotify.com/track/6qjU4sZnbaRGOdJ4ikXFck"
+    },
+    {
+      "album": {
         "name": "Magnesium",
         "url": "https://open.spotify.com/album/4EmTcy8IQD4PDLyj5KoUAk"
       },
@@ -2676,7 +2730,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 222000,
       "name": "MANAM",
       "url": "https://open.spotify.com/track/2Ab1aWmXbgviR9enjttKWw"
@@ -2698,7 +2752,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 280975,
       "name": "Maneyama",
       "url": "https://open.spotify.com/track/3iqXIZ2kihfbHNfFJJYzI2"
@@ -2716,7 +2770,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 207608,
       "name": "Mashour",
       "url": "https://open.spotify.com/track/3SxuYBLjoTihfngUtyERD1"
@@ -2922,7 +2976,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 217312,
       "name": "Msh Malak",
       "url": "https://open.spotify.com/track/0eAx8B7Sen5tSi1agE70hn"
@@ -3366,7 +3420,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 162272,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/0BspGNZnyQrXEahQO7HYt6"
@@ -3518,7 +3572,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 213142,
       "name": "perfect lover",
       "url": "https://open.spotify.com/track/3jK3KsVbAtrBtTYtlucfoz"
@@ -4011,6 +4065,32 @@
     },
     {
       "album": {
+        "name": "Snakes",
+        "url": "https://open.spotify.com/album/3UvscGErHoaGL4rSKMsDTt"
+      },
+      "artists": [
+        {
+          "name": "YSN Lowkey",
+          "url": "https://open.spotify.com/artist/2gaO2Gwf588OnnaDwArIAW"
+        },
+        {
+          "name": "FIG\u016aREZ",
+          "url": "https://open.spotify.com/artist/5Yz17zWo8Kqau4oOkiiQD8"
+        },
+        {
+          "name": "YSN Culture",
+          "url": "https://open.spotify.com/artist/2kKrp6oGF1M4w8EdH6JUeW"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/4oWV6PKAHJNoX2klvLHNW6"
+    },
+    {
+      "album": {
         "name": "Something I Need",
         "url": "https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX"
       },
@@ -4230,7 +4310,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 204571,
       "name": "Summer Wine",
       "url": "https://open.spotify.com/track/5Y6f8jUkusHxnKK1ILHG4e"
@@ -4306,6 +4386,24 @@
       "duration_ms": 150857,
       "name": "Taqa",
       "url": "https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN"
+    },
+    {
+      "album": {
+        "name": "Telephone",
+        "url": "https://open.spotify.com/album/14KtnblxrNmq7ToGOp0PBq"
+      },
+      "artists": [
+        {
+          "name": "Louis LS",
+          "url": "https://open.spotify.com/artist/3sN5oyOnNGOETUpAA50xYW"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141918,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/4Z14OEDS8ryZxcr2co4P9U"
     },
     {
       "album": {
@@ -5115,6 +5213,28 @@
     },
     {
       "album": {
+        "name": "\u0633\u0643\u0631",
+        "url": "https://open.spotify.com/album/6te4W3H4rMPEVj1cgR2ZE5"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv"
+        },
+        {
+          "name": "Yung DrowN",
+          "url": "https://open.spotify.com/artist/0SnhNNbdHuHe5ezJ9ztdQT"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262317,
+      "name": "\u0633\u0643\u0631",
+      "url": "https://open.spotify.com/track/06AmBlF4cSGYkLJvQ5JSSk"
+    },
+    {
+      "album": {
         "name": "\u0639\u0645\u0644 \u0641\u0646\u064a",
         "url": "https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0"
       },
@@ -5192,6 +5312,60 @@
       "duration_ms": 150000,
       "name": "\u0645\u062d\u064a \u0627\u0644\u062f\u064a\u0646 \u0645\u0635\u062f\u0642",
       "url": "https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0634 \u0641\u0643\u0631\u0627\u0643",
+        "url": "https://open.spotify.com/album/1S6tg4sPr8vWLdpDZ0kN0y"
+      },
+      "artists": [
+        {
+          "name": "Nourine",
+          "url": "https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178548,
+      "name": "\u0645\u0634 \u0641\u0643\u0631\u0627\u0643",
+      "url": "https://open.spotify.com/track/42ENvcce0GTKKp9VkQTH64"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0648\u0627\u0648\u064a\u0644",
+        "url": "https://open.spotify.com/album/5Jfv379VriB4IgbrwSvpRN"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Raies",
+          "url": "https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148969,
+      "name": "\u0645\u0648\u0627\u0648\u064a\u0644",
+      "url": "https://open.spotify.com/track/3JmafIV8VSpCqf17uxcyj2"
+    },
+    {
+      "album": {
+        "name": "\u0648 \u0623\u0646\u0627 \u0645\u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/3wbG98cMVwm7ms7GvHcwib"
+      },
+      "artists": [
+        {
+          "name": "DJIZA",
+          "url": "https://open.spotify.com/artist/21wg9OKxtB2sZVuhBaEwCk"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "\u0648 \u0623\u0646\u0627 \u0645\u0627\u0644\u064a",
+      "url": "https://open.spotify.com/track/2aCE78ZsW1t42bMPz8G5wP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Kant
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,038 likes - 73 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,033 likes - 73 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 51 | [Só Era Nós](https://open.spotify.com/track/7nJ4wRW6vdHLR7FosmdeAT) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Só Era Nós](https://open.spotify.com/album/4xm2JGYOqNOYNkHdqGG7bf) | 3:14 |
 | 52 | [Praise](https://open.spotify.com/track/1R4Vo02hRTKffcLGGE1Huu) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Praise](https://open.spotify.com/album/5OIkEAE0C0IHiVIQe4YQRU) | 2:39 |
 | 53 | [SP Capital](https://open.spotify.com/track/27mibYlhKxG500N1HIyHy9) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [janderson fundação](https://open.spotify.com/artist/5HcWnzCSCqQ218lLa1ewvb), [DJ Faveliano](https://open.spotify.com/artist/53SS1Ab7P1dG97hT8jwAKQ) | [SP Capital](https://open.spotify.com/album/6Ks8cwo1O3W6FRuH1vRqRj) | 3:16 |
-| 54 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 |
+| 54 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 |
 | 55 | [ALFORRIA](https://open.spotify.com/track/3mZUy1LWhpfdwr2OAZb1FE) | [Onã](https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl), [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa), [Dinho](https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p) | [ALFORRIA](https://open.spotify.com/album/51GnTblpTTgwsptmLsh6Ra) | 2:28 |
 | 56 | [Zero Blefe](https://open.spotify.com/track/5vlxZwaWZwHu1ykl77g1Wp) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Baga](https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q), [DoisF](https://open.spotify.com/artist/54ufZkMGGcZtj6P7KTTDPS), [Arede](https://open.spotify.com/artist/0C75wtl2XuUJCfZx8wk601) | [Zero Blefe](https://open.spotify.com/album/4IiXdLyvkgBEtQzuEj5dYg) | 3:07 |
 | 57 | [No Estudio 1 \- Chora](https://open.spotify.com/track/4xs0Qh9eIrjVtuyFZoOpVy) | [Bob do Contra](https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP), [Blessbls](https://open.spotify.com/artist/3ZgYOtWHGSmkJuq503UMtN) | [No Estudio 1 \- Chora](https://open.spotify.com/album/7w3J42qACmxfGNg8UfcaH5) | 2:54 |

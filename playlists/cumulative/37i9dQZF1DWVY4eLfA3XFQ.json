@@ -30493,6 +30493,28 @@
     },
     {
       "album": {
+        "name": "Una Copa M\u00e1s",
+        "url": "https://open.spotify.com/album/7f4mG1YXSEs32fO4X93ekk"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "LVGA",
+          "url": "https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Una Copa M\u00e1s",
+      "url": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d"
+    },
+    {
+      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/4OZkLa9YRSDHvL0jQ8jwyv"
       },
@@ -32210,7 +32232,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 170625,
       "name": "Wildstyle",
       "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"

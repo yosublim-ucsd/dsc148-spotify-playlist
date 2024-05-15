@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Will Clarke
 
-1,035 songs - 2 day 7 hr 25 min
+1,036 songs - 2 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [All I Want](https://open.spotify.com/track/40ydUI6moZMoOd65wbf6oz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Stonefox](https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu) | [All I Want](https://open.spotify.com/album/09daeFM7AXK0INoZ00lTeD) | 2:39 | 2022-06-09 | 2023-05-13 |
 | [All Mine](https://open.spotify.com/track/55vxJOfCXlkiFzELyNTYQm) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [All Mine](https://open.spotify.com/album/71dkC0kz5fl6b0rtjPPeBe) | 2:31 | 2022-08-17 | 2023-04-21 |
 | [All My Life](https://open.spotify.com/track/1AEdLtFcRC1HUBzj97XWTV) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270) | [All My Life](https://open.spotify.com/album/19Vgz8pVKz3MkkR7x8uIZJ) | 2:26 | 2024-04-18 |  |
+| [All On You](https://open.spotify.com/track/5B47MmVywAc1wmoFs0GfKH) | [Chelina Manuhutu](https://open.spotify.com/artist/4IoT1ZwtqNYn1u7q9r62Sy) | [All On You](https://open.spotify.com/album/0vDRLzYZE8nQpkjoFs3NRI) | 3:04 | 2024-05-14 |  |
 | [All This Time Alone](https://open.spotify.com/track/4gvhLNxyZbjDR9pUQVCc1Y) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [The Mannequin](https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6) | [All This Time Alone](https://open.spotify.com/album/7zelNlPuN1e264IHe1d2p4) | 2:54 | 2023-03-02 | 2023-03-25 |
 | [All You Fly Skinners](https://open.spotify.com/track/2uDEfIo9QNMusG3BUgJ1jA) | [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9) | [All You Fly Skinners](https://open.spotify.com/album/0mRHtTCfcUfgNufupjH7A0) | 6:28 | 2024-01-04 |  |
 | [Alone](https://open.spotify.com/track/5gzTGazibS9YC9WHnSJt4H) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Lifeline](https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL) | 3:35 | 2023-02-16 | 2023-06-26 |

@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 190331,
       "name": "1\u30ea\u30c3\u30bf\u30fc\u5206\u306e\u611b\u3092\u3053\u3081\u3066",
       "url": "https://open.spotify.com/track/12CAcVzra8ZX8WGCRs73r9"
@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "flow",
+        "url": "https://open.spotify.com/album/1NF6OH1zKkUa9RmSwdvuA4"
+      },
+      "artists": [
+        {
+          "name": "sugar plant",
+          "url": "https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324797,
+      "name": "flow",
+      "url": "https://open.spotify.com/track/3vvCdYfbz8U7YfUCpxLGCj"
+    },
+    {
+      "album": {
         "name": "20 (Complete Mixtape)",
         "url": "https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD"
       },
@@ -1302,6 +1320,36 @@
       "duration_ms": 203846,
       "name": "I am here",
       "url": "https://open.spotify.com/track/3oY94FnUoK5sSVyExSFZDa"
+    },
+    {
+      "album": {
+        "name": "I gotta go",
+        "url": "https://open.spotify.com/album/3ABotZ0kjriT2TgaVIwo2y"
+      },
+      "artists": [
+        {
+          "name": "GeG",
+          "url": "https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi"
+        },
+        {
+          "name": "Hiplin",
+          "url": "https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM"
+        },
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312972,
+      "name": "I gotta go",
+      "url": "https://open.spotify.com/track/5EBsireOwbvRqFb0md9BDu"
     },
     {
       "album": {
@@ -2176,7 +2224,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 261176,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6"
@@ -2502,7 +2550,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 185378,
       "name": "snow jam",
       "url": "https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG"
@@ -3576,7 +3624,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 190833,
       "name": "\u304b\u3089\u304b\u3089",
       "url": "https://open.spotify.com/track/6oO5DvOrulZ1RehWQ3jPqG"
@@ -3634,7 +3682,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 178000,
       "name": "\u3053\u306e\u5bd2\u3044\u591c\u3060\u3051",
       "url": "https://open.spotify.com/track/4fdp8i7hga4N1B3Kl8uY8V"
@@ -3652,7 +3700,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 223346,
       "name": "\u3053\u308c\u3060\u3051\u3067\u5341\u5206\u306a\u306e\u306b - (BASI REMIX)",
       "url": "https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd"
@@ -4007,6 +4055,28 @@
     },
     {
       "album": {
+        "name": "\u308f\u304c\u307e\u307e",
+        "url": "https://open.spotify.com/album/6Ebczt0PV4xNEwNZCVJyK1"
+      },
+      "artists": [
+        {
+          "name": "Joe Cupertino",
+          "url": "https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe"
+        },
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "\u308f\u304c\u307e\u307e",
+      "url": "https://open.spotify.com/track/6FQYiyKoqOCbhhGnOxnoVI"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30a6\u30bf",
         "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
       },
@@ -4314,7 +4384,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 222058,
       "name": "\u30d7\u30ed\u30e0\u30ca\u30fc\u30c9",
       "url": "https://open.spotify.com/track/3G4QATIYBkJ92HsR1OJt6g"
@@ -4422,7 +4492,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 169805,
       "name": "\u4e0d\u601d\u8b70",
       "url": "https://open.spotify.com/track/2Y0W2QugBh3vF8ujbxJpwk"
@@ -4798,7 +4868,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 169750,
       "name": "\u5e73\u6c17",
       "url": "https://open.spotify.com/track/76P0yVvbDoPzktecTT4FfX"
@@ -4878,7 +4948,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 199117,
       "name": "\u611b\u304c\u706f\u308b",
       "url": "https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR"
@@ -5030,7 +5100,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 245986,
       "name": "\u6625\u3088\u6765\u3044",
       "url": "https://open.spotify.com/track/7pyOA9SB2xLuYi1KrhHQkt"
@@ -5048,7 +5118,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 290266,
       "name": "\u6625\u6ce5\u68d2",
       "url": "https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF"
@@ -5622,7 +5692,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 189266,
       "name": "\u904a\u6b69",
       "url": "https://open.spotify.com/track/642mV6IqqtzGZ2SmIv5Jtt"

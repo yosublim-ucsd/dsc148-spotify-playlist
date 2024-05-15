@@ -1,12 +1,12 @@
 {
-  "description": "This Is Autechre. Los temas esenciales, todos en una lista.",
-  "num_followers": 6502,
+  "description": "This is Autechre. The essential tracks, all in one playlist.",
+  "num_followers": 6503,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAAf/8XWXFT4lzr+tJcniQzU",
+  "snapshot_id": "ZkFYAAAAAAD3THjNcc+YOF9c8F5gIAZi",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 351282,
-      "name": "si00",
-      "url": "https://open.spotify.com/track/4RwJVmTySlB2k9kXxlfoyy"
+      "duration_ms": 360456,
+      "name": "Metaz form8",
+      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiastic Slide",
-        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
+        "name": "PLUS",
+        "url": "https://open.spotify.com/album/1uFL8idnNTz0CdvLYyCGBC"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 537263,
-      "name": "Cipater",
-      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
+      "duration_ms": 223464,
+      "name": "marhide",
+      "url": "https://open.spotify.com/track/0KsOF2ur5AW8HHSty0zypX"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 360456,
-      "name": "Metaz form8",
-      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
+      "duration_ms": 351282,
+      "name": "si00",
+      "url": "https://open.spotify.com/track/4RwJVmTySlB2k9kXxlfoyy"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 532800,
-      "name": "Cichli",
-      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
+      "duration_ms": 537263,
+      "name": "Cipater",
+      "url": "https://open.spotify.com/track/6A2rU9JC5r9eD4KQfY5Rc6"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLUS",
-        "url": "https://open.spotify.com/album/1uFL8idnNTz0CdvLYyCGBC"
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 223464,
-      "name": "marhide",
-      "url": "https://open.spotify.com/track/0KsOF2ur5AW8HHSty0zypX"
+      "duration_ms": 453693,
+      "name": "The Egg",
+      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD"
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/7BAYND1fTWAwOr7QwLhXMB"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 453693,
-      "name": "The Egg",
-      "url": "https://open.spotify.com/track/5Xqrp7EwQnmmVPGnjwfxC6"
+      "duration_ms": 532800,
+      "name": "Cichli",
+      "url": "https://open.spotify.com/track/02KcdVunrltUm8qJkwfL8h"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 363666,
-      "name": "Parhelic Triangle",
-      "url": "https://open.spotify.com/track/6h90s8v73fSTBRe2bfKEA4"
+      "duration_ms": 372423,
+      "name": "Eidetic Casein",
+      "url": "https://open.spotify.com/track/2HGcBBNq1zBgR8tYPJfSUK"
     }
   ],
   "unique_name": "This Is Autechre",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 
 > Trilhas sonoras e grandes clássicos para te ajudar a relaxar durante a leitura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,270 likes - 117 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,271 likes - 117 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 | 99 | [First Impressions](https://open.spotify.com/track/09I7DjJtkvTPORULHE7yCY) | [Adrian Johnston](https://open.spotify.com/artist/5VeBbPzElOgdgevTlSgdf9) | [Becoming Jane](https://open.spotify.com/album/52sztZMsBAIe2jNcFNpQHk) | 2:25 |
 | 100 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
 | 101 | [Gnossiennes: No\. 4](https://open.spotify.com/track/5uaqfXP4wBosOea7QLokJP) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:36 |
-| 102 | [3 Gnossiennes: Gnossienne No.3](https://open.spotify.com/track/5QKjojuLLPncfpvUvqrWKF) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Roland Pöntinen](https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES) | [Satie: Piano Music](https://open.spotify.com/album/2Qfs0zjdWYg5MIxmQZUtyH) | 3:07 |
+| 102 | [Gnossiennes: Gnossienne No.3](https://open.spotify.com/track/5QKjojuLLPncfpvUvqrWKF) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Roland Pöntinen](https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES) | [Satie: Piano Music](https://open.spotify.com/album/2Qfs0zjdWYg5MIxmQZUtyH) | 3:07 |
 | 103 | [Barber: Adagio for Strings](https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Samuel Barber \- Adagio](https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu) | 8:57 |
 | 104 | [Symphony No\. 5 In C Sharp Minor: 4\. Adagietto \(Sehr langsam\)](https://open.spotify.com/track/0M78i2tXl07RGPjcm0InHA) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Gyeonggi Philharmonic Orchestra](https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N), [Shi\-Yeon Sung](https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P) | [Mahler Symphony No\. 5](https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL) | 10:45 |
 | 105 | [Vaughan Williams: Job, a Masque for Dancing, Scene 9: Epilogue](https://open.spotify.com/track/1CDEWKmyRTPWWa7uIKVSU4) | [Ralph Vaughan Williams](https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe), [Andrew Davis](https://open.spotify.com/artist/1Q9HCWdqbiui9pOsDtYkXW), [BBC Symphony Orchestra](https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO) | [Walton : Belshazzar's Feast & Vaughan Williams : Job \(Apex\)](https://open.spotify.com/album/7HQBU7TC6R7nwzApJPOoA2) | 3:28 |

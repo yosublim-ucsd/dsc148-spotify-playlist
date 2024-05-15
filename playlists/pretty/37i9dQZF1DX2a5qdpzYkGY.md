@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,152 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,156 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 16 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 |
 | 17 | [Got Me](https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 2:20 |
 | 18 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
-| 19 | [Ultramarine](https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Ultramarine](https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac) | 3:09 |
+| 19 | [Ruins](https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Portico Quartet](https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j) | 5:34 |
 | 20 | [If You Could See Your Life In Reverse Pt.3](https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Redivider](https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi) | 1:07 |
 | 21 | [Black City Skyline](https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Sunset Mission](https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO) | 5:51 |
-| 22 | [Ruins](https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Portico Quartet](https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j) | 5:34 |
+| 22 | [Ultramarine](https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Ultramarine](https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac) | 3:09 |
 | 23 | [Birds, Pt\. I](https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Big Sun](https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW) | 3:59 |
 | 24 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 |
 | 25 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 67 | [Tloque Nahuaque](https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu), [Orquesta Invisible de Lagos de Moreno](https://open.spotify.com/artist/4uCE0x1AQV3x4VGBV18WRW) | [Tloque Nahuaque](https://open.spotify.com/album/4Jb0KPq6u9VcGkGPuaio7N) | 6:31 |
 | 68 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 |
 | 69 | [Marilene \- Somewhere in Texas](https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Marilene \(Somewhere in Texas\)](https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7) | 7:55 |
-| 70 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 |
-| 71 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
+| 70 | [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 |
+| 71 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 |
 | 72 | [City Of Red Sand](https://open.spotify.com/track/5pQI4osudR5207IiprBP7J) | [Marc Barreca](https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh) | [The Empty Bridge](https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6) | 6:43 |
 | 73 | [Francis K.](https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP) | [A\. M.](https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa) | [Origen](https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8) | 5:13 |
 | 74 | [III](https://open.spotify.com/track/53t36WpigyJBFRFy3jrygw) | [Oren Ambarchi](https://open.spotify.com/artist/1fIzM2bmsXG77E5EMPtdKW) | [Shebang](https://open.spotify.com/album/1khpMdVH3EXz5RWt4WRAbg) | 6:16 |

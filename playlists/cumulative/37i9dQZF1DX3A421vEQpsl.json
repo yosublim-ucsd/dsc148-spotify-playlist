@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+        "url": "https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc"
+      },
+      "artists": [
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Mohammad Faiz",
+          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281511,
+      "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
+    },
+    {
+      "album": {
         "name": "Dhakka Laga Bukka (From \"Tandav\")",
         "url": "https://open.spotify.com/album/6May5sUcixsBdqoJGxV8mz"
       },
@@ -974,7 +996,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 180923,
       "name": "Ghagra (From \"Crew\")",
       "url": "https://open.spotify.com/track/6SqLv8PGsCjRgsqoNUhhqJ"

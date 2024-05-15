@@ -5225,6 +5225,24 @@
     },
     {
       "album": {
+        "name": "Moving on",
+        "url": "https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172180,
+      "name": "Moving on",
+      "url": "https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE"
+    },
+    {
+      "album": {
         "name": "Mursejler",
         "url": "https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa"
       },
@@ -6306,6 +6324,24 @@
       "duration_ms": 139713,
       "name": "Pirouette",
       "url": "https://open.spotify.com/track/0NZ7ku5SqkWqij5SXe3FIO"
+    },
+    {
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0qrg9kqWFOZsiwQM5o418l"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210355,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/4DWMufkvX438r7JBAJ2efc"
     },
     {
       "album": {

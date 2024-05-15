@@ -1,12 +1,12 @@
 {
-  "description": "This is X Ambassadors. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 53668,
+  "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
+  "num_followers": 53677,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAD8zzzeZEcfJajy/dG0tHer",
+  "snapshot_id": "ZkFYAAAAAAB06QiipP2Xo4w4zilxfIZH",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Jamie N Commons",
-          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORION",
         "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
       },
@@ -343,46 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 350920,
-      "name": "Follow the Sound of My Voice",
-      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zen (with K.Flay & grandson)",
-        "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "Zen (with K.Flay & grandson)",
-      "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
         "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
       },
@@ -395,6 +335,22 @@
       "duration_ms": 181266,
       "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
       "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
     },
     {
       "added_at": null,
@@ -435,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Your Town",
+        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 306613,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -451,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Town",
-        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
       },
       "artists": [
         {
@@ -460,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 306613,
-      "name": "Your Town",
-      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
+      "duration_ms": 197933,
+      "name": "HOLD YOU DOWN",
+      "url": "https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3"
     },
     {
       "added_at": null,
@@ -487,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
       },
       "artists": [
         {
@@ -496,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 197933,
-      "name": "HOLD YOU DOWN",
-      "url": "https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3"
+      "duration_ms": 185585,
+      "name": "My Own Monster",
+      "url": "https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs"
     },
     {
       "added_at": null,
@@ -515,22 +487,6 @@
       "duration_ms": 198626,
       "name": "I'm Not Really Here",
       "url": "https://open.spotify.com/track/0Np34uzd2oP17sO73NTLM3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Beautiful Liar",
-        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 185585,
-      "name": "My Own Monster",
-      "url": "https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs"
     },
     {
       "added_at": null,
@@ -571,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 177839,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -587,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
       "artists": [
         {
@@ -596,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 177839,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
+      "duration_ms": 197040,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
     },
     {
       "added_at": null,
@@ -619,22 +591,6 @@
       "duration_ms": 287893,
       "name": "Bad Husband (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
     },
     {
       "added_at": null,
@@ -751,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VHS 2.0",
+        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Kerosene Dreams",
+      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "why does everything make me cry?",
         "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
       },
@@ -767,22 +739,6 @@
       "duration_ms": 181306,
       "name": "leave flowers",
       "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VHS 2.0",
-        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Kerosene Dreams",
-      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
     },
     {
       "added_at": null,
@@ -971,6 +927,46 @@
       "duration_ms": 188686,
       "name": "You'll Get Yours (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/2uns3Zgiz6Bt4e6Me77wKb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "torture (with Earl St. Clair)",
+        "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 161669,
+      "name": "torture (with Earl St. Clair)",
+      "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
     }
   ],
   "unique_name": "This Is X Ambassadors",

@@ -2,7 +2,7 @@
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Latinoamérica baila al ritmo de Farruko.
+> Latinoamérica baila al ritmo de Wisin, Anitta, Shaggy y Maffio.
 
 913 songs - 2 day 0 hr 21 min
 

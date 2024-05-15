@@ -2,7 +2,7 @@
 
 ### [This Is Leon Leiden](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0H5LUI)
 
-> This is Leon Leiden\. Todos os maiores hits em uma só playlist.
+> This is Leon Leiden\. The essential tracks, all in one playlist.
 
 64 songs - 2 hr 59 min
 
@@ -18,11 +18,11 @@
 | [Cheve](https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Cheve](https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP) | 2:54 | 2023-11-10 |  |
 | [Cielo](https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:56 | 2024-04-15 |  |
 | [COMOSINADA](https://open.spotify.com/track/2v4RtwYOiTbvtQUueyU9Bz) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:50 | 2023-11-10 |  |
-| [Contigo Si](https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Contigo Si](https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX) | 3:48 | 2023-11-10 | 2024-05-11 |
+| [Contigo Si](https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Contigo Si](https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX) | 3:48 | 2023-11-10 |  |
 | [Corazón De Papel](https://open.spotify.com/track/0SV8KSbfTfhYp6vCRrF7uE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Corazón De Papel](https://open.spotify.com/album/1IRVC1cDRm5if9zYBbRSRu) | 3:03 | 2023-11-10 |  |
 | [DADOS](https://open.spotify.com/track/3HLPJXlVy6ez2lZeEpuDpB) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:38 | 2023-11-10 |  |
 | [Desamor Feliz \- Remix](https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Desamor Feliz \(Remix\)](https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA) | 2:56 | 2023-11-10 |  |
-| [Desamor Feliz Pt\. 2](https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz Pt\. 2](https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj) | 2:36 | 2023-11-10 |  |
+| [Desamor Feliz Pt\. 2](https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz Pt\. 2](https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj) | 2:36 | 2023-11-10 | 2024-05-15 |
 | [Desde Que Te Vi](https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Desde Que Te Vi](https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd) | 2:51 | 2023-11-10 |  |
 | [El Mejor Amigo](https://open.spotify.com/track/0xRVhzvHkRBXbp25NRDotY) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [El Mejor Amigo](https://open.spotify.com/album/5qOUTOwLXAm1y3WvzePHZW) | 3:30 | 2023-12-13 |  |
 | [Embassy](https://open.spotify.com/track/0UFfGjyqll9cg23Kg689rd) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:10 | 2024-04-19 |  |

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: JJJ, BLASÉ & Bonbero\)
 
-2,002 songs - 4 day 5 hr 37 min
+2,003 songs - 4 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [Free Game](https://open.spotify.com/track/4a5J9U353e52exFOFPcMaZ) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Free Game](https://open.spotify.com/album/1YEI2r0hrO4Td3gBJKLSqd) | 3:51 | 2022-11-24 | 2023-01-20 |
 | [Free Your Brain](https://open.spotify.com/track/4Cc7WS2Bwutbfw2bYW43BC) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [Free Your Brain](https://open.spotify.com/album/5rFeuZbuYz69kFgxyPR5U8) | 2:59 | 2023-02-09 | 2023-03-25 |
 | [Freesia \- feat\. Tohji & Le Makeup](https://open.spotify.com/track/6nf4C4eFB2IGzVyKQNA5ya) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [Freesia \(feat\. Tohji & Le Makeup\)](https://open.spotify.com/album/7EAtNlXzPff6tgocVAbRCO) | 3:01 | 2023-03-17 | 2023-04-28 |
+| [Freeway's Revenge](https://open.spotify.com/track/2ovysxfiSxqyErYKMGBVUi) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Freeway's Revenge](https://open.spotify.com/album/5RcMzX90p7MGnEATaVuZHi) | 4:40 | 2024-05-14 |  |
 | [Fresh](https://open.spotify.com/track/2zytHWc2uJXV7hEkJCUGo8) | [다니엘 지칼](https://open.spotify.com/artist/2tsU4AP4cmCsMVxtoYS8DI) | [Fresh](https://open.spotify.com/album/555uOzuWShkK0slg9OaaaC) | 2:28 | 2024-03-15 | 2024-05-10 |
 | [Friday Night](https://open.spotify.com/track/6taaPcd1yroEhGVWHtr7d9) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [DYNAMICDUO 6th DIGILOG 1/2](https://open.spotify.com/album/0820v5cltCHxKXVUc2YRtk) | 4:00 | 2024-03-28 | 2024-04-05 |
 | [FRIENDS GO FOE](https://open.spotify.com/track/4RXo0smHrIPDjQRb67LYRv) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [FRIENDS GO FOE](https://open.spotify.com/album/3rLOkDqmEaHahlivtaZqIv) | 2:38 | 2023-01-12 | 2023-02-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,619 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,891 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 38 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
 | 39 | [Sleepyhead](https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Sleepyhead](https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI) | 3:57 |
 | 40 | [Fluff](https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Friend Goals](https://open.spotify.com/album/3lyvbuaHTM8p1xEe9pqdXX) | 3:27 |
-| 41 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 |
-| 42 | [Arcadia](https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Vessel](https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI) | 3:33 |
+| 41 | [Arcadia](https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Vessel](https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI) | 3:33 |
+| 42 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 |
 | 43 | [Wishful Thinking](https://open.spotify.com/track/6nWbDZ8FJMm8FQD5afg62D) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Wishful Thinking](https://open.spotify.com/album/2EoEQOoH5UuAyY1U690LqO) | 3:20 |
 | 44 | [Heart \- Alternative Version](https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart \(Alternative Version\)](https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS) | 2:55 |
 | 45 | [What Fiction Is For](https://open.spotify.com/track/5etacX29P2TI1oIg3rhmB3) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [What Fiction Is For](https://open.spotify.com/album/52jxNlTCHOzyquz7inHbut) | 4:36 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 80 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
 | 81 | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/track/1eJaHVCXkDnZcB9yB8buJ9) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/album/0jmztT0knaYPwbO9D7kgwT) | 3:43 |
 | 82 | [Repeat Pleasure](https://open.spotify.com/track/1sMdCnlHMzKpOPcoZuHvQt) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | ["What Is This Heart?" \(Deluxe Edition\)](https://open.spotify.com/album/54E5JvQWalx8xQ7TAeBGvf) | 3:35 |
-| 83 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
-| 84 | [Like I Love You](https://open.spotify.com/track/3dQGWmv2RxYvZMGc0MNil8) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Like I Love You](https://open.spotify.com/album/5mmXMruJe1uqRt30EJvZHi) | 3:30 |
+| 83 | [Like I Love You](https://open.spotify.com/track/3dQGWmv2RxYvZMGc0MNil8) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Like I Love You](https://open.spotify.com/album/5mmXMruJe1uqRt30EJvZHi) | 3:30 |
+| 84 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
 | 85 | [Hurry Up and Crush Me](https://open.spotify.com/track/19TLY1W9XOTGwKAQQrraY6) | [Billy Fox](https://open.spotify.com/artist/6RTA0j2oMjC8mtNrl5jWRq) | [Hurry Up and Crush Me](https://open.spotify.com/album/1pD16UUNpHAGr9UnkzNMvH) | 3:26 |
 | 86 | [Answer \- Acoustic](https://open.spotify.com/track/7KfV9eTNVYH5XFgio1bpK0) | [The Hour](https://open.spotify.com/artist/3LB8xwjSksxdZoR6hnEqqv) | [Sons & Daughters \(Acoustic\)](https://open.spotify.com/album/1j01SCmbyG3wMEuzPFhk2K) | 2:47 |
 | 87 | [Gemini](https://open.spotify.com/track/64KwQ4YwBr9ZVq34aOdwZY) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Gemini](https://open.spotify.com/album/5pb11EuV3UqFcSZR37oR1i) | 3:23 |

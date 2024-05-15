@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Tempalay",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: TENDOUJI",
   "name": "Edge!",
   "tracks": [
     {
@@ -2082,6 +2082,24 @@
       "duration_ms": 325350,
       "name": "Boys Lost in Acid",
       "url": "https://open.spotify.com/track/6qoxfJ0Ej0hGJ6sO1yERlJ"
+    },
+    {
+      "album": {
+        "name": "Boy\u2019s Texture",
+        "url": "https://open.spotify.com/album/6Of3LsAZrj6cQSAKXrbhPz"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244693,
+      "name": "Boy\u2019s Texture",
+      "url": "https://open.spotify.com/track/0hyCibLEHjjSVz04VXj6XP"
     },
     {
       "album": {
@@ -17329,6 +17347,24 @@
     },
     {
       "album": {
+        "name": "TENDOUJI",
+        "url": "https://open.spotify.com/album/0vfzJ1M6LLhqzx6MLmvnjY"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162322,
+      "name": "TOKYO ASH",
+      "url": "https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz"
+    },
+    {
+      "album": {
         "name": "TOKYO FOREVER",
         "url": "https://open.spotify.com/album/06WIzovZvfsowDhcdEjNZd"
       },
@@ -18552,7 +18588,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 243779,
       "name": "Welcome to life",
       "url": "https://open.spotify.com/track/10IlsDGXAfKlpOihaAc1BA"
@@ -19980,7 +20016,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 143204,
       "name": "\u304a\u5143\u6c17\u3067\u3059\u304b",
       "url": "https://open.spotify.com/track/6EFpDS4RjA1nQ5p14MTbQF"
@@ -20892,7 +20928,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 272991,
       "name": "\u306f\u3058\u3081\u3066\u306e\u611f\u60c5",
       "url": "https://open.spotify.com/track/4TtFs46bcnnfiDiGkv8Kxb"
@@ -22316,7 +22352,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 160122,
       "name": "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u306e\u7bb1",
       "url": "https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo"
@@ -25428,7 +25464,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 175684,
       "name": "\u5929\u624d\u5c11\u5e74",
       "url": "https://open.spotify.com/track/0g2IWKVsDUkPBvJnGFwnU8"
@@ -28616,6 +28652,24 @@
       "duration_ms": 240280,
       "name": "\u8972\u6483",
       "url": "https://open.spotify.com/track/4lKGembiDBdYHSCWfxOKIQ"
+    },
+    {
+      "album": {
+        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234627,
+      "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+      "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Joy Oladokun. Los temas esenciales, todos en una lista.",
-  "num_followers": 6936,
+  "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
+  "num_followers": 6940,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAABjyR+mbIu1r6Aq8PFMq/gw",
+  "snapshot_id": "ZkFYAAAAAAC3VTD1PA0n4wJZAzcRVyQw",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 237915,
       "name": "Questions, Chaos & Faith",
       "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186552,
+      "name": "Someone Like You (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
     },
     {
       "added_at": null,
@@ -63,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "look up",
-      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
@@ -95,6 +99,22 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Things For Granted",
+        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
     },
     {
       "added_at": null,
@@ -119,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Things For Granted",
-        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
       "artists": [
         {
@@ -128,25 +148,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 216167,
-      "name": "Taking Things For Granted",
-      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": null,
@@ -167,6 +171,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scared To Start (feat. Joy Oladokun)",
+        "url": "https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Girl",
         "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
       },
@@ -179,30 +203,6 @@
       "duration_ms": 185054,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
-        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
-      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
     },
     {
       "added_at": null,
@@ -227,22 +227,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scared To Start (feat. Joy Oladokun)",
-        "url": "https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64"
+        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         },
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Scared To Start (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT"
+      "duration_ms": 270426,
+      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
     },
     {
       "added_at": null,
@@ -623,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "someone that i used to be",
+      "url": "https://open.spotify.com/track/4ESU8fhu6M9TUg5vmjV87S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortune Favors The Bold",
         "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
       },
@@ -639,6 +659,38 @@
       "duration_ms": 218164,
       "name": "Fortune Favors The Bold",
       "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "brick by brick",
+      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "smoke",
+      "url": "https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73"
     },
     {
       "added_at": null,
@@ -663,34 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
       "artists": [
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "smoke",
-      "url": "https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
+        },
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 213053,
-      "name": "brick by brick",
-      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
+      "duration_ms": 192106,
+      "name": "wish you the best (feat. Jensen McRae)",
+      "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
     },
     {
       "added_at": null,
@@ -707,22 +747,6 @@
       "duration_ms": 296839,
       "name": "Poison",
       "url": "https://open.spotify.com/track/1yCbpQOLC7pCOKUpnYfm4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Who Are You",
-      "url": "https://open.spotify.com/track/6hpR4wi9DNXQNSdp63RiiL"
     },
     {
       "added_at": null,
@@ -755,6 +779,22 @@
       "duration_ms": 246400,
       "name": "Memphis",
       "url": "https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/6hpR4wi9DNXQNSdp63RiiL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-725 songs - 1 day 17 hr 49 min
+726 songs - 1 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Quantum Level](https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Prismatic](https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl) | [Quantum Level](https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE) | 3:38 | 2023-05-08 | 2023-08-01 |
 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 | 2023-06-01 | 2023-08-28 |
 | [RAD](https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [RAD](https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ) | 4:00 | 2022-10-03 | 2022-12-04 |
-| [Rain Dance](https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Rain Dance](https://open.spotify.com/album/2vePCjQ076mqwdDTYcNXYi) | 3:09 | 2024-02-23 |  |
+| [Rain Dance](https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Rain Dance](https://open.spotify.com/album/2vePCjQ076mqwdDTYcNXYi) | 3:09 | 2024-02-23 | 2024-05-15 |
 | [Rainbow Rave Parade](https://open.spotify.com/track/0hsD0hitwYa7SbFrpniYuS) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Rainbow Rave Parade](https://open.spotify.com/album/7D4xvOL1vzaKhLM2JIRkWz) | 3:32 | 2022-02-28 | 2022-05-11 |
 | [Rawthentic](https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Rawthentic](https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP) | 3:41 | 2024-02-26 |  |
 | [Rays](https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Rays](https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh) | 2:30 | 2022-05-25 | 2022-08-05 |
@@ -680,6 +680,7 @@
 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 | 2022-02-24 | 2022-05-07 |
 | [Unbound](https://open.spotify.com/track/7Ga0UUOoWhScCqfsIBZcS1) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Unbound](https://open.spotify.com/album/65xq8ZR0EEGPJ21w4bivCI) | 3:43 | 2023-01-18 | 2023-04-05 |
 | [Unbreakable](https://open.spotify.com/track/72KWzvjNEvKwsJAGBFlrHT) | [Hoaprox](https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Unbreakable](https://open.spotify.com/album/686cBsfdo35oMwrVgu6g19) | 2:54 | 2022-09-30 | 2022-12-04 |
+| [Underneath](https://open.spotify.com/track/5ysXuifk655k82MjxXHxzS) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Underneath](https://open.spotify.com/album/0yJwLlRNz1oBjf24GqqteA) | 3:02 | 2024-05-14 |  |
 | [Unfinished](https://open.spotify.com/track/7w9SaK5KiptI4BNdAEzTJk) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Unfinished](https://open.spotify.com/album/0S86doOPLnGVIlXtM4QoIH) | 4:44 | 2022-01-28 | 2022-04-08 |
 | [Uplift](https://open.spotify.com/track/5v61xHVqHn4EyakLpGqWzb) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Uplift](https://open.spotify.com/album/6OwhZjeTdn2uQ3LZNsmHzP) | 3:48 | 2023-06-12 | 2023-09-26 |
 | [Used](https://open.spotify.com/track/221btWts70oQ60quERFxXM) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Emma Mae](https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv) | [Used](https://open.spotify.com/album/6rHqNX0gISvnog7Q0vm0e8) | 4:18 | 2021-11-19 | 2022-01-28 |

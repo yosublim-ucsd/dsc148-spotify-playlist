@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This Is Biosphere. Los temas esenciales, todos en una lista.",
+  "description": "This is Biosphere. The essential tracks, all in one playlist.",
   "name": "This Is Biosphere",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 885462,
       "name": "Caboose - Sketch Remix 1",
       "url": "https://open.spotify.com/track/07hJwxGrrf65FuinKOhvYe"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-30",
+      "date_removed": null,
       "duration_ms": 148593,
       "name": "Kent Country Train",
       "url": "https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc"

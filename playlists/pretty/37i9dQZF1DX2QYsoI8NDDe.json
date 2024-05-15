@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Thalia ",
-  "num_followers": 487497,
+  "num_followers": 487532,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Pago Por Ver",
         "url": "https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 182586,
       "name": "Pago Por Ver",
       "url": "https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Esto Es Lo M\u00edo",
+        "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 121141,
+      "name": "Esto Es Lo M\u00edo",
+      "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Choro",
         "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 136250,
       "name": "Choro",
       "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Esto Es Lo M\u00edo",
-        "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 121141,
-      "name": "Esto Es Lo M\u00edo",
-      "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Miro La Luna",
-        "url": "https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 126365,
-      "name": "Miro La Luna",
-      "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Terca",
         "url": "https://open.spotify.com/album/3VsZuGjic5VTjiNrXfbAlp"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 140554,
       "name": "De Mal En Peor",
       "url": "https://open.spotify.com/track/0zNj2vBwUPu7jP26S9SPGh"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Miro La Luna",
+        "url": "https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 126365,
+      "name": "Miro La Luna",
+      "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Aqu\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "duration_ms": 182309,
-      "name": "El R\u00e1pido",
-      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Triste Recuerdo",
         "url": "https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 203573,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Aqu\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 182309,
+      "name": "El R\u00e1pido",
+      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1067,42 +1067,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Lo Dijiste Todo (En Vivo)",
-        "url": "https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        },
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Lo Dijiste Todo - En Vivo",
-      "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
         "url": "https://open.spotify.com/album/3wJw6YF37C5GqhFkQI6ZKy"
       },
@@ -1127,6 +1091,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "Lo Dijiste Todo (En Vivo)",
+        "url": "https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        },
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Lo Dijiste Todo - En Vivo",
+      "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "La Fama de una Dama",
         "url": "https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Mujeres al Tiro",
-        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 145962,
-      "name": "Mujeres al Tiro",
-      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
+      "duration_ms": 191040,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 150935,
       "name": "Ni El Dinero Ni Nada - En Vivo",
       "url": "https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Mujeres al Tiro",
+        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 145962,
+      "name": "Mujeres al Tiro",
+      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
     }
   ],
   "unique_name": "Las Chacalosas",

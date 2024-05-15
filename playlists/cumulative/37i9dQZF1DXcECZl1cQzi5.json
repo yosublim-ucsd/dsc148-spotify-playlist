@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 158701,
       "name": "Coastal Tranquility",
       "url": "https://open.spotify.com/track/4PLK0wbHcaSK9jlw0ZLeHo"
@@ -888,6 +888,24 @@
       "duration_ms": 152000,
       "name": "Indigo Glow",
       "url": "https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S"
+    },
+    {
+      "album": {
+        "name": "Lamenting Tides",
+        "url": "https://open.spotify.com/album/1ADt66KybnarDRYzAIYgL5"
+      },
+      "artists": [
+        {
+          "name": "Nash Parker",
+          "url": "https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK"
+        }
+      ],
+      "date_added": "2024-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167866,
+      "name": "Lamenting Tides",
+      "url": "https://open.spotify.com/track/1EvV3xSsoomdlynBskfrcU"
     },
     {
       "album": {

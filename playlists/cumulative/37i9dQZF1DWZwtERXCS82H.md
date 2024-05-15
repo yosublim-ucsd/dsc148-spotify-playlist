@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-745 songs - 1 day 8 hr 18 min
+748 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Altar](https://open.spotify.com/track/4GBWvw48RFr6WQDSvFJ5yh) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Altar](https://open.spotify.com/album/7gmheB2m41ayIEe5yPWFPj) | 2:17 | 2023-02-13 |  |
 | [Always Watching Over You](https://open.spotify.com/track/3g3Ff3nRjNXQlXsYgTM8GT) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Always Watching Over You](https://open.spotify.com/album/6LqqB9KbNrztwPnJQkgECi) | 2:30 | 2022-04-15 | 2022-05-14 |
 | [am eisernen Steig](https://open.spotify.com/track/6Vy0gvQG1dq7I7yTnNZwiz) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 3:08 | 2022-04-15 | 2023-07-25 |
+| [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 | 2024-05-14 |  |
 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 | 2022-04-15 | 2023-08-08 |
 | [Amici](https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Amici](https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI) | 2:08 | 2022-04-15 | 2024-03-26 |
 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 | 2022-04-15 | 2023-01-21 |
@@ -190,6 +191,7 @@
 | [Fairway Drive](https://open.spotify.com/track/3zkLIQIwUzSVO7BPOiqVSE) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Leatherwood Lane](https://open.spotify.com/album/0T3CYxFdDWnW9CGoCtY0jZ) | 2:48 | 2022-04-15 | 2022-09-21 |
 | [Faith](https://open.spotify.com/track/5FR4qwfIZJu9sUBjR77l99) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [Faith](https://open.spotify.com/album/50QPaMBUUiOcn9MgsYryG3) | 2:11 | 2023-12-12 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-15 | 2024-02-28 |
+| [Falling Free](https://open.spotify.com/track/4MQnnlw2lF9HJNqW4HghUj) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Falling Free](https://open.spotify.com/album/1A9ErVeCwy2x7bkSct9y4h) | 2:47 | 2024-05-14 |  |
 | [Fantasy](https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Fantasy](https://open.spotify.com/album/6ad3KlO7lZB6YHAqO9Rsos) | 3:10 | 2023-04-03 |  |
 | [Far Away Lands](https://open.spotify.com/track/7qMseyFxCjFXL4F1zU3RBA) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Far Away Lands](https://open.spotify.com/album/4sTwqQ9YDLigNpLqKFXiaM) | 3:14 | 2023-08-07 |  |
 | [Fearthainne](https://open.spotify.com/track/3FuG8DFIrAtGMvKoxNkCxY) | [Cora Droma](https://open.spotify.com/artist/1buRn3xacgF6W9Ncdo9ufk) | [Fearthainne](https://open.spotify.com/album/7awBR3o8RV1O0zIcABylkR) | 2:22 | 2022-04-15 | 2022-04-23 |
@@ -355,6 +357,7 @@
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-04-15 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-15 | 2022-11-19 |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2022-04-15 | 2022-09-21 |
+| [Low Tide](https://open.spotify.com/track/4IE6nqSTpxrN0w34jYcSfK) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Low Tide](https://open.spotify.com/album/6Q4NlBA59w10TScE7sJSuw) | 2:37 | 2024-05-14 |  |
 | [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 | 2023-11-13 |  |
 | [Luce Stellare](https://open.spotify.com/track/3JFkFQzyMjfZxhPneUDSsk) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Luce Stellare](https://open.spotify.com/album/1OcsLFeL0V4NNNjilW4ha0) | 2:36 | 2023-12-12 |  |
 | [Lullaby](https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Lullaby](https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX) | 2:23 | 2023-05-03 |  |

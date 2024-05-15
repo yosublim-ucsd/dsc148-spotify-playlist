@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-10",
-  "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
+  "description": "This Is Lana Del Rey. Los temas esenciales, todos en una lista.",
   "name": "This Is Lana Del Rey",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 300683,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 274293,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 285050,
       "name": "Did you know that there's a tunnel under Ocean Blvd",
       "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 218287,
       "name": "Fuck it I love you",
       "url": "https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 241426,
       "name": "Living Legend",
       "url": "https://open.spotify.com/track/6pZ9Nj3vzj1RW4ZkR9GcQ9"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 229325,
       "name": "Love song",
       "url": "https://open.spotify.com/track/5tyMJlMqaggzvuX7TtlrTe"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 230520,
       "name": "National Anthem",
       "url": "https://open.spotify.com/track/7cNz65PfCatRXoX7QtqM2A"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 248934,
       "name": "Norman fucking Rockwell",
       "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 214573,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 323280,
       "name": "Religion",
       "url": "https://open.spotify.com/track/1Yh4lOCbcskjSfYPDnn7EW"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 281093,
       "name": "Salvatore",
       "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 215295,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/6x8g6DxglrzCSwKhv2Q1ee"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 255040,
       "name": "Violets for Roses",
       "url": "https://open.spotify.com/track/5yrAkKml7mtzmPPbjB2qTC"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"

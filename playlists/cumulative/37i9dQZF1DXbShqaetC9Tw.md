@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-199 songs - 11 hr 7 min
+200 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bruise](https://open.spotify.com/track/3A7lLlC45v16o5vKgeWIeI) | [Hahm Yechan](https://open.spotify.com/artist/43xPlVmF7ldz5cMXIFO82q) | [Bruise](https://open.spotify.com/album/5jI9pT85DXLdjp7slAE2GX) | 2:44 | 2022-04-21 | 2022-04-25 |
 | [BUS 710](https://open.spotify.com/track/63UIV8B0JeJABBBCViE4Fy) | [Benini](https://open.spotify.com/artist/4SZG62kApZUjkX6j9OmOuJ) | [Achilles](https://open.spotify.com/album/0gEUrkgQCzCQ0zCV5nwoag) | 2:49 | 2022-04-21 | 2022-05-20 |
 | [but I'll wait for you](https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 1:59 | 2022-04-18 |  |
-| [BYE1393](https://open.spotify.com/track/54ocxngRcYnxnshEwum77S) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [BYE1393](https://open.spotify.com/album/4iUKzqrwRwN40hzBreEbzI) | 2:30 | 2023-09-18 |  |
+| [BYE1393](https://open.spotify.com/track/54ocxngRcYnxnshEwum77S) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [BYE1393](https://open.spotify.com/album/4iUKzqrwRwN40hzBreEbzI) | 2:30 | 2023-09-18 | 2024-05-15 |
 | [cage](https://open.spotify.com/track/5Xjn6An66oYZ7yB4wifj0t) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 1:50 | 2022-04-18 | 2022-07-28 |
 | [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 | 2023-10-02 |  |
 | [canker sore](https://open.spotify.com/track/5qhXWqao5odxYdRYW0CBVy) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:12 | 2022-04-18 | 2022-04-21 |
@@ -74,6 +74,7 @@
 | [First time](https://open.spotify.com/track/3c6G3VkE3TbHdUYrDaATOS) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [First time](https://open.spotify.com/album/5ZnkmWDQeXbdgfpj8VaurC) | 3:06 | 2022-04-21 | 2022-07-26 |
 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2022-08-03 |  |
 | [Flower \(Feat\. Jay Park, Woo, GIRIBOY\)](https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:33 | 2022-04-18 |  |
+| [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 | 2024-05-14 |  |
 | [Frank Ocean](https://open.spotify.com/track/5GIYyKQCiNobtNpU3IGgxn) | [Jiho Givenchy](https://open.spotify.com/artist/7FmUBvEV5FBVdF021jN5r2), [Javan](https://open.spotify.com/artist/2Ov5VPtihyYirhoUVqvb8g) | [Frank Ocean](https://open.spotify.com/album/60HTg0VEeH0VYSkMWLKRfz) | 3:08 | 2022-04-18 | 2022-07-29 |
 | [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 | 2022-04-18 |  |
 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 | 2022-07-22 | 2023-01-07 |

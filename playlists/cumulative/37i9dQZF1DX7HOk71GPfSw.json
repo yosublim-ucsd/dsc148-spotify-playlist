@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
+      },
+      "artists": [
+        {
+          "name": "biblemami",
+          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
+    },
+    {
+      "album": {
         "name": "7G",
         "url": "https://open.spotify.com/album/0PHVIdlkceOpjYgvUER4Nd"
       },
@@ -684,6 +702,24 @@
       "duration_ms": 264000,
       "name": "3310",
       "url": "https://open.spotify.com/track/1vxK7sEWuAqmoAOBfUWz7S"
+    },
+    {
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "album": {
@@ -24229,6 +24265,24 @@
     },
     {
       "album": {
+        "name": "MR BUS DRIVER",
+        "url": "https://open.spotify.com/album/7IbF1KazUvHHNn7S0EN3Tt"
+      },
+      "artists": [
+        {
+          "name": "Nova May",
+          "url": "https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "MR BUS DRIVER",
+      "url": "https://open.spotify.com/track/5F1X26OJ1qD886ReIRsLgq"
+    },
+    {
+      "album": {
         "name": "mt fuji",
         "url": "https://open.spotify.com/album/1csjl8kXXVuP5nzKwuqfMG"
       },
@@ -32470,6 +32524,24 @@
       "duration_ms": 111307,
       "name": "silver",
       "url": "https://open.spotify.com/track/6IG2Gz1o84JKJD9Mbf3bST"
+    },
+    {
+      "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596775,
+      "name": "Silver Thread Golden Needle",
+      "url": "https://open.spotify.com/track/2aeaJVKN7tytiBO5Hh5lBe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Kavita Seth, Kanishk Seth
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,100 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,103 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 3 | [Aaja Aaja](https://open.spotify.com/track/5VKKvjQFt7nALXZG2IYIdm) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Anup Satam](https://open.spotify.com/artist/3n9JV7cfpRT3PiLLO2ckHf) | [Aaja Aaja](https://open.spotify.com/album/6kpYrOpGmExHM5uNxdNCBB) | 2:57 |
 | 4 | [Haqeeqat](https://open.spotify.com/track/2ws5qeW4BEsFP7Wnu16sjC) | [Vardaan Malhotra](https://open.spotify.com/artist/6lRDtA49QAi4epkE8Xw27Q) | [Putla](https://open.spotify.com/album/2Ek73Hp1ifoM6xb7h7SLgb) | 4:16 |
 | 5 | [Baith Lo](https://open.spotify.com/track/6EVt9WODGSiO3tAbNS9dYe) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ), [Rupak Iyer](https://open.spotify.com/artist/4PHY24GyX4w1l0daFdvhU6) | [Baith Lo](https://open.spotify.com/album/46XwtoGwBQNDSNdLQfY4cR) | 4:45 |
-| 6 | [Chaand Naya](https://open.spotify.com/track/00xVmAuOMf241gQr7PCguU) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [JUNO](https://open.spotify.com/artist/7uJVIR1cnmatK6hNLwM4dH) | [Chaand Naya](https://open.spotify.com/album/1yIdhXQD0Vc0Wd1DY1goJV) | 2:29 |
+| 6 | [Chaand Naya](https://open.spotify.com/track/00xVmAuOMf241gQr7PCguU) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Chaand Naya](https://open.spotify.com/album/1yIdhXQD0Vc0Wd1DY1goJV) | 2:29 |
 | 7 | [Shukr Hai](https://open.spotify.com/track/0SuPG5pH4OTjfypkrZPc6C) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Shruti Prakash](https://open.spotify.com/artist/4wTxusmB0eB08npurjqk5T), [Rishi Pathak](https://open.spotify.com/artist/70ay8w6FiSddbDt3g8yFxM) | [Shukr Hai](https://open.spotify.com/album/3fGqNmbwXz0C9BGPrFc8P1) | 3:38 |
 | 8 | [Just for Once](https://open.spotify.com/track/5lxuSTeGvW0d6xoNarXFLP) | [Yohan Marshall](https://open.spotify.com/artist/69FVuMNh5n6YNPq6Qf42rD), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Just for Once](https://open.spotify.com/album/4wyHX8oGBIZpe4PXHeGyW4) | 3:04 |
 | 9 | [Na Ja](https://open.spotify.com/track/5PBms8xSMFFnTT9MShFQ6d) | [Raveena Mehta](https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Na Ja](https://open.spotify.com/album/29fiUguzZwSeACPVhm9HtA) | 2:41 |

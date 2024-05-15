@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This Is Grupo Frontera. Los temas esenciales, todos en una lista.",
+  "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
   "name": "This Is Grupo Frontera",
   "tracks": [
     {
@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 192566,
       "name": "F*CKIN AMOR",
       "url": "https://open.spotify.com/track/4pRnziizbp4Fa4Bcmbg50J"
@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200361,
+      "name": "NO HAY VATO PERFECTO",
+      "url": "https://open.spotify.com/track/23lIKqeNp0vJM5f5j98HVN"
+    },
+    {
+      "album": {
         "name": "NO HAY VATO PERFECTO",
         "url": "https://open.spotify.com/album/44rDXElV3sJNq0zaFBpnvg"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 200361,
       "name": "NO HAY VATO PERFECTO",
       "url": "https://open.spotify.com/track/662XIU1PFVPp3XNm9V3q6q"

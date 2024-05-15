@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: ARTMS(\uc544\ub974\ud14c\ubbf8\uc2a4) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: ALICE(\uc568\ub9ac\uc2a4) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 147360,
       "name": "Air",
       "url": "https://open.spotify.com/track/0E2NCsPqw2jMpBuui126Uo"
@@ -3891,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "MILKY WAY",
+        "url": "https://open.spotify.com/album/4cyNTqIAObdFknOudG7Guh"
+      },
+      "artists": [
+        {
+          "name": "ALICE",
+          "url": "https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "MILKY WAY",
+      "url": "https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ"
+    },
+    {
+      "album": {
         "name": "To. Heart",
         "url": "https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa"
       },
@@ -4472,7 +4490,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 210400,
       "name": "OMG (FRNK Remix)",
       "url": "https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW"
@@ -5340,7 +5358,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 154306,
       "name": "Secret princess (Secret Jouju x WOOAH)",
       "url": "https://open.spotify.com/track/1eSOrGdKykbGYMBL0VIg0I"

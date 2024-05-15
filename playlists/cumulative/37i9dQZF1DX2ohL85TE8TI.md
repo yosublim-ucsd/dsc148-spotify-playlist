@@ -2,7 +2,7 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: Queen of Tears\(눈물의 여왕\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: Lovely Runner\(선재 업고 튀어\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
 843 songs - 2 day 3 hr 16 min
 

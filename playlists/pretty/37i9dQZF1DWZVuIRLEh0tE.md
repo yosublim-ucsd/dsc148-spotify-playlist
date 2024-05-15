@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: NTG
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,998 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,120 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 21 | [19](https://open.spotify.com/track/0tTEecNmLNaMbLqkRz7i4Y) | [YOUNG D](https://open.spotify.com/artist/6PTSLeCguaSy6HHtjxhP9R), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [19](https://open.spotify.com/album/4al9oxErVVH0UlVqdWbn3f) | 2:10 |
 | 22 | [DM](https://open.spotify.com/track/0XKqFNGb80dIVeVKVyAitY) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Resiliencia](https://open.spotify.com/album/3VtCd0WwP9PUzQzt00fyiE) | 2:18 |
 | 23 | [TE LLAMO](https://open.spotify.com/track/6PX4bwAK0bgKrpG6UJgxeH) | [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Dowel King](https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg) | [TE LLAMO](https://open.spotify.com/album/79MsE4GtyEic7VadJ6gQLN) | 2:49 |
-| 24 | [Endiablada](https://open.spotify.com/track/5vjUBnAZsE422WOT0EBbaf) | [y](https://open.spotify.com/artist/1hXss4oPmYJWVJepESspkP), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Endiablada](https://open.spotify.com/album/16yXB4PxU6yrbnxRfWenyy) | 2:31 |
+| 24 | [Endiablada](https://open.spotify.com/track/5vjUBnAZsE422WOT0EBbaf) | [J Daly](https://open.spotify.com/artist/1x4jnSZBeWl577gBo6Gb13), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Endiablada](https://open.spotify.com/album/16yXB4PxU6yrbnxRfWenyy) | 2:31 |
 | 25 | [Novio Nuevo](https://open.spotify.com/track/01k5np4XcbJtocWAgHtLuP) | [La Pareta](https://open.spotify.com/artist/4zIsGs03b7niRptRGr63MK), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [Novio Nuevo](https://open.spotify.com/album/38SWvAYSn4FvC31D5hjpfD) | 2:35 |
 | 26 | [RD](https://open.spotify.com/track/3NAZhUuIcFH1svnekShdwy) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK) | [RD](https://open.spotify.com/album/0irVQYlLAYR5Cdu7qpUWZA) | 2:42 |
 | 27 | [Playa De Noche](https://open.spotify.com/track/5b2XliG3dFPaToQ4SSM9M8) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Playa De Noche](https://open.spotify.com/album/1ru47SxuI2JKYGEGoRaV9j) | 2:26 |

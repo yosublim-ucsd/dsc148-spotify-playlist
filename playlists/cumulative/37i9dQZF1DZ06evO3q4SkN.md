@@ -2,7 +2,7 @@
 
 ### [This Is Germaine Franco](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3q4SkN)
 
-> This is Germaine Franco\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Germaine Franco\. Todos os maiores hits em uma só playlist.
 
 121 songs - 3 hr 28 min
 
@@ -65,7 +65,7 @@
 | [I'm Back](https://open.spotify.com/track/7gIJ2VYtxDMzw44LK2sarl) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:53 | 2023-12-31 | 2024-03-06 |
 | [Into The Headlights](https://open.spotify.com/track/53zR9IVRrlnLBHx8Me3col) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 2:14 | 2024-03-04 | 2024-05-08 |
 | [Jordan's Glasses](https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:11 | 2023-05-05 |  |
-| [La Ultima Mirada](https://open.spotify.com/track/7pBrGQmZxzXbsg8qfuIYAD) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 0:55 | 2023-05-08 | 2024-05-14 |
+| [La Ultima Mirada](https://open.spotify.com/track/7pBrGQmZxzXbsg8qfuIYAD) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 0:55 | 2023-05-08 |  |
 | [Leaving Lone Pine Falls](https://open.spotify.com/track/6kMVwV8S6VV3LDgJ02dDwm) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 2:34 | 2023-12-13 | 2024-05-08 |
 | [Legend Of The Tortoise](https://open.spotify.com/track/0sB4nZMAssgGXb2hEp9Cdc) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:03 | 2023-09-25 |  |
 | [Let’s Go Find Dora’s Parents](https://open.spotify.com/track/2lVD90NcI0ghjPeruIAS0P) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:08 | 2023-08-31 | 2023-11-11 |

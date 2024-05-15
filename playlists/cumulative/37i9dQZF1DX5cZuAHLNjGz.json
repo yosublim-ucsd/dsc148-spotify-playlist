@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
@@ -5262,6 +5262,32 @@
       "duration_ms": 133642,
       "name": "Putt Sardara De",
       "url": "https://open.spotify.com/track/4E0ytkzNm1H6HCtMhroi8c"
+    },
+    {
+      "album": {
+        "name": "Qatil Surma",
+        "url": "https://open.spotify.com/album/19Y4WSyFLpjmDPDXgQIRnV"
+      },
+      "artists": [
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Mandeep Maavi",
+          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Qatil Surma",
+      "url": "https://open.spotify.com/track/4IGM0oeUfaSmJknMjwOWKe"
     },
     {
       "album": {

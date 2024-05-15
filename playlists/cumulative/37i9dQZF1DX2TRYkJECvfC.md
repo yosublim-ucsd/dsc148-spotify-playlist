@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-518 songs - 1 day 20 hr 13 min
+519 songs - 1 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Peaceful Groove](https://open.spotify.com/track/1ur4amXvk23LWTtEMSjlxt) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5pogukTeYEaNxklDvrNqYl) | 3:31 | 2023-12-15 | 2024-04-19 |
 | [Peaceful Groove](https://open.spotify.com/track/5JP4iOnbCRu7zfYd95oG7V) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Peaceful Groove](https://open.spotify.com/album/4KNqp5ucheEGU8MgUD3Te0) | 3:31 | 2021-12-08 | 2022-07-29 |
 | [Peaceful Groove](https://open.spotify.com/track/6wSH047nyWHvlasvivVeMK) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5veblHHhKvDHweWmbaBNEn) | 3:31 | 2022-05-03 | 2023-12-16 |
-| [Perspective](https://open.spotify.com/track/01VCUpI3pgLJXDabXHUlyG) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [Perspective](https://open.spotify.com/album/2EBRXUZDzhwC3fu0zl7UXH) | 8:19 | 2021-12-08 |  |
+| [Perspective](https://open.spotify.com/track/01VCUpI3pgLJXDabXHUlyG) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [Perspective](https://open.spotify.com/album/2EBRXUZDzhwC3fu0zl7UXH) | 8:19 | 2021-12-08 | 2024-05-15 |
 | [Piano Boy](https://open.spotify.com/track/3sVSsA99BCGt81nMNKqUNu) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/6wwiwIueaNNBxuabXP39VZ) | 6:08 | 2022-05-03 | 2023-01-06 |
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/1jZqT8S8zfyLBw0BdCQn6X) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 7:07 | 2022-05-03 | 2022-11-17 |
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/5hNNUmZYDpn3ECksD3SxoB) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 7:07 | 2021-12-08 | 2022-07-27 |
@@ -412,6 +412,7 @@
 | [Solace](https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/07vqdHo7zpz7GiykpxWGbi) | 4:47 | 2021-12-08 | 2022-07-29 |
 | [Solaris](https://open.spotify.com/track/6ucvqqz22FxhiodmbhW8dQ) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 7:30 | 2021-12-08 | 2022-11-13 |
 | [Solid Gold Love](https://open.spotify.com/track/6YzXlsjXVZTwUoKSwHZsuF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Solid Gold Love](https://open.spotify.com/album/2S2xWb8NSimNm5D4jz6vSp) | 4:05 | 2021-12-08 |  |
+| [Some Type Of Skin \- Sofia Kourtesis Remix](https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Some Type Of Skin](https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi) | 3:24 | 2024-05-10 |  |
 | [Something New](https://open.spotify.com/track/59PzMa6VuSz6AH3jdQD9w6) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [About That](https://open.spotify.com/album/2bkK9rVU4m5bvoZn2BfZJg) | 5:58 | 2021-12-08 | 2022-07-21 |
 | [Somewhere \- Dream Dub](https://open.spotify.com/track/190I6kbDanvCla1KYDTojf) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Somewhere](https://open.spotify.com/album/5EjAbC1a6fYerVAEjziibT) | 8:02 | 2021-12-08 | 2023-06-10 |
 | [Sonthee](https://open.spotify.com/track/7fKAiHWnUcGeZ4BFFItpQy) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Sonthee](https://open.spotify.com/album/71lGWXKrdQAnoyS4KJNJSq) | 4:16 | 2022-10-28 |  |

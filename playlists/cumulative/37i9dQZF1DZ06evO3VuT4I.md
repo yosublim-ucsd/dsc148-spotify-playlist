@@ -2,7 +2,7 @@
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This Is Suzanne Ciani\. Los temas esenciales, todos en una lista.
+> This is Suzanne Ciani\. Tutti i brani in un'unica playlist.
 
 112 songs - 9 hr 21 min
 
@@ -49,18 +49,18 @@
 | [Golden Apples Of The Sun](https://open.spotify.com/track/08f0QMRnzTRdH7XdMamzGT) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 4:33 | 2023-11-10 |  |
 | [Golden Apples Of The Sun](https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy) | 4:33 | 2023-06-18 | 2023-11-11 |
 | [History Of My Heart](https://open.spotify.com/track/7HywLdWwU2nkyTwIsnI5Qs) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 9:46 | 2022-05-29 | 2023-03-25 |
-| [Hotel Luna](https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:54 | 2022-05-29 | 2024-05-14 |
+| [Hotel Luna](https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:54 | 2022-05-29 |  |
 | [I Believe in Love](https://open.spotify.com/track/6DJr81XitsgZRIs7lrufav) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:52 | 2024-01-08 | 2024-01-21 |
 | [I Believe In Love](https://open.spotify.com/track/2a7jVjRzqSSWG3HbylzHrY) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 4:03 | 2022-06-01 | 2023-09-16 |
-| [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 | 2022-05-31 | 2024-04-28 |
+| [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 | 2022-05-31 |  |
 | [Improvisation On Four Sequences Pt.1](https://open.spotify.com/track/3gE5fhbWGw66EdEz8OJSOW) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation On Four Sequences](https://open.spotify.com/album/4lRCOMQrNZJFQPhkIgs6bT) | 19:00 | 2023-09-25 | 2023-10-11 |
 | [Inverness](https://open.spotify.com/track/1xeHo019QG0x1zh3Hob3tX) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 4:08 | 2022-06-09 | 2023-04-12 |
 | [Italia \(From Hotel Luna\)](https://open.spotify.com/track/0u3W3lf8rbN2NuB7ky4SMy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Private Music Of Suzanne Ciani](https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy) | 3:23 | 2022-05-29 |  |
 | [L'Azzuro](https://open.spotify.com/track/7icrlwHpkpnxEL2tVrdOxV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 5:12 | 2022-05-29 |  |
-| [La Mer](https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:18 | 2022-05-30 |  |
+| [La Mer](https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:18 | 2022-05-30 | 2024-05-15 |
 | [Lay Down Beside Me](https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:27 | 2022-05-29 |  |
 | [Lime Marmalade Reverie](https://open.spotify.com/track/4u4ziYdZXAINlX6ASYxJMo) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:01 | 2022-06-22 | 2022-06-24 |
-| [Love Song](https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:49 | 2022-06-09 |  |
+| [Love Song](https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:49 | 2022-06-09 | 2024-05-15 |
 | [Lumiere](https://open.spotify.com/track/1KnxOiS6IdrYyWY708m7Tf) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:55 | 2022-05-29 | 2022-10-09 |
 | [Malibuzios](https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:51 | 2022-05-29 |  |
 | [Meeting Mozart](https://open.spotify.com/track/0QQNf1doJ6TzGZjOGtAv7v) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 4:46 | 2022-05-31 | 2024-01-01 |

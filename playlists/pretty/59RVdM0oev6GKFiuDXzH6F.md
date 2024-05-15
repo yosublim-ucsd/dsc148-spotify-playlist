@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,171 likes - 202 songs - 10 hr 5 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,170 likes - 202 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 167 | [En El Party](https://open.spotify.com/track/5kfGxBTuS10GawxZJn8nJe) | [Kide \(IT\)](https://open.spotify.com/artist/3clh5nUUfRr2oB9FCBP8CU), [Enrey](https://open.spotify.com/artist/3QfW1vNOZSUUE1aQeOAC8X) | [En El Party](https://open.spotify.com/album/7Byx9IkZ0ockhmVczj3HTL) | 2:38 |
 | 168 | [Rakata](https://open.spotify.com/track/7mexjF66Y0kvZXv5c1n0OX) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO), [The Galaxy](https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4) | [Rakata](https://open.spotify.com/album/4r8VboNlrNtlA9y7NNbLeQ) | 2:17 |
 | 169 | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [Wrong or Right \(The Riddle\) \[Revelation Remix\]](https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9) | 3:08 |
-| 170 | [Monday \(feat\. Philip Strand\) \(Charlie Ray & CAVALLI Remix\)](https://open.spotify.com/track/1aBQ1BhrF4LCcGsHQz02ad) | [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Charlie Ray](https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Monday \(feat\. Philip Strand\) \(Charlie Ray & CAVALLI Remix\)](https://open.spotify.com/album/6btVoeF6HdEVDIzZXRTHKG) | 2:18 |
+| 170 | [Monday \(feat\. Philip Strand\) \[Charlie Ray & CAVALLI Remix\]](https://open.spotify.com/track/1aBQ1BhrF4LCcGsHQz02ad) | [MARF](https://open.spotify.com/artist/4HUuwxRkDNuVovTumMOGFH), [Charlie Ray](https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Monday \(feat\. Philip Strand\) \[Charlie Ray & CAVALLI Remix\]](https://open.spotify.com/album/6btVoeF6HdEVDIzZXRTHKG) | 2:18 |
 | 171 | [Let's Go Dancing](https://open.spotify.com/track/0YKEHiqRlU6347BTqofCni) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Let's Go Dancing](https://open.spotify.com/album/7yomCnMwuxDBz7a9Zv9ekM) | 3:08 |
 | 172 | [You Want It](https://open.spotify.com/track/3x8DRRXJWjOvcs6pnJPqQ8) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [You Want It](https://open.spotify.com/album/7CfHCIkumlzy6es6UDaFLo) | 2:49 |
 | 173 | [Barney's Theme Song \(Club Version\)](https://open.spotify.com/track/4bsPKlaYveRwopxXql99fo) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Barney's Theme Song \(Club Version\)](https://open.spotify.com/album/4yz32FclPASuKxL55Uy1bj) | 2:08 |

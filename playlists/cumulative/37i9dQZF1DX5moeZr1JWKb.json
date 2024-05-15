@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 160085,
       "name": "Las Calles Son Clases",
       "url": "https://open.spotify.com/track/0Ptr4kYE9yVxrYWjaYw8D7"
@@ -1776,6 +1776,32 @@
       "duration_ms": 183000,
       "name": "No Se Sobrepase",
       "url": "https://open.spotify.com/track/3FXGe1es7PX9UgBQvLGk2r"
+    },
+    {
+      "album": {
+        "name": "No Somos Iguales",
+        "url": "https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Gabylonia",
+          "url": "https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "No Somos Iguales",
+      "url": "https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE"
     },
     {
       "album": {

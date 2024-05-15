@@ -3485,6 +3485,24 @@
     },
     {
       "album": {
+        "name": "Corpo Di Smeraldo",
+        "url": "https://open.spotify.com/album/3UPngRTCRG8EpSG2FdThD2"
+      },
+      "artists": [
+        {
+          "name": "Festa del Perdono",
+          "url": "https://open.spotify.com/artist/15AGJcAFEtTvIp73fsbTzD"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164595,
+      "name": "Corpo Di Smeraldo",
+      "url": "https://open.spotify.com/track/1nToufBzE6bfyu8HNysfhi"
+    },
+    {
+      "album": {
         "name": "COSA VA IN ME?",
         "url": "https://open.spotify.com/album/15qyqPXK3K5Z1KJvVoGVV1"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 68019,
+  "num_followers": 68032,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
-        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Istv\u00e1n Kert\u00e9sz",
-          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
-        }
-      ],
-      "duration_ms": 587133,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B.41: 4. Finale (Allegro con brio)",
-      "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, In Nature's Realm, Op. 91 & Scherzo capriccioso, Op. 66",
         "url": "https://open.spotify.com/album/0fjC54sH52h5QkB3FUQeUw"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 786906,
       "name": "Symphony No. 5 in F Major, Op. 76, B. 54: I. Allegro, ma non troppo",
       "url": "https://open.spotify.com/track/2wgN7raz83KbadDsl0JK9f"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
+        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+        }
+      ],
+      "duration_ms": 587133,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B.41: 4. Finale (Allegro con brio)",
+      "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1823,8 +1823,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
-        "url": "https://open.spotify.com/album/72akndhhoVkQP0Osy59o3e"
+        "name": "DVORAK: Ballad / Capriccio / Silent Woods",
+        "url": "https://open.spotify.com/album/7qPa1XUBnlVGWZlSr2EGhT"
       },
       "artists": [
         {
@@ -1832,13 +1832,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
+          "name": "Zhou Qian",
+          "url": "https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n"
+        },
+        {
+          "name": "Edmund Battersby",
+          "url": "https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB"
         }
       ],
-      "duration_ms": 136906,
-      "name": "Ohlas pisni (Echo of Songs), B. 152: There Stands an Ancient Rock [arr. Of Cypresses, B. 11 for string quartet]",
-      "url": "https://open.spotify.com/track/2AenIkSNJFzx3duYAm7k47"
+      "duration_ms": 424360,
+      "name": "Ballad in D Minor, Op. 15, No. 1",
+      "url": "https://open.spotify.com/track/5i37PSrmVSufxxLghKvmaZ"
     }
   ],
   "unique_name": "This Is Dvo\u0159\u00e1k",

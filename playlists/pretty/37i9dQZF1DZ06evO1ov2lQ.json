@@ -1,12 +1,12 @@
 {
-  "description": "This Is Biosphere. Los temas esenciales, todos en una lista.",
-  "num_followers": 3072,
+  "description": "This is Biosphere. The essential tracks, all in one playlist.",
+  "num_followers": 3073,
   "original_name": "This Is Biosphere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAADhfRqPcg/wne8yqFZ+RuIM",
+  "snapshot_id": "ZkFYAAAAAACHPmm3b688pKM8KgXSynU5",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 395440,
-      "name": "Birds Fly By Flapping their Wings",
-      "url": "https://open.spotify.com/track/4TWzk0mTsVcwZRGkpoxjvG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Senja Recordings",
         "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
       },
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
       "artists": [
         {
@@ -420,9 +404,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 397346,
-      "name": "Genkai-1",
-      "url": "https://open.spotify.com/track/6ewLQwmkpJYKaQkA4GNFtd"
+      "duration_ms": 395440,
+      "name": "Birds Fly By Flapping their Wings",
+      "url": "https://open.spotify.com/track/4TWzk0mTsVcwZRGkpoxjvG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cirque",
+        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 242416,
+      "name": "Nook and Cranny",
+      "url": "https://open.spotify.com/track/37BaFZjeEpRRUou7u6HufG"
     },
     {
       "added_at": null,
@@ -455,6 +455,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 397346,
+      "name": "Genkai-1",
+      "url": "https://open.spotify.com/track/6ewLQwmkpJYKaQkA4GNFtd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 318949,
+      "name": "From a Solid To a Liquid",
+      "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cirque",
         "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
@@ -464,9 +496,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 242416,
-      "name": "Nook and Cranny",
-      "url": "https://open.spotify.com/track/37BaFZjeEpRRUou7u6HufG"
+      "duration_ms": 64053,
+      "name": "Miniature Rock Dwellers",
+      "url": "https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO"
     },
     {
       "added_at": null,
@@ -487,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+        "name": "Autour De La Lune [Reissue]",
+        "url": "https://open.spotify.com/album/5fxcvWzqTtN1e4dgYrWyXf"
       },
       "artists": [
         {
@@ -496,9 +528,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 318949,
-      "name": "From a Solid To a Liquid",
-      "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
+      "duration_ms": 626000,
+      "name": "D\u00e9viation",
+      "url": "https://open.spotify.com/track/16zg1TWLqoQArBumCzTawe"
     },
     {
       "added_at": null,
@@ -528,25 +560,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 64053,
-      "name": "Miniature Rock Dwellers",
-      "url": "https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Petrified Forest",
-        "url": "https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 301360,
-      "name": "Just One Kiss",
-      "url": "https://open.spotify.com/track/54t2dTQ7ckm1BxvFsaibHZ"
+      "duration_ms": 336253,
+      "name": "Grand Dome",
+      "url": "https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0"
     },
     {
       "added_at": null,
@@ -567,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hilvarenbeek Recordings",
-        "url": "https://open.spotify.com/album/28VBLIMroxoxDWx84oegfx"
+        "name": "The Petrified Forest",
+        "url": "https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc"
       },
       "artists": [
         {
@@ -576,41 +592,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 312727,
-      "name": "Hilsondis",
-      "url": "https://open.spotify.com/track/0UvJBrmxR8w99nLN6RCxvo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cirque",
-        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Grand Dome",
-      "url": "https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 161706,
-      "name": "Monju-1",
-      "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
+      "duration_ms": 301360,
+      "name": "Just One Kiss",
+      "url": "https://open.spotify.com/track/54t2dTQ7ckm1BxvFsaibHZ"
     },
     {
       "added_at": null,
@@ -631,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inland Delta",
-        "url": "https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 169280,
-      "name": "Florian\u00b4s Flute",
-      "url": "https://open.spotify.com/track/2J0O7r3f6THs06qJwjgVyj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cirque",
         "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
@@ -659,6 +627,22 @@
       "duration_ms": 48111,
       "name": "Grandiflora",
       "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hilvarenbeek Recordings",
+        "url": "https://open.spotify.com/album/28VBLIMroxoxDWx84oegfx"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 312727,
+      "name": "Hilsondis",
+      "url": "https://open.spotify.com/track/0UvJBrmxR8w99nLN6RCxvo"
     },
     {
       "added_at": null,
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autour De La Lune [Reissue]",
-        "url": "https://open.spotify.com/album/5fxcvWzqTtN1e4dgYrWyXf"
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 626000,
-      "name": "D\u00e9viation",
-      "url": "https://open.spotify.com/track/16zg1TWLqoQArBumCzTawe"
+      "duration_ms": 161706,
+      "name": "Monju-1",
+      "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
     },
     {
       "added_at": null,
@@ -704,41 +688,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 394933,
-      "name": "Surface Tension",
-      "url": "https://open.spotify.com/track/6vv72D2YeR9pbLrqd4KDfB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 395294,
-      "name": "Genkai - 1",
-      "url": "https://open.spotify.com/track/71qKEYU8UkJFoui97QvhIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/6sXtoNq1nreNHyqq1szxj5"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 405306,
-      "name": "Daphnis 26",
-      "url": "https://open.spotify.com/track/0YbCCkRqS8RsVnn5ulSHM2"
+      "duration_ms": 169280,
+      "name": "Florian\u00b4s Flute",
+      "url": "https://open.spotify.com/track/2J0O7r3f6THs06qJwjgVyj"
     },
     {
       "added_at": null,
@@ -759,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inland Delta",
-        "url": "https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq"
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
       },
       "artists": [
         {
@@ -768,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 491613,
-      "name": "Franklin\u00b4s Dream",
-      "url": "https://open.spotify.com/track/7eJrXk5z9SveWm7DDNUadB"
+      "duration_ms": 395294,
+      "name": "Genkai - 1",
+      "url": "https://open.spotify.com/track/71qKEYU8UkJFoui97QvhIY"
     },
     {
       "added_at": null,
@@ -791,22 +743,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patashnik [Decrypted By Sketch]",
-        "url": "https://open.spotify.com/album/1ufomz4DidAU7QxfXkhpQE"
+        "name": "Inland Delta",
+        "url": "https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq"
       },
       "artists": [
         {
           "name": "Biosphere",
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        },
-        {
-          "name": "Sketch",
-          "url": "https://open.spotify.com/artist/0WIvZeTr7H3B4qvY4aAKzl"
         }
       ],
-      "duration_ms": 885462,
-      "name": "Caboose - Sketch Remix 1",
-      "url": "https://open.spotify.com/track/07hJwxGrrf65FuinKOhvYe"
+      "duration_ms": 394933,
+      "name": "Surface Tension",
+      "url": "https://open.spotify.com/track/6vv72D2YeR9pbLrqd4KDfB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/6sXtoNq1nreNHyqq1szxj5"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 405306,
+      "name": "Daphnis 26",
+      "url": "https://open.spotify.com/track/0YbCCkRqS8RsVnn5ulSHM2"
     },
     {
       "added_at": null,
@@ -823,6 +787,38 @@
       "duration_ms": 122346,
       "name": "Bjorvika",
       "url": "https://open.spotify.com/track/4NYchtfMAXMOvgr8LEQnNV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shenzhou [Reissue]",
+        "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 148593,
+      "name": "Kent Country Train",
+      "url": "https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inland Delta",
+        "url": "https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 491613,
+      "name": "Franklin\u00b4s Dream",
+      "url": "https://open.spotify.com/track/7eJrXk5z9SveWm7DDNUadB"
     }
   ],
   "unique_name": "This Is Biosphere",

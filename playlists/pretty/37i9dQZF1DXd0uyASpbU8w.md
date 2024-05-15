@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=MKej49eRRMGON9QLIVRneA">Thandiswa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,432 likes - 90 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,541 likes - 90 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

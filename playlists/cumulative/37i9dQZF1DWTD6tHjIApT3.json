@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u4e43\u7d2b",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: NakamuraEmi",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -39834,7 +39834,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 199117,
       "name": "\u611b\u304c\u706f\u308b",
       "url": "https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR"
@@ -42225,6 +42225,24 @@
     },
     {
       "album": {
+        "name": "\u706b\u3092\u3064\u3051\u308d / \u6674\u308b\u304f / \u767d\u663c\u5922 / \u4e00\u76ee\u60da\u308c / \u7a76\u6975\u306e\u4f11\u65e5",
+        "url": "https://open.spotify.com/album/2S95X7XlFMWYBeZ2sVpiTF"
+      },
+      "artists": [
+        {
+          "name": "NakamuraEmi",
+          "url": "https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "\u706b\u3092\u3064\u3051\u308d",
+      "url": "https://open.spotify.com/track/4HkYOprD8jhVK12Mp1CYyH"
+    },
+    {
+      "album": {
         "name": "LIBERTY ERA",
         "url": "https://open.spotify.com/album/3OsTuPCm6VbKXKIGVuJr4r"
       },
@@ -42566,7 +42584,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 148593,
       "name": "\u7247\u4f9d\u5b58",
       "url": "https://open.spotify.com/track/6sX2kOdBqlD4aKDR5HuMUD"
@@ -43216,7 +43234,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 148587,
       "name": "\u798f\u306f\u5185 \u9b3c\u306f\u5916",
       "url": "https://open.spotify.com/track/6hCjUu1CkVppX0ue6g8W0I"

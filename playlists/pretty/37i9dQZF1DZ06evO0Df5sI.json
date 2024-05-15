@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 19840,
+  "num_followers": 19853,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAABB3vk6gEz2pTkkSYwwOm8J",
+  "snapshot_id": "ZkFYAAAAAAD+mHB9YAItd1MJ+1NDpRTp",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "I Wanna Be A Warhol",
-      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 221520,
       "name": "Metro",
       "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "I Wanna Be A Warhol",
+      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "Kiss You To Death",
-      "url": "https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Found a Way",
         "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 225533,
       "name": "I Found a Way",
       "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 201320,
+      "name": "Kiss You To Death",
+      "url": "https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD"
     },
     {
       "added_at": null,

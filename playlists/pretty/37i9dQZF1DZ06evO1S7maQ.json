@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 611874,
+  "num_followers": 611983,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAC7GCmf6ljZkPu+C2Zfh9af",
+  "snapshot_id": "ZkFYAAAAAABibrrMZm9ozevgpJdfjhew",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+      "duration_ms": 279666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 279666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
+      "duration_ms": 209040,
+      "name": "I'm Goin' Down",
+      "url": "https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky Town",
-        "url": "https://open.spotify.com/album/1QhxV1m7N8SppKjXmj510h"
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 177733,
-      "name": "If I Should Fall Behind",
-      "url": "https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ"
+      "duration_ms": 287040,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
     },
     {
       "added_at": null,
@@ -340,15 +340,15 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 209040,
-      "name": "I'm Goin' Down",
-      "url": "https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx"
+      "duration_ms": 240146,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+        "name": "Lucky Town",
+        "url": "https://open.spotify.com/album/1QhxV1m7N8SppKjXmj510h"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 287040,
-      "name": "The Rising",
-      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
+      "duration_ms": 177733,
+      "name": "If I Should Fall Behind",
+      "url": "https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild, the Innocent & The E Street Shuffle",
-        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 420840,
-      "name": "Rosalita (Come Out Tonight)",
-      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chinatown",
         "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 247968,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild, the Innocent & The E Street Shuffle",
+        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 420840,
+      "name": "Rosalita (Come Out Tonight)",
+      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruce Springsteen & The E Street Band Live 1975-85",
+        "url": "https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 390320,
+      "name": "Jersey Girl - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",
+      "url": "https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "History Books",
         "url": "https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruce Springsteen & The E Street Band Live 1975-85",
-        "url": "https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 390320,
-      "name": "Jersey Girl - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",
-      "url": "https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
       },
@@ -755,26 +755,6 @@
       "duration_ms": 243173,
       "name": "Sherry Darling",
       "url": "https://open.spotify.com/track/5JgS0FY22HtNpFAJTo507k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dustland (feat. Bruce Springsteen)",
-        "url": "https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 264507,
-      "name": "Dustland (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c"
     },
     {
       "added_at": null,
@@ -795,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 270266,
+      "name": "She's the One",
+      "url": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
       },
@@ -811,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "Greetings from Asbury Park, N.J.",
+        "url": "https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C"
       },
       "artists": [
         {
@@ -820,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 270266,
-      "name": "She's the One",
-      "url": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"
+      "duration_ms": 304440,
+      "name": "Blinded By The Light",
+      "url": "https://open.spotify.com/track/1VyDQtfhX6gqhWTGU7Oe8X"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

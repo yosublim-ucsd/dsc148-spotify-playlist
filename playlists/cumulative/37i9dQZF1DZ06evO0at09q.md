@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 52 min
+81 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All Talk](https://open.spotify.com/track/1SMfme1fHq7eWc5mH1Mvj2) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [All Talk](https://open.spotify.com/album/3kHWyrNZeswPGLAoGsSS5A) | 4:16 | 2024-01-03 |  |
 | [B2TF \(feat\. JC Stormz\)](https://open.spotify.com/track/7bp6FEBpMRPS3Iak0hjA8c) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [B2TF \(feat\. JC Stormz\)](https://open.spotify.com/album/4952qWUyIqIZopeUc9MK2p) | 3:50 | 2024-01-03 |  |
 | [Bad Girl](https://open.spotify.com/track/4V56SK5ufak6TjpNq2kfpr) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [Bad Girl](https://open.spotify.com/album/2k9kQzygXAZ2R5g021gAqw) | 3:02 | 2024-01-03 | 2024-01-18 |
-| [Bad Girl](https://open.spotify.com/track/6neubvtqUejjgg8i0oupR8) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [Bad Girl](https://open.spotify.com/album/3ZYOZCzjTwjctJ10mJ87S9) | 4:04 | 2024-01-24 |  |
+| [Bad Girl](https://open.spotify.com/track/6neubvtqUejjgg8i0oupR8) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [Bad Girl](https://open.spotify.com/album/3ZYOZCzjTwjctJ10mJ87S9) | 4:04 | 2024-01-24 | 2024-05-15 |
 | [Badd](https://open.spotify.com/track/1Pfbotjg9CDpq5GlJykKVW) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 4:07 | 2024-01-13 | 2024-01-25 |
 | [Bang](https://open.spotify.com/track/50Umemgf8thrfyygQLgMay) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Food Fight](https://open.spotify.com/artist/33TJ8sk96DSfomcTAJ7cQq) | [Play It](https://open.spotify.com/album/1lbSa349DdXHGneMapw1cg) | 3:08 | 2024-02-15 | 2024-02-25 |
 | [Caldera](https://open.spotify.com/track/0T1P5ngGzqMhLWV6gRevha) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Caldera](https://open.spotify.com/album/5881VqXsgmHR7Ib16nzl9b) | 3:10 | 2024-01-03 |  |
@@ -61,6 +61,7 @@
 | [Lose My Control](https://open.spotify.com/track/2eWFHw8EdrmS7sOK1rNT2u) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [This Is Night Bass: Vol\. 9](https://open.spotify.com/album/2qPjmivZfeNJbxhKNGvEBw) | 3:19 | 2024-01-03 |  |
 | [Lost](https://open.spotify.com/track/521c3uJHm5aaqRhWcairlf) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU) | [Blanc Sur Noir, Vol\. 3](https://open.spotify.com/album/4N3Di4QVSACoXsM3P0I2a2) | 3:40 | 2024-01-12 | 2024-03-08 |
 | [Minimix](https://open.spotify.com/track/0owkPaicQL4owIMN1MNvSx) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 0:47 | 2024-01-03 |  |
+| [Mood \- Original Mix](https://open.spotify.com/track/7txqfcqM25RaArohJ5OmdY) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Mood](https://open.spotify.com/album/3oDdeYg9u3T81ohIeMz6mX) | 3:48 | 2024-05-15 |  |
 | [Movement](https://open.spotify.com/track/1T9DXPyT430MYJwFbyykZf) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Movement](https://open.spotify.com/album/6IVeajoC6n1iTPlYk2ACRP) | 2:46 | 2024-01-03 |  |
 | [Naughty](https://open.spotify.com/track/15L0Wv4WrFQ5sfKiPczNJR) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 3:50 | 2024-01-03 |  |
 | [Ohh](https://open.spotify.com/track/7oiS5Rx9iAmdFNsIoo6Oeh) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Alien](https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa) | 3:50 | 2024-01-03 |  |

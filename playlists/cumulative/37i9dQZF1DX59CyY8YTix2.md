@@ -2,9 +2,9 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: GLIM SPANKY
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ゲシュタルト乙女
 
-1,611 songs - 4 day 4 hr 19 min
+1,612 songs - 4 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,7 +521,7 @@
 | [ODYSSEY](https://open.spotify.com/track/46G9BfFwSFCPpoPm0pAgP1) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [ODYSSEY](https://open.spotify.com/album/0ADfbr8bXhhRUnEkTbsVRE) | 4:36 | 2023-12-21 | 2024-02-14 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 | 2022-10-12 |
 | [OH! LOVE! 幻!](https://open.spotify.com/track/5asbnOYmKPgHfV9fCmuyoN) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [OH! LOVE! 幻!](https://open.spotify.com/album/70MlunmJxH9H09zr2VlxrU) | 1:33 | 2023-10-31 | 2023-11-16 |
-| [Oh, Cinderella](https://open.spotify.com/track/5zTbloquPhCKg8cO1ra9TA) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [街よ街よ](https://open.spotify.com/album/6W7cNaFY6M0PYLiQfmLeaR) | 4:04 | 2024-04-23 |  |
+| [Oh, Cinderella](https://open.spotify.com/track/5zTbloquPhCKg8cO1ra9TA) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [街よ街よ](https://open.spotify.com/album/6W7cNaFY6M0PYLiQfmLeaR) | 4:04 | 2024-04-23 | 2024-05-15 |
 | [olive drive](https://open.spotify.com/track/0AlkosW5LjGmQulFMj0UyC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.Ep](https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1) | 5:02 | 2022-11-15 | 2022-11-25 |
 | [olive drive\|橄欖思巡](https://open.spotify.com/track/5OnF0rU4WAzl13h5E15cNy) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.ep](https://open.spotify.com/album/2MuVRYEHJpo5keWpkhRATp) | 5:02 | 2022-11-15 | 2022-11-17 |
 | [ONE DAY](https://open.spotify.com/track/0sLwEZUUbfIunlbpP6Iigu) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [HELL\-BENT](https://open.spotify.com/album/4p3rkFMsVAgRbJkUPH12G6) | 4:09 | 2022-06-07 | 2022-07-20 |
@@ -909,7 +909,7 @@
 | [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 | 2023-10-07 |
 | [まぼろし](https://open.spotify.com/track/1cAullkJ0hxb6oGmBwywoA) | [Nyanzonu Deshi](https://open.spotify.com/artist/1SvVh1zDPdsm49YyhmsqTX) | [まぼろし](https://open.spotify.com/album/6x3dcUijP9smui7faeOLLE) | 4:30 | 2022-05-26 | 2022-07-08 |
 | [まるで](https://open.spotify.com/track/5OUBCbnj8yNgg4YfuvJ2jj) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [まるで](https://open.spotify.com/album/459ZidjRP3u3psdmS3bsct) | 3:24 | 2023-08-01 | 2023-08-09 |
-| [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/track/34evbKY1tcjSoxZXFIX8wo) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/album/6YbQhkfJPRCWcoqQ7yphIX) | 4:29 | 2024-02-27 |  |
+| [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/track/34evbKY1tcjSoxZXFIX8wo) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [まるで駄目な女子高生はバンドマンになった](https://open.spotify.com/album/6YbQhkfJPRCWcoqQ7yphIX) | 4:29 | 2024-02-27 | 2024-05-15 |
 | [みんなおなじ](https://open.spotify.com/track/7HVfRqzsoiwpQ20rrkaLw8) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [みんなおなじ](https://open.spotify.com/album/6kdiQ4aRSv01HPXsGttVBK) | 4:23 | 2022-06-02 | 2022-07-04 |
 | [むちっ](https://open.spotify.com/track/6J4x5CaJSzeM9ru5wlvho3) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4FwXwSS4uIWX2ewAoZko0F) | 3:25 | 2024-02-27 | 2024-04-24 |
 | [むてきのふたり](https://open.spotify.com/track/0hFOqosdZMOwyD4djEXRRg) | [the pullovers](https://open.spotify.com/artist/4DD2vjKX6FOZPgE0WbedXu) | [むてきのふたり](https://open.spotify.com/album/5ViSPjtzh45sdQsyC6Q03C) | 4:27 | 2023-01-17 | 2023-01-28 |
@@ -1131,7 +1131,7 @@
 | [プラズマクラシックミュージック](https://open.spotify.com/track/48cFdkt692jgYl01sKFjDY) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [プラズマクラシックミュージック](https://open.spotify.com/album/1pqo0amavweAPnPr93EnDO) | 3:34 | 2024-01-09 | 2024-01-17 |
 | [プロポーズ文句](https://open.spotify.com/track/44cWeBUmdE4qZnHI0ePPm6) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [プロポーズ文句](https://open.spotify.com/album/4gR4C4GDqpCaV23RVg1Gj3) | 3:35 | 2023-09-26 | 2023-10-04 |
 | [プロミスザスター ’23](https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [BiSH THE BEST](https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3) | 4:29 | 2023-06-27 | 2024-01-15 |
-| [ヘイミー！](https://open.spotify.com/track/0Jj8qToTYk0LMzm6UDLFv1) | [Aivy](https://open.spotify.com/artist/50ZZhrepUFMiOPypDlLDyv) | [ヘイミー！](https://open.spotify.com/album/7IKQOdEkaf6z2KcLKSpCtG) | 4:20 | 2024-04-23 | 2024-05-01 |
+| [ヘイミー！](https://open.spotify.com/track/0Jj8qToTYk0LMzm6UDLFv1) | [Aivy](https://open.spotify.com/artist/50ZZhrepUFMiOPypDlLDyv) | [ヘイミー！](https://open.spotify.com/album/7IKQOdEkaf6z2KcLKSpCtG) | 4:20 | 2024-04-23 |  |
 | [ヘイメル・ウィッチ](https://open.spotify.com/track/06mEOrsIPkr79VHJ7tFzfj) | [Griev fib](https://open.spotify.com/artist/7GCZsASKANINXmie28Sqvj) | [ヘイメル・ウィッチ](https://open.spotify.com/album/6b3sBVSSbVEPeAvG8grTEN) | 3:46 | 2023-12-19 | 2023-12-27 |
 | [ヘビースモーク](https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ヘビースモーク](https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd) | 5:02 | 2022-06-16 | 2022-11-16 |
 | [ペープサートプラネット](https://open.spotify.com/track/45dzjte5s0h0ajfJBWGtSA) | [Ame no Mondays](https://open.spotify.com/artist/09yY2UTdY3L9XxAjGvryHl) | [ペープサートプラネット](https://open.spotify.com/album/4BQa1KBqgQQOFtksZL2vyo) | 3:47 | 2022-05-26 | 2022-07-10 |
@@ -1502,6 +1502,7 @@
 | [短編小説](https://open.spotify.com/track/0POqNxQicVUy2vLw66iRl9) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [短編小説](https://open.spotify.com/album/5aHLMgXq2qk9JwOZtJpgAS) | 4:03 | 2024-01-23 | 2024-01-25 |
 | [祝日天国](https://open.spotify.com/track/6zTD1K9pkrFg4UN7reegf1) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [祝日天国](https://open.spotify.com/album/5n0s8subG1xzl9SDxBT58D) | 4:01 | 2022-11-08 | 2022-12-14 |
 | [神様](https://open.spotify.com/track/7pTzcynk2FjT23kYssUHdw) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [THE ZOMBIE](https://open.spotify.com/album/0Dw5E1BFl1yRCs7U36x5XN) | 3:52 | 2022-06-14 | 2022-07-19 |
+| [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 | 2024-05-14 |  |
 | [祥月](https://open.spotify.com/track/7pw4Ae2KKbwo86OPbrm7i8) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [祥月](https://open.spotify.com/album/65J8BQK0PRT8qmqZdz53Hz) | 4:17 | 2022-06-02 | 2022-06-28 |
 | [私たちってかわいそう?](https://open.spotify.com/track/2fpBndy4bPFRPTJxBmmQ7l) | [ゆ～すほすてる](https://open.spotify.com/artist/3EI9Wy1WFeNy9dbZofQeKW) | [私たちってかわいそう?](https://open.spotify.com/album/1RNTBlSFkj1JAcS4GOY4Bj) | 3:58 | 2022-06-14 | 2022-06-29 |
 | [私のままで](https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [私のままで](https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B) | 4:15 | 2023-10-12 |  |

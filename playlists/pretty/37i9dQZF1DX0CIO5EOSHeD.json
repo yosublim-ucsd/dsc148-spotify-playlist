@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Bnny",
-  "num_followers": 488370,
+  "num_followers": 488530,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZfoFdQAAAAD8vth6lHy6HRfOP97H1hQZ",
+  "snapshot_id": "ZkOE8QAAAADHSKg8hRoHX6k5qCbMnPYu",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -613,6 +613,30 @@
       "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
     },
     {
+      "added_at": "2024-05-14 15:36:17",
+      "album": {
+        "name": "Vampire in Beverly Hills",
+        "url": "https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Elvia",
+          "url": "https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2"
+        }
+      ],
+      "duration_ms": 154607,
+      "name": "Skater Dater (feat. Bb trickz & Elvia)",
+      "url": "https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O"
+    },
+    {
       "added_at": "2023-12-02 02:07:22",
       "album": {
         "name": "Antisocialites",
@@ -831,22 +855,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "melanchole",
-        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
-      },
-      "artists": [
-        {
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
-        }
-      ],
-      "duration_ms": 157648,
-      "name": "girl",
-      "url": "https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "I Clung to You Hoping We'd Both Drown",
         "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
       },
@@ -875,6 +883,22 @@
       "duration_ms": 180933,
       "name": "Silence Kid",
       "url": "https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "duration_ms": 157648,
+      "name": "girl",
+      "url": "https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1071,22 +1095,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "The Gaping Mouth",
         "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
       },
@@ -1139,6 +1147,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V"
+      },
+      "artists": [
+        {
+          "name": "Mind Shrine",
+          "url": "https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "End Of The Day (music from the film Anonymous Club)",
         "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
       },
@@ -1155,18 +1179,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Runner",
-        "url": "https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V"
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
       },
       "artists": [
         {
-          "name": "Mind Shrine",
-          "url": "https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         }
       ],
-      "duration_ms": 162099,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1203,6 +1227,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "home:so long",
+        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 85956,
+      "name": "home:so long",
+      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Chopper",
         "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
       },
@@ -1219,18 +1259,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "home:so long",
-        "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
+        "name": "Fuzzy",
+        "url": "https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW"
       },
       "artists": [
         {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+          "name": "Freeds",
+          "url": "https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi"
         }
       ],
-      "duration_ms": 85956,
-      "name": "home:so long",
-      "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
+      "duration_ms": 176872,
+      "name": "Fuzzy",
+      "url": "https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1255,38 +1295,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "midnight sun",
-        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Fuzzy",
-        "url": "https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW"
-      },
-      "artists": [
-        {
-          "name": "Freeds",
-          "url": "https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi"
-        }
-      ],
-      "duration_ms": 176872,
-      "name": "Fuzzy",
-      "url": "https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "California Screaming",
         "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
@@ -1299,6 +1307,22 @@
       "duration_ms": 197000,
       "name": "California Screaming",
       "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "midnight sun",
+        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1351,22 +1375,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "at least, I tried",
-        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
-      },
-      "artists": [
-        {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
-        }
-      ],
-      "duration_ms": 194060,
-      "name": "at least, I tried",
-      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Warning Sign",
         "url": "https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq"
       },
@@ -1383,6 +1391,22 @@
       "duration_ms": 172729,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "at least, I tried",
+        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 194060,
+      "name": "at least, I tried",
+      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1515,22 +1539,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Elizabethtown.",
-        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 136649,
-      "name": "mean creek.",
-      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Attempt",
         "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
       },
@@ -1543,6 +1551,22 @@
       "duration_ms": 281906,
       "name": "Attempt",
       "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Elizabethtown.",
+        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 136649,
+      "name": "mean creek.",
+      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1563,22 +1587,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "heat waves - lofi version",
-        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
-      },
-      "artists": [
-        {
-          "name": "omgkirby",
-          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
-        }
-      ],
-      "duration_ms": 96363,
-      "name": "heat waves - lofi version",
-      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Natty Wine",
         "url": "https://open.spotify.com/album/71pS7RazfqZLRfpoID4Vqz"
       },
@@ -1591,6 +1599,22 @@
       "duration_ms": 196720,
       "name": "Natty Wine",
       "url": "https://open.spotify.com/track/0FAhaygL5ZMx4YuhHxmsqa"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "heat waves - lofi version",
+        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
+      },
+      "artists": [
+        {
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+        }
+      ],
+      "duration_ms": 96363,
+      "name": "heat waves - lofi version",
+      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1623,22 +1647,6 @@
       "duration_ms": 252631,
       "name": "No Smoke",
       "url": "https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
     }
   ],
   "unique_name": "Lofi Indie",

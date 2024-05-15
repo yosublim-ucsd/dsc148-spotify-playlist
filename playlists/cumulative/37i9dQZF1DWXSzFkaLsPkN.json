@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Humdum",
+        "url": "https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Humdum",
+      "url": "https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1"
+    },
+    {
+      "album": {
         "name": "Husn",
         "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
       },
@@ -3476,7 +3494,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 199500,
       "name": "Tinka",
       "url": "https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn"

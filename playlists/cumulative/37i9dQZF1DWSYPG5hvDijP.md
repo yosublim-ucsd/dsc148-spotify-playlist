@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-267 songs - 13 hr 52 min
+268 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Capital](https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF) | [Capital](https://open.spotify.com/album/3TljnADIAMqIhChYqZacge) | 2:32 | 2024-01-19 | 2024-04-20 |
 | [CBSC](https://open.spotify.com/track/08PHYM5cB7FytGe9W6uAsv) | [The Siege](https://open.spotify.com/artist/5HrGNVmY12srDtUFxDd49Z), [Devoniàn](https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8) | [CBSC](https://open.spotify.com/album/72Nm3gnzz382jyxKRd9A4m) | 1:22 | 2024-04-30 |  |
 | [Chai aur Meetha](https://open.spotify.com/track/4ndJIyM9HIu1OoMkciX0Gz) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [Chai aur Meetha](https://open.spotify.com/album/4wOIhztS8Urn8LXqXMIX3X) | 3:31 | 2024-03-26 | 2024-04-13 |
+| [Chakkar](https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Chakkar](https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3) | 2:36 | 2024-05-14 |  |
 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 | 2023-04-24 |  |
 | [Choke Slam](https://open.spotify.com/track/49ci49d2SaiwpcvZVMfbnM) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Apocalypse](https://open.spotify.com/album/5s9DfBDESB5DWNXPbQBKwB) | 2:15 | 2023-04-24 | 2023-06-02 |
 | [Classy Chapri](https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 2:55 | 2023-06-09 | 2024-02-09 |
@@ -171,7 +172,7 @@
 | [Makeover](https://open.spotify.com/track/4r9fmK2cSewxKWrFi6rPq1) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M), [Spectra Music](https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l) | [Makeover](https://open.spotify.com/album/3WiVrqwlihz0i7I8eFMh4s) | 2:51 | 2023-04-12 | 2023-10-13 |
 | [Making The Moves](https://open.spotify.com/track/61LflvrT3qT2P3nvgeJPpW) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Making The Moves](https://open.spotify.com/album/5LIFHZSsZpwmk7CBpq2uDz) | 2:48 | 2023-03-29 | 2023-06-02 |
 | [Mallika](https://open.spotify.com/track/173nYuVjLhF6kdFTCA0huj) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Mallika](https://open.spotify.com/album/42jjlqtU48ozL5wCaRVDJW) | 3:24 | 2023-10-27 | 2023-11-18 |
-| [Maniac](https://open.spotify.com/track/4jufysure6VG7dplQ5x7ud) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Scene Main Bawaal](https://open.spotify.com/album/49Fu8ZrbMFu9yZ61esgHwo) | 2:52 | 2024-04-26 |  |
+| [Maniac](https://open.spotify.com/track/4jufysure6VG7dplQ5x7ud) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Scene Main Bawaal](https://open.spotify.com/album/49Fu8ZrbMFu9yZ61esgHwo) | 2:52 | 2024-04-26 | 2024-05-15 |
 | [MANKA](https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [MANKA](https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV) | 4:21 | 2024-04-19 |  |
 | [Mar Jaayega](https://open.spotify.com/track/4IkkAPhs4otYakD7FAYSqv) | [Dhruv Sthetick](https://open.spotify.com/artist/4g8Z4if0DrwN5H83ZGpZ44), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Mar Jaayega](https://open.spotify.com/album/1LojtEahZCJwHFFClFp1iz) | 4:03 | 2023-03-29 | 2023-07-21 |
 | [Masroor](https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI) | [Masroor](https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ) | 3:00 | 2023-07-04 | 2023-11-18 |
@@ -213,7 +214,7 @@
 | [pSycho](https://open.spotify.com/track/5JVfdbggz95I2rliWMdCMv) | [Simba Sing](https://open.spotify.com/artist/7Dn0LHcvgOdA2lcsHwmWcj), [Ekagar](https://open.spotify.com/artist/26uFPRiAonevSJLP7vMh4v) | [pSycho](https://open.spotify.com/album/67x8dYeDhe63U3TuAf7em1) | 2:43 | 2024-04-09 | 2024-04-27 |
 | [Pyaar Hai](https://open.spotify.com/track/6y7hah32ankOd6kz4nJsEv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Pyaar Hai](https://open.spotify.com/album/04tbIpfrFAcpW7eIrm3JIN) | 2:45 | 2023-03-29 | 2023-04-17 |
 | [Raid](https://open.spotify.com/track/7ECFmo4sbVrI5wh9SuoMho) | [Dil Sandhu](https://open.spotify.com/artist/4v9zktlAwWhLLhm8vZazny), [Varun Beats](https://open.spotify.com/artist/0DZSlOXnxmfhy3vqg7CmNC) | [Raid](https://open.spotify.com/album/483rdTn6fwCrVfNiwysOYd) | 2:44 | 2023-11-14 | 2023-11-18 |
-| [Rakshak](https://open.spotify.com/track/7gNrJYoxWXw7gwDedXxL4c) | [Mischief](https://open.spotify.com/artist/1EDYfcvSE4udQAlVKjPY2q), [Shannon K](https://open.spotify.com/artist/78CGeleRIUbrzD47TLlI8U) | [Rakshak](https://open.spotify.com/album/3stgpIhcfwIOb3v72gvHZt) | 2:57 | 2024-05-13 |  |
+| [Rakshak](https://open.spotify.com/track/7gNrJYoxWXw7gwDedXxL4c) | [Mischief](https://open.spotify.com/artist/1EDYfcvSE4udQAlVKjPY2q), [Shannon K](https://open.spotify.com/artist/78CGeleRIUbrzD47TLlI8U) | [Rakshak](https://open.spotify.com/album/3stgpIhcfwIOb3v72gvHZt) | 2:52 | 2024-05-13 |  |
 | [Rapman](https://open.spotify.com/track/3ZNuiPTvvowPRSUMpHoNz6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Rapman](https://open.spotify.com/album/7usCwjE9nwz47447bEm99r) | 2:40 | 2023-04-28 | 2023-06-02 |
 | [Rehem](https://open.spotify.com/track/0kxygsw2zngxvhsmNMbpwj) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Rehem](https://open.spotify.com/album/0xsZ9ulRB98Df9mTZqPWQn) | 2:24 | 2023-12-13 | 2024-01-18 |
 | [Ride Slow](https://open.spotify.com/track/3AcwYeqbN22Ko2xRJyMQJa) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Ride Slow](https://open.spotify.com/album/7DJNO9v8VnJPem8sNn2ruO) | 4:24 | 2023-03-29 | 2023-04-17 |

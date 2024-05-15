@@ -1,12 +1,12 @@
 {
-  "description": "This is Emicida. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 168417,
+  "description": "This is Emicida. The essential tracks, all in one playlist.",
+  "num_followers": 168431,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAA7GHb+I5xwbvtp8P8ddfpO",
+  "snapshot_id": "ZkFYAAAAAACTTw86SolxALn/gIPaGTwP",
   "tracks": [
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
       "artists": [
         {
@@ -808,17 +808,17 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Dona Jacira",
-          "url": "https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax"
+          "name": "Estela Verg\u00edlio",
+          "url": "https://open.spotify.com/artist/2Yo86np78XwT8Y6ug7Dg1p"
         },
         {
-          "name": "Anna Tr\u00e9a",
-          "url": "https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS"
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
         }
       ],
-      "duration_ms": 298226,
-      "name": "M\u00e3e",
-      "url": "https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv"
+      "duration_ms": 138448,
+      "name": "Sol de Giz de Cera",
+      "url": "https://open.spotify.com/track/7LsxnS3jwRa0EB7Gq78lkf"
     },
     {
       "added_at": null,
@@ -843,30 +843,6 @@
       "duration_ms": 188666,
       "name": "S\u00f3 Mais Uma Noite - Live",
       "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
-        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Estela Verg\u00edlio",
-          "url": "https://open.spotify.com/artist/2Yo86np78XwT8Y6ug7Dg1p"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        }
-      ],
-      "duration_ms": 138448,
-      "name": "Sol de Giz de Cera",
-      "url": "https://open.spotify.com/track/7LsxnS3jwRa0EB7Gq78lkf"
     },
     {
       "added_at": null,
@@ -947,18 +923,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acabou, mas tem...",
-        "url": "https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1"
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Dona Jacira",
+          "url": "https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax"
+        },
+        {
+          "name": "Anna Tr\u00e9a",
+          "url": "https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS"
         }
       ],
-      "duration_ms": 235586,
-      "name": "Acabou, mas tem...",
-      "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
+      "duration_ms": 298226,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv"
     },
     {
       "added_at": null,
@@ -975,6 +959,22 @@
       "duration_ms": 232573,
       "name": "A Chapa \u00e9 Quente - Ao Vivo",
       "url": "https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acabou, mas tem...",
+        "url": "https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "Acabou, mas tem...",
+      "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
     },
     {
       "added_at": null,

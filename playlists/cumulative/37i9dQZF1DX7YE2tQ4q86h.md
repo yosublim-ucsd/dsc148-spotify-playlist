@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Rachel Sennott, Charli XCX & Julia Fox
 
-908 songs - 1 day 21 hr 39 min
+909 songs - 1 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Favorite Song](https://open.spotify.com/track/60YopQ98tANNxnfFiFQ25V) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Favorite Song](https://open.spotify.com/album/7AZ9cHrmuaLDq58YdLX6rG) | 2:33 | 2024-04-12 |  |
 | [FCKN IN LOVE](https://open.spotify.com/track/509rrXeQLsxcBC8VPBV5Pn) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6UEK6qZZvECvMVaKk6DHtk) | 3:14 | 2022-02-25 | 2022-05-28 |
 | [Feel Like Coming Home](https://open.spotify.com/track/5lAZtr9ReykoA8yaNKFuWZ) | [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Feel Like Coming Home](https://open.spotify.com/album/1ARa2sb7Rp1VBr8OxqGRgX) | 2:16 | 2023-04-07 | 2023-06-03 |
-| [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 | 2024-03-01 |  |
+| [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 | 2024-03-01 | 2024-05-15 |
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 | 2024-02-17 |
 | [Femininomenon](https://open.spotify.com/track/1YlOZY3puELE0PgxD1enZo) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Femininomenon](https://open.spotify.com/album/6wsWilHjzetverzs9qfHZF) | 3:39 | 2022-08-12 | 2023-01-06 |
 | [Fever](https://open.spotify.com/track/7aIqS1ulAFezQjAlQDn0hd) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Fever](https://open.spotify.com/album/0lTVQwPiUOS7ut4U01nl1Y) | 3:48 | 2023-02-24 | 2023-03-25 |
@@ -576,6 +576,7 @@
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-04-05 |  |
 | [NAILS](https://open.spotify.com/track/67qVRmg2JynkOZ5olduLAd) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [NAILS](https://open.spotify.com/album/6xNOhGAMlLrxbg0yV7gRNu) | 2:51 | 2022-05-27 | 2022-07-09 |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-25 | 2022-07-02 |
+| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-14 |  |
 | [Neon Moon \- Edit](https://open.spotify.com/track/1xIk1ez2aX9hgRpqSMOrA9) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Cody Belew](https://open.spotify.com/artist/57mO2JxS9Ce0dX4ZJsUlfk) | [Neon Moon](https://open.spotify.com/album/34nJ2FNOYHv1ao012wvQBK) | 3:23 | 2022-06-17 | 2022-09-17 |
 | [Never Made It Out Alive](https://open.spotify.com/track/4aMzh0rVdwl1vE2oIy0lf3) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Never Made It Out Alive](https://open.spotify.com/album/1YMTVbVImqUtUN0pa78xxK) | 2:50 | 2024-01-26 |  |
 | [NeverStop](https://open.spotify.com/track/7nGMJUPdpRyiTjkTnFCkta) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [NeverStop](https://open.spotify.com/album/3LsmzqsGW7J6uK45C9McDo) | 4:34 | 2023-04-14 | 2023-05-20 |

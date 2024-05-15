@@ -9602,7 +9602,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 226876,
       "name": "Gauntlet",
       "url": "https://open.spotify.com/track/5lpsmXWgjHtE6Py1bBuqFR"
@@ -9628,7 +9628,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 226876,
       "name": "Gauntlet",
       "url": "https://open.spotify.com/track/7kNagdpxwMRJ7TYVlB880L"
@@ -9834,10 +9834,32 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 180026,
       "name": "Gin & Juice - Another Shot From Dr. Dre",
       "url": "https://open.spotify.com/track/2uBBQN14uvkiol1EcPTo50"
+    },
+    {
+      "album": {
+        "name": "Gin & Juice (Another Shot From Dr. Dre)",
+        "url": "https://open.spotify.com/album/5twk7r213ud5HhV3sJVK4B"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "Gin & Juice - Another Shot From Dr. Dre",
+      "url": "https://open.spotify.com/track/76dStyGzFOTpz24OgSsKcM"
     },
     {
       "album": {
@@ -13614,7 +13636,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 240130,
       "name": "Key to the Streets (feat. Migos & Trouble) - Sped Up",
       "url": "https://open.spotify.com/track/3m9jjMhcXhUVQ6S7uL5qhQ"
@@ -13640,7 +13662,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 240130,
       "name": "Key to the Streets (feat. Migos & Trouble) - Sped Up",
       "url": "https://open.spotify.com/track/6m2xmaqZYnZNrCAa4kctaM"
@@ -17310,7 +17332,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 288551,
       "name": "My Year",
       "url": "https://open.spotify.com/track/7s4Ym7PpY5Cjh2RIvLJeLa"
@@ -17344,7 +17366,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 288603,
       "name": "My Year",
       "url": "https://open.spotify.com/track/11V0MfxII1ZmRatxtz0OyD"

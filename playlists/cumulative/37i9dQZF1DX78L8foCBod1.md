@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-163 songs - 11 hr 22 min
+164 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Before my body is dry](https://open.spotify.com/track/1FvZeK3MgmGldxeYDvzanR) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [キルラキル コンプリートサウンドトラック](https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6) | 4:08 | 2022-06-07 |  |
 | [BELONG](https://open.spotify.com/track/32MBCRb6ADfaoRreLCjU3z) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Yosh](https://open.spotify.com/artist/6YQbZJhj2jLdbeNpYFZY73) | [BEST OF VOCAL WORKS \[nZk\] 2 \-Side SawanoHiroyuki\[nZk\]\-](https://open.spotify.com/album/1Z024hSkjcF3P3FjRtAm3o) | 3:50 | 2022-06-21 | 2024-04-19 |
 | [BELONG](https://open.spotify.com/track/7cbhfvV5kvpBWwjVpqvvJJ) | [SawanoHiroyuki\[nZk\]:Yosh](https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT) | [BELONG](https://open.spotify.com/album/7gkbhbpygQvDvGYekPOWNX) | 3:50 | 2022-06-07 |  |
+| [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/2cYj0KTuNwvjA0TWEoA8EW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [TM NETWORK TRIBUTE ALBUM \-40th CELEBRATION\-](https://open.spotify.com/album/3n7yTwBKEpqxb9z9NL9Ejl) | 4:21 | 2024-05-14 |  |
 | [Binary Star](https://open.spotify.com/track/1KuSFI0ARV38j5spcq7Wbo) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 4:43 | 2022-06-07 |  |
 | [Binary Star](https://open.spotify.com/track/44UgawdeYuvQ1rKc33t2tp) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [R∃/MEMBER](https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0) | 4:43 | 2022-06-21 | 2024-04-19 |
 | [bL∞dy f8](https://open.spotify.com/track/4mX3vYu4lkOrOXfFBOoHJY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [UnChild](https://open.spotify.com/album/316cd68BCYDpLDjQ14rLha) | 4:48 | 2022-06-21 | 2024-04-19 |

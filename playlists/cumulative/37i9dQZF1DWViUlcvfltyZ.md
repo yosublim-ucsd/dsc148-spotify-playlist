@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Lamante in cover.
 
-912 songs - 2 day 2 hr 42 min
+913 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Contare 0](https://open.spotify.com/track/0ErWsPtoGFO8qDnEbxJRkO) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Contare 0](https://open.spotify.com/album/0EPmGYYsxYtaCPJ7I7oQwQ) | 2:34 | 2023-10-19 | 2024-03-01 |
 | [Copernico](https://open.spotify.com/track/70vNaMfvG3i4jGMcJ04PhJ) | [JØNA](https://open.spotify.com/artist/3iG0m5jiTCFiM3Dkfn37zK) | [Copernico](https://open.spotify.com/album/15EVfuAnIGB1sMRcdnfPmm) | 5:09 | 2022-10-06 | 2022-10-28 |
 | [Corny](https://open.spotify.com/track/0p9GTFfCSDseFiCEuH4GlJ) | [Grigio Scarlatto](https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ) | [Corny](https://open.spotify.com/album/1RwrTlkQ5u3EE5CrnlH6yi) | 2:05 | 2022-09-15 | 2022-10-14 |
+| [Corpo Di Smeraldo](https://open.spotify.com/track/1nToufBzE6bfyu8HNysfhi) | [Festa del Perdono](https://open.spotify.com/artist/15AGJcAFEtTvIp73fsbTzD) | [Corpo Di Smeraldo](https://open.spotify.com/album/3UPngRTCRG8EpSG2FdThD2) | 2:44 | 2024-05-14 |  |
 | [COSA VA IN ME?](https://open.spotify.com/track/7CzSSJurj4jcsO8W53iz9L) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [COSA VA IN ME?](https://open.spotify.com/album/15qyqPXK3K5Z1KJvVoGVV1) | 3:01 | 2023-04-13 | 2023-06-16 |
 | [Cospiro \(feat\. Marta Del Grandi\)](https://open.spotify.com/track/0gWsnd9th1H2SBotR45tEp) | [Casino Royale](https://open.spotify.com/artist/1OavCVgu5jGDNw4YVNkfgK), [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Cospiro \(feat\. Marta Del Grandi\)](https://open.spotify.com/album/4q2qVohJviUnFTj6flvcri) | 6:32 | 2023-06-08 | 2023-10-20 |
 | [Costruirei](https://open.spotify.com/track/6O5VObrsnYMTgMQjWUbUO3) | [Il nome è puramente indicativo](https://open.spotify.com/artist/5h8Td5L6oB3Fa8eI6mnBZN) | [Costruirei](https://open.spotify.com/album/7dZICCVCLBBxeQ9G5y6qBr) | 6:40 | 2024-03-28 | 2024-05-03 |

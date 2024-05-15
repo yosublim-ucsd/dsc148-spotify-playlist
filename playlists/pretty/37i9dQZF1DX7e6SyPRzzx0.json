@@ -1,15 +1,15 @@
 {
   "description": "The home of rage rap. Cover: Hardrock",
-  "num_followers": 61425,
+  "num_followers": 61438,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjfzqgAAAABrRrV5KDBnOPhoEGCDxDQD",
+  "snapshot_id": "ZkPQmwAAAADhIyDN8+B+W8/DnAo3oHAj",
   "tracks": [
     {
-      "added_at": "2024-05-05 21:01:29",
+      "added_at": "2024-05-14 20:59:07",
       "album": {
         "name": "King tonka",
         "url": "https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L"
@@ -18,15 +18,11 @@
         {
           "name": "Yeat",
           "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 205296,
-      "name": "Heavy stunts (with Don Toliver)",
-      "url": "https://open.spotify.com/track/6aC3a6uYGxo2uTAmYPUI1d"
+      "duration_ms": 125544,
+      "name": "King tonka",
+      "url": "https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz"
     },
     {
       "added_at": "2024-04-26 05:00:00",
@@ -43,6 +39,38 @@
       "duration_ms": 161396,
       "name": "ST PATRICK'S DAY",
       "url": "https://open.spotify.com/track/6pE5yAkavXwdIB0jxBAesJ"
+    },
+    {
+      "added_at": "2024-05-14 20:59:07",
+      "album": {
+        "name": "Headrush",
+        "url": "https://open.spotify.com/album/6K4LqNp0rbZVOYj4KchUcX"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 170886,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/6DO3EWwZc2wBBS2wJgl4fs"
+    },
+    {
+      "added_at": "2024-05-14 20:59:07",
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 89741,
+      "name": "New Tank",
+      "url": "https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0"
     },
     {
       "added_at": "2024-04-26 05:00:00",
@@ -85,6 +113,42 @@
       "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
     },
     {
+      "added_at": "2024-05-05 21:01:29",
+      "album": {
+        "name": "King tonka",
+        "url": "https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 205296,
+      "name": "Heavy stunts (with Don Toliver)",
+      "url": "https://open.spotify.com/track/6aC3a6uYGxo2uTAmYPUI1d"
+    },
+    {
+      "added_at": "2024-05-14 20:59:07",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/75VTZr9amziCosvNoljnMa"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "duration_ms": 174602,
+      "name": "man of the hour",
+      "url": "https://open.spotify.com/track/0k6q702wuOCqWgkbQ2tmqj"
+    },
+    {
       "added_at": "2024-04-26 05:00:00",
       "album": {
         "name": "VULTURES 1",
@@ -117,20 +181,20 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-04-26 05:00:00",
+      "added_at": "2024-05-14 20:59:07",
       "album": {
-        "name": "Shibuya",
-        "url": "https://open.spotify.com/album/6N0JK7T9CcsvDOXsIFF9cB"
+        "name": "Music B4 Music",
+        "url": "https://open.spotify.com/album/2NDLmnHVgicUmK6oEz0JMH"
       },
       "artists": [
         {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+          "name": "UnoTheActivist",
+          "url": "https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb"
         }
       ],
-      "duration_ms": 156910,
-      "name": "Shibuya",
-      "url": "https://open.spotify.com/track/3Nv0VdYEBn1B2wxCJK2VV2"
+      "duration_ms": 131493,
+      "name": "Givenchy Kick-Flip",
+      "url": "https://open.spotify.com/track/0xtwb8CmysbHcqLYVUqWdy"
     },
     {
       "added_at": "2024-04-26 05:00:00",
@@ -167,6 +231,22 @@
     {
       "added_at": "2024-04-26 05:00:00",
       "album": {
+        "name": "Shibuya",
+        "url": "https://open.spotify.com/album/6N0JK7T9CcsvDOXsIFF9cB"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 156910,
+      "name": "Shibuya",
+      "url": "https://open.spotify.com/track/3Nv0VdYEBn1B2wxCJK2VV2"
+    },
+    {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
         "name": "HI-VOLTAGE",
         "url": "https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf"
       },
@@ -199,6 +279,22 @@
     {
       "added_at": "2024-04-26 05:00:00",
       "album": {
+        "name": "NO STYLIST",
+        "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "NOSTYLIST",
+      "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
+    },
+    {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
@@ -227,22 +323,6 @@
       "duration_ms": 170847,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "NO STYLIST",
-        "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "NOSTYLIST",
-      "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
     },
     {
       "added_at": "2024-04-26 05:00:00",

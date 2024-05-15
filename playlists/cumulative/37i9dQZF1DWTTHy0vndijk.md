@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: ARTMS\(아르테미스\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: ALICE\(앨리스\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-419 songs - 23 hr 11 min
+420 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A\-MOONO\-KE \(I’m OK\)](https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [A\-MOONO\-KE](https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM) | 2:57 | 2023-08-23 | 2023-09-07 |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-11-29 |  |
 | [Ah\-Choo](https://open.spotify.com/track/4Kl017IgdJxdlvgnvrpYlE) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz8](https://open.spotify.com/album/4WkapgTIqmLu5HUF75X6Y8) | 3:38 | 2021-11-29 | 2022-07-28 |
-| [Air](https://open.spotify.com/track/0E2NCsPqw2jMpBuui126Uo) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 4 : Air>](https://open.spotify.com/album/6LuU1ePuYgNV6Rltq4OAcf) | 2:27 | 2024-05-10 |  |
+| [Air](https://open.spotify.com/track/0E2NCsPqw2jMpBuui126Uo) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 4 : Air>](https://open.spotify.com/album/6LuU1ePuYgNV6Rltq4OAcf) | 2:27 | 2024-05-10 | 2024-05-15 |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2022-07-28 | 2024-02-07 |
 | [Alcohol\-Free](https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/6UIHtz9pSMArPCOEkUkLOp) | 3:30 | 2021-11-29 | 2022-07-29 |
 | [Allegro Cantabile](https://open.spotify.com/track/7eufeVpHKJY8KdElThuv2h) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [Girls and Flowers](https://open.spotify.com/album/5sFgCMCOkWP4Elbh212r9K) | 4:15 | 2021-11-29 | 2022-07-04 |
@@ -223,6 +223,7 @@
 | [Mi\-myo Mi\-myo](https://open.spotify.com/track/3tW9Gbkdgzh1L5UHzpXUiX) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 4th Mini Album Heal](https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX) | 3:02 | 2021-11-29 | 2022-07-29 |
 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 | 2024-03-27 |  |
 | [MIL \(Make it love\)](https://open.spotify.com/track/1rraEPDPhjZT3SEIM0hFAY) | [Song Ji Eun](https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8) | [Dream](https://open.spotify.com/album/70SUj1ZtGPnWyL72iQhTyC) | 3:21 | 2021-11-29 | 2022-05-31 |
+| [MILKY WAY](https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [MILKY WAY](https://open.spotify.com/album/4cyNTqIAObdFknOudG7Guh) | 3:07 | 2024-05-14 |  |
 | [Miracle](https://open.spotify.com/track/4vFgYhZDcv3ociO2QI5qAd) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:42 | 2021-11-29 | 2022-07-26 |
 | [Miracle](https://open.spotify.com/track/3L86yXiuz4BiV1x9MGGABc) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Miracle](https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS) | 3:19 | 2023-04-24 | 2023-05-06 |
 | [Miracle](https://open.spotify.com/track/3nfJEBbHVCJHj1Kn5WIx1r) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:43 | 2022-02-09 | 2022-06-23 |
@@ -254,7 +255,7 @@
 | [Obliviate](https://open.spotify.com/track/4cyVnu1W88UuIdNusX8D1A) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 7th Mini Album \[Unforgettable\]](https://open.spotify.com/album/5M1EFepUUqZig7XzN6qtB8) | 3:22 | 2021-11-29 | 2022-07-28 |
 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 | 2023-10-06 |  |
 | [Oh \(Yes I Am\)](https://open.spotify.com/track/5l8Vpgx92aqAuniKsSKbyZ) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:15 | 2022-06-24 | 2022-07-13 |
-| [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2023-12-21 | 2024-05-13 |
+| [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2023-12-21 |  |
 | [One](https://open.spotify.com/track/7aR4PWVTC0okaPIQWMgePz) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 2nd Mini Album 'Flower Bud'](https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7) | 3:14 | 2022-03-29 | 2022-04-18 |
 | [ONION \(feat\. Suk Hoon Chang\)](https://open.spotify.com/track/3Ivg8dodsNmteJwA8hyQge) | [Min](https://open.spotify.com/artist/34i0mYEs7QoU4YbBjvzEiA), [Suk Hoon Chang](https://open.spotify.com/artist/3kR0K5YzUmjDHQbh3W8zaW) | [ONION](https://open.spotify.com/album/2OqY8Ykt2djgjzszye4ahM) | 3:42 | 2021-11-29 | 2022-07-29 |
 | [ONLY 너 ONLY YOU](https://open.spotify.com/track/6MwJCMRlmBhS6LUx4lH1HG) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/4VfP4RWW7MPg5hOCvIgUYE) | 3:38 | 2022-03-02 | 2022-04-18 |
@@ -302,7 +303,7 @@
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-29 | 2023-05-05 |
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 | 2022-08-13 |
 | [Secret Garden](https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 4:04 | 2021-11-29 | 2022-07-28 |
-| [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/track/1eSOrGdKykbGYMBL0VIg0I) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/album/17tkwDkoi0rQ6udpLNzZO1) | 2:34 | 2024-05-03 |  |
+| [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/track/1eSOrGdKykbGYMBL0VIg0I) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Secret princess \(Secret Jouju x WOOAH\)](https://open.spotify.com/album/17tkwDkoi0rQ6udpLNzZO1) | 2:34 | 2024-05-03 | 2024-05-15 |
 | [SEMINA](https://open.spotify.com/track/0wVLIpc1C3nSwvKNtkPrq3) | [gugudan SEMINA](https://open.spotify.com/artist/794b07X4OdSxB97S6X3NaP) | [Semina](https://open.spotify.com/album/65sFFFCBlzpksWDFLKLbEu) | 3:07 | 2021-11-29 | 2022-07-28 |
 | [Sensitive](https://open.spotify.com/track/6A1dCPrUYhg56ukp4zlEUw) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [Loossemble](https://open.spotify.com/album/51TyZNm7E9EF1gSJGLGsxh) | 3:05 | 2023-09-18 | 2023-12-22 |
 | [Shine](https://open.spotify.com/track/2qJjNAljfrYm7slPCXzRtC) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:36 | 2022-01-26 | 2022-04-11 |

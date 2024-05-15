@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: إليسا
 
-954 songs - 2 day 5 hr 56 min
+955 songs - 2 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,6 +690,7 @@
 | [اعدائك كترت](https://open.spotify.com/track/0CFfVxPKnJfh7bIxzgOyO0) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اعدائك كترت](https://open.spotify.com/album/5FTpX2Ws71TQRQyec4CbqY) | 3:27 | 2022-09-21 | 2022-12-09 |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-02-08 | 2022-05-19 |
 | [اقوي من جرحك](https://open.spotify.com/track/7t8u3kc3aq5SKHRUhcmCYG) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [يا عالمي](https://open.spotify.com/album/5oMj9SZJZAh9JEn1qoqxt0) | 4:25 | 2023-08-03 | 2023-09-22 |
+| [البدايات](https://open.spotify.com/track/64cbxJ5sRG93qgaqWw1Lfn) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [البدايات](https://open.spotify.com/album/109AUHjhLxGLBTjtkpMny2) | 4:43 | 2024-05-14 |  |
 | [البصة](https://open.spotify.com/track/4kF2FhSmkI8rN3a6OvxThx) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [البصة](https://open.spotify.com/album/5aUdP64reXtlbe21tlu8B6) | 3:13 | 2023-06-01 | 2023-07-14 |
 | [البيت الأولاني](https://open.spotify.com/track/0y3H4kVd5Qff1sV9G0eIVO) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [البيت الأولاني](https://open.spotify.com/album/6eOipyIT1XPLMqYN6gL1tM) | 6:04 | 2023-11-30 | 2024-01-19 |
 | [البيت وحش \- من فيلم جروب الماميز](https://open.spotify.com/track/0xywthPv9nCu6lgpU5nMcA) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [البيت وحش \(من فيلم جروب الماميز\)](https://open.spotify.com/album/0N1HRZtaCWRl2vfKE7FJDx) | 2:56 | 2023-02-09 | 2023-03-21 |

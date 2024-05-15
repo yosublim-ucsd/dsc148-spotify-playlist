@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 10899,
+  "num_followers": 10901,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAC2iTus0JiFENtqXvNxlGSj",
+  "snapshot_id": "ZkFYAAAAAAAjCMkyUj1jPZ/HMEzT7cN6",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Still Sleeping",
+      "url": "https://open.spotify.com/track/2hODZD0nBB0NcJxleDPNFz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tennis Skirt (feat. Ella Boh)",
         "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh)",
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Still Sleeping",
-      "url": "https://open.spotify.com/track/2hODZD0nBB0NcJxleDPNFz"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/6wHU6eEdsYfw8HS5Ybg9DJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 298666,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/6wHU6eEdsYfw8HS5Ybg9DJ"
     },
     {
       "added_at": null,

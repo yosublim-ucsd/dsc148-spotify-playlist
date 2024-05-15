@@ -2927,6 +2927,28 @@
     },
     {
       "album": {
+        "name": "CHOM",
+        "url": "https://open.spotify.com/album/6TTEGaxtetVzBfaPkh1UbW"
+      },
+      "artists": [
+        {
+          "name": "Tallrickyworldwide",
+          "url": "https://open.spotify.com/artist/2miB0vPO6RIi8mcK6XDIyS"
+        },
+        {
+          "name": "Inkosi Yama Ndebele",
+          "url": "https://open.spotify.com/artist/520VeW49iCzTISkHRpGqbR"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187354,
+      "name": "CHOM",
+      "url": "https://open.spotify.com/track/6AhbstjFqrgTO196pZdElf"
+    },
+    {
+      "album": {
         "name": "City Dreams",
         "url": "https://open.spotify.com/album/3bHGs1INSpGpZt9uSwvwdQ"
       },
@@ -11000,7 +11022,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 124800,
       "name": "Qosh",
       "url": "https://open.spotify.com/track/1XmwwEJTuSmluPvm7LeCZe"
@@ -11040,6 +11062,32 @@
       "duration_ms": 193253,
       "name": "R2P4",
       "url": "https://open.spotify.com/track/3KEXacrbpYkLymi5dKoa90"
+    },
+    {
+      "album": {
+        "name": "Isibuko (Deluxe)",
+        "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        },
+        {
+          "name": "K-Shine",
+          "url": "https://open.spotify.com/artist/1c0v0T4NyzHDEk4JWD9Owr"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290951,
+      "name": "Race",
+      "url": "https://open.spotify.com/track/4XuI5vJYWazWdUe6dec2Zf"
     },
     {
       "album": {
@@ -15322,7 +15370,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 102564,
       "name": "Vukani",
       "url": "https://open.spotify.com/track/49o0h068dqIEcHbPNu8ZSW"

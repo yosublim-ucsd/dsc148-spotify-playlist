@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
-  "num_followers": 1996733,
+  "num_followers": 1996747,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 197520,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "Mister Asylum",
         "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 242560,
       "name": "Lydia",
       "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Angry",
-        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 226735,
-      "name": "Angry",
-      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 243200,
       "name": "Cold Hard Bitch",
       "url": "https://open.spotify.com/track/5u6fnmRO5V0PTl5M2Eekeu"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "Angry",
+        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Black Pistol Fire",
-        "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
-      },
-      "artists": [
-        {
-          "name": "Black Pistol Fire",
-          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Suffocation Blues",
-      "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "Bury Me Face Down",
         "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 231666,
       "name": "Bury Me Face Down",
       "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "Black Pistol Fire",
+        "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Suffocation Blues",
+      "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "Sinister Kid",
-      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "Blunderbuss",
         "url": "https://open.spotify.com/album/6eSJ0lu0uwtiqXkP7Qrrno"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 155720,
       "name": "Sixteen Saltines",
       "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Mars To Liverpool",
-        "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        },
-        {
-          "name": "John Squire",
-          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
-        }
-      ],
-      "duration_ms": 220940,
-      "name": "Mars To Liverpool",
-      "url": "https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -2047,18 +2027,22 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "HEAVY META",
-        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+        "name": "Mars To Liverpool",
+        "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
       },
       "artists": [
         {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        },
+        {
+          "name": "John Squire",
+          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Young Lady, You're Scaring Me",
-      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
+      "duration_ms": 220940,
+      "name": "Mars To Liverpool",
+      "url": "https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -2075,6 +2059,22 @@
       "duration_ms": 325906,
       "name": "Separate Ways (Worlds Apart)",
       "url": "https://open.spotify.com/track/2ORySgkn0CbUMFbEoP1wwE"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Won't Take Me Alive",
-        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
-      },
-      "artists": [
-        {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
-        }
-      ],
-      "duration_ms": 225596,
-      "name": "Won't Take Me Alive",
-      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "And You Were A Crow",
         "url": "https://open.spotify.com/album/5cKSit160Ht2Iododg6sUQ"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 226853,
       "name": "Everything You're Breathing For",
       "url": "https://open.spotify.com/track/5LzHQ5aVYK828HIWcnralK"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "Won't Take Me Alive",
+        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "duration_ms": 225596,
+      "name": "Won't Take Me Alive",
+      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "Never Ending Moment",
-        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 257946,
-      "name": "Never Ending Moment",
-      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
@@ -2355,6 +2339,22 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
+        "name": "Never Ending Moment",
+        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "Never Ending Moment",
+      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
         "name": "Facelift",
         "url": "https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ"
       },
@@ -2367,6 +2367,22 @@
       "duration_ms": 284426,
       "name": "Man in the Box",
       "url": "https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC"
+    },
+    {
+      "added_at": "2024-05-08 05:53:39",
+      "album": {
+        "name": "The Perfume of Decay",
+        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -2391,18 +2407,18 @@
     {
       "added_at": "2024-05-08 05:53:39",
       "album": {
-        "name": "The Perfume of Decay",
-        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/4eMG0IE1T1tko7r7YEa5xE"
       },
       "artists": [
         {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
         }
       ],
-      "duration_ms": 155603,
-      "name": "Play My Favourite Song",
-      "url": "https://open.spotify.com/track/4fNlUk5SjD5bltAlOZDCSC"
+      "duration_ms": 193969,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY"
     },
     {
       "added_at": "2024-05-08 05:53:39",
@@ -2419,22 +2435,6 @@
       "duration_ms": 341666,
       "name": "This Land",
       "url": "https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES"
-    },
-    {
-      "added_at": "2024-05-08 05:53:39",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/4eMG0IE1T1tko7r7YEa5xE"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 193969,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY"
     },
     {
       "added_at": "2024-05-08 05:53:39",

@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAC/ESx52XBg3wlqjHQr848sDlUQ2km",
+  "snapshot_id": "AAADBrqJSkaVHnay1HIJ7n+hOp/wd6Mv",
   "tracks": [
+    {
+      "added_at": "2024-05-14 03:45:09",
+      "album": {
+        "name": "\u304b\u308f\u3044\u3052\u306a\u3044\u306a 2024",
+        "url": "https://open.spotify.com/album/6GOsoda3SoRnbjnfZXPm8K"
+      },
+      "artists": [
+        {
+          "name": "\u8584\u5869\u6307\u6570",
+          "url": "https://open.spotify.com/artist/6W7cJRHAi6IqLw2vCp6jAR"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "duration_ms": 144516,
+      "name": "\u304b\u308f\u3044\u3052\u306a\u3044\u306a 2024 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/5wdbnv9RSooRp9KaHDbS5K"
+    },
+    {
+      "added_at": "2024-05-14 03:45:41",
+      "album": {
+        "name": "\u30ab\u30ec\u30a4\u30c9\u30c8\u30ec\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/2GtMXve1cKmu9ZKL3MAcv0"
+      },
+      "artists": [
+        {
+          "name": "Adeliae",
+          "url": "https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "\u30ab\u30ec\u30a4\u30c9\u30c8\u30ec\u30a4\u30eb (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5IMHMkmKqQPHcaq7XeaTCE"
+    },
+    {
+      "added_at": "2024-05-14 03:46:38",
+      "album": {
+        "name": "\u6ce2\u969b\u306e\u65b9\u7a0b\u5f0f",
+        "url": "https://open.spotify.com/album/3PcNq6Q1Qdz4Pu6Iru25M5"
+      },
+      "artists": [
+        {
+          "name": "\u3064\u308b",
+          "url": "https://open.spotify.com/artist/1T4Xq0NxK8tuXQSqisrONH"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 126812,
+      "name": "\u6ce2\u969b\u306e\u65b9\u7a0b\u5f0f (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/50wwy1FYG9DWmM1Ex1dK8q"
+    },
+    {
+      "added_at": "2024-05-14 03:47:27",
+      "album": {
+        "name": "How was your day?",
+        "url": "https://open.spotify.com/album/17riSNhRTIDBnTxAqZnTre"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u8cc0(\u30cd\u30ae\u30b7\u30e3\u30ef\u30fcP)",
+          "url": "https://open.spotify.com/artist/11wmNSrLRQHfaR2Gb8ehHm"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 182253,
+      "name": "\u3071\uff5e\u308a\u306b\u3083\u3044\uff01 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6JWbhbKXmTnKeQII2sf56w"
+    },
+    {
+      "added_at": "2024-05-14 03:47:02",
+      "album": {
+        "name": "iceQuarium -Strawberry-",
+        "url": "https://open.spotify.com/album/2aGFMGGOl4we3BJZdEz9FZ"
+      },
+      "artists": [
+        {
+          "name": "irucaice",
+          "url": "https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Strawberry Stage",
+      "url": "https://open.spotify.com/track/7vOdX2FCl0sjYRQwMz96dZ"
+    },
     {
       "added_at": "2024-05-07 06:36:10",
       "album": {
@@ -679,126 +775,6 @@
       "duration_ms": 216746,
       "name": "\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u30fb\u30e9\u30f4",
       "url": "https://open.spotify.com/track/6hKAMbQPVchpmURWyrMT78"
-    },
-    {
-      "added_at": "2024-02-20 07:36:12",
-      "album": {
-        "name": "\u30a4\u30f3\u30c6\u30b0\u30e9\u30eb\u30fb\u30e9\u30dc\u30e9\u30c8\u30ea",
-        "url": "https://open.spotify.com/album/3nPIdF54InWoW2l9QgXeCF"
-      },
-      "artists": [
-        {
-          "name": "irucaice",
-          "url": "https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "\u30a4\u30f3\u30c6\u30b0\u30e9\u30eb\u30fb\u30e9\u30dc\u30e9\u30c8\u30ea (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&KAITO)",
-      "url": "https://open.spotify.com/track/4mETAAZFoljIgxoXjBJi2r"
-    },
-    {
-      "added_at": "2024-02-20 07:36:32",
-      "album": {
-        "name": "\u5b8c\u5168\u6570",
-        "url": "https://open.spotify.com/album/2LFtk7yTAp2WPorL9mTn60"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30e1\u30eb\u30c4P",
-          "url": "https://open.spotify.com/artist/69PSxkMSs4XP1kRezRs5EY"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 150770,
-      "name": "\u5b8c\u5168\u6570 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO)",
-      "url": "https://open.spotify.com/track/78TI1VboNzjGhiY50eGzpz"
-    },
-    {
-      "added_at": "2024-02-20 08:35:18",
-      "album": {
-        "name": "HEN\u306b\u306a\u308aTAI",
-        "url": "https://open.spotify.com/album/1a9hYsqoJtpxk4omhE5fzW"
-      },
-      "artists": [
-        {
-          "name": "\u8584\u5869\u6307\u6570",
-          "url": "https://open.spotify.com/artist/6W7cJRHAi6IqLw2vCp6jAR"
-        },
-        {
-          "name": "\u53ef\u4e0d",
-          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "HEN\u306b\u306a\u308aTAI (feat. \u53ef\u4e0d)",
-      "url": "https://open.spotify.com/track/3kIs5rcPFUKtIkkM4hwfdD"
-    },
-    {
-      "added_at": "2024-02-20 07:37:39",
-      "album": {
-        "name": "\u30ec\u30b0\u30eb\u30b9\u3092\u63a2\u3057\u3066",
-        "url": "https://open.spotify.com/album/5306AreVNELqCaNkCZRV9n"
-      },
-      "artists": [
-        {
-          "name": "AETA",
-          "url": "https://open.spotify.com/artist/1s3ScnjuSAXxXIk5rmPbu1"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "\u30ec\u30b0\u30eb\u30b9\u3092\u63a2\u3057\u3066 (feat. \u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/0JvaMB4NRCYbOcnTXvE4Y3"
-    },
-    {
-      "added_at": "2024-02-20 07:39:39",
-      "album": {
-        "name": "\u3042\u308a\u306e\u307e\u307e\u306e\u79c1",
-        "url": "https://open.spotify.com/album/34ghgFyfXB9Eg0oFk9wO0B"
-      },
-      "artists": [
-        {
-          "name": "harunacute",
-          "url": "https://open.spotify.com/artist/6ARuSd4vAGjvYdb7NuwEFT"
-        }
-      ],
-      "duration_ms": 391804,
-      "name": "\u3042\u308a\u306e\u307e\u307e\u306e\u79c1",
-      "url": "https://open.spotify.com/track/7l5bV7bahNKAFxRAhbaapj"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

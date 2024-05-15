@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros
 
-364 songs - 21 hr 41 min
+365 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Tentason](https://open.spotify.com/track/6eLqJZ7VHTHTxJWPWkZQdd) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Tentason](https://open.spotify.com/album/60h79pB92rRHM2u1lFrCUp) | 2:46 | 2024-02-16 |  |
 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 | 2023-01-13 | 2024-05-11 |
 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 | 2021-12-10 |  |
-| [Ti Matar](https://open.spotify.com/track/6jahSkpRrPt4PRzlVViMtN) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Delio Tala](https://open.spotify.com/artist/5dJVFpMbbup478DAWzBRZS) | [Ti Matar](https://open.spotify.com/album/4DTsQogJqwObqLwjmJPNSQ) | 3:46 | 2022-07-22 |  |
+| [Ti Matar](https://open.spotify.com/track/6jahSkpRrPt4PRzlVViMtN) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Delio Tala](https://open.spotify.com/artist/5dJVFpMbbup478DAWzBRZS) | [Ti Matar](https://open.spotify.com/album/4DTsQogJqwObqLwjmJPNSQ) | 3:46 | 2022-07-22 | 2024-05-15 |
 | [Todas Querem](https://open.spotify.com/track/7qrejwIUQaRwPUoTkJuk4a) | [Iriane vissolela](https://open.spotify.com/artist/6DNvQQzHsswQPoEjP5uEH7) | [Todas Querem](https://open.spotify.com/album/1Kv0lFcnyblaqWBEcciSeM) | 3:12 | 2022-03-04 | 2022-03-11 |
 | [Todos Dias](https://open.spotify.com/track/4tRMqP0yXZVCUTPHD4UMqR) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filomena Maricoa](https://open.spotify.com/artist/6Q4EivaeYo4AYKQWlEVZq1) | [Todos Dias](https://open.spotify.com/album/0Df0CaHlnUZZd9f7LkDN8W) | 3:03 | 2022-07-22 | 2022-07-26 |
 | [Toquei](https://open.spotify.com/track/3OuhLAiyqxCeDj4FRsioIt) | [Kenny André](https://open.spotify.com/artist/5cYWf1PB3aglJRprDIcTWP) | [Toquei](https://open.spotify.com/album/7awa6wm7eSKfIdWSbErMEM) | 3:42 | 2022-03-25 | 2022-04-17 |
@@ -372,5 +372,6 @@
 | [You](https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [You](https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7) | 3:15 | 2021-12-10 | 2023-04-28 |
 | [É Golo](https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [É Golo](https://open.spotify.com/album/0IYnFWdJzEuZ2YnyBIf24Q) | 3:36 | 2022-09-22 | 2022-12-08 |
 | [É Mentira](https://open.spotify.com/track/6akHiBM9q6bPCg9SBCBoSz) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr) | [DaMaika Season](https://open.spotify.com/album/4guI5Wy4lUy3veJKlcwBPE) | 3:43 | 2022-02-25 | 2022-04-06 |
+| [Única](https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Única](https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ) | 3:54 | 2024-05-10 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

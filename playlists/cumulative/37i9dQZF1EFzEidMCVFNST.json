@@ -5595,6 +5595,24 @@
     },
     {
       "album": {
+        "name": "Do Piseiro ao Pagodin",
+        "url": "https://open.spotify.com/album/2pRsNZMtfIo5N574fuelhw"
+      },
+      "artists": [
+        {
+          "name": "Mateuz M7",
+          "url": "https://open.spotify.com/artist/007crq5snynGRn6kUTU4ww"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sem Querer Bebendo",
+      "url": "https://open.spotify.com/track/7vF1hkvVDgPANldNKUTmsM"
+    },
+    {
+      "album": {
         "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
       },

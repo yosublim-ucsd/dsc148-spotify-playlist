@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Mikael Gabriel ja jambo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,920 likes - 103 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,929 likes - 103 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

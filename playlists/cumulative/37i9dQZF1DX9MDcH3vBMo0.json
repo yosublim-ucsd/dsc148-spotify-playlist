@@ -420,6 +420,24 @@
     {
       "album": {
         "name": "Amaryllis",
+        "url": "https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc"
+      },
+      "artists": [
+        {
+          "name": "Iris Emmanuelle",
+          "url": "https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Amaryllis",
+      "url": "https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS"
+    },
+    {
+      "album": {
+        "name": "Amaryllis",
         "url": "https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2"
       },
       "artists": [
@@ -3156,6 +3174,24 @@
       "duration_ms": 160009,
       "name": "Fallboard",
       "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
+    },
+    {
+      "album": {
+        "name": "Falling Free",
+        "url": "https://open.spotify.com/album/1A9ErVeCwy2x7bkSct9y4h"
+      },
+      "artists": [
+        {
+          "name": "Henriette Wieder",
+          "url": "https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Falling Free",
+      "url": "https://open.spotify.com/track/4MQnnlw2lF9HJNqW4HghUj"
     },
     {
       "album": {
@@ -6386,6 +6422,24 @@
       "duration_ms": 145313,
       "name": "Love Will Set Us Free",
       "url": "https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl"
+    },
+    {
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/6Q4NlBA59w10TScE7sJSuw"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157616,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/4IE6nqSTpxrN0w34jYcSfK"
     },
     {
       "album": {

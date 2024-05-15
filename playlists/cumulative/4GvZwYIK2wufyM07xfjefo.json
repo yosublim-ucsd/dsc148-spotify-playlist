@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "flower arrangement",
+        "url": "https://open.spotify.com/album/6YRe8uyTTO9ArgHI1hJPDr"
+      },
+      "artists": [
+        {
+          "name": "Ayame",
+          "url": "https://open.spotify.com/artist/5CL3yGd8CsbAmr1eqK6aic"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275571,
+      "name": "azalea",
+      "url": "https://open.spotify.com/track/1iKyoGquDm0fJj9KyO91GQ"
+    },
+    {
+      "album": {
         "name": "EVER",
         "url": "https://open.spotify.com/album/1nkPuTQNDUdEspsyUmf8Is"
       },
@@ -372,6 +390,28 @@
       "duration_ms": 317648,
       "name": "piano (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2mcCtXijdSmKPJanbsq3y3"
+    },
+    {
+      "album": {
+        "name": "river_2023",
+        "url": "https://open.spotify.com/album/5Rsq83dstJfwozpa6ZlmBH"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u3086\u308d",
+          "url": "https://open.spotify.com/artist/460r2Oaa2Sp7EKP0nds0Ow"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "river_2023 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/64JwjmziXncbLUwoWiSoEu"
     },
     {
       "album": {
@@ -979,6 +1019,28 @@
     },
     {
       "album": {
+        "name": "prototype",
+        "url": "https://open.spotify.com/album/7nmU6rpBWa56ym4G3nrPZh"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30a4\u30af\u30a2",
+          "url": "https://open.spotify.com/artist/1IPsi5qSsqd9edA8u35S9Z"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "\u30b9\u30a4\u30bb\u30f3\u3068\u9178\u6027\u96e8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1tJz5rwQ4ZdH7SH3JeepLK"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30ab\u30fc\u30c6\u30a3\u30b7\u30e5\u30fc",
         "url": "https://open.spotify.com/album/73sz99K0hymaOln5qAuGwG"
       },
@@ -1210,7 +1272,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 112285,
       "name": "\u30d5\u30a9\u30ec\u30b9\u30c8 (feat. \u521d\u97f3\u30df\u30af&IA)",
       "url": "https://open.spotify.com/track/7tguJMdEDlVOBIMYIVJDaq"
@@ -1308,7 +1370,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 141545,
       "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u30e9\u30f4\u30a1\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0HyiVoburjD639JoOX0LX2"
@@ -1348,7 +1410,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 237093,
       "name": "\u4fc4\u304b\u96e8",
       "url": "https://open.spotify.com/track/4nz94ALcwCzRO3NHjyLxVm"
@@ -1526,7 +1588,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 238170,
       "name": "\u6211\u3001\u601d\u3046\u3086\u3048\u306b (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5Bw2uf8VDiHVYHfIcEkY0z"
@@ -1544,10 +1606,32 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 279782,
       "name": "\u65e5\u4ed8\u5909\u66f4\u7dda",
       "url": "https://open.spotify.com/track/2adCfkUDD1bS6fcXVPLlTe"
+    },
+    {
+      "album": {
+        "name": "\u6700\u4f4e\u9650\u5ea6\u306e\u751f\u6d3b\u3092",
+        "url": "https://open.spotify.com/album/1GXVzoiFG8zKyyQTedCzFQ"
+      },
+      "artists": [
+        {
+          "name": "nogumi",
+          "url": "https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209638,
+      "name": "\u6700\u4f4e\u9650\u5ea6\u306e\u751f\u6d3b\u3092 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5NgYqtOyjG4bLFbMEHQs03"
     },
     {
       "album": {
@@ -1882,6 +1966,28 @@
       "duration_ms": 100003,
       "name": "\u900f\u660e\u591c\u884c (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/0vr5g4rAY91uQHFwNB6XAt"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u304c\u843d\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/4Q03VcvO5mReJaOoE4nmCZ"
+      },
+      "artists": [
+        {
+          "name": "\u3054\u3081\u3093\u306a\u3055\u3044\u304c\u8a00\u3048\u306a\u304f\u3066",
+          "url": "https://open.spotify.com/artist/3L0Tv3JqnHftZVEAq2P3xv"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227727,
+      "name": "\u96e8\u304c\u843d\u3061\u3066\u3044\u308b (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/1gCoxB6e4Sge0jnUUr69E1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Podcasts you need to have on your RADAR: Big Small Talk with Hannah Ferguson and Sarah Jane Adams.
 
-42 songs - 1 day 12 hr 55 min
+43 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [05 \| Fish On The Hook ft\. Zac Fisher](https://open.spotify.com/episode/3b4FNcuDa9fb3BlJd5XsOI) | [Goes Alright](https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD) | [Goes Alright](https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD) | 50:30 | 2022-06-27 | 2023-01-20 |
 | [14 \| Fit and Firing ft\. Connor Rogers](https://open.spotify.com/episode/4wHd9b9TSvkvbrohLvlMbu) | [Goes Alright](https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD) | [Goes Alright](https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD) | 46:16 | 2022-07-21 | 2023-01-20 |
 | [Alone But Not Lonely](https://open.spotify.com/episode/1qfnRn70wfKwc3GoVR19ww) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | [GIRL CODE](https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX) | 33:15 | 2022-07-21 | 2023-01-20 |
+| [Baby Reindeer, Bieber Pregnancy & \#BlockOut2024](https://open.spotify.com/episode/55vnwfaBDBakUtIQnsoxtU) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 56:55 | 2024-05-15 |  |
 | [Channel Seven, JK Rowling & Rebel Wilson's Memoir](https://open.spotify.com/episode/7puwd9TW2COcoDJRaqXkUB) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 1:00:50 | 2024-04-30 |  |
 | [Episode 114: Joan of Arc, the Saviour of France](https://open.spotify.com/episode/7aZ4UHNYzApJUOxoSdObzZ) | [Half\-Arsed History](https://open.spotify.com/show/1lKUxhXQys01cUobsYmjR0) | [Half\-Arsed History](https://open.spotify.com/album/1lKUxhXQys01cUobsYmjR0) | 49:37 | 2023-10-04 | 2024-05-01 |
 | [Episode 139: The History of the Toilet](https://open.spotify.com/episode/0cA8tTUPxrLJq0vPswmbzJ) | [Half\-Arsed History](https://open.spotify.com/show/1lKUxhXQys01cUobsYmjR0) | [Half\-Arsed History](https://open.spotify.com/album/1lKUxhXQys01cUobsYmjR0) | 56:02 | 2023-10-04 | 2024-05-01 |

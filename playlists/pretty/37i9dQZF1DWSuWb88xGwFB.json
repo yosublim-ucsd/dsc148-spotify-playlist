@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 34350,
+  "num_followers": 34362,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
+      },
+      "artists": [
+        {
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Equinox - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -323,22 +343,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
+        "name": "The Tribal - EP (Remixes)",
+        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
       },
       "artists": [
         {
-          "name": "Code 718",
-          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+          "name": "River Ocean",
+          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
         }
       ],
-      "duration_ms": 368466,
-      "name": "Equinox - Henrik Schwarz Remix",
-      "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
+      "duration_ms": 243920,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
+      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -355,22 +371,6 @@
       "duration_ms": 356676,
       "name": "Asuca - Tribal Mix",
       "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Tribal - EP (Remixes)",
-        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
-      },
-      "artists": [
-        {
-          "name": "River Ocean",
-          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
-      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Indonesia",
-        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 362666,
-      "name": "Indonesia - Sambal Badjak Mix",
-      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "So Deep, So Good",
         "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 456240,
       "name": "So Deep, So Good - Ndako Gboya Mix",
       "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 362666,
+      "name": "Indonesia - Sambal Badjak Mix",
+      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
     },
     {
       "added_at": "2022-03-03 13:59:16",

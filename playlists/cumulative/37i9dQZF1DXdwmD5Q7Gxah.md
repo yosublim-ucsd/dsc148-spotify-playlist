@@ -4,7 +4,7 @@
 
 > beabadoobee 🤝 rick rubin
 
-2,781 songs - 6 day 5 hr 50 min
+2,782 songs - 6 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 | 2021-08-28 | 2022-04-23 |
 | [Confidant](https://open.spotify.com/track/05rg3mS0oYnjjasNBxRXGv) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Confidant](https://open.spotify.com/album/7B8mo234xmaZO81T37LlcB) | 3:02 | 2020-03-14 | 2020-05-14 |
 | [Confidence \(feat\. Jon Waltz\)](https://open.spotify.com/track/6cMKaS2ZRD8GDgdTdufanl) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J) | [Nothing Gold Can Stay](https://open.spotify.com/album/4bdojHk9PdqHImi61mEaHJ) | 4:20 | 2021-02-06 | 2021-04-16 |
+| [Confusion Song](https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Confusion Song](https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5) | 2:41 | 2024-05-14 |  |
 | [Congratulations](https://open.spotify.com/track/1n9gX9HJTDeCLRCFt2M5Ca) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Congratulations](https://open.spotify.com/album/3WXMPPA3rK0qUqqg8CmUOf) | 2:57 | 2022-02-25 | 2022-04-23 |
 | [Contaminé](https://open.spotify.com/track/7fCnwMDblGAxI1YMNAKswZ) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [L.U.J.I.](https://open.spotify.com/album/1FX487jhlnh6GvIhhCK6yM) | 3:03 | 2020-05-22 | 2020-05-29 |
 | [Control \- Remix](https://open.spotify.com/track/4eZEMx539c9l1lLltt88kc) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v), [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Control \(Remix\)](https://open.spotify.com/album/59NDrrTXAwryGasN6THFwN) | 3:04 | 2020-07-09 | 2020-08-20 |
@@ -1677,7 +1678,7 @@
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-07 | 2023-07-14 |
 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV) | 4:09 | 2022-06-10 | 2022-07-01 |
 | [Never Had](https://open.spotify.com/track/6BUZERWFUMJmiWyMW0qH1p) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Never Had](https://open.spotify.com/album/2ZvYrGPgoLTN7SM7JAys7V) | 2:32 | 2020-07-24 | 2020-08-21 |
-| [Never Had A Dream Come True](https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | ["7"](https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ) | 4:00 | 2024-05-07 |  |
+| [Never Had A Dream Come True](https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | ["7"](https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ) | 4:00 | 2024-05-07 | 2024-05-15 |
 | [Never Had The Balls](https://open.spotify.com/track/5h68UTytwmTJDwoGbqLwzV) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 3:56 | 2019-10-25 | 2019-11-14 |
 | [Never There Enough](https://open.spotify.com/track/2iah3opmKlWZ2HUrCwVwzI) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Never There Enough](https://open.spotify.com/album/34e5ArGN0BSWvCn8KjE9Ly) | 3:12 | 2022-01-21 | 2022-04-09 |
 | [neverletyougo](https://open.spotify.com/track/6ps0RcnIrPoiMd9vfcA9KB) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [neverletyougo](https://open.spotify.com/album/2oNeFeW7cRXefZVwQA4eFf) | 2:58 | 2022-03-25 | 2022-06-22 |

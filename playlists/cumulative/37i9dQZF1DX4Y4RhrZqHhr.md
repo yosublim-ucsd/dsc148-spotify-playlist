@@ -4,7 +4,7 @@
 
 > The ocean, the sun, your friends, the music.
 
-599 songs - 1 day 8 hr 12 min
+601 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 | 2021-04-09 | 2022-01-11 |
 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 | 2022-03-23 |  |
 | [eoh](https://open.spotify.com/track/3oN9prOZJ8jR6rFP4YMJF9) | [Olympis](https://open.spotify.com/artist/23xCxwjg6Bqwm7rh6n9Kjd), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Hallasen](https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C), [Ludwiig](https://open.spotify.com/artist/7oKBrJAYHGk7dib8rWGwCR), [Julia Hallasen](https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup) | [eoh](https://open.spotify.com/album/0gJOTfFxUvUkqlHcgtEN4z) | 2:35 | 2021-04-09 | 2023-03-03 |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-05-14 |  |
 | [F For You](https://open.spotify.com/track/5ytp4U6YLqNppQdhmmVvHu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:28 | 2021-04-09 | 2022-01-11 |
 | [Fade Into Darkness \- Vocal Radio Mix](https://open.spotify.com/track/5kwAIpUBwhmiBpsJlcMgO1) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Fade Into Darkness](https://open.spotify.com/album/19XhhBi6GNTYYgSrB3hnzA) | 3:18 | 2021-04-09 |  |
 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 | 2021-04-09 | 2022-01-11 |
@@ -505,6 +506,7 @@
 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 | 2023-03-02 |  |
 | [Stereo Love \- Main Mix](https://open.spotify.com/track/16ehrl40oo4U6red2xTZMg) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [Stereo Love](https://open.spotify.com/album/6PXbYFBKVqRSghXGSAnMC2) | 4:08 | 2021-04-09 | 2023-03-03 |
 | [Stronger](https://open.spotify.com/track/7reUJYGI0BIhdzjgJKZ9S0) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Stronger](https://open.spotify.com/album/0KNvapEJhrDWK9mj5jxyiR) | 2:54 | 2022-01-10 | 2023-03-03 |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-05-14 |  |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-05-15 |  |
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2021-04-09 |  |
 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 | 2021-04-09 |  |

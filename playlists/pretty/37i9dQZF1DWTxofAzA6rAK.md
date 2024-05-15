@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,111 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,171 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 34 | [I Wish](https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h) | 2:55 |
 | 35 | [Live n' Learn](https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Live n' Learn](https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ) | 2:41 |
 | 36 | [Static](https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Static](https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O) | 2:36 |
-| 37 | [Solemn Request](https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Solemn Request](https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM) | 3:06 |
-| 38 | [Dunce Bat](https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Dunce Bat](https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV) | 2:36 |
+| 37 | [Dunce Bat](https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Dunce Bat](https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV) | 2:36 |
+| 38 | [Solemn Request](https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Solemn Request](https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM) | 3:06 |
 | 39 | [From Rags to Riches](https://open.spotify.com/track/4aiIKB4FplhLZq0TCh16Ya) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Damage Musiq](https://open.spotify.com/artist/0sjTBvvHmLPJ3vcmAjitTJ) | [From Rags to Riches](https://open.spotify.com/album/6u7JQUvZJJHCKXfQd1fhPp) | 3:17 |
 | 40 | [GPP](https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [GPP](https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW) | 3:13 |
 | 41 | [Dark Room](https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb) | [Shane O](https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF) | [Dark Room](https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb) | 3:13 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 119 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 |
 | 120 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 |
 | 121 | [Bufu](https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Bufu](https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe) | 3:18 |
-| 122 | [Glock 40](https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7) | 2:16 |
-| 123 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 |
+| 122 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 |
+| 123 | [Glock 40](https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7) | 2:16 |
 | 124 | [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 |
 | 125 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 |
 | 126 | [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 |

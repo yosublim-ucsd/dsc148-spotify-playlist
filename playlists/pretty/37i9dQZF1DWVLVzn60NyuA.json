@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 302180,
+  "num_followers": 302377,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -443,8 +443,8 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 185898,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -595,8 +595,8 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+      "duration_ms": 185898,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -899,8 +899,8 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
       "artists": [
         {
@@ -908,13 +908,17 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 210194,
-      "name": "Ololufe (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -987,22 +991,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -1031,8 +1019,24 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
       "artists": [
         {
@@ -1040,17 +1044,13 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+      "duration_ms": 210194,
+      "name": "Ololufe (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "We Caa Done (feat. Drake)",
-        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "We Caa Done (feat. Drake)",
-      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 184661,
       "name": "Ghazali (feat. Bryan Mg)",
       "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "AFROBOY",
-        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
-      },
-      "artists": [
-        {
-          "name": "Kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 191827,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Obsidian",
         "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2203,26 +2203,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Eve Bounce",
-        "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
-      },
-      "artists": [
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Eve Bounce - Remix",
-      "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "D O D O (Adekunle Gold Version)",
         "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
       },
@@ -2239,6 +2219,26 @@
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Eve Bounce",
+        "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "Eve Bounce - Remix",
+      "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "Kontrol",
-        "url": "https://open.spotify.com/album/0qvdWQTD4DeilItZUvHecT"
-      },
-      "artists": [
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Kontrol",
-      "url": "https://open.spotify.com/track/1090OWoP6JTpYAaSSEBvGy"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "The Highest Grade Vol. 2.0 - Caribbean Kush",
         "url": "https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5"
       },
@@ -2731,6 +2715,22 @@
       "duration_ms": 149369,
       "name": "Tunup (feat. Konshens & Bokoesam)",
       "url": "https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "Kontrol",
+        "url": "https://open.spotify.com/album/0qvdWQTD4DeilItZUvHecT"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Kontrol",
+      "url": "https://open.spotify.com/track/1090OWoP6JTpYAaSSEBvGy"
     },
     {
       "added_at": "2024-04-11 12:18:53",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2024-04-11 12:18:53",
       "album": {
-        "name": "I Dey Slide",
-        "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
-      },
-      "artists": [
-        {
-          "name": "Yung Dada",
-          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
-        }
-      ],
-      "duration_ms": 202491,
-      "name": "I Dey Slide",
-      "url": "https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7"
-    },
-    {
-      "added_at": "2024-04-11 12:18:53",
-      "album": {
         "name": "Karma Riddim",
         "url": "https://open.spotify.com/album/2CTzNgofmzUZ4jnbqLjoUG"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 164135,
       "name": "Karma Riddim",
       "url": "https://open.spotify.com/track/3ilMKDKPxTeboM0BpXPyjk"
+    },
+    {
+      "added_at": "2024-04-11 12:18:53",
+      "album": {
+        "name": "I Dey Slide",
+        "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
+      },
+      "artists": [
+        {
+          "name": "Yung Dada",
+          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
+        }
+      ],
+      "duration_ms": 202491,
+      "name": "I Dey Slide",
+      "url": "https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7"
     }
   ],
   "unique_name": "Summer Vibes",

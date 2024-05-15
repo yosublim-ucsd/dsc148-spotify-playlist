@@ -1,12 +1,12 @@
 {
-  "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
-  "num_followers": 66614,
+  "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
+  "num_followers": 66628,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAAjA6xGY5MtKUFFDFpCyLzn",
+  "snapshot_id": "ZkFYAAAAAACMgdWVhb7EOHvjg2P86pio",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
+        "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 334378,
+      "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
+      "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agarrate Fuerte",
         "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
@@ -611,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
-        "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 334378,
-      "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
-      "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 192546,
       "name": "Bumerang",
       "url": "https://open.spotify.com/track/5OAIDWC6OWeJFGS3KZPkLF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 270054,
+      "name": "Te Puedo Enamorar",
+      "url": "https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 178036,
       "name": "Carm\u00edn",
       "url": "https://open.spotify.com/track/1SOSprxl8Nzilxm4hJwyi3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 270054,
-      "name": "Te Puedo Enamorar",
-      "url": "https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 205226,
-      "name": "Pinto Con Sangre",
-      "url": "https://open.spotify.com/track/1Gt6ScG7Iwk5baPKu8QL5m"
+      "duration_ms": 198160,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/4CGt19vmFmyEKmWTnTXDcs"
     },
     {
       "added_at": null,

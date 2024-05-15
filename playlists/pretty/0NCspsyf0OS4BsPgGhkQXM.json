@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2016424,
+  "num_followers": 2016433,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5JRTsqHM1AWqX2e4D7IPYbfszexF3",
+  "snapshot_id": "AAA5Oq+gN23h5StvqqiNfHRP179pllEd",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -63,6 +63,26 @@
       "duration_ms": 214204,
       "name": "Hislerim",
       "url": "https://open.spotify.com/track/32Mh7kOCWmNTZgre0cGvCV"
+    },
+    {
+      "added_at": "2024-05-10 21:40:09",
+      "album": {
+        "name": "The Machine (Sped Up)",
+        "url": "https://open.spotify.com/album/4Qj1YaiObeQCrksCZ1b2dY"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "duration_ms": 154208,
+      "name": "The Machine - Sped Up",
+      "url": "https://open.spotify.com/track/44OuxVAGgMvw1J9jn4lFt3"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -179,50 +199,6 @@
     {
       "added_at": "2024-01-29 22:53:51",
       "album": {
-        "name": "The Machine",
-        "url": "https://open.spotify.com/album/0cDcH04KfQpQe5cEo6agvL"
-      },
-      "artists": [
-        {
-          "name": "Reed Wonder",
-          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
-        },
-        {
-          "name": "Aurora Olivas",
-          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Machine",
-      "url": "https://open.spotify.com/track/19ItuvrZfTudwC6S5lkDH3"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "My Own Advice",
-        "url": "https://open.spotify.com/album/38RdF3YX7jMghQqhjAvXi4"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "My Own Advice",
-      "url": "https://open.spotify.com/track/76K4ShMg2oDyw6VfKeabB8"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
         "name": "Love Game",
         "url": "https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO"
       },
@@ -325,22 +301,6 @@
       "url": "https://open.spotify.com/track/62N2JSA0jHmSH7Va9t7hIf"
     },
     {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/4dno18wmZxZldvHiApenIa"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
-    },
-    {
       "added_at": "2024-04-05 16:52:38",
       "album": {
         "name": "Thank You (Not So Bad)",
@@ -403,26 +363,6 @@
     {
       "added_at": "2024-01-29 22:53:51",
       "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/4FVnSnXWuUsL8dD3avOL0h"
-      },
-      "artists": [
-        {
-          "name": "Vanic",
-          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
-        },
-        {
-          "name": "Brassie",
-          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Jinx",
-      "url": "https://open.spotify.com/track/3NreeKDKXqET25p7w1UxXZ"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
         "name": "falling down",
         "url": "https://open.spotify.com/album/28Bn7Rb61877L23Dtn0AkQ"
       },
@@ -451,26 +391,6 @@
       "duration_ms": 268000,
       "name": "Overthinker",
       "url": "https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "7-DS",
-        "url": "https://open.spotify.com/album/4zyyVHaWLaQw0vyYTKV77E"
-      },
-      "artists": [
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "7-DS",
-      "url": "https://open.spotify.com/track/3KAHkivOxoBLPeWMiPwYjO"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -571,6 +491,22 @@
       "duration_ms": 250285,
       "name": "Blue KNY Factory Remix - KNY Factory Remix",
       "url": "https://open.spotify.com/track/2Be2IeraxfBRyyZoID1cx2"
+    },
+    {
+      "added_at": "2024-05-14 20:46:19",
+      "album": {
+        "name": "Suffocation (Super Slowed)",
+        "url": "https://open.spotify.com/album/7wYVp4pOKIydQQkcfgjlPB"
+      },
+      "artists": [
+        {
+          "name": "noturgf",
+          "url": "https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS"
+        }
+      ],
+      "duration_ms": 97000,
+      "name": "Suffocation - Super Slowed",
+      "url": "https://open.spotify.com/track/4bndzUNDwh8G26aZOYoewq"
     },
     {
       "added_at": "2024-05-07 21:29:50",
@@ -779,6 +715,26 @@
     {
       "added_at": "2024-01-29 22:53:51",
       "album": {
+        "name": "The Machine",
+        "url": "https://open.spotify.com/album/0cDcH04KfQpQe5cEo6agvL"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The Machine",
+      "url": "https://open.spotify.com/track/19ItuvrZfTudwC6S5lkDH3"
+    },
+    {
+      "added_at": "2024-01-29 22:53:51",
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H"
       },
@@ -807,6 +763,26 @@
       "duration_ms": 132310,
       "name": "LEMME TALK TO EM",
       "url": "https://open.spotify.com/track/3TaAdsINVhN5Zmt5kaXQFx"
+    },
+    {
+      "added_at": "2024-02-02 20:11:24",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "VISXGE",
+          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
+        }
+      ],
+      "duration_ms": 88740,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
     },
     {
       "added_at": "2024-02-02 19:44:53",
@@ -945,6 +921,30 @@
       "url": "https://open.spotify.com/track/7dGY8CoLPJmGEaQgsRLL4f"
     },
     {
+      "added_at": "2024-02-02 20:11:30",
+      "album": {
+        "name": "PLUS VIBE",
+        "url": "https://open.spotify.com/album/514moM4LlO4shbYdRXNRrl"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Skorde",
+          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
+        }
+      ],
+      "duration_ms": 102105,
+      "name": "PLUS VIBE",
+      "url": "https://open.spotify.com/track/2tYFO2XyxoHkimTJ9AQsM6"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "MY MASOCHISTIC MIND",
@@ -959,26 +959,6 @@
       "duration_ms": 131076,
       "name": "I am a Machine",
       "url": "https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC"
-    },
-    {
-      "added_at": "2024-02-02 20:11:24",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "VISXGE",
-          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
-        }
-      ],
-      "duration_ms": 88740,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
     },
     {
       "added_at": "2024-02-13 18:17:25",
@@ -1007,30 +987,6 @@
       "duration_ms": 163845,
       "name": "Jungle - Arcando Remix",
       "url": "https://open.spotify.com/track/3tFq8IZqLaqnZO0rxbcanH"
-    },
-    {
-      "added_at": "2024-02-02 20:11:30",
-      "album": {
-        "name": "PLUS VIBE",
-        "url": "https://open.spotify.com/album/514moM4LlO4shbYdRXNRrl"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        },
-        {
-          "name": "Skorde",
-          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
-        }
-      ],
-      "duration_ms": 102105,
-      "name": "PLUS VIBE",
-      "url": "https://open.spotify.com/track/2tYFO2XyxoHkimTJ9AQsM6"
     },
     {
       "added_at": "2024-05-10 21:38:50",
@@ -1107,6 +1063,22 @@
       "duration_ms": 188307,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/6mw6uMkFrjeVrx1wZVP03z"
+    },
+    {
+      "added_at": "2024-05-14 22:39:27",
+      "album": {
+        "name": "ULTRALIMINAL",
+        "url": "https://open.spotify.com/album/170KIOZdH7mUBd1wBeK2Ik"
+      },
+      "artists": [
+        {
+          "name": "UNLEAZER",
+          "url": "https://open.spotify.com/artist/6aANlbQEeuyCvSVmCiQJR7"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "ULTRALIMINAL",
+      "url": "https://open.spotify.com/track/4OiUscrOUxuT4KGYsJdyVJ"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1201,6 +1173,22 @@
       "url": "https://open.spotify.com/track/0D66zcK1wbKFMCh0xBfPpS"
     },
     {
+      "added_at": "2024-05-14 18:27:55",
+      "album": {
+        "name": "Lollo",
+        "url": "https://open.spotify.com/album/5K2nM0JZcOhnWx7q1KiWho"
+      },
+      "artists": [
+        {
+          "name": "Onhell",
+          "url": "https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Lollo",
+      "url": "https://open.spotify.com/track/2exbumTywZBrZVCUBulw0p"
+    },
+    {
       "added_at": "2024-02-16 18:52:49",
       "album": {
         "name": "Quiet in the Backseat",
@@ -1219,6 +1207,22 @@
       "duration_ms": 196666,
       "name": "Maybe It's a Ghost",
       "url": "https://open.spotify.com/track/5Qx3oA5TH3jS8xN3zuJrru"
+    },
+    {
+      "added_at": "2024-05-14 18:42:16",
+      "album": {
+        "name": "BURNING OUT",
+        "url": "https://open.spotify.com/album/6NeHaP5TF8cyBVY1MT1XfB"
+      },
+      "artists": [
+        {
+          "name": "BERNZ",
+          "url": "https://open.spotify.com/artist/1mEkCpjXPIymCGkKCJzcl5"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "BURNING OUT",
+      "url": "https://open.spotify.com/track/4Eo8tsg8EEMhQRSOYWawcF"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1275,30 +1279,6 @@
       "duration_ms": 256500,
       "name": "Borderline - Vanic Remix",
       "url": "https://open.spotify.com/track/3lO38SiB2WAQRqTAHN7WTC"
-    },
-    {
-      "added_at": "2024-04-29 20:20:37",
-      "album": {
-        "name": "KRVSH!",
-        "url": "https://open.spotify.com/album/65kyqMMsojSFxxSTdRt3Wt"
-      },
-      "artists": [
-        {
-          "name": "BOOTY LEAK",
-          "url": "https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx"
-        },
-        {
-          "name": "HOMINID",
-          "url": "https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h"
-        },
-        {
-          "name": "C\u00d8V3R1st",
-          "url": "https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS"
-        }
-      ],
-      "duration_ms": 103819,
-      "name": "KRVSH!",
-      "url": "https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy"
     },
     {
       "added_at": "2024-02-07 17:46:44",
@@ -1587,26 +1567,6 @@
       "duration_ms": 315483,
       "name": "The Gallows",
       "url": "https://open.spotify.com/track/5bMy00AZuGFqiWqps87HWB"
-    },
-    {
-      "added_at": "2024-05-10 21:40:09",
-      "album": {
-        "name": "The Machine (Sped Up)",
-        "url": "https://open.spotify.com/album/4Qj1YaiObeQCrksCZ1b2dY"
-      },
-      "artists": [
-        {
-          "name": "Reed Wonder",
-          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
-        },
-        {
-          "name": "Aurora Olivas",
-          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
-        }
-      ],
-      "duration_ms": 154208,
-      "name": "The Machine - Sped Up",
-      "url": "https://open.spotify.com/track/44OuxVAGgMvw1J9jn4lFt3"
     },
     {
       "added_at": "2024-03-04 23:30:44",
@@ -1911,22 +1871,6 @@
     {
       "added_at": "2024-01-29 22:53:51",
       "album": {
-        "name": "Montagem Coral Killer",
-        "url": "https://open.spotify.com/album/2iBFtnCIEcqIQKvTvurK5b"
-      },
-      "artists": [
-        {
-          "name": "1HXSX",
-          "url": "https://open.spotify.com/artist/11pkkllIaYm8iO0W9cUTJY"
-        }
-      ],
-      "duration_ms": 138697,
-      "name": "Montagem Coral Killer",
-      "url": "https://open.spotify.com/track/72btxTXqmlgNz6aMBub60l"
-    },
-    {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
         "name": "tokyo krush",
         "url": "https://open.spotify.com/album/7gGxiUC15UnVBk5CDDcqkl"
       },
@@ -1975,6 +1919,30 @@
       "duration_ms": 124249,
       "name": "Moments",
       "url": "https://open.spotify.com/track/0X6ywfxeGw4VMTq2oC06EL"
+    },
+    {
+      "added_at": "2024-04-29 20:20:37",
+      "album": {
+        "name": "KRVSH!",
+        "url": "https://open.spotify.com/album/65kyqMMsojSFxxSTdRt3Wt"
+      },
+      "artists": [
+        {
+          "name": "BOOTY LEAK",
+          "url": "https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx"
+        },
+        {
+          "name": "HOMINID",
+          "url": "https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h"
+        },
+        {
+          "name": "C\u00d8V3R1st",
+          "url": "https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS"
+        }
+      ],
+      "duration_ms": 103819,
+      "name": "KRVSH!",
+      "url": "https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -2903,6 +2871,82 @@
       "duration_ms": 115921,
       "name": "did i tell u that i miss u",
       "url": "https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4"
+    },
+    {
+      "added_at": "2024-05-14 18:14:40",
+      "album": {
+        "name": "WYM!",
+        "url": "https://open.spotify.com/album/4YQujOzblBgteIsPIKCMay"
+      },
+      "artists": [
+        {
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        },
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "duration_ms": 101745,
+      "name": "WYM!",
+      "url": "https://open.spotify.com/track/3iSNtpcu9HNwdSVsIztE31"
+    },
+    {
+      "added_at": "2024-05-14 18:14:40",
+      "album": {
+        "name": "HEY HEY",
+        "url": "https://open.spotify.com/album/2PCeDB701jViNYJIV5dSvP"
+      },
+      "artists": [
+        {
+          "name": "WZ Beat",
+          "url": "https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9"
+        },
+        {
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+        }
+      ],
+      "duration_ms": 92769,
+      "name": "HEY HEY",
+      "url": "https://open.spotify.com/track/2ogjIP2yhAgRpFVlolez0Z"
+    },
+    {
+      "added_at": "2024-05-14 18:14:40",
+      "album": {
+        "name": "7 Seas",
+        "url": "https://open.spotify.com/album/2nEPONY9Pmmpcuo923AIm1"
+      },
+      "artists": [
+        {
+          "name": "LOSTOV",
+          "url": "https://open.spotify.com/artist/4iA6lkctWaj1qoPJ65veHb"
+        }
+      ],
+      "duration_ms": 147604,
+      "name": "7 Seas",
+      "url": "https://open.spotify.com/track/2yCO2rCXSiEv8QypzeMecy"
+    },
+    {
+      "added_at": "2024-05-14 18:14:40",
+      "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/0Oc07579Big4BUEMU7n8BH"
+      },
+      "artists": [
+        {
+          "name": "Nulteex",
+          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
+        }
+      ],
+      "duration_ms": 76620,
+      "name": "ERA",
+      "url": "https://open.spotify.com/track/0ylefvjDVKqGEsMUwMrwTi"
     }
   ],
   "unique_name": "Trap Nation",

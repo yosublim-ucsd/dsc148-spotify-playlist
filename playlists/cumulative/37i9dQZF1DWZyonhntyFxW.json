@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 168000,
       "name": "3al hady",
       "url": "https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT"
@@ -3154,6 +3154,28 @@
       "duration_ms": 181370,
       "name": "Mashakel Kteera",
       "url": "https://open.spotify.com/track/2puegkqXvCbBEXZmRlcXg3"
+    },
+    {
+      "album": {
+        "name": "Mashy 3almaya",
+        "url": "https://open.spotify.com/album/5RCZizYMvmyhcY75A8c32C"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        },
+        {
+          "name": "El Sadaat",
+          "url": "https://open.spotify.com/artist/2w5WXQsG6LL3W5VV3Cdb5T"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205885,
+      "name": "Mashy 3almaya",
+      "url": "https://open.spotify.com/track/3pvFAPBiDUQPX5vxjZu4f9"
     },
     {
       "album": {

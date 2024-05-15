@@ -138,7 +138,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 329730,
       "name": "Anyhow Reprise",
       "url": "https://open.spotify.com/track/3DvvqLfDgDnuHhm7NfgcNh"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 376186,
       "name": "Better - Live",
       "url": "https://open.spotify.com/track/39cX8eJunXD8YGbupo4raV"
@@ -388,10 +388,32 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 379507,
       "name": "Get Up - Live",
       "url": "https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut"
+    },
+    {
+      "album": {
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Sharon Ann",
+          "url": "https://open.spotify.com/artist/7qJwHqf7S1UzhV0BuzU9yf"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306368,
+      "name": "Glory To God Forever / There Is Nothing Like / Way Maker - Live",
+      "url": "https://open.spotify.com/track/4uCaoBzTg4t2F1FqjGrdlO"
     },
     {
       "album": {
@@ -660,7 +682,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 258808,
       "name": "IDK",
       "url": "https://open.spotify.com/track/7iBKYoVKGE8yJ2paD87Zvi"
@@ -678,7 +700,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 245146,
       "name": "If He Did It Before....Same God - Live",
       "url": "https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC"
@@ -826,7 +848,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 195404,
       "name": "New",
       "url": "https://open.spotify.com/track/2ArYLCGjKDAwhr7DKQ7v2v"
@@ -898,7 +920,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 625443,
       "name": "Only One Night Tho - Live",
       "url": "https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG"
@@ -956,7 +978,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 414800,
       "name": "Overcome - Live",
       "url": "https://open.spotify.com/track/18H8qYiENNgOZpkLteMXh8"
@@ -1008,7 +1030,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 199725,
       "name": "Same God - Live",
       "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 493826,
       "name": "The Worship Medley (There Is Nothing Like/Glory To God Forever) - Live",
       "url": "https://open.spotify.com/track/1vFEBipU2hVB15OjzFrrds"
@@ -1178,7 +1200,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 415745,
       "name": "Walk By Faith",
       "url": "https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl"
@@ -1262,7 +1284,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 463666,
       "name": "What Can I Do - Live",
       "url": "https://open.spotify.com/track/3MwZoGEVR9i2AWzA8Vko9O"
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 362773,
       "name": "You Are Everything - Live",
       "url": "https://open.spotify.com/track/3Xoh1EUt6BjiwXQnHqLuM9"

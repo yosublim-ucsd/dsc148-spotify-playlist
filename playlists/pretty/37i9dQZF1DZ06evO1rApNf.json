@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
-  "num_followers": 124067,
+  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
+  "num_followers": 124075,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAB2ue1ll8cnSMJmlTUbrZ6v",
+  "snapshot_id": "ZkFYAAAAAABLFTXGfXwQxPacNnftAONx",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigo Buscandote",
         "url": "https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM"
       },
@@ -363,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vas a Destrozarme (Versi\u00f3n Eden Mu\u00f1oz)",
         "url": "https://open.spotify.com/album/1Beic6eSv6o8vl2UxU0WZo"
       },
@@ -373,32 +373,12 @@
         },
         {
           "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7jpP5NoI4GwLIHsqkS4Ukj"
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
       "duration_ms": 177654,
       "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
       "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 177698,
-      "name": "Rolex",
-      "url": "https://open.spotify.com/track/5hXlAWrc8L8hYhxUnXlqFf"
     },
     {
       "added_at": null,
@@ -491,6 +471,26 @@
       "duration_ms": 307473,
       "name": "Himno A La Alegr\u00eda",
       "url": "https://open.spotify.com/track/7F5rc8a0xD6DCloB2kROq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 177698,
+      "name": "Rolex",
+      "url": "https://open.spotify.com/track/5hXlAWrc8L8hYhxUnXlqFf"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 130653,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rifresh",
         "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 177515,
       "name": "Doler\u00eda",
       "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 130653,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Tiene Novio (Remix)",
+        "url": "https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Sharo Towers",
+          "url": "https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r"
+        }
+      ],
+      "duration_ms": 212053,
+      "name": "Ya No Tiene Novio - Remix",
+      "url": "https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
@@ -1103,26 +1131,6 @@
       "duration_ms": 137333,
       "name": "OUCH",
       "url": "https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Hace Falta Que Lo Digas",
-        "url": "https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Lerner",
-          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 218562,
-      "name": "No Hace Falta Que Lo Digas",
-      "url": "https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB"
     }
   ],
   "unique_name": "This Is Mau y Ricky",

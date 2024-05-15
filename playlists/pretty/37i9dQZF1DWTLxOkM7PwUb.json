@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 43843,
+  "num_followers": 43881,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 243957,
+      "name": "Las Jordan",
+      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 267706,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 243957,
-      "name": "Las Jordan",
-      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
         "name": "Percocet (Remix)",
         "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1351,26 +1351,26 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "La Nueva Ola",
-        "url": "https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt"
+        "name": "Calle 2 (Remix)",
+        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         },
         {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Coscu",
+          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
         }
       ],
-      "duration_ms": 189250,
-      "name": "Vuelva a Ver",
-      "url": "https://open.spotify.com/track/1mf4LgYP4u7AEdEawelr6s"
+      "duration_ms": 222080,
+      "name": "Calle 2 - Remix",
+      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1391,6 +1391,30 @@
       "duration_ms": 269589,
       "name": "Cubierto de Ti",
       "url": "https://open.spotify.com/track/4pN4icvWINm9uN3bElfbec"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "La Nueva Ola",
+        "url": "https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Vuelva a Ver",
+      "url": "https://open.spotify.com/track/1mf4LgYP4u7AEdEawelr6s"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1451,42 +1475,18 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "Calle 2 (Remix)",
-        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
+        "name": "DAME LOVE",
+        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
       },
       "artists": [
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Coscu",
-          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 222080,
-      "name": "Calle 2 - Remix",
-      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "L.O.V.E.",
-        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 118746,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
+      "duration_ms": 190557,
+      "name": "DAME LOVE",
+      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1507,18 +1507,42 @@
     {
       "added_at": "2024-03-18 15:07:52",
       "album": {
-        "name": "DAME LOVE",
-        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
       },
       "artists": [
         {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 190557,
-      "name": "DAME LOVE",
-      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
+      "duration_ms": 118746,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
+    },
+    {
+      "added_at": "2024-03-18 15:07:52",
+      "album": {
+        "name": "HISTORIA",
+        "url": "https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "duration_ms": 209513,
+      "name": "HISTORIA",
+      "url": "https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk"
     },
     {
       "added_at": "2024-03-18 15:07:52",
@@ -1587,30 +1611,6 @@
       "duration_ms": 181800,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp"
-    },
-    {
-      "added_at": "2024-03-18 15:07:52",
-      "album": {
-        "name": "HISTORIA",
-        "url": "https://open.spotify.com/album/7MFs4In0iDE87IHLCfDDaT"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        }
-      ],
-      "duration_ms": 209513,
-      "name": "HISTORIA",
-      "url": "https://open.spotify.com/track/6sYhR2oJ4wqJlstBuTvZYk"
     },
     {
       "added_at": "2024-03-18 15:07:52",

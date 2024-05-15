@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -9482,7 +9482,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 118250,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/0JGjpulWnCKYNryeaX3GWM"
@@ -10116,7 +10116,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 226391,
       "name": "Florin Salam",
       "url": "https://open.spotify.com/track/1nbqe9tUVAsdd4W3vBLl5q"
@@ -14366,7 +14366,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 149647,
       "name": "Iubire in Rate",
       "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
@@ -16292,7 +16292,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -17772,7 +17772,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 207761,
       "name": "METGALA",
       "url": "https://open.spotify.com/track/30TWeDBTgFKgIvnZ3MDnBA"
@@ -31280,6 +31280,10 @@
         {
           "name": "Oscar",
           "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
         }
       ],
       "date_added": "2024-04-27",
@@ -32962,7 +32966,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 137538,
       "name": "\u021aiganc\u0103 Balcanic\u0103",
       "url": "https://open.spotify.com/track/3GVCA9D3bm9xIQePPn7YKw"

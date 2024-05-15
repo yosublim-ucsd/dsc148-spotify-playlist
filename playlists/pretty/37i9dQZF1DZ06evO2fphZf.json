@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 9446,
+  "num_followers": 9458,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAC1iJr0mMZ8E+RaYkwT1Kom",
+  "snapshot_id": "ZkFYAAAAAAD/hx2+GwtJDmu1joa7N+nV",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "day dream",
-        "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "day dream",
-      "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Yours",
         "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 172608,
       "name": "Never Yours",
       "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "day dream",
+        "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "day dream",
+      "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
     },
     {
       "added_at": null,

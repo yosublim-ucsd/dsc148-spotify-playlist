@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > Blood runs in the family\. Listen to the music from and inspired by The Brothers Sun, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,334 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,337 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 6 | [PIMP](https://open.spotify.com/track/5aJI7OzC1n3XKVLgYAxgwj) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [55](https://open.spotify.com/album/4rpd0WUOUL3TF414Ptmy6c) | 3:14 |
 | 7 | [CICATRICES](https://open.spotify.com/track/05k8AIzwMRdsykHWwNXRCt) | [Yohan Jung](https://open.spotify.com/artist/4DaZSlEupghHnfSiSivjEX) | [CICATRICES](https://open.spotify.com/album/1ffjUjFRbftqogS0QfT7CM) | 2:37 |
 | 8 | [Burnt Rice \(feat\. Yung GEMMY\)](https://open.spotify.com/track/2S4N7RYlhHr1vWadDaleuJ) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Yung GEMMY](https://open.spotify.com/artist/5ZAPfZ2QrWRwg7vtyfky9t) | [Burnt Rice \(feat\. Yung GEMMY\)](https://open.spotify.com/album/2QIAWsoHz28fOoMDnDwRXc) | 2:00 |
-| 9 | [Comme Des Garçons \(Like The Boys\) \- Pabllo Vittar x Brabo Remix](https://open.spotify.com/track/5fMV4SvvtVNtVWar5qYgOl) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo](https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT) | [Comme Des Garçons \(Like The Boys\) \[Pabllo Vittar x Brabo Remix\]](https://open.spotify.com/album/0ED2oqDlTgP1bJgFSPaWwn) | 3:42 |
+| 9 | [Comme Des Garçons \(Like The Boys\) \(Pabllo Vittar x Brabo Remix\)](https://open.spotify.com/track/5fMV4SvvtVNtVWar5qYgOl) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brabo](https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT) | [Comme Des Garçons \(Like The Boys\) \(Pabllo Vittar x Brabo Remix\)](https://open.spotify.com/album/0ED2oqDlTgP1bJgFSPaWwn) | 3:42 |
 | 10 | [Drip](https://open.spotify.com/track/3H6LY9tKggsxthGMUdVHXC) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Drip](https://open.spotify.com/album/4EAjbZ9Wtump7ONOCoBnLJ) | 3:10 |
 | 11 | [Surrender To Me](https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ) | [FireCityFunk](https://open.spotify.com/artist/3fp7WTKKzrpXiS9kXzkhkF) | [Surrender To Me](https://open.spotify.com/album/1MHqH1tfMRvWJXmHzJlQNZ) | 3:34 |
 | 12 | [Leave Me Alone](https://open.spotify.com/track/4wJpnZTJ1WiEC8n9kUzlHT) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Among Heads](https://open.spotify.com/album/1Jkh2XEpMKKDsrCVH94e9y) | 3:18 |

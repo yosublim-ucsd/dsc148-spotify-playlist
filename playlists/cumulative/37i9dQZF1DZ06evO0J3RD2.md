@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [A.M.P.](https://open.spotify.com/track/3QqZ3IX7jXUViisvlMT4tM) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:22 | 2023-08-19 |  |
 | [Banquet \- Live at Studio 4](https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live At Studio 4](https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV) | 3:05 | 2022-09-19 |  |
-| [Barbed Wire Body](https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Barbed Wire Body](https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm) | 3:28 | 2022-09-16 |  |
+| [Barbed Wire Body](https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Barbed Wire Body](https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm) | 3:28 | 2022-09-16 | 2024-05-15 |
 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 | 2022-09-16 |  |
 | [Coeur D’Alene](https://open.spotify.com/track/0Rn0JiS3ycW4bXqnRYeH2S) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:29 | 2023-08-19 | 2023-08-29 |
 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 | 2022-09-16 |  |

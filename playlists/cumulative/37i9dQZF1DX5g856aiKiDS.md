@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-307 songs - 17 hr 15 min
+308 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 | 2022-09-05 |  |
 | [Home \(away from home\)](https://open.spotify.com/track/3XEeAlrVUxxS23NOJaF6CC) | [Dazzling Jihye](https://open.spotify.com/artist/5T6o5MUD02GoAhKjiJgCgB) | [Home \(away from home\)](https://open.spotify.com/album/1O7cZLq8I2Aq2M1n603g10) | 4:48 | 2022-07-04 | 2022-07-09 |
 | [honest \(feat\. 16\)](https://open.spotify.com/track/4Z6goHBB4GVpVkDwSQypMI) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [honest](https://open.spotify.com/album/33elE8VZ5oU1zYgA1Tkejs) | 2:53 | 2023-11-04 | 2023-11-16 |
-| [Hope You're Doing Well](https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:04 | 2024-05-09 |  |
+| [Hope You're Doing Well](https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:04 | 2024-05-09 | 2024-05-15 |
 | [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 | 2022-10-08 | 2022-10-14 |
 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 | 2024-03-21 | 2024-05-08 |
 | [How much more \(Feat\. Chan\)](https://open.spotify.com/track/0n7dhbhACD43sGsvGwJ1St) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Love & Groove](https://open.spotify.com/album/11tgnCPolVS02npePYySB0) | 3:21 | 2023-10-29 | 2023-11-05 |
@@ -219,6 +219,7 @@
 | [Red Muhly](https://open.spotify.com/track/6eW9BHXYB5hgosR6zQ4WxB) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:33 | 2022-04-12 | 2022-04-21 |
 | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/track/30SwX34WgPlXKkqnJHrhlG) | [LOTI](https://open.spotify.com/artist/5HlwsKjYi0iygvWg19itif), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/album/0Nt3sn3MrZhQb3hfR3xEvL) | 3:29 | 2023-01-13 | 2023-01-26 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-03-31 |  |
+| [Roommates](https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Roommates](https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS) | 2:30 | 2024-05-14 |  |
 | [Running to You](https://open.spotify.com/track/3UoHkXZkIZz7Lna8rwzYiy) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Running to You](https://open.spotify.com/album/2DJwEaPL3UvpqwyLQSnuN2) | 3:31 | 2022-05-11 | 2022-06-10 |
 | [Safety Distance](https://open.spotify.com/track/513DfQz8PCkHlnWcn1QeLJ) | [휘슬 \(Whistle\)](https://open.spotify.com/artist/6zZR8DsPLAROAhjBYRGROH) | [Safety Distance](https://open.spotify.com/album/2z1r6akTAwpd3f6bTWmJr9) | 3:47 | 2022-05-02 | 2022-05-12 |
 | [say what's on your mind](https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [as long as you're okay](https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn) | 2:53 | 2022-07-22 | 2023-03-16 |

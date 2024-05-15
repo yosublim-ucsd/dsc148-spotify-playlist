@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-146 songs - 6 hr 47 min
+147 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 | 2023-03-12 |  |
 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 | 2023-03-12 |  |
 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 | 2023-01-26 |  |
-| [Kjæreste](https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Kjæreste](https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm) | 2:23 | 2023-03-12 |  |
+| [Kjæreste](https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Kjæreste](https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm) | 2:23 | 2023-03-12 | 2024-05-15 |
 | [La Luce Nel Cuore](https://open.spotify.com/track/2PfIOBRbPjXIkJI2cCDxz3) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Selected Works](https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m) | 2:57 | 2023-01-26 |  |
 | [Light through a Willow's Leaves](https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Light through a Willow's Leaves](https://open.spotify.com/album/4ERDVnEd0b6ul3FjS1FNB4) | 1:52 | 2023-01-26 | 2023-09-22 |
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-03-12 |  |
@@ -141,6 +141,7 @@
 | [Time is the Longest Distance](https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL) | [Danielle Fleur](https://open.spotify.com/artist/4SlWk9stVDNIL6l4BK2MlI) | [Time is the Longest Distance](https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q) | 2:04 | 2023-01-26 |  |
 | [to god knows where \- silence](https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS) | [BigRicePiano](https://open.spotify.com/artist/6NZehyzoXBTOmvFzJyp6RV) | [to god knows where](https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1) | 3:24 | 2023-03-12 |  |
 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 | 2023-01-26 |  |
+| [Truly Yours](https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Truly Yours](https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7) | 3:05 | 2023-03-12 |  |
 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 | 2023-01-26 | 2023-08-26 |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2023-01-26 |  |
 | [Under Cold Water](https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Under Cold Water](https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq) | 2:06 | 2023-03-12 |  |

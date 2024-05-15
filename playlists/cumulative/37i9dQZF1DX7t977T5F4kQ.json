@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Amerado",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Kofi Kinaata",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -812,6 +812,24 @@
       "duration_ms": 202543,
       "name": "Atide",
       "url": "https://open.spotify.com/track/6scZrxPXUjUM5CdkV4onSp"
+    },
+    {
+      "album": {
+        "name": "Kofi OO Kofi",
+        "url": "https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274800,
+      "name": "Auntie Ama",
+      "url": "https://open.spotify.com/track/4Kt1qclcbspAr5ENFhBcPR"
     },
     {
       "album": {

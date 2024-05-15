@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 191044,
+  "num_followers": 191064,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAADGQvlfNfsXfiCwBo7JBrsy",
+  "snapshot_id": "ZkFYAAAAAACKI8c254Bi2UgTiLc26vXv",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y \u00bfQu\u00e9 Tiene?",
-        "url": "https://open.spotify.com/album/4zYI2PJ7ptO9JMklxWdLVJ"
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
       },
       "artists": [
         {
           "name": "Banda Los Recoditos",
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        },
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 172173,
-      "name": "Y \u00bfQu\u00e9 Tiene?",
-      "url": "https://open.spotify.com/track/6V0i3tXv6askzWc2BiPoKi"
+      "duration_ms": 150786,
+      "name": "Eres Dif\u00edcil",
+      "url": "https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+        "name": "Y \u00bfQu\u00e9 Tiene?",
+        "url": "https://open.spotify.com/album/4zYI2PJ7ptO9JMklxWdLVJ"
       },
       "artists": [
         {
           "name": "Banda Los Recoditos",
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 150786,
-      "name": "Eres Dif\u00edcil",
-      "url": "https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D"
+      "duration_ms": 172173,
+      "name": "Y \u00bfQu\u00e9 Tiene?",
+      "url": "https://open.spotify.com/track/6V0i3tXv6askzWc2BiPoKi"
     },
     {
       "added_at": null,

@@ -112,7 +112,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 270856,
       "name": "AH (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/3m9SuIfe9e6VxthwiPr9ee"
@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "DiVA_01",
+        "url": "https://open.spotify.com/album/0Avv2ShCt7D3WNiqmIFEcw"
+      },
+      "artists": [
+        {
+          "name": "\u3046\u3089\u307f\u7b2c\u4e8c\u5f62\u614b",
+          "url": "https://open.spotify.com/artist/3mbiub5aHkMuzIZDIQX3IZ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "DiVA_01 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0Z52Nj1eh805z38yyd5uaC"
+    },
+    {
+      "album": {
         "name": "DON'T STOP THE MUSIC",
         "url": "https://open.spotify.com/album/0AJZu5HAOxtsp4wsw8yjmf"
       },
@@ -342,7 +364,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 264493,
       "name": "Don't Stop the Music (Original Mix) (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/7cRPIaACGmBdE4LiPr8nTD"
@@ -718,10 +740,28 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 243500,
       "name": "Now is never (again) !!",
       "url": "https://open.spotify.com/track/528OKY37OfkC9NNOY7bmMb"
+    },
+    {
+      "album": {
+        "name": "Araboth",
+        "url": "https://open.spotify.com/album/4ikZclGJ2LhPqH2HAPikHb"
+      },
+      "artists": [
+        {
+          "name": "Plutonius(hayakawaP)",
+          "url": "https://open.spotify.com/artist/6hP40mDcqdD5o0gJqwgU1m"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187764,
+      "name": "On your beat!",
+      "url": "https://open.spotify.com/track/60uMyTMoFUmdIRD49bHEla"
     },
     {
       "album": {
@@ -1205,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "\u3053\u308d\u3057\u3061\u3083\u3063\u305f!",
+        "url": "https://open.spotify.com/album/5PNDRomD3yZGskUq8huaxq"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u5c71\u3088\u3064\u304e",
+          "url": "https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "\u3053\u308d\u3057\u3061\u3083\u3063\u305f! (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4d1CObMrwGif0yDhphYeO1"
+    },
+    {
+      "album": {
         "name": "\u3081\u3050\u308a\u30a2\u30a4",
         "url": "https://open.spotify.com/album/5eNurOEbi4uUnfM7z5g8cw"
       },
@@ -1665,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "\u30ce\u30a4\u30b8\u30fc\u5fdc\u529b\u30e0\u30b8\u30ab",
+        "url": "https://open.spotify.com/album/3Ns0B2MwSv1xnFIBbh2Lqi"
+      },
+      "artists": [
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "\u30ce\u30a4\u30b8\u30fc\u5fdc\u529b\u30e0\u30b8\u30ab (feat. KAITO)",
+      "url": "https://open.spotify.com/track/22kZUrTmR8JSX9PT2PB0Qm"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30c3\u30d4\u30fc\u30a2\u30cb\u30de\u30eb\u30ed\u30b1\u30c3\u30c8\u30e9\u30f3\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/6nbCeaJ08O3JZFhl5Pvueb"
       },
@@ -1829,6 +1913,36 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30f3\u30da\u30a4\u30b8",
+        "url": "https://open.spotify.com/album/5TPXdHeZIx8jIeL2h4vEqZ"
+      },
+      "artists": [
+        {
+          "name": "\u6cb9\u6027",
+          "url": "https://open.spotify.com/artist/0AxUCpQCsjgVZaMOcsgbcj"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "\u30e9\u30f3\u30da\u30a4\u30b8 (feat. \u91cd\u97f3\u30c6\u30c8&\u93e1\u97f3\u30ea\u30f3&\u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/57KNYKuz2Oi55Qbkk7XvpC"
+    },
+    {
+      "album": {
         "name": "\u30eb\u30fc\u30ad\u30fc",
         "url": "https://open.spotify.com/album/4iawMpsBfti38ekcmhbTQB"
       },
@@ -1898,7 +2012,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 162962,
       "name": "\u4ffa\u30b4\u30fc\u30b9\u30c8\u30bf\u30a4\u30d7",
       "url": "https://open.spotify.com/track/6T5gwbUkJZI0q5CouEtuzb"
@@ -1976,7 +2090,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 267306,
       "name": "\u604b\u3059\u308b\u2606\u30d3\u30fc\u30e0",
       "url": "https://open.spotify.com/track/43fdUr1bBMtG2vL7PRwjug"

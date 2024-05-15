@@ -1,6 +1,6 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11477,
+  "num_followers": 11487,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Benzine EP",
+        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
+      },
+      "artists": [
+        {
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+        }
+      ],
+      "duration_ms": 406138,
+      "name": "Benzine",
+      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Rock The Box",
         "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 382204,
       "name": "Rock The Box - Original",
       "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Benzine EP",
-        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
-      },
-      "artists": [
-        {
-          "name": "Renato Cohen",
-          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
-        }
-      ],
-      "duration_ms": 406138,
-      "name": "Benzine",
-      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Maelstro\u0308m",
+        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
+      },
+      "artists": [
+        {
+          "name": "Wielki",
+          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
+        }
+      ],
+      "duration_ms": 487073,
+      "name": "Maelstro\u0308m",
+      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Flame of the Pine Cone",
         "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 409258,
       "name": "Flame of the Pine Cone - Spaniol's Blue Note Remix",
       "url": "https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Maelstro\u0308m",
-        "url": "https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT"
-      },
-      "artists": [
-        {
-          "name": "Wielki",
-          "url": "https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB"
-        }
-      ],
-      "duration_ms": 487073,
-      "name": "Maelstro\u0308m",
-      "url": "https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Easytiiger__001",
+        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
+      },
+      "artists": [
+        {
+          "name": "Mootron",
+          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
+        }
+      ],
+      "duration_ms": 386181,
+      "name": "No Rave",
+      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Incarne",
         "url": "https://open.spotify.com/album/4Zg2HeCfAX1Yb6arpZxv3s"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 483006,
       "name": "Incarne",
       "url": "https://open.spotify.com/track/0VR1N3yDJhBiqT9lqlqAAa"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Easytiiger__001",
-        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
-      },
-      "artists": [
-        {
-          "name": "Mootron",
-          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
-        }
-      ],
-      "duration_ms": 386181,
-      "name": "No Rave",
-      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
     },
     {
       "added_at": "2023-11-10 03:03:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 124182,
+  "num_followers": 124201,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "\u518a\u8449\u4e00\uff1a\u4e00\u8207\u4e00",
-        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u9752\u5cf0",
-          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
-        }
-      ],
-      "duration_ms": 295025,
-      "name": "\u5e74\u8f2a\u8aaa",
-      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
         "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 236239,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
       "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "\u518a\u8449\u4e00\uff1a\u4e00\u8207\u4e00",
+        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u9752\u5cf0",
+          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
+        }
+      ],
+      "duration_ms": 295025,
+      "name": "\u5e74\u8f2a\u8aaa",
+      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
-        "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
-      },
-      "artists": [
-        {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
-        }
-      ],
-      "duration_ms": 235743,
-      "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
-      "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
+        "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "duration_ms": 235743,
+      "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
+      "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "CHIN UP!",
-        "url": "https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "\u7a7a\u57ce\u8a18",
-      "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "Face II \u771f\u30fb\u88cf",
         "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 269990,
       "name": "\u6700\u7f8e\u7684\u907a\u61be",
       "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "CHIN UP!",
+        "url": "https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "\u7a7a\u57ce\u8a18",
+      "url": "https://open.spotify.com/track/0nvixacMzY2blKlgXolY9F"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "but I (\u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/0xtyETwUTxwfknttDlyqNA"
-      },
-      "artists": [
-        {
-          "name": "Roger Yo",
-          "url": "https://open.spotify.com/artist/2P4HIWnClI9ISQ3ELdYgea"
-        }
-      ],
-      "duration_ms": 222392,
-      "name": "but I - \u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/4qZyPAQEuWWWZB8msrXv7Y"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "\u300a\u4ed6\u99ac\u514b\u8001\u95c6\u300b\u96fb\u5f71\u539f\u8072\u5e36 (Kiss My Ass Boss O.S.T.)",
         "url": "https://open.spotify.com/album/0JVmiTua73t1Vf2NP7Glou"
       },
@@ -747,18 +731,34 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4"
+        "name": "but I (\u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/0xtyETwUTxwfknttDlyqNA"
       },
       "artists": [
         {
-          "name": "Olivia Ong",
-          "url": "https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd"
+          "name": "Roger Yo",
+          "url": "https://open.spotify.com/artist/2P4HIWnClI9ISQ3ELdYgea"
         }
       ],
-      "duration_ms": 232693,
-      "name": "\u6d77\u67af\u77f3\u721b",
-      "url": "https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P"
+      "duration_ms": 222392,
+      "name": "but I - \u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/4qZyPAQEuWWWZB8msrXv7Y"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "\u504f\u504f\u6211\u537b\u90fd\u8a18\u5f97",
+        "url": "https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5"
+      },
+      "artists": [
+        {
+          "name": "Eve Ai",
+          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+        }
+      ],
+      "duration_ms": 287010,
+      "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
+      "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "\u504f\u504f\u6211\u537b\u90fd\u8a18\u5f97",
-        "url": "https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4"
       },
       "artists": [
         {
-          "name": "Eve Ai",
-          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+          "name": "Olivia Ong",
+          "url": "https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd"
         }
       ],
-      "duration_ms": 287010,
-      "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
-      "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
+      "duration_ms": 232693,
+      "name": "\u6d77\u67af\u77f3\u721b",
+      "url": "https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P"
     },
     {
       "added_at": "2024-05-09 16:00:00",

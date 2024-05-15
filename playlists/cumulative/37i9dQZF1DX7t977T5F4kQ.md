@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Amerado
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Kofi Kinaata
 
-360 songs - 18 hr 53 min
+361 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-01 |  |
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2022-11-04 | 2024-03-22 |
 | [Atide](https://open.spotify.com/track/6scZrxPXUjUM5CdkV4onSp) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen](https://open.spotify.com/album/1Bl9nHpcgJFp5rwcHCyV4Y) | 3:22 | 2023-12-22 | 2024-03-01 |
+| [Auntie Ama](https://open.spotify.com/track/4Kt1qclcbspAr5ENFhBcPR) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Kofi OO Kofi](https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v) | 4:34 | 2024-05-14 |  |
 | [Aviator](https://open.spotify.com/track/4A8AbyQOQWbeqAiXLyf1ke) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Aviator](https://open.spotify.com/album/5VI1VyyLgDgYSm3wNRpaKx) | 3:32 | 2023-02-23 | 2023-03-18 |
 | [Away \(feat\. Stunn\)](https://open.spotify.com/track/7nnCN0SbeioycrS1ThwjKZ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Stunn](https://open.spotify.com/artist/5zjyg4zTX7rqTPgcZmnbno) | [Bridging The Gap](https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z) | 2:48 | 2024-03-01 | 2024-04-04 |
 | [Baby](https://open.spotify.com/track/457g4ZlmoUmZWeA8ysRZ8p) | [Ayesem](https://open.spotify.com/artist/57qCTSQMNSJSI2bQjaM2q9), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Baby](https://open.spotify.com/album/3LjAal9dJ9uYSwZWFxyaah) | 3:33 | 2023-11-17 | 2023-11-24 |

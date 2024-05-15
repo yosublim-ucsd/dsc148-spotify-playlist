@@ -1,29 +1,13 @@
 {
-  "description": "This Is Kaliii. Los temas esenciales, todos en una lista.",
-  "num_followers": 3346,
+  "description": "This is Kaliii. The essential tracks, all in one playlist.",
+  "num_followers": 3349,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAABdwHCfhii/hAJpfo6GV0Iu",
+  "snapshot_id": "ZkFYAAAAAAC3DYAh7FT61uRNLybtHRXm",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Area Codes",
-        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 139325,
-      "name": "Area Codes",
-      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
-    },
     {
       "added_at": null,
       "album": {
@@ -363,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wet",
-        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 136980,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FCK GIRL SZN",
         "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
       },
@@ -407,6 +375,26 @@
       "duration_ms": 175819,
       "name": "Standards",
       "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UonU (feat. Yung Bleu)",
+        "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 218205,
+      "name": "UonU (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
     },
     {
       "added_at": null,
@@ -459,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 188014,
+      "name": "Ms. Lick Back",
+      "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not Yours (Remix)",
         "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
       },
@@ -475,22 +479,6 @@
       "duration_ms": 130295,
       "name": "Not Yours (Remix)",
       "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 188014,
-      "name": "Ms. Lick Back",
-      "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
     },
     {
       "added_at": null,
@@ -531,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 148471,
+      "name": "Toxic Chocolate",
+      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Results Take Time",
         "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
       },
@@ -547,6 +551,26 @@
       "duration_ms": 155476,
       "name": "Street Nigga (feat. Kaliii)",
       "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Ken The Man",
+          "url": "https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Ain't FWM (feat. Ken the Man)",
+      "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
     },
     {
       "added_at": null,
@@ -571,22 +595,6 @@
       "duration_ms": 138240,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "Big Body",
-      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
     },
     {
       "added_at": null,
@@ -631,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "Big Body",
+      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OOP",
         "url": "https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ"
       },
@@ -643,26 +667,6 @@
       "duration_ms": 130813,
       "name": "OOP",
       "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Ken The Man",
-          "url": "https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Ain't FWM (feat. Ken the Man)",
-      "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
     },
     {
       "added_at": null,
@@ -699,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sveti\u0161te Svinja",
         "url": "https://open.spotify.com/album/5pxHJboXT8rSibEGH05R0m"
       },
@@ -723,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+        "name": "12",
+        "url": "https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1"
       },
       "artists": [
+        {
+          "name": "Foe",
+          "url": "https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 191976,
+      "name": "12",
+      "url": "https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM"
     },
     {
       "added_at": null,
@@ -759,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1"
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
       "artists": [
-        {
-          "name": "Foe",
-          "url": "https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 191976,
-      "name": "12",
-      "url": "https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM"
+      "duration_ms": 138288,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5"
     },
     {
       "added_at": null,
@@ -795,42 +815,6 @@
       "duration_ms": 219613,
       "name": "And\u011bl\u00e9 A D\u00e9moni",
       "url": "https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 138288,
-      "name": "Spend Dat",
-      "url": "https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jedna Ljubav A Kurva",
-        "url": "https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t"
-      },
-      "artists": [
-        {
-          "name": "Jantar",
-          "url": "https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "05. Let 175",
-      "url": "https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2"
     },
     {
       "added_at": null,
@@ -875,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jedna Ljubav A Kurva",
+        "url": "https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t"
+      },
+      "artists": [
+        {
+          "name": "Jantar",
+          "url": "https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "05. Let 175",
+      "url": "https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "StreetTape",
         "url": "https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ"
       },
@@ -915,38 +919,6 @@
       "duration_ms": 226151,
       "name": "Peakin'",
       "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rockers Dubstep Like Kelly",
-        "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "Rockers Step Like Kelly",
-      "url": "https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Casa Ibiza Renovacion",
-        "url": "https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 580066,
-      "name": "Espardell - Original Mix",
-      "url": "https://open.spotify.com/track/7k52apZFJbnF1RFjBMp8Rs"
     },
     {
       "added_at": null,

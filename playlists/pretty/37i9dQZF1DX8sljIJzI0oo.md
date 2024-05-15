@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Rels B is bringing the heat this week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,899,672 likes - 20 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,904,803 likes - 20 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [Thalía](https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Thalía](https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og) | 3:03 |
 | 20 | [Perra Melancólica](https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z) | [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [GURUNDANGA](https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA) | 4:00 |
 
-Snapshot ID: `ZkJtCgAAAAB3c6uoKYrTpL8C0FxiubHA`
+Snapshot ID: `ZkOXegAAAADt9UcRvGMjsZICSqVjVqqh`

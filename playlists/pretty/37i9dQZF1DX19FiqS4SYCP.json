@@ -1,6 +1,6 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 131050,
+  "num_followers": 131048,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Anda Vuela Y Vete",
-        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
-      },
-      "artists": [
-        {
-          "name": "Kamryn Ramirez",
-          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
-        }
-      ],
-      "duration_ms": 165866,
-      "name": "Anda Vuela Y Vete",
-      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Estoy Encari\u00f1ado",
         "url": "https://open.spotify.com/album/4dRU5z6FXddnElpKP66L7H"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 180949,
       "name": "Estoy Encari\u00f1ado",
       "url": "https://open.spotify.com/track/3qK4WO2Ce5s9snSR6V6bEY"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Anda Vuela Y Vete",
+        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
+      },
+      "artists": [
+        {
+          "name": "Kamryn Ramirez",
+          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
+        }
+      ],
+      "duration_ms": 165866,
+      "name": "Anda Vuela Y Vete",
+      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
+      },
+      "artists": [
+        {
+          "name": "Pablo Urbina",
+          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Una Ilusi\u00f3n",
         "url": "https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/3u7xBy3IFkxHA0zumuZR4L"
-      },
-      "artists": [
-        {
-          "name": "Cindy Ramos Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/6pYtLpxBEZxQJOUd4utwlR"
-        }
-      ],
-      "duration_ms": 191256,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/6C1ln19uu7v3KJ5e13bfCS"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Quiereme (Hard Core Tex-Mex Version)",
         "url": "https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/3u7xBy3IFkxHA0zumuZR4L"
       },
       "artists": [
         {
-          "name": "Pablo Urbina",
-          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
+          "name": "Cindy Ramos Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/6pYtLpxBEZxQJOUd4utwlR"
         }
       ],
-      "duration_ms": 185179,
-      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
+      "duration_ms": 191256,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6C1ln19uu7v3KJ5e13bfCS"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Soy Mas Fuerte (Deluxe)",
+        "url": "https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6"
+      },
+      "artists": [
+        {
+          "name": "Monica Saldivar",
+          "url": "https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw"
+        }
+      ],
+      "duration_ms": 229536,
+      "name": "Infraganti",
+      "url": "https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Porque Vivo Enamorado",
         "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 170316,
       "name": "Sientes Igual",
       "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Soy Mas Fuerte (Deluxe)",
-        "url": "https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6"
-      },
-      "artists": [
-        {
-          "name": "Monica Saldivar",
-          "url": "https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw"
-        }
-      ],
-      "duration_ms": 229536,
-      "name": "Infraganti",
-      "url": "https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Toda Una Vida",
+        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
+      },
+      "artists": [
+        {
+          "name": "Andie Bustamante",
+          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
+        }
+      ],
+      "duration_ms": 180410,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Herida",
         "url": "https://open.spotify.com/album/39sTwUCraohQZVkBTQaoTj"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 257746,
       "name": "Herida",
       "url": "https://open.spotify.com/track/3KTAfNLPmnt5CTBc3bfqeG"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Toda Una Vida",
-        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
-      },
-      "artists": [
-        {
-          "name": "Andie Bustamante",
-          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
-        }
-      ],
-      "duration_ms": 180410,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Necesito Borrarte",
+        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
+      },
+      "artists": [
+        {
+          "name": "G5",
+          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
+        }
+      ],
+      "duration_ms": 254586,
+      "name": "Necesito Borrarte",
+      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 202292,
       "name": "Que Dolor",
       "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Amor Condicional",
-        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lamas",
-          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
-        }
-      ],
-      "duration_ms": 257137,
-      "name": "Amor Condicional",
-      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Necesito Borrarte",
-        "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
+        "name": "Amor Condicional",
+        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
       },
       "artists": [
         {
-          "name": "G5",
-          "url": "https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA"
+          "name": "Hilda Lamas",
+          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
         }
       ],
-      "duration_ms": 254586,
-      "name": "Necesito Borrarte",
-      "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
+      "duration_ms": 257137,
+      "name": "Amor Condicional",
+      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
     },
     {
       "added_at": "2023-09-13 20:37:36",

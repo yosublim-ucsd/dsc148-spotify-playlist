@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 2010s\. Cover: Flo Rida
 
-435 songs - 1 day 1 hr 37 min
+436 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Treasure \- Cash Cash Radio Mix](https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Treasure Remix EP](https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p) | 3:28 | 2021-09-08 | 2022-07-24 |
 | [Treat You Better \- Ashworth Remix](https://open.spotify.com/track/7al2umgR86au9ri0VazVD9) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Ashworth](https://open.spotify.com/artist/3pcGjcfEW3YD2Hfk6tDR5S) | [Treat You Better \(Ashworth Remix\)](https://open.spotify.com/album/02NLKoiLgtBZlMGT2Zs6DD) | 3:52 | 2021-09-08 | 2022-07-20 |
 | [Tuesday \(feat\. Danelle Sandoval\)](https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Danelle Sandoval](https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF) | [Tuesday \(feat\. Danelle Sandoval\)](https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB) | 4:01 | 2022-07-02 | 2022-11-13 |
-| [Turn Down for What](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turn Down for What](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) | 3:33 | 2022-07-02 |  |
+| [Turn Down for What](https://open.spotify.com/track/67awxiNHNyjMXhVgsHuIrs) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Turn Down for What](https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3) | 3:33 | 2022-07-02 | 2024-05-15 |
 | [Turn Me On \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:19 | 2021-09-08 | 2022-05-22 |
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2021-09-08 |  |
 | [UFO \- Radio Edit](https://open.spotify.com/track/7azVJ6AgvPLOum1tppactO) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [UFO](https://open.spotify.com/album/5fkAvx2E00HYs3bQAmRIBy) | 2:24 | 2021-09-08 | 2022-04-21 |
@@ -437,6 +437,7 @@
 | [Yeah 3x](https://open.spotify.com/track/2QtxlzvSBONjs1bDC34ixs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:01 | 2021-03-22 | 2022-07-29 |
 | [Year of Summer \(feat\. Niels Geusebroek\) \- Radio Edit](https://open.spotify.com/track/1YT4DY3Xs9HdjBYa5PAwLu) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Year Of Summer \(feat\. Niels Geusebroek\)](https://open.spotify.com/album/1xqz1cQjTjKBxg2j14zE5U) | 2:54 | 2021-09-08 | 2022-07-19 |
 | [Years](https://open.spotify.com/track/2KrHwwnKAfSDdOStftigJm) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Years](https://open.spotify.com/album/5McL4QMcdi5XmBQBAonR1D) | 3:15 | 2021-03-22 | 2022-04-21 |
+| [You Know You Like It](https://open.spotify.com/track/57kR5SniQIbsbVoIjjOUDa) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [You Know You Like It](https://open.spotify.com/album/6mQGo1a9mXHNUSJYwXi9Wd) | 4:07 | 2022-07-02 |  |
 | [You Make Me](https://open.spotify.com/track/52RK8UVEDgUAgpecOpTQM3) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 3:53 | 2021-09-08 | 2022-04-21 |
 | [You Make Me Feel..\. \(feat\. Sabi\)](https://open.spotify.com/track/16Of7eeW44kt0a1M0nitHM) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY), [Sabi](https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo) | [Night Shades](https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i) | 3:35 | 2021-09-08 | 2022-07-29 |
 | [Youngblood \- R3HAB Remix](https://open.spotify.com/track/2vIzH4NfFGoJHA5rn1dFWT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Youngblood \(R3HAB Remix\)](https://open.spotify.com/album/2RMSI4zHlR5bSVuFnOr9MH) | 2:30 | 2021-09-08 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,344 likes - 300 songs - 10 hr 46 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,346 likes - 300 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 92 | [Syncronous](https://open.spotify.com/track/719CuN4GstW7RACEfz0cdH) | [Su\-Zuum](https://open.spotify.com/artist/1jgIcbT7B7K8JJIXtrpzLb) | [Syncronous](https://open.spotify.com/album/57Fv97P5QGC0VUl8VXhnOC) | 1:43 |
 | 93 | [Waves](https://open.spotify.com/track/1oU34L6mN8W6YFkRIT5bAX) | [silentsoul](https://open.spotify.com/artist/59EsiJImULPYPQiqnGCbXM), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Waves](https://open.spotify.com/album/600zso0outIJsbBeoN88c9) | 2:24 |
 | 94 | [Balcony Room](https://open.spotify.com/track/1yWl2BGw5gWWJ33yWV5fmJ) | [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Balcony Room](https://open.spotify.com/album/2kn5SS0HyZlcKRSfY3l7b2) | 2:06 |
-| 95 | [gypsy](https://open.spotify.com/track/2ikGRMqRqt7wThBc1bmsgP) | [Decisions](https://open.spotify.com/artist/3juecQH8XvNfubU1vEnNrE), [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG) | [gypsy](https://open.spotify.com/album/57KB60SQlHbf50cilZQ5DR) | 1:46 |
+| 95 | [gypsy](https://open.spotify.com/track/2ikGRMqRqt7wThBc1bmsgP) | [Decisions](https://open.spotify.com/artist/3juecQH8XvNfubU1vEnNrE), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [gypsy](https://open.spotify.com/album/57KB60SQlHbf50cilZQ5DR) | 1:46 |
 | 96 | [Slow Lane](https://open.spotify.com/track/2oZKdBKwmzL4ukhNUUebFu) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Slow Lane](https://open.spotify.com/album/5Vr627jfjFNiog5Mi1gJbP) | 2:00 |
 | 97 | [Blueberry Gelato](https://open.spotify.com/track/45ubBuMtqRaXwW2xVQCuX7) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [Blueberry Gelato](https://open.spotify.com/album/5PA7HfEVfyQbCMK6SSLyjW) | 1:41 |
 | 98 | [Ocaso](https://open.spotify.com/track/6GLTUp8UB0ejZGY5v9JDff) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Retro Reverie](https://open.spotify.com/album/2gB2d4HneWKgthYkFLpV1p) | 2:11 |

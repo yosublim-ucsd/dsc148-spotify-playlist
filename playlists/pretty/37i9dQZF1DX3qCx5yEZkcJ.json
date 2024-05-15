@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1481448,
+  "num_followers": 1481464,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-05-09 13:06:49",
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/1Q8T8tXs48kiQLIcvzMD5y"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        }
+      ],
+      "duration_ms": 159529,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5RKxNmzhoC9gyVxUAETYBf"
+    },
+    {
+      "added_at": "2024-05-09 13:06:49",
+      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 253600,
       "name": "A Tribute To First Love",
       "url": "https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx"
-    },
-    {
-      "added_at": "2024-05-09 13:06:49",
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/1Q8T8tXs48kiQLIcvzMD5y"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "DLJ",
-          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
-        }
-      ],
-      "duration_ms": 159529,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/5RKxNmzhoC9gyVxUAETYBf"
     },
     {
       "added_at": "2024-05-09 13:06:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-09 13:06:49",
       "album": {
-        "name": "Just a Lullaby",
-        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
-      },
-      "artists": [
-        {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Quiet in the Garden",
-      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
-    },
-    {
-      "added_at": "2024-05-09 13:06:49",
-      "album": {
         "name": "White Tea",
         "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 88279,
       "name": "White Tea",
       "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
+    },
+    {
+      "added_at": "2024-05-09 13:06:49",
+      "album": {
+        "name": "Just a Lullaby",
+        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Quiet in the Garden",
+      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
     },
     {
       "added_at": "2024-05-09 13:06:49",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-05-09 13:06:49",
       "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
+    },
+    {
+      "added_at": "2024-05-09 13:06:49",
+      "album": {
         "name": "Hip Shop",
         "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 123008,
       "name": "Hip Shop",
       "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
-    },
-    {
-      "added_at": "2024-05-09 13:06:49",
-      "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2024-05-09 13:06:49",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2024-05-09 13:06:49",
       "album": {
-        "name": "City Strollin'",
-        "url": "https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "Nocatchphraze",
-          "url": "https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        }
-      ],
-      "duration_ms": 198777,
-      "name": "City Strollin'",
-      "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
-    },
-    {
-      "added_at": "2024-05-09 13:06:49",
-      "album": {
         "name": "Reminders",
         "url": "https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 141176,
       "name": "Dance of Love",
       "url": "https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr"
+    },
+    {
+      "added_at": "2024-05-09 13:06:49",
+      "album": {
+        "name": "City Strollin'",
+        "url": "https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "Nocatchphraze",
+          "url": "https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "duration_ms": 198777,
+      "name": "City Strollin'",
+      "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
     },
     {
       "added_at": "2024-05-09 13:06:49",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-05-09 13:06:49",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
-      },
-      "artists": [
-        {
-          "name": "Karmawin",
-          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
-    },
-    {
-      "added_at": "2024-05-09 13:06:49",
-      "album": {
         "name": "Lofi Loyal Caf\u00e9 Customer",
         "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 168000,
       "name": "Lofi Loyal Caf\u00e9 Customer",
       "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
+    },
+    {
+      "added_at": "2024-05-09 13:06:49",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
+      },
+      "artists": [
+        {
+          "name": "Karmawin",
+          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
     },
     {
       "added_at": "2024-05-09 13:06:49",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-05-09 13:06:49",
       "album": {
-        "name": "Smiling World",
-        "url": "https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS"
-      },
-      "artists": [
-        {
-          "name": "Mujo",
-          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
-        },
-        {
-          "name": "Hakone",
-          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
-        }
-      ],
-      "duration_ms": 126076,
-      "name": "Smiling World",
-      "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
-    },
-    {
-      "added_at": "2024-05-09 13:06:49",
-      "album": {
         "name": "Far Out",
         "url": "https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux"
       },
@@ -1399,18 +1379,38 @@
     {
       "added_at": "2024-05-09 13:06:49",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+        "name": "Smiling World",
+        "url": "https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS"
       },
       "artists": [
         {
-          "name": "helistofax",
-          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
         }
       ],
-      "duration_ms": 131350,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
+      "duration_ms": 126076,
+      "name": "Smiling World",
+      "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
+    },
+    {
+      "added_at": "2024-05-09 13:06:49",
+      "album": {
+        "name": "Mostly Instrumentals LP",
+        "url": "https://open.spotify.com/album/5IofXcZhek4Whxlo4r7wuk"
+      },
+      "artists": [
+        {
+          "name": "Allmos",
+          "url": "https://open.spotify.com/artist/4caJwBnZ75geSKhAhqFXDE"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "Algebreak",
+      "url": "https://open.spotify.com/track/24zpLtGPVHOFQ6xyvi95hj"
     },
     {
       "added_at": "2024-05-09 13:06:49",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-05-09 13:06:49",
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "duration_ms": 131350,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
+    },
+    {
+      "added_at": "2024-05-09 13:06:49",
+      "album": {
         "name": "O Sanpo",
         "url": "https://open.spotify.com/album/4MU6vNQqcr9c8lLM5gokw9"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 101673,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/4V2KZnlTHXwNdLxzf1GUUB"
-    },
-    {
-      "added_at": "2024-05-09 13:06:49",
-      "album": {
-        "name": "Ova",
-        "url": "https://open.spotify.com/album/0W7PGvXL4DYYOuyctcrFwN"
-      },
-      "artists": [
-        {
-          "name": "URCHN",
-          "url": "https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "Ova",
-      "url": "https://open.spotify.com/track/3bHSr5nxcXLoUr6LyRYTuT"
     }
   ],
   "unique_name": "Mellow Beats",

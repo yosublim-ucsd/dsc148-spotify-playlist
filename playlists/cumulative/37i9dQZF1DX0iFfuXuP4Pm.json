@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Dionela",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: The Juans",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 219180,
       "name": "Buti Nalang",
       "url": "https://open.spotify.com/track/35k1RDZMyUYDYz8wcEQHO2"
@@ -364,6 +364,24 @@
       "duration_ms": 240000,
       "name": "Closer You and I",
       "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
+    },
+    {
+      "album": {
+        "name": "Comets",
+        "url": "https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "Comets",
+      "url": "https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S"
     },
     {
       "album": {
@@ -644,7 +662,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 231428,
       "name": "Halik Sobrang Diin",
       "url": "https://open.spotify.com/track/6cXmKmwevj5utucE8XG7SK"
@@ -1159,6 +1177,28 @@
     },
     {
       "album": {
+        "name": "MU",
+        "url": "https://open.spotify.com/album/4bGMCLUG61Fveyy16lxbIM"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        },
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202031,
+      "name": "Malabong Ugnayan (feat. jikamarie)",
+      "url": "https://open.spotify.com/track/4jkS21cAiVFz9rpWfW50g0"
+    },
+    {
+      "album": {
         "name": "Maling Panahon",
         "url": "https://open.spotify.com/album/31RWGvdfCCcJvI2VTHeivZ"
       },
@@ -1240,7 +1280,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 273785,
       "name": "Maria Clara",
       "url": "https://open.spotify.com/track/644PcyQRCV5v7h5zeDY2di"
@@ -1500,7 +1540,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 198400,
       "name": "Nene",
       "url": "https://open.spotify.com/track/5d7Ymd1AVlmflKF2Sp780l"
@@ -1576,6 +1616,24 @@
       "duration_ms": 185783,
       "name": "Paanong Gagawin?",
       "url": "https://open.spotify.com/track/4j2kQpKR86BfqWOAFqZ8oj"
+    },
+    {
+      "album": {
+        "name": "pagod na (sayo)",
+        "url": "https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF"
+      },
+      "artists": [
+        {
+          "name": "rhodessa",
+          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296400,
+      "name": "pagod na (sayo)",
+      "url": "https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF"
     },
     {
       "album": {
@@ -1656,6 +1714,24 @@
       "duration_ms": 225466,
       "name": "Pantropiko",
       "url": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw"
+    },
+    {
+      "album": {
+        "name": "PAPALAYO",
+        "url": "https://open.spotify.com/album/4th74t7vSm28kVsqVwb9ii"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "PAPALAYO",
+      "url": "https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz"
     },
     {
       "album": {
@@ -2094,7 +2170,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 240400,
       "name": "surreal",
       "url": "https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz"
@@ -2116,7 +2192,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 269359,
       "name": "Tahan Na (feat. Arthur Miguel)",
       "url": "https://open.spotify.com/track/3aNlKhDSguYgew75Vq8ELT"

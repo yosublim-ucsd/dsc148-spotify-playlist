@@ -953,6 +953,36 @@
     },
     {
       "album": {
+        "name": "WE4 (feat. Jacopo Ferrazza, Julian Oliver Mazzariello, Nicola Angelucci)",
+        "url": "https://open.spotify.com/album/1tHWlekqvGgnBd9G2CyQkU"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Bosso",
+          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
+        },
+        {
+          "name": "Jacopo Ferrazza",
+          "url": "https://open.spotify.com/artist/6JQTj3KJJullWlmszH1VbJ"
+        },
+        {
+          "name": "Julian Oliver Mazzariello",
+          "url": "https://open.spotify.com/artist/3x1jBHOws7YtfQRpeCFHzA"
+        },
+        {
+          "name": "Nicola Angelucci",
+          "url": "https://open.spotify.com/artist/6oWLcJrtJ12xgHIqOw0FEK"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209013,
+      "name": "Bakarak (feat. Jacopo Ferrazza, Julian Oliver Mazzariello, Nicola Angelucci)",
+      "url": "https://open.spotify.com/track/0UsClUedz5jTAlD3QGAQ7t"
+    },
+    {
+      "album": {
         "name": "La Chiarastella",
         "url": "https://open.spotify.com/album/38F120tTNm6o2TtjgL6BQS"
       },
@@ -10278,7 +10308,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 350533,
       "name": "Vortivelox",
       "url": "https://open.spotify.com/track/3dGK4PmAByvi0NaOdEz4TM"

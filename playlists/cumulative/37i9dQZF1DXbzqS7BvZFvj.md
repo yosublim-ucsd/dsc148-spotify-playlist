@@ -2,9 +2,9 @@
 
 ### [Frontline \-ヒップホップ最前線\-](https://open.spotify.com/playlist/37i9dQZF1DXbzqS7BvZFvj)
 
-> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Ice Spice
+> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Daichi Yamamoto, JJJ
 
-637 songs - 1 day 8 hr 26 min
+638 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid) | [NAMEDARUMAAZ](https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa) | 6:49 | 2023-12-08 | 2024-04-05 |
 | [Feeling Alive](https://open.spotify.com/track/1guGFwq2ErO0y9zK4BzGIq) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Feeling Alive](https://open.spotify.com/album/2ip8d5Cj7PvJ19EWpEGWjq) | 2:38 | 2023-11-09 | 2023-12-09 |
 | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc) | 3:10 | 2024-04-04 |  |
+| [Find A Way](https://open.spotify.com/track/3gupIvNUT3ZP8tQ8PZ9ESE) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Radiant](https://open.spotify.com/album/6ZUiLTzqxwCfw01NA86SlW) | 4:11 | 2024-05-15 |  |
 | [fIT chECK fREEsTYle](https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [fIT chECK fREEsTYle](https://open.spotify.com/album/34TDMPJjH7oqvyFXwxGeUB) | 3:03 | 2024-04-11 |  |
 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 | 2023-10-19 | 2023-12-09 |
 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 | 2023-08-31 | 2023-09-29 |

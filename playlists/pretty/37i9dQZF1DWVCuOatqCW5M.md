@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Neeti Mohan
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,362 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,383 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 4 | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Kamla Devi](https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH) | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z) | 4:35 |
 | 5 | [Teri Galiyon Mein](https://open.spotify.com/track/4e1qJZRo1q8ZSRFLtl5ENT) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Rashid Khan](https://open.spotify.com/artist/6rN6kmxhP2vvWehNDNXE3i) | [Teri Galiyon Mein](https://open.spotify.com/album/10jdDbZu9hYWLANsFYMTfS) | 5:21 |
 | 6 | [sau dafa](https://open.spotify.com/track/1zj70llHSvmKn72FU4iAQI) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [sau dafa](https://open.spotify.com/album/62UjvbblUsIpURi3JHSAkt) | 1:54 |
-| 7 | [Chaand Naya](https://open.spotify.com/track/00xVmAuOMf241gQr7PCguU) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [JUNO](https://open.spotify.com/artist/7uJVIR1cnmatK6hNLwM4dH) | [Chaand Naya](https://open.spotify.com/album/1yIdhXQD0Vc0Wd1DY1goJV) | 2:29 |
+| 7 | [Chaand Naya](https://open.spotify.com/track/00xVmAuOMf241gQr7PCguU) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Chaand Naya](https://open.spotify.com/album/1yIdhXQD0Vc0Wd1DY1goJV) | 2:29 |
 | 8 | [Piya Mere](https://open.spotify.com/track/7Arvf7vYFiPV7OovVT6GYh) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Piya Mere](https://open.spotify.com/album/10ruqoIbD4Q5UWEDP4i8zH) | 3:13 |
 | 9 | [Roshni](https://open.spotify.com/track/2ejQAjZYYotmnEAQ5Liee6) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Sorry, I'm Late](https://open.spotify.com/album/23wKdXfLP77QJSM18JOVUJ) | 2:45 |
 | 10 | [Bematlab](https://open.spotify.com/track/1p6AnftoxhGTuei5RnsvIy) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 3:48 |

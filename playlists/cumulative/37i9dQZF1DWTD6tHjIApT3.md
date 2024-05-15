@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。cover: 乃紫
+> 日本の女性アーティストの歌を特集。cover: NakamuraEmi
 
-2,438 songs - 6 day 12 hr 33 min
+2,439 songs - 6 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2103,7 +2103,7 @@
 | [惑星](https://open.spotify.com/track/4p1KQXtxQBTbcq9iFYPtG5) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [失楽園](https://open.spotify.com/album/5SOsP8jPuEZ7RDGcNl2Nvr) | 4:12 | 2022-06-02 | 2022-07-28 |
 | [想うということ](https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [想うということ](https://open.spotify.com/album/0gGycLeZb40DxSr1dohdiH) | 3:18 | 2024-01-09 | 2024-01-17 |
 | [愛 need your love](https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [愛 need your love](https://open.spotify.com/album/7aNVI1dGbfpGZUQV0zkPRa) | 3:46 | 2023-11-28 | 2023-11-30 |
-| [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2024-04-30 | 2024-05-14 |
+| [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2024-04-30 |  |
 | [愛さ生まり島](https://open.spotify.com/track/30ZrfAG2MkVujIE6xAdoy9) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [会いたい \~かなさんどぉ\~](https://open.spotify.com/album/3u6FMj8KMrGbyV4ArlkPSd) | 4:37 | 2022-06-21 | 2022-06-29 |
 | [愛でほっぺ丼](https://open.spotify.com/track/3DmZS7Ua6MGW213lObJPoo) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [愛でほっぺ丼](https://open.spotify.com/album/6z8cwZTM2VfMZcmHNMBZls) | 4:00 | 2022-06-02 | 2022-07-16 |
 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 | 2022-08-09 | 2023-02-24 |
@@ -2232,6 +2232,7 @@
 | [潮風](https://open.spotify.com/track/1aX7o9KQGvj0ogr2esJktT) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [潮風](https://open.spotify.com/album/4XkrdSm52HgNHCzDv2o9UN) | 4:01 | 2023-06-06 | 2023-06-14 |
 | [火をつけて](https://open.spotify.com/track/5J0UJZXWr4W8I73A30UqSu) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [火をつけて](https://open.spotify.com/album/17bQJPnZKX0QcMWN699xkf) | 4:39 | 2022-10-04 | 2022-10-12 |
 | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [Remi Matsuo](https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7) | [火をつけて feat\. 松尾レミ \(GLIM SPANKY\)](https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2) | 4:59 | 2023-04-11 | 2023-05-03 |
+| [火をつけろ](https://open.spotify.com/track/4HkYOprD8jhVK12Mp1CYyH) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC) | [火をつけろ / 晴るく / 白昼夢 / 一目惚れ / 究極の休日](https://open.spotify.com/album/2S95X7XlFMWYBeZ2sVpiTF) | 4:05 | 2024-05-14 |  |
 | [灯](https://open.spotify.com/track/47gDqwGaEMR0kgeQtU0vUb) | [lecca](https://open.spotify.com/artist/0IeQisXdixzRUBpYSxQJDu) | [LIBERTY ERA](https://open.spotify.com/album/3OsTuPCm6VbKXKIGVuJr4r) | 3:31 | 2024-02-27 | 2024-03-13 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-05-29 | 2022-11-30 |
 | [灯火 \(feat\. miida\)](https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [灯火 \(feat\. miida\)](https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq) | 3:04 | 2023-01-31 | 2023-04-05 |
@@ -2249,7 +2250,7 @@
 | [燃え尽きる月](https://open.spotify.com/track/0MCFZZ4OfFobgDYlXViL2o) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [燃え尽きる月](https://open.spotify.com/album/7F1DTzs4o6oITyzwEXDdA2) | 4:46 | 2023-09-19 | 2023-09-27 |
 | [燎\(日文版\)](https://open.spotify.com/track/7DG3WG4rRZoMkD0omCrVQr) | [苏芮琪](https://open.spotify.com/artist/62oYdsAy450XtCfdIrV9Bl) | [燎\(日文版\)](https://open.spotify.com/album/3m8Ib5S1V99qg0o9C0asjR) | 3:11 | 2022-08-16 | 2022-08-18 |
 | [燐光](https://open.spotify.com/track/0fbS3fpGJkiUruNqXEkzPs) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [燐光](https://open.spotify.com/album/1MHRY1Ahixbh9hJplFn1kX) | 5:29 | 2022-05-29 | 2022-06-01 |
-| [片依存](https://open.spotify.com/track/6sX2kOdBqlD4aKDR5HuMUD) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [片依存](https://open.spotify.com/album/6Zeyewbi7YPofCjwQ6ZnbL) | 2:28 | 2024-04-23 |  |
+| [片依存](https://open.spotify.com/track/6sX2kOdBqlD4aKDR5HuMUD) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [片依存](https://open.spotify.com/album/6Zeyewbi7YPofCjwQ6ZnbL) | 2:28 | 2024-04-23 | 2024-05-15 |
 | [猫の夢](https://open.spotify.com/track/1WA2bjmq4mIoCE3Bwj5JCb) | [きばやし](https://open.spotify.com/artist/4UybWqTGbkpD8ypqu7DN7e) | [生活](https://open.spotify.com/album/03KHIxSUNxT660ByeQGsOo) | 3:35 | 2022-11-15 | 2022-11-17 |
 | [猫吐極楽音頭](https://open.spotify.com/track/4ZRO75GFwFiOiDAHDz20Sq) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [猫猫吐吐 \- 猫猫 \-](https://open.spotify.com/album/1BZ7jYbJGOBvNhwcv1w6Hj) | 3:22 | 2023-12-12 | 2024-02-02 |
 | [瑠璃色の地球](https://open.spotify.com/track/3HxL8rEkqUB4dh0IHew5NT) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [瑠璃色の地球](https://open.spotify.com/album/3netpX4fgcw75E9r1L1nK6) | 4:22 | 2022-09-06 | 2022-09-15 |
@@ -2284,7 +2285,7 @@
 | [祈りだけがある \(déconstructed\)](https://open.spotify.com/track/4Wz3p9R45pkx6MYC8UDD8j) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [祈りだけがある \(déconstructed\)](https://open.spotify.com/album/1QfDyh8OJASVX8bty8sZvJ) | 4:50 | 2022-11-10 | 2022-11-12 |
 | [神様](https://open.spotify.com/track/7pTzcynk2FjT23kYssUHdw) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [THE ZOMBIE](https://open.spotify.com/album/0Dw5E1BFl1yRCs7U36x5XN) | 3:52 | 2022-06-02 | 2022-06-29 |
 | [神秘の領域へ](https://open.spotify.com/track/6DgqBcs8YYhCunqicmABkT) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 4:01 | 2022-08-18 | 2022-08-20 |
-| [福は内 鬼は外](https://open.spotify.com/track/6hCjUu1CkVppX0ue6g8W0I) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [The Mizuhara Sisters](https://open.spotify.com/artist/3tsvBhFzXFQYsK1Pc3w75L) | [福は内 鬼は外](https://open.spotify.com/album/49dnqkKRBRcNPwQX3Rzr49) | 2:28 | 2024-05-07 |  |
+| [福は内 鬼は外](https://open.spotify.com/track/6hCjUu1CkVppX0ue6g8W0I) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [The Mizuhara Sisters](https://open.spotify.com/artist/3tsvBhFzXFQYsK1Pc3w75L) | [福は内 鬼は外](https://open.spotify.com/album/49dnqkKRBRcNPwQX3Rzr49) | 2:28 | 2024-05-07 | 2024-05-15 |
 | [私だけの人生](https://open.spotify.com/track/1STFOuSo5TfEz0m1sR8oA5) | [Charmant coco](https://open.spotify.com/artist/7sjEyXpi2SWI2J4rcKolGB) | [私だけの人生](https://open.spotify.com/album/0sBmnhxe2Ap3vXasX29RYo) | 4:29 | 2024-02-20 | 2024-02-28 |
 | [私にして](https://open.spotify.com/track/1PII87zGs7qMCD9AlEEM5f) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [私にして](https://open.spotify.com/album/6WLhoZVHZdcPkqnjcimLDN) | 4:11 | 2022-05-31 | 2022-07-20 |
 | [私のままで](https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [私のままで](https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B) | 4:15 | 2023-10-12 | 2024-02-02 |

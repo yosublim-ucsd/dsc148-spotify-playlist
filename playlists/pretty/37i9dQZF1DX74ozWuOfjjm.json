@@ -1,13 +1,45 @@
 {
-  "description": "Listen to women at full volume Cover: Mia Wray",
-  "num_followers": 44964,
+  "description": "Listen to women at full volume Cover: Maina Doe",
+  "num_followers": 44961,
   "original_name": "EQUAL AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjOcYAAAAADLZGuBYDfEUNQfEsnXLmVI",
+  "snapshot_id": "ZkL94AAAAACXdXzqnxLzz1IgIz+QITxG",
   "tracks": [
+    {
+      "added_at": "2024-05-14 06:00:00",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/6YtMcA6XlBO9TN27dQNLsF"
+      },
+      "artists": [
+        {
+          "name": "Maina Doe",
+          "url": "https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/6F9aI7NCQJXMvnBKj7gQJV"
+    },
+    {
+      "added_at": "2024-05-14 06:00:00",
+      "album": {
+        "name": "The War On Art",
+        "url": "https://open.spotify.com/album/40kwfY8ftMdKWH2gpYGyWe"
+      },
+      "artists": [
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 184684,
+      "name": "The War On Art",
+      "url": "https://open.spotify.com/track/0xvUrLHBEKgrd8kP0khZJz"
+    },
     {
       "added_at": "2024-04-19 11:33:28",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/2QdMLzaL2uSoZv7zMfV78b"
     },
     {
+      "added_at": "2024-05-14 06:00:00",
+      "album": {
+        "name": "Wayside",
+        "url": "https://open.spotify.com/album/3HUoAP6sgFaWMm1vxRLWYm"
+      },
+      "artists": [
+        {
+          "name": "Georgia Lines",
+          "url": "https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/0Z2f0EHh9wYSZWQzxEuhRy"
+    },
+    {
       "added_at": "2024-04-19 11:33:28",
       "album": {
         "name": "LEYLA",
@@ -39,6 +87,70 @@
       "duration_ms": 147500,
       "name": "LEYLA",
       "url": "https://open.spotify.com/track/1ozVMnoI6TRzQ0tQEUiJAp"
+    },
+    {
+      "added_at": "2024-05-14 06:00:00",
+      "album": {
+        "name": "Check Mate",
+        "url": "https://open.spotify.com/album/5Sf5kDdfzSweeoTVjL9dNc"
+      },
+      "artists": [
+        {
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+        }
+      ],
+      "duration_ms": 196889,
+      "name": "Check Mate",
+      "url": "https://open.spotify.com/track/4lMstSPBDmunCswnizQ5b1"
+    },
+    {
+      "added_at": "2024-04-19 11:33:28",
+      "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/0MPu4buEk3qsjxRTmWhgT6"
+      },
+      "artists": [
+        {
+          "name": "Lotte Gallagher",
+          "url": "https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx"
+        }
+      ],
+      "duration_ms": 196388,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/43BysYrQd4iCTJcm6yOp2Q"
+    },
+    {
+      "added_at": "2024-05-14 06:00:00",
+      "album": {
+        "name": "PUPPY BREATH",
+        "url": "https://open.spotify.com/album/4SteOju0oHoEBDxIlBHjcp"
+      },
+      "artists": [
+        {
+          "name": "THE BLSSM",
+          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+        }
+      ],
+      "duration_ms": 153668,
+      "name": "band-aid boy",
+      "url": "https://open.spotify.com/track/6I36lZnem1H6YgdileQrKH"
+    },
+    {
+      "added_at": "2024-05-14 06:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6AnsD2Isj0vX1n01gaYH67"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth M. Drummond",
+          "url": "https://open.spotify.com/artist/2IHOf4FCu5FCjH0QSPHvCT"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/12AORt5BnsSXoRACGqTGK2"
     },
     {
       "added_at": "2024-04-19 11:33:28",
@@ -71,22 +183,6 @@
       "duration_ms": 194747,
       "name": "Do It",
       "url": "https://open.spotify.com/track/1VpKcApZ5LP8iNh59BzBGL"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
-        "name": "Adam",
-        "url": "https://open.spotify.com/album/0MPu4buEk3qsjxRTmWhgT6"
-      },
-      "artists": [
-        {
-          "name": "Lotte Gallagher",
-          "url": "https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx"
-        }
-      ],
-      "duration_ms": 196388,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/43BysYrQd4iCTJcm6yOp2Q"
     },
     {
       "added_at": "2024-04-19 11:33:28",
@@ -903,42 +999,6 @@
     {
       "added_at": "2024-04-19 11:33:28",
       "album": {
-        "name": "Carelessly Doomed (feat. Kota the Friend)",
-        "url": "https://open.spotify.com/album/1wMeUoSh49hCsM0ayZDjTO"
-      },
-      "artists": [
-        {
-          "name": "Chanel Loren",
-          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 189713,
-      "name": "Carelessly Doomed (feat. Kota the Friend)",
-      "url": "https://open.spotify.com/track/6Ey8YJdrWxTFaD66Krb9Pu"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
-        "name": "Hook, Line & Sinker",
-        "url": "https://open.spotify.com/album/6LVn0cwEx5InZDTn0XmOlW"
-      },
-      "artists": [
-        {
-          "name": "The Blamers",
-          "url": "https://open.spotify.com/artist/0Vn8d65WWn2J6xAvyoMAux"
-        }
-      ],
-      "duration_ms": 113516,
-      "name": "Hook, Line & Sinker",
-      "url": "https://open.spotify.com/track/76fusjTPlfrqx2Holz1RO8"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
         "name": "outside",
         "url": "https://open.spotify.com/album/4MB8Dxl3eGZ3ohTO86xEEV"
       },
@@ -951,22 +1011,6 @@
       "duration_ms": 125375,
       "name": "outside",
       "url": "https://open.spotify.com/track/0c3cnN3CR2yQYawWScKezO"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha"
     },
     {
       "added_at": "2024-04-19 11:33:28",
@@ -1299,22 +1343,6 @@
     {
       "added_at": "2024-04-19 11:33:28",
       "album": {
-        "name": "Eternal Tiare",
-        "url": "https://open.spotify.com/album/5KWmp9hwrgwPZf1XHXs0pn"
-      },
-      "artists": [
-        {
-          "name": "YURA",
-          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
-        }
-      ],
-      "duration_ms": 153272,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/2ngNFTGZ3aSfGocMJ2Cdvp"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
         "name": "Can't Afford Therapy",
         "url": "https://open.spotify.com/album/0ZSD6U53FhsMV2N7tUyITc"
       },
@@ -1423,22 +1451,6 @@
       "duration_ms": 197993,
       "name": "dead end kids",
       "url": "https://open.spotify.com/track/54w5kOv00WeffHtdNs6Ut4"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
-        "name": "How Do You Feel?",
-        "url": "https://open.spotify.com/album/2PVSQH2TCtppaZAGAHF0Iz"
-      },
-      "artists": [
-        {
-          "name": "Cat & Calmell",
-          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "How Do You Feel?",
-      "url": "https://open.spotify.com/track/5yVbX2nYXuroIi16eIEJjJ"
     },
     {
       "added_at": "2024-04-19 11:33:28",
@@ -1631,22 +1643,6 @@
       "duration_ms": 167065,
       "name": "Home With Me",
       "url": "https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH"
-    },
-    {
-      "added_at": "2024-04-19 11:33:28",
-      "album": {
-        "name": "Apricot Sun",
-        "url": "https://open.spotify.com/album/073b961mweb1pbVWyB5DJQ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Carron",
-          "url": "https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "Apricot Sun",
-      "url": "https://open.spotify.com/track/1gkpGmHT0hkduqi8bosUSl"
     }
   ],
   "unique_name": "EQUAL AU & NZ",

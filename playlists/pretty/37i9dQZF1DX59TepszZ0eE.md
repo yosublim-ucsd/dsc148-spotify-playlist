@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga?si=k2\_K6pJqTdyARlv\_VNY97w>The Fellowship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,072 likes - 100 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,196 likes - 100 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

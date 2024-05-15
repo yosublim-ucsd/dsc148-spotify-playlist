@@ -2,7 +2,7 @@
 
 ### [Hip Hop Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Neeraj Madhav
+> Set the bars high with Malayalam Hip Hop!<br/>Cover : Neeraj Madhav
 
 171 songs - 9 hr 5 min
 

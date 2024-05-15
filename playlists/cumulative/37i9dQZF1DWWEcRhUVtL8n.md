@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,854 songs - 4 day 1 hr 43 min
+1,855 songs - 4 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Boys Who Kiss You In Their Car](https://open.spotify.com/track/0mFM1XxrkVkKTmuzwwa2IO) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/3gqu6hSCAet5nUZWhkwAi1) | 2:44 | 2022-09-30 | 2022-10-15 |
 | [Boys Who Kiss You In Their Car](https://open.spotify.com/track/76CDrLAyiq8vqKyyaS5U6S) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/0OGc9jPIEK41hS6nUyjCsn) | 2:44 | 2022-09-23 | 2022-10-14 |
 | [Boys Will Be Boys](https://open.spotify.com/track/70exbZDzS34CgTHZv4GMZK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Boys Will Be Boys](https://open.spotify.com/album/2rX8Den6I6W43KO8FaNL1L) | 2:35 | 2021-02-27 | 2021-05-27 |
+| [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-05-10 |  |
 | [Brad Pitt](https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Brad Pitt](https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D) | 3:36 | 2022-03-18 | 2022-08-06 |
 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 | 2021-11-13 | 2021-11-20 |
 | [Braindead](https://open.spotify.com/track/31jFl0SrAW5OgGEDcf3BzJ) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Braindead](https://open.spotify.com/album/1f4NULJrLJIfbuc65VNige) | 2:21 | 2021-09-15 | 2021-10-16 |
@@ -1735,7 +1736,7 @@
 | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/track/7oVDQPi77CXAlWpHxrsnPb) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/album/65zPNLrqrf0G0wrItBaYKR) | 2:56 | 2020-11-05 | 2021-05-25 |
 | [Ur Ex From College](https://open.spotify.com/track/2kuijEYY7xfw8TlQOQfe9u) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [Ur Ex From College](https://open.spotify.com/album/2YiB8Ph7rwsg0z87tNgQA5) | 2:46 | 2021-01-15 | 2021-02-27 |
 | [USMO](https://open.spotify.com/track/1hblRUhOt2Yi618eAJGGiK) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [USMO](https://open.spotify.com/album/0dM6Nusk6TGd5X8DbHBQuF) | 2:33 | 2021-02-09 | 2021-06-03 |
-| [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 | 2024-04-05 |  |
+| [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 | 2024-04-05 | 2024-05-15 |
 | [Valleyheart](https://open.spotify.com/track/3ebeGj7ac0mMlO5PhFK80L) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Valleyheart](https://open.spotify.com/album/42sitHkcawmZVLe2Kt45xK) | 2:28 | 2021-03-07 | 2021-08-11 |
 | [victim of nostalgia](https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [victim of nostalgia](https://open.spotify.com/album/1q368d6nMTceCEkSYdIqHl) | 2:36 | 2022-04-29 | 2022-05-21 |
 | [Victoria](https://open.spotify.com/track/4X8JkeMSFFiVpWqIpS6ajC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Victoria](https://open.spotify.com/album/36YM5gHJmJ415NomqukOME) | 3:18 | 2022-03-18 | 2022-04-20 |

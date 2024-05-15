@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Morodo
 
-356 songs - 23 hr 27 min
+357 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Dela](https://open.spotify.com/track/4sEJncSrPDPuUe4hlp0xvI) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Dela](https://open.spotify.com/album/7hCmxe0ra4M5DaOth4hWnP) | 4:24 | 2024-01-26 | 2024-05-11 |
 | [Desde Arriba](https://open.spotify.com/track/3PvLJaSRm8cZioNsLJYZWI) | [Sie777e](https://open.spotify.com/artist/3giR2g0pDG47aDohrUqBg4), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR) | [Desde Arriba](https://open.spotify.com/album/5y6ly94fNVJDDw7rHe7wCa) | 3:33 | 2023-10-27 | 2023-11-11 |
 | [Desenvaina](https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Desenvaina](https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY) | 3:02 | 2022-09-30 | 2022-11-17 |
-| [Desglosando el Tiempo](https://open.spotify.com/track/6vvkbJcaRNXJ22Dvuzu7dX) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Desglosando el Tiempo](https://open.spotify.com/album/0g9ZHdsYsdOWp7QUibguN8) | 4:46 | 2024-01-26 |  |
+| [Desglosando el Tiempo](https://open.spotify.com/track/6vvkbJcaRNXJ22Dvuzu7dX) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Desglosando el Tiempo](https://open.spotify.com/album/0g9ZHdsYsdOWp7QUibguN8) | 4:46 | 2024-01-26 | 2024-05-15 |
 | [Destroy The Empire](https://open.spotify.com/track/1yLiawLcVNGjEFz8NFxOmY) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Destroy The Empire](https://open.spotify.com/album/7xrCykN0UTFWE2yD8zu2Is) | 3:24 | 2022-04-01 | 2022-04-15 |
 | [Destroy The Empire](https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:24 | 2024-01-26 | 2024-04-17 |
 | [Diablos](https://open.spotify.com/track/4CHrS39vEGLCenT1APQ1ZJ) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Canteca de macao](https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL) | [Pilares](https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e) | 3:43 | 2022-11-18 | 2023-01-21 |
@@ -205,6 +205,7 @@
 | [Love Song](https://open.spotify.com/track/2esPpiAGKUsySMsdwasBcc) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Dean Fraser](https://open.spotify.com/artist/2NgsVYg7cMgPQNYXW7CO6R) | [Love Song](https://open.spotify.com/album/5sFid2NyJbaAVQyIfIY7k8) | 4:26 | 2024-05-10 |  |
 | [LQRA Session \#13](https://open.spotify.com/track/1iIXKK9unQswpy3Yql0lWR) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [LQRA Session \#13](https://open.spotify.com/album/6n0R28dyESU7dkMhNF8TnE) | 3:42 | 2023-05-05 | 2023-07-22 |
 | [Lunático](https://open.spotify.com/track/1Mmil8flc62PPJO79zyGTN) | [Fastah Selectah](https://open.spotify.com/artist/1IB58gi0dQAvYcHoFuqwXT), [Wero Fiyú](https://open.spotify.com/artist/76DBxvQC8gSC90onCpTpBz), [Juan Jordan](https://open.spotify.com/artist/25D6yBxIodv8ZapYIrYA49), [Stein](https://open.spotify.com/artist/0gZ94YliBPeRCBE5FRtjw3) | [Lunático](https://open.spotify.com/album/6CtRCtbV8DGMSnSu5p3Osz) | 2:31 | 2023-07-21 | 2023-08-19 |
+| [Luz y Compañía](https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:57 | 2024-05-10 |  |
 | [Mama No Cry](https://open.spotify.com/track/6GNeG8hpDoXBwPPueaHzd7) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8) | [Mama No Cry](https://open.spotify.com/album/62sgydRnwBccdy7T4zT54l) | 3:26 | 2023-10-27 | 2023-11-11 |
 | [Mamma Freedom](https://open.spotify.com/track/3ZDDItYLfoaaMsP3avZXLq) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v), [4 Harmony](https://open.spotify.com/artist/1SBB68urrSA9M84sQyhWzh) | [Mamma Freedom](https://open.spotify.com/album/1gXoF4nPAgAn6a7GNS6s8W) | 4:03 | 2022-04-01 | 2022-04-18 |
 | [Mamá Morada](https://open.spotify.com/track/2meeh4QSYXOmgNrxLg7f1P) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [PA](https://open.spotify.com/album/3qUPXm3AwtFM1FotnXVuuM) | 2:53 | 2022-03-11 | 2022-04-21 |

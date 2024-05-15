@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:3rdJD72bitczKtW5yNgAA4">Seph Schlueter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,753 likes - 102 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,974 likes - 102 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

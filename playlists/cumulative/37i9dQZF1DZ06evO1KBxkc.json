@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257273,
+      "name": "4 Min Convo (Favorite Song)",
+      "url": "https://open.spotify.com/track/5h66wqaGklsSa8eSxTwcJT"
+    },
+    {
+      "album": {
         "name": "Already Know",
         "url": "https://open.spotify.com/album/4WzqoNvuz17jbj8dSg4quA"
       },
@@ -204,7 +222,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 176958,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/5XzombolzpiaOSTdj1W0VS"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 214592,
       "name": "Demons and Angels (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3L19besdNQzd342qL78xqm"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 190534,
       "name": "Hello (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
@@ -840,7 +858,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 135017,
       "name": "It's Crazy (feat. Melody)",
       "url": "https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH"
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 215303,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 191861,
       "name": "Money Conversations",
       "url": "https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 128156,
       "name": "My Shit",
       "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 212695,
       "name": "R&B Shit (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/70C5mlnBodNJqRYpQi7O9x"
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 171938,
       "name": "Run It Up (feat. Sleepy Hallow & A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/1GjWE4T7qZNeIy1hgm98R9"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 174333,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 246987,
       "name": "Still Think About You",
       "url": "https://open.spotify.com/track/2FTeQQ5Rg9tBpgpTF5mnhE"
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 185806,
       "name": "Tip Toe (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 206769,
       "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
       "url": "https://open.spotify.com/track/3xXI0QxPxPnexMc8wxPOYA"

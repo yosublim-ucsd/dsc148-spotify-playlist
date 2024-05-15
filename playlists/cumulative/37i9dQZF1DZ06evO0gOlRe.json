@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "bleeding heart (with Track-by-Track Commentary)",
+        "url": "https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45545,
+      "name": "Alexander Stewart on 'reflection'",
+      "url": "https://open.spotify.com/track/1Gl07mtzYpSv521rygV2bb"
+    },
+    {
+      "album": {
         "name": "bleeding heart",
         "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },

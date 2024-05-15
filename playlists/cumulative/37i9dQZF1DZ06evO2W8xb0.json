@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Evergreen Songs Original 6",
+        "url": "https://open.spotify.com/album/30jDRu2udWrunytzkcUjCO"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1272986,
+      "name": "Ara Nba Da Owo Oje",
+      "url": "https://open.spotify.com/track/0juqnABofBDYtzZQ0sUZja"
+    },
+    {
+      "album": {
         "name": "Evergreen Songs 32",
         "url": "https://open.spotify.com/album/3SLsmP1ydaSxN39MLRXGYx"
       },
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 219415,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/59K3OX1LDIHUPWyNs0GfZo"

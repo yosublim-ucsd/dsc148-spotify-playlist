@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 83131,
       "name": "Calvin",
       "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 116015,
       "name": "Mad",
       "url": "https://open.spotify.com/track/5UvOMRZ9OLfWlHAF72qo6y"
@@ -726,6 +726,24 @@
       "duration_ms": 131637,
       "name": "Sygrayem (Let's Play)",
       "url": "https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX"
+    },
+    {
+      "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59669,
+      "name": "THE LAST CIGARETTE",
+      "url": "https://open.spotify.com/track/7x6BO8H8ez38b3VbfA2blG"
     },
     {
       "album": {

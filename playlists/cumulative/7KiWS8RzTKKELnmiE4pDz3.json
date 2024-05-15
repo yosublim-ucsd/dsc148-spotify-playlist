@@ -8681,6 +8681,32 @@
     },
     {
       "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202841,
+      "name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
+      "url": "https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK"
+    },
+    {
+      "album": {
         "name": "plugg!",
         "url": "https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV"
       },

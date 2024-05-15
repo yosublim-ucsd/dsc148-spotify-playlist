@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 263 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 40 | [TOCHNA DOZA](https://open.spotify.com/track/3JyjVg9S9EkapeE042zpgY) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Mishell](https://open.spotify.com/artist/4M47drOmnvyfjvu7H3TFH2) | [TOCHNA DOZA](https://open.spotify.com/album/4DjkpVFKSBoFSLWKaiVcs5) | 3:52 |
 | 41 | [Ти си топ](https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Mile Kitic](https://open.spotify.com/artist/2OhGtVGxKAJJuc7bEKB7wH) | [Ти си топ](https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez) | 2:51 |
 | 42 | [Здрасти](https://open.spotify.com/track/5zQJgQMsG2Q8JOmMmiE5Nt) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Здрасти](https://open.spotify.com/album/4HNgKPBat74mSOWKTNppW4) | 3:33 |
-| 43 | [ТАКА ТАКА](https://open.spotify.com/track/2mA1BVYwzbhRqqkkkFQx83) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [ТАКА ТАКА](https://open.spotify.com/album/7bQTgMCz2F7KOyvl46Uf9y) | 3:04 |
+| 43 | [TAKA TAKA](https://open.spotify.com/track/2mA1BVYwzbhRqqkkkFQx83) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [TAKA TAKA](https://open.spotify.com/album/7bQTgMCz2F7KOyvl46Uf9y) | 3:04 |
 | 44 | [Откачила](https://open.spotify.com/track/32pFur6ytKmk43I5gtX7W4) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ), [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Откачила](https://open.spotify.com/album/7uNTQkaeaifMAfVzqmBYss) | 2:55 |
 | 45 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 46 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
 | 50 | [Бавария](https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG) | [VANE$$A](https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL), [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8) | [Бавария](https://open.spotify.com/album/2yFMOSTwQWSgBkR3wDA9YG) | 3:17 |
 
-Snapshot ID: `LdV7GAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LdbMmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

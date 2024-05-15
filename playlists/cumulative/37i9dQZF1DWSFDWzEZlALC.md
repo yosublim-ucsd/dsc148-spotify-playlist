@@ -2,7 +2,7 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz
+> <a href="https://www.introducing.events/">Hier</a> anmelden für das Wilde Herzen Festival mit Levin Liam, Dilla, soffie, error und Katha Pauer
 
 619 songs - 1 day 5 hr 50 min
 

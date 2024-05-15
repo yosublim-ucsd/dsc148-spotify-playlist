@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Kei Linch & Nanpa Básico
 
-132 songs - 7 hr 8 min
+133 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [La Llave del Universo](https://open.spotify.com/track/5eaYZliqtzLBGx1EoWR6Xg) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [La Llave del Universo](https://open.spotify.com/album/6QpW9A1c59mW2P4rzFzn18) | 3:49 | 2024-02-23 |  |
 | [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 | 2024-04-26 |  |
 | [La Verdad del Pobre](https://open.spotify.com/track/5A6krTKbn9GJJLZ21keUh4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pureza](https://open.spotify.com/album/4obatkmABoD3jq8zoBbM6C) | 2:27 | 2023-05-26 |  |
-| [Las Calles Son Clases](https://open.spotify.com/track/0Ptr4kYE9yVxrYWjaYw8D7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Las Calles Son Clases](https://open.spotify.com/album/45O6BO1jUcdqoR0kJEGmaH) | 2:40 | 2023-08-11 |  |
+| [Las Calles Son Clases](https://open.spotify.com/track/0Ptr4kYE9yVxrYWjaYw8D7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Las Calles Son Clases](https://open.spotify.com/album/45O6BO1jUcdqoR0kJEGmaH) | 2:40 | 2023-08-11 | 2024-05-15 |
 | [Lejos](https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX) | [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Old Tom Parr](https://open.spotify.com/album/52PbTWa5YvD8XZp3ulGB5K) | 2:10 | 2024-02-23 |  |
 | [Lejos del 2](https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Lejos del 2](https://open.spotify.com/album/0ZZlgtb4U35vMmeJ46jBTh) | 2:40 | 2023-05-26 | 2023-07-15 |
 | [Let's Fly](https://open.spotify.com/track/5KMYTVBflb2wAo10mwgs3W) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [Let’s Fly](https://open.spotify.com/album/46lG6zPVzEHqUnRN70kbRS) | 2:48 | 2023-08-11 |  |
@@ -87,6 +87,7 @@
 | [No Está en Venta](https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2023-05-26 | 2024-04-19 |
 | [No Está En Venta](https://open.spotify.com/track/3w1bk17tZucjuuVE4gPvc4) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [No Está En Venta](https://open.spotify.com/album/2D2Q3l7DjVVcR4fF1n1g1H) | 4:00 | 2024-02-23 |  |
 | [No Se Sobrepase](https://open.spotify.com/track/3FXGe1es7PX9UgBQvLGk2r) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [No Se Sobrepase](https://open.spotify.com/album/1u9AhrCsNV1rpokYfUr7zC) | 3:03 | 2023-05-26 |  |
+| [No Somos Iguales](https://open.spotify.com/track/768hs3HVSrFZzBtuEw4ZBE) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [No Somos Iguales](https://open.spotify.com/album/6a8f7KXUjf2AWp0Mf5tKxH) | 3:06 | 2024-05-14 |  |
 | [Oriente](https://open.spotify.com/track/1m7420tu0giLnbu2LQ98y0) | [El Nido](https://open.spotify.com/artist/4nRaAYkADMj7ATnd0hn7CF), [Fiallo](https://open.spotify.com/artist/6E2JHtKCvri7P7vWK7CzCc), [Munozzz](https://open.spotify.com/artist/5pF08t8ERA9GuK5dvnC1oB), [Barrasdereptil](https://open.spotify.com/artist/4KPi82w20lGQ5ndqNxkZ4k) | [Oriente](https://open.spotify.com/album/3Ff4w8X4dQwai5Lg8IFDOA) | 4:36 | 2024-04-19 |  |
 | [Otra Vez](https://open.spotify.com/track/3iVuCCtTBOVHwiyzb4USXk) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Ruben Chi](https://open.spotify.com/artist/1Zu6vTdmWNYpvrP2FhNqwD) | [Otra Vez](https://open.spotify.com/album/2P8sjccIUOqDsfpeuKTORp) | 2:36 | 2023-11-10 | 2024-04-19 |
 | [Otra Vez \(Prod Ruben Chi\)](https://open.spotify.com/track/4xUfaHjJg3N9xQbUjVadwA) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Ruben Chi](https://open.spotify.com/artist/6qoEL731eyLH1w9aZK1pxK) | [Otra Vez \(Prod Ruben Chi\)](https://open.spotify.com/album/2JmZu36gVElK4lC6CBlpVs) | 2:36 | 2023-05-26 |  |

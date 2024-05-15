@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,122 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,158 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 39 | [Dil Diyan Gallan \(Unplugged\)](https://open.spotify.com/track/1As58Rpu8oZtLDAeVFHVyq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tiger Zinda Hai](https://open.spotify.com/album/2q00VQKBQu6ZUesFREPFWc) | 4:03 |
 | 40 | [Jag Ghoomeya \(Female\)](https://open.spotify.com/track/4YRK38dk1rgrpjKubcSt18) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Sultan](https://open.spotify.com/album/0tAi6H8acUKefYMIEuxcMA) | 4:14 |
 | 41 | [Phir Aur Kya Chahiye \- Asees Version](https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Phir Aur Kya Chahiye \- Asees Version](https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG) | 3:58 |
-| 42 | [Galliyan \(Unplugged\)](https://open.spotify.com/track/0zlsXumKe7ymS1ANu5TDZP) | [Shraddha Kapoor](https://open.spotify.com/artist/6vYL9RV6m4NECOJzbGRbbV), [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [Ek Villain](https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF) | 4:14 |
+| 42 | [Galliyan \(Unplugged\)](https://open.spotify.com/track/0zlsXumKe7ymS1ANu5TDZP) | [Shraddha Kapoor](https://open.spotify.com/artist/6vYL9RV6m4NECOJzbGRbbV), [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Ek Villain](https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF) | 4:14 |
 | 43 | [Nain Ta Heere \- Lisa](https://open.spotify.com/track/6emAuBpvTZkGlZu7uQnkFe) | [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:33 |
 | 44 | [Satranga \(Stripped\)](https://open.spotify.com/track/2dYyMsXlyTwJgWXUAWVjZj) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [ANIMAL \(Deluxe Edition Album\)](https://open.spotify.com/album/2OvmWeSaHWe4q6Ru4Myo52) | 3:14 |
 | 45 | [Chashni Reprise](https://open.spotify.com/track/3OyiTBVPHhVgCb7OBO7aFE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Bharat](https://open.spotify.com/album/6Jl2MfI7pB2hWKvTUc5DbA) | 3:59 |

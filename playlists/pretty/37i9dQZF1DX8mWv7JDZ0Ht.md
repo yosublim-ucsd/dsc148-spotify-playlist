@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: PRISCILLA, Péricles
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,422 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,413 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 23 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 |
 | 24 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
 | 25 | [Mística](https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Mística](https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI) | 3:36 |
-| 26 | [Cortejo](https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Cortejo](https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF) | 2:49 |
+| 26 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 27 | [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 |
-| 28 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
+| 28 | [Cortejo](https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Cortejo](https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF) | 2:49 |
 | 29 | [Café](https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Café](https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL) | 3:38 |
 | 30 | [FICA](https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [FICA](https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn) | 3:26 |
 | 31 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 55 | [Novela Favorita](https://open.spotify.com/track/3AUhe6kIitZF2hrxZ32CKp) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Novela Favorita](https://open.spotify.com/album/3r39DApTPOHHPxG3CwaFBk) | 2:24 |
 | 56 | [Quando Cê Vem](https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Quando Cê Vem](https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu) | 2:36 |
 | 57 | [PLENA TERÇA FEIRA](https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Julie Ramos](https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV) | [PLENA TERÇA FEIRA](https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3) | 3:07 |
-| 58 | [Teu Chá](https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR) | [o futuro já está acontecendo](https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj) | 4:50 |
-| 59 | [Tudo Vai Ser Como Deve Ser](https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Tudo Vai Ser Como Deve Ser](https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ) | 2:54 |
-| 60 | [Sem Me Preocupar](https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl) | [Julia Smith](https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs) | [Existe Amor Aqui](https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET) | 3:19 |
+| 58 | [Sem Me Preocupar](https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl) | [Julia Smith](https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs) | [Existe Amor Aqui](https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET) | 3:19 |
+| 59 | [Teu Chá](https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR) | [o futuro já está acontecendo](https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj) | 4:50 |
+| 60 | [Tudo Vai Ser Como Deve Ser](https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Tudo Vai Ser Como Deve Ser](https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ) | 2:54 |
 | 61 | [Todo Azul](https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Todo Azul](https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S) | 2:32 |
 | 62 | [Sintomas de Saudade](https://open.spotify.com/track/6QlevudYVANWjhtyyH2PJW) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Sintomas de Saudade](https://open.spotify.com/album/5u16k6T8bhUwgI10rlCwVt) | 3:14 |
 | 63 | [Me Deixa Ser Só Teu](https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Me Deixa Ser Só Teu](https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo) | 2:40 |

@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 677169,
+  "num_followers": 677253,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "eMOTIVe",
-        "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Temple of Love (feat. VV)",
         "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 204759,
       "name": "Temple of Love (feat. VV)",
       "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "eMOTIVe",
+        "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 278280,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -1371,38 +1387,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
-        "name": "Rebels",
-        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 278280,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
-      },
-      "artists": [
-        {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
-        }
-      ],
-      "duration_ms": 302736,
-      "name": "Creep - Spotify Singles",
-      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Ballroom Blitz",
         "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
       },
@@ -1644,6 +1628,22 @@
       "added_at": "2024-04-19 19:49:27",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "duration_ms": 302736,
+      "name": "Creep - Spotify Singles",
+      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
       },
       "artists": [
@@ -1655,22 +1655,6 @@
       "duration_ms": 236450,
       "name": "Personal Jesus - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1699,6 +1683,22 @@
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/1o0W44e3TLSSkyFI55Wi2Z"
-      },
-      "artists": [
-        {
-          "name": "American Hi-Fi",
-          "url": "https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP"
-        }
-      ],
-      "duration_ms": 212365,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/1rkGytnje8oF8Ek13ZodT5"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Sugar We\u2019re Goin Down",
         "url": "https://open.spotify.com/album/70Jry5eQg2mZzWGebXkwZR"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 221481,
       "name": "Sugar We\u2019re Goin Down",
       "url": "https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/1o0W44e3TLSSkyFI55Wi2Z"
+      },
+      "artists": [
+        {
+          "name": "American Hi-Fi",
+          "url": "https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP"
+        }
+      ],
+      "duration_ms": 212365,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/1rkGytnje8oF8Ek13ZodT5"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Greatest Hitz",
-        "url": "https://open.spotify.com/album/1RylctYsdF1nIN4Vn916Tc"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 146706,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/3zZQg2DLezm194cTeGQuOD"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
       },
@@ -2483,18 +2467,18 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Ramble On",
-        "url": "https://open.spotify.com/album/6wFpk4lFTAhrmfkvZxf6Gg"
+        "name": "Greatest Hitz",
+        "url": "https://open.spotify.com/album/1RylctYsdF1nIN4Vn916Tc"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 262293,
-      "name": "Ramble On",
-      "url": "https://open.spotify.com/track/0OQLMQBKeaFuA2PJRdMuik"
+      "duration_ms": 146706,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/3zZQg2DLezm194cTeGQuOD"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2511,6 +2495,22 @@
       "duration_ms": 224090,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/0CdbUHOAfMAvvtkSg22AM8"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Ramble On",
+        "url": "https://open.spotify.com/album/6wFpk4lFTAhrmfkvZxf6Gg"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "Ramble On",
+      "url": "https://open.spotify.com/track/0OQLMQBKeaFuA2PJRdMuik"
     },
     {
       "added_at": "2024-04-19 19:49:27",

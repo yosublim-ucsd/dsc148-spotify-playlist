@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Bnny
 
-394 songs - 21 hr 12 min
+395 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Raw](https://open.spotify.com/track/4Ot0dM7CB4gr9hVu6Hos3Z) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Raw](https://open.spotify.com/album/4AICfwXPPvRKBzEaUuO32e) | 3:37 | 2021-04-02 | 2022-07-12 |
 | [Real](https://open.spotify.com/track/6JA93Y4aUHtzZyuxCGOhSm) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [Real](https://open.spotify.com/album/3LDD22obHHlYlxtBlUnj2h) | 3:46 | 2020-10-27\* | 2022-07-29 |
 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-13 |  |
-| [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 | 2020-12-11 |  |
+| [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 | 2020-12-11 | 2024-05-15 |
 | [Red Rag To A Bull](https://open.spotify.com/track/3v9dcSB3xTGLoQ7vwdr3I5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Red Rag To A Bull](https://open.spotify.com/album/7gh3pCCd0TDhLm25VAKlIN) | 2:36 | 2021-10-11 | 2022-04-20 |
 | [Red Stone](https://open.spotify.com/track/68uXJTiiZfSKL2KQrowXAL) | [Ed Dowie](https://open.spotify.com/artist/5fVWsyYSseyTctaZKbzYb5) | [Red Stone](https://open.spotify.com/album/1pLCw41U8oSFSIC37fsi00) | 4:14 | 2021-03-06 | 2022-04-21 |
 | [Ribbon Blue](https://open.spotify.com/track/7A8a4VvIFOhwg8cezHeGwP) | [PANTōNE VU](https://open.spotify.com/artist/5luLFn9eaF12EIamzc4oK8) | [Ribbon Blue](https://open.spotify.com/album/4jDSIRfuFvN6sZTLmwKHV8) | 2:05 | 2021-12-09 | 2022-07-19 |
@@ -317,6 +317,7 @@
 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 | 2021-05-21 | 2022-04-20 |
 | [Sinking](https://open.spotify.com/track/4Z4dOZKs9rQuhuSSlLGY99) | [Lazy Days](https://open.spotify.com/artist/5FGn2Rme0MBoLoWvh6zKp7) | [Sinking](https://open.spotify.com/album/3jHCMgLxcachy9KxKabFSC) | 1:48 | 2021-04-02 | 2022-04-21 |
 | [Sirens](https://open.spotify.com/track/2pPMCg1tCVQ1otj0UBZFE3) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sirens](https://open.spotify.com/album/1bsdy7nF4AxUwS5FL9Eydf) | 4:04 | 2021-08-20 | 2022-07-29 |
+| [Skater Dater \(feat\. Bb trickz & Elvia\)](https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [Vampire in Beverly Hills](https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH) | 2:34 | 2024-05-14 |  |
 | [Sleep Well](https://open.spotify.com/track/3GWuPbPr5nT65fmew963zV) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Sleep Well](https://open.spotify.com/album/7vT3flPEcoHfHJrGGw1YFU) | 4:08 | 2021-04-02 | 2022-07-26 |
 | [so be it in my dreams](https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [so be it in my dreams](https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L) | 2:26 | 2024-02-05 |  |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2020-10-30 |  |

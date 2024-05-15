@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,122 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,183 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 77 | [El Camionero](https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc) | [Los Kapsi](https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna) | [Camionero](https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP) | 3:49 |
 | 78 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
 | 79 | [Guachita Hermosa](https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h) | [tierra caliente music](https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0) | [Eres Mi Sexto Sentido](https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6) | 3:04 |
-| 80 | [Casita de Adobe](https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Casita de Adobe](https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk) | 3:59 |
-| 81 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 |
+| 80 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 |
+| 81 | [Casita de Adobe](https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Casita de Adobe](https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk) | 3:59 |
 | 82 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
 | 83 | [Cuéntale a la Gente \(feat\. La Leyenda De Servando Montalva\)](https://open.spotify.com/track/1zhSUSXjhxlJ8WTVnnD8yj) | [Los Hermanos Salgado](https://open.spotify.com/artist/6j5ye5mufTZx40UKVScMvP), [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Cuéntale a la Gente \(feat\. La Leyenda De Servando Montalva\)](https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC) | 3:23 |
 | 84 | [Mis Errores Pagando](https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Guerra De Corridos](https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG) | 2:32 |
 | 85 | [Si No Te Tengo](https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Si No Te Tengo](https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq) | 3:43 |
 | 86 | [Se Termino Lo Nuestro](https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Somos Mas Americanos](https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT) | 3:30 |
 | 87 | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc) | 3:00 |
-| 88 | [Si Tengo A Mi Madre](https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 3:33 |
-| 89 | [La Grapa](https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH) | [Severo Benito y Su Banda Cachas de Oro](https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS) | [Para Toda La Vida](https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC) | 2:50 |
+| 88 | [La Grapa](https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH) | [Severo Benito y Su Banda Cachas de Oro](https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS) | [Para Toda La Vida](https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC) | 2:50 |
+| 89 | [Si Tengo A Mi Madre](https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 3:33 |
 | 90 | [La Boca Es Para Comer](https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Al 100 y Pasadito](https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b) | 2:37 |
 | 91 | [Mal Amor](https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Mal Amor](https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn) | 2:48 |
 | 92 | [Inolvidables](https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Inolvidable](https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M) | 3:22 |

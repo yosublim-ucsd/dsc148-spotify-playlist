@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 2010,
+  "num_followers": 2026,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "New Blue Sun",
         "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 229534,
       "name": "Ninety Three 'Til Infinity And Beyonc\u00e9",
       "url": "https://open.spotify.com/track/0LVCuBsPmGaYvGV3IOMXFy"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "So Intense",
-        "url": "https://open.spotify.com/album/4z1GsR89d4zTesFNiOhS6o"
-      },
-      "artists": [
-        {
-          "name": "Lisa Fischer",
-          "url": "https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn"
-        }
-      ],
-      "duration_ms": 319880,
-      "name": "How Can I Ease the Pain",
-      "url": "https://open.spotify.com/track/24LlWhWXorT9R81J2vaA9H"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Llorar",
         "url": "https://open.spotify.com/album/2dRbIhJvSzIwPMrpFQw5rK"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 189696,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/1isFlA2cc05BJuPdfp9LTt"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "So Intense",
+        "url": "https://open.spotify.com/album/4z1GsR89d4zTesFNiOhS6o"
+      },
+      "artists": [
+        {
+          "name": "Lisa Fischer",
+          "url": "https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn"
+        }
+      ],
+      "duration_ms": 319880,
+      "name": "How Can I Ease the Pain",
+      "url": "https://open.spotify.com/track/24LlWhWXorT9R81J2vaA9H"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Clap!",
-        "url": "https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi"
-      },
-      "artists": [
-        {
-          "name": "Erik Truffaz",
-          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
-        },
-        {
-          "name": "Bertrand Belin",
-          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "In Heaven",
-      "url": "https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 293973,
       "name": "Chicago Blues",
       "url": "https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Clap!",
+        "url": "https://open.spotify.com/album/1HV1d1eZnnlAQkG5beiBQi"
+      },
+      "artists": [
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        },
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/3YjDLKrBH1u30LCnT2l1gt"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "FINER THINGS IN LIFE",
-        "url": "https://open.spotify.com/album/63m3qoFNagZfcBDlNN8etP"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 232116,
-      "name": "FINER THINGS IN LIFE",
-      "url": "https://open.spotify.com/track/0Sje6j7SqwGrZsX4oOSEgG"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Goodnight Summerland",
         "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "when the poems do what they do",
-        "url": "https://open.spotify.com/album/1O2ncFadkTaORxF29AMrMk"
+        "name": "FINER THINGS IN LIFE",
+        "url": "https://open.spotify.com/album/63m3qoFNagZfcBDlNN8etP"
       },
       "artists": [
         {
-          "name": "aja monet",
-          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
         }
       ],
-      "duration_ms": 277283,
-      "name": "why my love?",
-      "url": "https://open.spotify.com/track/4qKQGEus6IEWqZYSqqhBqZ"
+      "duration_ms": 232116,
+      "name": "FINER THINGS IN LIFE",
+      "url": "https://open.spotify.com/track/0Sje6j7SqwGrZsX4oOSEgG"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1247,6 +1231,22 @@
       "duration_ms": 146812,
       "name": "I'm Not Sure",
       "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "when the poems do what they do",
+        "url": "https://open.spotify.com/album/1O2ncFadkTaORxF29AMrMk"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        }
+      ],
+      "duration_ms": 277283,
+      "name": "why my love?",
+      "url": "https://open.spotify.com/track/4qKQGEus6IEWqZYSqqhBqZ"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Step out",
-        "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 220418,
-      "name": "Reach Out I'll Be There",
-      "url": "https://open.spotify.com/track/6edGDwIBfftAb0xQX4nfTI"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "A World Worth Fighting For",
         "url": "https://open.spotify.com/album/7thUFUVgLGBwgB2pGfXxbJ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 255993,
       "name": "Get out Your Ear's Way",
       "url": "https://open.spotify.com/track/0ZdESxy6ps52E6UuY4vHyx"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Step out",
+        "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 220418,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6edGDwIBfftAb0xQX4nfTI"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "ACTE III",
-        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
-      },
-      "artists": [
-        {
-          "name": "Simon Leoza",
-          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
-        }
-      ],
-      "duration_ms": 95866,
-      "name": "III {serenade}",
-      "url": "https://open.spotify.com/track/1Hv6iMEG4aijKn8MAMtWWl"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/3BDHDrylqDrv6qz11DRrR7"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 300573,
       "name": "New Mornings",
       "url": "https://open.spotify.com/track/3QDM1qBd5dp8iJlbfeJvuD"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "ACTE III",
+        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
+      },
+      "artists": [
+        {
+          "name": "Simon Leoza",
+          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
+        }
+      ],
+      "duration_ms": 95866,
+      "name": "III {serenade}",
+      "url": "https://open.spotify.com/track/1Hv6iMEG4aijKn8MAMtWWl"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Creatures of the Late Afternoon",
-        "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "1000 Towns",
-      "url": "https://open.spotify.com/track/1CVqnk1ilxgitab7JONA81"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Patche",
         "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 342040,
       "name": "Motorik",
       "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Creatures of the Late Afternoon",
+        "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 144760,
+      "name": "1000 Towns",
+      "url": "https://open.spotify.com/track/1CVqnk1ilxgitab7JONA81"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "VWETO III",
-        "url": "https://open.spotify.com/album/0LHPSt892Smr99CWlvCZRx"
-      },
-      "artists": [
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/6kSDH2gdjMJTQxwgbMSnfK"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Live at Birdland & More!",
         "url": "https://open.spotify.com/album/1I8I2GFC5Z7KD4SipG06Zg"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 260734,
       "name": "Melissa",
       "url": "https://open.spotify.com/track/6ypmZgQLHp12CmqiURO8vZ"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "VWETO III",
+        "url": "https://open.spotify.com/album/0LHPSt892Smr99CWlvCZRx"
+      },
+      "artists": [
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 275160,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/6kSDH2gdjMJTQxwgbMSnfK"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "Parfum no.1",
+        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
+      },
+      "artists": [
+        {
+          "name": "Jacques Kuba Seguin",
+          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
+        }
+      ],
+      "duration_ms": 444706,
+      "name": "Promesse de souvenirs",
+      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
         "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
       },
@@ -2515,22 +2531,6 @@
       "duration_ms": 270947,
       "name": "Jabok",
       "url": "https://open.spotify.com/track/6ZdHbJPW3volr6T5vU7pWk"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Parfum no.1",
-        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
-      },
-      "artists": [
-        {
-          "name": "Jacques Kuba Seguin",
-          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
-        }
-      ],
-      "duration_ms": 444706,
-      "name": "Promesse de souvenirs",
-      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Memory Blues",
-        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
-      },
-      "artists": [
-        {
-          "name": "Endrick & the Sandwiches",
-          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Memory Blues",
-      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "FREEDOM FIRST",
         "url": "https://open.spotify.com/album/47GbM3pAl1FCG2m8N5Cdkm"
       },
@@ -2687,6 +2671,22 @@
       "duration_ms": 233893,
       "name": "Tired of Crying",
       "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Memory Blues",
+        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
+      },
+      "artists": [
+        {
+          "name": "Endrick & the Sandwiches",
+          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Memory Blues",
+      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
     },
     {
       "added_at": "2024-04-24 15:03:49",

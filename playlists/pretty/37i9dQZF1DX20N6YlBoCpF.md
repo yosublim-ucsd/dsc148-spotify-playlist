@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP?si=P6w1qFFUQyK4Vwiaqf\-5Sw">Wilma Van Heerden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,176 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,209 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

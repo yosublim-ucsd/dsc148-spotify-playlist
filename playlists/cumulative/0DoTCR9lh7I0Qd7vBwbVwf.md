@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/0DoTCR9lh7I0Qd7vBwbVwf.md) - cumulative - [plain](/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0DoTCR9lh7I0Qd7vBwbVwf)
 
-### [full focus music 🎧☁️✨](https://open.spotify.com/playlist/0DoTCR9lh7I0Qd7vBwbVwf)
+### [FOCUS MUSIC 🎧☁️✨ music for deep focus, deep work, study concentration music](https://open.spotify.com/playlist/0DoTCR9lh7I0Qd7vBwbVwf)
 
-> curated full focus music for maximum productivity
+> full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-132 songs - 4 hr 20 min
+133 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Luminous Aura](https://open.spotify.com/track/4seYtCzpuuZUcZDJx2Q4GA) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Enchanted Lullabies](https://open.spotify.com/album/2QAtObUYP4c1nTTl7ZiI0z) | 2:02 | 2024-02-05 |  |
 | [Luminous Nights](https://open.spotify.com/track/5YNFnrQb7WcJJ5HTmxPf8f) | [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG), [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN) | [Softly Spoken](https://open.spotify.com/album/1osp8EiJsqAv3rhXsKPnt4) | 1:36 | 2024-02-05 |  |
 | [Luminous Reverberations](https://open.spotify.com/track/2GxrH25EFsBg3GVhbAL296) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Luminous Reverberations](https://open.spotify.com/album/2EQSCXFUV6MhW7EBaFOIKv) | 2:01 | 2024-02-05 |  |
+| [Marble](https://open.spotify.com/track/40CxiQSy3HJp2PsexQu6Kl) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Kloetie](https://open.spotify.com/artist/79HvIph8Ud3gnKMVLWCduY) | [Collage](https://open.spotify.com/album/6hPvYW6F9TFRxiAB6zloIk) | 2:37 | 2024-05-14 |  |
 | [Melancholic Mirage](https://open.spotify.com/track/2r4QsDgsGXxRehtYI54tmV) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Echoes of Stardust](https://open.spotify.com/album/4xFwIg2DthGNA0bSRhgmsY) | 2:17 | 2024-02-05 |  |
 | [Melodic Abstraction](https://open.spotify.com/track/2yScHSXmpf0rlwdq3stbDz) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Luminous Reverberations](https://open.spotify.com/album/2EQSCXFUV6MhW7EBaFOIKv) | 1:56 | 2024-02-05 |  |
 | [Melodic Illusions](https://open.spotify.com/track/1RivWWwOrnGYU4bA9ZQ3XH) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Serenade of Stardust](https://open.spotify.com/album/4UaC5YladAxDnolCjmZVZG) | 2:08 | 2024-02-05 |  |

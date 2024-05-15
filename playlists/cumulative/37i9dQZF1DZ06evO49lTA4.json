@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-22",
-  "description": "This is Luke Combs. The essential tracks, all in one playlist.",
+  "description": "This is Luke Combs. \u0623\u063a\u0627\u0646\u064a \u0631\u0648\u0639\u0629 \u0641\u064a \u0642\u0627\u064a\u0645\u0629 \u0623\u063a\u0627\u0646\u064a \u0648\u0627\u062d\u062f\u0629.",
   "name": "This Is Luke Combs",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 180906,
       "name": "1, 2 Many",
       "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 191053,
       "name": "Brand New Man - with Luke Combs",
       "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 222533,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 204240,
       "name": "Refrigerator Door",
       "url": "https://open.spotify.com/track/3bfuN2UbSYYqCLG3cdweGf"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 183160,
       "name": "She Got the Best of Me",
       "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 230240,
       "name": "This One's for You",
       "url": "https://open.spotify.com/track/02Ey48n33H3erWJRZAtTFj"

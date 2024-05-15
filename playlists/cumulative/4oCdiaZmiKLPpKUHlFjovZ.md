@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock.
 
-81 songs - 3 hr 26 min
+83 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,8 @@
 | [Special \(feat\. OhGeesy\)](https://open.spotify.com/track/3Mlcjjz7jwTyNcb1mP7qsI) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Special \(feat\. OhGeesy\)](https://open.spotify.com/album/3DW538fBEe0ld2Oj4SIgK1) | 2:41 | 2023-09-15 | 2024-01-20 |
 | [stuck](https://open.spotify.com/track/12zZe5d94B9ovOI49fHOgy) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [stuck](https://open.spotify.com/album/1LKD5d3ZL8OfSNFoq65ZrI) | 2:41 | 2024-01-12 |  |
 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 | 2023-09-05 |  |
+| [The Greatest](https://open.spotify.com/track/0yiP9YTs4J4eQVU5Zc42QL) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [The Greatest](https://open.spotify.com/album/4Zle90yBm3NjONDtmuutCX) | 2:14 | 2024-05-15 |  |
+| [Tidal Wave](https://open.spotify.com/track/0yquoP4Aa49aT2n460pbYU) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Tidal Wave](https://open.spotify.com/album/2ltqTkAvRX2n5xfbC6s7ct) | 3:18 | 2024-05-15 |  |
 | [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 | 2024-01-19 |  |
 | [TRAPPii](https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [TRAPPii](https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v) | 2:57 | 2023-09-28 |  |
 | [Turnt](https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Purple Heart](https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz) | 2:45 | 2024-02-20 |  |

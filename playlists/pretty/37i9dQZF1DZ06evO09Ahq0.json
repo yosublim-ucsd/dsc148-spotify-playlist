@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 462891,
+  "num_followers": 463034,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAABcTeNKYAzj/9my3FovlwUb",
+  "snapshot_id": "ZkFYAAAAAADaOljHoE9GW2OiIxJ69ov8",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stage",
-        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 221973,
-      "name": "God Damn",
-      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds in the Rough",
         "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9"
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 381200,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH"
+      "duration_ms": 221973,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 ### [This Is Dominic Fike](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45Aj3b)
 
-> This is Dominic Fike\. The essential tracks, all in one playlist.
+> This Is Dominic Fike\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,713 likes - 35 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,760 likes - 35 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 34 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 |
 | 35 | [Hey Blondie](https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:21 |
 
-Snapshot ID: `ZkAGgAAAAABYVpO0xaWLVErPQ2+rcEwo`
+Snapshot ID: `ZkFYAAAAAADJyqNagtr/oX301rANTtj6`

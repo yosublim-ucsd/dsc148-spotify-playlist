@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPX3B/unoFcZrTbjCtPreOn7Fei31n",
+  "snapshot_id": "AAAPYG4Np3c/FBBWYuupQyFRAcSCVJv2",
   "tracks": [
+    {
+      "added_at": "2024-05-14 14:12:36",
+      "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 140302,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK"
+    },
     {
       "added_at": "2024-05-13 08:36:25",
       "album": {

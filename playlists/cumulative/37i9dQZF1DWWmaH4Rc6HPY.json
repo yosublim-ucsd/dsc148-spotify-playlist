@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "El Pasadiscos",
+        "url": "https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270335,
+      "name": "El Pasadiscos",
+      "url": "https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ"
+    },
+    {
+      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -872,6 +890,46 @@
       "duration_ms": 174559,
       "name": "Habla Mal",
       "url": "https://open.spotify.com/track/0uoiez05RIe7pbR7AWcK0z"
+    },
+    {
+      "album": {
+        "name": "Hablar de Flores",
+        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189551,
+      "name": "Hablar de Flores",
+      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
+    },
+    {
+      "album": {
+        "name": "Jodido Sin Ti",
+        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Jodido Sin Ti",
+      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
     },
     {
       "album": {
@@ -1362,7 +1420,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 231813,
       "name": "No Me Hace Bien - Remix",
       "url": "https://open.spotify.com/track/5s0D9G9SZYQBeFd7rdWhtW"
@@ -1510,7 +1568,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 215829,
       "name": "Nunca Te Quise",
       "url": "https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX"
@@ -1720,7 +1778,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 154119,
       "name": "Preciosa",
       "url": "https://open.spotify.com/track/2S1Dc2AkgxkB7oL83DHQ1g"
@@ -1866,10 +1924,32 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 245560,
       "name": "Rey Ahogado",
       "url": "https://open.spotify.com/track/4WbiwknJbbUMa0UEhoVL4Q"
+    },
+    {
+      "album": {
+        "name": "Rey Ahogado",
+        "url": "https://open.spotify.com/album/5KHUN8igWIO1NCCJug8gNJ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245586,
+      "name": "Rey Ahogado",
+      "url": "https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB"
     },
     {
       "album": {

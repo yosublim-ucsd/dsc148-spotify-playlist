@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 ### [キラキラポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DWVlypmfyCIGr)
 
-> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 清澄,Takumi Kawanishi
+> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Lavt
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,282 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,296 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [SWEET 19 BLUES](https://open.spotify.com/track/4jhkL0cD7vkGXorZS5vnND) | [星野みちる](https://open.spotify.com/artist/0olbOnZ5tt3zFzUDB1q4Be) | [マイ・フェイバリット・ソングス](https://open.spotify.com/album/6IDvTIviTbLpxbV8ID02mM) | 4:38 |
 | 80 | [WOW WAR TONIGHT〜時には起こせよムーヴメント〜 \- TWO MILLION MIX](https://open.spotify.com/track/19oxKZQilcf3pGhduW6TPg) | [H Jungle With t](https://open.spotify.com/artist/5tzXe29CBmoCiUGwpfYAct) | [WOW WAR TONIGHT](https://open.spotify.com/album/4swtg1RVOuednvk0orTGxw) | 5:56 |
 
-Snapshot ID: `ZkK9UQAAAAC/8dkhp4+k26JVy/41ziFP`
+Snapshot ID: `ZkL3gAAAAABJKuAVE8tzVro0mOOUZs5H`

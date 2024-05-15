@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=OS2sIIclT\_OMXMOGsrZGKw">Thandiswa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,319 likes - 55 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,389 likes - 55 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

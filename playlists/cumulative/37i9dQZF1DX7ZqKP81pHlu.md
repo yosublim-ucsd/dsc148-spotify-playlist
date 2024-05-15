@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Didine Canon 16
 
-199 songs - 12 hr 5 min
+200 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Faillite](https://open.spotify.com/track/19uf48N6aaHgupOuQgJEhT) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Faillite](https://open.spotify.com/album/7cEuBiqJ9MUWNg5FUGWqpv) | 3:22 | 2021-12-09 | 2022-07-28 |
 | [Fatou Liyam](https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Fatou Liyam](https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5) | 5:24 | 2024-02-19 |  |
 | [Fi Hwak](https://open.spotify.com/track/58jAcDo0Tc5ylzfBwg9VSi) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Fi Hwak](https://open.spotify.com/album/2mVRwKuWGDDp0j2wWOIFfa) | 3:35 | 2021-12-09 | 2022-06-24 |
-| [Fi Lamane](https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi) | 3:00 | 2023-02-07 |  |
+| [Fi Lamane](https://open.spotify.com/track/5vlL8e2Ssrc7YCxjzgG55A) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MCrQeMpa5llbeiwNKeLPi) | 3:00 | 2023-02-07 | 2024-05-15 |
 | [Fi Lamane](https://open.spotify.com/track/3VWh76TR16ddPnNbBZdhxZ) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Fi Lamane](https://open.spotify.com/album/3MQV1zsMd4ulsMPTA6iiOY) | 3:00 | 2024-02-12 | 2024-04-19 |
 | [Fik Ou Fik](https://open.spotify.com/track/3e5o3HId07wIlcT2rM2vWh) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Fik Ou Fik](https://open.spotify.com/album/5DGXbz9GaYFFZYeLWk1j2x) | 4:44 | 2023-01-30 | 2024-03-08 |
 | [Frontières](https://open.spotify.com/track/049ryvt09w98K1uzsWf9x1) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Frontières](https://open.spotify.com/album/3sG46QoL4wOX4nxe754i4Z) | 3:29 | 2021-12-09 | 2022-01-14 |
@@ -149,6 +149,7 @@
 | [Normal](https://open.spotify.com/track/64BdhCUilpLD8cxjbUIHER) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Normal](https://open.spotify.com/album/0kp1wmniMAFFatjW8ehxsE) | 3:06 | 2024-04-15 |  |
 | [Nostalgia](https://open.spotify.com/track/2tigdzJhKHibLNXApAlTKZ) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/7oH1hIfjDhCaM8oOrewWJN) | 2:34 | 2021-12-09 | 2023-01-12 |
 | [Nostalgia](https://open.spotify.com/track/4tEw6bifHyNYiWY04AA4AG) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/2oqxBfFJJmFRs2DQikkWjK) | 2:34 | 2023-01-11 | 2023-02-01 |
+| [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny) | 2:58 | 2024-05-14 |  |
 | [Nouveaux parrains](https://open.spotify.com/track/4ycyOBm9iFoiNVkafhb1WW) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Nouveaux parrains](https://open.spotify.com/album/6gXYP4nPpC5k6B25h3upDa) | 2:45 | 2021-12-09 | 2023-02-07 |
 | [nrml](https://open.spotify.com/track/3KXqOio8jnBKwYSoft0zmn) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [nrml](https://open.spotify.com/album/6qACahl9BKPtWckNidkfMO) | 2:57 | 2022-12-05 | 2023-08-15 |
 | [Nsel Fik](https://open.spotify.com/track/4Eijnd1EdtWNuWHLOxYolj) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Nsel Fik](https://open.spotify.com/album/1Ju1trvRQQcY2VLU0GdSMg) | 4:10 | 2024-01-03 |  |

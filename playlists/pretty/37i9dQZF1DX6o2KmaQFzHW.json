@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 185914,
+  "num_followers": 185931,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-05-03 12:24:18",
       "album": {
+        "name": "From Argentina To The World",
+        "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "El Arriero",
+      "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
+    },
+    {
+      "added_at": "2024-05-03 12:24:18",
+      "album": {
         "name": "Carnaval, Pasi\u00f3n del Norte",
         "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 202053,
       "name": "Canto Nochero",
       "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
-    },
-    {
-      "added_at": "2024-05-03 12:24:18",
-      "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "El Arriero",
-      "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
     },
     {
       "added_at": "2024-05-03 12:24:18",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-05-03 12:24:18",
       "album": {
+        "name": "Viajes Por El Mundo",
+        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Los Ejes de Mi Carreta",
+      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
+    },
+    {
+      "added_at": "2024-05-03 12:24:18",
+      "album": {
         "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
         "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 511746,
       "name": "Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando - En Vivo",
       "url": "https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB"
-    },
-    {
-      "added_at": "2024-05-03 12:24:18",
-      "album": {
-        "name": "Viajes Por El Mundo",
-        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Los Ejes de Mi Carreta",
-      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
     },
     {
       "added_at": "2024-05-03 12:24:18",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-05-03 12:24:18",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/4FYJKa0ohgXoDoWVerH45P"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "Cuando Ya Nadie Te Nombre",
-      "url": "https://open.spotify.com/track/7ryu06ohNTICM1Txt5JRXs"
-    },
-    {
-      "added_at": "2024-05-03 12:24:18",
-      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 236813,
       "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
       "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
+    },
+    {
+      "added_at": "2024-05-03 12:24:18",
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/4FYJKa0ohgXoDoWVerH45P"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 178693,
+      "name": "Cuando Ya Nadie Te Nombre",
+      "url": "https://open.spotify.com/track/7ryu06ohNTICM1Txt5JRXs"
     },
     {
       "added_at": "2024-05-03 12:24:18",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2024-05-03 12:24:18",
       "album": {
-        "name": "50 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6G6w77bPh17SOICqwcAKDK"
+        "name": "Tinto",
+        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
       },
       "artists": [
         {
-          "name": "Los Carabajal",
-          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
-        },
-        {
-          "name": "Jorge \u00a8Mono\u00a8 Leguizam\u00f3n",
-          "url": "https://open.spotify.com/artist/1m5aJkqYFARjn0Ld22VG9Y"
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
         }
       ],
-      "duration_ms": 188028,
-      "name": "Chacarera del Cardenal - En Vivo",
-      "url": "https://open.spotify.com/track/4mP9JuUl5m4qSFvCEMzqOQ"
+      "duration_ms": 203053,
+      "name": "La Refranera",
+      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
     },
     {
       "added_at": "2024-05-03 12:24:18",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2024-05-03 12:24:18",
       "album": {
-        "name": "Tinto",
-        "url": "https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq"
+        "name": "50 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6G6w77bPh17SOICqwcAKDK"
       },
       "artists": [
         {
-          "name": "Orozco-Barrientos",
-          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
+          "name": "Los Carabajal",
+          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
+        },
+        {
+          "name": "Jorge \u00a8Mono\u00a8 Leguizam\u00f3n",
+          "url": "https://open.spotify.com/artist/1m5aJkqYFARjn0Ld22VG9Y"
         }
       ],
-      "duration_ms": 203053,
-      "name": "La Refranera",
-      "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
+      "duration_ms": 188028,
+      "name": "Chacarera del Cardenal - En Vivo",
+      "url": "https://open.spotify.com/track/4mP9JuUl5m4qSFvCEMzqOQ"
     },
     {
       "added_at": "2024-05-03 12:24:18",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-05-03 12:24:18",
       "album": {
-        "name": "Folclore - La Colecci\u00f3n - Los Del Suqu\u00eda",
-        "url": "https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik"
-      },
-      "artists": [
-        {
-          "name": "Los Del Suqu\u00eda",
-          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "De Alberdi - Zamba",
-      "url": "https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U"
-    },
-    {
-      "added_at": "2024-05-03 12:24:18",
-      "album": {
         "name": "Inolvidable - Jorge Cafrune -",
         "url": "https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 231400,
       "name": "La atardecida",
       "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
+    },
+    {
+      "added_at": "2024-05-03 12:24:18",
+      "album": {
+        "name": "Folclore - La Colecci\u00f3n - Los Del Suqu\u00eda",
+        "url": "https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik"
+      },
+      "artists": [
+        {
+          "name": "Los Del Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "De Alberdi - Zamba",
+      "url": "https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U"
     },
     {
       "added_at": "2024-05-03 12:24:18",
@@ -1443,22 +1443,6 @@
       "duration_ms": 204226,
       "name": "Cuando Me Abandone el Alma",
       "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
-    },
-    {
-      "added_at": "2024-05-03 12:24:18",
-      "album": {
-        "name": "Entre el Cielo, Vos y Yo",
-        "url": "https://open.spotify.com/album/4s3rhCpVOyMjLVGypuCXuY"
-      },
-      "artists": [
-        {
-          "name": "Los Sacheros",
-          "url": "https://open.spotify.com/artist/0TLoZhTnP0vyp61bIO4FgF"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "El Linyerita",
-      "url": "https://open.spotify.com/track/7ereLsS9rzQ5TJJfD3dpAR"
     },
     {
       "added_at": "2024-05-03 12:24:18",
@@ -1499,6 +1483,22 @@
       "duration_ms": 285280,
       "name": "Canci\u00f3n Con Todos (En Vivo)",
       "url": "https://open.spotify.com/track/6fT6G52U6LSLchKQDVx9ai"
+    },
+    {
+      "added_at": "2024-05-03 12:24:18",
+      "album": {
+        "name": "Entre el Cielo, Vos y Yo",
+        "url": "https://open.spotify.com/album/4s3rhCpVOyMjLVGypuCXuY"
+      },
+      "artists": [
+        {
+          "name": "Los Sacheros",
+          "url": "https://open.spotify.com/artist/0TLoZhTnP0vyp61bIO4FgF"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "El Linyerita",
+      "url": "https://open.spotify.com/track/7ereLsS9rzQ5TJJfD3dpAR"
     },
     {
       "added_at": "2024-05-03 12:24:18",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-05-03 12:24:18",
       "album": {
-        "name": "Folklore Argentino",
-        "url": "https://open.spotify.com/album/02PuvyPY2ohmihaFVkaE4M"
-      },
-      "artists": [
-        {
-          "name": "A.Yupanqui",
-          "url": "https://open.spotify.com/artist/29lDBZbigtSYlk8QoiCyZT"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "Zamba de Vargas",
-      "url": "https://open.spotify.com/track/2WN7uSvBMc2MUnnpoAQ57m"
-    },
-    {
-      "added_at": "2024-05-03 12:24:18",
-      "album": {
         "name": "Folklore Los 100 Mejores Temas Vol. 1",
         "url": "https://open.spotify.com/album/1nzaxGryITzT0s5iBkfeir"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 218106,
       "name": "Zamba del Regreso",
       "url": "https://open.spotify.com/track/3yoHT9xnzq86q00Pyko1Ly"
+    },
+    {
+      "added_at": "2024-05-03 12:24:18",
+      "album": {
+        "name": "Folklore Argentino",
+        "url": "https://open.spotify.com/album/02PuvyPY2ohmihaFVkaE4M"
+      },
+      "artists": [
+        {
+          "name": "A.Yupanqui",
+          "url": "https://open.spotify.com/artist/29lDBZbigtSYlk8QoiCyZT"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "Zamba de Vargas",
+      "url": "https://open.spotify.com/track/2WN7uSvBMc2MUnnpoAQ57m"
     },
     {
       "added_at": "2024-05-03 12:24:18",

@@ -4957,6 +4957,24 @@
     },
     {
       "album": {
+        "name": "MAGIC HOUR ~Lovers at Dusk~",
+        "url": "https://open.spotify.com/album/3yjh0vKwNzMgFE4l93IWtT"
+      },
+      "artists": [
+        {
+          "name": "\u89d2\u677e \u654f\u751f",
+          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255680,
+      "name": "Magic Hour",
+      "url": "https://open.spotify.com/track/2k5vtnSBpNQm1DS3VZB6Bf"
+    },
+    {
+      "album": {
         "name": "MAGIC WAYS",
         "url": "https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw"
       },
@@ -10710,7 +10728,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 249826,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/0YhbPVTWIDYUVNmiv3fglD"
@@ -10996,10 +11014,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 237106,
       "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
+    },
+    {
+      "album": {
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237106,
+      "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p"
     },
     {
       "album": {
@@ -12188,7 +12224,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 220240,
       "name": "\u30b7\u30e9\u30d5",
       "url": "https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE"
@@ -14832,7 +14868,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 278306,
       "name": "\u6d41\u661f\u90fd\u5e02",
       "url": "https://open.spotify.com/track/4YWyKUpBKyLwW2D6H0VmcC"
@@ -14926,7 +14962,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 234007,
       "name": "\u6efe\u3089\u305b\u3066",
       "url": "https://open.spotify.com/track/507uw1wf1HrEsuO64bIhh5"
@@ -15190,7 +15226,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 249254,
       "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
       "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"

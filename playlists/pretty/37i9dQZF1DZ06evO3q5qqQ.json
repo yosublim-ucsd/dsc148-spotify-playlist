@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Arriesgado. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 107755,
+  "description": "This Is Grupo Arriesgado. Los temas esenciales, todos en una lista.",
+  "num_followers": 107763,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAD6P8hjeKGAJiFki0QJeeuz",
+  "snapshot_id": "ZkFYAAAAAAC4ZN+qPKIrHQ4bWB/zxiUH",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 273920,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ley del Mayo",
         "url": "https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 216604,
       "name": "La Ley del Mayo",
       "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 273920,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancherik Asterik",
-        "url": "https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD"
-      },
-      "artists": [
-        {
-          "name": "La Cuadrilla Oficial",
-          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 134826,
-      "name": "Rancherik Asterik",
-      "url": "https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 186000,
       "name": "En La Cima (En vivo)",
       "url": "https://open.spotify.com/track/3SCJI8X7N0RYHcCaivNa1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancherik Asterik",
+        "url": "https://open.spotify.com/album/4oXl05OItqFoGP7f80mnGD"
+      },
+      "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 134826,
+      "name": "Rancherik Asterik",
+      "url": "https://open.spotify.com/track/61xXO8u6IwE1o2cDv66V83"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A La Sombra De Un Arbol (En Vivo)",
+        "url": "https://open.spotify.com/album/12HiHnraE8IDA3SKv18rNm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 130729,
+      "name": "La Mayiza (En Vivo)",
+      "url": "https://open.spotify.com/track/61DoSrusOFwx5rpA44V4yC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy El Alucin Remix",
         "url": "https://open.spotify.com/album/5TTfRmCIRqGfopCFS38EK6"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 125225,
       "name": "Soy El Alucin Remix",
       "url": "https://open.spotify.com/track/2TLkItiSWsEoJqb3ROSzKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A La Sombra De Un Arbol (En Vivo)",
-        "url": "https://open.spotify.com/album/12HiHnraE8IDA3SKv18rNm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 130729,
-      "name": "La Mayiza (En Vivo)",
-      "url": "https://open.spotify.com/track/61DoSrusOFwx5rpA44V4yC"
     },
     {
       "added_at": null,

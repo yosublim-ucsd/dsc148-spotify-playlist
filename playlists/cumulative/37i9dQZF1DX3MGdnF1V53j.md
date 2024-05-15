@@ -4,13 +4,14 @@
 
 > Oualid & Marwa Loud on the cover of Habibi Gang Gang!
 
-94 songs - 4 hr 33 min
+95 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23](https://open.spotify.com/track/0HAEe9CwtiNZSCDV4LRJSD) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [23](https://open.spotify.com/album/4lpjKiunDUFCXZdXVPMQzg) | 2:29 | 2024-04-25 |  |
 | [3tih](https://open.spotify.com/track/3f3rQiGhPdF2ysJeuL5SCk) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [3tih](https://open.spotify.com/album/3qwV66sqqCRWiIHL4PhfPw) | 2:40 | 2024-04-25 |  |
 | [8 ans de salaire](https://open.spotify.com/track/1AGy61Df105nt3MyWnhbL7) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [8 ans de salaire](https://open.spotify.com/album/0AD00MJCMlCDRM6exosReC) | 2:59 | 2024-02-29 | 2024-04-26 |
+| [Alby Ydo2](https://open.spotify.com/track/7hhxWoY8woyLeHifEb7a7r) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Alby Ydo2](https://open.spotify.com/album/5otAVv8aZUG0kjV5w2yn37) | 2:21 | 2024-05-14 |  |
 | [Algo Muy Raro](https://open.spotify.com/track/1iolp9g0bzkeryDL4t2ub0) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Algo Muy Raro](https://open.spotify.com/album/5jOrASa3lROVzsv8K1pCbO) | 3:09 | 2024-02-29 |  |
 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2024-02-29 |  |
 | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o) | [Amour De Ma Vie \(Nmout 3liek\)](https://open.spotify.com/album/0TaXS9dzvNl05NN9XdGCxV) | 2:00 | 2024-02-29 |  |
@@ -94,7 +95,7 @@
 | [Wili](https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Wili](https://open.spotify.com/album/2tPzPwHpkSEEeR2Njo5MQe) | 2:40 | 2024-04-18 | 2024-04-20 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2024-02-29 |  |
 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 | 2024-02-29 |  |
-| [Ya Zina](https://open.spotify.com/track/4mHEVBvL9q96urC7t2wTco) | [DJ Moh Green](https://open.spotify.com/artist/6i4GzOgHcFD5XGbEUt0KhH), [Mahdi Boudouaou](https://open.spotify.com/artist/2gWQbU5CdvgjufONXXT4CQ) | [African Proud](https://open.spotify.com/album/1l60ntWVk4rlaLUnnGaB9t) | 2:41 | 2024-04-25 |  |
+| [Ya Zina](https://open.spotify.com/track/4mHEVBvL9q96urC7t2wTco) | [DJ Moh Green](https://open.spotify.com/artist/6i4GzOgHcFD5XGbEUt0KhH), [Mahdi Boudouaou](https://open.spotify.com/artist/2gWQbU5CdvgjufONXXT4CQ) | [African Proud](https://open.spotify.com/album/1l60ntWVk4rlaLUnnGaB9t) | 2:41 | 2024-04-25 | 2024-05-15 |
 | [Yemma](https://open.spotify.com/track/6weM3NHta6Zi0P4uyEus29) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Yemma](https://open.spotify.com/album/42u4hiZGAjRvVfAO2LrcWt) | 3:11 | 2024-04-18 |  |
 | [Ykoun Li Ykoun](https://open.spotify.com/track/6NMJafTjSDcjwX3rYwvSug) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Ykoun Li Ykoun](https://open.spotify.com/album/6ddXQnvwLEAM06VJI51TJ8) | 2:42 | 2024-02-29 |  |
 | [Zahri](https://open.spotify.com/track/2zNX2jsAoYjWoSWNvdVzRr) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Zahri](https://open.spotify.com/album/6Y1e0RlGzHc4GGIu8bOePo) | 3:04 | 2024-02-29 |  |

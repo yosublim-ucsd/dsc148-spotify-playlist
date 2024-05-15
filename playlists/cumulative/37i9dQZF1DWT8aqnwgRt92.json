@@ -3307,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "ETERNAL BLAZE - from CrosSing",
+        "url": "https://open.spotify.com/album/1Beke3R3aCMxvPqht4Wz7T"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4f2f\u4f0a\u7e54",
+          "url": "https://open.spotify.com/artist/6JkqSsFXYZ1UBzlyZzB03S"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309200,
+      "name": "ETERNAL BLAZE - from CrosSing",
+      "url": "https://open.spotify.com/track/1wJYrylbH1smwrpVlV90BS"
+    },
+    {
+      "album": {
         "name": "Eternal Light",
         "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
       },
@@ -4108,7 +4126,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 205082,
       "name": "Future\u2192Feature",
       "url": "https://open.spotify.com/track/77fsSyr1iVk6YMTOjX4AY8"
@@ -7181,6 +7199,24 @@
     },
     {
       "album": {
+        "name": "LIBRA",
+        "url": "https://open.spotify.com/album/6mF9tspSuLa7FKsMQnHwmp"
+      },
+      "artists": [
+        {
+          "name": "Momo Asakura",
+          "url": "https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "LIBRA",
+      "url": "https://open.spotify.com/track/01SpaDXSl7LUiXLCml51tB"
+    },
+    {
+      "album": {
         "name": "LIES GOES ON (TVsize)",
         "url": "https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7"
       },
@@ -9124,7 +9160,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 181426,
       "name": "Now On Air",
       "url": "https://open.spotify.com/track/0h6OBFc9TfS6yC3witap3K"
@@ -16734,7 +16770,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 288653,
       "name": "\u30ab\u30ca\u30bf\u30dc\u30b7",
       "url": "https://open.spotify.com/track/26QB6xIyqbtwq7FxR8dTJc"
@@ -21378,6 +21414,28 @@
       "duration_ms": 243886,
       "name": "\u5915\u95c7\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/2kzO0Isudp6WtXcrEzopKs"
+    },
+    {
+      "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        },
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241156,
+      "name": "\u5922\u5e7b",
+      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
     },
     {
       "album": {

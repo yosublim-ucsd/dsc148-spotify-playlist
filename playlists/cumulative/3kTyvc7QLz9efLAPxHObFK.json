@@ -12837,6 +12837,24 @@
     },
     {
       "album": {
+        "name": "It's a Bang",
+        "url": "https://open.spotify.com/album/2LSDV2HLrjSaWhJUMiD7tz"
+      },
+      "artists": [
+        {
+          "name": "Triple X",
+          "url": "https://open.spotify.com/artist/2vJyuppwPbnxzGGVy7xm03"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160781,
+      "name": "It's a Bang",
+      "url": "https://open.spotify.com/track/3ZEWnUCMQduSaXpRWcX4Fq"
+    },
+    {
+      "album": {
         "name": "It's What We Are Reloaded (Again)",
         "url": "https://open.spotify.com/album/6TIeUXIMP5QSbd7vO0OMQz"
       },

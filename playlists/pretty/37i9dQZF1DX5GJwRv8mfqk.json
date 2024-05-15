@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 117160,
+  "num_followers": 117242,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "El Heredero Mayor",
-        "url": "https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok"
-      },
-      "artists": [
-        {
-          "name": "Joel Elizalde",
-          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
-        }
-      ],
-      "duration_ms": 179514,
-      "name": "Tambi\u00e9n T\u00fa Te Equivocas",
-      "url": "https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "El Quemado",
         "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 240384,
       "name": "El Amor De Antes",
       "url": "https://open.spotify.com/track/4tYTSyIIrAnf9fTO6MVsbR"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "El Heredero Mayor",
+        "url": "https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "duration_ms": 179514,
+      "name": "Tambi\u00e9n T\u00fa Te Equivocas",
+      "url": "https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "El Quemado",
-        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
-      },
-      "artists": [
-        {
-          "name": "Beto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "El Dedo En La Boca",
-      "url": "https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Estoy Listo",
         "url": "https://open.spotify.com/album/5lSADxVWOeGenxC6XQtUpf"
       },
@@ -1035,22 +1019,34 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Tus Desprecios",
-        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
+        "name": "El Anticuado",
+        "url": "https://open.spotify.com/album/19JnLRfaf1P5U9qVNJn9jj"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 142819,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+      "duration_ms": 244727,
+      "name": "El Anticuado",
+      "url": "https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "El Quemado",
+        "url": "https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i"
+      },
+      "artists": [
+        {
+          "name": "Beto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "El Dedo En La Boca",
+      "url": "https://open.spotify.com/track/70tZhGsXsfIeJo6vz62Szx"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1067,6 +1063,22 @@
       "duration_ms": 164053,
       "name": "Por Si Te Interesa",
       "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Con Todo Incluido",
+        "url": "https://open.spotify.com/album/2izHnHlQEWkSCTEEqXEktH"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 139320,
+      "name": "Con Todo Incluido",
+      "url": "https://open.spotify.com/track/7wn6BpxyFpu7SApkSE6QKE"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1099,6 +1111,26 @@
       "duration_ms": 220053,
       "name": "Tambi\u00e9n Me Gusta Que Me Quieras",
       "url": "https://open.spotify.com/track/5yttvXNSdXOjVjleueo2nm"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Tus Desprecios",
+        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 142819,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1155,22 +1187,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Con Todo Incluido",
-        "url": "https://open.spotify.com/album/2izHnHlQEWkSCTEEqXEktH"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 139320,
-      "name": "Con Todo Incluido",
-      "url": "https://open.spotify.com/track/7wn6BpxyFpu7SApkSE6QKE"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Estoy Listo",
         "url": "https://open.spotify.com/album/0pQR2T6VftJykRHPAUkYsI"
       },
@@ -1187,6 +1203,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Vida Sinaloense",
+        "url": "https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "No He Podido Olvidarte",
+      "url": "https://open.spotify.com/track/66vieJDTLIGcwXegEz7RG6"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Esta Noche Se Me Olvida",
         "url": "https://open.spotify.com/album/7lByzWCJng3y9efVdPU2sD"
       },
@@ -1199,22 +1231,6 @@
       "duration_ms": 200426,
       "name": "Esta Noche Se Me Olvida",
       "url": "https://open.spotify.com/track/0txIzyerZkWfAaHv8Y5ylw"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "El Anticuado",
-        "url": "https://open.spotify.com/album/19JnLRfaf1P5U9qVNJn9jj"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 244727,
-      "name": "El Anticuado",
-      "url": "https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Vida Sinaloense",
-        "url": "https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "No He Podido Olvidarte",
-      "url": "https://open.spotify.com/track/66vieJDTLIGcwXegEz7RG6"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Pudo",
         "url": "https://open.spotify.com/album/51DJ3FDewMj2uyRIw6uJZa"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 199653,
       "name": "Pudo",
       "url": "https://open.spotify.com/track/5LrhXpvpoFmihFE5JIai97"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Tu Amigo Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/2pDoQR7VIxc6WTojfKAJtU"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "No Vales Un Peso",
-      "url": "https://open.spotify.com/track/5z4r8rjt6l9f8RmNi209JI"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1379,6 +1363,22 @@
       "duration_ms": 148453,
       "name": "Vida Sinaloense",
       "url": "https://open.spotify.com/track/6cFImFKRSjUcz3paXEEtTP"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/2pDoQR7VIxc6WTojfKAJtU"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "No Vales Un Peso",
+      "url": "https://open.spotify.com/track/5z4r8rjt6l9f8RmNi209JI"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Si Me Hubieras Oido",
-      "url": "https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Historias de la Calle",
         "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 213466,
       "name": "Frijoles Con Panela",
       "url": "https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Si Me Hubieras Oido",
+      "url": "https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5"
     },
     {
       "added_at": "2022-05-25 16:50:02",

@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 179687,
+  "num_followers": 179834,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
+        "name": "Music For Lovers",
+        "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 462773,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
+    },
+    {
+      "added_at": "2024-03-20 11:48:16",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 309360,
       "name": "Spring Is Here",
       "url": "https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl"
-    },
-    {
-      "added_at": "2024-03-20 11:48:16",
-      "album": {
-        "name": "Music For Lovers",
-        "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 462773,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
     },
     {
       "added_at": "2024-03-20 11:48:16",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
+        "name": "Yeah!",
+        "url": "https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rouse",
+          "url": "https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM"
+        }
+      ],
+      "duration_ms": 348293,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy"
+    },
+    {
+      "added_at": "2024-03-20 11:48:16",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 235000,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk"
-    },
-    {
-      "added_at": "2024-03-20 11:48:16",
-      "album": {
-        "name": "Yeah!",
-        "url": "https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rouse",
-          "url": "https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM"
-        }
-      ],
-      "duration_ms": 348293,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy"
     },
     {
       "added_at": "2024-03-20 11:48:16",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
+    },
+    {
+      "added_at": "2024-03-20 11:48:16",
+      "album": {
         "name": "The Complete RCA Victor Recordings",
         "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 345333,
       "name": "When Joanna Loved Me",
       "url": "https://open.spotify.com/track/3NWbVol7ddKadbd1yU0bHI"
-    },
-    {
-      "added_at": "2024-03-20 11:48:16",
-      "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
     },
     {
       "added_at": "2024-03-20 11:48:16",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
-        "name": "Brown And Roach Incorporated",
-        "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 442533,
-      "name": "I Don't Stand A Ghost Of A Chance With You",
-      "url": "https://open.spotify.com/track/6xfNZK0l5GNBXgaet5ITkz"
-    },
-    {
-      "added_at": "2024-03-20 11:48:16",
-      "album": {
         "name": "Mating Call [RVG Remaster]",
         "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
       },
@@ -1047,18 +1027,38 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
-        "name": "The Complete RCA Victor Recordings",
-        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
+        "name": "Brown And Roach Incorporated",
+        "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 425933,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/3QjtOdXc69Kd3m7FOgZXkq"
+      "duration_ms": 442533,
+      "name": "I Don't Stand A Ghost Of A Chance With You",
+      "url": "https://open.spotify.com/track/6xfNZK0l5GNBXgaet5ITkz"
+    },
+    {
+      "added_at": "2024-03-20 11:48:16",
+      "album": {
+        "name": "Stan Getz Plays (Clef Records LPR)",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
     },
     {
       "added_at": "2024-03-20 11:48:16",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
-        "name": "Stan Getz Plays (Clef Records LPR)",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+        "name": "The Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 176973,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
+      "duration_ms": 425933,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/3QjtOdXc69Kd3m7FOgZXkq"
     },
     {
       "added_at": "2024-03-20 11:48:16",

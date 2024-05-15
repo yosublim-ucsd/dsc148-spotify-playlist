@@ -2,9 +2,9 @@
 
 ### [RADAR Thailand 2024](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: PERSES
+> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: MXFRUIT
 
-182 songs - 11 hr 25 min
+183 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Vivienne Westwood](https://open.spotify.com/track/6gf3gCFZloUNpXnrZZd15z) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Vivienne Westwood](https://open.spotify.com/album/6yRUPMoKD3euuXHpnyJsRY) | 2:37 | 2024-03-28 |  |
 | [Walk Away](https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Walk Away](https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9) | 3:26 | 2023-04-13 | 2024-01-12 |
 | [WATCH YOUR STEP](https://open.spotify.com/track/6N1ZqtABCgsqotshwnvEk1) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [WATCH YOUR STEP](https://open.spotify.com/album/347v2CFOheG1u8zXZrex32) | 3:50 | 2024-03-28 | 2024-04-12 |
+| [what do i do \- English Ver.](https://open.spotify.com/track/3XMR34OkkyIp3MSBq4fCBu) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [what do i do \(English Ver.\)](https://open.spotify.com/album/1yQEgE6dGDBmVm124WIzF5) | 4:01 | 2024-05-15 |  |
 | [While We’re Young](https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [While We’re Young](https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc) | 3:24 | 2023-01-10 | 2023-07-22 |
 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-15 | 2023-04-14 |
 | [YEAH](https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YEAH](https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5) | 3:27 | 2023-04-13 | 2024-01-12 |

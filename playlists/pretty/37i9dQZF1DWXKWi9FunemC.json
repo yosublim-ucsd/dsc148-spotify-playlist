@@ -1,6 +1,6 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 276406,
+  "num_followers": 276538,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Wide Place",
-        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
-      },
-      "artists": [
-        {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
-        }
-      ],
-      "duration_ms": 262889,
-      "name": "Wide Place",
-      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "TOGETHER (Acoustic Version)",
         "url": "https://open.spotify.com/album/2bxW2yfuNRzAYao44imd3E"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 216681,
       "name": "TOGETHER (Acoustic Version)",
       "url": "https://open.spotify.com/track/3TX44ZXlkDzGkk8QmlxuYr"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Wide Place",
+        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 262889,
+      "name": "Wide Place",
+      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Secret Place",
-        "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
-      },
-      "artists": [
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "Secret Place",
-      "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 247173,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Secret Place",
+        "url": "https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "Secret Place",
+      "url": "https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
-      },
-      "artists": [
-        {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
-        }
-      ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
       },
@@ -1067,34 +1051,18 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Simple Song",
-        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
       },
       "artists": [
         {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
         }
       ],
-      "duration_ms": 202117,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1115,6 +1083,22 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
+        "name": "Simple Song",
+        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 202117,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
         "name": "YOUR NAME IS POWER (Acoustic)",
         "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 232238,
       "name": "YOUR NAME IS POWER - Acoustic",
       "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Holy Forever (Acoustic)",
         "url": "https://open.spotify.com/album/2PbAV9JMhQr8Rk5myr5AOc"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 268958,
       "name": "Holy Forever - Acoustic",
       "url": "https://open.spotify.com/track/1Qz6A8AWuukckIksROXJCD"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
+        "name": "Kingdoms",
+        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
+      },
+      "artists": [
+        {
+          "name": "Enterline",
+          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
+        }
+      ],
+      "duration_ms": 207135,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
         "name": "Up Again (Acoustic Mix)",
         "url": "https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Kingdoms",
-        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
-      },
-      "artists": [
-        {
-          "name": "Enterline",
-          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
-        }
-      ],
-      "duration_ms": 207135,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 289411,
       "name": "Hanging onto Every Word That You Say",
       "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1571,22 +1587,6 @@
       "duration_ms": 280054,
       "name": "Worth Mine",
       "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2024-05-03 04:30:27",

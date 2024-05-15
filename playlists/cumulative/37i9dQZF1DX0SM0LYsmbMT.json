@@ -14375,6 +14375,36 @@
     },
     {
       "album": {
+        "name": "Come On Up",
+        "url": "https://open.spotify.com/album/4buEPysFABxuDTA3a7SJh2"
+      },
+      "artists": [
+        {
+          "name": "j\u00fcle.",
+          "url": "https://open.spotify.com/artist/2awWBxv11I86fi6z4T0U9o"
+        },
+        {
+          "name": "IONA",
+          "url": "https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        },
+        {
+          "name": "Bn Hl",
+          "url": "https://open.spotify.com/artist/36VWrhW1r4Xgt2kpqmgZvt"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152968,
+      "name": "Come On Up",
+      "url": "https://open.spotify.com/track/64Nh1ytlxzdLLpmLoc82tS"
+    },
+    {
+      "album": {
         "name": "Come Winter",
         "url": "https://open.spotify.com/album/0KalYKHccDgndrJG3fMm2g"
       },
@@ -35648,7 +35678,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 89610,
       "name": "Jugallo",
       "url": "https://open.spotify.com/track/7MVJfTdUVlJFANqedc2ExD"
@@ -49355,6 +49385,28 @@
     },
     {
       "album": {
+        "name": "Nightly Passage",
+        "url": "https://open.spotify.com/album/48MjwOQV1UFikPVPY3ASLB"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183608,
+      "name": "Nightly Passage",
+      "url": "https://open.spotify.com/track/59CddiNf7XCd5EZ88lrwod"
+    },
+    {
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/3lybkHBsIlsV46gReFO9I8"
       },
@@ -54342,7 +54394,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 110400,
       "name": "Peninsula",
       "url": "https://open.spotify.com/track/5Lpz9sOJdEkH4EUt7iECvd"

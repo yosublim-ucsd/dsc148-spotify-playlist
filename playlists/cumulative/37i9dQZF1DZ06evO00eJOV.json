@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
+  "description": "This is: Brenda Fassie. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Brenda Fassie",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 244400,
       "name": "Boipatong",
       "url": "https://open.spotify.com/track/0RjRoE7GPfLq0hs51lhIPN"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 256533,
       "name": "Ngeke Umconfirm",
       "url": "https://open.spotify.com/track/60x01dD48MK74ivENAzXxf"

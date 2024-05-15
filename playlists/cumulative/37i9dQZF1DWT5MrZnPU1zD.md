@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-953 songs - 1 day 21 hr 55 min
+954 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Daylight ft\. Ye](https://open.spotify.com/track/3kGsxgkoc8uzvInPBx0IIU) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Daylight ft\. Ye](https://open.spotify.com/album/1N7XdwK9VCQhUzEYQ1oWG2) | 3:25 | 2022-06-03 | 2022-07-23 |
 | [Dead Broke](https://open.spotify.com/track/6CwjgmFdMX6FKzmV2oB7SY) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Unbothered](https://open.spotify.com/album/0Elwgwh70pJTeBPuer7wz0) | 2:24 | 2021-09-03 | 2022-05-27 |
 | [Dead Homies \(feat\. Veeze\)](https://open.spotify.com/track/2B6sniX8LKlpUkiXLEyenF) | [Desto Dubb](https://open.spotify.com/artist/5GQH7cRNQe10gvlxzdQzAL), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Dead Homies \(feat\. Veeze\)](https://open.spotify.com/album/3YHEVzAB8Ozwfzt12vHuga) | 2:14 | 2023-11-10 | 2023-11-12 |
-| [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 | 2023-09-22 |  |
+| [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 | 2023-09-22 | 2024-05-15 |
 | [Dead Shot \(with Lil Uzi Vert\)](https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:01 | 2022-09-16 | 2023-04-29 |
 | [Deep in the Water](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 | 2024-03-15 |  |
 | [Deez Boyz](https://open.spotify.com/track/3OHasTNtHSPlXT7C1axoHm) | [Cam Wallace](https://open.spotify.com/artist/15PcygUDr0j5LvDA23i5BG) | [These Perfect Moments](https://open.spotify.com/album/5F9Mfg4ed28qy7Y9PK2US6) | 3:15 | 2021-09-03 | 2022-04-20 |
@@ -716,6 +716,7 @@
 | [Robbery 6](https://open.spotify.com/track/5O7HgH9F5jMLZWA3sMNsLj) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery 6](https://open.spotify.com/album/7nHTFeY1uy9B24cKkTSZ1X) | 5:02 | 2023-10-27 | 2024-02-27 |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2021-11-30 | 2022-06-11 |
 | [ROCK OUT](https://open.spotify.com/track/47xew8JkE4ekSmVVAlqhgT) | [2WIN](https://open.spotify.com/artist/5YBJQLw36f8hrHkWhREAE2), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [ROCK OUT](https://open.spotify.com/album/3ADmMIpokVST2afYfCDYNm) | 3:16 | 2022-10-28 | 2022-11-09 |
+| [rock your hips](https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [rock your hips](https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz) | 2:58 | 2024-05-08 |  |
 | [Rockin A Cardigan In Atlanta \- Remix](https://open.spotify.com/track/62eyQ0C0IbRBplVsU1C3rL) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Rockin A Cardigan In Atlanta \(Remix\)](https://open.spotify.com/album/2aSUpaAZwenC8KmgDZEBnI) | 2:18 | 2022-04-29 | 2022-07-29 |
 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 | 2023-02-10 | 2023-11-11 |
 | [Rule \#1 \(feat\. Lil Yachty\)](https://open.spotify.com/track/4apWaVWfqRac78ec6L5bJn) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rule \#1 \(feat\. Lil Yachty\)](https://open.spotify.com/album/6Nmuh0ibN1OBMJPcv8zsyx) | 2:34 | 2021-09-03 | 2022-06-18 |

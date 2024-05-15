@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Niky Savage in cover.
 
-523 songs - 1 day 0 hr 6 min
+524 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [9.19](https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 1:59 | 2022-05-26 | 2022-10-14 |
 | [A45S](https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [A45S](https://open.spotify.com/album/6KQ0Nzqei7dU85H2OtzIrQ) | 2:40 | 2023-12-11 | 2024-01-19 |
 | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR) | 2:23 | 2023-10-05 | 2023-12-22 |
+| [AD MAIORA](https://open.spotify.com/track/1J1aiUqufKfs5FsAW9XCyk) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [AD MAIORA](https://open.spotify.com/album/1CZ4pNhFPSrIXN1wsFquKB) | 3:38 | 2024-05-14 |  |
 | [ADDERALL](https://open.spotify.com/track/1IDBlTUa4Ts0mHW6N481JQ) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [ADDERALL](https://open.spotify.com/album/72kD6unk8C2Fw2T7KDFfiA) | 2:45 | 2024-03-27 |  |
 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 | 2023-08-24 | 2024-01-19 |
 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 | 2022-07-04 | 2022-10-11 |
@@ -227,7 +228,7 @@
 | [HI TECH \(feat\. Dardan\)](https://open.spotify.com/track/4l2ATeURkBNDMaj1s7cU6U) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [HI TECH \(feat\. Dardan\)](https://open.spotify.com/album/6AajVc17THqnxw38GIWRji) | 2:13 | 2023-10-19 | 2023-11-17 |
 | [Hobby](https://open.spotify.com/track/6qjdgIfEAfN5t5SSn6aFHl) | [Iltunsi](https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe) | [Hobby](https://open.spotify.com/album/1WF9yeyNbA47SM7hmXuMdP) | 2:02 | 2023-01-26 | 2023-02-17 |
 | [Hoe \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:17 | 2023-06-01 | 2023-10-20 |
-| [HOODRICH](https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:36 | 2023-12-07 |  |
+| [HOODRICH](https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:36 | 2023-12-07 | 2024-05-15 |
 | [HOUMA](https://open.spotify.com/track/6HYJLFIqcRzL7uwcnq2JKC) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [HOUMA](https://open.spotify.com/album/5w61uZnYtLBWGxpFcsJLF3) | 2:44 | 2022-05-26 | 2022-06-17 |
 | [Hustle](https://open.spotify.com/track/5p9uRbOaI8YwMa9n3QP4BZ) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:36 | 2022-06-02 | 2022-12-02 |
 | [HUSTLER](https://open.spotify.com/track/5tKdkGsfBLp44jO3uCguUx) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [BLUE TAPE](https://open.spotify.com/album/1qkwowXA6TPNPl1kbSIPmn) | 2:52 | 2024-04-04 | 2024-04-12 |

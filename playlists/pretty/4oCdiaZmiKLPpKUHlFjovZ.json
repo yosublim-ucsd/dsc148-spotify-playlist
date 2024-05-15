@@ -1,12 +1,12 @@
 {
   "description": "Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock. ",
-  "num_followers": 42148,
+  "num_followers": 42144,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAabbh/yboBBuy4IW+rnUNwVkp6tr5x",
+  "snapshot_id": "AAAacEDvErRx5OQMenqtLIIcdjijD/JA",
   "tracks": [
     {
       "added_at": "2024-04-24 23:11:22",
@@ -59,6 +59,38 @@
       "duration_ms": 114135,
       "name": "soak city (do it)",
       "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
+    },
+    {
+      "added_at": "2024-05-15 00:17:55",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/2ltqTkAvRX2n5xfbC6s7ct"
+      },
+      "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        }
+      ],
+      "duration_ms": 198803,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/0yquoP4Aa49aT2n460pbYU"
+    },
+    {
+      "added_at": "2024-05-15 00:18:09",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/4Zle90yBm3NjONDtmuutCX"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0yiP9YTs4J4eQVU5Zc42QL"
     },
     {
       "added_at": "2024-04-24 23:08:44",

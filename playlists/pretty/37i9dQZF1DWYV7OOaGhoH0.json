@@ -1,13 +1,29 @@
 {
   "description": "The best in folk & acoustic today featuring music from Paris Paloma",
-  "num_followers": 1812819,
+  "num_followers": 1812805,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2bwAAAAABwjS+VXXsv/tr9a8uQIfcR",
+  "snapshot_id": "ZkOkwQAAAAD9APebOv6vxWgU64JZVnMT",
   "tracks": [
+    {
+      "added_at": "2024-05-14 17:52:01",
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
+    },
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
@@ -87,22 +103,6 @@
       "duration_ms": 188396,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Riding Around In The Dark",
-        "url": "https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 206459,
-      "name": "Riding Around In The Dark",
-      "url": "https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU"
     },
     {
       "added_at": "2024-05-10 04:00:00",

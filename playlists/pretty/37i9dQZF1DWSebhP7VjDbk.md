@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 
 > Playlist oficial da série "De Volta aos 15" estrelando Maisa e Camila Queiroz\. Só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,013 likes - 68 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,012 likes - 68 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 12 | [Na Sua Estante](https://open.spotify.com/track/1jiegRk1i62WYyCcmmCSRB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Anacrônico \(Deluxe Edition\)](https://open.spotify.com/album/0cPJECHbOiae3HQdUHFmfs) | 3:42 |
 | 13 | [Me Adora](https://open.spotify.com/track/5fphkEmVP9cTdU0LbuqLQO) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Chiaroscuro](https://open.spotify.com/album/2eqKyLfs5LoKhnLnCF5Qa8) | 4:31 |
 | 14 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
-| 15 | [Só os Loucos Sabem](https://open.spotify.com/track/3nI0piSOxAik2RCpHGloB7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Camisa 10 joga bola até na chuva](https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt) | 3:30 |
+| 15 | [Só Os Loucos Sabem](https://open.spotify.com/track/3nI0piSOxAik2RCpHGloB7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Camisa 10 joga bola até na chuva](https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt) | 3:30 |
 | 16 | [Mulher de fases](https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Só No Forevis](https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE) | 3:33 |
 | 17 | [Carla](https://open.spotify.com/track/79f21uRzn79zWCxrsF17hj) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [V.I.B.E.](https://open.spotify.com/album/0dUTLlo7mTukUVVUry5wkJ) | 4:08 |
 | 18 | [Sem Radar](https://open.spotify.com/track/4MOC8XHvAL6mmgEWyntQTb) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Tudo Outra Vez](https://open.spotify.com/album/2s0V8kS2t739EnTahL8DX3) | 3:52 |

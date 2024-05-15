@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-09",
-  "description": "This Is Linkin Park. Los temas esenciales, todos en una lista.",
+  "description": "This is Linkin Park. The essential tracks, all in one playlist.",
   "name": "This Is Linkin Park",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 189800,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 188028,
       "name": "Massive",
       "url": "https://open.spotify.com/track/3NvAcUYxfyZhW2ALOGknXB"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 225546,
       "name": "Nobody Can Save Me",
       "url": "https://open.spotify.com/track/3dJj6o9o1fRgrojWjailuz"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 178200,
       "name": "Sharp Edges",
       "url": "https://open.spotify.com/track/6c0I7CfL9ziGZN8yYkLppP"

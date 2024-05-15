@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Intense & G.Sidhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,525 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,550 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 9 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 |
 | 10 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 |
 | 11 | [JALSA 2.0 \- From "Mission Raniganj: The Great Bharat Rescue"](https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P) | [JALSA 2.0 \(From "Mission Raniganj: The Great Bharat Rescue"\)](https://open.spotify.com/album/0nUDc18ivjvaNEGh7iJKck) | 3:16 |
-| 12 | [Talent](https://open.spotify.com/track/0EeKOCYS9jaOLaqYyWvq9N) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Mahi](https://open.spotify.com/artist/2d8qE6GstnxgGtOd36VVrs) | [Talent](https://open.spotify.com/album/5dismcE2Q67SiWDKJegivO) | 3:12 |
+| 12 | [Talent](https://open.spotify.com/track/0EeKOCYS9jaOLaqYyWvq9N) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Mahi](https://open.spotify.com/artist/2d8qE6GstnxgGtOd36VVrs) | [Talent](https://open.spotify.com/album/5dismcE2Q67SiWDKJegivO) | 3:12 |
 | 13 | [2 Kamm](https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [2 Kamm](https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0) | 2:26 |
 | 14 | [Jatt Disda](https://open.spotify.com/track/3IJcfo7tASk7YqTC2aifog) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jatt Disda](https://open.spotify.com/album/7Fs4iZ3F5RJqdJq1Y4bJg6) | 2:47 |
 | 15 | [Babe Bhangra Paunde Ne \- Title Track](https://open.spotify.com/track/03EgzQpFoUvDp6NI03ZS5d) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Babe Bhangra Paunde Ne \- Title Track \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/album/4kif1ckv7sR6g1nxOPntiU) | 1:54 |

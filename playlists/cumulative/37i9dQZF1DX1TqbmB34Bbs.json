@@ -10733,6 +10733,28 @@
     },
     {
       "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/2yAV6MzQF9pg9UhFOkorlB"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203015,
+      "name": "HIGH (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/17kihypOP5Q7c22iLAdg8E"
+    },
+    {
+      "album": {
         "name": "High Beam",
         "url": "https://open.spotify.com/album/6DlAP9jOfcsp2fllVG2Z8f"
       },
@@ -14800,7 +14822,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 188714,
       "name": "Money Bag",
       "url": "https://open.spotify.com/track/4GkgHODPGClQyzDEN4tTGO"
@@ -20378,7 +20400,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 157252,
       "name": "Rooftop (\uc625\ud0d1)",
       "url": "https://open.spotify.com/track/7kdbbVFmNzsTGpQRTrBtCl"
@@ -21126,6 +21148,28 @@
       "duration_ms": 183386,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/2oShT6zmHLk1d5dtqVnAzr"
+    },
+    {
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/0szGEMKDItrca9wDqgTVV7"
+      },
+      "artists": [
+        {
+          "name": "NO:EL",
+          "url": "https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV"
+        },
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Seoul (Feat. Huh)",
+      "url": "https://open.spotify.com/track/6amJOWamF7tolut1VJcM8N"
     },
     {
       "album": {

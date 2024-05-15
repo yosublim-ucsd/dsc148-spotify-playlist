@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 77262,
+  "num_followers": 77285,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-05-10 14:58:01",
       "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 161715,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
+    },
+    {
+      "added_at": "2024-05-10 14:58:01",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/7v8DgbrDOeGHlDEgKnd2UP"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 194900,
       "name": "Shadows Pt. 3",
       "url": "https://open.spotify.com/track/6QndKEhGoxbCDixi6FPOGD"
-    },
-    {
-      "added_at": "2024-05-10 14:58:01",
-      "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 161715,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
     },
     {
       "added_at": "2024-05-10 14:58:01",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-05-10 14:58:01",
       "album": {
+        "name": "Foul Play EP",
+        "url": "https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE"
+      },
+      "artists": [
+        {
+          "name": "Kessler",
+          "url": "https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC"
+        }
+      ],
+      "duration_ms": 264953,
+      "name": "Hood Mentality",
+      "url": "https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz"
+    },
+    {
+      "added_at": "2024-05-10 14:58:01",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 259074,
       "name": "Bloom (ft. Ell Murphy)",
       "url": "https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7"
-    },
-    {
-      "added_at": "2024-05-10 14:58:01",
-      "album": {
-        "name": "Foul Play EP",
-        "url": "https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE"
-      },
-      "artists": [
-        {
-          "name": "Kessler",
-          "url": "https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC"
-        }
-      ],
-      "duration_ms": 264953,
-      "name": "Hood Mentality",
-      "url": "https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz"
     },
     {
       "added_at": "2024-05-10 14:58:01",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-05-10 14:58:01",
       "album": {
-        "name": "Care 4 U",
-        "url": "https://open.spotify.com/album/42UbW8NCTXppa42NEgAuPE"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1BfBUqYMPQF0N3GGM5QJEU"
       },
       "artists": [
         {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
         }
       ],
-      "duration_ms": 273934,
-      "name": "Care 4 U",
-      "url": "https://open.spotify.com/track/5qnR7addSkFe7TXDV2PDry"
+      "duration_ms": 157000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/15UU4ZRs2H51EerpEoGhZ7"
     }
   ],
   "unique_name": "New UK Garage",

@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover:川嶋哲郎
 
-286 songs - 23 hr 21 min
+287 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 | 2022-09-06 | 2023-03-02 |
 | [Clarice](https://open.spotify.com/track/7DrMC04xJQHabCzMcjWTI1) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/1quyn6g2gIrwLJ2VmgI8Jx) | 3:46 | 2023-09-05 | 2024-01-10 |
 | [Clarice](https://open.spotify.com/track/7hIIwJTGz7s7vpMaFtdvlU) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/55j95OpOUQbuf4X4Ryljuw) | 3:46 | 2023-09-05 | 2023-09-07 |
+| [Close your eyes](https://open.spotify.com/track/2pyx2yLAgfv6S6JEZhz5Bi) | [久保田浩之](https://open.spotify.com/artist/1arJsPrLXAObBWwJQ9RJ6p) | [launch vehicle](https://open.spotify.com/album/1r7XrSzQJd50l51HVlF6nn) | 5:55 | 2024-05-14 |  |
 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 | 2022-09-06 | 2023-03-13 |
 | [cosmic circle](https://open.spotify.com/track/0h6iV0PqhHLcvA0vLiDoSE) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Yuji Katsui](https://open.spotify.com/artist/26jOJviNl5KYBMa9EnGPHZ), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Genki Hashimoto](https://open.spotify.com/artist/3puVmC6sgvPztiQulaZCFN) | [touch the subconscious](https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si) | 6:38 | 2024-03-05 |  |
 | [Crepuscular Rays](https://open.spotify.com/track/3qhFRdHhtMpCvePmMVOep8) | [加納奈実](https://open.spotify.com/artist/6NdSH798vj8QST5pyjbFhW) | [Crepuscular Rays](https://open.spotify.com/album/1QfuBRflgM5fT5MEZ4aw6P) | 6:59 | 2024-02-27 |  |
@@ -194,7 +195,7 @@
 | [Someday My Prince Will Come \- Live at 100Ban Hall, Kobe, 2022](https://open.spotify.com/track/6H1gpUbzY2NGPpWdADWXn4) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Kazuhiko Takeda](https://open.spotify.com/artist/4dz95tAaThmn1OI31rMkhU), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx), [Naoko Tanaka](https://open.spotify.com/artist/2CfxaAgevavjDFRRghjSVt), [Yuji Ito](https://open.spotify.com/artist/7nwmT6Ckut3gaKlyfL45NF) | [Someday My Prince Will Come \(Live at 100Ban Hall, Kobe, 2022\)](https://open.spotify.com/album/4kT6XpWuPM5q7lnevRGMNY) | 6:36 | 2023-03-07 | 2023-04-05 |
 | [Sonicwonderland](https://open.spotify.com/track/7gc3pcQOvzAgpNtY5y6SbB) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/7IWueag5hUcfCqB6AS6Ky2) | 8:15 | 2023-08-25 | 2023-09-24 |
 | [Spain](https://open.spotify.com/track/2MAcJ1Z0ShlQPDXPWsZwwc) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [Spain](https://open.spotify.com/album/3LOZ21HBgvxGVdytLCdkoE) | 5:11 | 2022-10-04 | 2022-11-16 |
-| [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2022-09-06 |  |
+| [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2022-09-06 | 2024-05-15 |
 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 | 2023-04-04 | 2024-02-28 |
 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 | 2022-09-06 | 2023-08-17 |
 | [Stella by Starlight](https://open.spotify.com/track/1chMKcHHoT8KVcr7DLDFJa) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Stella by Starlight](https://open.spotify.com/album/6iWNzs9A3kdLxipIOnx9Fv) | 4:38 | 2022-09-06 | 2022-10-05 |

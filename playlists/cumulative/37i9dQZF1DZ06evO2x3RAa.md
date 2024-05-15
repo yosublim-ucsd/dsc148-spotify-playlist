@@ -4,7 +4,7 @@
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 
-77 songs - 8 hr 23 min
+78 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Chukwu Nuru Onum \(Ibo\)](https://open.spotify.com/track/0WQSMSLscRr7V9bjHD7PUX) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 1:53 | 2021-12-29 | 2024-03-27 |
 | [Dance Of The Elephants](https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Soul Jazz Records presents Nigeria Soul Power 70 \- Afro\-Funk, Afro\-Rock, Afro\-Disco](https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV) | 7:28 | 2021-12-29 |  |
 | [Doctor Jesus / Draw Me Nearer](https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Crown](https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv) | 8:20 | 2021-12-28 |  |
-| [Don't Cry](https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Super Hits](https://open.spotify.com/album/4F85r8s1BGqPBTLAcVD2ZC) | 3:38 | 2021-12-29 | 2024-04-04 |
+| [Don't Cry](https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Super Hits](https://open.spotify.com/album/4F85r8s1BGqPBTLAcVD2ZC) | 3:38 | 2021-12-29 |  |
 | [Don't Cry No More](https://open.spotify.com/track/2l3chGNBcDQygkMcvm9WnE) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Don't Cry No More](https://open.spotify.com/album/7FOVgvYCaqBUK4F9zWF1VY) | 30:44 | 2023-04-23 | 2023-04-25 |
 | [Festival Of The Hunters](https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 11:24 | 2021-12-28 |  |
 | [Fire In Soweto](https://open.spotify.com/track/2FzRgmksG8ZTUkYFCQ76TE) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fly African Eagle: The Best Of African Reggae](https://open.spotify.com/album/0ZaWEsLFBTZUGPxPrdkfS1) | 7:08 | 2021-12-28 |  |
@@ -43,7 +43,7 @@
 | [Kenelum Jehova \(Igbo\-Nigeria\)](https://open.spotify.com/track/5QjrUKOOYpyUWTC9a7nn6N) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 1:24 | 2021-12-28 |  |
 | [Know Jesus Know Life](https://open.spotify.com/track/1jonArtlrKB0gBzBSYwVsv) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Celebrate & Worship In Caribbean Rhythms](https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq) | 6:05 | 2021-12-28 |  |
 | [Let It Be](https://open.spotify.com/track/2m5S0q094ritGmyxX8sWlq) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Celebrate & Worship In Caribbean Rhythms](https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq) | 4:52 | 2021-12-28 |  |
-| [Liberation](https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fire In Soweto](https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy) | 7:59 | 2021-12-28 | 2024-05-14 |
+| [Liberation](https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fire In Soweto](https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy) | 7:59 | 2021-12-28 |  |
 | [Mohammed](https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 6:57 | 2021-12-28 |  |
 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl), [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 | 2021-12-28 |  |
 | [Mother& Child](https://open.spotify.com/track/3ik91Or2bkwf9Ldcn6kxwA) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Mother & Child](https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ) | 7:29 | 2021-12-28 | 2022-11-17 |
@@ -62,6 +62,7 @@
 | [Olu Ebube \(Ibo Language\)](https://open.spotify.com/track/2Qn7UBzuG48cETAoVAn5e6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Olu Ebube](https://open.spotify.com/album/2HKflXbr5801wXTtIv32PP) | 7:58 | 2023-01-15 | 2023-10-11 |
 | [Papa's Land](https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Papa's Land](https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz) | 8:17 | 2021-12-28 |  |
 | [Rain](https://open.spotify.com/track/3G722OvibZcllHtM6nFpFZ) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Jungle Beat](https://open.spotify.com/album/1D1kjZRTPkBOqT1QS3bxZL) | 5:11 | 2021-12-28 | 2024-05-09 |
+| [Rain](https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Papa's Land](https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz) | 5:11 | 2024-05-15 |  |
 | [Revival](https://open.spotify.com/track/0jdv79JsCr9X6rQZKOFS3A) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 2:32 | 2022-01-04 |  |
 | [Revolution](https://open.spotify.com/track/0MaN8WY843OfeLUTH0L8lV) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fire In Soweto](https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy) | 6:40 | 2021-12-28 | 2023-04-29 |
 | [Revolution](https://open.spotify.com/track/74ao1WYKgrtnU3elHXaE3n) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Revolution](https://open.spotify.com/album/1mINRMqAG8qtLvNJCEgdCj) | 6:40 | 2023-06-28 | 2023-08-02 |
@@ -76,7 +77,7 @@
 | [This Is The Day](https://open.spotify.com/track/0VW39KNnrbVnp4CnJExu5S) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Celebrate & Worship In Caribbean Rhythms](https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq) | 4:53 | 2021-12-28 | 2024-03-24 |
 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 | 2021-12-28 |  |
 | [Wait](https://open.spotify.com/track/7CN44w01pcU7rqWMqmvKgR) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 6:10 | 2021-12-28 |  |
-| [War of Nations](https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:58 | 2022-01-16 | 2023-12-24 |
+| [War of Nations](https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:58 | 2022-01-16 |  |
 | [We're In Love](https://open.spotify.com/track/1hZouejgq7j3WfonImzf1S) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Gospel Of Ozziddi](https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv) | 7:43 | 2021-12-28 | 2024-04-01 |
 | [We're in Love](https://open.spotify.com/track/7yB2okdczHTP962N6M8u1W) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: O'Nambia](https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E) | 7:43 | 2022-12-17 | 2023-02-14 |
 | [Weep Not Children](https://open.spotify.com/track/5lYJ1zx2PZEh5iqYLS3x9i) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:38 | 2021-12-28 | 2023-12-18 |

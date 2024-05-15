@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 37506,
       "name": "A.N.I.C.",
       "url": "https://open.spotify.com/track/0bSjMn6rAMbN1yRlHloBHO"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 178987,
       "name": "Daruma",
       "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
@@ -6208,7 +6208,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 247640,
       "name": "Homesick - Acoustic",
       "url": "https://open.spotify.com/track/5wRPE2nWUKWVmN67tNWA7O"
@@ -6446,7 +6446,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 226106,
       "name": "I Am Ghost",
       "url": "https://open.spotify.com/track/0JhpEpbEW40hqP4BUA3EUb"
@@ -6822,7 +6822,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 217106,
       "name": "Ich will",
       "url": "https://open.spotify.com/track/14NwRQ6fnnoSfjeaHRZqz1"
@@ -7193,6 +7193,24 @@
     },
     {
       "album": {
+        "name": "Whitesnake's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/78FzQfooQzB43sGzlpI2At"
+    },
+    {
+      "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN"
       },
@@ -7276,7 +7294,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 149360,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/65bPPISbpFMbUs1wTrrZvl"
@@ -7759,6 +7777,24 @@
     },
     {
       "album": {
+        "name": "Static Age",
+        "url": "https://open.spotify.com/album/51tAz06EJxwhsk8uNfWxBo"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117106,
+      "name": "Last Caress",
+      "url": "https://open.spotify.com/track/1C7kuQ0TjfxvEHSFqLEl42"
+    },
+    {
+      "album": {
         "name": "Antolog\u00eda: Su Historia y Sus \u00c9xitos",
         "url": "https://open.spotify.com/album/7m8AqShFcldsxokXFksDZ4"
       },
@@ -7900,6 +7936,24 @@
       "duration_ms": 166133,
       "name": "Life Was Fair",
       "url": "https://open.spotify.com/track/7x8Sfll6zqxjmTinyYiFtj"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246209,
+      "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
+      "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
     },
     {
       "album": {
@@ -8314,7 +8368,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 279272,
       "name": "Love Over Glory",
       "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
@@ -9694,6 +9748,24 @@
         {
           "name": "BlakeShawn Music LLC archive",
           "url": "https://open.spotify.com/artist/5oCnnInhoIV40fXyhi737T"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118151,
+      "name": "NO AUTO TUNE",
+      "url": "https://open.spotify.com/track/1Xl1sRA1JjjN2WXcJi29qa"
+    },
+    {
+      "album": {
+        "name": "NO AUTO TUNE",
+        "url": "https://open.spotify.com/album/6tAaHXhS63HUzmGrgn9NRE"
+      },
+      "artists": [
+        {
+          "name": "BlakeShawn Music LLC archive",
+          "url": "https://open.spotify.com/artist/5oCnnInhoIV40fXyhi737T"
         },
         {
           "name": "480 World",
@@ -10691,6 +10763,24 @@
     },
     {
       "album": {
+        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
+        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178923,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/5LjjjWVQQkCLqRjbWMiPR2"
+    },
+    {
+      "album": {
         "name": "Plan 2",
         "url": "https://open.spotify.com/album/72EJvBLpKKhys6e0A6KUCf"
       },
@@ -11402,7 +11492,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 814466,
       "name": "Rime Of The Ancient Mariner - 1998 Remastered Version",
       "url": "https://open.spotify.com/track/3tEuFYWBimv6LeNS5lXBrx"
@@ -12426,7 +12516,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 242106,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/4VbxZbS5Vrwr8nnHCFBiXx"
@@ -12830,7 +12920,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 240920,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/6zGwD6rRn0lUsrtYGZdRil"
@@ -12902,7 +12992,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 180933,
       "name": "Sternflock\u00b4n",
       "url": "https://open.spotify.com/track/6gMmaDcfbaIWXCRgyMThpO"
@@ -13248,6 +13338,24 @@
       "duration_ms": 206533,
       "name": "Sun And Steel - 1998 Remastered Version",
       "url": "https://open.spotify.com/track/3XbuNo1t4ijE5haKRuA4gU"
+    },
+    {
+      "album": {
+        "name": "Sun Sets",
+        "url": "https://open.spotify.com/album/2An0Q8iHL4kb3AfO09Y0so"
+      },
+      "artists": [
+        {
+          "name": "Carson Wallace",
+          "url": "https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178687,
+      "name": "Sun Sets",
+      "url": "https://open.spotify.com/track/6aPhXa3KCjTgjp4SSkpHdm"
     },
     {
       "album": {
@@ -14243,6 +14351,24 @@
     },
     {
       "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261093,
+      "name": "The Man Who Sold The World - Live",
+      "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
+    },
+    {
+      "album": {
         "name": "Deep Cuts (Vol 1. / 1973-1976)",
         "url": "https://open.spotify.com/album/5SVkLrV4I4cft9E0YI8RmI"
       },
@@ -14584,6 +14710,24 @@
       "duration_ms": 226013,
       "name": "The Way That We Have Been",
       "url": "https://open.spotify.com/track/3uEH8szfYujFvyISoR5TYm"
+    },
+    {
+      "album": {
+        "name": "Rock 'N' Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dKOY3QcZYOANwbqO0FCui"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/06xtVXy1Kg9VVRTb7RvQMl"
     },
     {
       "album": {
@@ -15132,7 +15276,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 302300,
       "name": "Twin Flames (Soundtrack Version) [Bonus Track]",
       "url": "https://open.spotify.com/track/16nmJgF767LxgEIg99UrCt"
@@ -15168,7 +15312,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 118733,
       "name": "ugh!",
       "url": "https://open.spotify.com/track/3CHJC8N9seH3rjVhwGvkSW"
@@ -15692,7 +15836,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 307301,
       "name": "Vuelvo para vivir",
       "url": "https://open.spotify.com/track/4bKaEsiREgX3qlzHbODy5W"
@@ -16164,7 +16308,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 193893,
       "name": "When I Get Home You're So Dead",
       "url": "https://open.spotify.com/track/4ccr6FKdh8sfhnQWDGJDg5"
@@ -16618,7 +16762,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 240773,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0P2j7ogCRvGMK4Pdw2K5ZQ"

@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 90794,
+  "num_followers": 90820,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Frisk",
-        "url": "https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb"
+        "name": "A Walk in the Park",
+        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
       },
       "artists": [
         {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
         }
       ],
-      "duration_ms": 191350,
-      "name": "Frisk",
-      "url": "https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y"
+      "duration_ms": 325880,
+      "name": "A Walk in the Park",
+      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -231,18 +227,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "A Walk in the Park",
-        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
+        "name": "Frisk",
+        "url": "https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb"
       },
       "artists": [
         {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         }
       ],
-      "duration_ms": 325880,
-      "name": "A Walk in the Park",
-      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
+      "duration_ms": 191350,
+      "name": "Frisk",
+      "url": "https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y"
     },
     {
       "added_at": "2023-10-26 20:41:14",

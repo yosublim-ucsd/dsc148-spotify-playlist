@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 514643,
+  "num_followers": 514684,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,30 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Tr\u00edo Oriental",
+        "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
+      },
+      "artists": [
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        },
+        {
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        },
+        {
+          "name": "Fabi\u00e1n Miodownik",
+          "url": "https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym"
+        }
+      ],
+      "duration_ms": 130346,
+      "name": "La Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Que Bonita Bandera",
         "url": "https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9"
       },
@@ -915,30 +939,6 @@
       "duration_ms": 290847,
       "name": "Que Bonita Bandera",
       "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Tr\u00edo Oriental",
-        "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
-      },
-      "artists": [
-        {
-          "name": "Hugo Fattoruso",
-          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
-        },
-        {
-          "name": "Daniel Maza",
-          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
-        },
-        {
-          "name": "Fabi\u00e1n Miodownik",
-          "url": "https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym"
-        }
-      ],
-      "duration_ms": 130346,
-      "name": "La Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
         }
       ],
-      "duration_ms": 341560,
-      "name": "In Flight",
-      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
+      "duration_ms": 220198,
+      "name": "Dig My Feeling",
+      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
       "artists": [
         {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 220198,
-      "name": "Dig My Feeling",
-      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
+      "duration_ms": 341560,
+      "name": "In Flight",
+      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Pr\u00f3logo: Hoy",
-        "url": "https://open.spotify.com/album/3bYh3iEf42l5HYD5Ir5Wqp"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Bosch",
-          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
-        },
-        {
-          "name": "Alain P\u00e9rez",
-          "url": "https://open.spotify.com/artist/71MILvcLWofhqgXKEVrn0a"
-        }
-      ],
-      "duration_ms": 282973,
-      "name": "Hoy (feat. Alain P\u00e9rez)",
-      "url": "https://open.spotify.com/track/46ALUwk979bzXjjN95bHvx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 230550,
       "name": "Te Escucho",
       "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Pr\u00f3logo: Hoy",
+        "url": "https://open.spotify.com/album/3bYh3iEf42l5HYD5Ir5Wqp"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Bosch",
+          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
+        },
+        {
+          "name": "Alain P\u00e9rez",
+          "url": "https://open.spotify.com/artist/71MILvcLWofhqgXKEVrn0a"
+        }
+      ],
+      "duration_ms": 282973,
+      "name": "Hoy (feat. Alain P\u00e9rez)",
+      "url": "https://open.spotify.com/track/46ALUwk979bzXjjN95bHvx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1739,22 +1739,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Back to the Sunset",
-        "url": "https://open.spotify.com/album/4cVleu2VjKo3Ujz86nzDqB"
+        "name": "Yesun",
+        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
       },
       "artists": [
         {
-          "name": "Dafnis Prieto Big Band",
-          "url": "https://open.spotify.com/artist/5SkSOkuxQOf9s83aS6DkPb"
-        },
-        {
-          "name": "Brian Lynch",
-          "url": "https://open.spotify.com/artist/2jOWJM2ILZD1NTyORxsduI"
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
         }
       ],
-      "duration_ms": 447863,
-      "name": "Una Vez Mas",
-      "url": "https://open.spotify.com/track/4H7fdafXGufIs6PomE8boe"
+      "duration_ms": 166974,
+      "name": "Aggua",
+      "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1779,18 +1775,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Yesun",
-        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
+        "name": "Back to the Sunset",
+        "url": "https://open.spotify.com/album/4cVleu2VjKo3Ujz86nzDqB"
       },
       "artists": [
         {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+          "name": "Dafnis Prieto Big Band",
+          "url": "https://open.spotify.com/artist/5SkSOkuxQOf9s83aS6DkPb"
+        },
+        {
+          "name": "Brian Lynch",
+          "url": "https://open.spotify.com/artist/2jOWJM2ILZD1NTyORxsduI"
         }
       ],
-      "duration_ms": 166974,
-      "name": "Aggua",
-      "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
+      "duration_ms": 447863,
+      "name": "Una Vez Mas",
+      "url": "https://open.spotify.com/track/4H7fdafXGufIs6PomE8boe"
     },
     {
       "added_at": "2024-02-09 05:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 456477,
+  "num_followers": 456710,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
         }
       ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
+      "duration_ms": 156293,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 156293,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc"
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 132320,
-      "name": "You Ain't Woman Enough - Single Version",
-      "url": "https://open.spotify.com/track/41jCeKeeVTxxDli1XdCPnx"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "HAG: The Hits Volume 2",
         "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 169346,
       "name": "The Fightin' Side Of Me",
       "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 132320,
+      "name": "You Ain't Woman Enough - Single Version",
+      "url": "https://open.spotify.com/track/41jCeKeeVTxxDli1XdCPnx"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "The Best Of Jimmie Rodgers",
-        "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Rodgers",
-          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Honeycomb",
-      "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "Bobby Helms Sings To My Special Angel",
         "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 179293,
       "name": "My Special Angel",
       "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "The Best Of Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
     },
     {
       "added_at": "2024-05-04 20:18:13",

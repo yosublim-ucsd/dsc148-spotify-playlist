@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Aluna
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,566 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,561 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 8 | [I Am Free](https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free](https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3) | 3:42 |
 | 9 | [Legacy](https://open.spotify.com/track/7gpt3rgFCoHymogDv24uUJ) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/2XnwNUlKYhXHFuXMqIbNEX) | 6:49 |
 | 10 | [Space](https://open.spotify.com/track/12ngsrFgVmDoBrpRJZVbl9) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Space](https://open.spotify.com/album/5hXz1HRAg2BTe4hs94BHd5) | 3:06 |
-| 11 | [Embers](https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Embers](https://open.spotify.com/album/310zPynreWG7NPfazR7z02) | 2:49 |
+| 11 | [Embers](https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Embers](https://open.spotify.com/album/310zPynreWG7NPfazR7z02) | 2:49 |
 | 12 | [Higher](https://open.spotify.com/track/2aNRjrS7mKjfCORWEAfTFk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Higher](https://open.spotify.com/album/0GEED4RZAQFAg79028tIMD) | 3:32 |
 | 13 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 |
 | 14 | [Wasting Time \(til the end of the world\)](https://open.spotify.com/track/7c22mnTVTFtAGXjHRaj5Fh) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wasting Time \(til the end of the world\)](https://open.spotify.com/album/6sboIBpmkpAi63ZuZxHDAB) | 3:00 |

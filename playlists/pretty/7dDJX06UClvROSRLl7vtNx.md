@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 60,333 likes - 155 songs - 6 hr 48 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 60,428 likes - 163 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,5 +163,13 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 153 | [Feels Like Paradise](https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Feels Like Paradise](https://open.spotify.com/album/7JSKRM0cz2AQlv69KVsQQD) | 3:14 |
 | 154 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 |
 | 155 | [I'll Be Alright](https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY) | [Magnus Gunn](https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi) | [I'll Be Alright](https://open.spotify.com/album/621vQENf53N8IYGxFashcT) | 3:02 |
+| 156 | [Over You](https://open.spotify.com/track/5ITjUucH19eHJvfh7iUIhw) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv), [wavecrvsh](https://open.spotify.com/artist/5egmvcmVXBPzk6y3A9Tqrm), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Over You](https://open.spotify.com/album/4LqGhps0CA546STC9A5Neq) | 2:38 |
+| 157 | [By My Side](https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [By My Side](https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK) | 2:19 |
+| 158 | [Go Insane](https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv) | [Go Insane](https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g) | 2:10 |
+| 159 | [Looking for You](https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv) | [Novino](https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X) | [Looking for You](https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN) | 1:55 |
+| 160 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 161 | [Am I Wrong \(feat\. ØJM\)](https://open.spotify.com/track/2k4ZnVMn89EmlHYKY6K3Jk) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER), [ØJM](https://open.spotify.com/artist/17HfisxoHc4oPg4fVizsQo) | [Am I Wrong \(feat\. ØJM\)](https://open.spotify.com/album/7zt7kMU3b6Ue3lyyGWqOoa) | 3:09 |
+| 162 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
+| 163 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 
-Snapshot ID: `AABBXOl8UB/JYYdbA3rb4KVtRAECZ0tR`
+Snapshot ID: `AABBZKu1GZUa7VzulGVLmPiz3bKwFftq`

@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 39969,
+  "num_followers": 39990,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -651,42 +651,6 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "Unter meinem Bett. Best Of",
-        "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
-      },
-      "artists": [
-        {
-          "name": "Bernd Begemann",
-          "url": "https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Rumspringen",
-      "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
-        "name": "Rolfs Hasengeschichte - Die Lieder",
-        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 157793,
-      "name": "Wenn es Fr\u00fchling wird im Hasenland",
-      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
         "name": "Freunde finden / Devenir Amis",
         "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
       },
@@ -707,6 +671,42 @@
       "duration_ms": 170413,
       "name": "Freunde finden / Devenir Amis",
       "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
+        "name": "Rolfs Hasengeschichte - Die Lieder",
+        "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 157793,
+      "name": "Wenn es Fr\u00fchling wird im Hasenland",
+      "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
+        "name": "Unter meinem Bett. Best Of",
+        "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
+      },
+      "artists": [
+        {
+          "name": "Bernd Begemann",
+          "url": "https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Rumspringen",
+      "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"
     },
     {
       "added_at": "2024-05-10 09:29:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
+        "name": "Barfu\u00df",
+        "url": "https://open.spotify.com/album/3xrtjEvVEDGuBe3fKfSAPM"
+      },
+      "artists": [
+        {
+          "name": "Herr Jan",
+          "url": "https://open.spotify.com/artist/4Uq7FqOxflFQVxsvTFIqhi"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Barfu\u00df",
+      "url": "https://open.spotify.com/track/5HvU0Hna8BVhv2jE4npxzh"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
         "name": "015/Abends im Walde",
         "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "Der Fr\u00fchling ist da - 25 kunterbunte Kinderlieder im Fr\u00fchling",
-        "url": "https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK"
-      },
-      "artists": [
-        {
-          "name": "Martin G\u00f6th",
-          "url": "https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i"
-        }
-      ],
-      "duration_ms": 107961,
-      "name": "So bunt ist die Fr\u00fchlingszeit",
-      "url": "https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
         "name": "Fr\u00fchling",
         "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
       },
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "Barfu\u00df",
-        "url": "https://open.spotify.com/album/3xrtjEvVEDGuBe3fKfSAPM"
+        "name": "Der Fr\u00fchling ist da - 25 kunterbunte Kinderlieder im Fr\u00fchling",
+        "url": "https://open.spotify.com/album/2WENgDsxACiO4z5jg9AuVK"
       },
       "artists": [
         {
-          "name": "Herr Jan",
-          "url": "https://open.spotify.com/artist/4Uq7FqOxflFQVxsvTFIqhi"
+          "name": "Martin G\u00f6th",
+          "url": "https://open.spotify.com/artist/2g7GFRZ0bemzPVBilVKE9i"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Barfu\u00df",
-      "url": "https://open.spotify.com/track/5HvU0Hna8BVhv2jE4npxzh"
+      "duration_ms": 107961,
+      "name": "So bunt ist die Fr\u00fchlingszeit",
+      "url": "https://open.spotify.com/track/5Qs3nCYcAUspTCUtFQdQ1n"
     }
   ],
   "unique_name": "Familienzeit: Fr\u00fchling",

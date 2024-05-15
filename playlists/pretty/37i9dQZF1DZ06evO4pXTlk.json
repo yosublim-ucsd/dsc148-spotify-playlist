@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAATpm6twKXadQ0ZxwedwPRo",
+  "snapshot_id": "ZkFYAAAAAAD8cESxiQb3Wy5wwRSCN/dm",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
       "duration_ms": 199266,
       "name": "Gum",
       "url": "https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shaking In The Water",
-        "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 230451,
-      "name": "North East Kid",
-      "url": "https://open.spotify.com/track/5Itxr5Pxr7Gm283MnkbcRv"
     },
     {
       "added_at": null,

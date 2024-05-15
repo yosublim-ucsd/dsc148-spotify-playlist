@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-149 songs - 10 hr 11 min
+151 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,9 +49,11 @@
 | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/track/1xz7gYwUTADRKhJc6UjGSo) | [LinQ](https://open.spotify.com/artist/05I84aat6qTGKBQM9P4Ynz) | [FRONTIER〜LinQ 第三楽章〜](https://open.spotify.com/album/4Ucb8SJJIfwQIvHX05k4H0) | 4:32 | 2022-03-08 |  |
 | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/track/3FTnhwwtX4nXEx64a86VoI) | [LinQ](https://open.spotify.com/artist/05I84aat6qTGKBQM9P4Ynz) | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/album/1A79qI9M8W1nHxBgCl24AL) | 4:32 | 2023-08-17 | 2024-04-19 |
 | [MAKOTO\-Live for Justice\-](https://open.spotify.com/track/6NLhGajefGqMoNSfNouy1x) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/3yE9VJKvfnDCKs0xzNRHlq) | 4:32 | 2024-01-23 | 2024-04-19 |
+| [Maria Club \(百億の夜とクレオパトラの孤独\) \[Remix\]](https://open.spotify.com/track/4JwuDsv6mcKAdXxMZ341Kg) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [DJ KOO](https://open.spotify.com/artist/7yZIRrHfUztJaS0ZG2Qm4l) | [TM NETWORK TRIBUTE ALBUM \-40th CELEBRATION\-](https://open.spotify.com/album/3n7yTwBKEpqxb9z9NL9Ejl) | 4:08 | 2024-05-14 |  |
 | [Matsuken EDM](https://open.spotify.com/track/6BWxB9F2ziA1RsAfkrIB3H) | [Ken Matsudaira](https://open.spotify.com/artist/5dQEL2DSm82YsiI3GnD8t6) | [Matsuken EDM](https://open.spotify.com/album/6BZ4DmvhKH23pWg1orkhO5) | 4:05 | 2024-01-23 | 2024-04-19 |
 | [Merry Hurry Berry](https://open.spotify.com/track/548WgAhiP6BvAqju93WeBc) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry) | 3:57 | 2022-03-08 |  |
 | [Million Ways=One Destination](https://open.spotify.com/track/744jwW4TDgHXimEXg5T5ET) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:57 | 2022-03-08 |  |
+| [Mofu Mofu Caravan](https://open.spotify.com/track/7MCbVPnty9G1AMlWs3FEee) | [Mofu Mofu Music Caravan](https://open.spotify.com/artist/14G4IFq9Qlyyw2kjRyRXr0) | [Mofu Mofu Caravan](https://open.spotify.com/album/1gTjqabAbmjTiugedQhimE) | 3:04 | 2024-05-14 |  |
 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 | 2022-07-12 | 2023-02-04 |
 | [Monster Disco](https://open.spotify.com/track/1zcLKA7aKfjeGq6dQZk9Wi) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [INNOCENT](https://open.spotify.com/album/39JkWHpnRuDFRAW11829PZ) | 3:15 | 2022-08-04 | 2024-04-19 |
 | [NICE！RICE！SMILE！](https://open.spotify.com/track/5PHuST5U2NTTxmGTrcTiEh) | [本気でお米作り隊](https://open.spotify.com/artist/42SmQU0oIVJhUpJM2fBdzy) | [NICE！RICE！SMILE！](https://open.spotify.com/album/4t2cwRgMIbyAVv5omOwAJx) | 3:25 | 2023-10-31 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-169 songs - 10 hr 12 min
+170 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All I want is you](https://open.spotify.com/track/3543lKNhfX3lFSfOmOXV65) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Boi Brown](https://open.spotify.com/artist/5c3gpcbxU6J8ZNrJT2DwPY), [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [Fade Away](https://open.spotify.com/album/6QKMkubaMBZsiSGaxYd1k1) | 2:19 | 2024-03-08 |  |
 | [Always Remember](https://open.spotify.com/track/0RCYjmOB2pLojrcyGIyC5f) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [도도솔솔라라솔 OST Part.10](https://open.spotify.com/album/1rxId9OlGTuVGW6zlDmote) | 3:25 | 2023-08-05 | 2024-04-19 |
 | [Always Remember](https://open.spotify.com/track/5C56Qnwq0aU9MIY2G6snfo) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [도도솔솔라라솔 \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ueEwIe0EHbF1DYU3jGgXX) | 3:25 | 2022-07-04 |  |
+| [at jongro](https://open.spotify.com/track/6r5Vy49fSeSNXUU3wiKfXu) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [at jongro](https://open.spotify.com/album/2Q7L1DKryOmry4pBX1WUoM) | 3:43 | 2024-05-14 |  |
 | [Autumn breeze](https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI) | 2:54 | 2024-03-08 |  |
 | [Autumn Breeze](https://open.spotify.com/track/2KHWnkVa8wHh0WXF5iPzZs) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [Autumn Breeze](https://open.spotify.com/album/0Hwz2Tac85WMBXzr9OZl1y) | 3:43 | 2024-03-08 |  |
 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 | 2022-07-04 | 2024-04-19 |

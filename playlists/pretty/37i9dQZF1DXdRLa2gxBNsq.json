@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Soziedad Alkoholika.",
-  "num_followers": 103479,
+  "num_followers": 103513,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "A Frontline Compilation",
-        "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
+        "name": "Impuesto Revolucionario",
+        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
       },
       "artists": [
         {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
         }
       ],
-      "duration_ms": 112720,
-      "name": "Don Vito y la Revuelta en el Frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo"
+      "duration_ms": 187000,
+      "name": "Historia triste",
+      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Impuesto Revolucionario",
-        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
+        "name": "A Frontline Compilation",
+        "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
       },
       "artists": [
         {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Historia triste",
-      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
+      "duration_ms": 112720,
+      "name": "Don Vito y la Revuelta en el Frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Nuestra guerra",
-        "url": "https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf"
-      },
-      "artists": [
-        {
-          "name": "No Konforme",
-          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
-        },
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 305993,
-      "name": "Nuestra guerra",
-      "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Corona de Espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -715,22 +695,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Aizkolari",
         "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
       },
@@ -743,6 +707,42 @@
       "duration_ms": 127480,
       "name": "Jimmy Jazz",
       "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Nuestra guerra",
+        "url": "https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf"
+      },
+      "artists": [
+        {
+          "name": "No Konforme",
+          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 305993,
+      "name": "Nuestra guerra",
+      "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Anda y Que Te Den",
-        "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 224172,
-      "name": "Anda y Que Te Den",
-      "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Confrontaci\u00f3n",
         "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 181707,
       "name": "Infiltrados",
       "url": "https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Anda y Que Te Den",
+        "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 224172,
+      "name": "Anda y Que Te Den",
+      "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "El \u00daltimo Amigo",
-        "url": "https://open.spotify.com/album/0RCBE5QYkbBPBt3GaYxGtk"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 164991,
-      "name": "El \u00daltimo Amigo",
-      "url": "https://open.spotify.com/track/6Zv2OenXhewcKuCVLxDCPk"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Noche Molona",
         "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 178393,
       "name": "Noche Molona",
       "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "El \u00daltimo Amigo",
+        "url": "https://open.spotify.com/album/0RCBE5QYkbBPBt3GaYxGtk"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 164991,
+      "name": "El \u00daltimo Amigo",
+      "url": "https://open.spotify.com/track/6Zv2OenXhewcKuCVLxDCPk"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        }
-      ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Esto Es un Atraco",
         "url": "https://open.spotify.com/album/6qrOJ9gopojGNYlYBQWZ7Q"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        }
+      ],
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "S\u00edganle compadres",
         "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 155533,
       "name": "Txus",
       "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1107,6 +1091,22 @@
       "duration_ms": 127500,
       "name": "No es la primera vez que pasa",
       "url": "https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "He Visto",
+        "url": "https://open.spotify.com/album/6BU8iwhJ0JlRPXQUEwhHCZ"
+      },
+      "artists": [
+        {
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+        }
+      ],
+      "duration_ms": 208341,
+      "name": "He Visto",
+      "url": "https://open.spotify.com/track/7caiZ8Vj8ouLzgDNfx2xZ0"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "He Visto",
-        "url": "https://open.spotify.com/album/6BU8iwhJ0JlRPXQUEwhHCZ"
-      },
-      "artists": [
-        {
-          "name": "Guillotina Punk Rock",
-          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
-        }
-      ],
-      "duration_ms": 208341,
-      "name": "He Visto",
-      "url": "https://open.spotify.com/track/7caiZ8Vj8ouLzgDNfx2xZ0"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "Humanos",
+        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "duration_ms": 151134,
+      "name": "Humanos",
+      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "O\u00eddo Cochina",
         "url": "https://open.spotify.com/album/1ggL26VoWaPX7SgO7JkKmm"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 92294,
       "name": "O\u00eddo Cochina",
       "url": "https://open.spotify.com/track/2qpcDTXNYibLBFi289kO54"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Y las que quedar\u00e1n",
-        "url": "https://open.spotify.com/album/1XlgAEyavzQhZiQkD89J09"
-      },
-      "artists": [
-        {
-          "name": "A Cuchillo",
-          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Y las que quedar\u00e1n",
-      "url": "https://open.spotify.com/track/0W5XjAGzQhcAgtUJqrB9RO"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Humanos",
-        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
+        "name": "Y las que quedar\u00e1n",
+        "url": "https://open.spotify.com/album/1XlgAEyavzQhZiQkD89J09"
       },
       "artists": [
         {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+          "name": "A Cuchillo",
+          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
         }
       ],
-      "duration_ms": 151134,
-      "name": "Humanos",
-      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+      "duration_ms": 252000,
+      "name": "Y las que quedar\u00e1n",
+      "url": "https://open.spotify.com/track/0W5XjAGzQhcAgtUJqrB9RO"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Lev\u00e1ntate",
-        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
-      },
-      "artists": [
-        {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
-        }
-      ],
-      "duration_ms": 232307,
-      "name": "Lev\u00e1ntate",
-      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Cagaos",
         "url": "https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 157411,
       "name": "Cagaos",
       "url": "https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Lev\u00e1ntate",
+        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 232307,
+      "name": "Lev\u00e1ntate",
+      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
     },
     {
       "added_at": "2024-05-09 22:00:00",

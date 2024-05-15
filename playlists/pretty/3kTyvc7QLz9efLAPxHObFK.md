@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,364 songs - 3 day 2 hr 59 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,365 songs - 3 day 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1372,5 +1372,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1362 | [Vivid Refrain](https://open.spotify.com/track/3Wef6xTwKY3JqqcS36P3vk) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB) | [Vivid Refrain](https://open.spotify.com/album/1LxdJKdW99pKA4711BS8UJ) | 3:49 |
 | 1363 | [Let me in the dark](https://open.spotify.com/track/6sdEgRMk7X2dZhp3vkL24M) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Empira](https://open.spotify.com/artist/52SEFvQng6XqKFfoE4YcbI), [Anna Timofei](https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG) | [Armageddon](https://open.spotify.com/album/4gjJDTNDYQgBp9M7HzGSIv) | 3:43 |
 | 1364 | [Snake Pit](https://open.spotify.com/track/5GQRu63MroIMnM7DPH75Mi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Timmy Trumpet's SINPHONY No\. 2](https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm) | 2:18 |
+| 1365 | [It's a Bang](https://open.spotify.com/track/3ZEWnUCMQduSaXpRWcX4Fq) | [Triple X](https://open.spotify.com/artist/2vJyuppwPbnxzGGVy7xm03) | [It's a Bang](https://open.spotify.com/album/2LSDV2HLrjSaWhJUMiD7tz) | 2:40 |
 
-Snapshot ID: `AAAFgX2c8Xz85tFJKNojXcOE6HEleEye`
+Snapshot ID: `AAAFgnGQY5FYqZqaeLlyZv0gJHWlfd+U`

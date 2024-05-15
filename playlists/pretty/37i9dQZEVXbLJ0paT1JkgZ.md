@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,189 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,196 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 50 | [Avísame](https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Ness](https://open.spotify.com/artist/6r20N9knjoQP5oIgs0wtxe) | [Avísame](https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn) | 2:43 |
 
-Snapshot ID: `LdV7GAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LdbMmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

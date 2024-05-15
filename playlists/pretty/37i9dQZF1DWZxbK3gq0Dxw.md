@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxbK3gq0Dxw.md) - [plain]
 
 > The Cracker Island experience, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,680 likes - 16 songs - 53 min 33 sec
+[Spotify](https://open.spotify.com/user/spotify) - 188,678 likes - 16 songs - 53 min 33 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

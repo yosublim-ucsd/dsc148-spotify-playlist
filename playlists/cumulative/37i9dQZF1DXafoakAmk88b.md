@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: hemlocke springs
 
-421 songs - 22 hr 8 min
+422 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [No Funny \(feat\. Yoshi T.\)](https://open.spotify.com/track/78Uxd4JjEj0Iy5qtEINWfb) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [No Funny \(feat\. Yoshi T.\)](https://open.spotify.com/album/7gTEjIRRteHSADZ8uAnaKY) | 3:25 | 2023-06-07 | 2023-08-22 |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-06-07 |  |
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-10-06 |  |
-| [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 | 2022-11-11 |  |
+| [no way out](https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [no way out](https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP) | 1:53 | 2022-11-11 | 2024-05-15 |
 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 | 2023-06-07 | 2023-08-22 |
 | [NW3](https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [NW3](https://open.spotify.com/album/16Z9PQxHXHZA2naPJsjbff) | 3:53 | 2022-02-18 | 2022-02-26 |
 | [NYC](https://open.spotify.com/track/5SfOaWCMXCR2b01GJqXLOr) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 2:26 | 2023-01-18 | 2023-06-08 |
@@ -303,6 +303,7 @@
 | [pieces](https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [pieces](https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk) | 2:44 | 2022-02-18 | 2022-06-19 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-10 | 2023-04-22 |
 | [Playlist](https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Playlist](https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA) | 2:50 | 2022-03-14 | 2022-11-12 |
+| [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 | 2024-05-15 |  |
 | [Plz](https://open.spotify.com/track/5LpFrJLrMX5yHgqlICQm00) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Plz](https://open.spotify.com/album/2EE7hekD46YWmkblAhC0qZ) | 2:37 | 2022-02-18 | 2022-05-21 |
 | [Poison Ivy](https://open.spotify.com/track/2Qq4GCcB81IGr3krVQW84z) | [Elton Aura](https://open.spotify.com/artist/4O24XfCPqIJQUMXOJ2F0ni) | [Vert\(EGO\)](https://open.spotify.com/album/76bLAVnxfGADpQMjchrw5Z) | 2:04 | 2022-03-04 | 2022-11-12 |
 | [pos](https://open.spotify.com/track/5EwIo2Vc50Blvpk00ynRQP) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 3:05 | 2023-09-29 | 2023-12-02 |

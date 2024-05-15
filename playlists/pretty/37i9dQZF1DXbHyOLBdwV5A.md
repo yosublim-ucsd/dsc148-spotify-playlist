@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,968 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,980 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 55 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
 | 56 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
 | 57 | [Sorrindo à Toa \- Remix](https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU) | [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleytinho de Macaé](https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG) | [Sorrindo à Toa \(Remix\)](https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg) | 2:35 |
-| 58 | [Dono da Minha Vida \- Remix](https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Filipe Souza](https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z) | [Dono da Minha Vida \(Remix\)](https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ) | 3:25 |
-| 59 | [Queima de Novo \- Remix](https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e), [Vitinho PAE](https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9) | [Queima de Novo \(Remix\)](https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8) | 3:45 |
+| 58 | [Queima de Novo \- Remix](https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e), [Vitinho PAE](https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9) | [Queima de Novo \(Remix\)](https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8) | 3:45 |
+| 59 | [Dono da Minha Vida \- Remix](https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Filipe Souza](https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z) | [Dono da Minha Vida \(Remix\)](https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ) | 3:25 |
 | 60 | [Para o Alto \- Remix](https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q) | [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83), [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X) | [Para o Alto \(Remix\)](https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4) | 3:27 |
 | 61 | [Graça](https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Jeovana Menezes](https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA) | [Graça](https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr) | 2:36 |
 | 62 | [Caminho Seguro](https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Caminho Seguro](https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox) | 3:35 |

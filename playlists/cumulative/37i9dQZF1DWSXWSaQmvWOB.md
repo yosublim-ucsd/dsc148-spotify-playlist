@@ -4,7 +4,7 @@
 
 > New soul\-infused music every week! Cover: Joya Mooi
 
-887 songs - 2 day 6 hr 15 min
+888 songs - 2 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Love Letter From A Red Roof Inn](https://open.spotify.com/track/6vZ2FTyBiKS5DfGz2Qe79j) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Love Letter From A Red Roof Inn](https://open.spotify.com/album/4ngbwV8bQCWnmhY5pQszU6) | 3:48 | 2021-12-03 | 2022-02-04 |
 | [Love Me](https://open.spotify.com/track/2UHSah54aEHVdFxlXcSO6G) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Live for Each Other](https://open.spotify.com/album/56mOew5JxSiZlsGtEKLxRI) | 3:21 | 2020-07-11 | 2020-10-09 |
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2023-07-10 | 2023-08-16 |
+| [Love The Mystery \- Jafunk Remix](https://open.spotify.com/track/2knau46bv1OWCitS1KOE3c) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Love The Mystery \(Jafunk Remix\)](https://open.spotify.com/album/7zmRzYOl1IrWZtJg3s5gyX) | 2:57 | 2024-05-14 |  |
 | [Love the Mystery \- Radio Edit](https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Love the Mystery](https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5) | 3:44 | 2023-12-12 | 2024-04-11 |
 | [Love Will Work It Out](https://open.spotify.com/track/0BZVAlUSCoG2U4ejyPfK58) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Love Will Work It Out](https://open.spotify.com/album/6n2tvfglNOT50czZxUxLXi) | 3:45 | 2021-06-11 | 2022-07-29 |
 | [Love Will Work It Out](https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:45 | 2022-07-28 | 2023-12-13 |

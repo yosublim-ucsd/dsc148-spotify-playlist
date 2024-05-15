@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-28",
-  "description": "it's just one of those days w/ Hot Mulligan",
+  "description": "it's just one of those days w/ Microwave",
   "name": "emo right now",
   "tracks": [
     {
@@ -96,10 +96,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 284344,
       "name": "A Trip Around The Sun",
       "url": "https://open.spotify.com/track/1Pkbn3NAhaBBSiMs5qdoa8"
+    },
+    {
+      "album": {
+        "name": "Absolute Bloom",
+        "url": "https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW"
+      },
+      "artists": [
+        {
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205628,
+      "name": "Absolute Bloom",
+      "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
     },
     {
       "album": {
@@ -118,6 +136,42 @@
       "duration_ms": 208503,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2FSS75moVpVpLi7uqhix6H"
+    },
+    {
+      "album": {
+        "name": "all of my love",
+        "url": "https://open.spotify.com/album/4vy9lp76YbFu7djIlG2orO"
+      },
+      "artists": [
+        {
+          "name": "Oso Oso",
+          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "all of my love",
+      "url": "https://open.spotify.com/track/25uqtNMzQigSCpNUvQma9E"
+    },
+    {
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168903,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
     },
     {
       "album": {
@@ -582,7 +636,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 238373,
       "name": "clearview",
       "url": "https://open.spotify.com/track/1cbG0tcZYcUsyBXfTGRdyf"
@@ -672,7 +726,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 219546,
       "name": "Concrete (A Love Song)",
       "url": "https://open.spotify.com/track/5jb2VoiVXYrwpo4FrioHlC"
@@ -798,7 +852,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 257993,
       "name": "Curly Q",
       "url": "https://open.spotify.com/track/5etEJrn4QNlm0Z7xIbmnDi"
@@ -888,7 +942,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 159999,
       "name": "Day Drunk",
       "url": "https://open.spotify.com/track/0ajpmHagIPCaaYP11S2Hk5"
@@ -910,6 +964,24 @@
       "duration_ms": 198591,
       "name": "Dead On The Page",
       "url": "https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91"
+    },
+    {
+      "album": {
+        "name": "Dog",
+        "url": "https://open.spotify.com/album/0ssKw6BEf71CtwWWkrmhBb"
+      },
+      "artists": [
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/5aMPRdW6S0lzdsJgwdcggq"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215159,
+      "name": "Dog",
+      "url": "https://open.spotify.com/track/0ybw0fLhsejtW98qNiCZjW"
     },
     {
       "album": {
@@ -1111,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Fruit Wine",
+        "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171854,
+      "name": "Fruit Wine",
+      "url": "https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh"
+    },
+    {
+      "album": {
         "name": "Giant's Despair",
         "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
       },
@@ -1180,6 +1270,24 @@
       "duration_ms": 134925,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/7u5yayMCOSG6n4XsBoAsMc"
+    },
+    {
+      "album": {
+        "name": "Grendel",
+        "url": "https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304337,
+      "name": "Grendel",
+      "url": "https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY"
     },
     {
       "album": {
@@ -1338,7 +1446,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 218738,
       "name": "I Can Feel Every Cut",
       "url": "https://open.spotify.com/track/7o7asYZdFBfprsWVdw9LOz"
@@ -1940,7 +2048,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 164167,
       "name": "My Anchor",
       "url": "https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv"
@@ -2214,7 +2322,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 220330,
       "name": "Pomegranate",
       "url": "https://open.spotify.com/track/2WGNtRebR51HiBhW2fNIni"
@@ -2430,7 +2538,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 255208,
       "name": "Running with the Hurricane",
       "url": "https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS"
@@ -2664,7 +2772,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 215318,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/7lH6ykUui2IHTzPmvKoJdl"
@@ -2898,7 +3006,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 159000,
       "name": "Thank You, New Jersey",
       "url": "https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL"
@@ -2920,6 +3028,24 @@
       "duration_ms": 204040,
       "name": "Thanks For Asking",
       "url": "https://open.spotify.com/track/6zyTFxXRoQQDg6gXVagobF"
+    },
+    {
+      "album": {
+        "name": "Interesting Decisions: Into It. Over It. Songs (2020 - 2023)",
+        "url": "https://open.spotify.com/album/2WAMsMe58zkznTDFYl0fKD"
+      },
+      "artists": [
+        {
+          "name": "Into It. Over It.",
+          "url": "https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271824,
+      "name": "The Car\u2019s Still Running Out Front",
+      "url": "https://open.spotify.com/track/2RgGODc1m1wYHaMc91Iny6"
     },
     {
       "album": {
@@ -3132,7 +3258,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 199598,
       "name": "Walk Over My Grave",
       "url": "https://open.spotify.com/track/4sK75yxCOj0K5NMijKgZCa"

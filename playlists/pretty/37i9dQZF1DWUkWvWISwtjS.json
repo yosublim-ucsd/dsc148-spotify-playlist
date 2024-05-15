@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 443010,
+  "num_followers": 442985,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "\u00c9 Problema",
+        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184149,
+      "name": "\u00c9 Problema",
+      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Estrelinha",
         "url": "https://open.spotify.com/album/3r3WEUzmwBtgKqWtNxssu1"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 207317,
       "name": "Estrelinha",
       "url": "https://open.spotify.com/track/6hFU1qqclbJkyA7gPuUNDS"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "\u00c9 Problema",
-        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184149,
-      "name": "\u00c9 Problema",
-      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Jo\u00e3o Bosco & Vinicius E Seus \u00cddolos - Estrada De Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco & Vinicius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Amiga Linda",
-      "url": "https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "VIVA (Ao Vivo)",
         "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 180001,
       "name": "choque t\u00e9rmico - ao vivo",
       "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Jo\u00e3o Bosco & Vinicius E Seus \u00cddolos - Estrada De Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Amiga Linda",
+      "url": "https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -411,18 +411,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Milu",
-        "url": "https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI"
+        "name": "Live-M\u00f3vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 224997,
-      "name": "Milu",
-      "url": "https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7"
+      "duration_ms": 187378,
+      "name": "Sofazinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -475,6 +479,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Milu",
+        "url": "https://open.spotify.com/album/3oqVZoqdqNmaSQkJF9mMfI"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 224997,
+      "name": "Milu",
+      "url": "https://open.spotify.com/track/1nqaSoiLuqevDes4S18sO7"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Dona Maria",
         "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
       },
@@ -495,42 +515,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Onde a Saudade Mora",
-        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
-      },
-      "artists": [
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 123060,
-      "name": "Deus Me Livre Quem Me Dera",
-      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Live-M\u00f3vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 187378,
-      "name": "Sofazinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Terra Sem Cep (Ao Vivo)",
         "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 166517,
       "name": "Cora\u00e7\u00e3o Calejado - Ao Vivo",
       "url": "https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Onde a Saudade Mora",
+        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "duration_ms": 123060,
+      "name": "Deus Me Livre Quem Me Dera",
+      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Made In Studio",
-        "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 147990,
-      "name": "Quem Me Dera",
-      "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Made in Ro\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 140442,
       "name": "Trincadinho - Ao Vivo",
       "url": "https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Made In Studio",
+        "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 147990,
+      "name": "Quem Me Dera",
+      "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Start In S\u00e3o Paulo (ao Vivo)",
         "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Sigilo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+        "name": "Medida Certa",
+        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
       },
       "artists": [
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 165366,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+      "duration_ms": 186816,
+      "name": "Medida Certa",
+      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -907,22 +923,6 @@
       "duration_ms": 161152,
       "name": "Espelho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 186816,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Surra de Cama",
-        "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 178216,
-      "name": "Surra de Cama",
-      "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Em Sintonia (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 163450,
       "name": "Rapariga N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0ihMkv4Usn03EEEF8Rlw22"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Surra de Cama",
+        "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 178216,
+      "name": "Surra de Cama",
+      "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
     },
     {
       "added_at": "2023-10-13 11:44:55",

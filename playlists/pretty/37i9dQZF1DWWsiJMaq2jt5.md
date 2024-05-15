@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4I27OgvXt7ILLX2AtbQHO2">Daria ze Śląska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,348 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,369 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 38 | [Moment](https://open.spotify.com/track/1IVEB4k2xDX2dQEoWjgCq4) | [Klaudia Sobotka](https://open.spotify.com/artist/4izxlflj4RQhhmWAGhyGFJ) | [Moment](https://open.spotify.com/album/0MOKoi8bDglwUUt3CowhCw) | 3:04 |
 | 39 | [Ja Ciebie Też](https://open.spotify.com/track/7BKm9anPgJu8I1iRu2vTmU) | [afekty](https://open.spotify.com/artist/3SpESiiNwNfFPpEmsTiXoH), [Helena Pyłka](https://open.spotify.com/artist/1jimlac7RknSbFMRoxUw9e), [Basia Siciarek](https://open.spotify.com/artist/6WcYkSf44ojtwFJ4jENIOh) | [Ja Ciebie Też](https://open.spotify.com/album/5AfHyGT8TLcpaU6VBgXLP7) | 2:38 |
 | 40 | [Zabawy Sercem](https://open.spotify.com/track/7ivio4VD40tDP5UsiGNnOJ) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Zabawy Sercem](https://open.spotify.com/album/2Ibp0DGPnQfUmvTmpd1hsm) | 2:36 |
-| 41 | [Stara](https://open.spotify.com/track/2qSNqWSES8dAUvInnhZAgR) | [jucho](https://open.spotify.com/artist/77vikLG5M479F4GJeXPmjJ) | [Stara](https://open.spotify.com/album/1qKIY9SqGjxhVP66JFAq6i) | 2:16 |
+| 41 | [Stara](https://open.spotify.com/track/2qSNqWSES8dAUvInnhZAgR) | [jucho](https://open.spotify.com/artist/77vikLG5M479F4GJeXPmjJ), [Domowe Melodie](https://open.spotify.com/artist/60afMnL1mSfYcDUL39pAvf) | [Stara](https://open.spotify.com/album/1qKIY9SqGjxhVP66JFAq6i) | 2:16 |
 | 42 | [Kastet](https://open.spotify.com/track/0LANkgFvLybfkmtOEMzTQ8) | [Matylda/Łukasiewicz](https://open.spotify.com/artist/63F505DnjfX3lGnyUSjPW6), [Matylda Damięcka](https://open.spotify.com/artist/6oJbbHi7Jqa8LQYzhE4wmi), [Radek Łukasiewicz](https://open.spotify.com/artist/1dDVE9rqZARiwmJpnuVECt) | [Kastet](https://open.spotify.com/album/6Mpj6S3tlCs6telYG1DgN7) | 3:42 |
 | 43 | [Grupi.luff](https://open.spotify.com/track/0CmwBo8j0sU7YaKcafoDXE) | [Ryfa Ri](https://open.spotify.com/artist/5JyfwSUxEdBxi08TfV0wpo), [Konera](https://open.spotify.com/artist/72dHQYkjHSK0JU4aJcetyV) | [Grupi.luff](https://open.spotify.com/album/0jWdTLcW2yJ6GaYQ0aOrHx) | 3:43 |
 | 44 | [zostać tak](https://open.spotify.com/track/2goPTzfGIW4q1Xjo5YGrD8) | [YASNO.](https://open.spotify.com/artist/5JeULU8rnukUiPQFAA8Q24) | [zostać tak](https://open.spotify.com/album/0GDwuMSXTMidWTyGXMkXO3) | 3:12 |

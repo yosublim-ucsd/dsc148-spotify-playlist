@@ -1,12 +1,12 @@
 {
-  "description": "This is Rancid. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 46016,
+  "description": "This is Rancid. The essential tracks, all in one playlist.",
+  "num_followers": 46023,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAAisJcW5ExtVDmnU1zCyWQE",
+  "snapshot_id": "ZkFYAAAAAABO4cZAcFG0OTPbAL8UZRK2",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B Sides and C Sides",
-        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 101600,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/3JK7WvNg0cO9FDV8E5UcLK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 101600,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/3JK7WvNg0cO9FDV8E5UcLK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...Honor Is All We Know (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
@@ -523,38 +523,6 @@
       "duration_ms": 131960,
       "name": "Honor Is All We Know",
       "url": "https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B Sides and C Sides",
-        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 74213,
-      "name": "Endrina",
-      "url": "https://open.spotify.com/track/6WWcprIFKb9XErXU9jtcRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 70933,
-      "name": "Antennas",
-      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
     },
     {
       "added_at": null,
@@ -575,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
       "artists": [
         {
@@ -584,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 113426,
-      "name": "Black Lung",
-      "url": "https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP"
+      "duration_ms": 70933,
+      "name": "Antennas",
+      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
     },
     {
       "added_at": null,
@@ -600,9 +568,25 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 126626,
-      "name": "Dead And Gone",
-      "url": "https://open.spotify.com/track/0jW7y01GcHbkJ8Rrrl5tzP"
+      "duration_ms": 74213,
+      "name": "Endrina",
+      "url": "https://open.spotify.com/track/6WWcprIFKb9XErXU9jtcRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 113426,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 126626,
+      "name": "Dead And Gone",
+      "url": "https://open.spotify.com/track/0jW7y01GcHbkJ8Rrrl5tzP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let The Dominoes Fall (Expanded Version)",
         "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 160360,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B Sides and C Sides",
-        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 144653,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/6lreQj4PTDoDvWTREDd4ie"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 144653,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/6lreQj4PTDoDvWTREDd4ie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
       },
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "B Sides and C Sides",
-        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 159453,
-      "name": "Killing Zone",
-      "url": "https://open.spotify.com/track/4RwTDMkDtNqlmerkrEZS4y"
+      "duration_ms": 72608,
+      "name": "Mud, Blood, & Gold",
+      "url": "https://open.spotify.com/track/3bHZv692gQiEzKiQ7iwdvr"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 72608,
-      "name": "Mud, Blood, & Gold",
-      "url": "https://open.spotify.com/track/3bHZv692gQiEzKiQ7iwdvr"
+      "duration_ms": 159453,
+      "name": "Killing Zone",
+      "url": "https://open.spotify.com/track/4RwTDMkDtNqlmerkrEZS4y"
     },
     {
       "added_at": null,

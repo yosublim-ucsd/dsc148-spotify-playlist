@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "B&E",
+        "url": "https://open.spotify.com/album/1oyiRs3DZGTWgac445z9U3"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127443,
+      "name": "B&E",
+      "url": "https://open.spotify.com/track/3mACxKdKihqX6p1xnSFJUQ"
+    },
+    {
+      "album": {
         "name": "Backslide",
         "url": "https://open.spotify.com/album/7ActXZISNRFX3jBRPcE7XW"
       },
@@ -259,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/3hJDpQSECokkcS6i257uRP"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201580,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/77P2eTdJKtXtyyoByYUyo4"
+    },
+    {
+      "album": {
         "name": "Black & Platinums",
         "url": "https://open.spotify.com/album/3cgZK5L9bK9T1uQu7cVcAY"
       },
@@ -278,6 +314,32 @@
       "duration_ms": 125492,
       "name": "Black & Platinums",
       "url": "https://open.spotify.com/track/4yjiNUbEqrEcM9gpBCSIGb"
+    },
+    {
+      "album": {
+        "name": "Black & Whites",
+        "url": "https://open.spotify.com/album/67eSCwLxuPQZ0jKI373JSt"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220589,
+      "name": "Black & Whites",
+      "url": "https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb"
     },
     {
       "album": {
@@ -951,6 +1013,28 @@
     },
     {
       "album": {
+        "name": "Faces & Names",
+        "url": "https://open.spotify.com/album/0ifINVLYKCk8Cewukskp3F"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Joe Moses",
+          "url": "https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Faces & Names",
+      "url": "https://open.spotify.com/track/1gkKD1l0vQ6ZFqUBro5e9Q"
+    },
+    {
+      "album": {
         "name": "Unstable",
         "url": "https://open.spotify.com/album/5x7wqxTP1TabARqn5RB6UW"
       },
@@ -984,6 +1068,28 @@
       "duration_ms": 126595,
       "name": "Fear No Man",
       "url": "https://open.spotify.com/track/6mdQDcpikCXZhGHSSsG5SI"
+    },
+    {
+      "album": {
+        "name": "TEMPERATURE 1090",
+        "url": "https://open.spotify.com/album/6opAHJdWxeJ3r9WjwjGFfN"
+      },
+      "artists": [
+        {
+          "name": "OnPointLikeOP",
+          "url": "https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v"
+        },
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135442,
+      "name": "Fed Time",
+      "url": "https://open.spotify.com/track/22sdY4aMkCHVAnKvmpuNwX"
     },
     {
       "album": {
@@ -1472,6 +1578,24 @@
       "duration_ms": 135039,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/5Lt20ho1AmhFJt56F1M7dS"
+    },
+    {
+      "album": {
+        "name": "Huh",
+        "url": "https://open.spotify.com/album/3Tk1137meiLG2RwWRNW9wT"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138943,
+      "name": "Huh",
+      "url": "https://open.spotify.com/track/3Qs2H9bSz9bPFVu9yYcOdf"
     },
     {
       "album": {
@@ -2007,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "BACK TO THE BASICS 2",
+        "url": "https://open.spotify.com/album/6HLn9gOY0tNwPBW6A8IwBz"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "matilda",
+      "url": "https://open.spotify.com/track/37Cas67bPJXIuS7qAgSax6"
+    },
+    {
+      "album": {
         "name": "Mean Girl Era",
         "url": "https://open.spotify.com/album/2GyCuFBhreLo52VYaDfPqC"
       },
@@ -2022,6 +2164,24 @@
       "duration_ms": 108000,
       "name": "Mean Girl Era",
       "url": "https://open.spotify.com/track/1oyhhLwrIeYmreTTzDBAhw"
+    },
+    {
+      "album": {
+        "name": "Meet Me In Napa",
+        "url": "https://open.spotify.com/album/6UoEkQJdwkOLYQw3MI0g7b"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160628,
+      "name": "Meet Me In Napa",
+      "url": "https://open.spotify.com/track/6dICrSO1wQgnNGRY9O1YWT"
     },
     {
       "album": {
@@ -2344,6 +2504,24 @@
       "duration_ms": 121690,
       "name": "Rap Saved Me",
       "url": "https://open.spotify.com/track/5JJzfwx67N6HldPk15b1QV"
+    },
+    {
+      "album": {
+        "name": "Real Money",
+        "url": "https://open.spotify.com/album/5MLUGCFI5oUhwWT0c96n7i"
+      },
+      "artists": [
+        {
+          "name": "ShooterGang Kony",
+          "url": "https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Real Money",
+      "url": "https://open.spotify.com/track/0gweVEX4NZLlMStXXbtOVd"
     },
     {
       "album": {
@@ -2777,6 +2955,24 @@
     },
     {
       "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/4Zle90yBm3NjONDtmuutCX"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134920,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0yiP9YTs4J4eQVU5Zc42QL"
+    },
+    {
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/0BM7beWcnm0IPNaJWviZFr"
       },
@@ -2792,6 +2988,24 @@
       "duration_ms": 215009,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/6UiC7IU7ZGC5yk7kK2IwYQ"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/2ltqTkAvRX2n5xfbC6s7ct"
+      },
+      "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198803,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/0yquoP4Aa49aT2n460pbYU"
     },
     {
       "album": {
@@ -3148,6 +3362,28 @@
       "duration_ms": 105130,
       "name": "XPLOSIVE",
       "url": "https://open.spotify.com/track/4Yk97MKGfwL707ASkje7Qf"
+    },
+    {
+      "album": {
+        "name": "XXX",
+        "url": "https://open.spotify.com/album/4cFpJm5EasHk1JXLQJlAbL"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158739,
+      "name": "XXX",
+      "url": "https://open.spotify.com/track/23NCkVILmpLFV6HAe4dOCf"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 309880,
+  "num_followers": 309987,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "You Cannot Be Stopped",
+        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "You Cannot Be Stopped",
+      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Simple Gospel (Live)",
         "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 282050,
       "name": "Nothing Without You",
       "url": "https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "You Cannot Be Stopped",
-        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "You Cannot Be Stopped",
-      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Awaken Love",
-        "url": "https://open.spotify.com/album/5uSSpMIa05OUxsuYat8LvG"
-      },
-      "artists": [
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "As the Deer",
-      "url": "https://open.spotify.com/track/5XlTnOh6vZQxZY4BHrIp5e"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/3YTaNV8mVGWga0h9Ni1wgi"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 188608,
       "name": "Let It Be Known",
       "url": "https://open.spotify.com/track/3bojX1OcJOZwAR1fXcffxV"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Awaken Love",
+        "url": "https://open.spotify.com/album/5uSSpMIa05OUxsuYat8LvG"
+      },
+      "artists": [
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "duration_ms": 283906,
+      "name": "As the Deer",
+      "url": "https://open.spotify.com/track/5XlTnOh6vZQxZY4BHrIp5e"
     },
     {
       "added_at": "2020-06-26 04:02:00",

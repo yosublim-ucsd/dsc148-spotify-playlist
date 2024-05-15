@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Peso Pluma y Arcángel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,141 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,144 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 38 | [AUTOMATIC](https://open.spotify.com/track/5UHTTHMJ0hDTt6DXmlCuTq) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Birat Bitz](https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b), [Kidd Manny](https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8) | [AUTOMATIC](https://open.spotify.com/album/1D3uqtLlSy3YFpgojWYued) | 2:34 |
 | 39 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
 | 40 | [Solo Mírate](https://open.spotify.com/track/6QAT6D16VmI84LUwPOI86K) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Solo Mírate](https://open.spotify.com/album/16HaReMEF1TAMRpy7mPsWO) | 2:00 |
-| 41 | [Flight 0012](https://open.spotify.com/track/1BSCXxXQNrneoZmlUwkcmb) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0012](https://open.spotify.com/album/6NxCjpdKyFvlx62W04vpEI) | 2:15 |
+| 41 | [Flight 0012](https://open.spotify.com/track/1BSCXxXQNrneoZmlUwkcmb) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf) | [Flight 0012](https://open.spotify.com/album/6NxCjpdKyFvlx62W04vpEI) | 2:15 |
 | 42 | [Yo tmb me fui](https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Yo tmb me fui](https://open.spotify.com/album/7GwBFqoSDDKQ0GsqU2MzEo) | 2:21 |
 | 43 | [Tirando Flow Sesh \#8](https://open.spotify.com/track/48LRWkjqh0MuiyQmGkqzgP) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Tirando Flow Sesh \#8](https://open.spotify.com/album/6KVKStSWXUvoZF2ibE643k) | 2:36 |
 | 44 | [777](https://open.spotify.com/track/3a72rKC1wpcoVx6HIpEzRO) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [777](https://open.spotify.com/album/13k2zzqSV0ZCV8tmYGhvSL) | 1:51 |

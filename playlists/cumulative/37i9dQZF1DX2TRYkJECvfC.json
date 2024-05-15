@@ -6650,7 +6650,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 499528,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/01VCUpI3pgLJXDabXHUlyG"
@@ -7974,6 +7974,28 @@
       "duration_ms": 245750,
       "name": "Solid Gold Love",
       "url": "https://open.spotify.com/track/6YzXlsjXVZTwUoKSwHZsuF"
+    },
+    {
+      "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Some Type Of Skin - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7"
     },
     {
       "album": {

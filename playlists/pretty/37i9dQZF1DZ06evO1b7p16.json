@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 37299,
+  "num_followers": 37304,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAACjWQt0bbBGlds9fI8YndJ5",
+  "snapshot_id": "ZkFYAAAAAADvFI+gMs4PTxEsZ22UgpqW",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Set Phasers To Stun",
-      "url": "https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx"
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 251373,
-      "name": "This Photograph Is Proof (I Know You Know)",
-      "url": "https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z"
+      "duration_ms": 183333,
+      "name": "Set Phasers To Stun",
+      "url": "https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 229533,
-      "name": "Number Five With A Bullet",
-      "url": "https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr"
+      "duration_ms": 251373,
+      "name": "This Photograph Is Proof (I Know You Know)",
+      "url": "https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "152",
-        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 192813,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE"
+      "duration_ms": 229533,
+      "name": "Number Five With A Bullet",
+      "url": "https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 192813,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 186466,
       "name": "Bonus Mosh Pt. II",
       "url": "https://open.spotify.com/track/29zr7yJcEHQpCXz8aAZWOb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "152",
-        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Amphetamine Smiles",
-      "url": "https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Amphetamine Smiles",
+      "url": "https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 233866,
       "name": "One-Eighty By Summer",
       "url": "https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "152",
-        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Lightbringer",
-      "url": "https://open.spotify.com/track/4tXjfYEBt6TFR9uw6Dsxpq"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "The Union",
-      "url": "https://open.spotify.com/track/48D2dRzncKoIVYdDBoTR70"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "152",
         "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
       },
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
       "artists": [
         {
@@ -524,9 +524,57 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 206106,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
+      "duration_ms": 168320,
+      "name": "Lightbringer",
+      "url": "https://open.spotify.com/track/4tXjfYEBt6TFR9uw6Dsxpq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Faith (When I Let You Down)",
+      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bullet With Butterfly Wings",
+        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 219963,
+      "name": "Stood A Chance",
+      "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
     },
     {
       "added_at": null,
@@ -563,38 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Is",
-        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 219963,
-      "name": "Stood A Chance",
-      "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bullet With Butterfly Wings",
-        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Bullet With Butterfly Wings",
-      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 213533,
       "name": "New Again",
       "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Faith (When I Let You Down)",
-      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Call Come Running",
-      "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Taking Back Sunday",
         "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 211573,
       "name": "Best Places To Be A Mom",
       "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Call Come Running",
+      "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "This Is All Now",
+      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just Us Two",
         "url": "https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 228638,
       "name": "Just Us Two",
       "url": "https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "This Is All Now",
-      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
     },
     {
       "added_at": null,

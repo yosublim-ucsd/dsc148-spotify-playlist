@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Banda Los Sebastianes y Chiquis en portada.
 
-365 songs - 19 hr 21 min
+366 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Amigos Con Beneficio](https://open.spotify.com/track/5LoB3vdJ2C8rHbCHh1wMAl) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Querer Es Poder](https://open.spotify.com/album/1G3HMEwdPV2ovKDR4ZsO4J) | 3:10 | 2022-02-01 | 2022-10-31 |
 | [Amigos ¿De Quién?](https://open.spotify.com/track/472RYrDoNry11jkmJIWeat) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amigos ¿De Quién?](https://open.spotify.com/album/3RNl5xBdlJA02tSLV3fSeL) | 2:45 | 2022-03-11 | 2022-10-13 |
 | [Amor Clandestino \- Versión Regional Mexicano](https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:47 | 2023-08-25 |  |
+| [Amor De Madre](https://open.spotify.com/track/5pjaJt8dwBADOI2wh8UlJd) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Amor De Madre](https://open.spotify.com/album/64eew81dvSrmbbHeTzMhMj) | 3:50 | 2024-05-10 |  |
 | [Amor En Exceso](https://open.spotify.com/track/25utpSxh8ONIp2JC0GUDd5) | [Nano machado y los keridos](https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL) | [Amor En Exceso](https://open.spotify.com/album/6kwt2RLCMUOtewv5L7Zjk0) | 3:17 | 2024-02-16 | 2024-03-23 |
 | [Amor Limosnero \(En Vivo\)](https://open.spotify.com/track/2tqmeTpYtfTMxofTVUBADN) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Amor Limosnero \(En Vivo\)](https://open.spotify.com/album/2sjyHriIMVMWAGbgdvVo90) | 3:49 | 2023-01-16 | 2023-03-11 |
 | [Amor No Tiene Sexo](https://open.spotify.com/track/3XnSWfa7yEAF5k5CfDAX4U) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Amor No Tiene Sexo](https://open.spotify.com/album/32cveKCOFwSHsr27tQ8ZzB) | 3:02 | 2023-06-23 | 2023-09-18 |
@@ -200,7 +201,7 @@
 | [Me Vale Madre](https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragedias de Mi Pueblo \(Con Banda\)](https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg) | 4:13 | 2022-07-01 | 2023-06-24 |
 | [Me Vas A Comparar](https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Me Vas A Comparar](https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi) | 3:27 | 2023-09-22 |  |
 | [Mentiroso](https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Mentiroso](https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd) | 2:39 | 2023-04-07 | 2023-05-06 |
-| [Mi Destino Es Ser Borracho](https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mi Destino Es Ser Borracho](https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt) | 3:19 | 2023-06-09 |  |
+| [Mi Destino Es Ser Borracho](https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Mi Destino Es Ser Borracho](https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt) | 3:19 | 2023-06-09 | 2024-05-15 |
 | [Mi Ex](https://open.spotify.com/track/64OY74RUbqyz3EpoekFl6g) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Ex](https://open.spotify.com/album/4Wz5Jskrdn5ZzHN9niwBgJ) | 3:20 | 2022-12-23 | 2023-03-11 |
 | [Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca \- En Vivo](https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW), [El Cachorro](https://open.spotify.com/artist/0VPMSg2yfRBQaPP89fwbMM) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 19:47 | 2022-01-28 | 2022-12-24 |
 | [Mientras Me Voy](https://open.spotify.com/track/184ZZoYZ0dyt0lzevDOlKS) | [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Mientras Me Voy](https://open.spotify.com/album/0h2fL4XUbnWEJuJ9sTvzdy) | 2:22 | 2022-07-01 | 2022-07-29 |

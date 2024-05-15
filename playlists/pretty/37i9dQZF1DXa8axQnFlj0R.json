@@ -1,6 +1,6 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 82373,
+  "num_followers": 82364,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200755,
       "name": "Autumn Leaves - Deluxe Edition",
       "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "That's Just The Way It Is, Babe",
         "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 208253,
       "name": "That\u2019s Just The Way It Is, Babe",
       "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Last Smoke Before The Snowstorm (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1oAx8M5qYzQgffkqfopYbm"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Francis Leftwich",
-          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
-        }
-      ],
-      "duration_ms": 177433,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/1oMA7iNgQb2Wu30k5kaBBL"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Look Mom I Made It",
         "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 179213,
       "name": "Look Mom I Made It",
       "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Last Smoke Before The Snowstorm (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1oAx8M5qYzQgffkqfopYbm"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Francis Leftwich",
+          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+        }
+      ],
+      "duration_ms": 177433,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1oMA7iNgQb2Wu30k5kaBBL"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "all in good Time,",
-        "url": "https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh"
-      },
-      "artists": [
-        {
-          "name": "Torri Weidinger",
-          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
-        }
-      ],
-      "duration_ms": 301278,
-      "name": "all in good Time,",
-      "url": "https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Crazymad, For Me",
         "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 181280,
       "name": "Vincent Kompany",
       "url": "https://open.spotify.com/track/3KDiKwicNYfZiOw0wZqTp6"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "all in good Time,",
+        "url": "https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh"
+      },
+      "artists": [
+        {
+          "name": "Torri Weidinger",
+          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
+        }
+      ],
+      "duration_ms": 301278,
+      "name": "all in good Time,",
+      "url": "https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Moonflowers (Binaural Acoustic Version)",
-        "url": "https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 183734,
-      "name": "Moonflowers (Binaural Acoustic Version)",
-      "url": "https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Vanilla Sky",
         "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 236800,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Moonflowers (Binaural Acoustic Version)",
+        "url": "https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 183734,
+      "name": "Moonflowers (Binaural Acoustic Version)",
+      "url": "https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ"
     },
     {
       "added_at": "2023-12-01 16:37:09",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Amy Grant. Los temas esenciales, todos en una lista.",
-  "num_followers": 17173,
+  "description": "This is Amy Grant. The essential tracks, all in one playlist.",
+  "num_followers": 17176,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAADYtGNA4I61K59MpVcZRvXe",
+  "snapshot_id": "ZkFYAAAAAADBpOwGEaduXohcHxqeIqvc",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 248346,
-      "name": "El-Shaddai",
-      "url": "https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
@@ -163,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart In Motion (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/10TrG0LzNwYP8nvAckpPtD"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Baby Baby - 7\" No Getting Over You Mix",
-      "url": "https://open.spotify.com/track/3SkVJ7vpdmLSWPgnGTPqsW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Straight Ahead (Remastered)",
         "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
       },
@@ -215,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somewhere Down The Road",
+        "url": "https://open.spotify.com/album/0JUPgkd0kgGqVxVAZTEsKY"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 222396,
+      "name": "Better Than A Hallelujah",
+      "url": "https://open.spotify.com/track/6RlliUfY8hTxnaK85e6D5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Age To Age",
         "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 197106,
       "name": "Sing Your Praise To The Lord",
       "url": "https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Every Heartbeat",
+      "url": "https://open.spotify.com/track/55lX3vm1G35mUpawXHK5Te"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "I Will Remember You",
-      "url": "https://open.spotify.com/track/76crWZqaiFzlTPGzNtT4w1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age To Age",
         "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 196301,
       "name": "I Have Decided",
       "url": "https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/76crWZqaiFzlTPGzNtT4w1"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Loft",
-        "url": "https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 222021,
-      "name": "We Believe In God",
-      "url": "https://open.spotify.com/track/4u09rUwk4uT9oHvtWNLXah"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age To Age",
         "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 262880,
       "name": "In A Little While",
       "url": "https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Loft",
+        "url": "https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 222021,
+      "name": "We Believe In God",
+      "url": "https://open.spotify.com/track/4u09rUwk4uT9oHvtWNLXah"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/1uOZiApWGltQPqdd4dIAwC"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 239373,
-      "name": "Thy Word",
-      "url": "https://open.spotify.com/track/2CzFh0q2eO1xBRyB7IsFbm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lead Me On",
         "url": "https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX"
       },
@@ -715,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "Raining On The Inside",
-      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Belong",
         "url": "https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ"
       },
@@ -747,6 +711,42 @@
       "duration_ms": 205333,
       "name": "I Belong",
       "url": "https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "Raining On The Inside",
+      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/1uOZiApWGltQPqdd4dIAwC"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 239373,
+      "name": "Thy Word",
+      "url": "https://open.spotify.com/track/2CzFh0q2eO1xBRyB7IsFbm"
     },
     {
       "added_at": null,

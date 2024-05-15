@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 ### [This Is Mac Júlia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fXqHm)
 
-> This is Mac Júlia\. Todos os maiores hits em uma só playlist.
+> This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,316 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 35 | [Olha Bebê](https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 3:44 |
 | 36 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
 | 37 | [Ranger Preta](https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:35 |
-| 38 | [Macetada Forte](https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az) | [Eu & Elas](https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6) | 2:10 |
-| 39 | [Salto Alto](https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:37 |
+| 38 | [Salto Alto](https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:37 |
+| 39 | [Macetada Forte](https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az) | [Eu & Elas](https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6) | 2:10 |
 | 40 | [Tudo Acontece Lá na Favela](https://open.spotify.com/track/66dKLOLPJK0ubuhlRlhD3T) | [DJ IGOR SANCHEZ](https://open.spotify.com/artist/6CdxiVkuXz0UwHvYr1TVAO), [Daan Mc](https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Vitin LC](https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR) | [Tudo Acontece Lá na Favela](https://open.spotify.com/album/5MF7SoKuLGukuJekMQ2Mjh) | 2:03 |
 | 41 | [Bitch](https://open.spotify.com/track/4SaKtdmM5FihfO4LInrsXy) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 2:17 |
 | 42 | [Clap Clap](https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66) | [Dj Hugo CS](https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DALÃMA](https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6) | [Clap Clap](https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Love Me Two Times](https://open.spotify.com/track/7j19DBFzaXdIRRtWjvulBk) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:04 |
 | 50 | [Medley](https://open.spotify.com/track/6FA0auhg0L75rRKIoYwpAx) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:26 |
 
-Snapshot ID: `ZkAGgAAAAAD9tFAZJ80+RuKIYUqNK+gy`
+Snapshot ID: `ZkFYAAAAAABrBRt9/Jn23pWgQynh3YjO`

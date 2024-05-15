@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Post Malone, Morgan Wallen
 
-628 songs - 1 day 10 hr 29 min
+629 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-21 | 2022-09-30 |
 | [Growing Old Young](https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:26 | 2021-12-30 | 2022-03-05 |
 | [Guitar & A Suitcase](https://open.spotify.com/track/59Er5XFfEdfPQcsEdwdvrb) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [The Heartland EP](https://open.spotify.com/album/7ihEHyfbFjHfLrrGeKOgvN) | 3:15 | 2023-10-12 | 2023-12-20 |
+| [Had To Be There](https://open.spotify.com/track/3AibB8ZzNrqLeXuLYj6oql) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Had To Be There](https://open.spotify.com/album/1hfo3fHdWWQ2UWlsJj3SoF) | 3:03 | 2024-05-15 |  |
 | [Half the Man](https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Half the Man](https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3) | 3:02 | 2023-06-15 | 2023-08-11 |
 | [Hangman](https://open.spotify.com/track/3dxV4eUBtvui9zXQVJvQna) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Hangman](https://open.spotify.com/album/3laNVBvsT0PqqTCKupEwDD) | 3:14 | 2022-08-25 | 2022-12-16 |
 | [Happy Hurts](https://open.spotify.com/track/79odnhnVWU9uEE3XAQhTo3) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Deluxe\)](https://open.spotify.com/album/7xY5v6aZvo4YZBOZSJbrDa) | 3:14 | 2024-02-15 |  |
@@ -365,7 +366,7 @@
 | [Neon Cowgirl](https://open.spotify.com/track/4ktoN9vInbzJXXaSSlngng) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:30 | 2023-09-14 | 2024-02-23 |
 | [Never Give Up On A Good Time](https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Never Give Up On A Good Time](https://open.spotify.com/album/7n8ypK3KRGbAVtH2NcXZBA) | 3:17 | 2023-08-31 | 2024-02-23 |
 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-30 | 2022-01-07 |
-| [Newtown](https://open.spotify.com/track/2SD9kZplmzNf9SpOIMkjXp) | [Bud Rokesky](https://open.spotify.com/artist/1UJ1coJeMJWb3tEgAXKv67) | [Volume 02: Newtown](https://open.spotify.com/album/6YfT4xzOoLICoFYuqYGCGD) | 3:29 | 2024-04-05 |  |
+| [Newtown](https://open.spotify.com/track/2SD9kZplmzNf9SpOIMkjXp) | [Bud Rokesky](https://open.spotify.com/artist/1UJ1coJeMJWb3tEgAXKv67) | [Volume 02: Newtown](https://open.spotify.com/album/6YfT4xzOoLICoFYuqYGCGD) | 3:29 | 2024-04-05 | 2024-05-15 |
 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 | 2023-03-09 | 2023-09-15 |
 | [Night Needs You](https://open.spotify.com/track/7z56QYtQNduD3QJY9QEcSn) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Night Needs You](https://open.spotify.com/album/0b0b4BY7NwWDG2XxOA5BkL) | 3:22 | 2022-06-23 | 2022-09-30 |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-03-31 | 2022-08-12 |

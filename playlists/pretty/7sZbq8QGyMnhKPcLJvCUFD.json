@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 733879,
+  "num_followers": 733886,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAWMVzh8mU4QyWHjakg2mekOgT6NrP6",
+  "snapshot_id": "AAAWM65z0UVa6ZcVpYdOYa7duQmgoxWl",
   "tracks": [
     {
       "added_at": "2024-04-29 16:49:16",
@@ -283,6 +283,30 @@
       "duration_ms": 197485,
       "name": "Why We Lose",
       "url": "https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF"
+    },
+    {
+      "added_at": "2024-05-14 09:44:36",
+      "album": {
+        "name": "Donna",
+        "url": "https://open.spotify.com/album/74ZkPwSHC1mBie6JyuopR5"
+      },
+      "artists": [
+        {
+          "name": "Soundy",
+          "url": "https://open.spotify.com/artist/3b7sLRj01Y93l1Dn186h0W"
+        },
+        {
+          "name": "Sander M\u00f6lder",
+          "url": "https://open.spotify.com/artist/2Ol461nHrkjAefbr0wL2Cm"
+        },
+        {
+          "name": "maria kallastu",
+          "url": "https://open.spotify.com/artist/6kSiYWWt4597uZNH0Cpjig"
+        }
+      ],
+      "duration_ms": 166567,
+      "name": "Donna",
+      "url": "https://open.spotify.com/track/54KnvD2w1kvcGNod1IWGU5"
     },
     {
       "added_at": "2024-05-09 09:26:39",
@@ -1835,54 +1859,6 @@
       "duration_ms": 189375,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1LRFdWqintP46UIkC33YhL"
-    },
-    {
-      "added_at": "2024-04-29 16:49:16",
-      "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/4gfTtzR8BV1LFHyWWfOM2Q"
-      },
-      "artists": [
-        {
-          "name": "PLVTO",
-          "url": "https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH"
-        }
-      ],
-      "duration_ms": 191221,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/27jSC6b62mY4cKfkWuiQBu"
-    },
-    {
-      "added_at": "2024-04-29 16:49:16",
-      "album": {
-        "name": "RPM",
-        "url": "https://open.spotify.com/album/5KEbT5Sa0y4KwErRykgbqW"
-      },
-      "artists": [
-        {
-          "name": "JOXION",
-          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "RPM",
-      "url": "https://open.spotify.com/track/3JmYbk1udLndnD6Q3AbeU4"
-    },
-    {
-      "added_at": "2024-04-29 16:49:16",
-      "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/0496ctErDNGeGhddpJTQct"
-      },
-      "artists": [
-        {
-          "name": "Sam Day",
-          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
-        }
-      ],
-      "duration_ms": 158389,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/4ie0uWnLS3xv5ZBiFFdO8K"
     }
   ],
   "unique_name": "NCS Releases",

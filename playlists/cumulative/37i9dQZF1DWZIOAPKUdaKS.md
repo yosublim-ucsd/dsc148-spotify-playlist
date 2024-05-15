@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-769 songs - 1 day 9 hr 15 min
+770 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Fugazy](https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Fugazy](https://open.spotify.com/album/7MVVUbmETVZkVsve5NOBM2) | 2:32 | 2021-12-07 | 2022-04-21 |
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-02-15 | 2022-10-25 |
 | [Gentle](https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr) | [Lennox Cole](https://open.spotify.com/artist/4ZJ87FCTeqG6E14EkGqXpi) | [Gentle](https://open.spotify.com/album/4MVDKPNV0q07arvLobByMW) | 2:12 | 2021-12-07 | 2023-05-04 |
+| [Give Me Love](https://open.spotify.com/track/4iQvog1874l8QQsOuzPMW6) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Give Me Love](https://open.spotify.com/album/0zSP1ER1taYJi00AMyD9S1) | 2:21 | 2024-05-14 |  |
 | [Glades](https://open.spotify.com/track/5X6BWVCR7MyuefPUhw6FQP) | [Thomas Klak](https://open.spotify.com/artist/7ofbQA5JDWflBqWWilSxdE) | [Glades](https://open.spotify.com/album/5rUsv2zi6txxNZltZi87iQ) | 2:18 | 2022-10-13 |  |
 | [Glendale Walk](https://open.spotify.com/track/30bKGGrB4CdUU1FrhDbjE8) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Glendale Walk](https://open.spotify.com/album/5foJvhdGbJtArvZjVzl7ER) | 3:07 | 2021-12-07 | 2022-10-25 |
 | [Glänta](https://open.spotify.com/track/3VF1j2dGIyKpymo10lG2G5) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Glänta](https://open.spotify.com/album/6vDY52DtIonyQ4O52463we) | 2:54 | 2021-12-07 | 2022-07-20 |

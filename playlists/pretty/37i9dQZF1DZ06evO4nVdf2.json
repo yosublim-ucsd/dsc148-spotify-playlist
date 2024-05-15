@@ -1,12 +1,12 @@
 {
-  "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 59101,
+  "description": "This Is Ximena Sari\u00f1ana. Los temas esenciales, todos en una lista.",
+  "num_followers": 59110,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAADV4RfGhaTnD9rO0usBUtSH",
+  "snapshot_id": "ZkFYAAAAAAC6U2957K7FH+RLd8BgNOyA",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 245062,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realismo M\u00e1gico",
         "url": "https://open.spotify.com/album/0MUX7s8aRLGMdu5A7Yoe7P"
       },
@@ -523,22 +507,6 @@
       "duration_ms": 198800,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/2xH2NbJUNxdFwW3QE1NzIw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP"
     },
     {
       "added_at": null,
@@ -851,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 218479,
+      "name": "No S\u00e9 (feat. Girl Ultra)",
+      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Carisma",
         "url": "https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n"
       },
@@ -927,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 228906,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba Pintada",
         "url": "https://open.spotify.com/album/4aq6JOU5CaorKccaLlzxAi"
       },
@@ -963,6 +931,26 @@
       "duration_ms": 210480,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/4zZU1HHT7TcfluhNFfIyLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
     },
     {
       "added_at": null,
@@ -1071,6 +1059,26 @@
       "duration_ms": 228640,
       "name": "La Vida No Es F\u00e1cil",
       "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 174996,
+      "name": "Explosion",
+      "url": "https://open.spotify.com/track/4eBlUQDIOPxkvkQpFJURY0"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

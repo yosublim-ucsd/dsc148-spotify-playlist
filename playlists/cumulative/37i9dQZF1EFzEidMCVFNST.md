@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-370 songs - 17 hr 37 min
+371 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Se Quer Saber \- Ao Vivo](https://open.spotify.com/track/4y4Xx3472fggyagdjTSq1k) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Retrô \(Ao Vivo\)](https://open.spotify.com/album/0jR2WWbLRPJ30QhB2uGs9b) | 2:49 | 2024-01-29 |  |
 | [Se Quiser Melhorar](https://open.spotify.com/track/2GDBzFMJaokCDXWTc8edqL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos, EP3](https://open.spotify.com/album/3kEAw83xB24KyNKuLhjz1m) | 3:25 | 2024-01-29 |  |
 | [Se Você Quer Saber \- Ao Vivo](https://open.spotify.com/track/5L19TD5q5rQPvzScbRgexq) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Day Off \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/6ivOIYe02m1mnaJhBcLith) | 2:54 | 2024-01-29 |  |
+| [Sem Querer Bebendo](https://open.spotify.com/track/7vF1hkvVDgPANldNKUTmsM) | [Mateuz M7](https://open.spotify.com/artist/007crq5snynGRn6kUTU4ww) | [Do Piseiro ao Pagodin](https://open.spotify.com/album/2pRsNZMtfIo5N574fuelhw) | 2:48 | 2024-05-14 |  |
 | [Sem Sal \- Ao Vivo](https://open.spotify.com/track/0EZuXcsnjEmGuRYdFdcctX) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:42 | 2024-01-29 |  |
 | [Sem Sentimento Nenhum](https://open.spotify.com/track/3bIHaq2rziiZyL6xVm7FSG) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Prazer, Eu Sou Kadu Martins](https://open.spotify.com/album/6W4vZKpjvAx1a9BwncWue8) | 2:27 | 2024-01-29 |  |
 | [Sem Você Não Dá](https://open.spotify.com/track/48woc5D6BzV78fjYAxLgRE) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Histórias](https://open.spotify.com/album/1gnE9BymF9RCgdF8gI8VhL) | 2:36 | 2024-01-29 |  |

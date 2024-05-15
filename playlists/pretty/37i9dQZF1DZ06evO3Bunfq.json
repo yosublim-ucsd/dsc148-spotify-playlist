@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 104464,
+  "num_followers": 104529,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAACj5zXR5tv4wNR8aAPnGmpT",
+  "snapshot_id": "ZkFYAAAAAABmjRFTPYAYlGm9dRP3LMle",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,34 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
+        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
+      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
     },
     {
       "added_at": null,
@@ -871,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAKATA",
-        "url": "https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        },
-        {
-          "name": "Kami Mami",
-          "url": "https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG"
-        }
-      ],
-      "duration_ms": 252221,
-      "name": "PLAKATA",
-      "url": "https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -915,6 +919,30 @@
       "duration_ms": 269714,
       "name": "Polvo Blanco",
       "url": "https://open.spotify.com/track/0pLOQYM1WMrlNtQedapWTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLAKATA",
+        "url": "https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Kami Mami",
+          "url": "https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG"
+        }
+      ],
+      "duration_ms": 252221,
+      "name": "PLAKATA",
+      "url": "https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV"
     },
     {
       "added_at": null,
@@ -971,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Mala Vibra",
-      "url": "https://open.spotify.com/track/5iP4QSHomTFVp1GFA80KfQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -1003,6 +1015,22 @@
       "duration_ms": 175208,
       "name": "Seguimos Controlando",
       "url": "https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Mala Vibra",
+      "url": "https://open.spotify.com/track/5iP4QSHomTFVp1GFA80KfQ"
     },
     {
       "added_at": null,

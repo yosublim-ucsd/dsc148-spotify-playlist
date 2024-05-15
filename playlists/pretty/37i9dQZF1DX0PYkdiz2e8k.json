@@ -1,6 +1,6 @@
 {
   "description": "\"i just have to trust myself\" \u2234 W \u2234 Foto: WILLOW",
-  "num_followers": 112980,
+  "num_followers": 112970,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Children In The Dark",
+        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 178842,
+      "name": "Children In The Dark",
+      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "under (feat. phem)",
         "url": "https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 137926,
       "name": "under (feat. phem)",
       "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Children In The Dark",
-        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 178842,
-      "name": "Children In The Dark",
-      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Even When I\u2019m Not With You",
+        "url": "https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Even When I\u2019m Not With You",
+      "url": "https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "Backtrack",
         "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Even When I\u2019m Not With You",
-        "url": "https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Even When I\u2019m Not With You",
-      "url": "https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC"
     }
   ],
   "unique_name": "do rockeeee",

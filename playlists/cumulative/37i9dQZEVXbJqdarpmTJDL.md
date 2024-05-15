@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,600 songs - 3 day 13 hr 23 min
+1,601 songs - 3 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,7 +627,7 @@
 | [Houston](https://open.spotify.com/track/3sXw2NwMojGaVJEsS7Jz59) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Homesick](https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R) | 3:18 | 2024-04-26 | 2024-05-13 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-15 |
 | [Hroma](https://open.spotify.com/track/74dlWhbyR61UafvcXIrOZr) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Haik22](https://open.spotify.com/artist/6AaNjxYvjOLb6iLbhxVWbh), [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Rackattack](https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3) | 2:58 | 2021-05-21 | 2021-06-20 |
-| [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-13 |  |
+| [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-13 | 2024-05-15 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-09 |
 | [Hustla](https://open.spotify.com/track/6qz9ENCPWflD7aAeltENLV) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Hustla](https://open.spotify.com/album/2xRR72aoHfiE9f0MJJ2uK8) | 3:54 | 2021-09-04 | 2021-09-05 |
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-01 |
@@ -942,6 +942,7 @@
 | [Mili](https://open.spotify.com/track/4FMfbom8BeocIBepxkzTqK) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Mili](https://open.spotify.com/album/572GS5o3ykTew37kiCGC0l) | 3:07 | 2022-07-30 | 2022-08-28 |
 | [Millennials](https://open.spotify.com/track/5wNRurwIKQPsMPbK4erXUu) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [Melow](https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61), [Kamer](https://open.spotify.com/artist/620TTTc8HGtTDHTvOhjIIm) | [Millennials](https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc) | 3:34 | 2024-03-30 | 2024-04-02 |
 | [MILLION](https://open.spotify.com/track/1dYcj4cAs1MSv5MfGeO9Me) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [GRANDE](https://open.spotify.com/album/1ZtlohrNT1VkoAvEVZ6doh) | 2:18 | 2024-02-15 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-14 |  |
 | [Millionaire](https://open.spotify.com/track/01Y0KGT7VzixtLyOj44x56) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [TOPBOY](https://open.spotify.com/album/6y1IrK4qfYlztsk6qvGnra) | 2:35 | 2021-03-27\* | 2022-01-17 |
 | [Min Fovasai Otan Peftw](https://open.spotify.com/track/04KUjzv6JXAfl3Rfg4oLVM) | [Novel 729](https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo), [Kazal](https://open.spotify.com/artist/1FhY0lBSZSzM8jcV0lqaLR) | [Min Fovasai Otan Peftw](https://open.spotify.com/album/0XwPAo8edGjFDYP9iiErHs) | 3:40 | 2022-02-19 | 2022-02-21 |
 | [Mina Ögon /Ta Matia Moy](https://open.spotify.com/track/6ZEcwUfqgQ22Ole6Vs2WyB) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Jo Lids](https://open.spotify.com/artist/57PaF8eOKR71jL7xlMSUhe) | [Mina Ögon /Ta Matia Moy](https://open.spotify.com/album/4pHDbLGWSwbcVCxhFtLoih) | 3:00 | 2023-08-11 | 2023-11-19 |

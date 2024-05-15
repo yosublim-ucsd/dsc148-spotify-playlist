@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "launch vehicle",
+        "url": "https://open.spotify.com/album/1r7XrSzQJd50l51HVlF6nn"
+      },
+      "artists": [
+        {
+          "name": "\u4e45\u4fdd\u7530\u6d69\u4e4b",
+          "url": "https://open.spotify.com/artist/1arJsPrLXAObBWwJQ9RJ6p"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355368,
+      "name": "Close your eyes",
+      "url": "https://open.spotify.com/track/2pyx2yLAgfv6S6JEZhz5Bi"
+    },
+    {
+      "album": {
         "name": "Confirmation",
         "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
       },
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 247800,
       "name": "Spartacus",
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"

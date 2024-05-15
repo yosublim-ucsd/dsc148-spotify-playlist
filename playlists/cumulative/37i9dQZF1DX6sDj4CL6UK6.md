@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Mali and Yohan Marshall
 
-297 songs - 17 hr 7 min
+298 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Mustard Yellow](https://open.spotify.com/track/2lY8B9x9JyQI6SVyp9OdtL) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Mustard Yellow](https://open.spotify.com/album/7BECaIEpCKN0iFmnm8KxWp) | 4:04 | 2022-03-25 | 2022-05-26 |
 | [Mutual](https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Mutual](https://open.spotify.com/album/5zjzWWpPmYwZVTTHXOL3Vy) | 2:35 | 2022-03-25 | 2023-05-24 |
 | [Never](https://open.spotify.com/track/1gfzJ5dFmiciUmt1DXt4ty) | [Sukruth Mallesh](https://open.spotify.com/artist/51tevckKFOo3yISAc0JDh1) | [Never](https://open.spotify.com/album/5Dok14CF9Vg7F9J6NNpohN) | 3:08 | 2022-07-08 | 2023-01-13 |
+| [Never Too Far](https://open.spotify.com/track/22oPuQf99VwEEfaaSYxeSM) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Never Too Far](https://open.spotify.com/album/1QIaH463YykeWPEXofTY9V) | 5:50 | 2024-05-14 |  |
 | [New \- Acoustic Version](https://open.spotify.com/track/5vEDeWEBfFNwrDH098Q74K) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [New \(Acoustic Version\)](https://open.spotify.com/album/59toSyJnnH2jlKafDkMQbA) | 4:51 | 2023-08-11 | 2023-08-26 |
 | [No Ordinary](https://open.spotify.com/track/3ACxPaQSNKz4WG2V79hOjT) | [Peekay](https://open.spotify.com/artist/2QRt3WqRMTnQXu6mgGnqKl) | [Starlight](https://open.spotify.com/album/07N9VGEwgaTgx7jlxLO4VJ) | 3:39 | 2023-11-24 | 2023-12-14 |
 | [No Vices](https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw) | [Jaimin](https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv), [Kadambari Zokarkar](https://open.spotify.com/artist/0UnbYjdU25HiOZxpZUwXKF), [Pradyumna Singh Manot](https://open.spotify.com/artist/1zD7QQJJWPfBChpd4gr3lC), [Charles Parker Mertens](https://open.spotify.com/artist/37XAa84VecRp01Z1vXzeF0), [Anchit Sengupta](https://open.spotify.com/artist/0xXWeEnk4wmJbpVodBad2i), [Arjun Chakraborty](https://open.spotify.com/artist/5nt7xhqFyfYtZtOrnuBAlX) | [No Vices](https://open.spotify.com/album/0kDN3Si9tTnOahUBSheCfq) | 4:24 | 2024-04-24 | 2024-05-11 |
@@ -209,7 +210,7 @@
 | [overtime](https://open.spotify.com/track/4MJYvBnXIXwmZN1yu7nOzR) | [Swara](https://open.spotify.com/artist/7j7FC2Jc8WKNv20nEFV1Rq) | [overtime](https://open.spotify.com/album/0VIx5lKDjAyGNcKL7weifN) | 2:32 | 2023-12-15 | 2024-05-11 |
 | [Paper Boats](https://open.spotify.com/track/4Js7oC6qWF8UgZgnBBVDfO) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Gouri and Aksha](https://open.spotify.com/artist/2pEp8Qlef5Pj2KHSE61zrF) | [Paper Boats](https://open.spotify.com/album/2zFL0B15XOryvnMv5QyVyI) | 3:47 | 2022-09-02 | 2023-01-13 |
 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 | 2022-03-25 |  |
-| [Peace Lily](https://open.spotify.com/track/1SASOKMlkabWVo1SwZdzDA) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1YNZ0OwZKqDwMXtAjhtTlc) | 3:45 | 2024-05-10 |  |
+| [Peace Lily](https://open.spotify.com/track/1SASOKMlkabWVo1SwZdzDA) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1YNZ0OwZKqDwMXtAjhtTlc) | 3:45 | 2024-05-10 | 2024-05-15 |
 | [Peace Lily](https://open.spotify.com/track/3J6IUkgWkqlORllGp9duP2) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1jqOENuop4JBbq5SeaOm2X) | 3:45 | 2023-02-24 | 2023-05-24 |
 | [People](https://open.spotify.com/track/0lygeGFALYsTrHXi6yThOK) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [People \- Single](https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS) | 3:08 | 2022-03-25 | 2023-05-24 |
 | [Perfect Life](https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [Perfect Life](https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5) | 4:02 | 2023-03-03 |  |

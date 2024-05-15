@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Masdo",
-  "num_followers": 20259,
+  "num_followers": 20269,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-04-26 02:46:23",
       "album": {
-        "name": "Tunjukkan Cintamu",
-        "url": "https://open.spotify.com/album/471UN0LAKx502jYoNdmaaD"
-      },
-      "artists": [
-        {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        }
-      ],
-      "duration_ms": 139208,
-      "name": "Tunjukkan Cintamu",
-      "url": "https://open.spotify.com/track/3ScPXAJUcWHeJFuY1PC1Cc"
-    },
-    {
-      "added_at": "2024-04-26 02:46:23",
-      "album": {
         "name": "Lagipula Hidup Akan Berakhir",
         "url": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 266330,
       "name": "Cincin",
       "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
+    },
+    {
+      "added_at": "2024-04-26 02:46:23",
+      "album": {
+        "name": "Tunjukkan Cintamu",
+        "url": "https://open.spotify.com/album/471UN0LAKx502jYoNdmaaD"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        }
+      ],
+      "duration_ms": 139208,
+      "name": "Tunjukkan Cintamu",
+      "url": "https://open.spotify.com/track/3ScPXAJUcWHeJFuY1PC1Cc"
     }
   ],
   "unique_name": "OTW ",

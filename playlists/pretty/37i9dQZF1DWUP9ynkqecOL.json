@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 22165,
+  "num_followers": 22171,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "DUALQ",
-        "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Otnicka",
-          "url": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
-        }
-      ],
-      "duration_ms": 235142,
-      "name": "DUALQ",
-      "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Sin darle motivo (Derrok Remix)",
         "url": "https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 328602,
       "name": "Sin darle motivo - Derrok Remix",
       "url": "https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "DUALQ",
+        "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Otnicka",
+          "url": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
+        }
+      ],
+      "duration_ms": 235142,
+      "name": "DUALQ",
+      "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Bailarin",
-        "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
       },
       "artists": [
         {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
         }
       ],
-      "duration_ms": 217030,
-      "name": "Bailarin",
-      "url": "https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz"
+      "duration_ms": 290760,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
+        "name": "Bailarin",
+        "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
       },
       "artists": [
         {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
         }
       ],
-      "duration_ms": 290760,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
+      "duration_ms": 217030,
+      "name": "Bailarin",
+      "url": "https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Templo Andino",
-        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e4nica Elemental",
-          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Templo Andino",
-      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Camino a la Templanza",
         "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 263424,
       "name": "Uni\u00f3n de los Amantes",
       "url": "https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Templo Andino",
+        "url": "https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e4nica Elemental",
+          "url": "https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Templo Andino",
+      "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Se que no Vas a Volver",
+      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Adi\u00f3s pueblito de Iruya (Guaz\u00fa Remix)",
         "url": "https://open.spotify.com/album/0sZm8op6Q2Q8dQlKuW6R2V"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 270666,
       "name": "Adi\u00f3s pueblito de Iruya - Guaz\u00fa Remix",
       "url": "https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Se que no Vas a Volver",
-      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 325933,
-      "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Telesita",
         "url": "https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 264323,
       "name": "Telesita",
       "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 325933,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n de Agua",
-        "url": "https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        },
-        {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
-        }
-      ],
-      "duration_ms": 263428,
-      "name": "Coraz\u00f3n de Agua",
-      "url": "https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Que Bailen",
         "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 314009,
       "name": "Que Bailen",
       "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n de Agua",
+        "url": "https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        },
+        {
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+        }
+      ],
+      "duration_ms": 263428,
+      "name": "Coraz\u00f3n de Agua",
+      "url": "https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy"
     },
     {
       "added_at": "2024-03-29 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Let these Latin hits guide you through your daily commute!",
-  "num_followers": 221003,
+  "num_followers": 221013,
   "original_name": "Latin Drive",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
-    },
-    {
-      "added_at": "2024-05-01 15:54:58",
-      "album": {
         "name": "Ojos Verdes",
         "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 142410,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "added_at": "2024-05-01 15:54:58",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
     },
     {
       "added_at": "2024-05-01 15:54:58",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
-    },
-    {
-      "added_at": "2024-05-01 15:54:58",
-      "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
       },
@@ -963,22 +947,18 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
-        "name": "mimos",
-        "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
       },
       "artists": [
         {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 186373,
-      "name": "mimos",
-      "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2024-05-01 15:54:58",
@@ -1015,6 +995,26 @@
       "duration_ms": 165760,
       "name": "Me Arriesgo Contigo",
       "url": "https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI"
+    },
+    {
+      "added_at": "2024-05-01 15:54:58",
+      "album": {
+        "name": "mimos",
+        "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "mimos",
+      "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
     },
     {
       "added_at": "2024-05-01 15:54:58",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
+        "name": "ES SOLO M\u00daSICA",
+        "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 173741,
+      "name": "Desconocido",
+      "url": "https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH"
+    },
+    {
+      "added_at": "2024-05-01 15:54:58",
+      "album": {
         "name": "FINAL (Vol.2)",
         "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
-        "name": "ES SOLO M\u00daSICA",
-        "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
       },
       "artists": [
         {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 173741,
-      "name": "Desconocido",
-      "url": "https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH"
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "added_at": "2024-05-01 15:54:58",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+        "name": "Sobreviviste",
+        "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 172125,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+      "duration_ms": 186760,
+      "name": "Sobreviviste",
+      "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
     },
     {
       "added_at": "2024-05-01 15:54:58",
@@ -1191,22 +1207,6 @@
       "duration_ms": 210533,
       "name": "Cero condiciones",
       "url": "https://open.spotify.com/track/7IUYqO7R6U71VIcaFdTs5m"
-    },
-    {
-      "added_at": "2024-05-01 15:54:58",
-      "album": {
-        "name": "Sobreviviste",
-        "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Sobreviviste",
-      "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
     },
     {
       "added_at": "2024-05-01 15:54:58",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
+        "name": "Ley universal",
+        "url": "https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 189838,
+      "name": "Ley universal",
+      "url": "https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ"
+    },
+    {
+      "added_at": "2024-05-01 15:54:58",
+      "album": {
         "name": "LAS BABYS",
         "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
-    },
-    {
-      "added_at": "2024-05-01 15:54:58",
-      "album": {
-        "name": "Ley universal",
-        "url": "https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 189838,
-      "name": "Ley universal",
-      "url": "https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ"
     },
     {
       "added_at": "2024-05-01 15:54:58",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
-    },
-    {
-      "added_at": "2024-05-01 15:54:58",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 186186,
       "name": "Luz",
       "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
+    },
+    {
+      "added_at": "2024-05-01 15:54:58",
+      "album": {
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
     },
     {
       "added_at": "2024-05-01 15:54:58",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
-        "name": "Nuestro A\u00f1o",
-        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+        "name": "Tuvimos Futuro",
+        "url": "https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k"
       },
       "artists": [
         {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 189821,
-      "name": "Nuestro A\u00f1o",
-      "url": "https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ"
+      "duration_ms": 211030,
+      "name": "Tuvimos Futuro",
+      "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
     },
     {
       "added_at": "2024-05-01 15:54:58",
@@ -1747,18 +1743,22 @@
     {
       "added_at": "2024-05-01 15:54:58",
       "album": {
-        "name": "Tuvimos Futuro",
-        "url": "https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k"
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 211030,
-      "name": "Tuvimos Futuro",
-      "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
+      "duration_ms": 189821,
+      "name": "Nuestro A\u00f1o",
+      "url": "https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ"
     },
     {
       "added_at": "2024-05-01 15:54:58",

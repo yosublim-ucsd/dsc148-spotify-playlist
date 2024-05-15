@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-176 songs - 10 hr 5 min
+177 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Hair Style \(feat\. DON MALIK & Hannah\)](https://open.spotify.com/track/5Wwr9KJMb6QrF8CxeFp1RH) | [Iamdl](https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Hannah](https://open.spotify.com/artist/1b8P5suIziOrGu4ot9gfzV) | [CHAPTER 1](https://open.spotify.com/album/1fCeGGR50gRbs1k0saKDJU) | 3:23 | 2022-06-20 | 2022-09-17 |
 | [HALFTIME](https://open.spotify.com/track/6P17rw7TZhpAZpGGhP7YPp) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 4:15 | 2022-05-11 | 2022-07-26 |
 | [HANNAH](https://open.spotify.com/track/2Z4Ou528DLw61yUR2jAsuI) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j) | [Hannah](https://open.spotify.com/album/3muvhUWEyFNqZ77wUwUFYl) | 3:31 | 2022-05-11 | 2022-07-20 |
-| [highskool](https://open.spotify.com/track/0e6w146xpghQJvTIlSdm3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:28 | 2022-06-03 |  |
+| [highskool](https://open.spotify.com/track/0e6w146xpghQJvTIlSdm3C) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:28 | 2022-06-03 | 2024-05-15 |
 | [Human fever](https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 1:33 | 2022-05-11 |  |
 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 | 2022-05-11 |  |
 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 | 2022-05-11 |  |
@@ -95,6 +95,7 @@
 | [Jazztext](https://open.spotify.com/track/770OKFkhuymVE3g2l9Ci3F) | [IKYO](https://open.spotify.com/artist/0pI8Vy1QRwQPVFFDVjuT49) | [Jazztext](https://open.spotify.com/album/32ljwHV48VSWXQq6uJjMj0) | 4:03 | 2022-05-11 | 2022-07-13 |
 | [Jean Jacket \(Feat\. Geegooin\)](https://open.spotify.com/track/6eUPB3noow0nUIwJ69rND9) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:09 | 2022-07-22 | 2022-07-29 |
 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 | 2022-05-11 |  |
+| [Ladidadi!](https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Ladidadi](https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM) | 2:03 | 2024-05-14 |  |
 | [Leica](https://open.spotify.com/track/5HGb06uR7zYFCADrkZ6ech) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 2:38 | 2022-05-11 | 2022-07-29 |
 | [Leica \(Feat\. KIM SAWOL\)](https://open.spotify.com/track/2gatbbWP4sb3ASVCQH2nPN) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 2:38 | 2022-07-22 | 2024-04-19 |
 | [Let's Not Love Each Other](https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 4:02 | 2022-05-11 |  |

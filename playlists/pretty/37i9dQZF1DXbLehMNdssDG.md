@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,681 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,757 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 47 | [Dream Spheres](https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Dream Spheres](https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD) | 4:25 |
 | 48 | [Vibrant Energy \- 174 Hz](https://open.spotify.com/track/7zYi5z2q3YlvGgGY4ldY4w) | [Tristão T](https://open.spotify.com/artist/6eLJZ8lP3vwQmeq4lgJbNZ) | [Vibrant Energy](https://open.spotify.com/album/0upFaesBpyaa1WSmeVRxLU) | 1:55 |
 | 49 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 |
-| 50 | [Blue Skies \(174 Hz\)](https://open.spotify.com/track/2gXD7eSRbKOQgwggkcSsuB) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Blue Skies \(174 Hz\)](https://open.spotify.com/album/4EVCcEzQekL26my2vfBuis) | 3:03 |
+| 50 | [My Peaceful Place](https://open.spotify.com/track/2Ob5ISfTg1mv3z7Cw1gKoH) | [Ferdinand Alcindor](https://open.spotify.com/artist/34hLcin0RFl40JtsQ2bzLD) | [My Peaceful Place](https://open.spotify.com/album/3iaHC58x7pJTkc8N3FnTwZ) | 5:24 |
 
 Snapshot ID: `ZdTF8AAAAACakcsTyY9Ey7IXCJ8iPYJa`

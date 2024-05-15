@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This is Deftones. The essential tracks, all in one playlist.",
+  "description": "This Is Deftones. Los temas esenciales, todos en una lista.",
   "name": "This Is Deftones",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 207752,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo"

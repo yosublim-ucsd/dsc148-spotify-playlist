@@ -2,7 +2,7 @@
 
 ### [This Is Terry Riley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wmvjq)
 
-> This Is Terry Riley\. Los temas esenciales, todos en una lista.
+> This is Terry Riley\. The essential tracks, all in one playlist.
 
 169 songs - 23 hr 17 min
 
@@ -40,7 +40,7 @@
 | [Chorale of the Blessed Day](https://open.spotify.com/track/4D7PdsN9vnlJTKVhg7m7dg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:26 | 2022-05-29 | 2022-11-25 |
 | [Church of Anthrax](https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 9:05 | 2022-05-29 |  |
 | [Conversation with the Sirocco](https://open.spotify.com/track/4RFcJpJZt6NorK6jLAK2kM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 7:05 | 2023-02-12 | 2023-07-27 |
-| [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 | 2022-05-29 | 2024-05-14 |
+| [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 | 2022-05-29 |  |
 | [Danzero](https://open.spotify.com/track/6s5fuddspiuGL9jY4G66Oc) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Paul Dresher Ensemble](https://open.spotify.com/artist/59OLF0W5mXpXwjfnAhpIWF) | [Banana Humberto](https://open.spotify.com/album/4F8QZyltxqZJXe7UtvWGBY) | 13:20 | 2023-02-24 | 2023-07-26 |
 | [Dark Queen](https://open.spotify.com/track/5GGEurc6TiBvLliZJhiNvG) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7) | 13:47 | 2023-03-26 | 2023-03-28 |
 | [Das Buch der Klange: Das Buch der Klange \(The Book of Sounds\): Part VII](https://open.spotify.com/track/53lI8tTFMSCJwWszHtaL4A) | [Hans Otte](https://open.spotify.com/artist/5MS1W3dYe51MSv2tKSwnyt), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Piano Music \- Fricke, F\. / Otte, H\. / Hamel, P.M\. / Gurdjieff, G.I\. / Hartmann, T\. De / Scriabin, A\. / Riley, T\. \(Keys of Life\)](https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs) | 8:44 | 2024-03-12 | 2024-03-31 |
@@ -91,7 +91,7 @@
 | [Madrigal](https://open.spotify.com/track/1E9IYK88nHDOAo4HlyBlgl) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Julian Wachner](https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH), [Choir of Trinity Wall Street](https://open.spotify.com/artist/1KBoKfkaxjSKZsmD9XCg3B) | [Archangels](https://open.spotify.com/album/1lSLVobRXUgHQsrZD0xobC) | 9:04 | 2024-04-19 | 2024-04-23 |
 | [Marley Bell](https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Marley Bell](https://open.spotify.com/album/54M5KG5jozhKKSW73EFJ30) | 0:43 | 2022-05-29 |  |
 | [Medusa's Refrain \- part 1](https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Krishna Bhatt](https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 2:51 | 2022-11-04 | 2023-06-06 |
-| [Medusa's Refrain \- part 2](https://open.spotify.com/track/4xnZoswv0vqs7mha4B07qj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Krishna Bhatt](https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 3:35 | 2023-06-14 |  |
+| [Medusa's Refrain \- part 2](https://open.spotify.com/track/4xnZoswv0vqs7mha4B07qj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Krishna Bhatt](https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 3:35 | 2023-06-14 | 2024-05-15 |
 | [Mescalin Mix](https://open.spotify.com/track/7mTROQlWx85ApkDS2J04UJ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 14:22 | 2022-08-12 | 2022-10-12 |
 | [Mongolian Winds](https://open.spotify.com/track/1wfGXIrX2G5phhvHdiMVdm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 6:49 | 2023-02-13 | 2023-02-22 |
 | [Mongolian Winds](https://open.spotify.com/track/4OoC4jry1EgM5M7jMmRto1) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The Padova Concert](https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW) | 8:40 | 2022-10-16 | 2023-05-23 |

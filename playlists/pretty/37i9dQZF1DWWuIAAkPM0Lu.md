@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:4ysmSq2N7badobfVT6YZ82">Gobs</a> giver dig fuld pop på New Music Friday☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,353 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,359 likes - 102 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 96 | [Down](https://open.spotify.com/track/5CuLjDzqnoL5z3AvGWkWh7) | [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg), [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Down](https://open.spotify.com/album/6YWbIU11cfOqyHMeNGiQZo) | 2:51 |
 | 97 | [Just A Little](https://open.spotify.com/track/7syg0s6LG9GLGH3kkUZZOq) | [Hydawai](https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7) | [Just A Little](https://open.spotify.com/album/7j02KMe4ZyOtmnAxQwi8lS) | 2:38 |
 | 98 | [FUKINASTY](https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 2:57 |
-| 99 | [Branded Dinosaur](https://open.spotify.com/track/7iILPvb4orsRyjeLAQzmAQ) | [The Tremolo Beer Gut](https://open.spotify.com/artist/1eQXpCboliMWa6VxBtCx1W) | [Branded Dinosaur](https://open.spotify.com/album/56AuX3ac83u64K0JRZ8VlY) | 2:05 |
-| 100 | [jumpstart](https://open.spotify.com/track/7LV0TisqbubR9CgnflZemg) | [ST\. NIKLAS](https://open.spotify.com/artist/7mxHelaegCfkVGFRBKzIQb) | [jumpstart](https://open.spotify.com/album/0aaofZbpeZ8DHOKoTU2ElT) | 2:31 |
-| 101 | [Bats In The Attic](https://open.spotify.com/track/7eO8ZZP0vHusQnMx2ldw3w) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Bats in the Attic](https://open.spotify.com/album/35CX1zpnwfY2BJrqxQP8T0) | 4:46 |
+| 99 | [My Dear Rat Kings](https://open.spotify.com/track/4f19ilacpJII4k91nQiHYN) | [Ghost Iris](https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka) | [My Dear Rat Kings](https://open.spotify.com/album/6CWn3QyCDxitE94RWGQxS6) | 3:48 |
+| 100 | [Branded Dinosaur](https://open.spotify.com/track/7iILPvb4orsRyjeLAQzmAQ) | [The Tremolo Beer Gut](https://open.spotify.com/artist/1eQXpCboliMWa6VxBtCx1W) | [Branded Dinosaur](https://open.spotify.com/album/56AuX3ac83u64K0JRZ8VlY) | 2:05 |
+| 101 | [jumpstart](https://open.spotify.com/track/7LV0TisqbubR9CgnflZemg) | [ST\. NIKLAS](https://open.spotify.com/artist/7mxHelaegCfkVGFRBKzIQb) | [jumpstart](https://open.spotify.com/album/0aaofZbpeZ8DHOKoTU2ElT) | 2:31 |
+| 102 | [Bats In The Attic](https://open.spotify.com/track/7eO8ZZP0vHusQnMx2ldw3w) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Bats in the Attic](https://open.spotify.com/album/35CX1zpnwfY2BJrqxQP8T0) | 4:46 |
 
 Snapshot ID: `Zj5sTAAAAAAmpfz/cHrLz5NaNPXfT8bm`

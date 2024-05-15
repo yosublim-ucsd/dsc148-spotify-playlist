@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176547,
+  "num_followers": 176562,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "L'ultima notte",
-        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 157566,
-      "name": "L'ultima notte",
-      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "Non Avere Paura",
         "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 247478,
       "name": "Non Avere Paura",
       "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "L'ultima notte",
+        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "duration_ms": 157566,
+      "name": "L'ultima notte",
+      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Un'emozione per sempre",
-      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 249417,
       "name": "Questa nostra stupida canzone d'amore",
       "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Unica",
-        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
-      },
-      "artists": [
-        {
-          "name": "Antonello Venditti",
-          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Unica",
-      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "Stanza Singola",
         "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
         }
       ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+      "duration_ms": 234600,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -667,6 +651,22 @@
       "duration_ms": 239693,
       "name": "Anche Fragile",
       "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Lucio Dalla",
-        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
+        "name": "Grazie",
+        "url": "https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi"
       },
       "artists": [
         {
-          "name": "Lucio Dalla",
-          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+          "name": "Gianna Nannini",
+          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Anna E Marco",
-      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
+      "duration_ms": 270346,
+      "name": "Sei nell'anima",
+      "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
     },
     {
       "added_at": "2024-01-17 10:21:34",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-01-17 10:21:34",
       "album": {
-        "name": "Buon Sangue",
-        "url": "https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 271320,
-      "name": "Mi Fido Di Te",
-      "url": "https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0"
-    },
-    {
-      "added_at": "2024-01-17 10:21:34",
-      "album": {
         "name": "La Vasca",
         "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 176373,
       "name": "Una Su 1.000.000",
       "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
+    },
+    {
+      "added_at": "2024-01-17 10:21:34",
+      "album": {
+        "name": "Lucio Dalla",
+        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
+      },
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Anna E Marco",
+      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
     }
   ],
   "unique_name": "Amore Davvero",

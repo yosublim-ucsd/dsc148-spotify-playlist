@@ -1,12 +1,12 @@
 {
   "description": "The hottest songs you need to listen to right now. Cover: Stray Kids",
-  "num_followers": 2276038,
+  "num_followers": 2276404,
   "original_name": "It's a Hit!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkGE9QAAAACB/Cw/OSVGMiMVn+sas6Co",
+  "snapshot_id": "ZkLbTwAAAABswyJ+Ltw8c3h0Sl64N5UU",
   "tracks": [
     {
       "added_at": "2024-05-13 03:11:49",
@@ -255,6 +255,22 @@
       "duration_ms": 140638,
       "name": "take the hit",
       "url": "https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7"
+    },
+    {
+      "added_at": "2024-05-14 03:32:31",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "added_at": "2024-05-13 03:11:49",
@@ -775,22 +791,6 @@
       "duration_ms": 141139,
       "name": "Psychic",
       "url": "https://open.spotify.com/track/3W3hv87iiFb57tXdmtoF9a"
-    },
-    {
-      "added_at": "2024-05-13 03:11:49",
-      "album": {
-        "name": "you're my moon",
-        "url": "https://open.spotify.com/album/5yhf2O5NFeNgRCeZ9RksHJ"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "you're my moon",
-      "url": "https://open.spotify.com/track/565nq6yHIdPS05v42NpabQ"
     },
     {
       "added_at": "2024-05-13 03:11:49",

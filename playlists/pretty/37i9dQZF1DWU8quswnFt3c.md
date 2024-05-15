@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Nilüfer
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,883 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,976 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 16 | [Taxidi](https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB) | [Marina Spanou](https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz) | [Mia Kaseta Gia Ton Dromo](https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg) | 4:52 |
 | 17 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 |
 | 18 | [niepoprawny numer](https://open.spotify.com/track/1qQBmFKklewJcXs2RKDiyJ) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [niepoprawny numer](https://open.spotify.com/album/6tXyS48SrYdVv5IALccmMM) | 3:08 |
-| 19 | [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 |
-| 20 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
+| 19 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
+| 20 | [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 |
 | 21 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 |
 | 22 | [Memory](https://open.spotify.com/track/0I3cUqffwmH2mMUHIfpC0l) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Memories](https://open.spotify.com/album/3VrSsM3HH8cubywpIFj4Gr) | 3:55 |
 | 23 | [Fyge \- Reworks](https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Reworks](https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF) | 3:51 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [Mashup: Hoa Nở Không Màu & Bông Hoa Đẹp Nhất](https://open.spotify.com/track/7lTWTesY1sXVIYjJaCoyIy) | [Thu Phương](https://open.spotify.com/artist/3LsIDqxwDjcEKbK3D1IrDk), [Huyền Baby](https://open.spotify.com/artist/5bMwwJZX9bBFAMTbqIHig7), [Trang Pháp](https://open.spotify.com/artist/3Ovt66opVihLuIvPhlceI6), [Ninh Dương Lan Ngọc](https://open.spotify.com/artist/1XO2u0sx6W0yNLUYZmPPmq), [Diệu Nhi](https://open.spotify.com/artist/2mpSmbp35mvG7ig3cg1jEj) | [Mashup: Hoa Nở Không Màu & Bông Hoa Đẹp Nhất](https://open.spotify.com/album/7pAK1iJrMvvPfZmjGRjddp) | 4:45 |
 | 41 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 |
 | 42 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
-| 43 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 |
-| 44 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |
+| 43 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |
+| 44 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 |
 | 45 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
 | 46 | [Gond](https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Rubin](https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg) | 3:04 |
 | 47 | [wet](https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [PYRADISE](https://open.spotify.com/album/03o19ATQdj6d9484CuLG2y) | 2:53 |

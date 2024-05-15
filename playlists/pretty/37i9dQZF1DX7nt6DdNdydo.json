@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 50723,
+  "num_followers": 50762,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
+      },
+      "artists": [
+        {
+          "name": "Vernon Dilworth",
+          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
+      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 190706,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Shorty",
-        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
-      },
-      "artists": [
-        {
-          "name": "Vernon Dilworth",
-          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
-      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
     },
     {
       "added_at": "2022-03-28 19:44:25",

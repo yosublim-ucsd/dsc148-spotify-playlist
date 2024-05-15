@@ -1,13 +1,225 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23885,
+  "num_followers": 23886,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAlHqaA3IPnDqzCZHxrKxTxuZBtKMn9",
+  "snapshot_id": "AAAlL5/L3T/7+WtUGGlLAdbe1UkCPDAk",
   "tracks": [
+    {
+      "added_at": "2024-05-15 00:19:07",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/2ltqTkAvRX2n5xfbC6s7ct"
+      },
+      "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        }
+      ],
+      "duration_ms": 198803,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/0yquoP4Aa49aT2n460pbYU"
+    },
+    {
+      "added_at": "2024-05-15 00:18:58",
+      "album": {
+        "name": "Meet Me In Napa",
+        "url": "https://open.spotify.com/album/6UoEkQJdwkOLYQw3MI0g7b"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 160628,
+      "name": "Meet Me In Napa",
+      "url": "https://open.spotify.com/track/6dICrSO1wQgnNGRY9O1YWT"
+    },
+    {
+      "added_at": "2024-05-15 00:19:16",
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/4Zle90yBm3NjONDtmuutCX"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0yiP9YTs4J4eQVU5Zc42QL"
+    },
+    {
+      "added_at": "2024-05-15 00:18:51",
+      "album": {
+        "name": "XXX",
+        "url": "https://open.spotify.com/album/4cFpJm5EasHk1JXLQJlAbL"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 158739,
+      "name": "XXX",
+      "url": "https://open.spotify.com/track/23NCkVILmpLFV6HAe4dOCf"
+    },
+    {
+      "added_at": "2024-05-15 00:19:23",
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/3hJDpQSECokkcS6i257uRP"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 201580,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/77P2eTdJKtXtyyoByYUyo4"
+    },
+    {
+      "added_at": "2024-05-15 00:19:31",
+      "album": {
+        "name": "Huh",
+        "url": "https://open.spotify.com/album/3Tk1137meiLG2RwWRNW9wT"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 138943,
+      "name": "Huh",
+      "url": "https://open.spotify.com/track/3Qs2H9bSz9bPFVu9yYcOdf"
+    },
+    {
+      "added_at": "2024-05-15 00:19:42",
+      "album": {
+        "name": "Black & Whites",
+        "url": "https://open.spotify.com/album/67eSCwLxuPQZ0jKI373JSt"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Black & Whites",
+      "url": "https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb"
+    },
+    {
+      "added_at": "2024-05-15 00:20:11",
+      "album": {
+        "name": "BACK TO THE BASICS 2",
+        "url": "https://open.spotify.com/album/6HLn9gOY0tNwPBW6A8IwBz"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "matilda",
+      "url": "https://open.spotify.com/track/37Cas67bPJXIuS7qAgSax6"
+    },
+    {
+      "added_at": "2024-05-15 00:22:16",
+      "album": {
+        "name": "TEMPERATURE 1090",
+        "url": "https://open.spotify.com/album/6opAHJdWxeJ3r9WjwjGFfN"
+      },
+      "artists": [
+        {
+          "name": "OnPointLikeOP",
+          "url": "https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v"
+        },
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        }
+      ],
+      "duration_ms": 135442,
+      "name": "Fed Time",
+      "url": "https://open.spotify.com/track/22sdY4aMkCHVAnKvmpuNwX"
+    },
+    {
+      "added_at": "2024-05-15 00:22:27",
+      "album": {
+        "name": "Faces & Names",
+        "url": "https://open.spotify.com/album/0ifINVLYKCk8Cewukskp3F"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Joe Moses",
+          "url": "https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Faces & Names",
+      "url": "https://open.spotify.com/track/1gkKD1l0vQ6ZFqUBro5e9Q"
+    },
+    {
+      "added_at": "2024-05-15 00:22:37",
+      "album": {
+        "name": "Real Money",
+        "url": "https://open.spotify.com/album/5MLUGCFI5oUhwWT0c96n7i"
+      },
+      "artists": [
+        {
+          "name": "ShooterGang Kony",
+          "url": "https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Real Money",
+      "url": "https://open.spotify.com/track/0gweVEX4NZLlMStXXbtOVd"
+    },
+    {
+      "added_at": "2024-05-15 00:22:48",
+      "album": {
+        "name": "B&E",
+        "url": "https://open.spotify.com/album/1oyiRs3DZGTWgac445z9U3"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 127443,
+      "name": "B&E",
+      "url": "https://open.spotify.com/track/3mACxKdKihqX6p1xnSFJUQ"
+    },
     {
       "added_at": "2024-04-24 23:13:56",
       "album": {

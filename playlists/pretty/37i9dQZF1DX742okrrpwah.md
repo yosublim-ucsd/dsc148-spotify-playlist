@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Camila Cabello au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,572 likes - 74 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,596 likes - 74 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 34 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 |
 | 35 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
 | 36 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
-| 37 | [NIA](https://open.spotify.com/track/0AbzakHSsWSxBG7fX9WQqa) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BOUNCE MUSIC](https://open.spotify.com/album/2I9mP6p47fTSUq4q8ZoXKq) | 1:38 |
+| 37 | [NIA](https://open.spotify.com/track/0AbzakHSsWSxBG7fX9WQqa) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BOUNCE MUSIC](https://open.spotify.com/album/2I9mP6p47fTSUq4q8ZoXKq) | 1:35 |
 | 38 | [Freestyle Impact \#1](https://open.spotify.com/track/4LFYf0BRs0GGAk3KS7M7rY) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j) | [Freestyle Impact \#1](https://open.spotify.com/album/5zQpfuOTVBTnZQuFOtTHEe) | 3:10 |
 | 39 | [Peligrosa](https://open.spotify.com/track/4ryaMHFEQNuYeiyb0TdjUk) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Peligrosa](https://open.spotify.com/album/6xOOoW12k17QueY7SMUHu0) | 3:44 |
 | 40 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 |

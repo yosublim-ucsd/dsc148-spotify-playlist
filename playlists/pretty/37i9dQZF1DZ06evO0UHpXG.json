@@ -1,12 +1,12 @@
 {
-  "description": "This is Mot\u00f6rhead. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 188870,
+  "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
+  "num_followers": 188925,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAADpPhVOEs4Sh7IShqYf8D7x",
+  "snapshot_id": "ZkFYAAAAAADnOgXcggbrkje7RqH1Bmc3",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1916",
-        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+        "name": "Overnight Sensation",
+        "url": "https://open.spotify.com/album/1JmTrg7IxFirYtV1S3yKSi"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 149026,
-      "name": "Going To Brazil",
-      "url": "https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr"
+      "duration_ms": 391693,
+      "name": "I Don't Believe a Word",
+      "url": "https://open.spotify.com/track/4oxS9mNh1GideHUkcEWFYC"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overnight Sensation",
-        "url": "https://open.spotify.com/album/1JmTrg7IxFirYtV1S3yKSi"
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 391693,
-      "name": "I Don't Believe a Word",
-      "url": "https://open.spotify.com/track/4oxS9mNh1GideHUkcEWFYC"
+      "duration_ms": 149026,
+      "name": "Going To Brazil",
+      "url": "https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remorse? No!",
+        "url": "https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Jailbait - Alternate Version",
+      "url": "https://open.spotify.com/track/115fUjg8giH0dg58hNGvbO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
       },
@@ -800,25 +816,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 211346,
-      "name": "Jailbait - Alternate Version",
-      "url": "https://open.spotify.com/track/115fUjg8giH0dg58hNGvbO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under C\u00f6ver",
-        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 199499,
-      "name": "God Save The Queen",
-      "url": "https://open.spotify.com/track/0ZuyXUQM2yAFIbmTOTXAbi"
+      "duration_ms": 187733,
+      "name": "Poison - Demo",
+      "url": "https://open.spotify.com/track/6xrcOs22BVv4VK8ukRytQz"
     }
   ],
   "unique_name": "This Is Mot\u00f6rhead",

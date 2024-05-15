@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "AD MAIORA",
+        "url": "https://open.spotify.com/album/1CZ4pNhFPSrIXN1wsFquKB"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218399,
+      "name": "AD MAIORA",
+      "url": "https://open.spotify.com/track/1J1aiUqufKfs5FsAW9XCyk"
+    },
+    {
+      "album": {
         "name": "ADDERALL",
         "url": "https://open.spotify.com/album/72kD6unk8C2Fw2T7KDFfiA"
       },
@@ -4886,7 +4904,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 156447,
       "name": "HOODRICH",
       "url": "https://open.spotify.com/track/2TMF4ZxPrOncQiJ9KVXD3f"

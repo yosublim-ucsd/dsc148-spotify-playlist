@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,744 likes - 575 songs - 1 day 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,748 likes - 575 songs - 1 day 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 40 | [Levon](https://open.spotify.com/track/0aJfFLl0grcQS7euiIp0ni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 5:22 |
 | 41 | [The One](https://open.spotify.com/track/2stzPKoUdtHcA4LlEu2ayw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:53 |
 | 42 | [I Want Love](https://open.spotify.com/track/5rnMgctZxjKDNdqrVqg7Bm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:35 |
-| 43 | [It’s Tough To Be A God](https://open.spotify.com/track/3ShH8e55JcqKOml54qOsI0) | [Annapantsu](https://open.spotify.com/artist/35F1mMoQtTvOb35oKONHuK) | [Love Story](https://open.spotify.com/album/1NCo4VyBrJNR4eSfNQdOcV) | 2:37 |
+| 43 | [It's Tough to Be a God](https://open.spotify.com/track/2t0nVICxwGvSitSAdhLz68) | [Annapantsu](https://open.spotify.com/artist/1z6xb7fWEynx9m92JVA8ZR), [Elsie Lovelock](https://open.spotify.com/artist/2FwUfnGsFBk5lOEMdtl7bN) | [It's Tough to Be a God](https://open.spotify.com/album/3rfNrm03k8ID2syONLS0HK) | 2:37 |
 | 44 | [Candle In The Wind 1997](https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Candle In The Wind 1997 / Something About ...](https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ) | 4:10 |
 | 45 | [\(I'm Gonna\) Love Me Again](https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Rocketman \(Music From The Motion Picture\)](https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8) | 4:10 |
 | 46 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:41 |
@@ -314,8 +314,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 304 | [Dark Diamond](https://open.spotify.com/track/6k4aQRWQonqxfW5AZ3iKNa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:26 |
 | 305 | [The Captain and The Kid](https://open.spotify.com/track/1dUO9PDSYxb1UERmWYycPi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:01 |
 | 306 | [I've Seen The Saucers \- Remastered 1995](https://open.spotify.com/track/15FemTRww0eSTvhcAH2Lu3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:48 |
-| 307 | [American Triangle](https://open.spotify.com/track/6mCmViyyn4V3Teh5M6LUuU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:49 |
-| 308 | [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 |
+| 307 | [Cry](https://open.spotify.com/track/0kb42sln40xKrX5wgwU1ak) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Cry](https://open.spotify.com/album/0O35a57sTTUEI2sid9EPQa) | 3:15 |
+| 308 | [American Triangle](https://open.spotify.com/track/6mCmViyyn4V3Teh5M6LUuU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:49 |
 | 309 | [Belfast](https://open.spotify.com/track/7tiHWkAxAOeqEkFxQ31MhA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 6:30 |
 | 310 | [Black Icy Stare](https://open.spotify.com/track/0f7MOangrvhpeIHoOJVSJL) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 3:11 |
 | 311 | [Val\-Hala](https://open.spotify.com/track/7jnhwBXKy8G3vLlptKp45D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:11 |
@@ -330,10 +330,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 320 | [And The House Fell Down](https://open.spotify.com/track/1232dpQqtpxSs6IXaLOum3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:48 |
 | 321 | [Foreign Fields](https://open.spotify.com/track/02WdMVW1qkcKiAJwuH8o9h) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:33 |
 | 322 | [Look Ma, No Hands](https://open.spotify.com/track/07p0uEk2UznuI56V5Xly3B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:22 |
-| 323 | [Holy Moly](https://open.spotify.com/track/6L8XA0NcRcgsJBXKxXXGwe) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 2:08 |
+| 323 | [Western Ford Gateway](https://open.spotify.com/track/1Z7m7TZgy7Nd0MpvEws7hT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:15 |
 | 324 | [Ballad Of The Boy In The Red Shoes](https://open.spotify.com/track/56Jp9FRrfp3MlGAjizURPY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:51 |
-| 325 | [All Quiet On The Western Front \- Remastered 2003](https://open.spotify.com/track/3Hsyqlz2VCeMi39JYkFX3k) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 6:07 |
-| 326 | [Western Ford Gateway](https://open.spotify.com/track/1Z7m7TZgy7Nd0MpvEws7hT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:15 |
+| 325 | [Holy Moly](https://open.spotify.com/track/6L8XA0NcRcgsJBXKxXXGwe) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 2:08 |
+| 326 | [All Quiet On The Western Front \- Remastered 2003](https://open.spotify.com/track/3Hsyqlz2VCeMi39JYkFX3k) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 6:07 |
 | 327 | [Postcards From Richard Nixon](https://open.spotify.com/track/7L8zxqQAWBUea5CGpRo8OM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 5:15 |
 | 328 | [Earn While You Learn](https://open.spotify.com/track/6fXCYDVsvwhL7HlaSWoM14) | [Lord Choc Ice](https://open.spotify.com/artist/2Jf2fY8K4N4CFihlvZZzFl) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 6:46 |
 | 329 | [Sweat It Out](https://open.spotify.com/track/7tuP0f0jiZT7fHg3VyDDrJ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 6:38 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbRQVAAAAAB4oS7gBsGxJWcdDMtVHguC`
+Snapshot ID: `AbRV9AAAAABOLCTtETejyWyNy0ar+p2+`

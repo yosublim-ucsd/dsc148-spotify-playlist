@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 240348,
+  "num_followers": 240367,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-04-26 10:05:43",
       "album": {
-        "name": "Kuch Kuch Hota Hai",
-        "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 381706,
-      "name": "Ladki Badi Anjani Hai",
-      "url": "https://open.spotify.com/track/6f3C6rJo7zvmfr1h5SRvxg"
-    },
-    {
-      "added_at": "2024-04-26 10:05:43",
-      "album": {
         "name": "Dil To Pagal Hai",
         "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 336117,
       "name": "Dil To Pagal Hai",
       "url": "https://open.spotify.com/track/5itw0WzsobhLXyxUuAj8OQ"
+    },
+    {
+      "added_at": "2024-04-26 10:05:43",
+      "album": {
+        "name": "Kuch Kuch Hota Hai",
+        "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 381706,
+      "name": "Ladki Badi Anjani Hai",
+      "url": "https://open.spotify.com/track/6f3C6rJo7zvmfr1h5SRvxg"
     },
     {
       "added_at": "2024-04-26 10:05:43",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-04-26 10:05:43",
       "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Anu Malik",
-          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
-        }
-      ],
-      "duration_ms": 468293,
-      "name": "Ye Kaali Kaali Aankhen",
-      "url": "https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG"
-    },
-    {
-      "added_at": "2024-04-26 10:05:43",
-      "album": {
         "name": "Dilwale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 353880,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3rsx3pDYM3a08O0Yu3Tq6V"
+    },
+    {
+      "added_at": "2024-04-26 10:05:43",
+      "album": {
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "duration_ms": 468293,
+      "name": "Ye Kaali Kaali Aankhen",
+      "url": "https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG"
     },
     {
       "added_at": "2024-04-26 10:05:43",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-04-26 10:05:43",
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        }
+      ],
+      "duration_ms": 338593,
+      "name": "Mere Naam Tu",
+      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
+    },
+    {
+      "added_at": "2024-04-26 10:05:43",
+      "album": {
         "name": "Dilwale Dulhania Le Jayenge",
         "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 302093,
       "name": "Tujhe Dekha To",
       "url": "https://open.spotify.com/track/6dFQ3W3xuG4ll7cNjIsN2Q"
-    },
-    {
-      "added_at": "2024-04-26 10:05:43",
-      "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        }
-      ],
-      "duration_ms": 338593,
-      "name": "Mere Naam Tu",
-      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
     },
     {
       "added_at": "2024-04-26 10:05:43",
@@ -907,26 +907,22 @@
     {
       "added_at": "2024-04-26 10:05:43",
       "album": {
-        "name": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV"
+        "name": "Yes Boss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
       "artists": [
         {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
         },
         {
           "name": "Alka Yagnik",
           "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 347453,
-      "name": "Tumhi Dekho Naa",
-      "url": "https://open.spotify.com/track/2ILhVeTkbDAYEvesCCBsNo"
+      "duration_ms": 266066,
+      "name": "Ek Din Aap",
+      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
     },
     {
       "added_at": "2024-04-26 10:05:43",
@@ -951,22 +947,26 @@
     {
       "added_at": "2024-04-26 10:05:43",
       "album": {
-        "name": "Yes Boss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
+        "name": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV"
       },
       "artists": [
         {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
         },
         {
           "name": "Alka Yagnik",
           "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 266066,
-      "name": "Ek Din Aap",
-      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
+      "duration_ms": 347453,
+      "name": "Tumhi Dekho Naa",
+      "url": "https://open.spotify.com/track/2ILhVeTkbDAYEvesCCBsNo"
     },
     {
       "added_at": "2024-04-26 10:05:43",

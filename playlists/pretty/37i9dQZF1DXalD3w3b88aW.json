@@ -99,6 +99,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 94440,
+      "name": "Use Your Heart - Interlude",
+      "url": "https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 75800,
       "name": "Wavy (Interlude) (feat. James Fauntleroy)",
       "url": "https://open.spotify.com/track/3LcoHjgdNl4xtWVaJGSA1p"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 94440,
-      "name": "Use Your Heart - Interlude",
-      "url": "https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 42693,
-      "name": "Intermission-lude",
-      "url": "https://open.spotify.com/track/0bakfb6K3L9A4Sn7W648Gj"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 70253,
       "name": "Drown in It",
       "url": "https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 42693,
+      "name": "Intermission-lude",
+      "url": "https://open.spotify.com/track/0bakfb6K3L9A4Sn7W648Gj"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Take Me Apart",
-        "url": "https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 72043,
-      "name": "Bluff",
-      "url": "https://open.spotify.com/track/3j7zwRLw8QEbYoOhSE0AOd"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "You Should Be Here",
         "url": "https://open.spotify.com/album/34JNly8P6uZRKTGnmmLNAt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 137848,
       "name": "Runnin' - Interlude",
       "url": "https://open.spotify.com/track/0dYDmow4l5hbPs5E6QLMSC"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Take Me Apart",
+        "url": "https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 72043,
+      "name": "Bluff",
+      "url": "https://open.spotify.com/track/3j7zwRLw8QEbYoOhSE0AOd"
     },
     {
       "added_at": "2022-12-03 05:29:16",

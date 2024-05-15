@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,542 likes - 100 songs - 5 hr 8 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,541 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 24 | [Paper Thin](https://open.spotify.com/track/7c2IApOeLTZfrB5dVScRUP) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tom DeLonge](https://open.spotify.com/artist/5h7oZ7t5CU9lst1mIrjp3R), [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [Paper Thin](https://open.spotify.com/album/1URt4b8uzVuqXU7R9H4EXA) | 3:17 |
 | 25 | [Pantheon](https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT) | 4:32 |
 | 26 | [Jupiter](https://open.spotify.com/track/2YqQuA533pZ411aKXVw2VH) | [SRNDE](https://open.spotify.com/artist/09GI3XFxh5aCMcTDm5sqFB) | [Jupiter](https://open.spotify.com/album/2qaEfvH8nBhRnNUduoCr3A) | 2:53 |
-| 27 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 |
+| 27 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 |
 | 28 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 |
 | 29 | [Don't Hide](https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV) | [Don't Hide](https://open.spotify.com/album/1VZCKNtlvWJSejzfZZs9xB) | 2:37 |
 | 30 | [Because Of You](https://open.spotify.com/track/4B1aqIZbCTtEvM0hGzv9EG) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr) | [Because Of You](https://open.spotify.com/album/1jtuYTrpnltK4WaZI59L9c) | 2:23 |

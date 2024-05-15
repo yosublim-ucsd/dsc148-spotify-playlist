@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=jTSkWGyPQEyp5bSnVk6kDQ>Sio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,071 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,113 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

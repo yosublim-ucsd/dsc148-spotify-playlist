@@ -4,7 +4,7 @@
 
 > 
 
-1,365 songs - 3 day 3 hr 3 min
+1,366 songs - 3 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [Invisible Frenzy](https://open.spotify.com/album/1uQPEvw9oSv4niki6vEF6T) | 2:15 | 2023-03-04 |  |
 | [Iris](https://open.spotify.com/track/3jC4rOjmY2WrrKBUED3fs7) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx) | [Iris](https://open.spotify.com/album/7LpVj7InmRSfSP55rHJaZB) | 4:14 | 2022-11-24 |  |
 | [It Aint Over](https://open.spotify.com/track/0UIvHRL1LGb2c5jexJwlbF) | [Ganar](https://open.spotify.com/artist/6jGbHJaRDL90wuvkhYmgGL), [JDH](https://open.spotify.com/artist/3LfpQGTvZO3RixOY89GDgB) | [It Ain't Over](https://open.spotify.com/album/2FJMX3lLTdkacQxKQRFvEY) | 4:29 | 2021-11-30 |  |
+| [It's a Bang](https://open.spotify.com/track/3ZEWnUCMQduSaXpRWcX4Fq) | [Triple X](https://open.spotify.com/artist/2vJyuppwPbnxzGGVy7xm03) | [It's a Bang](https://open.spotify.com/album/2LSDV2HLrjSaWhJUMiD7tz) | 2:40 | 2024-05-14 |  |
 | [It's What We Are Reloaded \(Again\)](https://open.spotify.com/track/35e1kZBfWMIlxfnsV6IxJF) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Geck\-O](https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB) | [It's What We Are Reloaded \(Again\)](https://open.spotify.com/album/6TIeUXIMP5QSbd7vO0OMQz) | 2:27 | 2023-10-19 |  |
 | [IZANA \- Uncut Edition](https://open.spotify.com/track/421KTrIr93hPGfCIMKZw9s) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [FAKE CIRCUS](https://open.spotify.com/album/38QRiW3FLqg5COiJunPiyk) | 3:20 | 2023-05-13 |  |
 | [J\-Core Man](https://open.spotify.com/track/1UhnPdkKfiUzI6VkSmZryP) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [J\-Core Man](https://open.spotify.com/album/7JcNdFt1tl41ZEbz4pid0f) | 3:30 | 2023-03-12 |  |

@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 199360,
       "name": "Cheap Cigars",
       "url": "https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe"
@@ -6456,6 +6456,24 @@
       "duration_ms": 285691,
       "name": "Mind of Mine",
       "url": "https://open.spotify.com/track/74rfBSjAq3Yvjuv0D2wlxB"
+    },
+    {
+      "album": {
+        "name": "Mississippi Goddam",
+        "url": "https://open.spotify.com/album/6RxEkkZCUtNwCvFsv2pm97"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211030,
+      "name": "Mississippi Goddam",
+      "url": "https://open.spotify.com/track/4Wt6CQv405BTx52dHQbxPn"
     },
     {
       "album": {

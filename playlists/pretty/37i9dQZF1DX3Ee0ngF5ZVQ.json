@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Kaitlin Butts",
-  "num_followers": 411945,
+  "num_followers": 411931,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Flyin",
+        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 274626,
+      "name": "Nothin But Texas",
+      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "What a Cowboy Was",
-        "url": "https://open.spotify.com/album/07tS2uEXGB7DYVrjGN4Mc8"
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
       "artists": [
         {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 268884,
-      "name": "What a Cowboy Was",
-      "url": "https://open.spotify.com/track/3hb6cKDEdu8Infy82t8c6f"
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Flyin",
-        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
+        "name": "Learnin' my Lesson",
+        "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        },
+        {
+          "name": "Wes Bayliss",
+          "url": "https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Nothin But Texas",
-      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
+      "duration_ms": 187089,
+      "name": "Learnin' my Lesson",
+      "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1191,6 +1195,54 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "What a Cowboy Was",
+        "url": "https://open.spotify.com/album/07tS2uEXGB7DYVrjGN4Mc8"
+      },
+      "artists": [
+        {
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+        }
+      ],
+      "duration_ms": 268884,
+      "name": "What a Cowboy Was",
+      "url": "https://open.spotify.com/track/3hb6cKDEdu8Infy82t8c6f"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Map Dot Missing You",
+        "url": "https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT"
+      },
+      "artists": [
+        {
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        }
+      ],
+      "duration_ms": 209347,
+      "name": "Map Dot Missing You",
+      "url": "https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Bottom of It",
         "url": "https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm"
       },
@@ -1219,58 +1271,6 @@
       "duration_ms": 237013,
       "name": "Honky Tonk Halo",
       "url": "https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Map Dot Missing You",
-        "url": "https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT"
-      },
-      "artists": [
-        {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        }
-      ],
-      "duration_ms": 209347,
-      "name": "Map Dot Missing You",
-      "url": "https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Learnin' my Lesson",
-        "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
-      },
-      "artists": [
-        {
-          "name": "The Wilder Blue",
-          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
-        },
-        {
-          "name": "Wes Bayliss",
-          "url": "https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f"
-        }
-      ],
-      "duration_ms": 187089,
-      "name": "Learnin' my Lesson",
-      "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+        "name": "Till You",
+        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
         }
       ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
+      "duration_ms": 206016,
+      "name": "Till You",
+      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Till You",
-        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
       },
       "artists": [
         {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
         }
       ],
-      "duration_ms": 206016,
-      "name": "Till You",
-      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1535,26 +1535,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Kick A Little",
-        "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
+        "name": "Desperate Company",
+        "url": "https://open.spotify.com/album/19Bp8pSJzPssr1QqC3dY7G"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        },
-        {
-          "name": "Rodney Carrington",
-          "url": "https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO"
-        },
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+          "name": "Red Shahan",
+          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
         }
       ],
-      "duration_ms": 227175,
-      "name": "Kick A Little",
-      "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+      "duration_ms": 243105,
+      "name": "Desperate Company",
+      "url": "https://open.spotify.com/track/0sNRNcFz7qGtBCyotVjy8Z"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1591,6 +1583,30 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Kick A Little",
+        "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        },
+        {
+          "name": "Rodney Carrington",
+          "url": "https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO"
+        },
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "duration_ms": 227175,
+      "name": "Kick A Little",
+      "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Easy as Hello",
         "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Rainin On Me",
-        "url": "https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Rainin On Me",
-      "url": "https://open.spotify.com/track/4YmqhdQ3DJ3W6aK7Y1VBtP"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Too Many Honky Tonks",
         "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
       },
@@ -1655,34 +1655,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Desperate Company",
-        "url": "https://open.spotify.com/album/19Bp8pSJzPssr1QqC3dY7G"
+        "name": "Rainin On Me",
+        "url": "https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt"
       },
       "artists": [
         {
-          "name": "Red Shahan",
-          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 243105,
-      "name": "Desperate Company",
-      "url": "https://open.spotify.com/track/0sNRNcFz7qGtBCyotVjy8Z"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Saddest Town in Texas",
-        "url": "https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC"
-      },
-      "artists": [
-        {
-          "name": "Rusty Gear",
-          "url": "https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh"
-        }
-      ],
-      "duration_ms": 212731,
-      "name": "Saddest Town in Texas",
-      "url": "https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz"
+      "duration_ms": 252426,
+      "name": "Rainin On Me",
+      "url": "https://open.spotify.com/track/4YmqhdQ3DJ3W6aK7Y1VBtP"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1707,18 +1691,42 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Elvis in Memphis",
-        "url": "https://open.spotify.com/album/5q6UqjPhGik8QxHEacJkSR"
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
       },
       "artists": [
         {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        },
+        {
+          "name": "Graycie York",
+          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
         }
       ],
-      "duration_ms": 264661,
-      "name": "Elvis in Memphis",
-      "url": "https://open.spotify.com/track/7mmgTs73kElMvcbHpEwnVW"
+      "duration_ms": 212946,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Pancho and Lefty",
+        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 309510,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
     }
   ],
   "unique_name": "Texas Country Now",

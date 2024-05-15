@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: (Cover: D.O.(\ub3c4\uacbd\uc218))",
-  "num_followers": 1004282,
+  "num_followers": 1004734,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-05-10 04:25:09",
       "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Don't ever say love me (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
+    },
+    {
+      "added_at": "2024-05-10 04:25:09",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 235413,
       "name": "Yours",
       "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
-    },
-    {
-      "added_at": "2024-05-10 04:25:09",
-      "album": {
-        "name": "Love Part 2",
-        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Don't ever say love me (feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
     },
     {
       "added_at": "2024-05-10 04:25:09",
@@ -919,22 +919,18 @@
     {
       "added_at": "2024-05-10 04:25:09",
       "album": {
-        "name": "Officially Cool",
-        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
+        "name": "Birthday - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
       },
       "artists": [
         {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        },
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
         }
       ],
-      "duration_ms": 177253,
-      "name": "Officially Cool",
-      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
+      "duration_ms": 221693,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
     },
     {
       "added_at": "2024-05-10 04:25:09",
@@ -987,34 +983,22 @@
     {
       "added_at": "2024-05-10 04:25:09",
       "album": {
-        "name": "Birthday - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
+        "name": "Officially Cool",
+        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
       "artists": [
         {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
-    },
-    {
-      "added_at": "2024-05-10 04:25:09",
-      "album": {
-        "name": "I Hate You (2024) - Spotify Singles",
-        "url": "https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA"
-      },
-      "artists": [
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
         {
-          "name": "SHOWNU X HYUNGWON (MONSTA X)",
-          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
         }
       ],
-      "duration_ms": 164026,
-      "name": "I Hate You (2024) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y"
+      "duration_ms": 177253,
+      "name": "Officially Cool",
+      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
     },
     {
       "added_at": "2024-05-10 04:25:09",
@@ -1031,6 +1015,22 @@
       "duration_ms": 198080,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+    },
+    {
+      "added_at": "2024-05-10 04:25:09",
+      "album": {
+        "name": "I Hate You (2024) - Spotify Singles",
+        "url": "https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA"
+      },
+      "artists": [
+        {
+          "name": "SHOWNU X HYUNGWON (MONSTA X)",
+          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "I Hate You (2024) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y"
     },
     {
       "added_at": "2024-05-10 04:25:09",

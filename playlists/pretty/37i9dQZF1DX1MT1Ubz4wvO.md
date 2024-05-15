@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con 107 Faunos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,459 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,471 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 12 | [Infiltrados](https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:01 |
 | 13 | [Si Te Vas](https://open.spotify.com/track/1209uMOJJlBqKtDi7EeNdw) | [Flema](https://open.spotify.com/artist/2E0SVBO1NkyVTl7PDmGGw4) | [Si Te Vas](https://open.spotify.com/album/0wyM68TzShHA0sQtl1xCvo) | 2:22 |
 | 14 | [Desesperación](https://open.spotify.com/track/3f1Bjc2q2gz88GNcagQwMt) | [Pablo Perea](https://open.spotify.com/artist/1RDmz2DB87UtfVvkEuQLF9) | [Desesperación](https://open.spotify.com/album/2NdTFCFZ2k0Fi56mUFHVFu) | 4:03 |
-| 15 | [Las Calles de Granada](https://open.spotify.com/track/0LdXhMOBBSq9gHQXc0FbSh) | [Mente Fría](https://open.spotify.com/artist/32IqFIApxQx2lqYWWZbsjD), [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8), [Hora Zulu](https://open.spotify.com/artist/5QITgPkiJJLdiqmjK9l7DB) | [Las Calles de Granada](https://open.spotify.com/album/3KBQuz3oZA65pw6gr8pQgC) | 4:46 |
+| 15 | [Las Calles de Granada](https://open.spotify.com/track/0LdXhMOBBSq9gHQXc0FbSh) | [Mente Fría](https://open.spotify.com/artist/32IqFIApxQx2lqYWWZbsjD), [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8), [Hora Zulu](https://open.spotify.com/artist/2Or7WAQ2QqgtBozyXBFLDd) | [Las Calles de Granada](https://open.spotify.com/album/3KBQuz3oZA65pw6gr8pQgC) | 4:46 |
 | 16 | [Diferente](https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga) | [IKARO](https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk) | 6:03 |
 | 17 | [Ojos Vacíos](https://open.spotify.com/track/3Hte86DMfMZ2AciWPuq1KM) | [Mindot](https://open.spotify.com/artist/3FpSB5ovpYGnpwPr54yBNI) | [Ojos Vacíos](https://open.spotify.com/album/5J5t40hCBNTVDYpq7arhUY) | 3:14 |
 | 18 | [Quedará en Nuestra Mente](https://open.spotify.com/track/6IdUO09BDcIiHZ4Od35VFr) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [La Náusea](https://open.spotify.com/album/3Nk2RkloSvgm6WDx9Mjlqp) | 2:21 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 22 | [armadura](https://open.spotify.com/track/3Ehn6qVmLjZOowfGi1IfKH) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw), [RUPTURA](https://open.spotify.com/artist/6Hdt0Q0JJlupDL0FZ7S0aY) | [Mierda](https://open.spotify.com/album/3KNO7m54ErBB1LF2dXaoxQ) | 2:44 |
 | 23 | [Niño de Verdad](https://open.spotify.com/track/0nxqoKZkBaYN7X4TIY2lld) | [ChemyNoSurfea](https://open.spotify.com/artist/4TDi1l3plDjy9HZXn7OmIo) | [Niño de Verdad](https://open.spotify.com/album/53vNtJnvM6EmECtLhd0oh9) | 4:00 |
 | 24 | [QUÉ QUIERES QUE TE DIGA](https://open.spotify.com/track/76K75iZ9xdyXz91Z2viBrd) | [Combo Paradiso](https://open.spotify.com/artist/3dCv4VhKSBmWrXGmgz67hz) | [TODO BIEN TODO EL RATO](https://open.spotify.com/album/1c9QrG2ZEvedt3k9T2FFSe) | 3:38 |
-| 25 | [Adicto Corazón](https://open.spotify.com/track/6fpNG3zbCsFYTNzVfMtknf) | [Rēptile](https://open.spotify.com/artist/4HJ5kMnXsGIeEDi8yRMWMi), [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Adicto Corazón](https://open.spotify.com/album/5VB829RiwKxAI3wdneci2D) | 3:10 |
+| 25 | [Adicto Corazón con Carlos Escobedo](https://open.spotify.com/track/6fpNG3zbCsFYTNzVfMtknf) | [Rēptile](https://open.spotify.com/artist/4HJ5kMnXsGIeEDi8yRMWMi), [Carlos Escobedo](https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA) | [Adicto Corazón con Carlos Escobedo](https://open.spotify.com/album/5VB829RiwKxAI3wdneci2D) | 3:10 |
 | 26 | [Putivuelta](https://open.spotify.com/track/3vnroQUFF4zR3PZRiR6sC8) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Putivuelta](https://open.spotify.com/album/2ehz6QnrGi2suBoUxYyYL7) | 3:10 |
 | 27 | [Ella miente \- Por mi bien](https://open.spotify.com/track/0ONGSD0bZl7OdCzvnt6uJE) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Ella miente \(Por mi bien\)](https://open.spotify.com/album/2MduLqh8arjURz9iptN7KV) | 4:29 |
 | 28 | [Zar Nicolás](https://open.spotify.com/track/7bhkUbeZGyp07qu67A5yLe) | [Cuchillas](https://open.spotify.com/artist/1ijMSVBbWChLbwqGPM5ye8) | [Zar Nicolás](https://open.spotify.com/album/5bWDJ0tcLwdZ6PUlTVZrMl) | 2:28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2010774,
+  "num_followers": 2010935,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAACpmEfzL8mv1YjYQZ5/eTtM",
+  "snapshot_id": "ZkFYAAAAAAAhz9IdzhGP7dhMASBVa5p2",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 255840,
-      "name": "Buffalo Soldier",
-      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
+      "duration_ms": 217800,
+      "name": "Stir It Up - Jamaican Version",
+      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Natural Mystic",
-      "url": "https://open.spotify.com/track/5uqQyRJV8qLt8zEqnvsBVK"
+      "duration_ms": 256239,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 256239,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ"
+      "duration_ms": 188026,
+      "name": "So Much Things To Say",
+      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 188026,
-      "name": "So Much Things To Say",
-      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iron Lion Zion",
         "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
       },
@@ -379,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 213866,
       "name": "Misty Morning",
       "url": "https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
     },
     {
       "added_at": null,
@@ -443,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Crazy Baldhead",
-      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 271023,
       "name": "Coming In From The Cold",
       "url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Crazy Baldhead",
+      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
     },
     {
       "added_at": null,
@@ -507,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Stiff Necked Fools",
-      "url": "https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -539,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Stiff Necked Fools",
+      "url": "https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 192680,
       "name": "Ambush In The Night",
       "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 460226,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets: The Final Chapter",
         "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 165746,
       "name": "Hold Ya Head (feat. Bob Marley)",
       "url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 310426,
-      "name": "Lively Up Yourself",
-      "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
     }
   ],
   "unique_name": "This Is Bob Marley & The Wailers",

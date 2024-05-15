@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-347 songs - 20 hr 39 min
+348 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [愛你需要練習](https://open.spotify.com/track/0OVRyjRP4ub7xVZI1MOdew) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW), [薇婭](https://open.spotify.com/artist/3YJP49BjkAQUKPE6Yf7CVw) | [愛你需要練習](https://open.spotify.com/album/41AW0iBvE6NDQr2FT0gtlB) | 3:55 | 2022-06-06 | 2022-07-23 |
 | [愛在時光裡](https://open.spotify.com/track/2c7OFN8z6tamSX3vUlzfmj) | [蘇有朋](https://open.spotify.com/artist/2ZUO4qskPSAAT6XH3XIdEd) | [愛在時光裡](https://open.spotify.com/album/40DH4fvriGVyjN3mWwg8JR) | 3:16 | 2023-03-20 | 2023-03-28 |
 | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/track/5UaSB8aD7oQOX1l5eqoLMR) | [曾韻璇](https://open.spotify.com/artist/5y6V55XBzT0i9WkySKwgNE), [高偉勛](https://open.spotify.com/artist/3P8fzwFoEZQxVovoy2xgkd) | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/album/3eHD9S6QJRWfUq3dO63E5i) | 3:47 | 2022-07-04 | 2022-07-08 |
-| [愛的首席](https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [愛的首席](https://open.spotify.com/album/3q9vVzxUg1HwBylkLJKpS8) | 3:32 | 2024-01-01 |  |
+| [愛的首席](https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [愛的首席](https://open.spotify.com/album/3q9vVzxUg1HwBylkLJKpS8) | 3:32 | 2024-01-01 | 2024-05-15 |
 | [感情線](https://open.spotify.com/track/3LgX9DAyToN6qHeCWhuuQH) | [Tension](https://open.spotify.com/artist/7fQvUENMhNj1uudorBk9DO) | [故事\(新歌+精選\)](https://open.spotify.com/album/3Zgjs3ZBOn1h0wj2e1yzpp) | 4:05 | 2022-07-11 | 2022-11-02 |
 | [慢慢來](https://open.spotify.com/track/1yAgPYONWEoQgsOaFqIVGE) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [慢慢來](https://open.spotify.com/album/6PUCm1ig2sqtDU0epcKHQL) | 3:48 | 2022-06-13 | 2022-06-19 |
 | [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 | 2022-09-05 | 2023-02-28 |
@@ -336,6 +336,7 @@
 | [还是你的笑容最可爱](https://open.spotify.com/track/6o0tRz6uSjA66A1LdEWwC6) | [音阙诗听](https://open.spotify.com/artist/6JZIgN9gEgNSS8lY5pmwbx), [泠鸢yousa](https://open.spotify.com/artist/5LyduAjWazekfgxC6M6rbk), [王梓钰](https://open.spotify.com/artist/5VNN9ctooTvYoBZKoGZ8Tr) | [还是你的笑容最可爱](https://open.spotify.com/album/1hY8IORuxUCrJlOVnH0FM5) | 2:45 | 2022-06-06 | 2022-07-22 |
 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 | 2022-07-25 |  |
 | [這樣就很好](https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [這樣就很好](https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8) | 3:26 | 2023-09-11 |  |
+| [遇上愛](https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [遇上愛](https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ) | 3:51 | 2024-05-06 |  |
 | [遇到你 \- 電視劇《原來我很愛你》片頭曲](https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih), [萬鵬](https://open.spotify.com/artist/7rfYWk7WW24KDeU3nKJS3Z) | [遇到你 \(電視劇《原來我很愛你》片頭曲\)](https://open.spotify.com/album/1Y61uReThvJfYvzMAvhJc1) | 4:05 | 2022-06-06 |  |
 | [那一刻心動](https://open.spotify.com/track/2DspJPhiolrxUFIAnFfQ2L) | [大柯](https://open.spotify.com/artist/6a7NsPX4YpPVh1qQL5lrFq) | [那一刻心動](https://open.spotify.com/album/2o0W8GuTm30Ms9830PrUAA) | 3:42 | 2023-04-10 | 2023-04-18 |
 | [都怪那一眼\(Love at first sight\)\-電視劇<我的老闆是隻貓 >片頭曲](https://open.spotify.com/track/6uJ3uxT6lyZLKyr0DO57EB) | [Vera Yen](https://open.spotify.com/artist/08VvDNRmZUZ99QZb63qXgU) | [電視劇\(我的老闆是隻貓\)片頭曲&插曲](https://open.spotify.com/album/6QQVXygK29VWKR9Zt4VMM2) | 4:11 | 2022-06-27 | 2022-07-21 |

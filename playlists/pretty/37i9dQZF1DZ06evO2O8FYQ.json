@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkAGgAAAAAB/vPWhe3WEZaz9yD1uknVg",
+  "snapshot_id": "ZkFYAAAAAACUb6qMx+W6U1upic0iQ58r",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 223773,
-      "name": "Nothing Personal",
-      "url": "https://open.spotify.com/track/3lEEVEb1aJMwa9BKzPttAU"
+      "duration_ms": 98746,
+      "name": "Gimme Something",
+      "url": "https://open.spotify.com/track/0SEXpfW8WE1GlJBoRYaM37"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 98746,
-      "name": "Gimme Something",
-      "url": "https://open.spotify.com/track/0SEXpfW8WE1GlJBoRYaM37"
+      "duration_ms": 223773,
+      "name": "Nothing Personal",
+      "url": "https://open.spotify.com/track/3lEEVEb1aJMwa9BKzPttAU"
     },
     {
       "added_at": null,

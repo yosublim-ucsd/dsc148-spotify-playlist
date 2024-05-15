@@ -3795,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "My Dear Rat Kings",
+        "url": "https://open.spotify.com/album/6CWn3QyCDxitE94RWGQxS6"
+      },
+      "artists": [
+        {
+          "name": "Ghost Iris",
+          "url": "https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228453,
+      "name": "My Dear Rat Kings",
+      "url": "https://open.spotify.com/track/4f19ilacpJII4k91nQiHYN"
+    },
+    {
+      "album": {
         "name": "My Way / Cyan Blue",
         "url": "https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe"
       },

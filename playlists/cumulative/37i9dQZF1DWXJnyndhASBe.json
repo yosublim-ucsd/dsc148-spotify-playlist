@@ -2746,6 +2746,10 @@
         {
           "name": "Sobel",
           "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
         }
       ],
       "date_added": "2024-04-29",
@@ -4278,6 +4282,24 @@
       "duration_ms": 135572,
       "name": "NA ZAWSZE",
       "url": "https://open.spotify.com/track/4l2ugyJ52D0ErwcS0gB7da"
+    },
+    {
+      "album": {
+        "name": "NA ZAWSZE MA\u0141OLAT",
+        "url": "https://open.spotify.com/album/6VnPaOgkHDpKeLg4SCnX5r"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174054,
+      "name": "NA ZAWSZE MA\u0141OLAT",
+      "url": "https://open.spotify.com/track/4qWa361K5izYLjYh1HQNQC"
     },
     {
       "album": {
@@ -6958,7 +6980,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 155500,
       "name": "WODA SODOWA",
       "url": "https://open.spotify.com/track/4cbr5VQHWMqvlMTPSa7da4"

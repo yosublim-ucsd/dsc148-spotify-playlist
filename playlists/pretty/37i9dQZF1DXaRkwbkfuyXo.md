@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. El Komander en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,694 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,086 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 26 | [La Fuga del Dorian \(feat\. Ariel Camacho & Regulo Caro\)](https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga del Dorian](https://open.spotify.com/album/5JTve2kpwniH9fmvXiwO0z) | 4:37 |
 | 27 | [Kikil Caro](https://open.spotify.com/track/3Awf41B1t5v7STTM2uCXc7) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Especialista](https://open.spotify.com/album/1udzzVN47urH7cthUlyRMz) | 3:06 |
 | 28 | [Scarface Renacido](https://open.spotify.com/track/1tpYFtQ5BsCB8lRug5VPtK) | [Jorge Santacruz Y Su Grupo Quinto Elemento](https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:54 |
-| 29 | [Comando X \(En Vivo\)](https://open.spotify.com/track/2klm6F6NIXGoqVbIkxKJPv) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/3hErWDx15ZpkpDbQGKZYlf) | 4:11 |
+| 29 | [Comando X \(En Vivo\)](https://open.spotify.com/track/2klm6F6NIXGoqVbIkxKJPv) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/3hErWDx15ZpkpDbQGKZYlf) | 4:11 |
 | 30 | [El Prostipirugolfo](https://open.spotify.com/track/48rJQa3TdMfnPJxh1oPxsZ) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [15 Exitos](https://open.spotify.com/album/12DzNqjx3qzgiPoPbal8Vq) | 3:06 |
 | 31 | [Empujando la Línea](https://open.spotify.com/track/4doAczw4VqEa9qJu1M8Ou5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Especialista](https://open.spotify.com/album/1udzzVN47urH7cthUlyRMz) | 3:20 |
 | 32 | [El Cholo](https://open.spotify.com/track/4WVB9AmaahfQvqH3ofY6OU) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18) | 2:11 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 46 | [Gente De Arranque](https://open.spotify.com/track/1MUmseE7ctXeUgu6D0q5Jn) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 3:03 |
 | 47 | [El Invalido](https://open.spotify.com/track/6slyAwU92H8O6OdknGDj6D) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Movimiento Alterado, Vol\. 1](https://open.spotify.com/album/3nYkEmbJZfanyB16oEX2lx) | 2:44 |
 | 48 | [El Borracho](https://open.spotify.com/track/0YRSWkOFtnRDHHtUFIiURL) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Corridos](https://open.spotify.com/album/4itbhtcdGhGhYPkfIp2jXW) | 2:22 |
-| 49 | [Pedron Antrax](https://open.spotify.com/track/0Ld7lnkuiJqBdp0gAHjfRB) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [Y Sigo Vivo](https://open.spotify.com/album/1QTeZN0jgnLmLp5X8V0qNX) | 2:53 |
+| 49 | [Pedron Antrax](https://open.spotify.com/track/0Ld7lnkuiJqBdp0gAHjfRB) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [Y Sigo Vivo](https://open.spotify.com/album/1QTeZN0jgnLmLp5X8V0qNX) | 2:53 |
 | 50 | [Se Volvió a Pelar Mi Apá](https://open.spotify.com/track/3XbIdyZv6wDskRwcwsG1tE) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/3hCFPKRBu3eQbbptilmIIx) | 2:34 |
 | 51 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 |
 | 52 | [Mi Amigo el de Arriba](https://open.spotify.com/track/7kKwLwJJaxQXo2quoupbDh) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [La Gritera](https://open.spotify.com/album/0EU8ELKaNL7p6JWG5uLcIC) | 2:26 |

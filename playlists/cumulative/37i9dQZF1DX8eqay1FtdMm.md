@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Parc Jae Jung\(박재정\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-511 songs - 1 day 9 hr 13 min
+512 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [Stars](https://open.spotify.com/track/6Mn74uvm0wZaEjPK0eTtHY) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Shape of Rothy](https://open.spotify.com/album/4DsSCFGCzQ4GPMw3pTh3A5) | 4:20 | 2021-12-20 | 2022-07-29 |
 | [Starting Now](https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Starting Now](https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy) | 3:25 | 2021-12-20 |  |
 | [Stay](https://open.spotify.com/track/4GJe5QQxmtHsJa3AvZroal) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The Beginning: World Tree](https://open.spotify.com/album/1gomORnQsreWvJxDGy85pB) | 4:18 | 2022-05-31 | 2022-06-15 |
-| [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-20 |  |
+| [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-20 | 2024-05-15 |
 | [STAY](https://open.spotify.com/track/1zP4F4FExmoTk2yeZSZfca) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [STAY](https://open.spotify.com/album/2auTN0kIA1hNoyhb8XMlB6) | 2:55 | 2022-03-24 | 2022-04-17 |
 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 | 2021-12-20 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2024-02-20 | 2024-04-24 |
@@ -477,6 +477,7 @@
 | [You, again \(Prod\. Humbert\)](https://open.spotify.com/track/5BhXBPf3kHOgArWYtXHQar) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 1](https://open.spotify.com/album/1YSagCBdK1uLO0ujCmscXN) | 3:49 | 2022-01-27 | 2022-04-19 |
 | [Your flower language](https://open.spotify.com/track/0k9VK3UPPAvNaJlrlQ4N2O) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Your flower language](https://open.spotify.com/album/04dfcardIJlYwRwJEufWl7) | 3:58 | 2022-04-01 | 2022-04-20 |
 | [Your memory \(feat\. Lee Yoon Hee\)](https://open.spotify.com/track/61OvyItM7Ti2ylIjmEaIJe) | [05](https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK), [Lee Yoon Hee](https://open.spotify.com/artist/6rMOqDK6wY9ZdwtFoNO6e4) | [Your memory \(Original Soundtrack from the Webtoon “The returned duke"\)](https://open.spotify.com/album/7k5Oyq2yBXgQHa4JyhVmYy) | 3:59 | 2022-07-04 | 2022-07-23 |
+| [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 | 2024-05-14 |  |
 | [zero gravity](https://open.spotify.com/track/4tKkpWGoNZJXN7tAXV9aI6) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [zero gravity](https://open.spotify.com/album/5tXoOQpaHKgNRYobPq6w71) | 4:25 | 2022-08-18 | 2022-10-06 |
 | [±36.5°C](https://open.spotify.com/track/1dyfKBML6wwks5Ont3rIgW) | [Eian](https://open.spotify.com/artist/0IuYz7cj1RlVuOPouG0g8Q) | [±36.5°C](https://open.spotify.com/album/7yjSXMcscjWfbUZ4av5nEg) | 3:30 | 2022-01-12 | 2022-05-31 |
 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 | 2023-12-01 | 2023-12-14 |

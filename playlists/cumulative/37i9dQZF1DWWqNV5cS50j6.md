@@ -4,7 +4,7 @@
 
 > ?! ft\. Tommy Richman
 
-1,674 songs - 3 day 8 hr 30 min
+1,675 songs - 3 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [BUMMER!](https://open.spotify.com/track/2kI3DIQk5TZNRhwQxDlAC3) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [BUMMER!](https://open.spotify.com/album/6GqD7THNXRsasEGuDZ6wpL) | 2:39 | 2023-05-05 | 2023-06-03 |
 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 | 2021-11-12 | 2022-11-17 |
 | [Burn](https://open.spotify.com/track/0EaoOSTTsx7zqaOFqBaleS) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [Burn](https://open.spotify.com/album/0Jzy2rfQQAnYkQ5pfvNQ1s) | 2:50 | 2021-07-17 | 2021-10-16 |
-| [BUSS UR HEAD](https://open.spotify.com/track/1w8lmX9rLX5GTcoqkVoNtr) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [BUSS UR HEAD](https://open.spotify.com/album/34TQgVSVmTfzWO6JI8RtqK) | 2:41 | 2024-05-10 |  |
+| [BUSS UR HEAD](https://open.spotify.com/track/1w8lmX9rLX5GTcoqkVoNtr) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [BUSS UR HEAD](https://open.spotify.com/album/34TQgVSVmTfzWO6JI8RtqK) | 2:41 | 2024-05-10 | 2024-05-15 |
 | [Butter](https://open.spotify.com/track/2xrU9CRJF7kqHpCDAmf8Vg) | [GOLDSPACE](https://open.spotify.com/artist/0lEmirHWEpNY1GtqLk7rLx) | [Butter](https://open.spotify.com/album/4vUepsKjrBfvXVV5L7fdYp) | 2:44 | 2020-12-05 | 2021-06-05 |
 | [buttercup 2](https://open.spotify.com/track/0SIbpobQY9FQKCgvRQrKNO) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [buttercup 2](https://open.spotify.com/album/06KVsUFJEZSTPljvOsNNJY) | 2:16 | 2021-05-03 | 2021-10-14 |
 | [buttercup 2](https://open.spotify.com/track/2bRxQbAQ2OsPKSNc1bllEl) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [incentivize unpaid overtime 2](https://open.spotify.com/album/61DXuWPO5fHZmeORMrB5Ao) | 2:16 | 2021-10-15 | 2022-03-23 |
@@ -1292,6 +1292,7 @@
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-09-02 |  |
 | [sins \(let me in\)](https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [sins \(let me in\)](https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg) | 2:08 | 2023-09-15 |  |
 | [SITUATIONS](https://open.spotify.com/track/6AtOwEpEs38Be9tuIX1eYh) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [SITUATIONS](https://open.spotify.com/album/3fvlLvxk2AjAHdwOKh7qwN) | 3:59 | 2021-03-19 | 2021-06-16 |
+| [Skater Dater \(feat\. Bb trickz & Elvia\)](https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [Vampire in Beverly Hills](https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH) | 2:34 | 2024-05-14 |  |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-06-04 |
 | [Skin on Skin](https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:03 | 2020-10-13\* | 2021-05-03 |
 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 | 2022-12-09 | 2023-04-22 |

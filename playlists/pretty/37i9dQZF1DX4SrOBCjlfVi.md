@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Megan Thee Stallion, Gunna, NLE Choppa and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,097 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,322 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Again](https://open.spotify.com/track/0UpdzAadhUQrtVnvPk27TF) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Again](https://open.spotify.com/album/0gj9UOb9ldseO9TLeonJwX) | 2:10 |
 | 36 | [Real Money](https://open.spotify.com/track/0gweVEX4NZLlMStXXbtOVd) | [ShooterGang Kony](https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK) | [Real Money](https://open.spotify.com/album/5MLUGCFI5oUhwWT0c96n7i) | 2:22 |
 | 37 | [Faces & Names](https://open.spotify.com/track/1gkKD1l0vQ6ZFqUBro5e9Q) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP) | [Faces & Names](https://open.spotify.com/album/0ifINVLYKCk8Cewukskp3F) | 2:50 |
-| 38 | [Zuper](https://open.spotify.com/track/5cMju8aHhROILtAHKsSO4A) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Zuper](https://open.spotify.com/album/44s9T0FGkafvdrtJ86YEq2) | 2:39 |
+| 38 | [Zuper \(feat\. Wizz Havinn\)](https://open.spotify.com/track/5cMju8aHhROILtAHKsSO4A) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Zuper \(feat\. Wizz Havinn\)](https://open.spotify.com/album/44s9T0FGkafvdrtJ86YEq2) | 2:39 |
 | 39 | [Invite Only](https://open.spotify.com/track/2jvLrxgUAb0vxtvJa4I8fg) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr) | [Invite Only](https://open.spotify.com/album/2EKzvENcZxn2pdYVDvzgE0) | 3:29 |
 | 40 | [How Many](https://open.spotify.com/track/2rb5v62XfoC20V2AYCBWky) | [OnPointLikeOP](https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Tay Savage](https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71) | [TEMPERATURE 1090](https://open.spotify.com/album/6opAHJdWxeJ3r9WjwjGFfN) | 3:25 |
 | 41 | [Pricey \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/440JDGRlMK095bNF50Nk74) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Pricey \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/6DWWrPjqjqoFWTSt24qtxI) | 2:40 |

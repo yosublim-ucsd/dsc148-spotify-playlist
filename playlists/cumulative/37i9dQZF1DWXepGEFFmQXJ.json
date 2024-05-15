@@ -4009,6 +4009,24 @@
     },
     {
       "album": {
+        "name": "Had To Be There",
+        "url": "https://open.spotify.com/album/1hfo3fHdWWQ2UWlsJj3SoF"
+      },
+      "artists": [
+        {
+          "name": "Melanie Dyer",
+          "url": "https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183556,
+      "name": "Had To Be There",
+      "url": "https://open.spotify.com/track/3AibB8ZzNrqLeXuLYj6oql"
+    },
+    {
+      "album": {
         "name": "Half the Man",
         "url": "https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3"
       },
@@ -6650,7 +6668,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-15",
       "duration_ms": 209109,
       "name": "Newtown",
       "url": "https://open.spotify.com/track/2SD9kZplmzNf9SpOIMkjXp"

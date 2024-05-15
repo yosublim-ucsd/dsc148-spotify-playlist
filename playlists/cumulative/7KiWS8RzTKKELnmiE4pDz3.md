@@ -4,7 +4,7 @@
 
 > 
 
-690 songs - 1 day 8 hr 56 min
+691 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [OT](https://open.spotify.com/track/3yEHC0WyZRUnpNVmIYSSmL) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Dum and Dumber Too](https://open.spotify.com/album/36t3hvr9NDOKn6y3NVBAlu) | 2:12 | 2022-09-29 | 2023-05-09 |
 | [out da window](https://open.spotify.com/track/3Vt5YK1tzOQ6pxOSCbtLRA) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:44 | 2023-03-30 | 2023-12-14 |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2022-09-09 | 2023-05-09 |
+| [Outside All Night \(feat\. A$AP Rocky & N3WYRKLA\)](https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:22 | 2024-05-14 |  |
 | [outta here](https://open.spotify.com/track/3HJNaozjPQGD4AlZA0bAMQ) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Κankan](https://open.spotify.com/artist/2HfEGAJuiD6uQN7xwPoSgh), [Ѕummrs](https://open.spotify.com/artist/4Z8qbWVLBE0SB3KbRD0Tez) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 2:52 | 2022-12-21 | 2023-05-09 |
 | [Overtime](https://open.spotify.com/track/71pmeuiEvHAkE7gXxWL2Uy) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Hardwood Classic](https://open.spotify.com/album/2SPrPcmFf9505xgGEp2h2k) | 2:22 | 2022-05-24 | 2023-04-12 |
 | [Oye Mi Canción](https://open.spotify.com/track/1Eyll8ZpAU2U6rD3Yfos9q) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:35 | 2024-02-14 |  |

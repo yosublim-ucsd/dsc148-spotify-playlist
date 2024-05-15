@@ -1,6 +1,6 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 231042,
+  "num_followers": 231196,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Saved You Too",
+        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "duration_ms": 118413,
+      "name": "Saved You Too",
+      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "Desire Pt. 2",
         "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 160308,
       "name": "Desire Pt. 2",
       "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Saved You Too",
-        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
-      },
-      "artists": [
-        {
-          "name": "Y Shadey",
-          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
-        }
-      ],
-      "duration_ms": 118413,
-      "name": "Saved You Too",
-      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -339,38 +339,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "CHECK!",
-        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 146985,
-      "name": "CHECK!",
-      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "The Way You Act",
-        "url": "https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 130627,
-      "name": "The Way You Act",
-      "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "NO WEAPON (feat. Lecrae & Fred Hammond) [REMIX]",
         "url": "https://open.spotify.com/album/0xpcpeJfjzs0r8CzZkRGHK"
       },
@@ -391,6 +359,38 @@
       "duration_ms": 242387,
       "name": "NO WEAPON (feat. Lecrae & Fred Hammond) - REMIX",
       "url": "https://open.spotify.com/track/1px8pB3hS1xWRsNy25olaM"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "The Way You Act",
+        "url": "https://open.spotify.com/album/3ablPjEIGCXEKAD9Y03GK9"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 130627,
+      "name": "The Way You Act",
+      "url": "https://open.spotify.com/track/1WYAz2ZtyyAFL4NyFpIx2c"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "CHECK!",
+        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 146985,
+      "name": "CHECK!",
+      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "BIG GOD",
-        "url": "https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "BIG GOD",
-      "url": "https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "GROOVY FREESTYLE (REMIX)",
         "url": "https://open.spotify.com/album/4qWe3ltHgJkRGWxX8VReWo"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 211788,
       "name": "GROOVY FREESTYLE (REMIX)",
       "url": "https://open.spotify.com/track/75I3cFxZ68lLh9y61DhASM"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "BIG GOD",
+        "url": "https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "BIG GOD",
+      "url": "https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "MVP",
-        "url": "https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 127905,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/00uwU1dENamylOgeLh2ask"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "VICIOUS CYCLE",
         "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 208979,
       "name": "VICIOUS CYCLE",
       "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 127905,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/00uwU1dENamylOgeLh2ask"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "BOATS",
-        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 144294,
-      "name": "Nothing Into Something",
-      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "hollow",
         "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+        "name": "BOATS",
+        "url": "https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ"
       },
       "artists": [
         {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
         }
       ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
+      "duration_ms": 144294,
+      "name": "Nothing Into Something",
+      "url": "https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1423,6 +1407,22 @@
       "duration_ms": 219399,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "DONT TOUCH ME",
-        "url": "https://open.spotify.com/album/5SBMPUnW26mVlJNBJhubCU"
-      },
-      "artists": [
-        {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
-        },
-        {
-          "name": "I Project",
-          "url": "https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me"
-        }
-      ],
-      "duration_ms": 97425,
-      "name": "DONT TOUCH ME",
-      "url": "https://open.spotify.com/track/6Wowg4HDcSzcfQokFxzGnv"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "PLAN PLAN",
         "url": "https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 168000,
       "name": "PLAN PLAN",
       "url": "https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "DONT TOUCH ME",
+        "url": "https://open.spotify.com/album/5SBMPUnW26mVlJNBJhubCU"
+      },
+      "artists": [
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        },
+        {
+          "name": "I Project",
+          "url": "https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me"
+        }
+      ],
+      "duration_ms": 97425,
+      "name": "DONT TOUCH ME",
+      "url": "https://open.spotify.com/track/6Wowg4HDcSzcfQokFxzGnv"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1643,38 +1643,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "That Feel",
-        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 163657,
-      "name": "That Feel",
-      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Nowhere to Hide",
-        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
-      },
-      "artists": [
-        {
-          "name": "Deraj",
-          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Nowhere to Hide",
-      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "STRONGER",
         "url": "https://open.spotify.com/album/3h1Cw8Eitj3GNp1VMENmCj"
       },
@@ -1699,18 +1667,34 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Code of Conduct",
-        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
+        "name": "Nowhere to Hide",
+        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Deraj",
+          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
         }
       ],
-      "duration_ms": 138154,
-      "name": "Code of Conduct",
-      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
+      "duration_ms": 158400,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "That Feel",
+        "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 163657,
+      "name": "That Feel",
+      "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1751,6 +1735,22 @@
       "duration_ms": 120000,
       "name": "BPM",
       "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Code of Conduct",
+        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 138154,
+      "name": "Code of Conduct",
+      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
     },
     {
       "added_at": "2024-03-20 10:50:51",
