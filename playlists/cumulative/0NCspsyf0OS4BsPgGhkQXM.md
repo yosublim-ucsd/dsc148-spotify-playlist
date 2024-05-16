@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,065 songs - 2 day 7 hr 21 min
+1,067 songs - 2 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Diamond Ring](https://open.spotify.com/track/4UadczGuTz5gWOt6nwGskx) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Diamond Ring](https://open.spotify.com/album/14Qa3VaQUTOkTtWjCmbFrB) | 2:44 | 2022-02-18 | 2022-09-15 |
 | [did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [did i tell u that i miss u](https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O) | 1:55 | 2024-05-10 |  |
 | [Different Mood](https://open.spotify.com/track/6qdYk0uDeX2fTOD0TNvzyY) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Bassline](https://open.spotify.com/album/7Jaq1HSRWeweq0YQG2TShv) | 2:23 | 2022-01-14 | 2022-02-17 |
+| [digiphunk](https://open.spotify.com/track/2QtZI9AahQIZ3B9UY9Q7Xd) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [digiphunk](https://open.spotify.com/album/6QTs9TrzSqQwr5opTboF4w) | 1:34 | 2024-05-15 |  |
 | [Digita](https://open.spotify.com/track/06CaeQTDHlppW9ObQ2to2g) | [Ephex](https://open.spotify.com/artist/137d6SNcjHO2XxtuXcpPKu) | [Digita](https://open.spotify.com/album/3dM078GQ05Droml2dgYeYV) | 2:47 | 2024-04-02 |  |
 | [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 | 2022-03-22 | 2022-04-19 |
 | [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-14 | 2022-11-24 |
@@ -1052,6 +1053,7 @@
 | [Would U](https://open.spotify.com/track/7o1ulcm2H97iqMMZo8gYY0) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Would U](https://open.spotify.com/album/1HF7ZHo81mkE9mah9y19xl) | 2:35 | 2022-03-25 | 2022-09-15 |
 | [WRAITHS](https://open.spotify.com/track/1UE4tesz9vNWaX5Y0NsmZY) | [sapphyre](https://open.spotify.com/artist/5nqa17OYrgbn9JX5ra4EgS) | [WRAITHS](https://open.spotify.com/album/3fqOT4Wm7yECHTzPEvKtN3) | 2:35 | 2023-10-27 | 2023-12-09 |
 | [WYM!](https://open.spotify.com/track/3iSNtpcu9HNwdSVsIztE31) | [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [WYM!](https://open.spotify.com/album/4YQujOzblBgteIsPIKCMay) | 1:41 | 2024-05-14 |  |
+| [X\-SLIDE](https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO) | [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li), [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 1:19 | 2024-05-15 |  |
 | [x64](https://open.spotify.com/track/7ctc71EmaCvC4fP6524f4T) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0) | [x64](https://open.spotify.com/album/06MKtPow9XGQ90Cdeu01t1) | 1:25 | 2024-04-09 |  |
 | [Xenogenesis](https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Xenogenesis](https://open.spotify.com/album/07ej3OfHDl0ppyUrK7bTUF) | 3:53 | 2022-08-23 |  |
 | [XO Tour Llif3](https://open.spotify.com/track/7mBXbW1sDFjhAgvDcSp0MD) | [Dyzphoria](https://open.spotify.com/artist/6SehYBqIfg08SBrc7Ydreg) | [XO Tour Llif3](https://open.spotify.com/album/28dINuwG3JE6RPxTkbZ2Q7) | 3:07 | 2022-09-09 | 2022-10-08 |

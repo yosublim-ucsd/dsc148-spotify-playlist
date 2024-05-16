@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 ### [This Is Zendaya](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OzSuY)
 
-> This is Zendaya\. Tutti i brani in un'unica playlist.
+> This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,792 likes - 36 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,802 likes - 36 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 35 | [Fireflies](https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4) | 4:28 |
 | 36 | [My Jam \- Track Commentary](https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [My Jam \- Track Commentary](https://open.spotify.com/album/2J9D3akwEAUR4kfYHQvtww) | 2:24 |
 
-Snapshot ID: `ZkFYAAAAAABju5Rp/RQ4DRBVAtPK69AY`
+Snapshot ID: `ZkFYAAAAAABjp2jAZckiN7gFdfcPDypr`

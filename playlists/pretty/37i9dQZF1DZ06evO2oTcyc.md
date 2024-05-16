@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 ### [This Is Kodak Black](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oTcyc)
 
-> This Is Kodak Black\. Los temas esenciales, todos en una lista.
+> This is Kodak Black\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,925 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,986 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 50 | [Honey Bun](https://open.spotify.com/track/1SRYeLTTfFC1nYtIMauYQc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Heart of the Projects](https://open.spotify.com/album/6KFW9lDRKODehZOBESXp3s) | 2:35 |
 | 51 | [Roll N Peace 2](https://open.spotify.com/track/2gjdD8IWgliKlyfuag7ct8) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Psychotic, Iconic Ep 2](https://open.spotify.com/album/4sotapY3zEP0hR8Sly7SlX) | 4:02 |
 
-Snapshot ID: `ZkFYAAAAAAAneVOBV5kpoZQpcRh1Mhde`
+Snapshot ID: `ZkFYAAAAAACy288xsQws7MYyVY+WKguN`

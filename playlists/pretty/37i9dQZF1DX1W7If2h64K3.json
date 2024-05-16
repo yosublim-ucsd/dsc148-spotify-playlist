@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 48149,
+  "num_followers": 48176,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann Recital",
-        "url": "https://open.spotify.com/album/7egP1n54TpFaOg0zyIoch0"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
-      "url": "https://open.spotify.com/track/3MdV4O6NgN42ZC0a335Cag"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Besser ohne Worte",
         "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 97003,
       "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
       "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann Recital",
+        "url": "https://open.spotify.com/album/7egP1n54TpFaOg0zyIoch0"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
+      "url": "https://open.spotify.com/track/3MdV4O6NgN42ZC0a335Cag"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -537,28 +537,8 @@
         }
       ],
       "duration_ms": 289400,
-      "name": "Symphony No. 4 In D Minor, Op. 120: 2. Romanze (Ziemlich langsam)",
+      "name": "Symphony No. 4 in D Minor, Op. 120: II. Romanze. Ziemlich langsam",
       "url": "https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Frage",
-        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        }
-      ],
-      "duration_ms": 110773,
-      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
-      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -579,6 +559,26 @@
       "duration_ms": 139000,
       "name": "Myrthen, Op. 25: No. 1, Widmung",
       "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Frage",
+        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        }
+      ],
+      "duration_ms": 110773,
+      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
+      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -655,30 +655,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Symphony No. 4, Overture, Scherzo & Finale & Konzertstuck",
-        "url": "https://open.spotify.com/album/2ayXNQZo9DicCQxyFsEXvr"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Paavo J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
-        },
-        {
-          "name": "Deutsche Kammerphilharmonie Bremen",
-          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
-        }
-      ],
-      "duration_ms": 436266,
-      "name": "Konzertst\u00fcck for 4 Horns and Orchestra in F Major, Op. 86: I. Lebhaft",
-      "url": "https://open.spotify.com/track/6En1L5jLJAW9ydhVTB1kEB"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Complete Works for Piano Trio",
         "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 478546,
       "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
       "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Symphony No. 4, Overture, Scherzo & Finale & Konzertstuck",
+        "url": "https://open.spotify.com/album/2ayXNQZo9DicCQxyFsEXvr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+        },
+        {
+          "name": "Deutsche Kammerphilharmonie Bremen",
+          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+        }
+      ],
+      "duration_ms": 436266,
+      "name": "Konzertst\u00fcck for 4 Horns and Orchestra in F Major, Op. 86: I. Lebhaft",
+      "url": "https://open.spotify.com/track/6En1L5jLJAW9ydhVTB1kEB"
     },
     {
       "added_at": "2022-11-04 13:17:00",

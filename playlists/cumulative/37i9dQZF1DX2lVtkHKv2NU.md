@@ -4,7 +4,7 @@
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-351 songs - 18 hr 45 min
+352 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Dime \(with Conexión Divina\)](https://open.spotify.com/track/0RUEaNVgRbaj8Mm1qPaHri) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Dime \(with Conexión Divina\)](https://open.spotify.com/album/62LsTv9SDFBUihRPwVUsLr) | 3:52 | 2023-10-21 | 2023-12-09 |
 | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS) | 3:12 | 2023-12-08 | 2024-01-13 |
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-12-09 | 2023-03-11 |
-| [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-12-09 | 2023-08-29 |
+| [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-12-09 |  |
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2021-12-09 | 2022-05-28 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-12-09 | 2023-07-29 |
 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 | 2023-12-08 | 2024-01-13 |
@@ -202,7 +202,7 @@
 | [Marisol](https://open.spotify.com/track/4iOe9PEYklFUXJMJAg7JDG) | [Aquiles Moon](https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Marisol](https://open.spotify.com/album/2EuAUwiVcfAFrVQaKmHFtJ) | 4:13 | 2022-12-03 | 2022-12-10 |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2021-12-09 | 2023-12-09 |
 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-03-29 | 2023-04-09 |
-| [Me Cae Mal Tu Novia \- de "Todas Menos Tú"](https://open.spotify.com/track/7fnI5yH0tQo7JqiCruKKeY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia \(Todas Las Versiones Existentes\)](https://open.spotify.com/album/2W32tYFUDPru52leeN9wOE) | 2:49 | 2024-02-16 |  |
+| [Me Cae Mal Tu Novia \- de "Todas Menos Tú"](https://open.spotify.com/track/7fnI5yH0tQo7JqiCruKKeY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia \(Todas Las Versiones Existentes\)](https://open.spotify.com/album/2W32tYFUDPru52leeN9wOE) | 2:49 | 2024-02-16 | 2024-05-16 |
 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 | 2023-02-02 |  |
 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 | 2023-12-08 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-12-09 |  |
@@ -246,6 +246,7 @@
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2023-12-08 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-08-29 | 2024-01-13 |
 | [Platicamos](https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Platicamos](https://open.spotify.com/album/45SnjkMBBSQ01TNzU7H9Mx) | 2:56 | 2022-08-26 | 2023-04-01 |
+| [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 | 2024-05-16 |  |
 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 | 2021-12-09 | 2023-08-29 |
 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 | 2022-07-11 | 2022-11-13 |
 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2022-08-05 | 2023-02-03 |
@@ -337,7 +338,7 @@
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2024-02-09 |  |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-10-21 | 2023-12-09 |
 | [VIBES](https://open.spotify.com/track/4L4ji7AwnwVSPsGgxzm06v) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [VIBES](https://open.spotify.com/album/66DV3wRHQ4KTVkL8Ps26jQ) | 2:55 | 2021-12-09 | 2022-07-08 |
-| [Viceversa](https://open.spotify.com/track/1utrxBHmUPgNhE8hWkDjXL) | [Bu Cuaron](https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj) | [Viceversa](https://open.spotify.com/album/4k7CS3g3K0aXrPhInSX5QD) | 3:39 | 2024-02-23 |  |
+| [Viceversa](https://open.spotify.com/track/1utrxBHmUPgNhE8hWkDjXL) | [Bu Cuaron](https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj) | [Viceversa](https://open.spotify.com/album/4k7CS3g3K0aXrPhInSX5QD) | 3:39 | 2024-02-23 | 2024-05-16 |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-03-31 | 2023-07-29 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2021-12-09 |  |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-29 | 2023-12-09 |

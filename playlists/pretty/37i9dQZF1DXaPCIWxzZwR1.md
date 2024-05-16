@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Camila Cabello & Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,331 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,292 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 34 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 |
 | 35 | [Mistake](https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Mistake](https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg) | 2:24 |
 | 36 | [Drama in Doses](https://open.spotify.com/track/2LbcamjmZDFMOj6dNVaIwA) | [Sid Dorey](https://open.spotify.com/artist/6UcErG934cEadG4q16v37T) | [Drama in Doses](https://open.spotify.com/album/6FIHQn3metCrRMo2q8XpLc) | 2:48 |
-| 37 | [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:46 |
+| 37 | [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:43 |
 | 38 | [Pillow In My Arms](https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [ver2igo vol\. 2](https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav) | 3:16 |
 | 39 | [Close Calls](https://open.spotify.com/track/2JO7CpZKggHArL31IKRpZx) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Breakfast EP](https://open.spotify.com/album/2onCLWv34wdqijf6bJDIr9) | 2:41 |
 | 40 | [Too Slow](https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Too Slow](https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7) | 2:04 |

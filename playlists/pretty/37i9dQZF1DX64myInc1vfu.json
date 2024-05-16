@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
-  "num_followers": 83402,
+  "num_followers": 83441,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Lo Que T\u00fa Quieras",
-        "url": "https://open.spotify.com/album/1APLoRrGJUBAcIzHeYclft"
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
       },
       "artists": [
         {
           "name": "Daniel, Me Est\u00e1s Matando",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
         }
       ],
-      "duration_ms": 198826,
-      "name": "Lo Que T\u00fa Quieras",
-      "url": "https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv"
+      "duration_ms": 261815,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -611,22 +615,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
+        "name": "Lo Que T\u00fa Quieras",
+        "url": "https://open.spotify.com/album/1APLoRrGJUBAcIzHeYclft"
       },
       "artists": [
         {
           "name": "Daniel, Me Est\u00e1s Matando",
           "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
         }
       ],
-      "duration_ms": 261815,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
+      "duration_ms": 198826,
+      "name": "Lo Que T\u00fa Quieras",
+      "url": "https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Trebol (II)",
         "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 84558,
       "name": "Aunque Me Cueste La Vida",
       "url": "https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
     },
     {
       "added_at": "2024-04-19 04:00:00",

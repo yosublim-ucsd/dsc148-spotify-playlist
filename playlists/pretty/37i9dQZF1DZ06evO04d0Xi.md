@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 ### [This Is Fernanda Brum](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04d0Xi)
 
-> This is Fernanda Brum\. The essential tracks, all in one playlist.
+> This is Fernanda Brum\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,764 likes - 52 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,772 likes - 52 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 51 | [És Real pra Mim](https://open.spotify.com/track/2hsERnD409nL9T06rhZC01) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [És Real Pra Mim](https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A) | 5:34 |
 | 52 | [Unção De Ousadia \- Ao Vivo](https://open.spotify.com/track/2OHxbrxRW21hMelIc2AJgf) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [30 Anos na África \(Ao Vivo\)](https://open.spotify.com/album/5091QEo5tIwJagb4poUeiw) | 3:20 |
 
-Snapshot ID: `ZkFYAAAAAACwtCw7QnlIeacSmZIOXH5t`
+Snapshot ID: `ZkFYAAAAAABomGlPUI7vnqVMWFUk+73F`

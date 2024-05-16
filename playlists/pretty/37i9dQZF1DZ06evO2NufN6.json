@@ -1,12 +1,12 @@
 {
-  "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 867418,
+  "description": "This is Mac Miller. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 867612,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAAEjXZBIHN3LtRUkGRNr46B",
+  "snapshot_id": "ZkKpgAAAAAA1lsRFqEOS6vd5+Ko5RiZV",
   "tracks": [
     {
       "added_at": null,
@@ -112,13 +112,13 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+      "duration_ms": 216000,
+      "name": "My Favorite Part",
+      "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 161840,
-      "name": "Come Back to Earth",
-      "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
+      "duration_ms": 345133,
+      "name": "Self Care",
+      "url": "https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx"
     },
     {
       "added_at": null,
@@ -171,42 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "My Favorite Part",
-      "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Ladders",
-      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -227,6 +191,22 @@
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "Come Back to Earth",
+      "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
     },
     {
       "added_at": null,
@@ -263,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "What's the Use?",
-      "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K.I.D.S.",
         "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
@@ -291,6 +255,22 @@
       "duration_ms": 157540,
       "name": "Kool Aid & Frozen Pizza",
       "url": "https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Ladders",
+      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
     },
     {
       "added_at": null,
@@ -331,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "Hurt Feelings",
-      "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K.I.D.S.",
         "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
@@ -359,6 +323,22 @@
       "duration_ms": 197929,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/46wojTgyEs6lbgaWB6yIuz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "What's the Use?",
+      "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
     },
     {
       "added_at": null,
@@ -395,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 345213,
-      "name": "Jet Fuel",
-      "url": "https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Macadelic",
         "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
       },
@@ -423,6 +387,22 @@
       "duration_ms": 185779,
       "name": "Thoughts from a Balcony",
       "url": "https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "Hurt Feelings",
+      "url": "https://open.spotify.com/track/5p7GiBZNL1afJJDUrOA6C8"
     },
     {
       "added_at": null,
@@ -459,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
       "artists": [
         {
@@ -468,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 343213,
-      "name": "ROS",
-      "url": "https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl"
+      "duration_ms": 198107,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
     },
     {
       "added_at": null,
@@ -487,42 +467,6 @@
       "duration_ms": 165910,
       "name": "Ayye",
       "url": "https://open.spotify.com/track/78844Rxxkl8STQUVbp4vXi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 153881,
-      "name": "Rain (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
     },
     {
       "added_at": null,
@@ -567,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Programs",
-        "url": "https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ"
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
       "artists": [
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 190186,
-      "name": "Programs",
-      "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
+      "duration_ms": 153881,
+      "name": "Rain (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd"
     },
     {
       "added_at": null,
@@ -599,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
       "artists": [
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
         }
       ],
-      "duration_ms": 278506,
-      "name": "100 Grandkids",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+      "duration_ms": 319272,
+      "name": "We (feat. CeeLo Green)",
+      "url": "https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9"
     },
     {
       "added_at": null,
@@ -631,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Quest",
         "url": "https://open.spotify.com/album/59h4HNypq1jgCHOkYUtyoW"
       },
@@ -643,6 +611,26 @@
       "duration_ms": 233323,
       "name": "The Quest",
       "url": "https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     },
     {
       "added_at": null,
@@ -859,6 +847,22 @@
       "duration_ms": 161653,
       "name": "Coming Back (feat. Mac Miller)",
       "url": "https://open.spotify.com/track/1WsRuvitfegWXQJKRgRZrj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 326426,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4brX8MJs5hxErgq48f9REO"
     }
   ],
   "unique_name": "This Is Mac Miller",

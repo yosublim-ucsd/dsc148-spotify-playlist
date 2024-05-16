@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 35976,
+  "num_followers": 35995,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Spring Girl",
         "url": "https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 228571,
       "name": "Spring Girl",
       "url": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "ROCK THIS",
-        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
-      },
-      "artists": [
-        {
-          "name": "Sergio Saffe",
-          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "ROCK THIS",
-      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "I Am Somebody",
         "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
@@ -1339,22 +1323,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Origins EP",
-        "url": "https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN"
+        "name": "ROCK THIS",
+        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Harvy Valencia",
-          "url": "https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4"
+          "name": "Sergio Saffe",
+          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
         }
       ],
-      "duration_ms": 236279,
-      "name": "Origins - 3AM Tusi Mix",
-      "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
+      "duration_ms": 204375,
+      "name": "ROCK THIS",
+      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1391,6 +1371,26 @@
       "duration_ms": 200465,
       "name": "venus' secret",
       "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Origins EP",
+        "url": "https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Harvy Valencia",
+          "url": "https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4"
+        }
+      ],
+      "duration_ms": 236279,
+      "name": "Origins - 3AM Tusi Mix",
+      "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "San te Cr\u00fcs",
+        "url": "https://open.spotify.com/album/77EmwiwjhmxfbmWhpVRSfa"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "duration_ms": 376498,
+      "name": "San te Cr\u00fcs",
+      "url": "https://open.spotify.com/track/4zgEYzj90KHCb6v3KuI3Dv"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "DR-EP-2068",
         "url": "https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 444444,
       "name": "What's Your Name",
       "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "San te Cr\u00fcs",
-        "url": "https://open.spotify.com/album/77EmwiwjhmxfbmWhpVRSfa"
-      },
-      "artists": [
-        {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
-        }
-      ],
-      "duration_ms": 376498,
-      "name": "San te Cr\u00fcs",
-      "url": "https://open.spotify.com/track/4zgEYzj90KHCb6v3KuI3Dv"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Where Ya At",
+        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Where Ya At",
+      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Disco Trip EP",
         "url": "https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Where Ya At",
-        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
-      },
-      "artists": [
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Where Ya At",
-      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Picante EP",
         "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 344000,
       "name": "Picante",
       "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
-      },
-      "artists": [
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1683,6 +1667,22 @@
       "duration_ms": 335269,
       "name": "Step Forward",
       "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2024-05-10 04:01:00",

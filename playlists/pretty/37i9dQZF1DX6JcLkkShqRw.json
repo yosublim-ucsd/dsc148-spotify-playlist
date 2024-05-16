@@ -1,6 +1,6 @@
 {
   "description": "Flow sudamericano con COSMIC KID.",
-  "num_followers": 331617,
+  "num_followers": 331595,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,30 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Controlando el Ki",
+        "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "CamiMusic",
+          "url": "https://open.spotify.com/artist/21E0RTFtdVsObx00mUO98s"
+        }
+      ],
+      "duration_ms": 159101,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Casi Angeles",
         "url": "https://open.spotify.com/album/6q1HM0kjnKUsyvEzSfrDsw"
       },
@@ -475,30 +499,6 @@
       "duration_ms": 205217,
       "name": "Nena Sad",
       "url": "https://open.spotify.com/track/1tMG67mMQCsculYUqJR5RC"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Controlando el Ki",
-        "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
-      },
-      "artists": [
-        {
-          "name": "Sayian Jimmy",
-          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
-        },
-        {
-          "name": "Nysix Music",
-          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
-        },
-        {
-          "name": "CamiMusic",
-          "url": "https://open.spotify.com/artist/21E0RTFtdVsObx00mUO98s"
-        }
-      ],
-      "duration_ms": 159101,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "MA DIAMANTE",
-        "url": "https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 148602,
-      "name": "MA DIAMANTE",
-      "url": "https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "X ESO BB",
         "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 193835,
       "name": "X ESO BB",
       "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "MA DIAMANTE",
+        "url": "https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 148602,
+      "name": "MA DIAMANTE",
+      "url": "https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "+Q1 Jenner",
+        "url": "https://open.spotify.com/album/1Mt0EJwCMaB5MtziKTikg1"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "+Q1 Jenner",
+      "url": "https://open.spotify.com/track/3aXtPQQ4xp8MSWPcHSRo6r"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "DANCE CRIP",
         "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
       },
@@ -1219,22 +1239,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "+Q1 Jenner",
-        "url": "https://open.spotify.com/album/1Mt0EJwCMaB5MtziKTikg1"
+        "name": "RADIO CLUB HITS",
+        "url": "https://open.spotify.com/album/1qJCu54S0zWtGvdQq50OFq"
       },
       "artists": [
         {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
         },
         {
-          "name": "Dysbit",
-          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
         }
       ],
-      "duration_ms": 154794,
-      "name": "+Q1 Jenner",
-      "url": "https://open.spotify.com/track/3aXtPQQ4xp8MSWPcHSRo6r"
+      "duration_ms": 130409,
+      "name": "YA NI YO ME ENTIENDO",
+      "url": "https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1267,26 +1291,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "RADIO CLUB HITS",
-        "url": "https://open.spotify.com/album/1qJCu54S0zWtGvdQq50OFq"
+        "name": "Av\u00edsame",
+        "url": "https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn"
       },
       "artists": [
         {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
         },
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Obie Wanshot",
-          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+          "name": "Ness",
+          "url": "https://open.spotify.com/artist/6r20N9knjoQP5oIgs0wtxe"
         }
       ],
-      "duration_ms": 130409,
-      "name": "YA NI YO ME ENTIENDO",
-      "url": "https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz"
+      "duration_ms": 163971,
+      "name": "Av\u00edsame",
+      "url": "https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1343,26 +1363,6 @@
       "duration_ms": 175317,
       "name": "AUTOM\u00c1TICO",
       "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Av\u00edsame",
-        "url": "https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Ness",
-          "url": "https://open.spotify.com/artist/6r20N9knjoQP5oIgs0wtxe"
-        }
-      ],
-      "duration_ms": 163971,
-      "name": "Av\u00edsame",
-      "url": "https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "CAMIONETOTA",
         "url": "https://open.spotify.com/album/2toNsWrWckrup7Z2Hwp5ao"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 276315,
       "name": "CAMIONETOTA",
       "url": "https://open.spotify.com/track/2KknVfA6jr8kAb2QdmAJPs"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "OJAL\u00c1",
-        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160482,
-      "name": "OJAL\u00c1",
-      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Antezana 247 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 197831,
       "name": "El Amanecer",
       "url": "https://open.spotify.com/track/48H3BsuIXKMYRTuFtxkRhh"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "OJAL\u00c1",
+        "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160482,
+      "name": "OJAL\u00c1",
+      "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Baila para Mi",
-        "url": "https://open.spotify.com/album/6YfDEmXLmPFRlz4iScphbu"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 164322,
-      "name": "Baila para Mi",
-      "url": "https://open.spotify.com/track/2KxfFzjyd5mpJu66s66w2S"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Cheto Mal",
         "url": "https://open.spotify.com/album/2oJxZbquPWkGZOlsRIIl2k"
       },
@@ -1779,18 +1763,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Mayor Que Yo",
-        "url": "https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm"
+        "name": "Baila para Mi",
+        "url": "https://open.spotify.com/album/6YfDEmXLmPFRlz4iScphbu"
       },
       "artists": [
         {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         }
       ],
-      "duration_ms": 160937,
-      "name": "Mayor Que Yo",
-      "url": "https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu"
+      "duration_ms": 164322,
+      "name": "Baila para Mi",
+      "url": "https://open.spotify.com/track/2KxfFzjyd5mpJu66s66w2S"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1811,6 +1795,22 @@
       "duration_ms": 155275,
       "name": "Toda Guapa",
       "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Mayor Que Yo",
+        "url": "https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 160937,
+      "name": "Mayor Que Yo",
+      "url": "https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Dale Mecha",
-        "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 150829,
-      "name": "Dale Mecha",
-      "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Parte de M\u00ed",
         "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 159967,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Dale Mecha",
+        "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 150829,
+      "name": "Dale Mecha",
+      "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
     },
     {
       "added_at": "2024-05-10 03:00:00",

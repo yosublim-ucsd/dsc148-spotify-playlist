@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,094 likes - 100 songs - 15 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,097 likes - 100 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 95707,
+  "num_followers": 95731,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,42 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Colaboraciones de Ayer y Hoy",
+        "url": "https://open.spotify.com/album/5uu15dSyOKwEVPY9qRzT6t"
+      },
+      "artists": [
+        {
+          "name": "Rescate",
+          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "Soy Jose",
+      "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Vestida De Adoracion",
+        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
+      },
+      "artists": [
+        {
+          "name": "Kathy Cristina",
+          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
+        }
+      ],
+      "duration_ms": 257650,
+      "name": "Yo Te Adoro",
+      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
         "url": "https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC"
       },
@@ -739,22 +775,6 @@
       "duration_ms": 199506,
       "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
       "url": "https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Vestida De Adoracion",
-        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
-      },
-      "artists": [
-        {
-          "name": "Kathy Cristina",
-          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
-        }
-      ],
-      "duration_ms": 257650,
-      "name": "Yo Te Adoro",
-      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -795,26 +815,6 @@
       "duration_ms": 303576,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/0fZAqx5OPbcTjjJi41TWqp"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Colaboraciones de Ayer y Hoy",
-        "url": "https://open.spotify.com/album/5uu15dSyOKwEVPY9qRzT6t"
-      },
-      "artists": [
-        {
-          "name": "Rescate",
-          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
-        },
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "Soy Jose",
-      "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
     },
     {
       "added_at": "2020-11-24 13:23:55",

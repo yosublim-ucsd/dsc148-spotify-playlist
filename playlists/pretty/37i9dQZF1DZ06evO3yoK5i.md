@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 ### [This Is Eros Ramazzotti](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3yoK5i)
 
-> This is Eros Ramazzotti\. The essential tracks, all in one playlist.
+> This Is Eros Ramazzotti\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,270 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,310 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Perfetto](https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Perfetto](https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2) | 3:52 |
 | 50 | [Gli ultimi romantici](https://open.spotify.com/track/2rPRLpdjm0qpXzfM46piJe) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:29 |
 
-Snapshot ID: `ZkFYAAAAAABF6ViC+twMIemkSUtnf4ZI`
+Snapshot ID: `ZkFYAAAAAACumYZXb/dgNsPjuRBs+JcS`

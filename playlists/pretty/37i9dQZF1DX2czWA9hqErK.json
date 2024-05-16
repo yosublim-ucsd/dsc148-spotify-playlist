@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1364448,
+  "num_followers": 1364382,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2024-05-13 17:02:26",
-      "album": {
         "name": "You Promised A Lifetime",
         "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 149605,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
+    },
+    {
+      "added_at": "2024-05-13 17:02:26",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2024-05-13 17:02:26",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 206218,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
+    },
+    {
+      "added_at": "2024-05-13 17:02:26",
+      "album": {
         "name": "I've told the trees everything",
         "url": "https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 179791,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
-    },
-    {
-      "added_at": "2024-05-13 17:02:26",
-      "album": {
         "name": "Songs in the Gravel",
         "url": "https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 174595,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
     },
     {
       "added_at": "2024-05-13 17:02:26",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 206218,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
+      "duration_ms": 174595,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
     },
     {
       "added_at": "2024-05-13 17:02:26",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
+        "name": "12 Notes",
+        "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 154705,
+      "name": "Ways To Go (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
+    },
+    {
+      "added_at": "2024-05-13 17:02:26",
+      "album": {
         "name": "In The Cards",
         "url": "https://open.spotify.com/album/5e3ZkbTHw3BtPoVI9VYXTS"
       },
@@ -1179,22 +1199,6 @@
       "duration_ms": 180493,
       "name": "In The Cards",
       "url": "https://open.spotify.com/track/5oEoCJsMs5fsPgOKuwdFmE"
-    },
-    {
-      "added_at": "2024-05-13 17:02:26",
-      "album": {
-        "name": "Still Yours (From The Doc)",
-        "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 158008,
-      "name": "Still Yours (From The Doc)",
-      "url": "https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq"
     },
     {
       "added_at": "2024-05-13 17:02:26",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
-        "name": "12 Notes",
-        "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
+        "name": "Still Yours (From The Doc)",
+        "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 154705,
-      "name": "Ways To Go (feat. Khalid)",
-      "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
+      "duration_ms": 158008,
+      "name": "Still Yours (From The Doc)",
+      "url": "https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq"
     },
     {
       "added_at": "2024-05-13 17:02:26",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/4FZIE2wFhtrE4bwvp1H1nu"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 175969,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/4m9DA6crSHtnrhaIVGPzwm"
-    },
-    {
-      "added_at": "2024-05-13 17:02:26",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4FZIE2wFhtrE4bwvp1H1nu"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 175969,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/4m9DA6crSHtnrhaIVGPzwm"
+    },
+    {
+      "added_at": "2024-05-13 17:02:26",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS"
       },
@@ -1420,7 +1420,7 @@
           "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 166080,
+      "duration_ms": 163370,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ"
     },
@@ -1439,6 +1439,22 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2024-05-13 17:02:26",
+      "album": {
+        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 252850,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "added_at": "2024-05-13 17:02:26",
@@ -1471,22 +1487,6 @@
       "duration_ms": 176805,
       "name": "Down Swinging",
       "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
-    },
-    {
-      "added_at": "2024-05-13 17:02:26",
-      "album": {
-        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 252850,
-      "name": "Cedar",
-      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "added_at": "2024-05-13 17:02:26",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-05-13 17:02:26",
       "album": {
-        "name": "Some Type Of Skin",
-        "url": "https://open.spotify.com/album/6t82nookih9vwtIrZsGQu5"
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 192573,
-      "name": "Some Type Of Skin",
-      "url": "https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K"
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
     }
   ],
   "unique_name": "Easy",

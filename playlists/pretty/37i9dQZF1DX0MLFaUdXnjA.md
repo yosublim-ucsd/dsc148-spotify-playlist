@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best chill pop\. Cover: Alec Benjamin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,810,230 likes - 99 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,810,206 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 41 | [Kissing In the Cold](https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold](https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA) | 3:54 |
 | 42 | [I wish for the rain](https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [I wish for the rain](https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk) | 2:31 |
 | 43 | [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 |
-| 44 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 |
+| 44 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 |
 | 45 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
 | 46 | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ), [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY) | 3:08 |
 | 47 | [Vitamins](https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Vitamins](https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12) | 2:32 |

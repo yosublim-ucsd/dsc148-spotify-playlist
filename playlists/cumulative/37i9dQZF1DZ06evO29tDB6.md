@@ -2,13 +2,13 @@
 
 ### [This Is El Tri](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29tDB6)
 
-> This Is El Tri\. Los temas esenciales, todos en una lista.
+> This is El Tri\. The essential tracks, all in one playlist.
 
 72 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 | 2023-01-14 |  |
+| [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 | 2023-01-14 | 2024-05-16 |
 | [Bésame](https://open.spotify.com/track/1Ul3KRSxw5t5pffvUqnL5u) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [A talonear!!](https://open.spotify.com/album/0HRGrsD1AKAqShL4GtOnfp) | 4:03 | 2023-01-14 | 2023-10-11 |
 | [Caseta de cobro](https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 4:06 | 2023-10-10 | 2023-12-31 |
 | [Chavo De Onda](https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Chavo De Onda](https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT) | 3:29 | 2023-01-14 |  |
@@ -21,7 +21,7 @@
 | [Difícil](https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 2:46 | 2023-05-19 |  |
 | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/track/2GJP2ir2DePYIgdJPnKf5d) | [Té de Brujas](https://open.spotify.com/artist/39BvzssARgDTZ1Kf0uqNfj), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/album/0OVHD0GuWAKGIlDDp1qVNq) | 4:27 | 2024-02-19 |  |
 | [El hablador](https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 2:50 | 2023-01-14 |  |
-| [El maldito ritmo](https://open.spotify.com/track/47pJwRC50gCROwO6TnFV7m) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 3:05 | 2024-05-13 | 2024-05-15 |
+| [El maldito ritmo](https://open.spotify.com/track/47pJwRC50gCROwO6TnFV7m) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 3:05 | 2024-05-13 |  |
 | [El muchacho chicho](https://open.spotify.com/track/2qGjcYq5GlLPdRlQC88q04) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 5:10 | 2023-01-14 |  |
 | [El niño sin amor](https://open.spotify.com/track/1Yu18BneXx007JcwcOh5Wa) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El niño sin amor \(Editado 7 Tracks\)](https://open.spotify.com/album/33UOKo7tuxsWlDUtTXswic) | 3:07 | 2023-01-14 |  |
 | [El rey](https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 | 2024-02-11 |  |
@@ -32,7 +32,7 @@
 | [Hoyos en la bolsa](https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 3:37 | 2023-01-14 |  |
 | [La raza más chida](https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:10 | 2023-01-14 |  |
 | [La Vecina \(Trapeada Mix\)](https://open.spotify.com/track/2Qa3Sd1Hi2eJa2mGdr0cqe) | [Riesgo de Contagio](https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [Luisito Rey](https://open.spotify.com/artist/4xIGd0rRvlvEw9XMwVEA8Q), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Jeronimo Gorraez](https://open.spotify.com/artist/4EoBAFFhWcdz9m4RQ9gRzR) | [La Vecina \(Trapeada Mix\)](https://open.spotify.com/album/21Cm0UU0Dl5Qmr081bGnie) | 3:33 | 2023-07-17 | 2023-10-11 |
-| [Las piedras rodantes](https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Una rola para los minusválidos](https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg) | 3:18 | 2023-01-14 | 2024-05-15 |
+| [Las piedras rodantes](https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Una rola para los minusválidos](https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg) | 3:18 | 2023-01-14 |  |
 | [Libertad bajo fianza](https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 3:43 | 2024-01-21 | 2024-03-27 |
 | [Los minusválidos](https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Sinfónico](https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8) | 4:04 | 2023-01-14 |  |
 | [María Sabina](https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 5:11 | 2023-01-14 |  |
@@ -48,7 +48,7 @@
 | [Nocivo para la salud](https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 2:56 | 2023-01-14 |  |
 | [Nostalgia](https://open.spotify.com/track/560VWBRAFAYoY7uieHdKVt) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Fin de siglo](https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD) | 4:26 | 2023-01-14 |  |
 | [Nunca digas que no](https://open.spotify.com/track/1PfgTzxz8fqqOjIIO81ZXy) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 5:14 | 2023-01-14 |  |
-| [Oye cantinero](https://open.spotify.com/track/6G1omxCOzzW0KSTpfnovu7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 5:42 | 2023-01-14 |  |
+| [Oye cantinero](https://open.spotify.com/track/6G1omxCOzzW0KSTpfnovu7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri Sinfónico II](https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr) | 5:42 | 2023-01-14 | 2024-05-16 |
 | [Pamela](https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 4:41 | 2023-01-14 |  |
 | [Parece fácil](https://open.spotify.com/track/75dHHUzOPXZcFjFYEPa7cj) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 4:34 | 2023-01-14 |  |
 | [Pensando En Ti](https://open.spotify.com/track/0UltH1Tab95oO7XZtOvK1w) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Pensando En Ti](https://open.spotify.com/album/0UPYJkfkr2rKGWy2XArkb0) | 3:17 | 2023-12-13 | 2024-02-12 |

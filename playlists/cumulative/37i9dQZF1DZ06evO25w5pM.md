@@ -2,7 +2,7 @@
 
 ### [This Is Deuter](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25w5pM)
 
-> This Is Deuter\. Los temas esenciales, todos en una lista.
+> This is Deuter\. The essential tracks, all in one playlist.
 
 71 songs - 9 hr 19 min
 

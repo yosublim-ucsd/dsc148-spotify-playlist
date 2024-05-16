@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,720,465 likes - 40 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,720,588 likes - 40 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
-| 2 | [I Wanna Go](https://open.spotify.com/track/4mh0uJSKznwt17Gj0A8BsJ) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [I Wanna Go](https://open.spotify.com/album/0pefjgnSlK39AtVcDo9Xzd) | 3:10 |
-| 3 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 |
-| 4 | [Pangalawang Ulan](https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO) | [brando bal](https://open.spotify.com/artist/5PEsNoUzsAqT1INR1N4HY0) | [Pangalawang Ulan](https://open.spotify.com/album/2Zz2esghd8bhZZ4lMqn4zH) | 5:23 |
+| 1 | [PAPALAYO](https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [PAPALAYO](https://open.spotify.com/album/4th74t7vSm28kVsqVwb9ii) | 4:00 |
+| 2 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
+| 3 | [pagod na \(sayo\)](https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [pagod na \(sayo\)](https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF) | 4:56 |
+| 4 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 |
 | 5 | [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 |
 | 6 | [Akong Addiction](https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Akong Addiction](https://open.spotify.com/album/37egJXzirS9te7NSlbxndI) | 3:51 |
-| 7 | [Cavite's Poison](https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Cavite's Poison](https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj) | 3:31 |
+| 7 | [7:07 \(Hay Buhay\)](https://open.spotify.com/track/5KesauCcOmAPJNUBPB3I3y) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [7:07 \(Hay Buhay\)](https://open.spotify.com/album/37Dhm53dSWWKUAO21BD2Mn) | 3:10 |
 | 8 | [Gunita](https://open.spotify.com/track/24YygRpZiSVvRy9wI1Qxho) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Gunita](https://open.spotify.com/album/2njjzX0FQpIS3W8COYGpBR) | 4:13 |
 | 9 | [Untrue](https://open.spotify.com/track/53LYqBW6TwwecPGxs2CQ7c) | [Meg Zurbito](https://open.spotify.com/artist/1VjZnoEkd3H8JvgvHbk3Mb) | [Untrue](https://open.spotify.com/album/0h1SWiwc1mleDoI7YkS0ox) | 4:32 |
-| 10 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
-| 11 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
-| 12 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
+| 10 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
+| 11 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
+| 12 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
 | 13 | [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 |
 | 14 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |
 | 15 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 39 | [You'll Be Safe Here](https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [You'll Be Safe Here](https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4) | 5:03 |
 | 40 | [Pulso](https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pulso](https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz) | 4:29 |
 
-Snapshot ID: `ZjsrpwAAAAC4cFTSQtv9SpxPxCRfvXnp`
+Snapshot ID: `ZkSJFgAAAAB0CDe5LH7yMQ5pFUc61hnK`

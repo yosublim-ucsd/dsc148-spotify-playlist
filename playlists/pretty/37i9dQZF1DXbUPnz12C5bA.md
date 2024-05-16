@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar\. Conmemorando la vida de Diomedes Díaz este 22 de Diciembre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,799 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,877 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 28 | [Dile](https://open.spotify.com/track/1MGlNhK0XHWaeh5CfXmU2Y) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Ponte a la Moda](https://open.spotify.com/album/5EArLgK3ztJCjEdBb71nGn) | 4:11 |
 | 29 | [Te Amo y Te Amo](https://open.spotify.com/track/35DHosusaWYuFw2gCyoKWL) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:47 |
 | 30 | [Ella Se Llevó Mi Vida](https://open.spotify.com/track/6yDLi3sgYTBPSnNkNsEP9Z) | [Wilfran Castillo](https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L) | [Sentido Común Volume 1](https://open.spotify.com/album/7ynJAJPX7pJOCAax0DXWdX) | 4:38 |
-| 31 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 |
+| 31 | [Mi Muchacho](https://open.spotify.com/track/4p25pvhFydFona4Oe03WEL) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj) | [Grandes Exitos](https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz) | 4:48 |
 | 32 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR) | [Erick Escobar Nayo Quintero Y La Decision Vallenata](https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO) | [Vallenatos Bonitos Bonitos](https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn) | 3:55 |
 | 33 | [Jaime Molina](https://open.spotify.com/track/7KGk2Az2Pkg5KBGIAmYfJN) | [Orquesta Filarmónica de Bogotá](https://open.spotify.com/artist/6iR9h8XJsIb3WwA8u9j7sU) | [50 años tocando para ti](https://open.spotify.com/album/0z4qrWLVFyhdXEmKJ9WOQw) | 5:00 |
 | 34 | [Sin Perdón](https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:47 |

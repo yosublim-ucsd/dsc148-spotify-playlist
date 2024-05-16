@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 ### [This Is Gloria Groove](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4puyK3)
 
-> This is Gloria Groove\. The essential tracks, all in one playlist.
+> This is Gloria Groove\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,828 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,853 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 49 | [MÁSCARA \- AO VIVO](https://open.spotify.com/track/5pXQo3mH6JWxa3HXN4VwLX) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:38 |
 | 50 | [Meu Anjo](https://open.spotify.com/track/55hdt9atyabpR1isrVW0H7) | [Gina Garcia](https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Meu Anjo](https://open.spotify.com/album/64RCamPMW0E89XEV81ExhZ) | 4:09 |
 
-Snapshot ID: `ZkFYAAAAAADoDkvxUCKuw3qAeQ27Yq0D`
+Snapshot ID: `ZkFYAAAAAABUc+SBqvOEon0rVeNixLXV`

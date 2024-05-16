@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 68543,
+  "num_followers": 68590,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "You Worry Me",
-      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Writing of Blues and Yellows (Deluxe Version)",
         "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 187266,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "You Worry Me",
+      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -859,26 +843,6 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        },
-        {
-          "name": "Linnea Olsson",
-          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
-        }
-      ],
-      "duration_ms": 232986,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -899,6 +863,42 @@
       "duration_ms": 313078,
       "name": "I Am California",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+        }
+      ],
+      "duration_ms": 232986,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Singing Saw",
-        "url": "https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9"
+        "name": "Harlem River",
+        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 194186,
-      "name": "I Have Been to the Mountain",
-      "url": "https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC"
+      "duration_ms": 555883,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Harlem River",
-        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
+        "name": "Singing Saw",
+        "url": "https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 555883,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
+      "duration_ms": 194186,
+      "name": "I Have Been to the Mountain",
+      "url": "https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Like I Used To (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Painting of a Panic Attack (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Been Listening",
         "url": "https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 254853,
       "name": "The Water - feat. Laura Marling",
       "url": "https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Painting of a Panic Attack (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1891,6 +1891,26 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
+        "name": "We the Common",
+        "url": "https://open.spotify.com/album/5pwm1xcWT69NiRzZDwb1M1"
+      },
+      "artists": [
+        {
+          "name": "Thao",
+          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
+        },
+        {
+          "name": "Thao & The Get Down Stay Down",
+          "url": "https://open.spotify.com/artist/2dn0CGCWvtrwZ66bOeLNb2"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/0WdfCa2a7iNxVDgsLnulyt"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
         "name": "The Lone Bellow",
         "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
       },
@@ -1919,26 +1939,6 @@
       "duration_ms": 328120,
       "name": "Everything Looks Better (In Hindsight)",
       "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
-        "name": "We the Common",
-        "url": "https://open.spotify.com/album/5pwm1xcWT69NiRzZDwb1M1"
-      },
-      "artists": [
-        {
-          "name": "Thao",
-          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
-        },
-        {
-          "name": "Thao & The Get Down Stay Down",
-          "url": "https://open.spotify.com/artist/2dn0CGCWvtrwZ66bOeLNb2"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/0WdfCa2a7iNxVDgsLnulyt"
     },
     {
       "added_at": "2024-03-25 16:56:42",

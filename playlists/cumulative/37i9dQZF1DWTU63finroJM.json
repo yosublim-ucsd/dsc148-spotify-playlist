@@ -15961,6 +15961,24 @@
     },
     {
       "album": {
+        "name": "Shadows of Blue",
+        "url": "https://open.spotify.com/album/0jP5PBitTaYMC9TscNx38q"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186515,
+      "name": "On My Way Up",
+      "url": "https://open.spotify.com/track/7EtfO5qsc7uempj2JR7Jwv"
+    },
+    {
+      "album": {
         "name": "WHY AM I HERE",
         "url": "https://open.spotify.com/album/6DknG0hh3OZf7QTQCA8Ms2"
       },
@@ -18884,7 +18902,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 201187,
       "name": "Self-Care 101",
       "url": "https://open.spotify.com/track/4PK8vwNQuscUXTx4ySI8bm"
@@ -21874,7 +21892,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 224390,
       "name": "T\u00e1i ch\u1ebf con tim",
       "url": "https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8"
@@ -23102,6 +23120,24 @@
       "duration_ms": 114000,
       "name": "Who Do I Call?",
       "url": "https://open.spotify.com/track/7luOSOrHYssQ1usmsFbc66"
+    },
+    {
+      "album": {
+        "name": "who\u2019s he gonna take home",
+        "url": "https://open.spotify.com/album/6uqrJkdDkQgi61cLkTRqCw"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "who's he gonna take home",
+      "url": "https://open.spotify.com/track/6RmC8PwJ4qwVM1d6j2hfn2"
     },
     {
       "album": {

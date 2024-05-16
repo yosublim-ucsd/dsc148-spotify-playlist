@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 10th anniversary of Dan + Shay's debut album \"Where It All Began\" on 2010s Country! ",
-  "num_followers": 590070,
+  "num_followers": 590178,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
         }
       ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
+      "duration_ms": 241146,
+      "name": "Five More Minutes",
+      "url": "https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
       "artists": [
         {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 241146,
-      "name": "Five More Minutes",
-      "url": "https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk"
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "We Are Tonight",
-        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "We Are Tonight",
-      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "We Are Tonight",
+        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "We Are Tonight",
+      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2295,22 +2295,6 @@
       "duration_ms": 210373,
       "name": "Prayed For You",
       "url": "https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Beat of the Music",
-      "url": "https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2351,6 +2335,22 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Beat of the Music",
+      "url": "https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/5r00wpsojd4mBYaQFDvni7"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 205560,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/5r00wpsojd4mBYaQFDvni7"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "All On Me",
-      "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 211160,
       "name": "Black",
       "url": "https://open.spotify.com/track/2lFtnEmkIPm2ClN55e2chV"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "All On Me",
+      "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Charleston, SC 1966",
-        "url": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Come Back Song",
-      "url": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Lady Antebellum",
         "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
       },
@@ -2575,18 +2559,18 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+        "name": "Charleston, SC 1966",
+        "url": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 181209,
-      "name": "Don't Ya",
-      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
+      "duration_ms": 235146,
+      "name": "Come Back Song",
+      "url": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2603,6 +2587,22 @@
       "duration_ms": 225626,
       "name": "Love Triangle",
       "url": "https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 181209,
+      "name": "Don't Ya",
+      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2651,22 +2651,6 @@
       "duration_ms": 217413,
       "name": "Lonely Eyes",
       "url": "https://open.spotify.com/track/2j79NtwxoWDmkiH4MGwdLq"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Drunk on Your Love",
-      "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2751,6 +2735,22 @@
       "duration_ms": 215920,
       "name": "Hey Pretty Girl",
       "url": "https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Drunk on Your Love",
+      "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -2975,22 +2975,6 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Am I The Only One",
-      "url": "https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
         "name": "Brett Eldredge",
         "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 208720,
       "name": "The Long Way",
       "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Am I The Only One",
+      "url": "https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ"
     },
     {
       "added_at": "2024-04-01 14:50:59",
@@ -3251,6 +3251,22 @@
     {
       "added_at": "2024-04-01 14:50:59",
       "album": {
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/1xy141zMRluP7YaE94IawT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/1qwnPVOIJjAFfCc40Etb1D"
+    },
+    {
+      "added_at": "2024-04-01 14:50:59",
+      "album": {
         "name": "The Project",
         "url": "https://open.spotify.com/album/1RiocrOIkYYPIHyUXhlk0M"
       },
@@ -3279,22 +3295,6 @@
       "duration_ms": 216960,
       "name": "Yours",
       "url": "https://open.spotify.com/track/6RSNKGdv3nDTHqgw4bdzyF"
-    },
-    {
-      "added_at": "2024-04-01 14:50:59",
-      "album": {
-        "name": "You Get What You Give (Deluxe)",
-        "url": "https://open.spotify.com/album/62XZju4HxxXF6CBIqqG2ei"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Colder Weather",
-      "url": "https://open.spotify.com/track/23hDnIFoFlVTDA6y8YrJoR"
     }
   ],
   "unique_name": "2010s Country",

@@ -1,6 +1,6 @@
 {
   "description": "Metalcore at its finest. Cover: The Plot In You",
-  "num_followers": 924938,
+  "num_followers": 925088,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "CURE",
         "url": "https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 257798,
       "name": "Keeping Secrets",
       "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 221340,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Hellstar",
         "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 223866,
       "name": "Gone",
       "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "Vol. 2",
+        "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 193900,
+      "name": "Don\u2019t Look Away",
+      "url": "https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "HEAVY RAIN",
         "url": "https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 244254,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Vol. 2",
-        "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 193900,
-      "name": "Don\u2019t Look Away",
-      "url": "https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Death Is Little More",
-        "url": "https://open.spotify.com/album/0CmKu8SgKIY2nhDF3BrwRr"
-      },
-      "artists": [
-        {
-          "name": "Boundaries",
-          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
-        }
-      ],
-      "duration_ms": 199127,
-      "name": "Cursed To Remember",
-      "url": "https://open.spotify.com/track/4ZyQ4t7KqjhakHGFG96GHE"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Wither//Without",
         "url": "https://open.spotify.com/album/7pAcgBd0iXUHl9p0h7EbVl"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Red Wine And Discontent",
-        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
+        "name": "Death Is Little More",
+        "url": "https://open.spotify.com/album/0CmKu8SgKIY2nhDF3BrwRr"
       },
       "artists": [
         {
-          "name": "SeeYouSpaceCowboy...",
-          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
         }
       ],
-      "duration_ms": 213710,
-      "name": "Red Wine And Discontent",
-      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
+      "duration_ms": 199127,
+      "name": "Cursed To Remember",
+      "url": "https://open.spotify.com/track/4ZyQ4t7KqjhakHGFG96GHE"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1411,6 +1395,22 @@
       "duration_ms": 218311,
       "name": "The Fullness of My Being",
       "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Red Wine And Discontent",
+        "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        }
+      ],
+      "duration_ms": 213710,
+      "name": "Red Wine And Discontent",
+      "url": "https://open.spotify.com/track/51f9t6WzsI3EJJ9bYVwzeW"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Glass Preacher",
-        "url": "https://open.spotify.com/album/0CjnuwMm9QLkDbRmKWFcJA"
-      },
-      "artists": [
-        {
-          "name": "Dealer",
-          "url": "https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP"
-        }
-      ],
-      "duration_ms": 193406,
-      "name": "Glass Preacher",
-      "url": "https://open.spotify.com/track/62aS6XJyJSTQ55QTPmLad2"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "False Divinity",
         "url": "https://open.spotify.com/album/5nkw1TYKhShOSpUtR9gbS0"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "To The Grave",
-        "url": "https://open.spotify.com/album/5PL8XHRC49Do7mmLisGNUJ"
+        "name": "Glass Preacher",
+        "url": "https://open.spotify.com/album/0CjnuwMm9QLkDbRmKWFcJA"
       },
       "artists": [
         {
-          "name": "Graphic Nature",
-          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+          "name": "Dealer",
+          "url": "https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP"
         }
       ],
-      "duration_ms": 247015,
-      "name": "To The Grave",
-      "url": "https://open.spotify.com/track/67GONGzUfUcWyr1pu8QjSF"
+      "duration_ms": 193406,
+      "name": "Glass Preacher",
+      "url": "https://open.spotify.com/track/62aS6XJyJSTQ55QTPmLad2"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1507,6 +1491,22 @@
       "duration_ms": 269786,
       "name": "Modern Error",
       "url": "https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "To The Grave",
+        "url": "https://open.spotify.com/album/5PL8XHRC49Do7mmLisGNUJ"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "duration_ms": 247015,
+      "name": "To The Grave",
+      "url": "https://open.spotify.com/track/67GONGzUfUcWyr1pu8QjSF"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2eTDWs3EX9OGigTDTNIEjJ"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        }
+      ],
+      "duration_ms": 195356,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3PK7lPF9uv1deSDkTuemZO"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO"
       },
@@ -1623,6 +1639,22 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q"
+      },
+      "artists": [
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        }
+      ],
+      "duration_ms": 187791,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
         "name": "DIGITAL PARANOIA 2052",
         "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
       },
@@ -1643,22 +1675,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q"
-      },
-      "artists": [
-        {
-          "name": "Crossfaith",
-          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
-        }
-      ],
-      "duration_ms": 187791,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/7EBnsR1bhRVITs48imBq5w"
       },
@@ -1671,6 +1687,22 @@
       "duration_ms": 241800,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/5TWO6RPpkaaan9mO7Uyou2"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Our Brand Is Chaos",
+        "url": "https://open.spotify.com/album/6JbqFQqs2vnR2uEvKC4jKA"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "duration_ms": 275420,
+      "name": "Our Brand Is Chaos",
+      "url": "https://open.spotify.com/track/2c1IizySJvBnzdcKCkAM07"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1691,38 +1723,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Scars On A Soul",
-        "url": "https://open.spotify.com/album/5DMaqfH3GHcqcxbeTQaYRH"
-      },
-      "artists": [
-        {
-          "name": "Boundaries",
-          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
-        }
-      ],
-      "duration_ms": 168958,
-      "name": "Scars On A Soul",
-      "url": "https://open.spotify.com/track/7zuuCnA5KwE12ij3up8i4P"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/2eTDWs3EX9OGigTDTNIEjJ"
-      },
-      "artists": [
-        {
-          "name": "Rising Insane",
-          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
-        }
-      ],
-      "duration_ms": 195356,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3PK7lPF9uv1deSDkTuemZO"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "No Place",
         "url": "https://open.spotify.com/album/1yeVyimts1V78yYwxLyyPt"
       },
@@ -1739,6 +1739,22 @@
       "duration_ms": 226906,
       "name": "No Place",
       "url": "https://open.spotify.com/track/7KtrNVhBwDTyjXmajuy2CM"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Scars On A Soul",
+        "url": "https://open.spotify.com/album/5DMaqfH3GHcqcxbeTQaYRH"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "duration_ms": 168958,
+      "name": "Scars On A Soul",
+      "url": "https://open.spotify.com/track/7zuuCnA5KwE12ij3up8i4P"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Our Brand Is Chaos",
-        "url": "https://open.spotify.com/album/6JbqFQqs2vnR2uEvKC4jKA"
+        "name": "Siege Lord",
+        "url": "https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP"
       },
       "artists": [
         {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
         }
       ],
-      "duration_ms": 275420,
-      "name": "Our Brand Is Chaos",
-      "url": "https://open.spotify.com/track/2c1IizySJvBnzdcKCkAM07"
+      "duration_ms": 205109,
+      "name": "Siege Lord",
+      "url": "https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -1823,22 +1839,6 @@
       "duration_ms": 189931,
       "name": "Stray",
       "url": "https://open.spotify.com/track/7ekWlDymyDnzmqoNDBGjck"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
-        "name": "Siege Lord",
-        "url": "https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP"
-      },
-      "artists": [
-        {
-          "name": "Heriot",
-          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
-        }
-      ],
-      "duration_ms": 205109,
-      "name": "Siege Lord",
-      "url": "https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Soul Chasm",
-        "url": "https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA"
-      },
-      "artists": [
-        {
-          "name": "Heriot",
-          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
-        }
-      ],
-      "duration_ms": 204112,
-      "name": "Soul Chasm",
-      "url": "https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA"
-    },
-    {
-      "added_at": "2024-05-10 04:20:40",
-      "album": {
         "name": "Impending Doom",
         "url": "https://open.spotify.com/album/6qWJPjjNxJ6UZ7pen61yGJ"
       },
@@ -2043,18 +2027,18 @@
     {
       "added_at": "2024-05-10 04:20:40",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/4bvg3nL0coX5h6n9zjFnco"
+        "name": "Soul Chasm",
+        "url": "https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA"
       },
       "artists": [
         {
-          "name": "Ankor",
-          "url": "https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj"
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
         }
       ],
-      "duration_ms": 217090,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/1eHwmfsLxs3IYQFh4l2Dad"
+      "duration_ms": 204112,
+      "name": "Soul Chasm",
+      "url": "https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA"
     },
     {
       "added_at": "2024-05-10 04:20:40",
@@ -2087,6 +2071,22 @@
       "duration_ms": 227314,
       "name": "UNG\u00d8D",
       "url": "https://open.spotify.com/track/42a6jv8vPZSdldRDalkGfT"
+    },
+    {
+      "added_at": "2024-05-10 04:20:40",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4bvg3nL0coX5h6n9zjFnco"
+      },
+      "artists": [
+        {
+          "name": "Ankor",
+          "url": "https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj"
+        }
+      ],
+      "duration_ms": 217090,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/1eHwmfsLxs3IYQFh4l2Dad"
     }
   ],
   "unique_name": "The Core",

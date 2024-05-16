@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: Ley Soul",
+  "description": "The best new indie tracks from independent artists & labels. Cover: Mitchy",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -226,6 +226,24 @@
       "duration_ms": 205573,
       "name": "2005",
       "url": "https://open.spotify.com/track/7z1RXpDPP0QfEmK5veBERb"
+    },
+    {
+      "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
+      },
+      "artists": [
+        {
+          "name": "biblemami",
+          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
     },
     {
       "album": {
@@ -4216,7 +4234,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 178781,
       "name": "Better Than You Found Me",
       "url": "https://open.spotify.com/track/4GTNljZipQMiMorVaaU6sA"
@@ -6302,7 +6320,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 197337,
       "name": "Burden",
       "url": "https://open.spotify.com/track/04llqALZygRbebIFQTZ7fq"
@@ -7628,7 +7646,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 198424,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb"
@@ -8296,7 +8314,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 235077,
       "name": "Cosette",
       "url": "https://open.spotify.com/track/1e0ghRCHwjnwEY0llpODwH"
@@ -12754,7 +12772,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 198184,
       "name": "Fire Excape",
       "url": "https://open.spotify.com/track/1WSJbZvaflbboQCFnTRcYu"
@@ -12996,6 +13014,28 @@
       "duration_ms": 193464,
       "name": "fleabag",
       "url": "https://open.spotify.com/track/5umuLOI5hSbZMmuGa8c03c"
+    },
+    {
+      "album": {
+        "name": "Float Away",
+        "url": "https://open.spotify.com/album/4GDvgtNZKYKZMbcxpCoyAr"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Jennessa Cairo",
+          "url": "https://open.spotify.com/artist/2c2zQ7hv1bVv6JF2aF5dxn"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126304,
+      "name": "Float Away",
+      "url": "https://open.spotify.com/track/6OMHusMo9jZemASNaFSd4X"
     },
     {
       "album": {
@@ -15474,6 +15514,24 @@
       "duration_ms": 325569,
       "name": "Guard Dog",
       "url": "https://open.spotify.com/track/4apPaqmh0pYhxeg9tHVFPf"
+    },
+    {
+      "album": {
+        "name": "Guava Jelly",
+        "url": "https://open.spotify.com/album/7gGEDm7eBmFiStGV09YAjl"
+      },
+      "artists": [
+        {
+          "name": "Royce Fisherman",
+          "url": "https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144185,
+      "name": "Guava Jelly",
+      "url": "https://open.spotify.com/track/0rpqWuNaBE7lqcITyWx84y"
     },
     {
       "album": {
@@ -18385,6 +18443,24 @@
     },
     {
       "album": {
+        "name": "I Saw Jon Hamm At The Beach",
+        "url": "https://open.spotify.com/album/4zqYeafhR8rI5KONk7udHW"
+      },
+      "artists": [
+        {
+          "name": "Loose Buttons",
+          "url": "https://open.spotify.com/artist/6xRfeX9EnnnXrKlzMUr10y"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217781,
+      "name": "I Saw Jon Hamm At The Beach",
+      "url": "https://open.spotify.com/track/7uyjIiva3TyQ5jhVAWPQvS"
+    },
+    {
+      "album": {
         "name": "Can Mary Dood the Moon?",
         "url": "https://open.spotify.com/album/1iWJWwvkO909lTX6COhF37"
       },
@@ -20242,6 +20318,24 @@
       "duration_ms": 208109,
       "name": "it's ok 2 lie 2 me",
       "url": "https://open.spotify.com/track/1Q8uOB3a7AzKGgb2Q3BbAB"
+    },
+    {
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/04mFlTHvB6PqmhftxBmzyb"
+      },
+      "artists": [
+        {
+          "name": "Treanne",
+          "url": "https://open.spotify.com/artist/0qypHSRrtxZDp1vOifgM2w"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138663,
+      "name": "It's Ur Birthday",
+      "url": "https://open.spotify.com/track/0SCjjcTT8eDH0MHXoLgjZI"
     },
     {
       "album": {
@@ -26704,7 +26798,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 145635,
       "name": "no self-lover",
       "url": "https://open.spotify.com/track/6mP9VmjkAKS3L0bJ8PSERw"
@@ -27577,6 +27671,24 @@
     },
     {
       "album": {
+        "name": "OK OK",
+        "url": "https://open.spotify.com/album/4Eo5QHYjrKahSzXMAp1cEH"
+      },
+      "artists": [
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225480,
+      "name": "OK OK",
+      "url": "https://open.spotify.com/track/7jUHpMHisyNj0uuiDjfuJD"
+    },
+    {
+      "album": {
         "name": "Ok on My Own",
         "url": "https://open.spotify.com/album/4U7hgHFYrPFSDWhSGk9Rkx"
       },
@@ -28194,7 +28306,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 217000,
       "name": "ostara",
       "url": "https://open.spotify.com/track/5JuFgpXOFteFZASjAdZRZK"
@@ -30869,6 +30981,24 @@
     },
     {
       "album": {
+        "name": "Regret It",
+        "url": "https://open.spotify.com/album/0a2sbZKn8nU5J33DZZ62A9"
+      },
+      "artists": [
+        {
+          "name": "sandy crow",
+          "url": "https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151775,
+      "name": "Regret It",
+      "url": "https://open.spotify.com/track/6EdSQmDDc8n9jz3bEphwRp"
+    },
+    {
+      "album": {
         "name": "Relic",
         "url": "https://open.spotify.com/album/56w6Tb0Kjy0VUrI1XzWrWm"
       },
@@ -32650,7 +32780,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 187171,
       "name": "Seeds of Evil",
       "url": "https://open.spotify.com/track/0wExq390PWRzSvpBlfjQTs"
@@ -34506,7 +34636,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 237681,
       "name": "someone else's eyes",
       "url": "https://open.spotify.com/track/49AqYOwYQpCS0MBJCKENkt"
@@ -35322,7 +35452,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 193528,
       "name": "Sponges (feat. Yuki Dreams Again)",
       "url": "https://open.spotify.com/track/3vbncj6w2VZRdGNa5H8u5h"
@@ -37485,6 +37615,24 @@
     },
     {
       "album": {
+        "name": "Television",
+        "url": "https://open.spotify.com/album/7azrGthLlLzYSALyEWq4ne"
+      },
+      "artists": [
+        {
+          "name": "Moon Tide Gallery",
+          "url": "https://open.spotify.com/artist/5yS0ICIkgehkPHwYCpe5Hy"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152472,
+      "name": "Television",
+      "url": "https://open.spotify.com/track/0X8bnjtn3TXsMRcnIpQFaG"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/3RwNSA0eUtObdWpld5s55X"
       },
@@ -37842,7 +37990,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 214186,
       "name": "The Alternative",
       "url": "https://open.spotify.com/track/4CmPBOuhNWAA7AdaOYyTp5"
@@ -43902,7 +44050,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 172565,
       "name": "Zodiac 13",
       "url": "https://open.spotify.com/track/79U8WWKFkPFaKhCk0VPkWE"

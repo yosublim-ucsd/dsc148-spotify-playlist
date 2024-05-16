@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1548112,
+  "num_followers": 1548212,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "In The Dust",
-        "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
       },
       "artists": [
         {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
-        },
-        {
-          "name": "Jelen",
-          "url": "https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT"
-        },
-        {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 191570,
-      "name": "In The Dust",
-      "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
+      "duration_ms": 203211,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -479,18 +471,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
+        "name": "In The Dust",
+        "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        },
+        {
+          "name": "Jelen",
+          "url": "https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT"
+        },
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
         }
       ],
-      "duration_ms": 203211,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
+      "duration_ms": 191570,
+      "name": "In The Dust",
+      "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
@@ -1079,22 +1099,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1115,26 +1135,6 @@
       "duration_ms": 181417,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 207638,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Losing Control (feat. Nathan Nicholson)",
         "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 209056,
       "name": "Losing Control (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 207638,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Not Over Yet (feat. Grace Grundy)",
+        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Not Over Yet (feat. Grace Grundy)",
+      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Not Over Yet (feat. Grace Grundy)",
-        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Not Over Yet (feat. Grace Grundy)",
-      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1975,26 +1975,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Tripchain / Scanalatura",
-        "url": "https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el"
+        "name": "Chains (feat. Daya)",
+        "url": "https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0"
       },
       "artists": [
         {
-          "name": "John Digweed",
-          "url": "https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         },
         {
-          "name": "Nick Muir",
-          "url": "https://open.spotify.com/artist/2Z24cX1mJuD751l4CusqYp"
-        },
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 405500,
-      "name": "Tripchain",
-      "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"
+      "duration_ms": 199692,
+      "name": "Chains (feat. Daya)",
+      "url": "https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo"
     }
   ],
   "unique_name": "Night Rider",

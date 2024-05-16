@@ -4,7 +4,7 @@
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Refused
 
-109 songs - 7 hr 2 min
+110 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Breakfast Of Champions](https://open.spotify.com/track/7fYabANyBAwb9TcUxvTQ0s) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/56YkqH5Vv03PAeMzcuQzoQ) | 3:37 | 2021-06-28 | 2022-11-25 |
 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 | 2023-03-14 |  |
 | [Calm Americans](https://open.spotify.com/track/5rH5kb3vapjDifLxgK3P4Q) | [Elliott](https://open.spotify.com/artist/6KkOfCQtoMpjS2qYgDxmHI) | [False Cathedrals](https://open.spotify.com/album/6s2VrdrRwXXB1kr6RcrKfv) | 4:25 | 2021-06-28 | 2023-03-15 |
-| [Caught in a Flood With the Captain of the Cheerleading Squad](https://open.spotify.com/track/3HlL9LqIdf1v4C3BIK9dQA) | [I Hate Myself](https://open.spotify.com/artist/5m858bXqt99f2hWD72hySB) | [Ten Songs](https://open.spotify.com/album/3jLWGkPi9b5xbrrFaQIpzH) | 3:26 | 2021-06-28 |  |
+| [Caught in a Flood With the Captain of the Cheerleading Squad](https://open.spotify.com/track/3HlL9LqIdf1v4C3BIK9dQA) | [I Hate Myself](https://open.spotify.com/artist/5m858bXqt99f2hWD72hySB) | [Ten Songs](https://open.spotify.com/album/3jLWGkPi9b5xbrrFaQIpzH) | 3:26 | 2021-06-28 | 2024-05-16 |
 | [Chinatown](https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8) | [Jets To Brazil](https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY) | [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD) | 5:35 | 2021-06-28 |  |
 | [Code Red](https://open.spotify.com/track/3Y82AcAH1o2NW04YYLXBZK) | [The Casket Lottery](https://open.spotify.com/artist/3kSqc2brwAF1kWRFWYe2fW) | [Survival is for Cowards](https://open.spotify.com/album/4t3CkrmaiYODMKPQ4h0wQa) | 4:43 | 2021-06-28 | 2023-03-15 |
 | [Copper and Stars](https://open.spotify.com/track/3X6BvcNz8QSYaXLqJ3uHfw) | [Planes Mistaken For Stars](https://open.spotify.com/artist/2rfJuPYf7n3inXgdDNxMku) | [Planes Mistaken for Stars](https://open.spotify.com/album/2yyupliWXQe9Dz4xYT3Y14) | 3:31 | 2021-06-28 | 2023-03-15 |
@@ -87,6 +87,7 @@
 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2023-03-14 |  |
 | [See You In Hell](https://open.spotify.com/track/0cKYw9UErFhmPkOVsCU9L0) | [Small Brown Bike](https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j) | [Dead Reckoning](https://open.spotify.com/album/7eFAYhlNsXMkSApFtGUcap) | 3:15 | 2021-06-28 | 2022-07-29 |
 | [See You In Hell](https://open.spotify.com/track/5OsAjzmcyT7lIdHQwicSSf) | [Small Brown Bike](https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j) | [Dead Reckoning](https://open.spotify.com/album/41cGtsemjXxvGiBenwg8p3) | 3:15 | 2022-06-09 | 2023-03-15 |
+| [Set Fire to the Face on Fire](https://open.spotify.com/track/544Ptp7zIMQ1F6qkQBEIgf) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Young Machetes \(Bonus Track Version\)](https://open.spotify.com/album/0zpZ1eqa0511ir5kNZriB5) | 2:19 | 2023-03-28 |  |
 | [Seven \- Remastered](https://open.spotify.com/track/4mQfmZSNbkpIHua7lsVU7k) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(Remastered and Expanded Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:46 | 2023-03-14 |  |
 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 | 2023-03-14 |  |
 | [Shoulder to the Wheel](https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Through Being Cool](https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo) | 3:19 | 2021-06-28 |  |

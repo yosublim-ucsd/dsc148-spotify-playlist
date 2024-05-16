@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: SOAPBOX",
-  "num_followers": 447566,
+  "num_followers": 447531,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
         }
       ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -279,6 +263,22 @@
       "duration_ms": 138133,
       "name": "cherry cigarettes",
       "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
         }
       ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
+      "duration_ms": 107998,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -359,22 +359,6 @@
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 107998,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -407,6 +391,22 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "All The Problems",
-        "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
-      },
-      "artists": [
-        {
-          "name": "Shelf Lives",
-          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
-        }
-      ],
-      "duration_ms": 176907,
-      "name": "All The Problems",
-      "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Lads Lads Lads",
         "url": "https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 191755,
       "name": "Lads Lads Lads",
       "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "All The Problems",
+        "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "duration_ms": 176907,
+      "name": "All The Problems",
+      "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Lost My Shadow",
-        "url": "https://open.spotify.com/album/7999iknBu9Bi1JwrKVTBFN"
-      },
-      "artists": [
-        {
-          "name": "IST IST",
-          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
-        }
-      ],
-      "duration_ms": 187998,
-      "name": "Lost My Shadow",
-      "url": "https://open.spotify.com/track/54wWzjb8JrOl99lr1gtDEI"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Boys In Blue / H.A.N.G",
         "url": "https://open.spotify.com/album/4ZLWxKK14w8BAzxoxFHFTQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 148466,
       "name": "Boys In Blue",
       "url": "https://open.spotify.com/track/6hSlEC6kBRBpw0tQtoRmRs"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Lost My Shadow",
+        "url": "https://open.spotify.com/album/7999iknBu9Bi1JwrKVTBFN"
+      },
+      "artists": [
+        {
+          "name": "IST IST",
+          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
+        }
+      ],
+      "duration_ms": 187998,
+      "name": "Lost My Shadow",
+      "url": "https://open.spotify.com/track/54wWzjb8JrOl99lr1gtDEI"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "DUST OFF / START AGAIN",
-        "url": "https://open.spotify.com/album/1Ul753hYh0vX3EESvU5kef"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "DUST OFF / START AGAIN",
-      "url": "https://open.spotify.com/track/0lm396qvZ5yknbNQiEIA7z"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Dream Big",
         "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 185060,
       "name": "Dream Big",
       "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "DUST OFF / START AGAIN",
+        "url": "https://open.spotify.com/album/1Ul753hYh0vX3EESvU5kef"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "DUST OFF / START AGAIN",
+      "url": "https://open.spotify.com/track/0lm396qvZ5yknbNQiEIA7z"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "THIS HERE AIN'T WATER",
-        "url": "https://open.spotify.com/album/0aHgUd54LqdSOfXuGG7y3Q"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 201686,
-      "name": "THIS HERE AIN'T WATER",
-      "url": "https://open.spotify.com/track/2mLtSf43onReDRzOPM0yKd"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 215760,
       "name": "Roll With It",
       "url": "https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "THIS HERE AIN'T WATER",
+        "url": "https://open.spotify.com/album/0aHgUd54LqdSOfXuGG7y3Q"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 201686,
+      "name": "THIS HERE AIN'T WATER",
+      "url": "https://open.spotify.com/track/2mLtSf43onReDRzOPM0yKd"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Des Goblin",
-        "url": "https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 256543,
-      "name": "Des Goblin",
-      "url": "https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Black Rainbows",
         "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Des Goblin",
+        "url": "https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 256543,
+      "name": "Des Goblin",
+      "url": "https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Unlike Me",
         "url": "https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT"
       },
@@ -1031,38 +1031,6 @@
       "duration_ms": 188000,
       "name": "Unlike Me",
       "url": "https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Hiccup",
-        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
-      },
-      "artists": [
-        {
-          "name": "Sorry Mom",
-          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
-        }
-      ],
-      "duration_ms": 105874,
-      "name": "Hiccup",
-      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1095,6 +1063,38 @@
       "duration_ms": 190206,
       "name": "Bite",
       "url": "https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Hiccup",
+        "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 105874,
+      "name": "Hiccup",
+      "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Grief In Phantasia",
-        "url": "https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu"
-      },
-      "artists": [
-        {
-          "name": "Drahla",
-          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Grief In Phantasia",
-      "url": "https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "'Til the Wheels Fall Off",
         "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 213435,
       "name": "Bricks",
       "url": "https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Grief In Phantasia",
+        "url": "https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu"
+      },
+      "artists": [
+        {
+          "name": "Drahla",
+          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Grief In Phantasia",
+      "url": "https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "BUTCHER'S BIN",
-        "url": "https://open.spotify.com/album/6SfuRdJVKKm9VkbP3HQ3Kj"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 240630,
-      "name": "BUTCHER'S BIN",
-      "url": "https://open.spotify.com/track/05N99aG3BJQXVUPnTyde8l"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Private Public Transport",
         "url": "https://open.spotify.com/album/56nAGy49ervIzPjAgZDHqL"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 200480,
       "name": "Private Public Transport",
       "url": "https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "BUTCHER'S BIN",
+        "url": "https://open.spotify.com/album/6SfuRdJVKKm9VkbP3HQ3Kj"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 240630,
+      "name": "BUTCHER'S BIN",
+      "url": "https://open.spotify.com/track/05N99aG3BJQXVUPnTyde8l"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Big Pharma",
-        "url": "https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 166314,
-      "name": "Big Pharma",
-      "url": "https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Here's Looking At You, Kid!",
         "url": "https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 164307,
       "name": "Here's Looking At You, Kid!",
       "url": "https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Big Pharma",
+        "url": "https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 166314,
+      "name": "Big Pharma",
+      "url": "https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq"
     },
     {
       "added_at": "2024-04-25 23:00:00",

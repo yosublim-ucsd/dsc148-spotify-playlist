@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. Tutti i brani in un'unica playlist.
+> This is Suzanne Ciani\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,330 likes - 50 songs - 3 hr 45 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 | 49 | [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 |
 | 50 | [Yang Ming Shen](https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 3:21 |
 
-Snapshot ID: `ZkFYAAAAAAApACuZcSOeojl07auo/9XE`
+Snapshot ID: `ZkFYAAAAAAAa55BWG3q4ebjK4byoB0Lz`

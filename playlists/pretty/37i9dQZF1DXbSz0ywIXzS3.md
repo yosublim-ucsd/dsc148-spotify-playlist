@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 
 > welcome to your comfort zone
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,884 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 551 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 49 | [Circles](https://open.spotify.com/track/18GFHVWGCED0TCARMkHUr8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Circles](https://open.spotify.com/album/03mQfTKwoRxaDLg2Vkf9vm) | 4:58 |
 | 50 | [Machine](https://open.spotify.com/track/4Bnn0NhRWsSKPPiHPJtYjm) | [Palomino Blond](https://open.spotify.com/artist/0oNZ5XN1TT4aWlxHhx8oWe) | [Machine](https://open.spotify.com/album/0euGdd3l4XqpUWeQapjooA) | 5:30 |
 
-Snapshot ID: `ZioIqAAAAACOZhYU3CDxHJ5/8V/3xFc7`
+Snapshot ID: `ZkRcuwAAAAAfhHmv8V8EaE20y4mKFRmb`

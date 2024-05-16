@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,715 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,745 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 33 | [We Fall Down / Agnus Dei \- Medley](https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:32 |
 | 34 | [Your Promises](https://open.spotify.com/track/7toBMKUFYgMqSoG1OnG2Bs) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Wake Up The Wonder](https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob) | 4:58 |
 | 35 | [I Don't Have Much](https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [I Don't Have Much](https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw) | 5:14 |
-| 36 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
-| 37 | [More Like Jesus \- Live](https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [More Like Jesus \(Live\)](https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC) | 5:38 |
+| 36 | [More Like Jesus \- Live](https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [More Like Jesus \(Live\)](https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC) | 5:38 |
+| 37 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
 | 38 | [Forever Amen](https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:30 |
 | 39 | [Overflow \(Live\)](https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 4:18 |
 | 40 | [King Of Kings \- Live at Hillsong Conference](https://open.spotify.com/track/4rjkDg26WVRWMZ1XL02z8m) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live\)](https://open.spotify.com/album/7qoQzOVmbXm4KXjbu7BJVU) | 4:51 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 60 | [Nothing Is Holding Me Back](https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Here On Earth](https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA) | 4:24 |
 | 61 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 62 | [I Am No Victim](https://open.spotify.com/track/2XkTROEhPw2Abzri1F20iL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:41 |
-| 63 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
+| 63 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
 | 64 | [Not Afraid \- Live](https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 7:25 |
-| 65 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
+| 65 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
 | 66 | [Speak To Me](https://open.spotify.com/track/7x4esPGTxWGz67QyrEauLo) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 7:39 |
 | 67 | [Christ Be With Me](https://open.spotify.com/track/0ZJzZI0hyMxWtUg3kOyPce) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [The Brilliance Original Mixtape](https://open.spotify.com/album/0duE0bJzF0cq6n7YNQAP3P) | 3:03 |
 | 68 | [Prophesy Your Promise](https://open.spotify.com/track/4X0WNlQtcoGOf4mWlUIeD7) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Praise Before My Breakthrough](https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9) | 5:41 |

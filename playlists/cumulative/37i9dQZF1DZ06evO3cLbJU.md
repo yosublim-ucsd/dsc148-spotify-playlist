@@ -2,7 +2,7 @@
 
 ### [This Is El Mató a un Policía Motorizado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cLbJU)
 
-> This is El Mató a un Policía Motorizado\. Todos os maiores hits em uma só playlist.
+> This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
 
 51 songs - 3 hr 1 min
 

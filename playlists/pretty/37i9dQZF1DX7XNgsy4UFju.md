@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,987 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,986 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 64 | [Speed of the Sound \(of you\)](https://open.spotify.com/track/625gH2KUG4kE0G1FR3N7ZW) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Speed of the Sound \(of you\)](https://open.spotify.com/album/2FPUFdvALP5VPyXjlUXVdU) | 3:09 |
 | 65 | [Falling From Grace](https://open.spotify.com/track/5Oi4Q75BjhoRDRXlE69JbZ) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Valerie](https://open.spotify.com/album/3ro64jGIUAPFuLwo5SdqR7) | 4:14 |
 | 66 | [Bitter Melon](https://open.spotify.com/track/5VAGx9L6hdAk6PgVWpmX13) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Bitter Melon](https://open.spotify.com/album/3V1jYsGINylmb0rvweOfna) | 6:09 |
-| 67 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 |
+| 67 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 |
 | 68 | [Will You Do Me A Kindness](https://open.spotify.com/track/3Y6nnH4zYeJFNGRhSEq8Mx) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Will You Do Me A Kindness](https://open.spotify.com/album/7ABSExxnuMNgY63XiOX7yU) | 5:44 |
 | 69 | [C.A.Y.A.](https://open.spotify.com/track/7wjCwar4rj6o6lV2mkJa1C) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [C.A.Y.A.](https://open.spotify.com/album/6qrqhBw1tIGreA43JGQ3P3) | 3:42 |
 | 70 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 |

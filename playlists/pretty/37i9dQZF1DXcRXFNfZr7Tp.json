@@ -1,48 +1,36 @@
 {
   "description": "Current favorites and exciting new music. Cover: Taylor Swift",
-  "num_followers": 2875584,
+  "num_followers": 2875732,
   "original_name": "just hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2bwAAAAACG5fzYGlHzcX1VtjT0OI8K",
+  "snapshot_id": "ZkUTZQAAAADt8IZyNeVC7Pqhi1eJ8FJU",
   "tracks": [
     {
-      "added_at": "2024-04-19 00:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "I Can Do It With a Broken Heart",
-      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ"
-      },
-      "artists": [
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
         {
           "name": "The Chainsmokers",
           "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz"
+      "duration_ms": 152250,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -61,6 +49,22 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
+      "added_at": "2024-04-19 00:00:00",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
+    },
+    {
       "added_at": "2024-04-05 04:01:00",
       "album": {
         "name": "After Hours",
@@ -75,26 +79,6 @@
       "duration_ms": 202414,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Mwaki",
-        "url": "https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
     },
     {
       "added_at": "2024-04-19 00:00:00",
@@ -341,6 +325,26 @@
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz"
+    },
+    {
       "added_at": "2024-04-05 04:01:00",
       "album": {
         "name": "My Oh My",
@@ -537,6 +541,22 @@
       "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
     },
     {
+      "added_at": "2024-05-15 19:56:21",
+      "album": {
+        "name": "in all of my lonely nights",
+        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
+    },
+    {
       "added_at": "2024-04-19 00:00:00",
       "album": {
         "name": "Dance Alone (Qing Madi & Nonso Amadi Remix)",
@@ -725,26 +745,6 @@
       "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"
     },
     {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "On My Love",
@@ -765,6 +765,26 @@
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Mwaki",
+        "url": "https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Lighthouse",
@@ -779,30 +799,6 @@
       "duration_ms": 191963,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -993,20 +989,20 @@
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2024-05-15 19:56:21",
       "album": {
-        "name": "orbit",
-        "url": "https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2"
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
         }
       ],
-      "duration_ms": 189994,
-      "name": "orbit",
-      "url": "https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN"
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1683,30 +1679,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Substitution (feat. Julian Perretta)",
-        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 181477,
-      "name": "Substitution (feat. Julian Perretta)",
-      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -1751,6 +1723,22 @@
       "duration_ms": 179973,
       "name": "ONE",
       "url": "https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm"
+    },
+    {
+      "added_at": "2024-05-15 19:56:21",
+      "album": {
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 160218,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
     },
     {
       "added_at": "2024-04-05 04:01:00",

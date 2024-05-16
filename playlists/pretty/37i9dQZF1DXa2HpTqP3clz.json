@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132854,
+  "num_followers": 132865,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Fall In Tennessee",
         "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 231120,
       "name": "Fall In Tennessee (feat. Jerry Douglas)",
       "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Authentic Unlimited",
-        "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
       "artists": [
         {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Authentic Unlimited",
+        "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Something Higher",
         "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 207600,
       "name": "Winter's Gone",
       "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
-      },
-      "artists": [
-        {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Trapper's Attic",
         "url": "https://open.spotify.com/album/1nepXC3JRZ1OfdoTByMKqJ"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 302000,
       "name": "Idaho Mountain Song",
       "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1303,38 +1303,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "The Gavel",
-        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "The Gavel",
-      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "The North Side",
-        "url": "https://open.spotify.com/album/0O8huJY762BUgfv7VbtnSE"
-      },
-      "artists": [
-        {
-          "name": "Blue Highway",
-          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
-        }
-      ],
-      "duration_ms": 194481,
-      "name": "The North Side",
-      "url": "https://open.spotify.com/track/3PaupMyPQ6dKZqED5Ic2ss"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Into the Fire",
         "url": "https://open.spotify.com/album/11VbCENTERIqVpyGyBzZDT"
       },
@@ -1367,6 +1335,38 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "The North Side",
+        "url": "https://open.spotify.com/album/0O8huJY762BUgfv7VbtnSE"
+      },
+      "artists": [
+        {
+          "name": "Blue Highway",
+          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "The North Side",
+      "url": "https://open.spotify.com/track/3PaupMyPQ6dKZqED5Ic2ss"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "The Gavel",
+        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "The Gavel",
+      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Love Train",
         "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "I'd Rather Be Alone",
-        "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 210998,
-      "name": "I'd Rather Be Alone",
-      "url": "https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Maria with a \"J\"",
         "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 239601,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "I'd Rather Be Alone",
+        "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 210998,
+      "name": "I'd Rather Be Alone",
+      "url": "https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Behind the 8 Ball",
+        "url": "https://open.spotify.com/album/2kOm9yf2fKb589wXfucWP7"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Behind the 8 Ball",
+      "url": "https://open.spotify.com/track/3BJk0Sy4QFFbzlRAyblOjv"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Far Away Again",
         "url": "https://open.spotify.com/album/4b9zR844J9pihzB5Q63T8I"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Behind the 8 Ball",
-        "url": "https://open.spotify.com/album/2kOm9yf2fKb589wXfucWP7"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Behind the 8 Ball",
-      "url": "https://open.spotify.com/track/3BJk0Sy4QFFbzlRAyblOjv"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Abigail",
         "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "When It All Falls Apart",
-        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 189086,
-      "name": "When It All Falls Apart",
-      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Cross the Line",
         "url": "https://open.spotify.com/album/4JWW4UQbr4kFtRxp2xeugv"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 172186,
       "name": "Cross the Line",
       "url": "https://open.spotify.com/track/2YzvNFX5cmmZNM9MoqDghW"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "When It All Falls Apart",
+        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 189086,
+      "name": "When It All Falls Apart",
+      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
     },
     {
       "added_at": "2024-05-10 04:01:00",

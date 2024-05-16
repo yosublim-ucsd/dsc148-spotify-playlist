@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 ### [This Is MC Davo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2gWHXq)
 
-> This is MC Davo\. The essential tracks, all in one playlist.
+> This is: MC Davo\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,369 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,400 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 50 | [Andamos De Parranda](https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:41 |
 | 51 | [Vive La Vida](https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:45 |
 
-Snapshot ID: `ZkFYAAAAAAClQWCIf8Dfn0wwH9YyubEF`
+Snapshot ID: `ZkFYAAAAAAB94WXKJVj1cj6jNmnM3Uym`

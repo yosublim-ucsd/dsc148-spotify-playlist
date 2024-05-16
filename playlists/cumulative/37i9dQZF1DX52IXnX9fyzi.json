@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Amaryllis",
+        "url": "https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc"
+      },
+      "artists": [
+        {
+          "name": "Iris Emmanuelle",
+          "url": "https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Amaryllis",
+      "url": "https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS"
+    },
+    {
+      "album": {
         "name": "Amber Nights",
         "url": "https://open.spotify.com/album/0Qp3LdQrtI7fXmWpFlyKJS"
       },
@@ -2256,6 +2274,24 @@
       "duration_ms": 157626,
       "name": "Fallen Leaves",
       "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
+    },
+    {
+      "album": {
+        "name": "Falling Free",
+        "url": "https://open.spotify.com/album/1A9ErVeCwy2x7bkSct9y4h"
+      },
+      "artists": [
+        {
+          "name": "Henriette Wieder",
+          "url": "https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Falling Free",
+      "url": "https://open.spotify.com/track/4MQnnlw2lF9HJNqW4HghUj"
     },
     {
       "album": {
@@ -4265,6 +4301,24 @@
     },
     {
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/6Q4NlBA59w10TScE7sJSuw"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157616,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/4IE6nqSTpxrN0w34jYcSfK"
+    },
+    {
+      "album": {
         "name": "Luce Stellare",
         "url": "https://open.spotify.com/album/1OcsLFeL0V4NNNjilW4ha0"
       },
@@ -4676,6 +4730,24 @@
       "duration_ms": 180764,
       "name": "Moonlight Reverie",
       "url": "https://open.spotify.com/track/1F4LTsUjpZImXSgt4FI2Dy"
+    },
+    {
+      "album": {
+        "name": "Moving on",
+        "url": "https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172180,
+      "name": "Moving on",
+      "url": "https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE"
     },
     {
       "album": {

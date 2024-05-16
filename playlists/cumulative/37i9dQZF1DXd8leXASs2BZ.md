@@ -2,7 +2,7 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POPYOURSまであと3日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: CFN Malik
+> 【POPYOURSまであと2日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: L.O.S.T
 
 447 songs - 20 hr 46 min
 

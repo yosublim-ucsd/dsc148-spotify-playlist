@@ -2,7 +2,7 @@
 
 ### [This Is KURT](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wTXPn)
 
-> This is KURT\. Todos os maiores hits em uma só playlist.
+> This Is KURT\. Los temas esenciales, todos en una lista.
 
 76 songs - 4 hr 27 min
 

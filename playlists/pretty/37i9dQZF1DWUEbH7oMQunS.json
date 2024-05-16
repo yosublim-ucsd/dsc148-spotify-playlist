@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60862,
+  "num_followers": 60866,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Keep On Hoping",
-        "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "Keep On Hoping - Piano Choir Version",
-      "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Field Recordings",
         "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 468927,
       "name": "Tracking Aeroplanes",
       "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Keep On Hoping",
+        "url": "https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "Keep On Hoping - Piano Choir Version",
+      "url": "https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
-      },
-      "artists": [
-        {
-          "name": "Kye Kye",
-          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "All the Bright Lights",
         "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Kye Kye",
+          "url": "https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ"
         }
       ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+      "duration_ms": 224173,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -907,6 +891,22 @@
       "duration_ms": 237466,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hawkyard",
+          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
+        }
+      ],
+      "duration_ms": 219782,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Even Here Love Comes",
         "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
-        }
-      ],
-      "duration_ms": 219782,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju"
     },
     {
       "added_at": "2023-07-28 04:02:00",

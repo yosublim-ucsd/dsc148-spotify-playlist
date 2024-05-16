@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,899 likes - 74 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,938 likes - 74 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 10 | [Thoovaanam](https://open.spotify.com/track/5DxcHVcWl6KlPVCxTBDbj3) | [Vijay Paul](https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po), [Keerthana](https://open.spotify.com/artist/3F3Y5Y6PsKkXftDYVL6ON7) | [Thoovaanam](https://open.spotify.com/album/6aIrm9a38bRjUhSzmIVFW8) | 3:20 |
 | 11 | [Kadha](https://open.spotify.com/track/4COdb4AhMLCQ1dicezQ1BP) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Kadha](https://open.spotify.com/album/5PyPUCuVfr3nEU6J77CIUK) | 3:50 |
 | 12 | [Yaavum Mogamull \(Niyamaa...\)](https://open.spotify.com/track/6jlpZu8KzEOxQlNqHCBSJe) | [Nanthaa SRISKANTHARAJAH](https://open.spotify.com/artist/6vYtOgkXRZxSarw7zyyeuR), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Jeevan Thurai](https://open.spotify.com/artist/0IYB87T8otxvegXuKGXiil) | [Yaavum Mogamull \(Niyamaa...\)](https://open.spotify.com/album/55Y0HwVMQAKhScophtvO9f) | 5:04 |
-| 13 | [Mudhal Vari](https://open.spotify.com/track/4KYqh9Y7x2uyfWIISz6MH9) | [MWS](https://open.spotify.com/artist/6sV5ynmJiP0Z36WSNcdfwC), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Mudhal Vari](https://open.spotify.com/album/33WGz7RCIIyqK6hpZsJhFi) | 1:58 |
+| 13 | [Mudhal Vari](https://open.spotify.com/track/4KYqh9Y7x2uyfWIISz6MH9) | [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Mudhal Vari](https://open.spotify.com/album/33WGz7RCIIyqK6hpZsJhFi) | 1:58 |
 | 14 | [Kannadi Mugam](https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2) | [Vishnu](https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA) | [Kannadi Mugam](https://open.spotify.com/album/59sCXh6exZFMoCO0eNgvnM) | 3:32 |
 | 15 | [Laila x Majnu](https://open.spotify.com/track/3TDazJP7kKplHUlG0vL3Po) | [Swag Madrasis](https://open.spotify.com/artist/2FIDxch0IdXQcBEpwoknbQ) | [Laila x Majnu](https://open.spotify.com/album/3KkCR3h70DWMcqgZvLzDNA) | 3:48 |
 | 16 | [Ulagam Nee](https://open.spotify.com/track/0ACSHNzNI60yrSb0mJ5OjP) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Julia Jarzyna](https://open.spotify.com/artist/5u7JCyDmmVMJhOgKqMVKkk), [Vaishnavi Ram](https://open.spotify.com/artist/74eCmKPynbdqAdGMeaRLjo) | [Ulagam Nee](https://open.spotify.com/album/3n2LpLN5PN9zO9tccrKEwc) | 5:06 |

@@ -1,13 +1,77 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Esme Emerson",
-  "num_followers": 68296,
+  "num_followers": 68580,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjuPjwAAAAA09ZHykrv7ZtxRR8we22QJ",
+  "snapshot_id": "ZkTRUwAAAADcS76TQAdvaS/7HNbU+LNF",
   "tracks": [
+    {
+      "added_at": "2024-05-15 15:14:27",
+      "album": {
+        "name": "Artichoke/Object Permanence",
+        "url": "https://open.spotify.com/album/3MpP0TdFn7ziPaPNuNS4a4"
+      },
+      "artists": [
+        {
+          "name": "Bloomsday",
+          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
+        }
+      ],
+      "duration_ms": 163698,
+      "name": "Artichoke",
+      "url": "https://open.spotify.com/track/08Z0xcdFb0KC0yt5QRVvxT"
+    },
+    {
+      "added_at": "2024-05-15 15:14:27",
+      "album": {
+        "name": "i can",
+        "url": "https://open.spotify.com/album/0xIikGAXipJFQvGzFP24Wl"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "i can",
+      "url": "https://open.spotify.com/track/2zZ2W6aATb8fue7MK1sqAf"
+    },
+    {
+      "added_at": "2024-05-15 15:14:27",
+      "album": {
+        "name": "i don't feel safe in my body",
+        "url": "https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 163859,
+      "name": "i don't feel safe in my body",
+      "url": "https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Show You (Truck Song)",
+        "url": "https://open.spotify.com/album/2xVVvxrck67p3TY2Vu5sqW"
+      },
+      "artists": [
+        {
+          "name": "Esme Emerson",
+          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Show You (Truck Song)",
+      "url": "https://open.spotify.com/track/5fPo8kJRHPUoa9JD1WWqwT"
+    },
     {
       "added_at": "2024-05-08 04:00:00",
       "album": {
@@ -25,6 +89,74 @@
       "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
     },
     {
+      "added_at": "2024-05-15 15:14:27",
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/7MPLdIGd9bOArCHAyeU9VA"
+      },
+      "artists": [
+        {
+          "name": "Memorial",
+          "url": "https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc"
+        },
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 182034,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/4dwRDbXzwMYR53hJ2YD5KR"
+    },
+    {
+      "added_at": "2024-05-15 15:14:27",
+      "album": {
+        "name": "home on the range",
+        "url": "https://open.spotify.com/album/0ZHPMLO1uAycrb3E8RCrMi"
+      },
+      "artists": [
+        {
+          "name": "wilter",
+          "url": "https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R"
+        }
+      ],
+      "duration_ms": 226989,
+      "name": "home on the range",
+      "url": "https://open.spotify.com/track/3UVBJCa53mJUl86apapS8D"
+    },
+    {
+      "added_at": "2024-05-15 15:14:27",
+      "album": {
+        "name": "Big Dipper",
+        "url": "https://open.spotify.com/album/1dq3GRvrZHKFFqAtKRhsQK"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Big Dipper",
+      "url": "https://open.spotify.com/track/5w1j6wa1DfBxfirOe4Lk0G"
+    },
+    {
+      "added_at": "2024-05-15 15:14:27",
+      "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/3Osa7WSd92fxbwAPnW0AD5"
+      },
+      "artists": [
+        {
+          "name": "Steph Strings",
+          "url": "https://open.spotify.com/artist/39qxIdIb1R6se4J3X6nRPB"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/5eL6cI5iRqY6D1IM6TF0Ca"
+    },
+    {
       "added_at": "2024-05-08 04:00:00",
       "album": {
         "name": "balaclava",
@@ -39,22 +171,6 @@
       "duration_ms": 236399,
       "name": "balaclava",
       "url": "https://open.spotify.com/track/73ufb0O9GtK2hZj8xotUHT"
-    },
-    {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Show You (Truck Song)",
-        "url": "https://open.spotify.com/album/2xVVvxrck67p3TY2Vu5sqW"
-      },
-      "artists": [
-        {
-          "name": "Esme Emerson",
-          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Show You (Truck Song)",
-      "url": "https://open.spotify.com/track/5fPo8kJRHPUoa9JD1WWqwT"
     },
     {
       "added_at": "2024-05-08 04:00:00",
@@ -171,22 +287,6 @@
       "duration_ms": 159257,
       "name": "I'll Be Alright",
       "url": "https://open.spotify.com/track/4eI99hJrQpIJasCMRk75VT"
-    },
-    {
-      "added_at": "2024-04-24 04:00:00",
-      "album": {
-        "name": "Virtual Hug",
-        "url": "https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT"
-      },
-      "artists": [
-        {
-          "name": "Bloomsday",
-          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
-        }
-      ],
-      "duration_ms": 189829,
-      "name": "Virtual Hug",
-      "url": "https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD"
     },
     {
       "added_at": "2024-05-08 04:00:00",
@@ -1459,70 +1559,6 @@
     {
       "added_at": "2024-03-13 04:00:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/5FyOiAAhEMhNOvoMJ6NdmB"
-      },
-      "artists": [
-        {
-          "name": "Susan O'Neill",
-          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6fyMrWLRwp2GMnXmcjnDel"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "good dog karma",
-        "url": "https://open.spotify.com/album/7i85GGkYE1XniYzld3Cxln"
-      },
-      "artists": [
-        {
-          "name": "phin",
-          "url": "https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN"
-        }
-      ],
-      "duration_ms": 205712,
-      "name": "good dog karma",
-      "url": "https://open.spotify.com/track/0V5xAM9ljDHgPLt9dvUFpk"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/242M4czjrcjmYAqa6lDoUQ"
-      },
-      "artists": [
-        {
-          "name": "yeemz",
-          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
-        }
-      ],
-      "duration_ms": 199470,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/1NNe3ZZX7R0P5qOOZU5SnQ"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "Slab",
-        "url": "https://open.spotify.com/album/6nUgF40JalU9G6CkcZkHwL"
-      },
-      "artists": [
-        {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Wolfe Ave 40",
-      "url": "https://open.spotify.com/track/1kMA15JVoLWJBRJgV6Qdzq"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
         "name": "A Mother's Touch",
         "url": "https://open.spotify.com/album/2xKU9gBYRXTOLaVJdYDGJv"
       },
@@ -1583,54 +1619,6 @@
       "duration_ms": 320200,
       "name": "Your Eyes Tell Stories",
       "url": "https://open.spotify.com/track/2L0lffL9iJypY0PDGEg169"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "The Nonlovers",
-        "url": "https://open.spotify.com/album/0seGpq2Ttoz8T3dQiYZTDY"
-      },
-      "artists": [
-        {
-          "name": "The Nonlovers",
-          "url": "https://open.spotify.com/artist/1hqPrDaljmBzYPYMA6PV9V"
-        }
-      ],
-      "duration_ms": 155898,
-      "name": "anything for you",
-      "url": "https://open.spotify.com/track/5hGXRW8oXPfbSMJcP2xC3f"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/4VSPAtO2C0yEjljN2wQpgt"
-      },
-      "artists": [
-        {
-          "name": "Lila Holler",
-          "url": "https://open.spotify.com/artist/5zQQbAJKIj7byYLnHBqJJO"
-        }
-      ],
-      "duration_ms": 196663,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/0GDyIFoVT49ok0LnFxaYUj"
-    },
-    {
-      "added_at": "2024-03-06 14:10:40",
-      "album": {
-        "name": "Nose Job",
-        "url": "https://open.spotify.com/album/0iFR1tLijczTAbsjEiGJDF"
-      },
-      "artists": [
-        {
-          "name": "Caity Krone",
-          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
-        }
-      ],
-      "duration_ms": 287300,
-      "name": "Nose Job",
-      "url": "https://open.spotify.com/track/6IB1YxShFrWmhBxBtcr1aQ"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

@@ -1,6 +1,6 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 131048,
+  "num_followers": 131054,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Dime Que Si",
-        "url": "https://open.spotify.com/album/5UBDeSU8OLzFB6UxO3cZJq"
-      },
-      "artists": [
-        {
-          "name": "Negami",
-          "url": "https://open.spotify.com/artist/2NSP557TgNwneGnhiZpNzG"
-        }
-      ],
-      "duration_ms": 185947,
-      "name": "Dime Que Si",
-      "url": "https://open.spotify.com/track/0bgfyx78KRzHFOj78fUH9x"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "D\u00e9jame Sufrir",
         "url": "https://open.spotify.com/album/3X4lnddczeCRZVcS9qfvbk"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 233069,
       "name": "D\u00e9jame Sufrir",
       "url": "https://open.spotify.com/track/7ErdvZo7JE1dIYY1GFL0sm"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Dime Que Si",
+        "url": "https://open.spotify.com/album/5UBDeSU8OLzFB6UxO3cZJq"
+      },
+      "artists": [
+        {
+          "name": "Negami",
+          "url": "https://open.spotify.com/artist/2NSP557TgNwneGnhiZpNzG"
+        }
+      ],
+      "duration_ms": 185947,
+      "name": "Dime Que Si",
+      "url": "https://open.spotify.com/track/0bgfyx78KRzHFOj78fUH9x"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Estoy Encari\u00f1ado",
-        "url": "https://open.spotify.com/album/4dRU5z6FXddnElpKP66L7H"
-      },
-      "artists": [
-        {
-          "name": "Magnifico 7",
-          "url": "https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Estoy Encari\u00f1ado",
-      "url": "https://open.spotify.com/track/3qK4WO2Ce5s9snSR6V6bEY"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Anda Vuela Y Vete",
         "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 165866,
       "name": "Anda Vuela Y Vete",
       "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Estoy Encari\u00f1ado",
+        "url": "https://open.spotify.com/album/4dRU5z6FXddnElpKP66L7H"
+      },
+      "artists": [
+        {
+          "name": "Magnifico 7",
+          "url": "https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Estoy Encari\u00f1ado",
+      "url": "https://open.spotify.com/track/3qK4WO2Ce5s9snSR6V6bEY"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
+      },
+      "artists": [
+        {
+          "name": "Pablo Urbina",
+          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Pura Sabrosura",
         "url": "https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 221640,
       "name": "Increible",
       "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
-      },
-      "artists": [
-        {
-          "name": "Pablo Urbina",
-          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Porque Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
+        "name": "Sientes Igual",
+        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
       },
       "artists": [
         {
-          "name": "Roel Martinez",
-          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
+          "name": "The Latin Breed",
+          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Porque Vivo Enamorado",
-      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
+      "duration_ms": 170316,
+      "name": "Sientes Igual",
+      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -735,34 +735,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Sientes Igual",
-        "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
+        "name": "Porque Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
       },
       "artists": [
         {
-          "name": "The Latin Breed",
-          "url": "https://open.spotify.com/artist/2GiOrcBCuXQJ2oRIMWJxAP"
+          "name": "Roel Martinez",
+          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
         }
       ],
-      "duration_ms": 170316,
-      "name": "Sientes Igual",
-      "url": "https://open.spotify.com/track/6a6ySbNBUD3hsU2Kl0JEb5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Los Peces En El Rio",
-        "url": "https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX"
-      },
-      "artists": [
-        {
-          "name": "Veronique Medrano",
-          "url": "https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Los Peces En El Rio",
-      "url": "https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5"
+      "duration_ms": 222466,
+      "name": "Porque Vivo Enamorado",
+      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -779,6 +763,22 @@
       "duration_ms": 209836,
       "name": "Sed\u00faceme",
       "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Los Peces En El Rio",
+        "url": "https://open.spotify.com/album/1exTpPwJ4ZUqf6l37TKlMX"
+      },
+      "artists": [
+        {
+          "name": "Veronique Medrano",
+          "url": "https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Los Peces En El Rio",
+      "url": "https://open.spotify.com/track/2hXxwyJm64VCEURkHq0le5"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "No Te Voy A Perder",
-        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Valadez",
-          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "No Te Voy A Perder",
-      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Soy Ella",
         "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "No Te Voy A Perder",
+        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Valadez",
+          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "No Te Voy A Perder",
+      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Necesito Borrarte",
         "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Que Dolor",
-        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
-      },
-      "artists": [
-        {
-          "name": "George Salazar",
-          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
-        }
-      ],
-      "duration_ms": 202292,
-      "name": "Que Dolor",
-      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Contigo Corazon",
         "url": "https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 195291,
       "name": "Contigo Corazon",
       "url": "https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Que Dolor",
+        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
+      },
+      "artists": [
+        {
+          "name": "George Salazar",
+          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
+        }
+      ],
+      "duration_ms": 202292,
+      "name": "Que Dolor",
+      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Te Quiero Mas",
-        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
-      },
-      "artists": [
-        {
-          "name": "Rita Capuchina",
-          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "Te Quiero Mas",
-      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Simplemente Por Quererte a Ti",
         "url": "https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 198400,
       "name": "Simplemente Por Quererte a Ti",
       "url": "https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Te Quiero Mas",
+        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
+      },
+      "artists": [
+        {
+          "name": "Rita Capuchina",
+          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "Te Quiero Mas",
+      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
     },
     {
       "added_at": "2023-09-13 20:37:36",

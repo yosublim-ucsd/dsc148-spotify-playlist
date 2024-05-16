@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,016,433 likes - 154 songs - 7 hr 49 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,016,463 likes - 156 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,5 +162,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 152 | [HEY HEY](https://open.spotify.com/track/2ogjIP2yhAgRpFVlolez0Z) | [WZ Beat](https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9), [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD) | [HEY HEY](https://open.spotify.com/album/2PCeDB701jViNYJIV5dSvP) | 1:32 |
 | 153 | [7 Seas](https://open.spotify.com/track/2yCO2rCXSiEv8QypzeMecy) | [LOSTOV](https://open.spotify.com/artist/4iA6lkctWaj1qoPJ65veHb) | [7 Seas](https://open.spotify.com/album/2nEPONY9Pmmpcuo923AIm1) | 2:27 |
 | 154 | [ERA](https://open.spotify.com/track/0ylefvjDVKqGEsMUwMrwTi) | [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj) | [ERA](https://open.spotify.com/album/0Oc07579Big4BUEMU7n8BH) | 1:16 |
+| 155 | [X\-SLIDE](https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO) | [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li), [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 1:19 |
+| 156 | [digiphunk](https://open.spotify.com/track/2QtZI9AahQIZ3B9UY9Q7Xd) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [digiphunk](https://open.spotify.com/album/6QTs9TrzSqQwr5opTboF4w) | 1:34 |
 
-Snapshot ID: `AAA5Oq+gN23h5StvqqiNfHRP179pllEd`
+Snapshot ID: `AAA5PEBrVJ8OKc4AAf/O11wgsl3BIhwZ`

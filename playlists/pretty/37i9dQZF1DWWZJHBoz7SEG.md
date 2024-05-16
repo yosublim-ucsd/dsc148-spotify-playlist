@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Puras rolitas para celebrar con mamá en su día 🥰 \(menos la primera, le va a dar el patatús\) Uzielito Mix, Yeri Mua y El Bogueto en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,616 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,793 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

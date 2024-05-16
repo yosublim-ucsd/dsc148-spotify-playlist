@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain](/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ)
 
-### [Lady Gaga 电台](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
+### [Radio de Lady Gaga](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> 包含 Britney Spears, Katy Perry, Kesha 等艺人的作品
+> Con Britney Spears, Katy Perry, Kesha y más
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,161 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,305 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 | 49 | [Break Free](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:34 |
 | 50 | [Scream & Shout](https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [\#willpower](https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb) | 4:43 |
 
-Snapshot ID: `ZkQndQAAAADKxIG5x/lj3+Qh8IdbF7bG`
+Snapshot ID: `ZkV4+AAAAADvNYxOhSMd0OQIF+SkfUGU`

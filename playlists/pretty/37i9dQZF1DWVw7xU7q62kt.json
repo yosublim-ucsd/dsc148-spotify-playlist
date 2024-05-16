@@ -1,6 +1,6 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
-  "num_followers": 50689,
+  "num_followers": 50748,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Beginner's Mind",
-        "url": "https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb"
-      },
-      "artists": [
-        {
-          "name": "Raffy Bushman",
-          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
-        }
-      ],
-      "duration_ms": 346000,
-      "name": "Bitter Suite",
-      "url": "https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Verdant",
         "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 141020,
       "name": "OLDRICH",
       "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Beginner's Mind",
+        "url": "https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "duration_ms": 346000,
+      "name": "Bitter Suite",
+      "url": "https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Always in a Hurry",
-        "url": "https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf"
-      },
-      "artists": [
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 151932,
-      "name": "Up and Down",
-      "url": "https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/3l1BpaDK1dFnKJZ2m5ypDC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 144026,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4EZmaOxulwwYXoDTIjRUTl"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Always in a Hurry",
+        "url": "https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf"
+      },
+      "artists": [
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 151932,
+      "name": "Up and Down",
+      "url": "https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU"
-      },
-      "artists": [
-        {
-          "name": "Jazzbois",
-          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Never Doubt",
         "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 250399,
       "name": "Never Doubt",
       "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Annie's Tune",
-        "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "Annie's Tune",
-      "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Jazzbois Goes Blunt II",
         "url": "https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 183785,
       "name": "27",
       "url": "https://open.spotify.com/track/346Hiyp2wyMN08fl0z7t79"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Annie's Tune",
+        "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Annie's Tune",
+      "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn"
-      },
-      "artists": [
-        {
-          "name": "Ajmw",
-          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "Blue Notes",
-      "url": "https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Twelve Chapters",
         "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 223475,
       "name": "Dr. Disclosure",
       "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn"
+      },
+      "artists": [
+        {
+          "name": "Ajmw",
+          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "Blue Notes",
+      "url": "https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Hypnagogia Wakefull Dreams",
-        "url": "https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv"
-      },
-      "artists": [
-        {
-          "name": "HawkOne",
-          "url": "https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y"
-        },
-        {
-          "name": "Raz-One",
-          "url": "https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP"
-        }
-      ],
-      "duration_ms": 138795,
-      "name": "Hypnagogia Wakefull Dreams",
-      "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Cape Cod Cottage",
         "url": "https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg"
       },
@@ -1299,22 +1279,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "BEZU",
-        "url": "https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF"
+        "name": "Hypnagogia Wakefull Dreams",
+        "url": "https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv"
       },
       "artists": [
         {
-          "name": "Valaire",
-          "url": "https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj"
+          "name": "HawkOne",
+          "url": "https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y"
         },
         {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+          "name": "Raz-One",
+          "url": "https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP"
         }
       ],
-      "duration_ms": 184116,
-      "name": "BEZU",
-      "url": "https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK"
+      "duration_ms": 138795,
+      "name": "Hypnagogia Wakefull Dreams",
+      "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1339,18 +1319,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy"
+        "name": "BEZU",
+        "url": "https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF"
       },
       "artists": [
         {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+          "name": "Valaire",
+          "url": "https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj"
+        },
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
         }
       ],
-      "duration_ms": 158117,
-      "name": "Je Pense A Toi",
-      "url": "https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y"
+      "duration_ms": 184116,
+      "name": "BEZU",
+      "url": "https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1383,6 +1367,58 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Je Pense A Toi",
+      "url": "https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "out and about with my love at the weekend",
+        "url": "https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd"
+      },
+      "artists": [
+        {
+          "name": "Akassia",
+          "url": "https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5"
+        },
+        {
+          "name": "Samuel Williams",
+          "url": "https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv"
+        }
+      ],
+      "duration_ms": 139023,
+      "name": "out and about with my love at the weekend",
+      "url": "https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Chime",
+        "url": "https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW"
+      },
+      "artists": [
+        {
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
+        }
+      ],
+      "duration_ms": 109613,
+      "name": "Chime",
+      "url": "https://open.spotify.com/track/5V3TlTt1Jwg53UaUcF8MgS"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Twelve Chapters",
         "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
       },
@@ -1407,42 +1443,6 @@
       "duration_ms": 139451,
       "name": "The Banquet",
       "url": "https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Chime",
-        "url": "https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW"
-      },
-      "artists": [
-        {
-          "name": "Tom Doolie",
-          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
-        }
-      ],
-      "duration_ms": 109613,
-      "name": "Chime",
-      "url": "https://open.spotify.com/track/5V3TlTt1Jwg53UaUcF8MgS"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "out and about with my love at the weekend",
-        "url": "https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd"
-      },
-      "artists": [
-        {
-          "name": "Akassia",
-          "url": "https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5"
-        },
-        {
-          "name": "Samuel Williams",
-          "url": "https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv"
-        }
-      ],
-      "duration_ms": 139023,
-      "name": "out and about with my love at the weekend",
-      "url": "https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Is This Jazz?",
-        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 181855,
-      "name": "Is This Jazz?",
-      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Tool Box",
         "url": "https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 152937,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Is This Jazz?",
+        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Is This Jazz?",
+      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Even the Sun",
-        "url": "https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 206326,
-      "name": "Even the Sun",
-      "url": "https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 157600,
       "name": "Elsewhere",
       "url": "https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Even the Sun",
+        "url": "https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 206326,
+      "name": "Even the Sun",
+      "url": "https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Chris Holm \u00b7 \u00d8yvind Blomstr\u00f8m \u00b7 Kim \u00c5ge Furuhaug",
-        "url": "https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo"
-      },
-      "artists": [
-        {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
-        },
-        {
-          "name": "Kim \u00c5ge Furuhaug",
-          "url": "https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Langeland Frukt & Tobakk",
-      "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC"
       },
@@ -1743,6 +1723,22 @@
       "duration_ms": 181258,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Saucisses",
+        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Saucisses",
+      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1791,18 +1787,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Saucisses",
-        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+        "name": "Chris Holm \u00b7 \u00d8yvind Blomstr\u00f8m \u00b7 Kim \u00c5ge Furuhaug",
+        "url": "https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo"
       },
       "artists": [
         {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        },
+        {
+          "name": "Kim \u00c5ge Furuhaug",
+          "url": "https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Saucisses",
-      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
+      "duration_ms": 340000,
+      "name": "Langeland Frukt & Tobakk",
+      "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "713",
-        "url": "https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf"
-      },
-      "artists": [
-        {
-          "name": "James Francies",
-          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "713",
-      "url": "https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Stations",
         "url": "https://open.spotify.com/album/2mrzldr66aHRPeXyazgulm"
       },
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "713",
+        "url": "https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf"
+      },
+      "artists": [
+        {
+          "name": "James Francies",
+          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "713",
+      "url": "https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Blue Turn",
         "url": "https://open.spotify.com/album/1gfJzf9Hu6HKzlGtfbg4km"
       },
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Goldfoil",
-        "url": "https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC"
-      },
-      "artists": [
-        {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
-        }
-      ],
-      "duration_ms": 154972,
-      "name": "Goldfoil",
-      "url": "https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Royal Sessions",
         "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 315910,
       "name": "Icebreaker",
       "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Goldfoil",
+        "url": "https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC"
+      },
+      "artists": [
+        {
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+        }
+      ],
+      "duration_ms": 154972,
+      "name": "Goldfoil",
+      "url": "https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO"
     },
     {
       "added_at": "2024-03-20 12:30:49",

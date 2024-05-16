@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6II0CjU8B2JyEgWBBVvtjN"
+      },
+      "artists": [
+        {
+          "name": "Megara",
+          "url": "https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180087,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/6XIerJ9V7H9byQFRZiqyCv"
+    },
+    {
+      "album": {
         "name": "2 days into college",
         "url": "https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3"
       },
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 121000,
       "name": "Erwischt",
       "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
@@ -2432,6 +2450,24 @@
       "duration_ms": 179738,
       "name": "Fighter - Eurovision Version",
       "url": "https://open.spotify.com/track/6K4Opq24wkYBidAuLpqutv"
+    },
+    {
+      "album": {
+        "name": "Firefighter",
+        "url": "https://open.spotify.com/album/1uZCKKz6GFG8RXXQhRZ9vv"
+      },
+      "artists": [
+        {
+          "name": "Nutsa",
+          "url": "https://open.spotify.com/artist/28BY95cMOgoVJrJK9YLS7Z"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183913,
+      "name": "Firefighter",
+      "url": "https://open.spotify.com/track/5Ekw4o2ecrOCBF5rGB7KXs"
     },
     {
       "album": {
@@ -6936,7 +6972,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
@@ -7698,7 +7734,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 115519,
       "name": "they/them (diesesliedistspass)",
       "url": "https://open.spotify.com/track/27XjbGziM7LRMp3lUbNYbs"
@@ -7716,7 +7752,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 199821,
       "name": "Tiryakinim",
       "url": "https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1"

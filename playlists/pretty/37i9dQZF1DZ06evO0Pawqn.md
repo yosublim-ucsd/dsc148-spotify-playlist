@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 ### [This Is Los Tiranos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Pawqn)
 
-> This is Los Tiranos Del Norte\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 9,153 likes - 50 songs - 2 hr 36 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [Que Se Ponga Bueno](https://open.spotify.com/track/11HWyg7HjFhrYndw5NFR73) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Que Se Ponga Bueno](https://open.spotify.com/album/59GDfzRZVdT2C24usuvrWJ) | 2:40 |
 | 50 | [Le Doblamos La Edad](https://open.spotify.com/track/3TGRjmDrlWAvaDumXQCqeB) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 3:51 |
 
-Snapshot ID: `ZkFYAAAAAADgAUpDUGe+bn9jAxc4uxhY`
+Snapshot ID: `ZkFYAAAAAAAyBb04/rTPPqB5o7yEvTHf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,267 likes - 98 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,300 likes - 98 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 94 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
 | 95 | [Changing Faces \(feat\. Cuco\)](https://open.spotify.com/track/0Ti4ZWTNevOQFTN63Vldjl) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Vampire in Beverly Hills](https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH) | 1:55 |
 | 96 | [Reverie](https://open.spotify.com/track/3tEHmpoGjvi6FAcu0YGUNi) | [Aruna Dawn](https://open.spotify.com/artist/0IR68oTOmMzCDoidJ7FICS) | [Reverie](https://open.spotify.com/album/5cMhH6CED8TexREEwEKHQi) | 2:53 |
-| 97 | [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:46 |
+| 97 | [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:43 |
 | 98 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 |
 
 Snapshot ID: `Zj2f/QAAAAAr72raLIbzDfxx043t89Sf`

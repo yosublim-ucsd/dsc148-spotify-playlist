@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,274 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,292 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 14 | [Easter In Miami](https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Easter In Miami](https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk) | 3:07 |
 | 15 | [Nowhere 2 Run](https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb) | [Grind2hard Osh’a](https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET) | [Wolf Talk](https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW) | 2:53 |
 | 16 | [DO BETTER](https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:32 |
-| 17 | [Period](https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Period](https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS) | 3:20 |
-| 18 | [Blackberry Zap](https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:58 |
+| 17 | [Blackberry Zap](https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:58 |
+| 18 | [Period](https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Period](https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS) | 3:20 |
 | 19 | [Only You](https://open.spotify.com/track/7cmml6x2roZ79TepoRbnd0) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l) | [1\-800\-HIT\-EAZY](https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi) | 2:29 |
 | 20 | [I'll Never Tell Em Shit](https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [I'll Never Tell Em Shit](https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1) | 2:57 |
 | 21 | [LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 4:15 |

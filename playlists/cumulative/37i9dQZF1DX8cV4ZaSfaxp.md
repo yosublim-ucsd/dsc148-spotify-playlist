@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Taeha\(태하\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-327 songs - 20 hr 15 min
+328 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/4DqKZBow5uuKTQQiDoSjTF) | 3:11 | 2022-05-11 | 2022-12-16 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2022-05-11 |  |
 | [Cristal Love](https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds) | [En Sokum](https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF) | [Cristal Love](https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK) | 3:37 | 2022-12-21 |  |
-| [Dawn](https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Dawn](https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA) | 4:01 | 2022-07-04 |  |
+| [Dawn](https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Dawn](https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA) | 4:01 | 2022-07-04 | 2024-05-16 |
 | [DAYDREAM](https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:23 | 2022-07-22 | 2024-04-19 |
 | [DAYDREAM](https://open.spotify.com/track/4qj6sQ5Y3tY4MIEEzqGLhT) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:23 | 2022-05-11 | 2022-06-30 |
 | [Desire \(Feat\. 정진형, Vince\)](https://open.spotify.com/track/0sMSGLrwt5KFttn3ksv8CK) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG), [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 3:14 | 2022-05-11 |  |
@@ -291,6 +291,7 @@
 | [Thinking About You](https://open.spotify.com/track/78Oao6HSlF71skOa8vgV4e) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/3lZQCdHYJ94Icv6OWeqh76) | 3:29 | 2022-05-11 | 2022-07-29 |
 | [Thinking About You \(feat\. SUMIN\)](https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN) | 3:29 | 2023-05-05 | 2024-04-19 |
 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 | 2022-05-11 |  |
+| [Timing](https://open.spotify.com/track/5hHHF4wzTc2K5PP6gpOTEr) | [Kim eun young](https://open.spotify.com/artist/49XEW1qNZPAeucXHu8zIeg) | [Timing](https://open.spotify.com/album/73VK4w06GJ37zySHOyTUoy) | 3:57 | 2024-04-19 |  |
 | [Tonight](https://open.spotify.com/track/7sO5L1MHG4Rgwg6ARMS7GD) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Tonight](https://open.spotify.com/album/2nEXBIArDYdR0CtfN6XXWM) | 3:55 | 2022-05-11 | 2022-07-27 |
 | [Upgrader](https://open.spotify.com/track/2kB1R4QcWMQFeElVzOHvTO) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Simple Mind](https://open.spotify.com/album/1eFLEjmPn7qdHprS4v1O52) | 4:13 | 2022-05-11 | 2022-07-29 |
 | [Venus](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-07-22 | 2023-06-03 |

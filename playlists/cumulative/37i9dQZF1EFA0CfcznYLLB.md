@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 18 hr 9 min
+346 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [The Other Ones \(feat\. Rapsody\)](https://open.spotify.com/track/0u48wTfTCL8z1hVgrnthzh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:38 | 2023-12-13 |  |
 | [They Said It](https://open.spotify.com/track/1TOTyT39WSgeuSFdBUu0yh) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Trust the Process II: Undefeated](https://open.spotify.com/album/7f5WIkHMRgBYvkZd9Qd0V2) | 3:53 | 2023-12-13 |  |
 | [Thick & Pretty](https://open.spotify.com/track/6e0Sq5QPvMffzke6SMaNck) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:32 | 2023-12-13 |  |
-| [This Is For](https://open.spotify.com/track/5GNHz3LiAsNs4tBrFzP4wq) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Take No L'z](https://open.spotify.com/album/0DDnNXaiiSgUqcYOMWYVek) | 2:32 | 2023-12-13 |  |
+| [This Is For](https://open.spotify.com/track/3vrupZhs2JgYjLR70XCiEK) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Take No L'z EP](https://open.spotify.com/album/7eGX6qd3WeO5QmC0t7P6Nv) | 2:32 | 2024-05-15 |  |
+| [This Is For](https://open.spotify.com/track/5GNHz3LiAsNs4tBrFzP4wq) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Take No L'z](https://open.spotify.com/album/0DDnNXaiiSgUqcYOMWYVek) | 2:32 | 2023-12-13 | 2024-05-16 |
 | [Time For Me](https://open.spotify.com/track/0hfaWJEQfbiX7PnZNAzN1r) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:59 | 2023-12-13 |  |
 | [Tony Starks](https://open.spotify.com/track/2qi1wp1XsNO64udWaFaIIc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:28 | 2023-12-13 |  |
 | [Too Many](https://open.spotify.com/track/3vbvylwEVk3GDKf5W6uKPZ) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:39 | 2023-12-13 |  |

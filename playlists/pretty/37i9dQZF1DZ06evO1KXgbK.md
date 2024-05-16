@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 ### [This Is Dolly Parton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KXgbK)
 
-> This Is Dolly Parton\. Los temas esenciales, todos en una lista.
+> This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,145 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,170 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 |
 | 50 | [Gonna Be You \(feat\. Gloria Estefan and Debbie Harry\)](https://open.spotify.com/track/7u0qPfX0sXCdYfN6juC2Fh) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U), [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Debbie Harry](https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl) | [Gonna Be You \(feat\. Gloria Estefan and Debbie Harry\)](https://open.spotify.com/album/4yq6mXEcVYU7wphdgqgiys) | 2:58 |
 
-Snapshot ID: `ZkFYAAAAAADvVWV+U/BonU92lZZV7xBj`
+Snapshot ID: `ZkFYAAAAAAC7RuYXpP6X5IAuG26U62jN`

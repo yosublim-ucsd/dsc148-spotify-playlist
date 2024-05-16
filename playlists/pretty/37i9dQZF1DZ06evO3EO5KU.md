@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,969 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,999 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Relatos De Juan Jose \- En Vivo](https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Relatos De Juan Jose](https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ) | 4:11 |
 | 50 | [Asi Me La Llevo](https://open.spotify.com/track/2BdRZvJMyaJFM86tlu3jNy) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Banda Tierra Blanca](https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB) | [Asi Me La Llevo](https://open.spotify.com/album/2a8OztEUFX2sRTPhexhm4b) | 3:01 |
 
-Snapshot ID: `ZkFYAAAAAABSu2aqpxthnlHPp5CFpoS9`
+Snapshot ID: `ZkKpgAAAAAB0QXHOh4a48WcFw9FutArX`

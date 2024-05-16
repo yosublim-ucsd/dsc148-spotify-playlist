@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POPYOURSまであと3日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: CFN Malik
+> 【POPYOURSまであと2日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: L.O.S.T
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,575 likes - 106 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587 likes - 106 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [F1](https://open.spotify.com/track/2zJn5hOZRhlJuabLVOnXej) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Radiant](https://open.spotify.com/album/6ZUiLTzqxwCfw01NA86SlW) | 2:30 |
-| 2 | [Naked Eyes](https://open.spotify.com/track/0uBwF9lYSc294ToMHECJc2) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Naked Eyes / Seven](https://open.spotify.com/album/7u8U70CLe63fPQyrh8Nv1o) | 2:35 |
-| 3 | [PRIDE](https://open.spotify.com/track/5iEVrkCrTfSfGUtF0SQlh3) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [PRIDE](https://open.spotify.com/album/5k0nELnETzmKXNnlo74HaB) | 3:38 |
-| 4 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 |
-| 5 | [SIREN](https://open.spotify.com/track/3962oATH8ZDWRRxICHIpeK) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV), [M3R](https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm), [BiLL](https://open.spotify.com/artist/5TovkEpM2OxYnrXHz4COhv), [ROBBIN](https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB) | [SIREN](https://open.spotify.com/album/7bYvHA9yeU2xHKIwS3LP4m) | 3:18 |
+| 1 | [SIREN](https://open.spotify.com/track/3962oATH8ZDWRRxICHIpeK) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV), [M3R](https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm), [BiLL](https://open.spotify.com/artist/5TovkEpM2OxYnrXHz4COhv), [ROBBIN](https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB) | [SIREN](https://open.spotify.com/album/7bYvHA9yeU2xHKIwS3LP4m) | 3:18 |
+| 2 | [F1](https://open.spotify.com/track/2zJn5hOZRhlJuabLVOnXej) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Radiant](https://open.spotify.com/album/6ZUiLTzqxwCfw01NA86SlW) | 2:30 |
+| 3 | [Naked Eyes](https://open.spotify.com/track/0uBwF9lYSc294ToMHECJc2) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Naked Eyes / Seven](https://open.spotify.com/album/7u8U70CLe63fPQyrh8Nv1o) | 2:35 |
+| 4 | [PRIDE](https://open.spotify.com/track/5iEVrkCrTfSfGUtF0SQlh3) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [PRIDE](https://open.spotify.com/album/5k0nELnETzmKXNnlo74HaB) | 3:38 |
+| 5 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 |
 | 6 | [Think About It](https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [Think About It](https://open.spotify.com/album/2WB7SY5SxIskb9Ju9uekRB) | 4:01 |
 | 7 | [Champions](https://open.spotify.com/track/07n4Wa9DmDyZyeyoba6dtA) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Champions](https://open.spotify.com/album/2AlTOHvsl8jYqVxGgsvXqe) | 4:37 |
 | 8 | [Forever](https://open.spotify.com/track/644LP8xaFEYxCIfjwHcGBL) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [Forever](https://open.spotify.com/album/4ZYt1oNWB3i4b7Gveym7VL) | 3:00 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 105 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 106 | [Erika](https://open.spotify.com/track/47AFXtZnq9FwZffiIMKX1O) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Fear](https://open.spotify.com/album/5ULXcHka7ie9hbyZmIReC3) | 3:35 |
 
-Snapshot ID: `ZkQP2gAAAADtztYkKqS6zpBKrLVslKNF`
+Snapshot ID: `ZkTN8AAAAADvDbvR09v9wzmJjRWUZ4vg`

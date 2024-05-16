@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 ### [This Is LUDMILLA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26GFPO)
 
-> This is LUDMILLA\. Tutti i brani in un'unica playlist.
+> This is LUDMILLA\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,215 likes - 45 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,241 likes - 45 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 44 | [Toma \- Ao Vivo](https://open.spotify.com/track/5lOHHtPiIEotQp8oCMoEp0) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [GG Astral \(Ao Vivo\)](https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL) | 2:33 |
 | 45 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/46WAJyMF8mNDcn9CcsTcmT) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:20 |
 
-Snapshot ID: `ZkFYAAAAAAD664Khq0jySTrCBeQHyPx7`
+Snapshot ID: `ZkKpgAAAAADOzsYgOzkBO1h99eTvmk1D`

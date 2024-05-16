@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 ### [This Is Teddy Pendergrass](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Cn8UU)
 
-> This is Teddy Pendergrass\. The essential tracks, all in one playlist.
+> This is Teddy Pendergrass\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 34,032 likes - 50 songs - 4 hr 19 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [Let Me Be Closer \- Remastered](https://open.spotify.com/track/7kw2MeeqPqmJMW4HH9W6Lx) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Bedroom Classics, Vol\. 1](https://open.spotify.com/album/4dzEBeERyrsFl59LcPYOEC) | 4:30 |
 | 50 | [Yesterday I Had The Blues \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/43BQ041w9ryoC6TTVHTc7F) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 7:33 |
 
-Snapshot ID: `ZkFYAAAAAACe+17aCl1dPVaVLG/0EEkt`
+Snapshot ID: `ZkKpgAAAAACnq/u6Z9407zD+9Fpzkgc0`

@@ -2,7 +2,7 @@
 
 ### [This Is Lunay](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pqUP7)
 
-> This is Lunay\. The essential tracks, all in one playlist.
+> This Is Lunay\. Los temas esenciales, todos en una lista.
 
 55 songs - 3 hr 28 min
 

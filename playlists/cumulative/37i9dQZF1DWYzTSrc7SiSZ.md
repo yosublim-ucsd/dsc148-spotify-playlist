@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-267 songs - 14 hr 25 min
+268 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Hurricane Season](https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv) | [JCZR](https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D) | [Hurricane Season](https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j) | 2:47 | 2022-05-20 | 2023-08-01 |
 | [I Fell in Love](https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw) | 4:20 | 2022-07-11 | 2024-04-19 |
 | [I Fell In Love](https://open.spotify.com/track/51y9N9jm8ykm0UrpaJ6J3s) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/7tNjHSLioVJsgily2nkn7z) | 4:20 | 2022-05-20 | 2022-07-29 |
-| [if you let me](https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [if you let me](https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK) | 2:40 | 2022-05-20 |  |
+| [if you let me](https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [if you let me](https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK) | 2:40 | 2022-05-20 | 2024-05-16 |
 | [Indirecta](https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Indirecta](https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o) | 3:20 | 2022-10-27 |  |
 | [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 | 2023-01-06 |  |
 | [just a boy](https://open.spotify.com/track/2fAeROYFSbWdvML6rbnCar) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/6C2WtjbTyOmdMq7E8uTXcg) | 3:05 | 2022-05-20 | 2022-10-13 |
@@ -121,7 +121,7 @@
 | [La Difícil](https://open.spotify.com/track/6fNJm8sYmCBbmkKpKgTReA) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:38 | 2022-05-20 | 2022-10-28 |
 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2022-05-20 | 2024-05-11 |
 | [La Luna](https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Renacer Pt\. 1](https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva) | 2:28 | 2022-05-20 |  |
-| [La Puerta](https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt) | [Chill Akiles](https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL) | [La Puerta](https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP) | 3:08 | 2024-05-10 | 2024-05-15 |
+| [La Puerta](https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt) | [Chill Akiles](https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL) | [La Puerta](https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP) | 3:08 | 2024-05-10 |  |
 | [La Vida en Rosa](https://open.spotify.com/track/2MBYMHjtOPxVtZxaKbQYxc) | [Pantera Blue](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [La Vida en Rosa](https://open.spotify.com/album/4UoTOkoxOm0DWB2fh3W65x) | 2:08 | 2022-05-20 | 2022-07-29 |
 | [La Vida en Rosa](https://open.spotify.com/track/2odlHl0cZ7Q1npc6RL07Ar) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [La Vida en Rosa](https://open.spotify.com/album/40vbtVpx6kZt8AgNixhVeP) | 2:08 | 2022-07-11 | 2024-04-19 |
 | [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 | 2022-05-20 |  |
@@ -182,7 +182,7 @@
 | [Ojos Papel](https://open.spotify.com/track/30OksLi7GCTqAc3KXwu3Ds) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:41 | 2024-05-10 |  |
 | [OPPENHEIMER](https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [OPPENHEIMER](https://open.spotify.com/album/1DHmGusWeGzJOnYrKBzLFu) | 2:21 | 2024-04-12 |  |
 | [Otra Ciudad](https://open.spotify.com/track/657ceMv7ArWXk1DOCGJ0wV) | [Rsel](https://open.spotify.com/artist/2bzev2RaU9OmS0wCG6Ge3A) | [Otra Ciudad](https://open.spotify.com/album/3Uoq5gccs4oCr4CMQ78ZUe) | 2:18 | 2024-02-09 | 2024-04-19 |
-| [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-05-20 |  |
+| [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-05-20 | 2024-05-16 |
 | [Otro Trago \- Acústico En Vivo](https://open.spotify.com/track/0VDvSDARyeJH7QIdsHNqur) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Rich Music Sessions \(Acústico En Vivo\)](https://open.spotify.com/album/6jU5obP9snCcR57UjL9byA) | 3:44 | 2022-05-20 | 2022-10-28 |
 | [pa quererte](https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [pa quererte](https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3) | 2:47 | 2022-12-30 | 2023-03-11 |
 | [pa' que sueñes](https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [pa' que sueñes](https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq) | 2:50 | 2023-01-06 |  |
@@ -249,6 +249,7 @@
 | [TQB](https://open.spotify.com/track/4C6844tUibAL9cSObEEukn) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [TQB](https://open.spotify.com/album/678s8RjRxY6cXhbPmdRurI) | 2:46 | 2022-05-20 | 2023-01-07 |
 | [Track 11](https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns) | [Track 11](https://open.spotify.com/album/0c0HSLNtYbgOEOtHdUr70D) | 3:39 | 2022-05-20 | 2023-01-07 |
 | [Trihte](https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 3:48 | 2022-05-20 | 2023-01-07 |
+| [tu piel me ha besado](https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M) | [Cariatydes](https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W) | [tu piel me ha besado](https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx) | 3:42 | 2024-05-10 |  |
 | [Tus Besos](https://open.spotify.com/track/028vko2T93bPeotwTWXOve) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Tus Besos](https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou) | 3:25 | 2022-10-27 |  |
 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 | 2022-05-20 | 2024-05-11 |
 | [Tusa](https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Tusa](https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc) | 2:33 | 2022-05-20 |  |

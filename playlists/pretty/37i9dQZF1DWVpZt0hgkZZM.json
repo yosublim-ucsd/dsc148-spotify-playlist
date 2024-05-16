@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 31149,
+  "num_followers": 31172,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
         "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Afrosound",
-        "url": "https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q"
+        "name": "Historia Musical de el Tropicombo",
+        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
       "artists": [
         {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+          "name": "El Tropicombo",
+          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
         }
       ],
-      "duration_ms": 243054,
-      "name": "Ag\u00fcita e Coco - Instrumental",
-      "url": "https://open.spotify.com/track/0dwH1sfUCF7U6ZwaU9XoId"
+      "duration_ms": 271189,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de el Tropicombo",
-        "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
+        "name": "Afrosound",
+        "url": "https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q"
       },
       "artists": [
         {
-          "name": "El Tropicombo",
-          "url": "https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM"
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
         }
       ],
-      "duration_ms": 271189,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/23xtolsV0yVcSx72CbI6yS"
+      "duration_ms": 243054,
+      "name": "Ag\u00fcita e Coco - Instrumental",
+      "url": "https://open.spotify.com/track/0dwH1sfUCF7U6ZwaU9XoId"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
+        "name": "Historia Musical de la Sonora Cordobesa",
+        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "La Sonora Cordobesa",
+          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
         }
       ],
-      "duration_ms": 339114,
-      "name": "Alicia Adorada",
-      "url": "https://open.spotify.com/track/7CRIeEj0hYofPyXDMZGCxY"
+      "duration_ms": 147091,
+      "name": "Roberto Ruiz",
+      "url": "https://open.spotify.com/track/0k47sNciLjPUyxr5Gq6GgC"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

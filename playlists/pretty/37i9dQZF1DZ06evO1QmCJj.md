@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 ### [This Is Lola Indigo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QmCJj)
 
-> This is Lola Indigo\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Lola Indigo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,908 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,925 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 50 | [Mala Cara](https://open.spotify.com/track/7jzWJgzbodsjOhJ5brR6eu) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 2:48 |
 | 51 | [CALLE](https://open.spotify.com/track/53X5FmHdNxcnZuY8YhOkgJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [CALLE](https://open.spotify.com/album/3tmWYrXOkrEF0MjxCSbZc5) | 3:42 |
 
-Snapshot ID: `ZkFYAAAAAAC+tJ9n94lJCymEkEDT/zb0`
+Snapshot ID: `ZkFYAAAAAADFWPfDPFRBUV8cvkRO6ykJ`

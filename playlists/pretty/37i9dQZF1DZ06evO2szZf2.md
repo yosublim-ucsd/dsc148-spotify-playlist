@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. The essential tracks, all in one playlist.
+> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,464 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,468 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [Vai Sua Cavalona \(feat\. Mc Th & Mc Dricka\)](https://open.spotify.com/track/7wI6xm1OLGJtnvPgCuTR7y) | [Turma do Cangaceiro](https://open.spotify.com/artist/3keWcR7OadJtVV1ICcJLEu), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Vai Sua Cavalona \(Remix Arrochadeira\)](https://open.spotify.com/album/64X409jRijesvSKuLwJTjC) | 2:41 |
 | 50 | [Tropa do BL](https://open.spotify.com/track/6MWdJAwbIv6OmynH3BJqRn) | [Mc Binn](https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE), [Mc 7 Belo](https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7), [DJ GORDINHO DA VF](https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ), [mc pl alves](https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Luana Maia](https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD) | [Tropa do BL](https://open.spotify.com/album/02PGdzDAXYzsOzp9ucTwqv) | 2:44 |
 
-Snapshot ID: `ZkFYAAAAAABX5GQAXYy22nrPo6hwMS/v`
+Snapshot ID: `ZkFYAAAAAACPEbQoPtorI1WwEhRNgnUm`

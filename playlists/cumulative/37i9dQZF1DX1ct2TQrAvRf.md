@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- BADSHAH
 
-156 songs - 8 hr 40 min
+157 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2023-03-27 |  |
 | [BAD GUY \(DG\)](https://open.spotify.com/track/6iPSbGsGwUToj0yjAg0Flz) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 1:51 | 2023-06-08 | 2023-07-18 |
 | [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-08 | 2024-05-11 |
+| [Bail Pe](https://open.spotify.com/track/2zJfPQxcKXcYLx1AEaeGIO) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Loka Yaha Hai](https://open.spotify.com/album/0SOdtFMbmVADfBZZY8cqTc) | 3:40 | 2024-05-15 |  |
 | [Bajenge](https://open.spotify.com/track/4I2txOHJ5QRpJvG0nQpBKL) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:40 | 2024-03-22 | 2024-04-10 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-27 |  |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-27 | 2023-07-18 |
@@ -117,7 +118,7 @@
 | [Naraaz](https://open.spotify.com/track/6zlcxk5LrPg8vQqsif8C5c) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Nidhi Wagle](https://open.spotify.com/artist/3QhhebcxZAmtffJDKFLJ4I) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 4:05 | 2024-03-26 |  |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-04-19 |  |
 | [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 | 2024-02-15 | 2024-02-23 |
-| [Nusta Paisa](https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nusta Paisa](https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO) | 3:40 | 2023-08-30 |  |
+| [Nusta Paisa](https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nusta Paisa](https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO) | 3:40 | 2023-08-30 | 2024-05-16 |
 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 | 2023-06-08 |  |
 | [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2023-06-08 |  |
 | [Pablo](https://open.spotify.com/track/4ggG5qVYvi1tzluIU0MXoo) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 4:39 | 2023-03-27 | 2023-08-18 |

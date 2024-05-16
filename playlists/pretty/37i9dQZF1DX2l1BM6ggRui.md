@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,509 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,507 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 30 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 | 31 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
 | 32 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 |
-| 33 | [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 |
-| 34 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
+| 33 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |
+| 34 | [A Day For Me](https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU) | 2:28 |
 | 35 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 |
 | 36 | [DREAMLIKE](https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [DREAMLIKE](https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ) | 3:35 |
 | 37 | [TALK2ME! \(feat\. pH\-1\)](https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:25 |

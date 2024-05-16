@@ -1,6 +1,6 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 103105,
+  "num_followers": 103150,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Efred",
-        "url": "https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI"
-      },
-      "artists": [
-        {
-          "name": "Hakim",
-          "url": "https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt"
-        }
-      ],
-      "duration_ms": 292702,
-      "name": "Efred",
-      "url": "https://open.spotify.com/track/2G9gFbESJG8K8PmrPrxBDI"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
         "name": "A'lbal",
         "url": "https://open.spotify.com/album/3pDNPqfo5RZHTFU5Rdw2r0"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 353160,
       "name": "A'lbal",
       "url": "https://open.spotify.com/track/6HwrjWRXfzSV4fKiaDOYU5"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "Efred",
+        "url": "https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI"
+      },
+      "artists": [
+        {
+          "name": "Hakim",
+          "url": "https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt"
+        }
+      ],
+      "duration_ms": 292702,
+      "name": "Efred",
+      "url": "https://open.spotify.com/track/2G9gFbESJG8K8PmrPrxBDI"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
+        "name": "Rouhi",
+        "url": "https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "duration_ms": 253786,
+      "name": "Ah Bahibbak",
+      "url": "https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
         "name": "Ya Leila",
         "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 291383,
       "name": "Layali El Shouq",
       "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
-        "name": "The Very Best Of Wadi Al-Safi",
-        "url": "https://open.spotify.com/album/2LEdgefrrQ0KRSUpT6Cnh9"
-      },
-      "artists": [
-        {
-          "name": "Wadih El Safi",
-          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Tallou Hbabna",
-      "url": "https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Rouhi",
-        "url": "https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr"
+        "name": "The Very Best Of Wadi Al-Safi",
+        "url": "https://open.spotify.com/album/2LEdgefrrQ0KRSUpT6Cnh9"
       },
       "artists": [
         {
-          "name": "Samira Said",
-          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+          "name": "Wadih El Safi",
+          "url": "https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z"
         }
       ],
-      "duration_ms": 253786,
-      "name": "Ah Bahibbak",
-      "url": "https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc"
+      "duration_ms": 184946,
+      "name": "Tallou Hbabna",
+      "url": "https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
+        "name": "Oriental Party",
+        "url": "https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Mounir",
+          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Lola El Saher",
+      "url": "https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
         "name": "Ya Leila",
         "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 322600,
       "name": "Maly saber",
       "url": "https://open.spotify.com/track/5zhLUKNhIJaB6am3QWam7y"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
-        "name": "Oriental Party",
-        "url": "https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Mounir",
-          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Lola El Saher",
-      "url": "https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "High Quality Vol 1",
-        "url": "https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN"
-      },
-      "artists": [
-        {
-          "name": "Fares",
-          "url": "https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Yabo Khad",
-      "url": "https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
         "name": "\u0645\u0648\u0627\u0648\u064a\u0644 \u0648\u062f\u0628\u0643\u0629",
         "url": "https://open.spotify.com/album/7q7fTrlnMQzFMwQbka1E0v"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 674763,
       "name": "\u0627\u0644\u062f\u0644\u0639\u0648\u0646\u0627",
       "url": "https://open.spotify.com/track/7ey7KJqVGCsKDvnMNYHMnq"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "High Quality Vol 1",
+        "url": "https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN"
+      },
+      "artists": [
+        {
+          "name": "Fares",
+          "url": "https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Yabo Khad",
+      "url": "https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y"
     }
   ],
   "unique_name": "90s Arabic Hits",

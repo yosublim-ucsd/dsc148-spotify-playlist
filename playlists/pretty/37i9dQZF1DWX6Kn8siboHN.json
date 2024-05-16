@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 705506,
+  "num_followers": 706401,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-04-08 16:32:25",
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Laurita Garza",
-      "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
-    },
-    {
-      "added_at": "2024-04-08 16:32:25",
-      "album": {
         "name": "El Maquinista",
         "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 188800,
       "name": "Ayer La Vi Por La Calle",
       "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
+    },
+    {
+      "added_at": "2024-04-08 16:32:25",
+      "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
     },
     {
       "added_at": "2024-04-08 16:32:25",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-04-08 16:32:25",
       "album": {
-        "name": "En Vivo Desde Monterrey",
-        "url": "https://open.spotify.com/album/3m5srgyz9ySxGVpnMkxldJ"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Que Me Lleve El Diablo - En Vivo",
-      "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
-    },
-    {
-      "added_at": "2024-04-08 16:32:25",
-      "album": {
         "name": "Casas de Madera",
         "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 166906,
       "name": "S\u00f3lo una Patada",
       "url": "https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd"
+    },
+    {
+      "added_at": "2024-04-08 16:32:25",
+      "album": {
+        "name": "En Vivo Desde Monterrey",
+        "url": "https://open.spotify.com/album/3m5srgyz9ySxGVpnMkxldJ"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Que Me Lleve El Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
     },
     {
       "added_at": "2024-04-08 16:32:25",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2024-04-08 16:32:25",
       "album": {
-        "name": "15 \u00c9xitos Pesados De La Cantina",
-        "url": "https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo"
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 203689,
-      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
-      "url": "https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa"
+      "duration_ms": 191040,
+      "name": "Chaparra De Mi Amor",
+      "url": "https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT"
     },
     {
       "added_at": "2024-04-08 16:32:25",
@@ -2171,8 +2171,8 @@
     {
       "added_at": "2024-04-08 16:32:25",
       "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+        "name": "15 \u00c9xitos Pesados De La Cantina",
+        "url": "https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo"
       },
       "artists": [
         {
@@ -2180,9 +2180,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Chaparra De Mi Amor",
-      "url": "https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT"
+      "duration_ms": 203689,
+      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+      "url": "https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa"
     },
     {
       "added_at": "2024-04-08 16:32:25",
@@ -2276,9 +2276,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 147240,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D"
+      "duration_ms": 169826,
+      "name": "Mi Golondrina",
+      "url": "https://open.spotify.com/track/57NsYvdXi2MeYqiOEFID8D"
     },
     {
       "added_at": "2024-04-08 16:32:25",
@@ -2292,9 +2292,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 169826,
-      "name": "Mi Golondrina",
-      "url": "https://open.spotify.com/track/57NsYvdXi2MeYqiOEFID8D"
+      "duration_ms": 147240,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D"
     },
     {
       "added_at": "2024-04-08 16:32:25",

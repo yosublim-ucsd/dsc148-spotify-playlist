@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 376850,
+  "num_followers": 376866,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Mary Poppins y el deshollinador",
-      "url": "https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
         "name": "Los Ladrones Sueltos",
         "url": "https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 222133,
       "name": "No Le Dijo Nada",
       "url": "https://open.spotify.com/track/6zfTUzKLKRXeSzIl7DYPvq"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Mary Poppins y el deshollinador",
+      "url": "https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Los Ladrones Sueltos",
-        "url": "https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u"
-      },
-      "artists": [
-        {
-          "name": "Los Ladrones Sueltos",
-          "url": "https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF"
-        }
-      ],
-      "duration_ms": 252080,
-      "name": "La Rubia del Avi\u00f3n",
-      "url": "https://open.spotify.com/track/3rgd481ClPZIR6XEDTl2VU"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
         "name": "Acariciando Lo Aspero",
         "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
@@ -748,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 354746,
-      "name": "Ala Delta",
-      "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
+      "duration_ms": 149533,
+      "name": "El 38",
+      "url": "https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
+        "name": "Los Ladrones Sueltos",
+        "url": "https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u"
+      },
+      "artists": [
+        {
+          "name": "Los Ladrones Sueltos",
+          "url": "https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF"
+        }
+      ],
+      "duration_ms": 252080,
+      "name": "La Rubia del Avi\u00f3n",
+      "url": "https://open.spotify.com/track/3rgd481ClPZIR6XEDTl2VU"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
         "name": "La Vida Vale La Pena",
         "url": "https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Acariciando Lo Aspero",
-        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "El 38",
-      "url": "https://open.spotify.com/track/2TKA7AOxNJk89Qp5iwzxzr"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
         "name": "Big Yuyo",
         "url": "https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi"
       },
@@ -847,38 +831,6 @@
       "duration_ms": 210960,
       "name": "Me Late",
       "url": "https://open.spotify.com/track/3CizlnqcWoZp9Sthem7jPM"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Diez a\u00f1os despu\u00e9s",
-      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -899,6 +851,54 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "Acariciando Lo Aspero",
+        "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 354746,
+      "name": "Ala Delta",
+      "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Diez a\u00f1os despu\u00e9s",
+      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
         "name": "\u00c1ngeles Ca\u00eddos",
         "url": "https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 174800,
       "name": "Porque Te Vas...",
       "url": "https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Gol De Mujer",
-        "url": "https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Nene de Antes",
-      "url": "https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -951,6 +935,26 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
+        "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
+        "url": "https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        },
+        {
+          "name": "Andy Summers",
+          "url": "https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
+      "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
         "name": "Mensajes Del Alma",
         "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
       },
@@ -963,6 +967,22 @@
       "duration_ms": 362240,
       "name": "Los Salieris De Charly",
       "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
+        "name": "Gol De Mujer",
+        "url": "https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Nene de Antes",
+      "url": "https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -1047,22 +1067,18 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
-        "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
-        "url": "https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH"
+        "name": "Donde estabas tu... en el 93?",
+        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        },
-        {
-          "name": "Andy Summers",
-          "url": "https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 283466,
-      "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
-      "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
+      "duration_ms": 285093,
+      "name": "Sin documentos",
+      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -1079,22 +1095,6 @@
       "duration_ms": 398800,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Donde estabas tu... en el 93?",
-        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Sin documentos",
-      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
     },
     {
       "added_at": "2024-03-25 13:51:57",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-03-25 13:51:57",
       "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
+    },
+    {
+      "added_at": "2024-03-25 13:51:57",
+      "album": {
         "name": "Diego Torres",
         "url": "https://open.spotify.com/album/1iORUN5udfrSa98iKDzgqR"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 276666,
       "name": "Aqu\u00ed no podemos hacerlo",
       "url": "https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC"
-    },
-    {
-      "added_at": "2024-03-25 13:51:57",
-      "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 259506,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF"
     },
     {
       "added_at": "2024-03-25 13:51:57",

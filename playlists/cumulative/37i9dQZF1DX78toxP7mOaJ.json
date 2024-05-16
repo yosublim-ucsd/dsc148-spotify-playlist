@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock from independent artists every Wednesday. Cover: Action/Adventure",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: Wishy",
   "name": "Fresh Finds Rock ",
   "tracks": [
     {
@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 272190,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/3LPdRRMTSeZ0FdjmpOnfKB"
@@ -1180,6 +1180,24 @@
       "duration_ms": 170247,
       "name": "ANGEL",
       "url": "https://open.spotify.com/track/7laB3xhmEG6QbWyy6QZJPC"
+    },
+    {
+      "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/3sY4fpHYZecvIo3hfuS6GS"
+      },
+      "artists": [
+        {
+          "name": "Hollis Howard",
+          "url": "https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150173,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/5YTztYEB44rImOMnukFNqI"
     },
     {
       "album": {
@@ -10492,7 +10510,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 224786,
       "name": "Here Comes the Order of Malta",
       "url": "https://open.spotify.com/track/5mZJ3iwSXuLtWNMyDzfvDL"
@@ -10712,7 +10730,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 128146,
       "name": "High School Boyfriend",
       "url": "https://open.spotify.com/track/0QpkSDt5K2P0clLIrUb09Q"
@@ -12414,7 +12432,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 139234,
       "name": "In The Wawa (Convinced I Am God)",
       "url": "https://open.spotify.com/track/0yNH8lmgClOtNtRrjDkYOM"
@@ -14180,6 +14198,24 @@
       "duration_ms": 229815,
       "name": "Love Me the Same",
       "url": "https://open.spotify.com/track/1ewhR1tVZWR2uLPIVQHJOC"
+    },
+    {
+      "album": {
+        "name": "Love On The Outside",
+        "url": "https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238773,
+      "name": "Love On The Outside",
+      "url": "https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh"
     },
     {
       "album": {
@@ -16032,6 +16068,24 @@
       "duration_ms": 185424,
       "name": "Nights",
       "url": "https://open.spotify.com/track/1dPdbmrmqnZxSu4kU1ZBXj"
+    },
+    {
+      "album": {
+        "name": "Nineteen",
+        "url": "https://open.spotify.com/album/4ES63njGp43adDMGUluERR"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113480,
+      "name": "Nineteen",
+      "url": "https://open.spotify.com/track/7kHjARp3Q3XDIeC8XGSrPx"
     },
     {
       "album": {
@@ -17898,7 +17952,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 169400,
       "name": "Precious Cargo",
       "url": "https://open.spotify.com/track/3WwpXIUD8U6LIQOW6heHfu"
@@ -18954,6 +19008,24 @@
       "duration_ms": 178972,
       "name": "Ronnie",
       "url": "https://open.spotify.com/track/1kjzryHxVcE8vnCUwLW8yL"
+    },
+    {
+      "album": {
+        "name": "for the rest of your life",
+        "url": "https://open.spotify.com/album/4Mz0lJQWpCqFQsGMdgh1cI"
+      },
+      "artists": [
+        {
+          "name": "twikipedia",
+          "url": "https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192134,
+      "name": "room for one",
+      "url": "https://open.spotify.com/track/54bMNcZUsk5AdKHxTGrZL2"
     },
     {
       "album": {

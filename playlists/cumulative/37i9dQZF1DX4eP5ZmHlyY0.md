@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: JO1
 
-220 songs - 12 hr 53 min
+221 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Peppermint Yum](https://open.spotify.com/track/0KQ72rfmW02tMsipMs7xrU) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS), [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Peppermint Yum](https://open.spotify.com/album/16R9nHpSohQdu9oSbCUMxn) | 3:00 | 2023-12-21 | 2024-02-14 |
 | [PHOTOGENIC](https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [PHOTOGENIC](https://open.spotify.com/album/2K0VX8by8hTI9YEJZvsJpZ) | 3:42 | 2023-11-28 | 2024-02-01 |
 | [PHOTOGENIC](https://open.spotify.com/track/7mvliituEQSOeGnbE3BPla) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [PHOTOGENIC](https://open.spotify.com/album/2wZeycukWcubBPrRLKsO3G) | 3:43 | 2024-01-31 | 2024-02-14 |
+| [Pink Flash Lights](https://open.spotify.com/track/2cIDJumjrAhqOW7pTM2MvK) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Pink Flash Lights](https://open.spotify.com/album/0c2jiUm4CEpbCMpwZHbGVn) | 2:31 | 2024-05-14 |  |
 | [Poppin’](https://open.spotify.com/track/0Li0jmcIZI1KDZ00Hfn1Xp) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [Poppin’](https://open.spotify.com/album/0HO1vTjbfohJXItDbPi8NY) | 3:11 | 2024-03-19 | 2024-04-03 |
 | [present](https://open.spotify.com/track/6iz1Hlc9Evt7xayq3LyRCP) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [present](https://open.spotify.com/album/68Tt5pQ5JRSMRA9SYczoIs) | 4:27 | 2024-02-13 | 2024-03-06 |
 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 | 2023-11-28 | 2024-04-10 |
@@ -190,7 +191,7 @@
 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 | 2024-04-02 |  |
 | [WHITE SNOW](https://open.spotify.com/track/7fUSOeRqyDSapxbZHxYBCG) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [WHITE SNOW](https://open.spotify.com/album/3gApldsoKO741jMMS5B0WY) | 4:05 | 2023-11-23 | 2023-11-29 |
 | [WILD & FREE](https://open.spotify.com/track/3XPW6A3czlqpuJmfMYXeQk) | [EXILE TAKAHIRO](https://open.spotify.com/artist/4cW96mgPlmNlWAQyHJNzS4) | [WILD & FREE](https://open.spotify.com/album/2p7HCvtoxHxQePDIDaDP5C) | 3:31 | 2024-04-09 | 2024-04-24 |
-| [Wild Boy](https://open.spotify.com/track/34HpTZsNQmU3EuI465OYJH) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [Wild Boy](https://open.spotify.com/album/2x7v3ik8VqlgHkF76LmUQo) | 3:16 | 2024-04-16 |  |
+| [Wild Boy](https://open.spotify.com/track/34HpTZsNQmU3EuI465OYJH) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [Wild Boy](https://open.spotify.com/album/2x7v3ik8VqlgHkF76LmUQo) | 3:16 | 2024-04-16 | 2024-05-16 |
 | [Winter Land](https://open.spotify.com/track/2gYrufmaPpk9M3kR1uctuK) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Winter Land](https://open.spotify.com/album/7CupjRrWsAHmvvz4Fowsm6) | 3:20 | 2024-01-16 | 2024-02-01 |
 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 | 2023-11-23 | 2024-01-03 |
 | [WISH \- Japanese Ver.](https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 | 2024-02-27 | 2024-05-01 |

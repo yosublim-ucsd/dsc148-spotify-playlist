@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! James Hype
 
-822 songs - 1 day 23 hr 43 min
+823 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,6 +786,7 @@
 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 | 2023-02-14 | 2023-04-07 |
 | [Wait For Me](https://open.spotify.com/track/1bHQCaCHzfqOLFQtIuNdXK) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0) | [Wait For Me](https://open.spotify.com/album/2oEwrQXxQxrJTsmXRx00d0) | 3:15 | 2024-04-26 |  |
 | [Waiting](https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Waiting](https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ) | 2:53 | 2023-11-10 | 2024-04-05 |
+| [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-05-15 |  |
 | [Walk Of Shame](https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Walk Of Shame](https://open.spotify.com/album/4MvEp6RWL0RdVXIgbmqiSi) | 2:28 | 2022-05-19 | 2022-09-02 |
 | [Want Me](https://open.spotify.com/track/0fX6fM5aYI1osi9w0fwYbK) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Want Me](https://open.spotify.com/album/0auBY899MxzxIA3HwZgIwP) | 2:23 | 2022-06-23 | 2022-10-08 |
 | [Want To Love](https://open.spotify.com/track/4eadst9pPSuPYa6ZC79DBj) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Want To Love](https://open.spotify.com/album/74yfold8G3wvVYm1pyxS0T) | 3:25 | 2021-12-17 | 2022-04-15 |

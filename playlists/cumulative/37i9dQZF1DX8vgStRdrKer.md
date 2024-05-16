@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE?si=1KmYBCHhQCO7FRXiflcZNw>REFUGE WRSHP</a>
 
-163 songs - 13 hr 32 min
+164 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-02-09 |
 | [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 | 2023-12-01 | 2024-03-16 |
 | [Darling Jesus \- Special Version](https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus \(Special Version\)](https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa) | 3:26 | 2024-02-09 |  |
-| [DAY OF THE LORD](https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC) | [REFUGE WRSHP](https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE) | [DAY OF THE LORD](https://open.spotify.com/album/28sHaz4Rcsy7grBT9OkARL) | 7:07 | 2024-04-26 |  |
+| [DAY OF THE LORD](https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC) | [REFUGE WRSHP](https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE) | [DAY OF THE LORD](https://open.spotify.com/album/28sHaz4Rcsy7grBT9OkARL) | 7:07 | 2024-04-26 | 2024-05-16 |
 | [Deliverance](https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Deliverance](https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw) | 3:44 | 2024-03-01 | 2024-05-04 |
 | [Diamant](https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo) | [Isaac M](https://open.spotify.com/artist/3vyQ5qr9ke8gRA2VqQtg26) | [Diamant](https://open.spotify.com/album/5MjLBaWtjwapJ17WVNnWUX) | 2:58 | 2024-03-22 |  |
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-16 |  |
@@ -148,6 +148,7 @@
 | [There For Me](https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [There For Me](https://open.spotify.com/album/7vflAVp0fAV47yRr4Abu2t) | 5:00 | 2024-05-10 |  |
 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-09-15 | 2024-03-16 |
+| [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 |  |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-09-15 | 2024-03-16 |
 | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM) | 3:46 | 2023-12-08 | 2024-04-12 |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 6:15 | 2023-11-24 | 2023-11-30 |

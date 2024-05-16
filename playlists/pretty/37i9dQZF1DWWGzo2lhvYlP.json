@@ -1,6 +1,6 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 542235,
+  "num_followers": 542308,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
@@ -215,38 +215,6 @@
     {
       "added_at": "2024-05-12 14:23:25",
       "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
-    },
-    {
-      "added_at": "2024-05-12 14:23:25",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-05-12 14:23:25",
-      "album": {
         "name": "Dial Drunk (with Post Malone)",
         "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
       },
@@ -267,6 +235,38 @@
     {
       "added_at": "2024-05-12 14:23:25",
       "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2024-05-12 14:23:25",
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "added_at": "2024-05-12 14:23:25",
+      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
-    },
-    {
-      "added_at": "2024-05-12 14:23:25",
-      "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "added_at": "2024-05-12 14:23:25",
@@ -315,6 +299,22 @@
       "duration_ms": 231173,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
+    },
+    {
+      "added_at": "2024-05-12 14:23:25",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "added_at": "2024-05-12 14:23:25",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2024-05-12 14:23:25",
       "album": {
+        "name": "Lost Without You (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 203609,
+      "name": "Lost Without You (with Dean Lewis)",
+      "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
+    },
+    {
+      "added_at": "2024-05-12 14:23:25",
+      "album": {
         "name": "Big Energy (feat. DJ Khaled) [Remix]",
         "url": "https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 181665,
       "name": "Big Energy (feat. DJ Khaled) - Remix",
       "url": "https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G"
-    },
-    {
-      "added_at": "2024-05-12 14:23:25",
-      "album": {
-        "name": "Lost Without You (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 203609,
-      "name": "Lost Without You (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7"
     },
     {
       "added_at": "2024-05-12 14:23:25",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-05-12 14:23:25",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC"
-    },
-    {
-      "added_at": "2024-05-12 14:23:25",
-      "album": {
         "name": "Sit Still, Look Pretty",
         "url": "https://open.spotify.com/album/0T8SCja56F4lhZXyOcBTIV"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 202221,
       "name": "Sit Still, Look Pretty",
       "url": "https://open.spotify.com/track/0EGuSSpuu9wmHCtvb4PdLO"
+    },
+    {
+      "added_at": "2024-05-12 14:23:25",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC"
     },
     {
       "added_at": "2024-05-12 14:23:25",

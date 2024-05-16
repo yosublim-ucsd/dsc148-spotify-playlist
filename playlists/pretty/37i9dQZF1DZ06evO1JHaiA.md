@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 ### [This Is The Intruders](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JHaiA)
 
-> This is The Intruders\. Todos os maiores hits em uma só playlist.
+> This is The Intruders\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,717 likes - 50 songs - 2 hr 49 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 49 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
 | 50 | [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 |
 
-Snapshot ID: `ZkFYAAAAAADnQy61mRUClHZo81ajOGTj`
+Snapshot ID: `ZkKpgAAAAABcYvA86vHnqtAsZ8/IXtZk`

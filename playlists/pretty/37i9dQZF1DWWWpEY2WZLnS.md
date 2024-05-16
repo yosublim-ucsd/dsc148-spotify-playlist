@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: Jey One
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,134 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,907 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 2 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 |
 | 3 | [EN BLUSA](https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [EN BLUSA](https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9) | 2:38 |
 | 4 | [Eso E](https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Eso E](https://open.spotify.com/album/57dLimWMxsMkIagUobbfpe) | 2:19 |
-| 5 | [Sobalo](https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Negrette Game Over](https://open.spotify.com/artist/6eBu9oUo9fYzCYfSz1ow43) | [Sobalo](https://open.spotify.com/album/0sYHt3V97mmiP8ad0DqEmm) | 1:56 |
+| 5 | [Sobalo](https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Negrette Game Over](https://open.spotify.com/artist/6eBu9oUo9fYzCYfSz1ow43), [Bryant LR](https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL) | [Sobalo](https://open.spotify.com/album/0sYHt3V97mmiP8ad0DqEmm) | 1:56 |
 | 6 | [Prepotente](https://open.spotify.com/track/3a5oq7iRY1kLKTwojU7Qfa) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Prepotente](https://open.spotify.com/album/641RNNuxJx1wbSDgPn6pcP) | 2:05 |
 | 7 | [Fulete](https://open.spotify.com/track/4L6EwdEcRJxqjWOhgtyopO) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Fulete](https://open.spotify.com/album/17AXAN9SJJEA0zsF2GPU1S) | 2:27 |
 | 8 | [Tetere](https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Tetere](https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m) | 1:57 |

@@ -1,6 +1,6 @@
 {
   "description": "a high-quality alternative blend ft. Marcus King",
-  "num_followers": 104354,
+  "num_followers": 104356,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Burning Down the House",
-        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 195086,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Wild God",
-        "url": "https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 319106,
-      "name": "Wild God",
-      "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Find Your People",
         "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Wild God",
+        "url": "https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 319106,
+      "name": "Wild God",
+      "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "$10 Cowboy",
-        "url": "https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 215744,
-      "name": "$10 Cowboy",
-      "url": "https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Good Together",
         "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 201045,
       "name": "Good Together",
       "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 215744,
+      "name": "$10 Cowboy",
+      "url": "https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Right Back to It",
-        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+        "name": "CAVES",
+        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 273026,
-      "name": "Right Back to It",
-      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
+      "duration_ms": 236586,
+      "name": "How Wonderful We Are",
+      "url": "https://open.spotify.com/track/1A2mbkIm1zzPq1kvIQC3J7"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1311,22 +1307,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "CAVES",
-        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "How Wonderful We Are",
-      "url": "https://open.spotify.com/track/1A2mbkIm1zzPq1kvIQC3J7"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Fox Hunt",
         "url": "https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 196533,
       "name": "Fox Hunt",
       "url": "https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Water Underground",
-        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Water Underground",
-      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/3xGVAgbCAxl2c40vRVRjoe"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 232133,
       "name": "Alive!",
       "url": "https://open.spotify.com/track/4Yf2S4ArywzowFQZmesSI9"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Water Underground",
+        "url": "https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Water Underground",
+      "url": "https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/1Vjsf4qWhQhRH3VBPEQs0d"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 293290,
-      "name": "Revelator",
-      "url": "https://open.spotify.com/track/4akOHAXlPBcIjImF1N7KDi"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Cowboy Tumbleweed",
         "url": "https://open.spotify.com/album/3lJcMnimBy6eAJgdL4V55R"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 232936,
       "name": "Cowboy Tumbleweed",
       "url": "https://open.spotify.com/track/5tnguwr2vzXKmoFoJqxCwd"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/1Vjsf4qWhQhRH3VBPEQs0d"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 293290,
+      "name": "Revelator",
+      "url": "https://open.spotify.com/track/4akOHAXlPBcIjImF1N7KDi"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1735,6 +1735,22 @@
       "duration_ms": 206533,
       "name": "Fly",
       "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Impressively Average",
+        "url": "https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "duration_ms": 200536,
+      "name": "Eddie My Love",
+      "url": "https://open.spotify.com/track/1e30gnAROOzY0jvOlQT8bL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 227493,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Impressively Average",
-        "url": "https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Calls Me Baby",
-          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
-        }
-      ],
-      "duration_ms": 200536,
-      "name": "Eddie My Love",
-      "url": "https://open.spotify.com/track/1e30gnAROOzY0jvOlQT8bL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Pull the Rope",
-        "url": "https://open.spotify.com/album/3Xc6YhaNwQ8CxdSGrpw80l"
-      },
-      "artists": [
-        {
-          "name": "Ibibio Sound Machine",
-          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Pull the Rope",
-      "url": "https://open.spotify.com/track/7CfIoH458ApkgA24pHNsED"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Roll The Credits",
         "url": "https://open.spotify.com/album/0fpFEstlRYE58T2sIuubdg"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 253411,
       "name": "Roll The Credits",
       "url": "https://open.spotify.com/track/6St9uiBUG4L7LvVNuUcm8a"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Pull the Rope",
+        "url": "https://open.spotify.com/album/3Xc6YhaNwQ8CxdSGrpw80l"
+      },
+      "artists": [
+        {
+          "name": "Ibibio Sound Machine",
+          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Pull the Rope",
+      "url": "https://open.spotify.com/track/7CfIoH458ApkgA24pHNsED"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Water / Connecticut",
-        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
-      },
-      "artists": [
-        {
-          "name": "Lo Moon",
-          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Say It Like You Mean It",
         "url": "https://open.spotify.com/album/60Dn3hJOYD75S9SahrlWp9"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 224444,
       "name": "Say It Like You Mean It",
       "url": "https://open.spotify.com/track/3XcEhWqxe04Qgpnsp4qUbc"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Water / Connecticut",
+        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
+      },
+      "artists": [
+        {
+          "name": "Lo Moon",
+          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/52sZ3HakMMdOXPt8A2ZLM8"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7mfTeRK4k18u5IZ9Th4CrH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Night In",
         "url": "https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 207506,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/52sZ3HakMMdOXPt8A2ZLM8"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7mfTeRK4k18u5IZ9Th4CrH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Alibi",
-        "url": "https://open.spotify.com/album/78PATBFddEnFXyVUDFjnXN"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Weird Environment",
         "url": "https://open.spotify.com/album/28Kc1QH4wNwqnyjzCjVRYl"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 235186,
       "name": "Weird Environment",
       "url": "https://open.spotify.com/track/5VoyKmmCf5Xf58I3G2gv3g"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/78PATBFddEnFXyVUDFjnXN"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/4OmmXsHm3IutzsXt5xGVvB"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 222105,
-      "name": "World Worth Keeping",
-      "url": "https://open.spotify.com/track/2474DFdr07f5MKV2XFH4wO"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Horror Of It All",
         "url": "https://open.spotify.com/album/0CUWmcblzFc8IgQp4eEE1D"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 198423,
       "name": "Horror Of It All",
       "url": "https://open.spotify.com/track/6H89kni3EnrCnkD5EnxWxp"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/4OmmXsHm3IutzsXt5xGVvB"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 222105,
+      "name": "World Worth Keeping",
+      "url": "https://open.spotify.com/track/2474DFdr07f5MKV2XFH4wO"
     },
     {
       "added_at": "2024-04-05 04:00:00",

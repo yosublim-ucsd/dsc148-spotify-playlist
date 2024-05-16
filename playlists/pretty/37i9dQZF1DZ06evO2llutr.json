@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 400585,
+  "num_followers": 401197,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAD2o1Kq1fFDRn3+r3dxOyuR",
+  "snapshot_id": "ZkKpgAAAAABNnACMHf926PPZ612tS+gS",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": null,
@@ -183,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawns (feat. Maggie Rogers)",
-        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 290892,
-      "name": "Dawns (feat. Maggie Rogers)",
-      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -215,22 +211,6 @@
       "duration_ms": 161799,
       "name": "Motorcycle Drive By",
       "url": "https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Tourniquet",
-      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
     },
     {
       "added_at": null,
@@ -251,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sarah's Place (feat. Noah Kahan)",
         "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
@@ -267,6 +263,22 @@
       "duration_ms": 214056,
       "name": "Sarah's Place (feat. Noah Kahan)",
       "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 211315,
+      "name": "The Good I'll Do",
+      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
     },
     {
       "added_at": null,
@@ -307,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 190780,
-      "name": "Heavy Eyes",
-      "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -335,6 +331,22 @@
       "duration_ms": 220885,
       "name": "Quittin' Time",
       "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 190780,
+      "name": "Heavy Eyes",
+      "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
     },
     {
       "added_at": null,
@@ -371,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 234771,
-      "name": "Open the Gate",
-      "url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys Of Faith",
         "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
       },
@@ -399,6 +395,22 @@
       "duration_ms": 211194,
       "name": "Deep Satin",
       "url": "https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 234771,
+      "name": "Open the Gate",
+      "url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF"
     },
     {
       "added_at": null,
@@ -428,25 +440,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 197226,
-      "name": "Crooked Teeth",
-      "url": "https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 188882,
-      "name": "Tishomingo",
-      "url": "https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM"
+      "duration_ms": 243709,
+      "name": "November Air",
+      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
     },
     {
       "added_at": null,
@@ -463,6 +459,22 @@
       "duration_ms": 199500,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 188882,
+      "name": "Tishomingo",
+      "url": "https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM"
     },
     {
       "added_at": null,
@@ -492,25 +504,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 243709,
-      "name": "November Air",
-      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 181239,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj"
+      "duration_ms": 197226,
+      "name": "Crooked Teeth",
+      "url": "https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN"
     },
     {
       "added_at": null,
@@ -531,6 +527,22 @@
       "duration_ms": 220057,
       "name": "Jamie (feat. Charles Wesley Godwin)",
       "url": "https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 181239,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj"
     },
     {
       "added_at": null,
@@ -567,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 220035,
-      "name": "Highway Boys",
-      "url": "https://open.spotify.com/track/1kga1HtTWs6Jv6kTKieN6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -595,6 +591,22 @@
       "duration_ms": 166341,
       "name": "Us Then",
       "url": "https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 167997,
+      "name": "Washington Lilacs",
+      "url": "https://open.spotify.com/track/1w17Cv2Q2cbyoN8HZrX4Da"
     },
     {
       "added_at": null,
@@ -624,25 +636,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 209089,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elisabeth",
-        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 167997,
-      "name": "Washington Lilacs",
-      "url": "https://open.spotify.com/track/1w17Cv2Q2cbyoN8HZrX4Da"
+      "duration_ms": 206416,
+      "name": "Birmingham",
+      "url": "https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG"
     },
     {
       "added_at": null,
@@ -663,54 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Of Faith",
-        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 195739,
-      "name": "Pain, Sweet, Pain",
-      "url": "https://open.spotify.com/track/4KaCwku7yZUrDRcOc9rMmQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 206416,
-      "name": "Birmingham",
-      "url": "https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elisabeth",
-        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 207103,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/4cA2NmoE75r4yU7oeq4QGG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elisabeth",
         "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
       },
@@ -723,6 +671,38 @@
       "duration_ms": 184500,
       "name": "From a Lover's Point of View",
       "url": "https://open.spotify.com/track/6N7FFwu2DQer3wB7rEmm6u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 203359,
+      "name": "Don't Give up on Me",
+      "url": "https://open.spotify.com/track/1lGtn2Y4XarLIKdgoAeUdU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 195739,
+      "name": "Pain, Sweet, Pain",
+      "url": "https://open.spotify.com/track/4KaCwku7yZUrDRcOc9rMmQ"
     }
   ],
   "unique_name": "This Is Zach Bryan",

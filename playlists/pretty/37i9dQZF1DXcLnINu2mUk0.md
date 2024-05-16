@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bia Caboz, Piruka
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,520 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,535 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 61 | [Mundo Novo](https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq), [Karyna Gomes](https://open.spotify.com/artist/67hvQPQ8FN8EGyItUlaxwa) | [Mundo Novo](https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM) | 3:11 |
 | 62 | [D4](https://open.spotify.com/track/3Z6Z4fJPCPxvrbZOcAuMon) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [DB.](https://open.spotify.com/artist/5Ke8uAE9KF3TgiEFao8MD2) | [D4](https://open.spotify.com/album/5vRWejBOKJFiYyKJSMltOQ) | 2:54 |
 | 63 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 64 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
-| 65 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos, Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 |
+| 64 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos, Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 |
+| 65 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
 | 66 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 |
 | 67 | [PESSOAS MUDAM](https://open.spotify.com/track/41QyQzP9N0Ue1xggj9kh5X) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Raptorxy](https://open.spotify.com/artist/4pVtBTmZCA85SaQ0sM3J6z), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [PESSOAS MUDAM](https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3) | 2:27 |
 | 68 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
-| 69 | [Química](https://open.spotify.com/track/6HhCHim3sSAWiamanjMkv6) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Química](https://open.spotify.com/album/5SArc0nP1ExSLHburSbLab) | 2:32 |
-| 70 | [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 |
+| 69 | [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 |
+| 70 | [Química](https://open.spotify.com/track/6HhCHim3sSAWiamanjMkv6) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Química](https://open.spotify.com/album/5SArc0nP1ExSLHburSbLab) | 2:32 |
 | 71 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
 | 72 | [Volkswagen Antigo](https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu) | [t\. Policarpo](https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K) | [Volkswagen Antigo](https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu) | 2:37 |
 | 73 | [Filme](https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Filme](https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV) | 3:18 |
 | 74 | [CINTIA](https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV) | [Cozzy 2x](https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM) | [CINTIA](https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl) | 2:49 |
-| 75 | [NIAGARA](https://open.spotify.com/track/0FF1VE2GNCkHQWVu4Yh98M) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [NIAGARA](https://open.spotify.com/album/5DcpE1LAHLT7G9g1Fm1BG3) | 2:33 |
+| 75 | [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 |
 
 Snapshot ID: `Zj1VcAAAAAABoqkJRz3O1ZwCLECoCOqU`

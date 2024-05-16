@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,374 likes - 272 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,416 likes - 272 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 17 | [Inmaterial color](https://open.spotify.com/track/5GZC3EzAtuVtmELebaB5DC) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Inmaterial color](https://open.spotify.com/album/5DbXD2SAeJO9CvLQon50dU) | 2:45 |
 | 18 | [Before You Go](https://open.spotify.com/track/10DoO2uACXfXrRvlqSTHTW) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Before You Go](https://open.spotify.com/album/721aCDC1xBZMqHhNR8Ore6) | 2:31 |
 | 19 | [Sophisticated](https://open.spotify.com/track/2PgpHY9g9k6ER1qEbwwFSJ) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Sophisticated](https://open.spotify.com/album/2ybmczckxP8uMWeZVaC9rK) | 2:05 |
-| 20 | [An Evening](https://open.spotify.com/track/1XC63Vb7wvBRuIYcEuOEVm) | [Daan Duijf](https://open.spotify.com/artist/4vgc7LR6lNRJBCO1FGWeSc) | [An Evening](https://open.spotify.com/album/7DtgwEUhcxPrSNZ1Pi0Ydh) | 2:35 |
+| 20 | [An Evening \- Single Edit](https://open.spotify.com/track/1XC63Vb7wvBRuIYcEuOEVm) | [Daan Duijf](https://open.spotify.com/artist/4vgc7LR6lNRJBCO1FGWeSc) | [An Evening](https://open.spotify.com/album/7DtgwEUhcxPrSNZ1Pi0Ydh) | 2:35 |
 | 21 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 |
 | 22 | [Echoes Of Forgotten Times](https://open.spotify.com/track/7HlfgPAVPHtUAH2joYyyAC) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Echoes Of Forgotten Times](https://open.spotify.com/album/2gerydg3DbPYBjAsAnvgpS) | 2:42 |
 | 23 | [Forest](https://open.spotify.com/track/28ixxHTMFXQlDuCZlGs3Lq) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Forest](https://open.spotify.com/album/5F3612MubLyz0LfQ5kwyUs) | 2:20 |

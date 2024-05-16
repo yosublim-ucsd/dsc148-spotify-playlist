@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 180840,
+  "num_followers": 180897,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -291,18 +291,34 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0"
+        "name": "Grandes Ligas",
+        "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
       "artists": [
         {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
         }
       ],
-      "duration_ms": 250293,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
+      "duration_ms": 240000,
+      "name": "Grandes Ligas",
+      "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -355,34 +371,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Grandes Ligas",
-        "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/7EIqLMVIGdxmuXIscBAyn0"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "B-Real",
-          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Grandes Ligas",
-      "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
+      "duration_ms": 250293,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Apocalypshit",
-        "url": "https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "Rastaman- Dita",
-      "url": "https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Mi T\u00edo Snoop",
         "url": "https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 203946,
       "name": "Mi T\u00edo Snoop",
       "url": "https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Apocalypshit",
+        "url": "https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "Rastaman- Dita",
+      "url": "https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -639,18 +639,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "A Lo Cubano",
-        "url": "https://open.spotify.com/album/3zXdL8n7OMWKY156NgUZ4m"
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
       },
       "artists": [
         {
-          "name": "Orishas",
-          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
         }
       ],
-      "duration_ms": 226800,
-      "name": "Represent",
-      "url": "https://open.spotify.com/track/1ZYq2RVDEht5fuLUomK03I"
+      "duration_ms": 216024,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -671,22 +675,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Love & Money",
-        "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
+        "name": "A Lo Cubano",
+        "url": "https://open.spotify.com/album/3zXdL8n7OMWKY156NgUZ4m"
       },
       "artists": [
         {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+          "name": "Orishas",
+          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
         }
       ],
-      "duration_ms": 216024,
-      "name": "Love & Money",
-      "url": "https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ"
+      "duration_ms": 226800,
+      "name": "Represent",
+      "url": "https://open.spotify.com/track/1ZYq2RVDEht5fuLUomK03I"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "A Lo Cubano",
-        "url": "https://open.spotify.com/album/3zXdL8n7OMWKY156NgUZ4m"
-      },
-      "artists": [
-        {
-          "name": "Orishas",
-          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "A Lo Cubano",
-      "url": "https://open.spotify.com/track/0BVYZVB6ITPs5jojmJaNQT"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Rolemos Otro",
         "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 204214,
       "name": "Natural",
       "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "A Lo Cubano",
+        "url": "https://open.spotify.com/album/3zXdL8n7OMWKY156NgUZ4m"
+      },
+      "artists": [
+        {
+          "name": "Orishas",
+          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "A Lo Cubano",
+      "url": "https://open.spotify.com/track/0BVYZVB6ITPs5jojmJaNQT"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Chaco (Serie Rock Nacional 2004)",
-        "url": "https://open.spotify.com/album/0GkGiViGgeUGQ1rweG2rsH"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 258440,
-      "name": "Abarajame",
-      "url": "https://open.spotify.com/track/3uLlpzZGQCMfhM0kmuI4qn"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Vivir para Contarlo / Haciendo Lo Nuestro",
-        "url": "https://open.spotify.com/album/3MMyvg2MoM23KIuGCjo28u"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 346913,
-      "name": "Vivir para Contarlo",
-      "url": "https://open.spotify.com/track/6RWB3HBIIggX3eo5BrDZeC"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Humo en la Trampa 2",
         "url": "https://open.spotify.com/album/48081X2ns6kHKFS84IowXl"
       },
@@ -1259,6 +1227,38 @@
       "duration_ms": 250052,
       "name": "Humo en la Trampa 2",
       "url": "https://open.spotify.com/track/065JTu6FDKNlE9g5sUt1sh"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Vivir para Contarlo / Haciendo Lo Nuestro",
+        "url": "https://open.spotify.com/album/3MMyvg2MoM23KIuGCjo28u"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 346913,
+      "name": "Vivir para Contarlo",
+      "url": "https://open.spotify.com/track/6RWB3HBIIggX3eo5BrDZeC"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Chaco (Serie Rock Nacional 2004)",
+        "url": "https://open.spotify.com/album/0GkGiViGgeUGQ1rweG2rsH"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 258440,
+      "name": "Abarajame",
+      "url": "https://open.spotify.com/track/3uLlpzZGQCMfhM0kmuI4qn"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
+        "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
+      },
+      "artists": [
+        {
+          "name": "Rafael Lechowski",
+          "url": "https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3"
+        }
+      ],
+      "duration_ms": 438706,
+      "name": "Por Amor al Odio (Versi\u00f3n Jazz)",
+      "url": "https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
-        "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
-      },
-      "artists": [
-        {
-          "name": "Rafael Lechowski",
-          "url": "https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3"
-        }
-      ],
-      "duration_ms": 438706,
-      "name": "Por Amor al Odio (Versi\u00f3n Jazz)",
-      "url": "https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "R\u00e9plica",
+        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 305454,
+      "name": "R\u00e9plica",
+      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
         "url": "https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL"
       },
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "R\u00e9plica",
-        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
+        "name": "2005",
+        "url": "https://open.spotify.com/album/1Nux8B69WySS5XMMprdgL3"
       },
       "artists": [
         {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
         }
       ],
-      "duration_ms": 305454,
-      "name": "R\u00e9plica",
-      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
+      "duration_ms": 289200,
+      "name": "El Ni\u00f1o G\u00fcei",
+      "url": "https://open.spotify.com/track/4HSUcBiPq6e9fsYv5q1yvg"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "2005",
-        "url": "https://open.spotify.com/album/1Nux8B69WySS5XMMprdgL3"
-      },
-      "artists": [
-        {
-          "name": "SFDK",
-          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "El Ni\u00f1o G\u00fcei",
-      "url": "https://open.spotify.com/track/4HSUcBiPq6e9fsYv5q1yvg"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Mi Vicio",
         "url": "https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL"
       },
@@ -1759,6 +1759,22 @@
       "duration_ms": 222066,
       "name": "Mi Vicio",
       "url": "https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 267207,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/1aHpN6EYORlTwFSVDiJp6q"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1795,18 +1811,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+        "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
+        "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
         }
       ],
-      "duration_ms": 267207,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/1aHpN6EYORlTwFSVDiJp6q"
+      "duration_ms": 371786,
+      "name": "Basureta (Tiempos Raros)",
+      "url": "https://open.spotify.com/track/3o4whF6e25WeOnLBdsLFsX"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "El C\u00edrculo (Versi\u00f3n Exclusiva de Spotify)",
-        "url": "https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs"
-      },
-      "artists": [
-        {
-          "name": "Kase.O",
-          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
-        }
-      ],
-      "duration_ms": 371786,
-      "name": "Basureta (Tiempos Raros)",
-      "url": "https://open.spotify.com/track/3o4whF6e25WeOnLBdsLFsX"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "En la brevedad de los dias",
         "url": "https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Entren Los Que Quieran",
-        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 293066,
-      "name": "Digo Lo Que Pienso",
-      "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Alma Coraz\u00f3n Y Vida",
         "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 307253,
       "name": "Mi Mejor Inspiraci\u00f3n",
       "url": "https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Entren Los Que Quieran",
+        "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "Digo Lo Que Pienso",
+      "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
     },
     {
       "added_at": "2023-08-08 02:05:58",

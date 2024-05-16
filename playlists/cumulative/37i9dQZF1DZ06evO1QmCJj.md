@@ -2,7 +2,7 @@
 
 ### [This Is Lola Indigo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QmCJj)
 
-> This is Lola Indigo\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Lola Indigo\. Los temas esenciales, todos en una lista.
 
 70 songs - 3 hr 37 min
 

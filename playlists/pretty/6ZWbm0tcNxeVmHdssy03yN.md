@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,681 likes - 97 songs - 5 hr 14 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,695 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 12 | [Future](https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Everything's Blurred But You](https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O) | 3:29 |
 | 13 | [Just Friends](https://open.spotify.com/track/50b2qHQi6xs2SpOinPMLVP) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Just Friends](https://open.spotify.com/album/7mCLWlWwHHJOxz2KIm1imI) | 3:03 |
 | 14 | [City Girls](https://open.spotify.com/track/5ioioZGQMU225RXicxjAFA) | [Dali Danger](https://open.spotify.com/artist/5uS7Vl0LAEz2Rj7oDeeM4Y), [Loüw](https://open.spotify.com/artist/2KITeQ2sH7Wc1vXn0EAC9g), [Petty Jay](https://open.spotify.com/artist/2QaAZ5ZwEPNbhZoY6aKp5z), [Sandza De Keys](https://open.spotify.com/artist/48FEe00v5c5t14qtsr16UU) | [City Girls](https://open.spotify.com/album/3SjsK1bhLxDzweEqQ63yII) | 6:43 |
-| 15 | [AMADOLLAR](https://open.spotify.com/track/6pZd8N0ffRLNe5MPFasQPu) | [Shuffle Muzik](https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x), [Stanley Bee](https://open.spotify.com/artist/5EILpKFX2rdggm2TyLN63a), [UrbanDeep](https://open.spotify.com/artist/2sjbe812QLttHmICYbs3Ws), [Fire](https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN) | [AMADOLLAR](https://open.spotify.com/album/2AemuzdoUAOZL0mpZZV7va) | 7:10 |
+| 15 | [AMA DOLLAR](https://open.spotify.com/track/6pZd8N0ffRLNe5MPFasQPu) | [Shuffle Muzik](https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x), [Stanley Bee](https://open.spotify.com/artist/5EILpKFX2rdggm2TyLN63a), [UrbanDeep](https://open.spotify.com/artist/2sjbe812QLttHmICYbs3Ws), [Fire](https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN) | [AMA DOLLAR](https://open.spotify.com/album/2AemuzdoUAOZL0mpZZV7va) | 7:10 |
 | 16 | [Mumma](https://open.spotify.com/track/71GIdySfjc61lkqCOI65Ku) | [Hannah Ray](https://open.spotify.com/artist/4Ae5WVwvqj9QtX7NVr6GHg) | [Mumma](https://open.spotify.com/album/2cZaN4NabVs07tNmW5ABac) | 3:40 |
 | 17 | [Watchlist](https://open.spotify.com/track/6v5N7ZccfaCpLFLtao8uuS) | [Dmonzz](https://open.spotify.com/artist/3HKTA5uswZWJScJqB4hiCn), [KTM Henny](https://open.spotify.com/artist/5LboJFD1tqB5OaTE1QB5YQ) | [Watchlist](https://open.spotify.com/album/7se9A0fhv7eHBYY6o31DWe) | 2:22 |
 | 18 | [L2TB](https://open.spotify.com/track/6mdoryKVzzUtbvUDraxRwX) | [21 District](https://open.spotify.com/artist/3IEOQjCTM1WHX7NopGRW7R) | [L2TB](https://open.spotify.com/album/2iBVaOfhHBw8VgiSIaGl9p) | 2:24 |

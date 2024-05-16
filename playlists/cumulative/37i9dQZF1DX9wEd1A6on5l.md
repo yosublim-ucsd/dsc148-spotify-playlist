@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-423 songs - 20 hr 27 min
+424 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-16 |  |
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-05 | 2023-11-25 |
 | [Happy](https://open.spotify.com/track/4K4ePgfFyaENPjNzsXIWCv) | [Yung Willis](https://open.spotify.com/artist/0499FesCSNLjH8MmbeXQmr), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Happy](https://open.spotify.com/album/0Nq2ODfFHRrbYXr35Hh6zE) | 3:10 | 2023-05-26 | 2023-06-16 |
+| [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 | 2024-05-10 |  |
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2022-06-09 | 2023-11-25 |
 | [high and sober \(go on soun\)](https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC \(RELOADED\)](https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ) | 2:21 | 2024-02-16 | 2024-03-22 |
 | [High Tension](https://open.spotify.com/track/7AaxIXNXvS7hqTLaQlXmgm) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [High Tension](https://open.spotify.com/album/2QGfvvvbYyk5ZU3WVBIXem) | 2:24 | 2023-12-01 | 2024-01-13 |
@@ -280,7 +281,7 @@
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2022-06-09 | 2022-12-09 |
 | [No Worry](https://open.spotify.com/track/71prXuK7e8ke8sP1iB6iHW) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Better Days](https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf) | 2:29 | 2024-03-22 | 2024-04-26 |
 | [Not My Fault](https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Not My Fault](https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs) | 3:08 | 2023-06-09 | 2023-07-21 |
-| [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 | 2023-05-11 |  |
+| [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 | 2023-05-11 | 2024-05-16 |
 | [Nyash \(Current & Savings\)](https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Nyash \(Current & Savings\)](https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B) | 3:34 | 2022-10-13 | 2022-12-09 |
 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 | 2023-11-03 |  |
 | [Obaa Sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 | 2023-12-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
+  "description": "This Is Yoss Bones. Los temas esenciales, todos en una lista.",
   "name": "This Is Yoss Bones",
   "tracks": [
     {
@@ -384,6 +384,28 @@
       "duration_ms": 209887,
       "name": "Contra Corriente",
       "url": "https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw"
+    },
+    {
+      "album": {
+        "name": "Cordura Transitoria",
+        "url": "https://open.spotify.com/album/5K7AF5V3irvem6pA5Oamx2"
+      },
+      "artists": [
+        {
+          "name": "Rapsusklei",
+          "url": "https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209887,
+      "name": "Contra Corriente",
+      "url": "https://open.spotify.com/track/7JkHyShBf6RQviZ4q0C6qq"
     },
     {
       "album": {
@@ -1038,7 +1060,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 222428,
       "name": "Mundo De Papel",
       "url": "https://open.spotify.com/track/5XZwPDh81lZP85iMkxZ9VO"

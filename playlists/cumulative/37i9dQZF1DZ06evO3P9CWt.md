@@ -2,7 +2,7 @@
 
 ### [This Is Pabllo Vittar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P9CWt)
 
-> This is Pabllo Vittar\. The essential tracks, all in one playlist.
+> This is Pabllo Vittar\. Todos os maiores hits em uma só playlist.
 
 75 songs - 3 hr 30 min
 
@@ -55,7 +55,7 @@
 | [Me Usa](https://open.spotify.com/track/6MOYPvxZK3vkwZDLUcAunH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 4:00 | 2024-04-12 |  |
 | [MODO TURBO](https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:30 | 2023-10-10 |  |
 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 | 2023-10-10 |  |
-| [No Hablo Español](https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:46 | 2024-05-04 | 2024-05-12 |
+| [No Hablo Español](https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:46 | 2024-05-04 |  |
 | [Noitada INTRO](https://open.spotify.com/track/2hXH0lq9mfxS8EVFsWOwmW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 0:39 | 2023-10-10 |  |
 | [Não Desligue o Telefone](https://open.spotify.com/track/2G9rTQ1mjBfLrcm5nm847j) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Maderito](https://open.spotify.com/artist/0gunSAj6r3uKbtCVdjqhgt) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:07 | 2024-04-13 | 2024-04-22 |
 | [Não Vou Te Deixar \(I Don't Want to Get Hurt\)](https://open.spotify.com/track/4tFtgNQDBIpMk7a061XZXh) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 3:35 | 2024-04-12 | 2024-04-13 |
@@ -72,7 +72,7 @@
 | [Problema Seu](https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:42 | 2023-10-10 |  |
 | [Rajadão](https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 | 2023-10-10 |  |
 | [Rubi](https://open.spotify.com/track/5Ih7yhSHs3F0NY10Pvr7Xq) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:13 | 2024-04-12 |  |
-| [SAL](https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SAL](https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE) | 2:00 | 2023-10-10 |  |
+| [SAL](https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SAL](https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE) | 2:00 | 2023-10-10 | 2024-05-16 |
 | [SEREIA](https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SEREIA](https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb) | 2:35 | 2023-10-10 |  |
 | [Seu Crime](https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:34 | 2023-10-10 |  |
 | [Sua Cara \(feat\. Anitta & Pabllo Vittar\)](https://open.spotify.com/track/5gUFvcHTgDNthj7DmZl2L7) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Know No Better](https://open.spotify.com/album/4PJtsH62RuojHmS3VCAHXx) | 2:47 | 2023-10-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lou Garcia, Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,456 likes - 85 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,436 likes - 85 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 56 | [Doce Desejo](https://open.spotify.com/track/3CcP7KUiVSnuI3MEtRarkS) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Doce Desejo](https://open.spotify.com/album/4JzQuAXdVXTJ6Il8AsHeGP) | 2:55 |
 | 57 | [Serena](https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [Serena](https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1) | 2:45 |
 | 58 | [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 |
-| 59 | [Meu Mel](https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina) | [Bella Angel](https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk) | [Meu Mel](https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v) | 2:04 |
-| 60 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 |
-| 61 | [Laço](https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [Laço](https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh) | 2:29 |
-| 62 | [absurdo](https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:35 |
+| 59 | [absurdo](https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:35 |
+| 60 | [Meu Mel](https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina) | [Bella Angel](https://open.spotify.com/artist/6IQbsU2AicesqSRBuqKJFk) | [Meu Mel](https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v) | 2:04 |
+| 61 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 |
+| 62 | [Laço](https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [Laço](https://open.spotify.com/album/5Jkw6alYn11ENB6dkUK1Yh) | 2:29 |
 | 63 | [Veste a Camisa](https://open.spotify.com/track/5L5VOPrSvmYbjuOkYo7SoI) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [Maikinho DJ](https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh) | [Veste a Camisa](https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks) | 2:31 |
 | 64 | [MAGNÉTICO](https://open.spotify.com/track/27kpv1fxfP4n7vLO077RFq) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [MAGNÉTICO](https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG) | 2:19 |
 | 65 | [Brigas Demais \- Live](https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Brigas Demais \- Live](https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC) | 4:17 |

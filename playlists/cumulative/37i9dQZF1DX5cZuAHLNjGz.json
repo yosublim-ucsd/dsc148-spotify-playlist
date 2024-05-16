@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 214024,
       "name": "52 Bars",
       "url": "https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks"
@@ -2556,6 +2556,32 @@
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
+    },
+    {
+      "album": {
+        "name": "Welcome To Punjab",
+        "url": "https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188918,
+      "name": "Hass Ho Giya",
+      "url": "https://open.spotify.com/track/5BBpP7XAcnPn1pt68XSV53"
     },
     {
       "album": {

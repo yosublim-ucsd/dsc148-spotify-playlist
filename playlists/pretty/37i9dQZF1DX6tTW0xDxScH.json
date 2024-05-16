@@ -1,6 +1,6 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 739305,
+  "num_followers": 739330,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Oh No / Liahr",
         "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 164946,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "This Is My Country",
-        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "I'm Loving Nothing",
-      "url": "https://open.spotify.com/track/7bJ4yFd2JPJfxrpbJXPeRC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 312613,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "This Is My Country",
+        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "I'm Loving Nothing",
+      "url": "https://open.spotify.com/track/7bJ4yFd2JPJfxrpbJXPeRC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Sour Lemon",
-        "url": "https://open.spotify.com/album/2gl1YvNVNAd1DdV3r7rOQ0"
+        "name": "Timing",
+        "url": "https://open.spotify.com/album/2ir7m3wyTiUiP0vksnZT0p"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "Alisa Amador",
+          "url": "https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE"
+      "duration_ms": 214643,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Timing",
-        "url": "https://open.spotify.com/album/2ir7m3wyTiUiP0vksnZT0p"
+        "name": "Sour Lemon",
+        "url": "https://open.spotify.com/album/2gl1YvNVNAd1DdV3r7rOQ0"
       },
       "artists": [
         {
-          "name": "Alisa Amador",
-          "url": "https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 214643,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z"
+      "duration_ms": 236466,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE"
     },
     {
       "added_at": "2023-12-15 05:00:00",

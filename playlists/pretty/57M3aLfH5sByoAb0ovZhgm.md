@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 
 > cookin&\#x27;
 
-[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 119 songs - 7 hr 17 min
+[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 119 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 | 115 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
 | 116 | [Am I Dreaming \(Metro Boomin & A$AP Rocky, Roisee\)](https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Roisee](https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 4:16 |
 | 117 | [Calling \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, NAV, feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5rurggqwwudn9clMdcchxT) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:39 |
-| 118 | [Fast Car](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car](https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ) | 3:32 |
-| 119 | [Silk & Cologne \(EI8HT & Offset\) \- Spider\-Verse Remix](https://open.spotify.com/track/5Lv5L45PQmp5CTjs5PlQ6e) | [EI8HT](https://open.spotify.com/artist/70rSvlI9SRspEr0C84bJ5Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 2:42 |
+| 118 | [Silk & Cologne \(EI8HT & Offset\) \- Spider\-Verse Remix](https://open.spotify.com/track/5Lv5L45PQmp5CTjs5PlQ6e) | [EI8HT](https://open.spotify.com/artist/70rSvlI9SRspEr0C84bJ5Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 2:42 |
+| 119 | [Samjho Na](https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Samjho Na](https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B) | 2:52 |
 
-Snapshot ID: `AAAAmtDfh1RUxAWrX96/aK+0xadzJDmu`
+Snapshot ID: `AAAAnFOOIgUD09voCNIOfqBIL32Y8CzH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Kofi Kinaata
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,910 likes - 91 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,911 likes - 91 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

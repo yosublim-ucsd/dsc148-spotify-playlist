@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 288026,
       "name": "Along Came Sonny",
       "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 245000,
       "name": "Dillsboro Blues",
       "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 372746,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
@@ -3288,6 +3288,24 @@
       "duration_ms": 187980,
       "name": "No Wise Men",
       "url": "https://open.spotify.com/track/2RjM38LJMAb4GxMthocOXY"
+    },
+    {
+      "album": {
+        "name": "Wood Box Heroes",
+        "url": "https://open.spotify.com/album/0KMYFch1J5SGDL6Zz4if9f"
+      },
+      "artists": [
+        {
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "No. 444",
+      "url": "https://open.spotify.com/track/72Xjcfh50FRUeMaomktamF"
     },
     {
       "album": {

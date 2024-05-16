@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 149660,
+  "num_followers": 149696,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/7sXChGm9M5qwsrKYb7t2yJ"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 192942,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/48HyHfhq5gUI11xucqR6cE"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Standing in the Storm / Surviving The Game",
         "url": "https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 257467,
       "name": "Standing in the Storm",
       "url": "https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/7sXChGm9M5qwsrKYb7t2yJ"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 192942,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/48HyHfhq5gUI11xucqR6cE"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Eulogies",
-        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
       },
       "artists": [
         {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
         }
       ],
-      "duration_ms": 166575,
-      "name": "Weight of Glory",
-      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
-      },
-      "artists": [
-        {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Stronger Than Death",
         "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 222967,
       "name": "Promise You're Coming Home",
       "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Eulogies",
+        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 166575,
+      "name": "Weight of Glory",
+      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
-      },
-      "artists": [
-        {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Honor & Glory",
         "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 271159,
       "name": "Fear of Missing Out",
       "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+      },
+      "artists": [
+        {
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -811,22 +811,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
+        "name": "Real Emotion",
+        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
       },
       "artists": [
         {
-          "name": "Glasslands",
-          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
-        },
-        {
-          "name": "Ryan Kirby",
-          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
+          "name": "Paper Route",
+          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
         }
       ],
-      "duration_ms": 237522,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
+      "duration_ms": 254866,
+      "name": "Balconies",
+      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -847,34 +843,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Real Emotion",
-        "url": "https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL"
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
       "artists": [
         {
-          "name": "Paper Route",
-          "url": "https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Balconies",
-      "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Acoustic - EP",
-        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
-      },
-      "artists": [
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
+        },
         {
-          "name": "Decyfer Down",
-          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+          "name": "Ryan Kirby",
+          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
         }
       ],
-      "duration_ms": 239552,
-      "name": "Burn Back the Sun",
-      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
+      "duration_ms": 237522,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -907,6 +891,22 @@
       "duration_ms": 248972,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Acoustic - EP",
+        "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
+      },
+      "artists": [
+        {
+          "name": "Decyfer Down",
+          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+        }
+      ],
+      "duration_ms": 239552,
+      "name": "Burn Back the Sun",
+      "url": "https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Blood On Me",
-        "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
+        "name": "GODLESS",
+        "url": "https://open.spotify.com/album/04lvWoFp95y8I89lNt3anU"
       },
       "artists": [
         {
-          "name": "Kid Created Playa",
-          "url": "https://open.spotify.com/artist/2CpAiDocx8gIbL9MQG2XIv"
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        },
+        {
+          "name": "Richie Faulkner",
+          "url": "https://open.spotify.com/artist/2L4LdKZ3irp0KZ8ICiSXxS"
         }
       ],
-      "duration_ms": 203702,
-      "name": "Blood On Me",
-      "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
+      "duration_ms": 294786,
+      "name": "GODLESS",
+      "url": "https://open.spotify.com/track/5hQYAOxNmbCtiA8Gt5hJAm"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "GODLESS",
-        "url": "https://open.spotify.com/album/04lvWoFp95y8I89lNt3anU"
+        "name": "Blood On Me",
+        "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
       },
       "artists": [
         {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        },
-        {
-          "name": "Richie Faulkner",
-          "url": "https://open.spotify.com/artist/2L4LdKZ3irp0KZ8ICiSXxS"
+          "name": "Kid Created Playa",
+          "url": "https://open.spotify.com/artist/2CpAiDocx8gIbL9MQG2XIv"
         }
       ],
-      "duration_ms": 294786,
-      "name": "GODLESS",
-      "url": "https://open.spotify.com/track/5hQYAOxNmbCtiA8Gt5hJAm"
+      "duration_ms": 203702,
+      "name": "Blood On Me",
+      "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
     },
     {
       "added_at": "2024-05-10 04:01:29",

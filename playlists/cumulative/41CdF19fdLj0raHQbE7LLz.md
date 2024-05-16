@@ -4,7 +4,7 @@
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-200 songs - 17 hr 20 min
+203 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Disintegrate](https://open.spotify.com/track/7oPC4KDG0ofx3Cvpie1D9W) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Disintegrate](https://open.spotify.com/album/1IeOO326Q8ZPprvUoUUhx5) | 7:19 | 2023-02-05 |  |
 | [Dodgems](https://open.spotify.com/track/6BisIQ370CusHlyAAJrPOq) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Dodgems](https://open.spotify.com/album/1naBLI1pkepEzgoahwj4Ny) | 3:42 | 2024-02-23 |  |
 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 | 2022-04-18 | 2023-06-29 |
+| [Don't Need You](https://open.spotify.com/track/0U9R5tF9KeUkMuq3uVeDFK) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Jilted](https://open.spotify.com/album/2Qu6otxkYLN1PMqfq44hL1) | 3:33 | 2024-05-15 |  |
 | [Don't Stop Now](https://open.spotify.com/track/3u3rokXcDXPlgUZwTcwrDk) | [Shay De Castro](https://open.spotify.com/artist/0v9G2owf4WLwxKH95hc9gQ) | [The Hills Devise](https://open.spotify.com/album/7G9RjwEnWgiJxxbYzbhawU) | 3:26 | 2022-12-28 | 2023-06-29 |
 | [Dopemine](https://open.spotify.com/track/1DHpTZqedmXOahLu8HFHxT) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Tunnel Vision](https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2) | 6:10 | 2023-10-16 |  |
 | [Dopemine](https://open.spotify.com/track/4xcyDEJ7WIfhfqZX4oL2xw) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Dopemine](https://open.spotify.com/album/4cYYqDG4cF6r6QiobnjPxR) | 6:10 | 2023-09-29 |  |
@@ -94,6 +95,7 @@
 | [Inertia](https://open.spotify.com/track/74utOOe35IIADzUxx6JuuD) | [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Premonition](https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa) | 3:44 | 2023-03-09 |  |
 | [Is It...](https://open.spotify.com/track/4kxx1ZJ9Dk07BzyECFb4uN) | [Jody 6](https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y) | [Hold Me](https://open.spotify.com/album/6AMeLl62dBE7iqSjBWswGD) | 3:27 | 2023-01-25 | 2024-02-24 |
 | [It's Then](https://open.spotify.com/track/4sHrSTZYaMKMFFNrSSpKEC) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [I Want to See](https://open.spotify.com/album/28HXkm4OCYHAc0udQFbiwu) | 4:01 | 2023-06-28 |  |
+| [Jilted](https://open.spotify.com/track/2tL323hsMpY47ZKimADfi8) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Jilted](https://open.spotify.com/album/2Qu6otxkYLN1PMqfq44hL1) | 3:37 | 2024-05-15 |  |
 | [Just Listen](https://open.spotify.com/track/3ZXZ1CHb11IoytIZB6ap1X) | [D\-Unity](https://open.spotify.com/artist/3IpAthjvdkddgfMSsURuMF) | [Just Listen](https://open.spotify.com/album/2yJfKPEOzGnhf6VfN6Fmlz) | 6:11 | 2023-03-09 | 2024-02-24 |
 | [Kobra Killer](https://open.spotify.com/track/6aQZELO5MkHg6pdLBxxaTF) | [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Ninth Wave](https://open.spotify.com/album/1yh56u5QuSFwZbybeaSBUx) | 6:33 | 2022-02-03 | 2023-04-24 |
 | [Konfusion \- Thomas Schumacher Rework](https://open.spotify.com/track/6Lf0najcf6r0gdcgwe0yxb) | [Maketech](https://open.spotify.com/artist/31jG1iSnjTnEoLgbe8uDTb), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Konfusion](https://open.spotify.com/album/4pC7lOrVPtRqXaRtmQIcTT) | 4:37 | 2022-11-02 | 2024-02-24 |
@@ -142,6 +144,7 @@
 | [Razor](https://open.spotify.com/track/5Y6Gxsv7ZeNqva9Ssj95ZH) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [A\-Sides, Vol\. 11](https://open.spotify.com/album/3uDzg42dI0fxJUojkmN1aY) | 6:53 | 2022-11-25 | 2024-02-24 |
 | [Reload Ride](https://open.spotify.com/track/7b7RV4w314oGsprMmZJELf) | [Kos:mo](https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr) | [The Reason](https://open.spotify.com/album/58D5Bo0B2JnaxFwBfyCA9Y) | 4:34 | 2022-11-25 | 2024-02-24 |
 | [Remember About Tetra](https://open.spotify.com/track/1cmCQDEcuPaR14Y9xjkQyR) | [Yan Oxygen](https://open.spotify.com/artist/3HpG3QQ6yRPcn876fmzcbY) | [Respekt Rebels, Vol\. 4](https://open.spotify.com/album/65AIbwBS7j6HSf6uD47Hda) | 3:55 | 2022-12-28 | 2023-09-26 |
+| [Remember The Future](https://open.spotify.com/track/0N3Qn7evf2UTM6KA9xNPD3) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Remember The Future](https://open.spotify.com/album/6aPIbroQ9BvcxV8sDY0MGG) | 3:24 | 2024-05-15 |  |
 | [Renegade](https://open.spotify.com/track/33jUhN85Ly3yaOdSoVyp1d) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Maketech](https://open.spotify.com/artist/31jG1iSnjTnEoLgbe8uDTb) | [Renegade](https://open.spotify.com/album/7dVQk4IqAYbp15APZ5hf5v) | 3:45 | 2023-06-28 | 2023-09-26 |
 | [Restore My Soul \- Remix](https://open.spotify.com/track/2Po3vOi0P5KxVmlR1vjzgf) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Restore My Soul \(Remix\)](https://open.spotify.com/album/7bfdsv9IXDHvBwIYrDDCDs) | 4:32 | 2022-05-17 | 2024-02-24 |
 | [Revolt](https://open.spotify.com/track/1VuoCAvzMWUiHqEaLnO3hU) | [Inafekt](https://open.spotify.com/artist/44ixlcp2r9IHhFqGdcFjOz) | [Revolt](https://open.spotify.com/album/07e6P1U7fejbOBm0pC5Z8v) | 3:08 | 2022-04-18 | 2023-06-29 |

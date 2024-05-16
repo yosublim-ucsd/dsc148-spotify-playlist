@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106121,
+  "num_followers": 106133,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "No Te Puedo Decir Que No",
-        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        },
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 183888,
-      "name": "No Te Puedo Decir Que No",
-      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "No Te Puedo Decir Que No",
+        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 183888,
+      "name": "No Te Puedo Decir Que No",
+      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
+        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
+        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
+      },
+      "artists": [
+        {
+          "name": "Buendia",
+          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "Desde Dentro",
+      "url": "https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 152405,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
-        "name": "En el Caribe Tambi\u00e9n Pasa Esto",
-        "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
-      },
-      "artists": [
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "Desde Dentro",
-      "url": "https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "Conexi\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
-      },
-      "artists": [
-        {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Conexi\u00f3n de Almas",
-      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 250790,
       "name": "Te Dej\u00e9 una Carta",
       "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Conexi\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
+      },
+      "artists": [
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Conexi\u00f3n de Almas",
+      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "Canci\u00f3n de Amor",
-        "url": "https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4"
-      },
-      "artists": [
-        {
-          "name": "Pato Lange",
-          "url": "https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "Cursi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2hb5mHsPvEyj7ZvBKSD6Vo"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 216292,
       "name": "Astigmatismo y Miop\u00eda",
       "url": "https://open.spotify.com/track/1188pTebmHUwpwkQvjVu2C"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Canci\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4"
+      },
+      "artists": [
+        {
+          "name": "Pato Lange",
+          "url": "https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "ReconoceR",
-        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
-      },
-      "artists": [
-        {
-          "name": "Pamela Rodriguez",
-          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Ligera Love",
-      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "Amante",
         "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "Tuami",
-        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
+        "name": "ReconoceR",
+        "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
       },
       "artists": [
         {
-          "name": "Soy Emilia",
-          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
+          "name": "Pamela Rodriguez",
+          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Tuami",
-      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
+      "duration_ms": 147933,
+      "name": "Ligera Love",
+      "url": "https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1251,6 +1235,22 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Tuami",
+        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
+      },
+      "artists": [
+        {
+          "name": "Soy Emilia",
+          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tuami",
+      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "REGIO",
-        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
-      },
-      "artists": [
-        {
-          "name": "Filgueira",
-          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
-        },
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "PISCINA OL\u00cdMPICA",
-      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "El Chiste",
         "url": "https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 215000,
       "name": "El Chiste",
       "url": "https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "REGIO",
+        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
+      },
+      "artists": [
+        {
+          "name": "Filgueira",
+          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
+        },
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "PISCINA OL\u00cdMPICA",
+      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "Sin m\u00ed :(",
         "url": "https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 170866,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
         "name": "Ey",
         "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 203000,
       "name": "Cu\u00e1ntas Veces M\u00e1s",
       "url": "https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2024-05-10 17:32:55",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-05-10 17:32:55",
       "album": {
-        "name": "Las Heridas",
-        "url": "https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 205522,
-      "name": "Las Heridas",
-      "url": "https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE"
-    },
-    {
-      "added_at": "2024-05-10 17:32:55",
-      "album": {
         "name": "Tuna",
         "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 221250,
       "name": "Tuna",
       "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
+    },
+    {
+      "added_at": "2024-05-10 17:32:55",
+      "album": {
+        "name": "Las Heridas",
+        "url": "https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 205522,
+      "name": "Las Heridas",
+      "url": "https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE"
     },
     {
       "added_at": "2024-05-10 17:32:55",

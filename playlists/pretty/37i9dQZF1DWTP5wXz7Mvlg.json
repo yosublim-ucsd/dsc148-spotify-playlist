@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:1rd51IrbtX9DqoU0Zxu4TV\">DJ Marky</a>'s favourite tracks. Updated regularly. Curated by DJ Marky. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 27310,
+  "num_followers": 27322,
   "original_name": "DJ Marky's track IDs",
   "owner": {
     "name": "Spotify",
@@ -124,8 +124,12 @@
           "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
         },
         {
-          "name": "Dossa & Locuzzed",
-          "url": "https://open.spotify.com/artist/1hjb2l5U7cvWiXBpTyQF39"
+          "name": "Dossa",
+          "url": "https://open.spotify.com/artist/7KHm6mL7xNRACVaDkhrgiq"
+        },
+        {
+          "name": "Locuzzed",
+          "url": "https://open.spotify.com/artist/6P60AuL5otqLuaPh5FZ2jG"
         }
       ],
       "duration_ms": 252342,

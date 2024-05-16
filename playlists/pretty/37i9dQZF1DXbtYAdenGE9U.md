@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,573 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,899 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 45 | [ResuRection \- Paul Oakenfold Full On Fluoro Mix](https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2) | [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 |
 | 46 | [Satellite \- Above & Beyond Mix \(Edit\)](https://open.spotify.com/track/29xhHp7I079jDveVcoShIk) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [OceanLab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT) | [Satellite](https://open.spotify.com/album/0ZtQgsteaWjFMPwGQm2B6c) | 3:29 |
 | 47 | [1998](https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:53 |
-| 48 | [The Opera Song \(Brave New World\)](https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [CMC](https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm) | [Brave New World \(The Opera Song\)](https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX) | 3:32 |
-| 49 | [7 Colours \- Radio Edit](https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY) | [7 Colours \(The Remixes\)](https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E) | 3:15 |
+| 48 | [7 Colours \- Radio Edit](https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY) | [7 Colours \(The Remixes\)](https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E) | 3:15 |
+| 49 | [The Opera Song \(Brave New World\)](https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [CMC](https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm) | [Brave New World \(The Opera Song\)](https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX) | 3:32 |
 | 50 | [Southern Sun](https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 3:55 |
 
 Snapshot ID: `ZaCBAAAAAAB0Hu1jk2XHKNwUPjbW9q+5`

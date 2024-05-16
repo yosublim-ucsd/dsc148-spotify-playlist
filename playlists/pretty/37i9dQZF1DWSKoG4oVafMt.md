@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,268 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,368 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 3 | [Taare](https://open.spotify.com/track/3oWoAZ0Pe8PsI4A5SVVF3A) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Taare](https://open.spotify.com/album/0jwE7wNAlVPDUxem6bUXJ7) | 3:11 |
 | 4 | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/track/4zD5IxK0MBPZ0ET58Ihhpm) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harmanjeet](https://open.spotify.com/artist/2FRg6CIXD61xyvxUOzhYy5), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Parindey \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/album/416V9hPUHyM30URol93F8M) | 4:03 |
 | 5 | [Whenever](https://open.spotify.com/track/75NrYaibnoCgQZASqWrcYs) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Whenever](https://open.spotify.com/album/0sQRiOLXkzvK9b3r1LVZHK) | 3:30 |
-| 6 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
-| 7 | [Lagda E Nai](https://open.spotify.com/track/6EeiadaHCduRvLeDSdnOKs) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Lagda E Nai](https://open.spotify.com/album/2VkIDq9xfbt182yceoJaTN) | 2:06 |
+| 6 | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60) | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc) | 4:41 |
+| 7 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
 | 8 | [Love Song](https://open.spotify.com/track/0qVcPNhhGkZtm80eAHvraz) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [Love Song](https://open.spotify.com/album/4WTOv1HXfFtDG64JvxoYLg) | 3:07 |
 | 9 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
 | 10 | [Chann Sitare](https://open.spotify.com/track/50UrzLQaUmPp5LsehLMMKR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/album/3fms8MQoHUUbAfK9ao7X8G) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Sab Kuchh \(From "MOH"\)](https://open.spotify.com/track/7HV84VsK9HDX1XJh3mxwaW) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Sab Kuchh \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6FII2by2pqBRs4ooDQIpI2) | 4:20 |
 | 75 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 
-Snapshot ID: `ZijpJgAAAACZXAxThSzeiEU9WCLXVoPH`
+Snapshot ID: `ZkR+VQAAAADW78ezS1WE4jRG/tnsspEF`

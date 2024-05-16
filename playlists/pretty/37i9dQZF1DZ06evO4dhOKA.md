@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 ### [This Is Lalo Mora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dhOKA)
 
-> This is Lalo Mora\. The essential tracks, all in one playlist.
+> This Is Lalo Mora\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,414 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,436 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 50 | [Quiero Que Sepas](https://open.spotify.com/track/5IiLxdInZYk2ZfU5d0EqHD) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Banda Aramburos](https://open.spotify.com/artist/4jeNSKdfP0pmDMJYIFktjb) | [Quiero Que Sepas](https://open.spotify.com/album/2VvUxTRxFdK8biTfOWyprZ) | 2:21 |
 | 51 | [Me Regalo Contigo](https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:07 |
 
-Snapshot ID: `ZkFYAAAAAAC9FeDPsE5niVqrSPYswqEf`
+Snapshot ID: `ZkFYAAAAAABtbGEfU+Iehn4hBWhyj3rx`

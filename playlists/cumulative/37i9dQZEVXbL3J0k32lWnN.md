@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,547 songs - 3 day 8 hr 57 min
+1,548 songs - 3 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,7 +951,7 @@
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-31 | 2023-01-29 |
 | [Mod Strømmen \- MGP 2023](https://open.spotify.com/track/7eV0zW0TzX1mcXj1NuHBre) | [Elinova](https://open.spotify.com/artist/1D9gYkzWvZA53v9fRcR1lP) | [MGP 2023](https://open.spotify.com/album/5MRXvUqpJqPGaLsD2qVCK6) | 2:38 | 2023-02-20 | 2023-02-22 |
 | [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-07-29 | 2023-08-03 |
-| [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 | 2024-05-13 |  |
+| [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 | 2024-05-13 | 2024-05-16 |
 | [Mona Lisa \(feat\. Lord Siva\)](https://open.spotify.com/track/2VO1Lr1MVNGDHzBN5kHHQt) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Mona Lisa \(feat\. Lord Siva\)](https://open.spotify.com/album/4bOYDZcsOGNSyid7BtDOIN) | 3:06 | 2022-06-04 | 2022-06-19 |
 | [Mona Lisa \(feat\. Lord Siva\)](https://open.spotify.com/track/5PKfri2kHfgZUb07oB5mnc) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:06 | 2022-06-18 | 2022-08-21 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-16 | 2021-11-07 |
@@ -1285,6 +1285,7 @@
 | [Stable \(feat\. Artigeardit & Lamin\)](https://open.spotify.com/track/6Zw7r9dPtbX0D1CcIS8caf) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [CSKI VOL\. 2](https://open.spotify.com/album/0ssgEUHadlWTWQIGXuWZ5j) | 2:58 | 2022-02-05 | 2022-05-22 |
 | [Stadig? Selvfølgelig!](https://open.spotify.com/track/6vf6BcbLMlBsUYqW4PVWAS) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Stadig? Selvfølgelig!](https://open.spotify.com/album/6rvNSd2P5nsrNtFBc6K6Cn) | 2:26 | 2023-06-10 | 2023-06-24 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-24 | 2022-11-21 |
+| [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-05-15 |  |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-08 | 2022-05-15 |
 | [Starry Eyes](https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 2:28 | 2022-01-08 | 2022-01-10 |
 | [Starry Eyes](https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:28 | 2022-01-10 | 2022-01-13 |

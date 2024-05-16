@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,081 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,086 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 59 | [それでは、](https://open.spotify.com/track/5qGpsL9fCOr1sGYNMmFFtI) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:50 |
 | 60 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |
 | 61 | [It's Impressive](https://open.spotify.com/track/7lQnGrQI7m1qzS9Z89GtTi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [It's Impressive](https://open.spotify.com/album/74vSgLGwSVRkDJQHGN4qLp) | 2:05 |
-| 62 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
-| 63 | [Polovetsian Dances from Prince Igor: Introduzione](https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I), [George Szell](https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx), [The Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz) | [Mussorgsky: Pictures at an Exhibition \- Expanded Edition](https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om) | 2:16 |
+| 62 | [Polovetsian Dances from Prince Igor: Introduzione](https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I), [George Szell](https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx), [The Cleveland Orchestra](https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz) | [Mussorgsky: Pictures at an Exhibition \- Expanded Edition](https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om) | 2:16 |
+| 63 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 |
 | 64 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 65 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 | 66 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 |

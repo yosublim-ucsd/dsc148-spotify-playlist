@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,763 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,754 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 73 | [LIFE SUCKS SO WE FUCK \(feat\. ZillaKami\)](https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [I HOPE YOU'RE HAPPY](https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p) | 2:01 |
 | 74 | [CHEVY THANG](https://open.spotify.com/track/3d9995PfvymUKvnYB9a2CK) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [CHROME CASKETZ 2: ARMAGEDDON](https://open.spotify.com/album/5CRA4YBDWDTCd8wf3WfMwE) | 1:30 |
 | 75 | [So Long](https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [So Long](https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y) | 3:31 |
-| 76 | [Westside](https://open.spotify.com/track/3nq2cL2BPD5WXjp8Q4XiPS) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Westside](https://open.spotify.com/album/0woF7V1XI8keZ6lQJqA6Ac) | 2:52 |
+| 76 | [Westside](https://open.spotify.com/track/3nq2cL2BPD5WXjp8Q4XiPS) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Westside](https://open.spotify.com/album/0woF7V1XI8keZ6lQJqA6Ac) | 2:54 |
 | 77 | [Ambrosia](https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Ambrosia](https://open.spotify.com/album/6liLrRZ18eTnyKwKKdlhYB) | 3:06 |
 | 78 | [Hot Spot](https://open.spotify.com/track/2q5E2qgXkrLg1KPiWXYoWl) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Hot Spot](https://open.spotify.com/album/1yKM0mzIww5Fofrx5WnGNA) | 3:07 |
 | 79 | [Duckin’](https://open.spotify.com/track/7FlpApqLx1BPY84160fVN8) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [We'll Talk Soon](https://open.spotify.com/album/62FAK7BPLY2AB0oq6mCJ0p) | 2:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,045 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,068 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 44 | [Turma da Duq](https://open.spotify.com/track/2qVB6ZEFztpNoRy6PGRTdd) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Taurus, Vol\. 2](https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4) | 2:23 |
 | 45 | [Pela Manhã](https://open.spotify.com/track/59kwXEmcc52rvxweb6we9p) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C) | [Menino Barulhento](https://open.spotify.com/album/0osJKRTACneLPJI3f5oQea) | 4:00 |
 | 46 | [Ambições E Vícios](https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:01 |
-| 47 | [762](https://open.spotify.com/track/0JM6FI0rlkhIUIctTgpsAy) | [Ryan.4l](https://open.spotify.com/artist/6J4XzStfOx8YQGkd5xYIYU), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ), [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [762](https://open.spotify.com/album/4wj9nyzdc2lkeJb1RNIMs9) | 2:27 |
-| 48 | [Mainstreet Festival Freestyle](https://open.spotify.com/track/4j90O7VWPdThq4wenSzKZv) | [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Vt no beat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs) | [Mainstreet Festival Freestyle](https://open.spotify.com/album/68qOGJRbEX7XzOi1Jy6PX9) | 2:37 |
+| 47 | [Mainstreet Festival Freestyle](https://open.spotify.com/track/4j90O7VWPdThq4wenSzKZv) | [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Vt no beat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs) | [Mainstreet Festival Freestyle](https://open.spotify.com/album/68qOGJRbEX7XzOi1Jy6PX9) | 2:37 |
+| 48 | [762](https://open.spotify.com/track/0JM6FI0rlkhIUIctTgpsAy) | [Ryan.4l](https://open.spotify.com/artist/6J4XzStfOx8YQGkd5xYIYU), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ), [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [762](https://open.spotify.com/album/4wj9nyzdc2lkeJb1RNIMs9) | 2:27 |
 | 49 | [BASIC B!TCH](https://open.spotify.com/track/6l3cAnnlmlzWt1fizks5vv) | [iamBJAY](https://open.spotify.com/artist/44Ao9qICR4cSeI9SdM8Dkl), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [BASIC B!TCH](https://open.spotify.com/album/5fcHnDltgaOhiOrnGc4apW) | 2:12 |
 | 50 | [Bandida](https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:15 |
 

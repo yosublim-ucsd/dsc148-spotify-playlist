@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126009,
+  "num_followers": 126011,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASXTleY2ZLhHAlyDwCLHzr78mwAnSU",
+  "snapshot_id": "AAASX/+st0usDaZ/NIcRJZQi8nXDEjxC",
   "tracks": [
+    {
+      "added_at": "2024-05-15 14:38:13",
+      "album": {
+        "name": "Face Lift",
+        "url": "https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok"
+      },
+      "artists": [
+        {
+          "name": "Codd Dubz",
+          "url": "https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5"
+        },
+        {
+          "name": "Decimate",
+          "url": "https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz"
+        },
+        {
+          "name": "XAE",
+          "url": "https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT"
+        }
+      ],
+      "duration_ms": 204370,
+      "name": "Face Lift",
+      "url": "https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr"
+    },
     {
       "added_at": "2024-05-14 14:42:43",
       "album": {
@@ -1171,26 +1195,6 @@
       "duration_ms": 209000,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5Rh4cLNvantvz3mbCw1Zq6"
-    },
-    {
-      "added_at": "2024-02-26 20:04:41",
-      "album": {
-        "name": "Rawthentic",
-        "url": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bill",
-          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
-        },
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 221918,
-      "name": "Rawthentic",
-      "url": "https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

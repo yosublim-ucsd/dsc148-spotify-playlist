@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 30 | [Tramontana](https://open.spotify.com/track/5fv7PpVdqsRttMlSD2OD1g) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tramontana](https://open.spotify.com/album/3XcRaeOe3P3s2Z1AZLFFZW) | 2:56 |
 | 31 | [finché le stelle non brillano](https://open.spotify.com/track/7y0zSVEiBDAFJ5ea2poaIV) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [finché le stelle non brillano](https://open.spotify.com/album/70KWscv56jX5G9GBmwigAx) | 3:21 |
 | 32 | [cadere volare](https://open.spotify.com/track/77kA6Y1DBIjD1x77WLhxgg) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:14 |
-| 33 | [Fulmini Addosso \- from the Prime Video Original Movie L'ESTATE PIÙ CALDA](https://open.spotify.com/track/5ps2orxLf5i8TE1jIi73En) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Cani Sciolti](https://open.spotify.com/album/3fzEUjbWHpnBIMVsXBSTWY) | 3:41 |
-| 34 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 |
+| 33 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 |
+| 34 | [Fulmini Addosso \- from the Prime Video Original Movie L'ESTATE PIÙ CALDA](https://open.spotify.com/track/5ps2orxLf5i8TE1jIi73En) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Cani Sciolti](https://open.spotify.com/album/3fzEUjbWHpnBIMVsXBSTWY) | 3:41 |
 | 35 | [Sbagliata Ascendente Leone \- Original Soundtrack](https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SBAGLIATA ASCENDENTE LEONE \(OFFICIAL SOUNDTRACK\)](https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P) | 3:26 |
 | 36 | [Metà mondo](https://open.spotify.com/track/5zZ0yzln50TFBzKl1YNckG) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Metà mondo](https://open.spotify.com/album/6dJf5WCRsjpCX0pvDlLdZy) | 2:58 |
 | 37 | [Cero](https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 50 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 51 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
 
-Snapshot ID: `AbRV9QAAAADOimS9vZ7nTpZVhvcwDO8d`
+Snapshot ID: `AbRblQAAAABVMgyTwtuikBftXeaA9055`

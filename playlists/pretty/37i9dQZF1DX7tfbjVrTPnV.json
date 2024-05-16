@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 206164,
+  "num_followers": 206225,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Leftover Feelings",
-        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "All The Lilacs In Ohio",
-      "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Complicated Game",
         "url": "https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 255533,
       "name": "Johnson Blvd",
       "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Leftover Feelings",
+        "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "All The Lilacs In Ohio",
+      "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Big Day in a Small Town",
-        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Drinkin' Smokin' Cheatin'",
-      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 222626,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Big Day in a Small Town",
+        "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Drinkin' Smokin' Cheatin'",
+      "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 329746,
       "name": "Time After Time - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Damage",
-        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 241739,
-      "name": "The Damage",
-      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Place in My Heart",
         "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 313857,
       "name": "Place in My Heart",
       "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Damage",
+        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 241739,
+      "name": "The Damage",
+      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1875,30 +1875,6 @@
       "duration_ms": 224000,
       "name": "Can't Be There Today",
       "url": "https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "It Ain't Over Yet",
-        "url": "https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        },
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "It Ain't Over Yet",
-      "url": "https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1991,6 +1967,30 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "It Ain't Over Yet",
+        "url": "https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        },
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "It Ain't Over Yet",
+      "url": "https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "At Folsom Prison (Legacy Edition)",
         "url": "https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8"
       },
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Walking Back To Georgia",
-      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Carter Girl",
         "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 169586,
       "name": "Little Black Train",
       "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Walking Back To Georgia",
+      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
     },
     {
       "added_at": "2023-08-11 04:00:00",

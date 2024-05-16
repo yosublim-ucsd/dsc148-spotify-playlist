@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 39990,
+  "num_followers": 40006,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "H\u00e4schenparty",
-        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
-      },
-      "artists": [
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "H\u00e4schenparty",
-      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
         "name": "Freunde finden / Devenir Amis",
         "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 170413,
       "name": "Freunde finden / Devenir Amis",
       "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
+        "name": "H\u00e4schenparty",
+        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
+      },
+      "artists": [
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "H\u00e4schenparty",
+      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
     },
     {
       "added_at": "2024-05-10 09:29:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
+        "name": "Barfu\u00df",
+        "url": "https://open.spotify.com/album/3xrtjEvVEDGuBe3fKfSAPM"
+      },
+      "artists": [
+        {
+          "name": "Herr Jan",
+          "url": "https://open.spotify.com/artist/4Uq7FqOxflFQVxsvTFIqhi"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Barfu\u00df",
+      "url": "https://open.spotify.com/track/5HvU0Hna8BVhv2jE4npxzh"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
         "name": "Fr\u00fchlingsspa\u00df und Osterhas",
         "url": "https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 220173,
       "name": "Drachenwind",
       "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
-        "name": "Barfu\u00df",
-        "url": "https://open.spotify.com/album/3xrtjEvVEDGuBe3fKfSAPM"
-      },
-      "artists": [
-        {
-          "name": "Herr Jan",
-          "url": "https://open.spotify.com/artist/4Uq7FqOxflFQVxsvTFIqhi"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Barfu\u00df",
-      "url": "https://open.spotify.com/track/5HvU0Hna8BVhv2jE4npxzh"
     },
     {
       "added_at": "2024-05-10 09:29:00",

@@ -4495,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "Love Over Glory",
+        "url": "https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279272,
+      "name": "Love Over Glory",
+      "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -8292,6 +8310,28 @@
       "duration_ms": 229360,
       "name": "Virtual Insanity - Remastered 2006",
       "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"
+    },
+    {
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/50soRftpa2dYDxH6v9Jka8"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        },
+        {
+          "name": "Celisse",
+          "url": "https://open.spotify.com/artist/0SJrFoAb35fTLKCLWcXJYu"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144267,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/2IRD8YXIKzclULZwnv51p7"
     },
     {
       "album": {

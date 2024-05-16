@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 ### [This Is Celia Cruz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rwPYs)
 
-> This is Celia Cruz\. The essential tracks, all in one playlist.
+> This Is Celia Cruz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,597 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,602 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Tu Voz](https://open.spotify.com/track/0aKEWdfm89EjTDKdqjhQgY) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Sonora Matencera Con Celia Cruz](https://open.spotify.com/album/07v2808Ya6HFSQDckM1CWz) | 3:08 |
 | 50 | [Dos Días en la Vida](https://open.spotify.com/track/6A2RSGXpBKOrG5uqJcCp6c) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 3:43 |
 
-Snapshot ID: `ZkFYAAAAAAAek7Lxxx+Sj0x1oRIwXgEz`
+Snapshot ID: `ZkFYAAAAAADDkLgMT3GEBOM6jMUyEYqQ`

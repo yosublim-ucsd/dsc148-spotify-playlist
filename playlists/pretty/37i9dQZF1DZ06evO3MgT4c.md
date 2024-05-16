@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 ### [This Is Migos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MgT4c)
 
-> This is Migos\. The essential tracks, all in one playlist.
+> This is Migos\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,728 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,745 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Seize The Block](https://open.spotify.com/track/0WQJIDidlJOv2C2PyvDUv5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [The Fate of the Furious: The Album](https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ) | 3:59 |
 | 50 | [Bricks \(feat\. Migos\)](https://open.spotify.com/track/76OSY26fhv9aJ0WZTezF34) | [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Papi Gordo](https://open.spotify.com/album/6AFct76pAIPVHMuOHA80YE) | 4:24 |
 
-Snapshot ID: `ZkFYAAAAAADgL/TPNnWph5K5RsJhKobJ`
+Snapshot ID: `ZkFYAAAAAACT+9P4wAcEmP3ja8yygfBi`

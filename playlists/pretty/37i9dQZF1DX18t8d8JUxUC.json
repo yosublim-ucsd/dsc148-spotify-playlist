@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Kevin Kaarl",
-  "num_followers": 21863,
+  "num_followers": 21886,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/1ricDoCdrqzaqrLmz64N4G"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 176106,
-      "name": "Querida Rosa",
-      "url": "https://open.spotify.com/track/6wBrZZ1LyiBxytLnpgnlhf"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "De Todas las Flores",
         "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 308346,
       "name": "Pajarito colibr\u00ed",
       "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/1ricDoCdrqzaqrLmz64N4G"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 176106,
+      "name": "Querida Rosa",
+      "url": "https://open.spotify.com/track/6wBrZZ1LyiBxytLnpgnlhf"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -371,26 +371,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Vulnerables",
-        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
+        "name": "Stampede: Vol. 1",
+        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
       },
       "artists": [
         {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         },
         {
-          "name": "Los Locos Descalzos",
-          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Bu Cuaron",
+          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
         }
       ],
-      "duration_ms": 210440,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
+      "duration_ms": 190577,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2u79bMbsXBvNxh4rlAfB7L"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -411,22 +407,26 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Stampede: Vol. 1",
-        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
+        "name": "Vulnerables",
+        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
         },
         {
-          "name": "Bu Cuaron",
-          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 190577,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/2u79bMbsXBvNxh4rlAfB7L"
+      "duration_ms": 210440,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Te Vi Llegar",
-        "url": "https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
-        }
-      ],
-      "duration_ms": 121621,
-      "name": "Te Vi Llegar",
-      "url": "https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Larga Duraci\u00f3n",
         "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 198536,
       "name": "Las Vacas",
       "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Te Vi Llegar",
+        "url": "https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "duration_ms": 121621,
+      "name": "Te Vi Llegar",
+      "url": "https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 244515,
       "name": "A las 9:05",
       "url": "https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/5P9dzJUu1kWSXVQmwkGPdA"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Perla Rosa",
         "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 231604,
       "name": "Un ratito m\u00e1s",
       "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/5P9dzJUu1kWSXVQmwkGPdA"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "LIBRE",
-        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 206803,
-      "name": "Todo lo que puedo darte",
-      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Te mereces un amor",
         "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 224160,
       "name": "La Casa de la Esquina",
       "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "LIBRE",
+        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 206803,
+      "name": "Todo lo que puedo darte",
+      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Prender\u00e9 Una Velita",
-        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 195335,
-      "name": "Tranquilo, Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Luch\u00edn",
         "url": "https://open.spotify.com/album/2pz5K8WJlwSCMxpVNZHxRB"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 244666,
       "name": "Luch\u00edn",
       "url": "https://open.spotify.com/track/6DGmZzSK5KJebAw3CrAmaa"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Prender\u00e9 Una Velita",
+        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 195335,
+      "name": "Tranquilo, Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
     },
     {
       "added_at": "2024-05-10 04:01:00",

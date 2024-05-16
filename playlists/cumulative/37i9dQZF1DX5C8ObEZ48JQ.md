@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT?si=PjlvtNTnSWKDDJh40vO8wg">BHADMAYORS</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk?si=ymLNPQjrRQKG4ExQa\_9KUQ">Maali</a>\. Artwork: Isu Kim.
 
-836 songs - 1 day 18 hr 4 min
+837 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Never Know](https://open.spotify.com/track/150vkxjvVxLt2d102XsPMp) | [Valerie Omari](https://open.spotify.com/artist/3N98mfZLBy9b9LjkhByak6), [Smahlo](https://open.spotify.com/artist/108TJaya0ebqLfTfs9Wek1) | [Closure](https://open.spotify.com/album/6BuwseVR6SwvbCblRzIRYi) | 2:40 | 2023-03-29 | 2023-06-28 |
 | [NEVER TIRED](https://open.spotify.com/track/3nQZnve335BZM8ICWdtWXq) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [KAY KAY \- EP](https://open.spotify.com/album/5lnenJTP9B8s9ybNTRyquE) | 2:37 | 2024-03-06 | 2024-04-03 |
 | [New Day](https://open.spotify.com/track/2I1S6oJy7W6DSji32iWBCj) | [Riwo](https://open.spotify.com/artist/5GhDRpbmBkSPX2QG8qmu4r) | [New Day](https://open.spotify.com/album/5nhodBdbHElOeRxPgWcBkA) | 2:58 | 2023-10-25 | 2023-11-30 |
+| [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-05-15 |  |
 | [Ngihlanyiswa Nguwe](https://open.spotify.com/track/3pH9FBTVk2jhI0AK9xyNam) | [Amanda Mo](https://open.spotify.com/artist/4xv9nOCqcmMbgl9RLatYJC) | [Ngihlanyiswa Nguwe](https://open.spotify.com/album/0aqd2lSJaA4Aw8s0hwiqKC) | 4:11 | 2022-09-02 | 2022-10-01 |
 | [Niko sawa](https://open.spotify.com/track/5qngyup4FX9ivdLKKndBJl) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Niko sawa](https://open.spotify.com/album/220fL5qk6tfDExFC9AmGvS) | 3:02 | 2024-05-01 |  |
 | [Nimejibeba](https://open.spotify.com/track/5qRnpj32fYhke0Sh0Yjoa6) | [Victoria Gichora](https://open.spotify.com/artist/29bVNgK0J0XNLcYqi1xsG0) | [Nimejibeba](https://open.spotify.com/album/0g6uq1bB129ewHvpIJw3vw) | 3:21 | 2024-03-06 | 2024-04-03 |
@@ -726,7 +727,7 @@
 | [Temptation](https://open.spotify.com/track/0yNmpPoO0oOPsjbZ46O4kq) | [Ayanfe](https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq) | [Temptation](https://open.spotify.com/album/3adDmgreCQFF29PdWtwZID) | 2:32 | 2022-09-02 | 2022-10-01 |
 | [Tender](https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Tender](https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2) | 3:03 | 2023-09-27 | 2023-10-26 |
 | [Tension](https://open.spotify.com/track/2AovY31Hw7ONbGmdJZMUDd) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [KOLLIDE](https://open.spotify.com/album/0KVVA3dYvH3ppczV0CWQdC) | 2:53 | 2023-10-25 | 2023-11-30 |
-| [Terry](https://open.spotify.com/track/25Kb8fwFUaQXyAKVJ543x1) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Kasunje](https://open.spotify.com/artist/3ECvZAJ359XydyKy9bjhFL) | [Terry](https://open.spotify.com/album/4atjtCfh4tn2nilHVLpSpi) | 2:58 | 2024-05-01 |  |
+| [Terry](https://open.spotify.com/track/25Kb8fwFUaQXyAKVJ543x1) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Kasunje](https://open.spotify.com/artist/3ECvZAJ359XydyKy9bjhFL) | [Terry](https://open.spotify.com/album/4atjtCfh4tn2nilHVLpSpi) | 2:58 | 2024-05-01 | 2024-05-16 |
 | [Test Me](https://open.spotify.com/track/2pmTALnJfdnbmycrISPU9X) | [J Clu](https://open.spotify.com/artist/4chXn8lojY5U525zyqdx9z), [SoulKit](https://open.spotify.com/artist/30FeLzJPttLVuGY9DDjsPh) | [Growing Pains](https://open.spotify.com/album/3SiU4bbSW6NBN1j8Fno6JI) | 2:05 | 2022-09-30 | 2023-01-26 |
 | [That Boy Is Mine](https://open.spotify.com/track/28IryWQ8fri3ga1jgHAZwC) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [That Boy Is Mine](https://open.spotify.com/album/4wASMJGyUVyfb3Jr0ppXoq) | 2:47 | 2024-05-01 |  |
 | [The Girl Wants a Big Boy](https://open.spotify.com/track/49Gw7CR2UNL9oX55XecN7d) | [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [The Girl Wants a Big Boy](https://open.spotify.com/album/2QyNrFYzDIEIl78Boyk9KR) | 2:28 | 2023-07-26 | 2023-09-27 |

@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 56709,
+  "num_followers": 56728,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -79,26 +79,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "Mil\u00e3o",
         "url": "https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 199972,
       "name": "Mil\u00e3o",
       "url": "https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "L0V3 Tvp3",
         "url": "https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 129729,
       "name": "Ultimo Fim (Short)",
       "url": "https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-05-10 03:01:00",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This is Lou Rawls\. The essential tracks, all in one playlist.
+> This is Lou Rawls\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,352 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,356 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 49 | [Save the Bones for Henry Jones](https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:42 |
 | 50 | [Lifetime Monologue \- Remastered](https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Edge: David Axelrod At Capitol Records 1966\-1970](https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K) | 1:51 |
 
-Snapshot ID: `ZkFYAAAAAABF+8I8XKw7ZiPGnP3UK5VU`
+Snapshot ID: `ZkFYAAAAAABUImDYdQyotR9T7ylaYS7g`

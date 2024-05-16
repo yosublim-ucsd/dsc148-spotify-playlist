@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 ### [This Is Tyga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oLcOc)
 
-> This is Tyga\. The essential tracks, all in one playlist.
+> This is Tyga\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,204 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,220 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 49 | [Skechers \(feat\. Tyga\) \- Remix](https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS) | [DripReport](https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Skechers \(feat\. Tyga\) \[Remix\]](https://open.spotify.com/album/4y9V5m70YgbZTYNZBsiXBM) | 2:43 |
 | 50 | [Wait For A Minute](https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wait For A Minute](https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69) | 3:27 |
 
-Snapshot ID: `ZkFYAAAAAACXbeyC8h/QP4ty+JbnNiwe`
+Snapshot ID: `ZkFYAAAAAAA8+G9n6z/NboJ+VDX51RJZ`

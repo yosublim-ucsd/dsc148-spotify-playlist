@@ -4,7 +4,7 @@
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our third Gold House Future Music Accelerator artists: Emei, Paravi & Towa Bird.
 
-217 songs - 11 hr 35 min
+220 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2022-05-18 | 2022-07-13 |
 | [The Weekend \- MILLI Remix](https://open.spotify.com/track/1XVQu6SXMMEJ3nc9BOGhgk) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [The Weekend \(MILLI Remix\)](https://open.spotify.com/album/4d6HwJXZUDUPC46qWPwTbq) | 2:48 | 2022-07-12 | 2023-04-30 |
 | [This Isn't Me](https://open.spotify.com/track/2foKNLF3iIbX8cs0NyGMB2) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [This Isn't Me](https://open.spotify.com/album/7IOGKde0zgOWxGdImhJ0TN) | 3:37 | 2024-03-28 | 2024-05-11 |
+| [Time to Pretend \- Spotify Singles](https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Time to Pretend \(Spotify Singles\)](https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7) | 4:03 | 2024-05-15 |  |
 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 | 2023-05-06 | 2023-05-13 |
 | [Tripwires](https://open.spotify.com/track/7tf0TNfgxBg7rt7Tvo6QrP) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Tripwires](https://open.spotify.com/album/4AUnmgLTf3bk7qW87l7wyY) | 3:18 | 2022-07-12 | 2023-04-30 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2022-05-18 |  |
@@ -212,6 +213,8 @@
 | [Want U 2 Love Me](https://open.spotify.com/track/10HcnRxq2OmMoFhkZ5Tuza) | [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Want U 2 Love Me](https://open.spotify.com/album/3vyvUCu3QyxfxMYTCyhKUv) | 3:17 | 2022-05-18 | 2022-07-13 |
 | [WASHED \(PROD\. BY SHAWN WASABI\)](https://open.spotify.com/track/5IjgA0yIKV6wz6xBU4d091) | [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [CAFE BLEU](https://open.spotify.com/album/4p0HROlKDqKNnDTq5KK0Wg) | 3:08 | 2022-05-18 | 2022-07-13 |
 | [WASTING TIME \(FEAT\. DRAKE & THE NEPTUNES\)](https://open.spotify.com/track/6N9U1wkWniSXD4TKD4ln0h) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 5:01 | 2023-05-06 | 2023-05-13 |
+| [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-15 |  |
+| [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0) | 4:05 | 2024-05-15 |  |
 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 | 2022-05-18 | 2022-07-13 |
 | [What Can I Do](https://open.spotify.com/track/4SH4MuHj0BtOTddqvPFhxI) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [What Can I Do](https://open.spotify.com/album/6P1dIrYEUtd2zGtgqdUvLL) | 4:16 | 2022-05-18 | 2022-07-13 |
 | [What I Need \(feat\. Kehlani\)](https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:39 | 2022-05-18 | 2022-07-13 |

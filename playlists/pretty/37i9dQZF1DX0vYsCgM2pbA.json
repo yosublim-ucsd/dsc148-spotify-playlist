@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 136953,
+  "num_followers": 136955,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Chase the Sun (Odd Mob Remix)",
-        "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
-      },
-      "artists": [
-        {
-          "name": "Planet Funk",
-          "url": "https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Chase the Sun (Odd Mob Remix)",
-      "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Chase the Sun (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
+      },
+      "artists": [
+        {
+          "name": "Planet Funk",
+          "url": "https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Chase the Sun (Odd Mob Remix)",
+      "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/3MZGa6ZtCziLIx5dU8hmrt"
+        "name": "TOMMY",
+        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
       },
       "artists": [
         {
-          "name": "mavzy grx",
-          "url": "https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR"
-        },
-        {
-          "name": "Kaynex",
-          "url": "https://open.spotify.com/artist/6Qb5T9ZQbxclvBqfuBJR3D"
+          "name": "WALKER.",
+          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
         }
       ],
-      "duration_ms": 132964,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1MyjLhYtURAYMGPQHxF77j"
+      "duration_ms": 212521,
+      "name": "TOMMY",
+      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
     }
   ],
   "unique_name": "Sunday Sessions",

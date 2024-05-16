@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 
 ### [This Is Delia Derbyshire](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4t4K4x)
 
-> This is Delia Derbyshire\. The essential tracks, all in one playlist.
+> This is Delia Derbyshire\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,991 likes - 39 songs - 2 hr 10 min
 
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4t4K4x.md) - [plain]
 | 38 | [Circle of Light, Pt\. 2](https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Elsa Stansfield](https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO) | [Circle of Light \(Original Electronic Soundtrack Recording\)](https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J) | 10:25 |
 | 39 | [The Afterlife, Pt\. 3](https://open.spotify.com/track/0XH8WkXHjq0Hq5BubQRxuM) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8) | [The Afterlife](https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI) | 35:13 |
 
-Snapshot ID: `ZkFYAAAAAAA/nl85B3rE/wBlHXLklMsj`
+Snapshot ID: `ZkKpgAAAAABVCreGzHgDA/oMYUv4ZYHU`

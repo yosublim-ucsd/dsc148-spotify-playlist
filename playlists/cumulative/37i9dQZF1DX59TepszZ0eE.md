@@ -2,7 +2,7 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga?si=k2\_K6pJqTdyARlv\_VNY97w>The Fellowship</a>
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw?si=HX5WGU7EReuPUGVluT3\-Vg>Ayanda Ntanzi</a>
 
 275 songs - 1 day 4 hr 10 min
 

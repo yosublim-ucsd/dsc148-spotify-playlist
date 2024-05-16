@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,926 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,157 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 47 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
 | 48 | [H.I.E.L.O.](https://open.spotify.com/track/6itjKRbqPMmx9fo4PDlLhm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [H.I.E.L.O.](https://open.spotify.com/album/2V5eHcsWILzjRzf9Z47tiX) | 3:16 |
 | 49 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 |
-| 50 | [Ahora Me Llama](https://open.spotify.com/track/4jhIWuW51XDplWJRfnG7AU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Ahora Me Llama](https://open.spotify.com/album/5G7fWlRbbz0ebcdTaEomEu) | 3:53 |
-| 51 | [Tacos Altos](https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Gargola](https://open.spotify.com/artist/5eJtlvB9Qga52zsu4GzDNA) | [Tacos Altos](https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN) | 5:06 |
+| 50 | [Tacos Altos](https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Gargola](https://open.spotify.com/artist/5eJtlvB9Qga52zsu4GzDNA) | [Tacos Altos](https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN) | 5:06 |
+| 51 | [Ahora Me Llama](https://open.spotify.com/track/4jhIWuW51XDplWJRfnG7AU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Ahora Me Llama](https://open.spotify.com/album/5G7fWlRbbz0ebcdTaEomEu) | 3:53 |
 | 52 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
 | 53 | [A fuego](https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
 | 54 | [Ready Pa Morir](https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Steve Lean](https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T) | [A.D.R.O.M.I.C.F.M.S\. 2](https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu) | 3:11 |

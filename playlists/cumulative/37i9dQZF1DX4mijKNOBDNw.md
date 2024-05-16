@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Alborotá](https://open.spotify.com/track/4U8TmShsXRikqHGAcHsyhX) | [Alea](https://open.spotify.com/artist/7Ix9zNDM7zF30F2QBQKfNS), [Luisa Bastidas](https://open.spotify.com/artist/31iuxYW2Vdi9XP8DCI25Kc) | [Alborotá](https://open.spotify.com/album/5x4tWBJAy5ciC0GWwksaU9) | 4:16 | 2024-03-07 |  |
+| [Alborotá](https://open.spotify.com/track/4U8TmShsXRikqHGAcHsyhX) | [Alea](https://open.spotify.com/artist/7Ix9zNDM7zF30F2QBQKfNS), [Luisa Bastidas](https://open.spotify.com/artist/63bqOy8a5FlnNVQ3N6TkJv) | [Alborotá](https://open.spotify.com/album/5x4tWBJAy5ciC0GWwksaU9) | 4:16 | 2024-03-07 |  |
 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 | 2023-03-10 |  |
 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 | 2023-07-21 |  |
 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 | 2023-03-10 |  |

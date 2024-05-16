@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Tageel
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,246 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,268 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 16 | [Échec \- Spotify Singles](https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Sipo](https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o) | [Échec \(Spotify Singles\)](https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt) | 3:23 |
 | 17 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
 | 18 | [CA VA CHANGER](https://open.spotify.com/track/2F8dlGXBefyzEdGgTX51eB) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [CA VA CHANGER](https://open.spotify.com/album/5SL4UrYn4VkqJT0ca8FmBR) | 3:52 |
-| 19 | [MATAL3ACH](https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MATAL3ACH](https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH) | 2:55 |
-| 20 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 |
+| 19 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 |
+| 20 | [MATAL3ACH](https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MATAL3ACH](https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH) | 2:55 |
 | 21 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 |
 | 22 | [PAGHIIIIIIIIIIZ](https://open.spotify.com/track/6I1Nu4OyIr7xnja8tAOBGf) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [PAGHIIIIIIIIIIZ](https://open.spotify.com/album/3MADWJj5uRlmXYzHpZMQ9X) | 2:22 |
 | 23 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 26 | [Tal Abib](https://open.spotify.com/track/2i6giSzSXbv6ByxD1EU2Lg) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [SULTAN](https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M) | 3:15 |
 | 27 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 |
 | 28 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |
-| 29 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
-| 30 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
+| 29 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
+| 30 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
 | 31 | [ERZO2NA YA KAREEM](https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [WELAD EL 7ARA](https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL) | 2:38 |
 | 32 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
 | 33 | [3arabawy](https://open.spotify.com/track/08b9YG42AnVIh70EwEeLpX) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [EL 3ARAB](https://open.spotify.com/album/5sgTY990OE2XMzxrn3Ob5I) | 2:09 |

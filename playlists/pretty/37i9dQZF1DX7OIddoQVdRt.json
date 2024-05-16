@@ -1,6 +1,6 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 621634,
+  "num_followers": 621655,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Only One Night Tho (Radio Edit / Live)",
+        "url": "https://open.spotify.com/album/2Tp2cYv7h7bFQGs4zLmyVs"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Only One Night Tho - Radio Edit / Live",
+      "url": "https://open.spotify.com/track/7uEZ2aSvXYd2Qlnz12avMr"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Worth It",
         "url": "https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 291203,
       "name": "Trusting God",
       "url": "https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Only One Night Tho (Radio Edit / Live)",
-        "url": "https://open.spotify.com/album/2Tp2cYv7h7bFQGs4zLmyVs"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Only One Night Tho - Radio Edit / Live",
-      "url": "https://open.spotify.com/track/7uEZ2aSvXYd2Qlnz12avMr"
     },
     {
       "added_at": "2024-02-02 06:37:59",

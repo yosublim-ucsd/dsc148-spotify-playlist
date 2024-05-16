@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 ### [This Is Vangelis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pv5ZK)
 
-> This is Vangelis\. Tutti i brani in un'unica playlist.
+> This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,731 likes - 42 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,745 likes - 42 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 41 | [Bon Voyage](https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:32 |
 | 42 | [12 O'Clock](https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 5:31 |
 
-Snapshot ID: `ZkFYAAAAAACukUrEOLN51bjKDquT9BC6`
+Snapshot ID: `ZkFYAAAAAACfSRTY+NrR/Q6YSOpvgf4n`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "This is 2Baba. The essential tracks, all in one playlist.",
+  "description": "This is 2Baba. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is 2Baba",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 262986,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 202569,
       "name": "Baba Nla",
       "url": "https://open.spotify.com/track/741bGvXuyaHaiFZrVEtLza"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 345000,
       "name": "Keep On Rocking",
       "url": "https://open.spotify.com/track/3jDiJeeFb0Q81eqBzAzKHt"

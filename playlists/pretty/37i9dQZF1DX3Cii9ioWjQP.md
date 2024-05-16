@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Yeri Kang\(강예리\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,962 likes - 107 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,978 likes - 107 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

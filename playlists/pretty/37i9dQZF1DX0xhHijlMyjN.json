@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 342373,
+  "num_followers": 342366,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 314760,
-      "name": "Hot Stuff",
-      "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 211680,
       "name": "La Mordidita (feat. Yotuel)",
       "url": "https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 314760,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "The King Of Dance",
-        "url": "https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Bailando por Ahi",
-      "url": "https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Por la boca vive el pez",
         "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 269373,
       "name": "Por la boca vive el pez",
       "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "The King Of Dance",
+        "url": "https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Bailando por Ahi",
+      "url": "https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Rayos de Sol",
         "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 231562,
       "name": "Rayos de Sol",
       "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "Ella Elle L A",
-      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Diez De Corazon",
         "url": "https://open.spotify.com/album/5VKlRdgddALI9Y0pra5FBV"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 212400,
       "name": "Cuando zarpa el amor",
       "url": "https://open.spotify.com/track/0GzQB5WXavUEU8tfTCAd8m"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "Ella Elle L A",
+      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
-      },
-      "artists": [
-        {
-          "name": "King Africa",
-          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Tacat\u00e0",
         "url": "https://open.spotify.com/album/6Th9OWjLOcPPw08RcgvjvF"
       },
@@ -1771,22 +1755,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Y Yo Sigo Aqui - Spanglish",
-      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -1803,6 +1771,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Y Yo Sigo Aqui - Spanglish",
+      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Macarena (EP)",
         "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 224626,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/6P73QHeqdIP1AnJYopAPB2"
+      },
+      "artists": [
+        {
+          "name": "King Africa",
+          "url": "https://open.spotify.com/artist/2vAu3qMgOvtukijgajuXhM"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/5UmGJS0jd1r52OjnNvVHvU"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "El Venao",
-      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Ley Del Desierto",
         "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 210840,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "El Venao",
+      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "A Mi Me Gusta",
-        "url": "https://open.spotify.com/album/4bwxtHOuh3Z1AI672en2ap"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Macarena",
-      "url": "https://open.spotify.com/track/4Y6cDd4EPHcEbiUKdyvNwM"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Como te d\u00e9 la gana",
         "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 300026,
       "name": "Las cosas peque\u00f1itas - Mix",
       "url": "https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "A Mi Me Gusta",
+        "url": "https://open.spotify.com/album/4bwxtHOuh3Z1AI672en2ap"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Macarena",
+      "url": "https://open.spotify.com/track/4Y6cDd4EPHcEbiUKdyvNwM"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Lola Lolita Lola",
+        "url": "https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Sarandonga",
+      "url": "https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Lola Lolita Lola",
-        "url": "https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY"
-      },
-      "artists": [
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Sarandonga",
-      "url": "https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv"
     },
     {
       "added_at": "2023-06-09 09:38:51",

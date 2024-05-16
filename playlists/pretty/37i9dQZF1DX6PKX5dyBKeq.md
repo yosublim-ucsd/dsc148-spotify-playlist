@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Fredo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,365,285 likes - 59 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,365,485 likes - 59 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

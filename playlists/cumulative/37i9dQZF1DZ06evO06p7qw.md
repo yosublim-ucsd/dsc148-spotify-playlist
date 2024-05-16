@@ -2,7 +2,7 @@
 
 ### [This Is Manuel Medrano](https://open.spotify.com/playlist/37i9dQZF1DZ06evO06p7qw)
 
-> This is Manuel Medrano\. The essential tracks, all in one playlist.
+> This Is Manuel Medrano\. Los temas esenciales, todos en una lista.
 
 35 songs - 1 hr 57 min
 

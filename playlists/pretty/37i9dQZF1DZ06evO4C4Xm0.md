@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 ### [This Is Brian Eno](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4C4Xm0)
 
-> This is Brian Eno\. The essential tracks, all in one playlist.
+> This is Brian Eno\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,190 likes - 48 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,205 likes - 48 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 47 | [Inland Sea \- Remastered 2005](https://open.spotify.com/track/6BifiuqnYOsOtb3QaLGJ65) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 1:24 |
 | 48 | [Prophecy Theme](https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C6579KEvJj9AWaZtjSflC) | 4:21 |
 
-Snapshot ID: `ZkFYAAAAAABE4EAWmQd8H76VmjYaNRRp`
+Snapshot ID: `ZkKpgAAAAAABjAiWXLZ4AIT9j9HNuaJo`

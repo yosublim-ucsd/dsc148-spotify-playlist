@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Loreen",
-  "num_followers": 474363,
+  "num_followers": 474488,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/2PBAY0D3H5TvuxWY0lGCAG"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "duration_ms": 219292,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/2VO9zYsVMrs0wEFry2nCEX"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Draw Energy",
         "url": "https://open.spotify.com/album/2LBnmzCPyp1ZFFSLXzb3EY"
       },
@@ -755,22 +775,38 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Shining",
-        "url": "https://open.spotify.com/album/2PBAY0D3H5TvuxWY0lGCAG"
+        "name": "the things that bring me joy",
+        "url": "https://open.spotify.com/album/3JVhoz6UJv6hrpRtPXtdJh"
       },
       "artists": [
         {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        },
-        {
-          "name": "Ekko",
-          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+          "name": "Luca",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
         }
       ],
-      "duration_ms": 219292,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/2VO9zYsVMrs0wEFry2nCEX"
+      "duration_ms": 179047,
+      "name": "the things that bring me joy",
+      "url": "https://open.spotify.com/track/3OWoUTFewCAnGIkFHdL6KK"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "What You Looking For",
+        "url": "https://open.spotify.com/album/0xpzEqmImstaRCOo64kOta"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "What You Looking For",
+      "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -799,26 +835,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "What You Looking For",
-        "url": "https://open.spotify.com/album/0xpzEqmImstaRCOo64kOta"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 182343,
-      "name": "What You Looking For",
-      "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Never The Same",
         "url": "https://open.spotify.com/album/3hyLkl40NjsOlVIpiwogkx"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 254896,
       "name": "Never The Same",
       "url": "https://open.spotify.com/track/6kpuDsMjwdOpXwCKOmzs7D"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "the things that bring me joy",
-        "url": "https://open.spotify.com/album/3JVhoz6UJv6hrpRtPXtdJh"
-      },
-      "artists": [
-        {
-          "name": "Luca",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "the things that bring me joy",
-      "url": "https://open.spotify.com/track/3OWoUTFewCAnGIkFHdL6KK"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Never Tried",
+        "url": "https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 269468,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Triste Serenata (feat. French Braids)",
         "url": "https://open.spotify.com/album/6j3fx2vu92EnJiCtY2LDnm"
       },
@@ -915,22 +935,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Never Tried",
-        "url": "https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF"
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
       },
       "artists": [
         {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
         }
       ],
-      "duration_ms": 269468,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD"
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -951,22 +967,6 @@
       "duration_ms": 146190,
       "name": "Suicidal Love",
       "url": "https://open.spotify.com/track/7FY6QQTpFO6G91bjut6uld"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Let Go / I'm Fresh",
-        "url": "https://open.spotify.com/album/1ZWiS4FLm40D56GyfnINw5"
-      },
-      "artists": [
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
-        },
-        {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
-        },
-        {
-          "name": "Thaiboy Digital",
-          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
-        }
-      ],
-      "duration_ms": 189536,
-      "name": "Let Go / I'm Fresh",
-      "url": "https://open.spotify.com/track/4rcu1W1it83gp3xahJ7pIi"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Off My Mind (feat. Bien and Moliy)",
         "url": "https://open.spotify.com/album/4xPh4wkRpIrYY76XUwb4EU"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 255072,
       "name": "Off My Mind (feat. Bien and Moliy)",
       "url": "https://open.spotify.com/track/7guMnTaBWCDcOWONIYZTGp"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Let Go / I'm Fresh",
+        "url": "https://open.spotify.com/album/1ZWiS4FLm40D56GyfnINw5"
+      },
+      "artists": [
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        },
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+        },
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        }
+      ],
+      "duration_ms": 189536,
+      "name": "Let Go / I'm Fresh",
+      "url": "https://open.spotify.com/track/4rcu1W1it83gp3xahJ7pIi"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/4AwEMmqkq5iLXpjHlXF6GR"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 236782,
-      "name": "Heartbreak",
-      "url": "https://open.spotify.com/track/269hT1ugct4fdJ2dmB20SJ"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Limosina",
         "url": "https://open.spotify.com/album/3bgPVDYyNQYmGDCARiVH0O"
       },
@@ -1191,18 +1171,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Digital Diva EP",
-        "url": "https://open.spotify.com/album/3fhXpGXn9d9cvWNlIp533B"
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/4AwEMmqkq5iLXpjHlXF6GR"
       },
       "artists": [
         {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
         }
       ],
-      "duration_ms": 251711,
-      "name": "Digital Diva",
-      "url": "https://open.spotify.com/track/2pqBlfahT0qcHv8zcmLaDD"
+      "duration_ms": 236782,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/269hT1ugct4fdJ2dmB20SJ"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1223,6 +1207,38 @@
       "duration_ms": 119400,
       "name": "Wingman",
       "url": "https://open.spotify.com/track/6a3X6vVgYk94vgRQ4NFq3e"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Digital Diva EP",
+        "url": "https://open.spotify.com/album/3fhXpGXn9d9cvWNlIp533B"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 251711,
+      "name": "Digital Diva",
+      "url": "https://open.spotify.com/track/2pqBlfahT0qcHv8zcmLaDD"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Meia Lua",
+        "url": "https://open.spotify.com/album/3lBx3M2hpoB1JOx4a8U5fT"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 377171,
+      "name": "Meia Lua",
+      "url": "https://open.spotify.com/track/0c8wD5hGVp3FVznjKZqjTv"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1251,6 +1267,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "So High (feat. Jake Neumar)",
+        "url": "https://open.spotify.com/album/1eVu0SrVlIWX3DZ2Dv3ukq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "duration_ms": 134328,
+      "name": "So High (feat. Jake Neumar)",
+      "url": "https://open.spotify.com/track/71sRb28zCnX53agrl1nerV"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Hammer Of Light",
         "url": "https://open.spotify.com/album/2LprIC2tGBVE386b7ZvMoF"
       },
@@ -1267,22 +1303,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Meia Lua",
-        "url": "https://open.spotify.com/album/3lBx3M2hpoB1JOx4a8U5fT"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 377171,
-      "name": "Meia Lua",
-      "url": "https://open.spotify.com/track/0c8wD5hGVp3FVznjKZqjTv"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Keep Running",
         "url": "https://open.spotify.com/album/10H11duJcDXKqFA6qZs0ri"
       },
@@ -1295,6 +1315,26 @@
       "duration_ms": 210000,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/0Qdrt4scL06gfBy2jNnXqB"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Queen's Gambit",
+        "url": "https://open.spotify.com/album/6rDGp7D3g7YfdrHy7VGKDC"
+      },
+      "artists": [
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        },
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Queen's Gambit",
+      "url": "https://open.spotify.com/track/1Xspvf3cDTzevSzTLmxop3"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1343,26 +1383,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Queen's Gambit",
-        "url": "https://open.spotify.com/album/6rDGp7D3g7YfdrHy7VGKDC"
-      },
-      "artists": [
-        {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
-        },
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Queen's Gambit",
-      "url": "https://open.spotify.com/track/1Xspvf3cDTzevSzTLmxop3"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Foe Or Friend (feat. hanna \u00f6gonsten)",
         "url": "https://open.spotify.com/album/5eHMgCpgUN4mQeGxdBrmH5"
       },
@@ -1383,42 +1403,6 @@
       "duration_ms": 181038,
       "name": "Foe Or Friend (feat. hanna \u00f6gonsten)",
       "url": "https://open.spotify.com/track/3lsscWET0b3LXF4FqIq3mY"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "So High (feat. Jake Neumar)",
-        "url": "https://open.spotify.com/album/1eVu0SrVlIWX3DZ2Dv3ukq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Jake Neumar",
-          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
-        }
-      ],
-      "duration_ms": 134328,
-      "name": "So High (feat. Jake Neumar)",
-      "url": "https://open.spotify.com/track/71sRb28zCnX53agrl1nerV"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Bon Bon",
-        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Bon Bon",
-      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 220689,
       "name": "I Am Here",
       "url": "https://open.spotify.com/track/25JwRq7ahtwS2seUFnGZDv"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Bon Bon",
+        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Bon Bon",
+      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Give Into You (feat. DEEGAN)",
-        "url": "https://open.spotify.com/album/397yDlzugnQUg4kIQ7qYqf"
-      },
-      "artists": [
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        },
-        {
-          "name": "DEEGAN",
-          "url": "https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi"
-        }
-      ],
-      "duration_ms": 180606,
-      "name": "Give Into You (feat. DEEGAN)",
-      "url": "https://open.spotify.com/track/42Gs6j2AAzhChm8tjpXWfC"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Kasmir",
         "url": "https://open.spotify.com/album/1hlBAsU7SOBpU2gN6hb1Ig"
       },
@@ -1559,6 +1539,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Give Into You (feat. DEEGAN)",
+        "url": "https://open.spotify.com/album/397yDlzugnQUg4kIQ7qYqf"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        },
+        {
+          "name": "DEEGAN",
+          "url": "https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi"
+        }
+      ],
+      "duration_ms": 180606,
+      "name": "Give Into You (feat. DEEGAN)",
+      "url": "https://open.spotify.com/track/42Gs6j2AAzhChm8tjpXWfC"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Can U Feel It",
         "url": "https://open.spotify.com/album/42Ds5ReqdxeGI2mEhXdB4I"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 230977,
       "name": "Can U Feel It - Edit",
       "url": "https://open.spotify.com/track/0FYggah8NFPh30vZMxItTu"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Swear You",
-        "url": "https://open.spotify.com/album/2z14yrXtqtTt0GfyWzQZeu"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        }
-      ],
-      "duration_ms": 157285,
-      "name": "Swear You",
-      "url": "https://open.spotify.com/track/5CjvuXkLEJEmWtSRFr5hv7"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1611,18 +1595,42 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Guardian",
-        "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
+        "name": "Swear You",
+        "url": "https://open.spotify.com/album/2z14yrXtqtTt0GfyWzQZeu"
       },
       "artists": [
         {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
         }
       ],
-      "duration_ms": 443500,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
+      "duration_ms": 157285,
+      "name": "Swear You",
+      "url": "https://open.spotify.com/track/5CjvuXkLEJEmWtSRFr5hv7"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/33stvG0aeAfYvDAluIoNy9"
+      },
+      "artists": [
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "duration_ms": 157102,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/0wlRwjz9gsEE7e8yHR6Gl6"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1663,6 +1671,54 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/5CtuvqCkEu11jscm6KkU7t"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 172610,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/0PyX0nNJjFCGPIMrlXUN1U"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/2sKAxyHcmubDYboK9FLfXY"
+      },
+      "artists": [
+        {
+          "name": "KhoMha",
+          "url": "https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW"
+        }
+      ],
+      "duration_ms": 146072,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1djmhP4WWNzGfFxHog2LCK"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "duration_ms": 443500,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/1KzUhr5XqwBkTt6kmcPFDa"
       },
@@ -1699,38 +1755,6 @@
       "duration_ms": 200465,
       "name": "venus' secret",
       "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Gimme",
-        "url": "https://open.spotify.com/album/5CtuvqCkEu11jscm6KkU7t"
-      },
-      "artists": [
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 172610,
-      "name": "Gimme",
-      "url": "https://open.spotify.com/track/0PyX0nNJjFCGPIMrlXUN1U"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/2sKAxyHcmubDYboK9FLfXY"
-      },
-      "artists": [
-        {
-          "name": "KhoMha",
-          "url": "https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW"
-        }
-      ],
-      "duration_ms": 146072,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/1djmhP4WWNzGfFxHog2LCK"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1787,30 +1811,6 @@
       "duration_ms": 217664,
       "name": "We Want Your Soul",
       "url": "https://open.spotify.com/track/43K2wzrSapU9EIpQaofNcm"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/33stvG0aeAfYvDAluIoNy9"
-      },
-      "artists": [
-        {
-          "name": "Jude & Frank",
-          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
-        },
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
-        }
-      ],
-      "duration_ms": 157102,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/0wlRwjz9gsEE7e8yHR6Gl6"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Nija (Radio Edit)",
-        "url": "https://open.spotify.com/album/6d3iaKBEebIihWF2M2f4Ip"
-      },
-      "artists": [
-        {
-          "name": "Robin M",
-          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
-        },
-        {
-          "name": "&lez",
-          "url": "https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq"
-        }
-      ],
-      "duration_ms": 176065,
-      "name": "Nija - Radio Edit",
-      "url": "https://open.spotify.com/track/4QkyeFaUarSuVor9bMhjTu"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Shakin' That Thing",
         "url": "https://open.spotify.com/album/2rsomI4ZKvbgzkBwKyJpIF"
       },
@@ -1927,18 +1907,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Deep in my Feelings / On Hold",
-        "url": "https://open.spotify.com/album/3gXun50dL6NMB4Ohw66Ouj"
+        "name": "Nija (Radio Edit)",
+        "url": "https://open.spotify.com/album/6d3iaKBEebIihWF2M2f4Ip"
       },
       "artists": [
         {
-          "name": "SOBSTORY",
-          "url": "https://open.spotify.com/artist/62PBdD7isGPH0H71lLUqa9"
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "&lez",
+          "url": "https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq"
         }
       ],
-      "duration_ms": 264808,
-      "name": "On Hold",
-      "url": "https://open.spotify.com/track/38sKhaMBmy1NrGskTAvNkI"
+      "duration_ms": 176065,
+      "name": "Nija - Radio Edit",
+      "url": "https://open.spotify.com/track/4QkyeFaUarSuVor9bMhjTu"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1959,6 +1943,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Deep in my Feelings / On Hold",
+        "url": "https://open.spotify.com/album/3gXun50dL6NMB4Ohw66Ouj"
+      },
+      "artists": [
+        {
+          "name": "SOBSTORY",
+          "url": "https://open.spotify.com/artist/62PBdD7isGPH0H71lLUqa9"
+        }
+      ],
+      "duration_ms": 264808,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/38sKhaMBmy1NrGskTAvNkI"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Give You My Love",
         "url": "https://open.spotify.com/album/3pp00p6UycBCQhVs9pFIxj"
       },
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/4DSlNzzpweJKlAVap35qOi"
-      },
-      "artists": [
-        {
-          "name": "AKOA",
-          "url": "https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq"
-        }
-      ],
-      "duration_ms": 194942,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/4MpMQg0v6Gi54W8a5gxQH6"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "KarateCat",
         "url": "https://open.spotify.com/album/5lpFoLKyzSM8gsLjlZy00y"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 202558,
       "name": "KarateCat",
       "url": "https://open.spotify.com/track/4ZudaK7D1PiHoBndGMXkmS"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/4DSlNzzpweJKlAVap35qOi"
+      },
+      "artists": [
+        {
+          "name": "AKOA",
+          "url": "https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq"
+        }
+      ],
+      "duration_ms": 194942,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/4MpMQg0v6Gi54W8a5gxQH6"
     },
     {
       "added_at": "2024-05-10 04:00:00",

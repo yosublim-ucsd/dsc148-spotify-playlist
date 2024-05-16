@@ -14259,6 +14259,24 @@
     },
     {
       "album": {
+        "name": "jacarandas",
+        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
+      },
+      "artists": [
+        {
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138480,
+      "name": "jacarandas",
+      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
+    },
+    {
+      "album": {
         "name": "Modest Alterations",
         "url": "https://open.spotify.com/album/3tRqe75XYpnH1uJzW72MDR"
       },

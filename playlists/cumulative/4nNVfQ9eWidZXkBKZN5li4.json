@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+        "url": "https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc"
+      },
+      "artists": [
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Mohammad Faiz",
+          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281511,
+      "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
+    },
+    {
+      "album": {
         "name": "Desi Bop",
         "url": "https://open.spotify.com/album/3NHo9d6ouStZfWRDQnJUe6"
       },

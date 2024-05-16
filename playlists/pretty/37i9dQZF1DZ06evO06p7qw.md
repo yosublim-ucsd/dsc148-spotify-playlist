@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 ### [This Is Manuel Medrano](https://open.spotify.com/playlist/37i9dQZF1DZ06evO06p7qw)
 
-> This is Manuel Medrano\. The essential tracks, all in one playlist.
+> This Is Manuel Medrano\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,839 likes - 30 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,937 likes - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 29 | [Esta Noche](https://open.spotify.com/track/17kYZzod8GRk75cjWaaOBC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:56 |
 | 30 | [Cadillac \(feat\. Manuel Medrano\)](https://open.spotify.com/track/7oAdQEMMDrPusH5vhoL2fI) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Cuerpo y Alma](https://open.spotify.com/album/3Y5VB4scWDZAqa0CxD3uP9) | 3:27 |
 
-Snapshot ID: `ZkFYAAAAAAC4DxSSAAn20hwOt9P7BDw1`
+Snapshot ID: `ZkFYAAAAAADt5PL//IKZzdnsQhFHOsXP`

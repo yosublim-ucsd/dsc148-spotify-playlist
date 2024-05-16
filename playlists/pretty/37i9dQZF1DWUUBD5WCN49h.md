@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: F3line
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,932 likes - 81 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,940 likes - 81 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

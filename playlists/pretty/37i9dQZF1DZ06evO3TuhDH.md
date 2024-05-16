@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 ### [This Is Coi Leray](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TuhDH)
 
-> This is Coi Leray\. The essential tracks, all in one playlist.
+> This is Coi Leray\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,138 likes - 51 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,150 likes - 51 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 50 | [Better Days \(feat\. Fetty Wap\)](https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Better Days](https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW) | 2:29 |
 | 51 | [I Like It \(feat\. Kiana Lede & Sevyn Streeter\)](https://open.spotify.com/track/6C1yG7dmGZQcIxtHADDLeS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:30 |
 
-Snapshot ID: `ZkFYAAAAAADEhQ1Eq0IgxkazpaE5PAxC`
+Snapshot ID: `ZkFYAAAAAAAxHstC67DzZHLj7puCrfnc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Icy Subzero
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,826 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,831 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 73 | [PLAYA](https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [PLAYA](https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE) | 2:34 |
 | 74 | [Fuego \(with Geolier & Lele Blade\) \- Prod\. Poison Beatz, Tom Trigger](https://open.spotify.com/track/6XPYGFacwZAtmoSVi9m4eT) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [Tom Trigger](https://open.spotify.com/artist/4Jinezf0Ayl2LIVhjZmAQY) | [Fuego \(with Geolier & Lele Blade\)](https://open.spotify.com/album/6vg4EEDeuaFCycPHR2Iyyy) | 2:56 |
 | 75 | [Candy](https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Bovychulo](https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI) | [Non Lo So](https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa) | 2:22 |
-| 76 | [HUH?](https://open.spotify.com/track/5yUcawImV9VeElsec6QOFy) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:04 |
-| 77 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
-| 78 | [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 |
+| 76 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
+| 77 | [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 |
+| 78 | [HUH?](https://open.spotify.com/track/5yUcawImV9VeElsec6QOFy) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:04 |
 | 79 | [PULL UP \(feat\. Big P\)](https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [IL MINORENNE + BASTARDO](https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE) | 2:46 |
 | 80 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 |
 

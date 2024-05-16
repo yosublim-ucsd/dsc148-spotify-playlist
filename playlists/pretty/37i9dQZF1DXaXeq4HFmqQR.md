@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Vlntna B
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,475 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,478 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 33 | [14F](https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [14F](https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0) | 2:22 |
 | 34 | [Adentro](https://open.spotify.com/track/65nQli6Slisl9Ksu6o0yLN) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Adentro](https://open.spotify.com/album/3WTzAP8jDP47QJ5XxpfgOt) | 3:18 |
 | 35 | [No Verán](https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Heredera del Surrealismo](https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp) | 3:25 |
-| 36 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 |
-| 37 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
+| 36 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
+| 37 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 |
 | 38 | [Y Bailamos Tanto](https://open.spotify.com/track/2416mJlOs5VYd4sJYp5TAk) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 3:48 |
 | 39 | [Negociemos](https://open.spotify.com/track/2uWe03F58LgGYg1px68izl) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [...Más Canciones De Amor](https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7) | 2:44 |
 | 40 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 |

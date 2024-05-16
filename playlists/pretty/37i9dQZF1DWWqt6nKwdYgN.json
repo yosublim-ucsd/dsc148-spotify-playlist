@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13892,
+  "num_followers": 13891,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -107,7 +107,7 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "La practica",
+        "name": "La pr\u00e1ctica",
         "url": "https://open.spotify.com/album/6jTRyRI7EFAOHlQJNWdIeS"
       },
       "artists": [
@@ -125,7 +125,7 @@
         }
       ],
       "duration_ms": 185714,
-      "name": "La practica",
+      "name": "La pr\u00e1ctica",
       "url": "https://open.spotify.com/track/4SovKXdjENCdKchfYzxEp7"
     },
     {
@@ -395,30 +395,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "Tributos",
         "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 213097,
       "name": "Tributos",
       "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -611,34 +611,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
-      },
-      "artists": [
-        {
-          "name": "AMBKOR",
-          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
-        },
-        {
-          "name": "ZPU",
-          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
-        },
-        {
-          "name": "Morodo",
-          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
-        },
-        {
-          "name": "El Santo",
-          "url": "https://open.spotify.com/artist/0X0o5wsXqn6uunus02kGvF"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -667,26 +639,30 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Intento Tras Intento",
-        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
       },
       "artists": [
         {
-          "name": "El Muisca",
-          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
         },
         {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
         },
         {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "El Santo",
+          "url": "https://open.spotify.com/artist/0X0o5wsXqn6uunus02kGvF"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Intento Tras Intento",
-      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+      "duration_ms": 285333,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -711,6 +687,30 @@
       "duration_ms": 199997,
       "name": "Millo",
       "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "Intento Tras Intento",
+        "url": "https://open.spotify.com/album/2LglQCv5q8IgsDCjEeADuZ"
+      },
+      "artists": [
+        {
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Intento Tras Intento",
+      "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "EL POINT",
+        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "B Noize",
+          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "EL POINT",
+      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "A Solas",
         "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
       },
@@ -1171,22 +1191,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "3 RAP",
-        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 255339,
-      "name": "3 RAP",
-      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "Qu\u00e9mele",
         "url": "https://open.spotify.com/album/6kIMIdFssq2DDjCAgK38sY"
       },
@@ -1203,22 +1207,38 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "EL POINT",
-        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
+        "name": "3 RAP",
+        "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
       },
       "artists": [
         {
-          "name": "Deyco",
-          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
-        },
-        {
-          "name": "B Noize",
-          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
         }
       ],
-      "duration_ms": 150000,
-      "name": "EL POINT",
-      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+      "duration_ms": 255339,
+      "name": "3 RAP",
+      "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "duration_ms": 186197,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1259,46 +1279,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        }
-      ],
-      "duration_ms": 186197,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "El Principio",
-        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
-      },
-      "artists": [
-        {
-          "name": "Santo Dinero",
-          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "El Principio",
-      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "Cuervos",
         "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 234482,
       "name": "Cuervos",
       "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "El Principio",
+        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
+      },
+      "artists": [
+        {
+          "name": "Santo Dinero",
+          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "El Principio",
+      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "Una Mente Maestra",
+        "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Blanco",
+          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
+        }
+      ],
+      "duration_ms": 139242,
+      "name": "Una Mente Maestra",
+      "url": "https://open.spotify.com/track/2etbjacmMCxwtK9b4h8uWt"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "Flow Con Chile",
         "url": "https://open.spotify.com/album/5fP7HDv4ruXjQUD7iHFaya"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 202142,
       "name": "Flow Con Chile",
       "url": "https://open.spotify.com/track/33loMBQRY4NoftPVpi5tXP"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "Una Mente Maestra",
-        "url": "https://open.spotify.com/album/55EEugwNTTREKtChknjVBK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Blanco",
-          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
-        }
-      ],
-      "duration_ms": 139242,
-      "name": "Una Mente Maestra",
-      "url": "https://open.spotify.com/track/2etbjacmMCxwtK9b4h8uWt"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "Dejarte Ir",
+        "url": "https://open.spotify.com/album/5OYnIBzVXNJUPb34RP6jnc"
+      },
+      "artists": [
+        {
+          "name": "Free Stayla",
+          "url": "https://open.spotify.com/artist/4VjVuN6ChJOzpF5Xj5fpgj"
+        }
+      ],
+      "duration_ms": 248780,
+      "name": "Dejarte Ir",
+      "url": "https://open.spotify.com/track/3cWxlNfcUWXlIU76nyMDhE"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "DE POR VIDA",
         "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 184665,
       "name": "De Por Vida",
       "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "Dejarte Ir",
-        "url": "https://open.spotify.com/album/5OYnIBzVXNJUPb34RP6jnc"
-      },
-      "artists": [
-        {
-          "name": "Free Stayla",
-          "url": "https://open.spotify.com/artist/4VjVuN6ChJOzpF5Xj5fpgj"
-        }
-      ],
-      "duration_ms": 248780,
-      "name": "Dejarte Ir",
-      "url": "https://open.spotify.com/track/3cWxlNfcUWXlIU76nyMDhE"
     }
   ],
   "unique_name": "Rimas Frescas ",

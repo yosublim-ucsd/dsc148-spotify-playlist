@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 
 ### [This Is Los Huracanes del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rBMR2)
 
-> This Is Los Huracanes del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Huracanes del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,355 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,381 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 49 | [Tu Decides](https://open.spotify.com/track/5tPAWUWH0HaMtAu0beheuX) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Haciendo Historia 30 Exitos](https://open.spotify.com/album/5R5JUyEYAgad5gVpAK1zHL) | 3:00 |
 | 50 | [Por Eso La Deje](https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Por Eso La Deje](https://open.spotify.com/album/63EVky6PEKdJYaBowGkYBg) | 4:20 |
 
-Snapshot ID: `ZkFYAAAAAAC6ZCE+XFh598OI5HOeqy0Y`
+Snapshot ID: `ZkFYAAAAAAAtUOeMfZdvTe4Tb+BepF1P`

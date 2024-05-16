@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 931242,
+  "num_followers": 931288,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Alok Club Series 2023",
         "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/2PGry3FEMPn9VBFcr6FODv"
-      },
-      "artists": [
-        {
-          "name": "Landis",
-          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
-        }
-      ],
-      "duration_ms": 176190,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/0TCa6Fxfk2eht9jKeeqfiq"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/2PGry3FEMPn9VBFcr6FODv"
+      },
+      "artists": [
+        {
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
+        }
+      ],
+      "duration_ms": 176190,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/0TCa6Fxfk2eht9jKeeqfiq"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "U & Me (Vincent Remix)",
         "url": "https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 238806,
       "name": "U & Me - Vincent Remix",
       "url": "https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "I'm Drunk (feat. AMY MIY\u00da)",
-        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
-      },
-      "artists": [
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
-        }
-      ],
-      "duration_ms": 150234,
-      "name": "I'm Drunk (feat. AMY MIY\u00da)",
-      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "GET UP",
+        "url": "https://open.spotify.com/album/5ff7DSLlZzySv5O852661B"
+      },
+      "artists": [
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "GET UP",
+      "url": "https://open.spotify.com/track/4ctWoGhGaw8mwgF3fwn3gr"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "On My Line",
         "url": "https://open.spotify.com/album/63hVrszqSChih5vJ18lquM"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 202462,
       "name": "On My Line",
       "url": "https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "GET UP",
-        "url": "https://open.spotify.com/album/5ff7DSLlZzySv5O852661B"
-      },
-      "artists": [
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        }
-      ],
-      "duration_ms": 144374,
-      "name": "GET UP",
-      "url": "https://open.spotify.com/track/4ctWoGhGaw8mwgF3fwn3gr"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Let's Rock",
-        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        }
-      ],
-      "duration_ms": 209062,
-      "name": "Let's Rock",
-      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Set The Tempo (feat. HQA)",
         "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 183434,
       "name": "Set The Tempo (feat. HQA)",
       "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Let's Rock",
+        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 209062,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
     },
     {
       "added_at": "2024-05-10 04:00:00",

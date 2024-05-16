@@ -4,7 +4,7 @@
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-161 songs - 10 hr 21 min
+162 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Mix Juguito De Pina](https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG) | [Simba Musical](https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J) | [Con Carino A Oaxaca](https://open.spotify.com/album/0IuDm4Z0RGNVsPZBDcNnUJ) | 5:54 | 2021-09-14 | 2022-07-29 |
 | [Mix los Rancheros de Río Maule](https://open.spotify.com/track/47O94XZX1cSTqo9SuDuO23) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 6:42 | 2022-01-24 | 2022-02-16 |
 | [Muchachita Consentida](https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:31 | 2021-09-14 |  |
-| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2023-11-10 |  |
+| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2023-11-10 | 2024-05-16 |
 | [Más Que Tu Amigo](https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tu Amor O Tu Desprecio](https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW) | 3:29 | 2021-09-14 |  |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2021-09-14 |  |
 | [No Te Voy a Perdonar](https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy A Perdonar, Vol\. 4](https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW) | 3:52 | 2023-02-13 | 2024-04-19 |
@@ -152,6 +152,7 @@
 | [Tres Días](https://open.spotify.com/track/1mY01eh7JrKAXDoC9JULlY) | [Pianica Maeda & Mumbia Y Sus Candelosos](https://open.spotify.com/artist/7Bm1zLJhOrvTIIWB4hYOUZ) | [Tres Días](https://open.spotify.com/album/4ynV4pOaULTyRwGZErX5Dn) | 4:22 | 2023-02-16 | 2023-11-11 |
 | [Tu No Eres un Angel](https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu No Eres un Angel](https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H) | 3:11 | 2024-05-03 |  |
 | [Tu Traición](https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Tu Amor Secreto](https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c) | 3:34 | 2021-09-14 |  |
+| [Tu Y Yo \- Cumbia Remix](https://open.spotify.com/track/5ZYR17P7sT73hcIMn9tmZ8) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 3:52 | 2023-11-10 |  |
 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 | 2022-04-22 | 2024-04-19 |
 | [Un Sueño](https://open.spotify.com/track/3fbALzbCtA459yOAJ2FChx) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Mi Colección](https://open.spotify.com/album/28iH8QQN9CbafK21M0BebE) | 3:45 | 2021-09-14 | 2022-07-29 |
 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 | 2021-09-14 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-1,366 songs - 3 day 3 hr 6 min
+1,368 songs - 3 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Day & Night \- Extended Mix](https://open.spotify.com/track/6w1w9L1X7TQ36XY5wgllxN) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [Day & Night](https://open.spotify.com/album/7f9kvVgYzIrkycQ11LkZ7Z) | 3:04 | 2023-04-16 |  |
 | [Day After Day \- Tatsunoshin Remix](https://open.spotify.com/track/6RlplSQyudbgUxhjnW0lj4) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Day After Day \(Tatsunoshin Remix\)](https://open.spotify.com/album/72WF5uCb33yGDHTCJMMfTa) | 3:24 | 2022-02-14 |  |
 | [Dead End](https://open.spotify.com/track/2HwxW3L1MOZeWwVqPgDXa4) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [Rest In Pieces](https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr) | 2:48 | 2023-05-13 |  |
+| [Dead Zone](https://open.spotify.com/track/2hmxX0C0LpFS2shVbWdv8v) | [UNSYN](https://open.spotify.com/artist/5jptqH3gT47JWOY3NFTXfw), [Flinke Herrie](https://open.spotify.com/artist/2zASDu4ug3FvTxk93z1xuv) | [The Uprising](https://open.spotify.com/album/68Wsx7xikoiNlsf7ZzwmzM) | 2:40 | 2024-05-15 |  |
 | [Dear Jessie \- Radio Mix](https://open.spotify.com/track/0Oiav1fv730UmH8lbBJhQi) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH), [Triplestar](https://open.spotify.com/artist/7cUEiGNuBK9SXy51X5D2Cf) | [Dear Jessie](https://open.spotify.com/album/6sy3zODW6fg7nnSj3tbRBr) | 3:23 | 2023-05-12 |  |
 | [Death Jams](https://open.spotify.com/track/4adnfSbly0bAD5YTDh30Jx) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Death Jams](https://open.spotify.com/album/2x44uTjnKxzCNujOQ3qCqM) | 2:54 | 2023-03-06 |  |
 | [Deca](https://open.spotify.com/track/7uW9h8XnRkNkfS5KhjPUNm) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Deca](https://open.spotify.com/album/3MeIv18WaEBwecZPOw5Csz) | 2:49 | 2023-02-18 |  |
@@ -1314,6 +1315,7 @@
 | [We Live for the Night](https://open.spotify.com/track/1aPDLIgrijgoKtZTXPx2BQ) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [We Live for the Night](https://open.spotify.com/album/4FZjK9Sjw0ehnMtcR7km9S) | 2:20 | 2023-08-07 |  |
 | [We Will Rise](https://open.spotify.com/track/4GMvxtkxpfCOupmyH9kA8E) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Doris](https://open.spotify.com/artist/6GMuNB7yEleCIuMyk0qskf) | [We Will Rise](https://open.spotify.com/album/0ozpy9yeRaNSe8XPX4xhd6) | 3:12 | 2023-09-01 |  |
 | [Weekend Offenders](https://open.spotify.com/track/7go0JqxmkRFZoQxvmnjHun) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Samynator](https://open.spotify.com/artist/0stG6nm18OkbJlJHWHxrPw) | [Weekend Offenders](https://open.spotify.com/album/6samftYEZmAZ7MYcY6hqUx) | 2:35 | 2024-03-08 |  |
+| [Weight Up](https://open.spotify.com/track/6wgf8NoJh2TKoRUNAEEHUk) | [Spearbreak](https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE) | [Weight Up](https://open.spotify.com/album/4IFipqjGWYCKLBn6cdUbGI) | 3:31 | 2024-05-15 |  |
 | [Welcome To My Nightmare](https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Welcome To My Nightmare](https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui) | 3:27 | 2023-09-22 |  |
 | [Westside](https://open.spotify.com/track/6d2NGzytPyVKTZecDPKs93) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Westside](https://open.spotify.com/album/601lFz5JptWCs9OB961FSm) | 3:49 | 2024-02-01 |  |
 | [What About Us \- The Reawakening Edit](https://open.spotify.com/track/3gjcaWAkG0MKos0D5R1jJv) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [The Reawakening](https://open.spotify.com/album/4hjWfxhGo96EexBI8oZBFm) | 4:17 | 2023-09-20 |  |

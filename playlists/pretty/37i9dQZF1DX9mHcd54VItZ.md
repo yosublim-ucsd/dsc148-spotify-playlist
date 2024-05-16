@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65?si=G8Yjoqa\-Q16QIr7V7Zklcw">Zoé</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,100 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,114 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 25 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 26 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 27 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
-| 28 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
-| 29 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
+| 28 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
+| 29 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
 | 30 | [Wees Net Beter](https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu) | [Janis Kelber](https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS) | [Wees Net Beter](https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk) | 3:24 |
 | 31 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
 | 32 | [Altyd Daar](https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Altyd Daar](https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab) | 4:15 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 40 | [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 |
 | 41 | [Die Lig](https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r) | [Die Eindste](https://open.spotify.com/artist/6gqvpFp2YBWmoPR5LURl3k), [Danie Reënwolf](https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08) | [Die Lig](https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk) | 5:17 |
 | 42 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 |
-| 43 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
-| 44 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
+| 43 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
+| 44 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
 | 45 | [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 |
 | 46 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
-| 47 | [Langs Die Straat](https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5) | [Juan Griffith](https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN) | [Langs Die Straat](https://open.spotify.com/album/15Q8ImQBLZofUTjApBc1Zj) | 3:31 |
-| 48 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
+| 47 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
+| 48 | [Langs Die Straat](https://open.spotify.com/track/0fuY5OOXPRCum71GNl2Zz5) | [Juan Griffith](https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN) | [Langs Die Straat](https://open.spotify.com/album/15Q8ImQBLZofUTjApBc1Zj) | 3:31 |
 | 49 | [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 |
 | 50 | [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 |
 

@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 43014,
+  "num_followers": 43025,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
         "name": "Cosas Del Universo",
         "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 237000,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
-      },
-      "artists": [
-        {
-          "name": "Los Beta 5",
-          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "El Bicho",
-      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Canoga Madness",
         "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 207093,
       "name": "El Camino Del Caballo",
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Beta 5",
+          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "El Bicho",
+      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
+      "added_at": "2023-03-31 17:32:57",
+      "album": {
+        "name": "Kristina",
+        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        }
+      ],
+      "duration_ms": 238221,
+      "name": "Kristina",
+      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
+    },
+    {
       "added_at": "2024-03-16 00:36:22",
       "album": {
         "name": "Cumbia Disco Energy",
@@ -707,22 +723,6 @@
       "duration_ms": 237674,
       "name": "Cumbia Disco Energy",
       "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
-    },
-    {
-      "added_at": "2023-03-31 17:32:57",
-      "album": {
-        "name": "Kristina",
-        "url": "https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT"
-      },
-      "artists": [
-        {
-          "name": "Sanje",
-          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
-        }
-      ],
-      "duration_ms": 238221,
-      "name": "Kristina",
-      "url": "https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Moriarty",
+          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+    },
+    {
       "added_at": "2022-02-25 02:13:50",
       "album": {
         "name": "Para todo mal",
@@ -1191,22 +1207,6 @@
       "duration_ms": 240871,
       "name": "Para todo mal",
       "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Savage Love",
-        "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Moriarty",
-          "url": "https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU"
-        }
-      ],
-      "duration_ms": 234812,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Sonido Yoryi",
-        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 280821,
-      "name": "Sonido Yoryi",
-      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
-    },
-    {
       "added_at": "2023-01-02 21:53:18",
       "album": {
         "name": "Chica Psy",
@@ -1579,6 +1563,22 @@
       "duration_ms": 204693,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1703,22 +1703,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Sonaja y Tambor",
-        "url": "https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL"
+        "name": "Cumbia Siglo XXI",
+        "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
       },
       "artists": [
         {
-          "name": "Salterio Marsupial",
-          "url": "https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI"
-        },
-        {
-          "name": "L\u00edber Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p"
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Sonaja y Tambor",
-      "url": "https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA"
+      "duration_ms": 197066,
+      "name": "Cumbia del Picham\u00e1n",
+      "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
     }
   ],
   "unique_name": "TROPILOCO",

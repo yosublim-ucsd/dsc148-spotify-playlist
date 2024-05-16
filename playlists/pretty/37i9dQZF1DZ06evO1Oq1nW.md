@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 ### [This Is The O'Jays](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Oq1nW)
 
-> This is The O'Jays\. The essential tracks, all in one playlist.
+> This is The O'Jays\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,810 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,817 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 49 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
 | 50 | [What Am I Waiting For](https://open.spotify.com/track/7uWj004PAUVTlu7kqlb8wn) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:56 |
 
-Snapshot ID: `ZkFYAAAAAAAN9m9QBAfZKYOBJv9vIIBG`
+Snapshot ID: `ZkFYAAAAAAAE6xUESjGgUGgxNycA38Ow`

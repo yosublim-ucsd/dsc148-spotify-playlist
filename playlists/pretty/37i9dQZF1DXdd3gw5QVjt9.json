@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1166372,
+  "num_followers": 1166320,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "When Creation Was Young",
-      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Summer Somewhere",
         "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 183413,
       "name": "Summer Somewhere",
       "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "When Creation Was Young",
+      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Precious Days",
-        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 165829,
-      "name": "Precious Days",
-      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "When I Say That I Love You",
@@ -915,6 +899,22 @@
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Precious Days",
+        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 165829,
+      "name": "Precious Days",
+      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Extralife",
+        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 285346,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Find Our Way",
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Extralife",
-        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME"
       },
       "artists": [
         {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
         }
       ],
-      "duration_ms": 285346,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
+      "duration_ms": 226497,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 226497,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "The Spur",
         "url": "https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Don\u2019t Give Up",
-        "url": "https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 307637,
-      "name": "Don\u2019t Give Up",
-      "url": "https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "New Wall",
         "url": "https://open.spotify.com/album/43BULtlzGsqok8PoRPypm2"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 158426,
       "name": "New Wall",
       "url": "https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Don\u2019t Give Up",
+        "url": "https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 307637,
+      "name": "Don\u2019t Give Up",
+      "url": "https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY"
     },
     {
       "added_at": "2023-10-27 04:00:00",

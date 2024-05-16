@@ -2,7 +2,7 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- W.i.S.H
+> Hindi hai, Indie hai! Cover\- Aditya Rikhari
 
 199 songs - 11 hr 4 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,400 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,662 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 25 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 |
 | 26 | [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 |
 | 27 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
-| 28 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 |
-| 29 | [Buurman Uit Berlijn](https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 4:45 |
+| 28 | [Buurman Uit Berlijn](https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 4:45 |
+| 29 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 |
 | 30 | [SEXY](https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [CARGO](https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe) | [SEXY](https://open.spotify.com/album/2mvBle8cY9KZwcS4QsnnHu) | 3:16 |
 | 31 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 |
 | 32 | [Whatcha Say](https://open.spotify.com/track/4SPTxHzln31EU9u45IjgMU) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Whatcha Say](https://open.spotify.com/album/5avrElnK0zHZvzW77xBnsN) | 2:19 |

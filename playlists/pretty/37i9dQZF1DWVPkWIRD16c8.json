@@ -1,6 +1,6 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 163329,
+  "num_followers": 163488,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Rescue Story",
         "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 223347,
       "name": "There Was Jesus",
       "url": "https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Yes I Will (Studio Version)",
-        "url": "https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi"
+        "name": "So Alive",
+        "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Yes I Will (Studio Version)",
-      "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"
+      "duration_ms": 178619,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "So Alive",
-        "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
+        "name": "Yes I Will (Studio Version)",
+        "url": "https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
         }
       ],
-      "duration_ms": 178619,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
+      "duration_ms": 216973,
+      "name": "Yes I Will (Studio Version)",
+      "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"
     },
     {
       "added_at": "2023-02-07 17:43:16",

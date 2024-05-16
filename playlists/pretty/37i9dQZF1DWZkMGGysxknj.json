@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 812881,
+  "num_followers": 812883,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,38 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 226877,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Saturday Nights",
+        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 178852,
+      "name": "Saturday Nights",
+      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -835,38 +867,6 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Saturday Nights",
-        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 178852,
-      "name": "Saturday Nights",
-      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 226877,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "#Acoustic #2",
         "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Warping Youth",
         "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Pick Me Up Off The Floor",
-        "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "To Live",
-      "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "I'm a Mess (Acoustic)",
         "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+        "name": "Pick Me Up Off The Floor",
+        "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+      "duration_ms": 268600,
+      "name": "To Live",
+      "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1239,6 +1223,22 @@
       "duration_ms": 218904,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 227250,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 213041,
+      "name": "Ay, Amor \u2665\ufe0e",
+      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
+      },
+      "artists": [
+        {
+          "name": "Jean Cruiz",
+          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
+        }
+      ],
+      "duration_ms": 182118,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
-      },
-      "artists": [
-        {
-          "name": "Jean Cruiz",
-          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
-        }
-      ],
-      "duration_ms": 182118,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
-      },
-      "artists": [
-        {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Goodbyes",
         "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 125895,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Nothing Breaks Like a Heart",
-        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 203261,
-      "name": "Nothing Breaks Like a Heart",
-      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Limoneros",
         "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 214500,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Nothing Breaks Like a Heart",
+        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 203261,
+      "name": "Nothing Breaks Like a Heart",
+      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "The Day That We First Met",
-        "url": "https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r"
-      },
-      "artists": [
-        {
-          "name": "Scott & Young",
-          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
-        }
-      ],
-      "duration_ms": 220962,
-      "name": "The Day That We First Met",
-      "url": "https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/6Xd37dauCtwJi10I25dnHR"
       },
@@ -2383,6 +2367,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "The Day That We First Met",
+        "url": "https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r"
+      },
+      "artists": [
+        {
+          "name": "Scott & Young",
+          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
+        }
+      ],
+      "duration_ms": 220962,
+      "name": "The Day That We First Met",
+      "url": "https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Las Flores",
         "url": "https://open.spotify.com/album/4jpS2bi5zJJaZ2J2vXyBNt"
       },
@@ -2395,6 +2395,22 @@
       "duration_ms": 157826,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/6ngcjbVUoTOD2Up8AYJC7Y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x"
+      },
+      "artists": [
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
+        }
+      ],
+      "duration_ms": 249469,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
     },
     {
       "added_at": "2024-01-05 03:19:09",
@@ -2419,38 +2435,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x"
-      },
-      "artists": [
-        {
-          "name": "Zoe",
-          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
-        }
-      ],
-      "duration_ms": 249469,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI"
-      },
-      "artists": [
-        {
-          "name": "Scott & Young",
-          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
-        }
-      ],
-      "duration_ms": 187389,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Atlas: Seven",
         "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
       },
@@ -2463,22 +2447,6 @@
       "duration_ms": 263124,
       "name": "Atlas: Seven",
       "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
-    },
-    {
-      "added_at": "2023-12-05 16:23:16",
-      "album": {
-        "name": "East of Any Place (Habibi Funk 025)",
-        "url": "https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00e9r Fakhr",
-          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
-        }
-      ],
-      "duration_ms": 108500,
-      "name": "(You Look) So Funny",
-      "url": "https://open.spotify.com/track/5F4RB2LvrszWVTZ2dGZ7Lq"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2499,6 +2467,38 @@
       "duration_ms": 159420,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/173YFoJtllaXjALrFxr7LY"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI"
+      },
+      "artists": [
+        {
+          "name": "Scott & Young",
+          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
+        }
+      ],
+      "duration_ms": 187389,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
+    },
+    {
+      "added_at": "2023-12-05 16:23:16",
+      "album": {
+        "name": "East of Any Place (Habibi Funk 025)",
+        "url": "https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+        }
+      ],
+      "duration_ms": 108500,
+      "name": "(You Look) So Funny",
+      "url": "https://open.spotify.com/track/5F4RB2LvrszWVTZ2dGZ7Lq"
     },
     {
       "added_at": "2023-06-09 14:25:05",

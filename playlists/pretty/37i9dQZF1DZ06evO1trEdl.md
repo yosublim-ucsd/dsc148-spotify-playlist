@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 ### [This Is The Three Degrees](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl)
 
-> This Is The Three Degrees\. Los temas esenciales, todos en una lista.
+> This is The Three Degrees\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,882 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,884 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 49 | [Streets](https://open.spotify.com/track/26OtHPTkmfORwu9yAZczJS) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Delta](https://open.spotify.com/album/14BaP4HtDt9fZPg9BSawkL) | 3:23 |
 | 50 | [The Magic Door](https://open.spotify.com/track/5B94YFQfQ42lnEoOn3tA7M) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 |
 
-Snapshot ID: `ZkFYAAAAAACkvG0TxW1Y6J/dSEcXPqc7`
+Snapshot ID: `ZkFYAAAAAADaGL4GG7Xgv0ZpdU37rVHx`

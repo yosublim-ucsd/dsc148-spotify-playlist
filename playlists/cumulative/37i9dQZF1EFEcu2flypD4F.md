@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-354 songs - 22 hr 38 min
+355 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Gentlemen](https://open.spotify.com/track/5A6dJZZqjMtKNrZkykl93p) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/3DdyiWsJLZHdg37VNAjOCf) | 4:12 | 2023-12-30 | 2024-01-04 |
 | [Get Me](https://open.spotify.com/track/1L0fGe5sfqUDoacJwTdhlt) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Amplified Heart](https://open.spotify.com/album/6gFFQtaTdZcbu97Xo6wVvH) | 3:34 | 2023-12-30 |  |
 | [Get over U](https://open.spotify.com/track/5HvN5wQFNTNxlNBgeaPGbf) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe) | [Get Over U](https://open.spotify.com/album/1vleMZIYYhBSXyAWPUeSIX) | 3:24 | 2023-12-30 |  |
-| [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-12-30 |  |
+| [Gimme Love](https://open.spotify.com/track/5i7frb9AXQjMS2iibNF4Jv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8) | 2:57 | 2024-05-15 |  |
+| [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-12-30 | 2024-05-16 |
 | [Go Get It](https://open.spotify.com/track/55MUolR1RPiH6zvfUxpz1c) | [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Lil Debbie](https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN) | [Balloween](https://open.spotify.com/album/6xHseLn2Rz353MyoB3A5zY) | 4:07 | 2023-12-30 |  |
 | [Go On](https://open.spotify.com/track/5gKW4Zbd2A6NcD6iAF2JQ1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:14 | 2024-05-05 |  |
 | [Godzillionaire](https://open.spotify.com/track/2OQXPBsZcPpmyoyTkFFf6p) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:55 | 2023-12-30 |  |

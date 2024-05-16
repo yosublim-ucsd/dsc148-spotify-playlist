@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 322602,
+  "num_followers": 322753,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAASWhHrIzigQJyS0s6EJ2S5",
+  "snapshot_id": "ZkKpgAAAAADzNkzCkxNBjieBYJuXX97J",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Como Soy",
-        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "No a Pedir Perd\u00f3n",
-      "url": "https://open.spotify.com/track/7jhGpbLaAo99bQbEW1zhhM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas De Dos Siglos",
         "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 174800,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Como Soy",
+        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "No a Pedir Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7jhGpbLaAo99bQbEW1zhhM"
     },
     {
       "added_at": null,

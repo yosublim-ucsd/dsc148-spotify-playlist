@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,445 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,457 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 33 | [ルール](https://open.spotify.com/track/5aDNxZPe4Q6NMt6bRUITRJ) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj), [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y) | [ルール](https://open.spotify.com/album/1j7ESg3BEOs2n39NiJiLPQ) | 2:56 |
 | 34 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 |
 | 35 | [パラノーマジック](https://open.spotify.com/track/17AVSZky97FZaGkODNxmrz) | [柾花音](https://open.spotify.com/artist/5waOZyHnc83esj6AV1OF9J) | [パラノーマジック](https://open.spotify.com/album/5N8tgCJQa5H189zzsqt8Lr) | 3:29 |
-| 36 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
+| 36 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 37 | [Pedant](https://open.spotify.com/track/6SvIx9j97GduIaoux4eqz3) | [不眠症](https://open.spotify.com/artist/2VqEtJ2rBrI0mkFhxLYc0Q), [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [Pedant](https://open.spotify.com/album/4Fk946VXMMYEHP6IUkqNpo) | 3:16 |
 | 38 | [HELP!!](https://open.spotify.com/track/2sb0MPuym9pDaru5M2DHsU) | [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [HELP!!](https://open.spotify.com/album/3iIHNCs8dWlSSqXRzM00IB) | 3:07 |
 | 39 | [星を編む](https://open.spotify.com/track/1qRxrf7gdwE0TtG4IjD1H2) | [seiza](https://open.spotify.com/artist/4NRSYB2qS3BZCcaddIzylY) | [星を編む](https://open.spotify.com/album/6HOK3GBhIbMLx0ANbIIJ6Y) | 3:50 |
 | 40 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 |
 | 41 | [メリーゴーランド](https://open.spotify.com/track/3FJVe0Wl2ET4Q0bEuaAgWR) | [GeTO](https://open.spotify.com/artist/1R6cRgLxvLXdt5MHpmjORa) | [メリーゴーランド](https://open.spotify.com/album/1iO4XUmjNQqSgVLCyQ0f2p) | 3:02 |
-| 42 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
+| 42 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
 | 43 | [飴細工を撃ち抜きたい](https://open.spotify.com/track/5gNlEIgu94NUJVh074N3oC) | [miolly](https://open.spotify.com/artist/5smKtVDKbCiaUWASPunQAa) | [飴細工を撃ち抜きたい](https://open.spotify.com/album/7fy3aziexdhVsBJUDdPWVm) | 3:17 |
 | 44 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 |
 | 45 | [約束](https://open.spotify.com/track/0JmIfbUT3OEQgu5atwZCqA) | [音ノ乃のの](https://open.spotify.com/artist/5n9bJyrUe33BKsP6cyUYao) | [約束](https://open.spotify.com/album/3zBkKGoioGidnWQspy6HNQ) | 3:17 |

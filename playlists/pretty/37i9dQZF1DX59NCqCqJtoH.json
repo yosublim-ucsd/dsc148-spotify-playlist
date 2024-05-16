@@ -1,6 +1,6 @@
 {
   "description": "We hear you.",
-  "num_followers": 1190535,
+  "num_followers": 1190631,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/0cVCSfdI0gl2jJopZPKCaO"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "i'll remember tonight",
-        "url": "https://open.spotify.com/album/6u6DZ9erldiL0ITDgqbFdl"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 237733,
-      "name": "i'll remember tonight",
-      "url": "https://open.spotify.com/track/06IdOdSeh4nnIgH3btVa7j"
-    },
-    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "another life",
@@ -619,6 +603,22 @@
       "duration_ms": 131182,
       "name": "another life",
       "url": "https://open.spotify.com/track/1LRDoxji2NI4tkjkbYGCAC"
+    },
+    {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "i'll remember tonight",
+        "url": "https://open.spotify.com/album/6u6DZ9erldiL0ITDgqbFdl"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "i'll remember tonight",
+      "url": "https://open.spotify.com/track/06IdOdSeh4nnIgH3btVa7j"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "we were girls together",
         "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 142940,
       "name": "i'd rather be alone",
       "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 212119,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
     },
     {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Why Did I Laugh Anyway",
+        "url": "https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 189311,
+      "name": "Why Did I Laugh Anyway",
+      "url": "https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "I even told my mom about u",
@@ -853,6 +869,22 @@
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
     },
     {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Rick(y)",
+        "url": "https://open.spotify.com/album/6eZQMCNFzChRdYviYn4LOn"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 122366,
+      "name": "Here Comes the Moon",
+      "url": "https://open.spotify.com/track/0rSpqlc27kMB5gpad5mLMV"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "are you sleeping alone again?",
@@ -883,22 +915,6 @@
       "duration_ms": 216514,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
-    },
-    {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "Why Did I Laugh Anyway",
-        "url": "https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 189311,
-      "name": "Why Did I Laugh Anyway",
-      "url": "https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -963,22 +979,6 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "Rick(y)",
-        "url": "https://open.spotify.com/album/6eZQMCNFzChRdYviYn4LOn"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 122366,
-      "name": "Here Comes the Moon",
-      "url": "https://open.spotify.com/track/0rSpqlc27kMB5gpad5mLMV"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Emotionless",
         "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
       },
       "artists": [
         {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
         }
       ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+      "duration_ms": 202346,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1235,6 +1219,22 @@
       "duration_ms": 134885,
       "name": "fragment",
       "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
       "added_at": "2024-05-10 21:58:08",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/3cPY5q1lGDddy2UTmhkD8O"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "it's nothing",
-        "url": "https://open.spotify.com/album/4UD2hj6t8pj1Ek2Jb1h8WU"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 158456,
-      "name": "it's nothing",
-      "url": "https://open.spotify.com/track/7or1RiMHzkng8LPa8CJsbk"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "Long Distance",
@@ -1419,6 +1403,22 @@
       "duration_ms": 260000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX"
+    },
+    {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "it's nothing",
+        "url": "https://open.spotify.com/album/4UD2hj6t8pj1Ek2Jb1h8WU"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 158456,
+      "name": "it's nothing",
+      "url": "https://open.spotify.com/track/7or1RiMHzkng8LPa8CJsbk"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 190741,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "howling",
+        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "howling",
+      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1545,36 +1545,24 @@
       "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
     },
     {
-      "added_at": "2024-03-07 21:03:22",
+      "added_at": "2024-05-10 21:58:08",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
+        "name": "Let's get married",
+        "url": "https://open.spotify.com/album/6XQ4kJtZycCrz4JrsqCOac"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
-      },
-      "artists": [
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
         {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
         }
       ],
-      "duration_ms": 189052,
-      "name": "2005 barbie doll",
-      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
+      "duration_ms": 161448,
+      "name": "Let's get married",
+      "url": "https://open.spotify.com/track/7zBhqzhAGVduUCOXA0fava"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1597,24 +1585,36 @@
       "url": "https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Let's get married",
-        "url": "https://open.spotify.com/album/6XQ4kJtZycCrz4JrsqCOac"
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
       },
       "artists": [
         {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        },
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 161448,
-      "name": "Let's get married",
-      "url": "https://open.spotify.com/track/7zBhqzhAGVduUCOXA0fava"
+      "duration_ms": 189052,
+      "name": "2005 barbie doll",
+      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
+    },
+    {
+      "added_at": "2024-03-07 21:03:22",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
     },
     {
       "added_at": "2023-10-16 20:29:38",

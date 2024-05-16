@@ -2,7 +2,7 @@
 
 ### [This Is The Doors](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19UBIk)
 
-> This Is The Doors\. Los temas esenciales, todos en una lista.
+> This is The Doors\. The essential tracks, all in one playlist.
 
 77 songs - 4 hr 57 min
 
@@ -67,13 +67,13 @@
 | [Take It as It Comes](https://open.spotify.com/track/4pxHVL0syMQwYK3BxDaTIs) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:14 | 2022-01-20 | 2024-05-15 |
 | [Tell All the People](https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:20 | 2022-01-11 |  |
 | [The Changeling](https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:19 | 2022-01-11 |  |
-| [The Crystal Ship](https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:32 | 2022-01-11 |  |
+| [The Crystal Ship](https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:32 | 2022-01-11 | 2024-05-16 |
 | [The End](https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 11:43 | 2022-01-11 | 2023-08-14 |
 | [The Soft Parade](https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 8:34 | 2022-01-11 | 2023-04-17 |
 | [The Unknown Soldier](https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:21 | 2022-01-11 |  |
 | [The WASP \(Texas Radio and the Big Beat\)](https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:13 | 2022-01-11 | 2023-03-31 |
 | [Touch Me](https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:10 | 2022-01-11 |  |
-| [Twentieth Century Fox](https://open.spotify.com/track/7mc2TP4Vzuyw2vNf1bLW9f) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:31 | 2023-06-18 | 2024-05-15 |
+| [Twentieth Century Fox](https://open.spotify.com/track/7mc2TP4Vzuyw2vNf1bLW9f) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:31 | 2023-06-18 |  |
 | [Unhappy Girl](https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 1:57 | 2022-10-15 | 2024-05-15 |
 | [Universal Mind \- Live](https://open.spotify.com/track/26ZF6lHwjmb9Peq8jdbKUi) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Absolutely Live](https://open.spotify.com/album/0BgWlAKJAn8VQKRKIdx9ul) | 4:54 | 2022-10-01 | 2022-10-03 |
 | [Verdillac \- Live 1972](https://open.spotify.com/track/0Bsm78b7ixlm4XP07MBImt) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Spirits \(Live 1972\)](https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw) | 7:10 | 2022-06-12 | 2022-06-16 |

@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 55 | [Not Together, Together](https://open.spotify.com/track/6Yhly15am79BzKhAHSEqcI) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Not Together, Together](https://open.spotify.com/album/0o9FIqLRuDzmSeHkwr5QkN) | 2:42 |
 | 56 | [Roter Faden](https://open.spotify.com/track/2BPcjLnDQJRjWpE9ZVpBbU) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Im Augenblick](https://open.spotify.com/album/3jRxbPw4QFookuslpPgygA) | 2:39 |
 | 57 | [I Tried](https://open.spotify.com/track/3QSogFXUWdiZ2akyXQQpWI) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Watching You \- EP](https://open.spotify.com/album/3ZMFWfliUQROBkFP5oPBWa) | 3:07 |
-| 58 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 |
-| 59 | [Version von mir](https://open.spotify.com/track/5bUwD8idvi8RpRF4Yuewbk) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 |
+| 58 | [Version von mir](https://open.spotify.com/track/5bUwD8idvi8RpRF4Yuewbk) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 |
+| 59 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 |
 | 60 | [miss you](https://open.spotify.com/track/2p5PjL2TLhongka8qsHTco) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [this is iggy](https://open.spotify.com/album/0kyjMpCVzimrmEspVwx8TX) | 2:29 |
 | 61 | [My Fault](https://open.spotify.com/track/1YcoVVvOeJRCPD8P7zvvmX) | [Jenna Lotti](https://open.spotify.com/artist/7dIm02RDiyp2Nmdsx4H8Gc) | [My Fault](https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL) | 1:57 |
 | 62 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 63 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AbRVzAAAAAANUZY0o9JhbksV89aa5vnV`
+Snapshot ID: `AbRbbAAAAACS3uRe3lY0HbzmJWRFd+tz`

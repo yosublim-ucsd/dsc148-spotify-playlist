@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-778 songs - 1 day 17 hr 47 min
+780 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Be Okay](https://open.spotify.com/track/2DBkMf9PHeJAc44vuYjfPL) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Be Okay](https://open.spotify.com/album/2WP9xHy2XZjI78eXGmQ5XE) | 3:28 | 2023-08-04 |  |
 | [Beautiful](https://open.spotify.com/track/3RjL8AnKslWWPmlNLTJsAU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:14 | 2022-02-10 |  |
 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ) | 3:17 | 2019-08-27\* | 2021-12-04 |
-| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-03-18 |  |
+| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-03-18 | 2024-05-16 |
+| [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 | 2024-05-15 |  |
 | [Beauty Marks](https://open.spotify.com/track/2cWC0R1ShnLaJEYRMAD8dj) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:36 | 2019-08-27\* | 2019-11-11 |
 | [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 | 2021-04-24 |  |
 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1U6aNzlYxoCGGm7K6Nu9EE) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Like You Do](https://open.spotify.com/album/2jxyIfyUY0yhPANWWrwnca) | 3:23 | 2021-04-24 |  |
@@ -676,6 +677,7 @@
 | [The Bat Song](https://open.spotify.com/track/23RGWHqiObr6yE3lvgQLx0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Meanjin EP](https://open.spotify.com/album/6k4k7bEh9AWCDAGqVZyzFF) | 2:41 | 2022-08-12 |  |
 | [The Book of You & I](https://open.spotify.com/track/6goVVcwzy7RtZdytF5XADW) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Book of You & I](https://open.spotify.com/album/3xHrlh93xHHP1c5zYiaUad) | 3:27 | 2020-03-20 | 2021-05-12 |
 | [The Brown Snake](https://open.spotify.com/track/1n9rCSKrSfoytMF2AkC1CU) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Meanjin EP](https://open.spotify.com/album/6k4k7bEh9AWCDAGqVZyzFF) | 3:15 | 2022-08-12 |  |
+| [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-05-15 |  |
 | [The Heights](https://open.spotify.com/track/0Bp1hCBkBhqrFqumpNoqkX) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [The Heights](https://open.spotify.com/album/1bdlo1pbTsWFURvrYc130d) | 3:19 | 2019-08-27\* | 2019-11-11 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 |  |
 | [The Kids Are Alright](https://open.spotify.com/track/4Ww3dEzyEMq6hsqz4OU1Yh) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Honeydew](https://open.spotify.com/album/4aIFBYHViYgnKrh3wKXpkA) | 2:52 | 2020-06-19 | 2021-05-12 |

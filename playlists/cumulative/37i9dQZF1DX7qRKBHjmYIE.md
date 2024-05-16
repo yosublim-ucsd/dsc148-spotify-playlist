@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Pink Pablo.
 
-724 songs - 1 day 15 hr 12 min
+725 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [bend&break](https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:03 | 2023-02-17 | 2023-03-29 |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-01 | 2023-10-14 |
 | [best damn thing](https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [best damn thing](https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5) | 2:40 | 2022-10-27 | 2023-01-11 |
-| [BF](https://open.spotify.com/track/1IPEjtyzuk1K3U2QmpyIgw) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [BF](https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg) | 2:21 | 2024-01-12 |  |
+| [BF](https://open.spotify.com/track/1IPEjtyzuk1K3U2QmpyIgw) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [BF](https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg) | 2:21 | 2024-01-12 | 2024-05-16 |
 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 | 2023-09-01 | 2023-09-30 |
 | [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 | 2024-02-23 |  |
 | [Blu](https://open.spotify.com/track/2qPc3RreHTFZF24GJP1L5A) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Mundos Paralelos](https://open.spotify.com/album/4AabL56MTUUk3khEB3rzxA) | 3:59 | 2023-02-02 | 2023-03-09 |
@@ -322,6 +322,7 @@
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-14 | 2022-07-29 |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-07-22 | 2023-02-17 |
 | [Kitipun](https://open.spotify.com/track/04elniHFWwwFHxi3SZlGI6) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Kitipun](https://open.spotify.com/album/7Hp43M9ZedO6dhIOa3O3fN) | 3:36 | 2023-09-29 | 2023-10-14 |
+| [KR1MIN4L](https://open.spotify.com/track/5iYPvyYVCyfzyyBkQjEwre) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [KR1MIN4L](https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT) | 2:17 | 2024-05-10 |  |
 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 | 2024-01-26 | 2024-04-13 |
 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 | 2022-01-24 | 2023-02-17 |
 | [La Canción Feliz Del Disco](https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:53 | 2024-01-26 | 2024-02-17 |

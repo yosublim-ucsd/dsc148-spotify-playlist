@@ -4607,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "digiphunk",
+        "url": "https://open.spotify.com/album/6QTs9TrzSqQwr5opTboF4w"
+      },
+      "artists": [
+        {
+          "name": "dashie",
+          "url": "https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94938,
+      "name": "digiphunk",
+      "url": "https://open.spotify.com/track/2QtZI9AahQIZ3B9UY9Q7Xd"
+    },
+    {
+      "album": {
         "name": "Digita",
         "url": "https://open.spotify.com/album/3dM078GQ05Droml2dgYeYV"
       },
@@ -22542,6 +22560,28 @@
       "duration_ms": 101745,
       "name": "WYM!",
       "url": "https://open.spotify.com/track/3iSNtpcu9HNwdSVsIztE31"
+    },
+    {
+      "album": {
+        "name": "X-SLIDE",
+        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
+      },
+      "artists": [
+        {
+          "name": "808iuli",
+          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
+        },
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79452,
+      "name": "X-SLIDE",
+      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
       "album": {

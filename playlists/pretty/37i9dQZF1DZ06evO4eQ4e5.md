@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 ### [This Is Edith Márquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eQ4e5)
 
-> This is Edith Márquez\. The essential tracks, all in one playlist.
+> This Is Edith Márquez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,489 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,498 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 50 | [Olvídalo](https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Olvídalo](https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt) | 3:16 |
 | 51 | [El Último Beso](https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:49 |
 
-Snapshot ID: `ZkFYAAAAAADLOzToBJGIbnDdUJ/pBsPn`
+Snapshot ID: `ZkFYAAAAAAB1n6utbR1Z0VgMytsv5+a/`

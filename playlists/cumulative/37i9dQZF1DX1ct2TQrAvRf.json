@@ -363,6 +363,32 @@
     },
     {
       "album": {
+        "name": "Loka Yaha Hai",
+        "url": "https://open.spotify.com/album/0SOdtFMbmVADfBZZY8cqTc"
+      },
+      "artists": [
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu"
+        },
+        {
+          "name": "Kaam Bhaari",
+          "url": "https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3"
+        },
+        {
+          "name": "Vijay Dk",
+          "url": "https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220606,
+      "name": "Bail Pe",
+      "url": "https://open.spotify.com/track/2zJfPQxcKXcYLx1AEaeGIO"
+    },
+    {
+      "album": {
         "name": "Ek Tha Raja",
         "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
       },
@@ -2358,7 +2384,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 220000,
       "name": "Nusta Paisa",
       "url": "https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3"

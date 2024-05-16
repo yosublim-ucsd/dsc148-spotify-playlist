@@ -1,6 +1,6 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 263508,
+  "num_followers": 263596,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Padre Nuestro",
-        "url": "https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 371013,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Tu Voluntad",
         "url": "https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 387450,
       "name": "Tu Voluntad",
       "url": "https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Padre Nuestro",
+        "url": "https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 371013,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
     },
     {
       "added_at": "2020-11-24 13:23:38",

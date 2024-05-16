@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 
 ### [This Is Sergio Vega "El Shaka"](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wDj1z)
 
-> This is Sergio Vega "El Shaka"\. Todos os maiores hits em uma só playlist.
+> This Is Sergio Vega "El Shaka"\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,898 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,955 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 49 | [Plaza Nueva](https://open.spotify.com/track/4MXM9jLq0ut2QXg1NPZRAm) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2aiwlEGVGSWyYF8HwooOpd) | 3:20 |
 | 50 | [El Melate](https://open.spotify.com/track/6ykBuAVP23NGrXVm9HsuVt) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:21 |
 
-Snapshot ID: `ZkFYAAAAAABN6DkDlv5hG6qVW5khVl1X`
+Snapshot ID: `ZkFYAAAAAADYU8REA3Ze4th8XTzASWo8`

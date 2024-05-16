@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 ### [This Is Los Cadetes De Linares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0I5DUY)
 
-> This Is Los Cadetes De Linares\. Los temas esenciales, todos en una lista.
+> This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,533 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,605 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [Llore a Mi Madre](https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Tu Nombre](https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm) | 2:26 |
 | 50 | [Sabor de Engaño](https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:06 |
 
-Snapshot ID: `ZkFYAAAAAAAjSd8uw4EA0U7VQzQr7tBn`
+Snapshot ID: `ZkFYAAAAAAAZJHZSJ4iUibgKfmnRhQJW`

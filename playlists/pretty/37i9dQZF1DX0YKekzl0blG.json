@@ -1,6 +1,6 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: LCD Soundsystem",
-  "num_followers": 704111,
+  "num_followers": 704130,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 201946,
       "name": "Crystalised",
       "url": "https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2024-03-18 22:33:18",

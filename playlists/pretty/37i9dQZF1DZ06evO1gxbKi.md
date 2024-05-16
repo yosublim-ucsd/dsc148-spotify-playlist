@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
+> This is Sister Rosetta Tharpe\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,232 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,237 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 47 | [Last Mile Of The Way](https://open.spotify.com/track/41JBvVRFAh46z8bj4L4UWv) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 3:39 |
 | 48 | [In Bethlehem](https://open.spotify.com/track/56rxK4XwkM438ior5kxic9) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 5](https://open.spotify.com/album/7tvIxQ4NARYopPCeUARhcj) | 3:05 |
 
-Snapshot ID: `ZkFYAAAAAAB9QwpwrnmOuAIz4UzJ0Slp`
+Snapshot ID: `ZkFYAAAAAACvSdw37i/8XPTbRH9yJehJ`

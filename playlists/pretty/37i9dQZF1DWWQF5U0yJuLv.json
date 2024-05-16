@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12589,
+  "num_followers": 12598,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "The Space Lady's Greatest Hits",
@@ -967,22 +983,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Lunatic Harness",
         "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
       },
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1035,22 +1051,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-03-03 04:01:23",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/2HvrDBDvUg3GD6f1z6OTAG"
     },
     {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Space Oddities: Studio Ganaro (1972-1982)",
@@ -1349,20 +1365,20 @@
       "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+        "name": "Tanz Mit Mir",
+        "url": "https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Datassette",
+          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
         }
       ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+      "duration_ms": 343158,
+      "name": "Tanz Mit Mir",
+      "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1379,22 +1395,6 @@
       "duration_ms": 370800,
       "name": "Delia Derbyshire",
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Tanz Mit Mir",
-        "url": "https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn"
-      },
-      "artists": [
-        {
-          "name": "Datassette",
-          "url": "https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U"
-        }
-      ],
-      "duration_ms": 343158,
-      "name": "Tanz Mit Mir",
-      "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Sculpturegardening",
-        "url": "https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3"
-      },
-      "artists": [
-        {
-          "name": "Tristan Arp",
-          "url": "https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9"
-        }
-      ],
-      "duration_ms": 257862,
-      "name": "From The Seams",
-      "url": "https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Calming Signals",
         "url": "https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 306013,
       "name": "Haynes Manor",
       "url": "https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Sculpturegardening",
+        "url": "https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3"
+      },
+      "artists": [
+        {
+          "name": "Tristan Arp",
+          "url": "https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9"
+        }
+      ],
+      "duration_ms": 257862,
+      "name": "From The Seams",
+      "url": "https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1853,22 +1853,6 @@
       "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Puzzlewood",
@@ -1883,6 +1867,22 @@
       "duration_ms": 208983,
       "name": "Red Kite",
       "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2081,22 +2081,6 @@
       "url": "https://open.spotify.com/track/77vBKTetBxPgaxG6qg6yiw"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Das Ist Ein Groovybeat, Ja",
-        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
-      },
-      "artists": [
-        {
-          "name": "Jake Slazenger",
-          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
-        }
-      ],
-      "duration_ms": 379266,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Dreamy Riot",
@@ -2111,6 +2095,22 @@
       "duration_ms": 350666,
       "name": "Tech",
       "url": "https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Das Ist Ein Groovybeat, Ja",
+        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
+      },
+      "artists": [
+        {
+          "name": "Jake Slazenger",
+          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
+        }
+      ],
+      "duration_ms": 379266,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "High Maintenance: Original Music (Season 1)",
+        "url": "https://open.spotify.com/album/04lzRvq2MISPHUiMjoxjag"
+      },
+      "artists": [
+        {
+          "name": "Chris Bear",
+          "url": "https://open.spotify.com/artist/0do9UA8mgexUfGJiVTSmiv"
+        }
+      ],
+      "duration_ms": 135051,
+      "name": "Goodnight Felicia",
+      "url": "https://open.spotify.com/track/7quMtERAYLteumHQSrBkMr"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Hi Scores",
         "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
       },
@@ -2229,22 +2245,6 @@
       "url": "https://open.spotify.com/track/51otAp4ocieYr1ogeg4Why"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 107745,
-      "name": "Merry-Go-Round",
-      "url": "https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf"
-    },
-    {
       "added_at": "2023-03-03 04:31:38",
       "album": {
         "name": "Jardines Vol. I",
@@ -2265,6 +2265,22 @@
       "url": "https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 107745,
+      "name": "Merry-Go-Round",
+      "url": "https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Body Control",
@@ -2281,22 +2297,6 @@
       "url": "https://open.spotify.com/track/761ln8LuN4gus7oR2EGN7K"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 151520,
-      "name": "Roygbiv",
-      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Bones",
@@ -2311,22 +2311,6 @@
       "duration_ms": 276600,
       "name": "Rockledge 3A",
       "url": "https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 225207,
-      "name": "People On Sunday",
-      "url": "https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2396,9 +2380,25 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 358080,
-      "name": "Aquarius",
-      "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
+      "duration_ms": 151520,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 225207,
+      "name": "People On Sunday",
+      "url": "https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 225289,
-      "name": "Sunshine in 1929",
-      "url": "https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Strawberry Moon",
         "url": "https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi"
       },
@@ -2507,6 +2491,26 @@
       "duration_ms": 187200,
       "name": "Strawberry Moon",
       "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Unheard Melodies",
+        "url": "https://open.spotify.com/album/64bBUTyvKyfQa0A0tKCdxz"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        },
+        {
+          "name": "Mrs Jynx",
+          "url": "https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q"
+        }
+      ],
+      "duration_ms": 280658,
+      "name": "Unheard Melodies",
+      "url": "https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa"
     }
   ],
   "unique_name": "Quirktronica",

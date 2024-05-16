@@ -1,6 +1,6 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 321799,
+  "num_followers": 321760,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "one hand on the steering wheel the other sewing a garden",
-        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
       "artists": [
         {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 261173,
-      "name": "damn",
-      "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+      "duration_ms": 237328,
+      "name": "To Me",
+      "url": "https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "To Learn",
-        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
+        "name": "one hand on the steering wheel the other sewing a garden",
+        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
         }
       ],
-      "duration_ms": 237328,
-      "name": "To Me",
-      "url": "https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu"
+      "duration_ms": 261173,
+      "name": "damn",
+      "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Soft Drop",
+        "url": "https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 196756,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Old Time Feeling",
         "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 241503,
       "name": "Love of Her Life",
       "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Soft Drop",
-        "url": "https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 196756,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/5Ano4JVB4uDv8fQnhwdYfo"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
-      },
-      "artists": [
-        {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Head of Steak",
         "url": "https://open.spotify.com/album/4VrWtlUOsaNQPe5P4aNNhj"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 207107,
       "name": "Head of Steak",
       "url": "https://open.spotify.com/track/3CoHSt9cVHsj9PhNqgqq5K"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Heavy Head (Keep It Near)",
-        "url": "https://open.spotify.com/album/2wlsCaggRIScvrkaSJm9WI"
-      },
-      "artists": [
-        {
-          "name": "Brooke Bentham",
-          "url": "https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A"
-        }
-      ],
-      "duration_ms": 257147,
-      "name": "Heavy Head (Keep It Near)",
-      "url": "https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Family Album",
         "url": "https://open.spotify.com/album/5u6PO5NjPvgFDcc3EkTyVD"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 307880,
       "name": "Family Album",
       "url": "https://open.spotify.com/track/0ydnbv4CT5dUh7WMdHtWBN"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Heavy Head (Keep It Near)",
+        "url": "https://open.spotify.com/album/2wlsCaggRIScvrkaSJm9WI"
+      },
+      "artists": [
+        {
+          "name": "Brooke Bentham",
+          "url": "https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A"
+        }
+      ],
+      "duration_ms": 257147,
+      "name": "Heavy Head (Keep It Near)",
+      "url": "https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Garden Dove",
-        "url": "https://open.spotify.com/album/34eazCBah7uqLtj4wVOf3T"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Garden Dove",
-      "url": "https://open.spotify.com/track/3wYl7lRiqN3Z685E7LuA6k"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 195494,
       "name": "Paula Collins",
       "url": "https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Garden Dove",
+        "url": "https://open.spotify.com/album/34eazCBah7uqLtj4wVOf3T"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Garden Dove",
+      "url": "https://open.spotify.com/track/3wYl7lRiqN3Z685E7LuA6k"
     },
     {
       "added_at": "2023-10-13 19:48:40",

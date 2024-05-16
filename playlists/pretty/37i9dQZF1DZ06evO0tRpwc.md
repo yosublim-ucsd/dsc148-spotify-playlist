@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 
 ### [This Is Daniela Araújo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tRpwc)
 
-> This is Daniela Araújo\. The essential tracks, all in one playlist.
+> This is Daniela Araújo\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,968 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,967 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 49 | [Lo Que Hace Falta](https://open.spotify.com/track/4QqyzeKCR16fgCz4RGgVEN) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Nexus VII](https://open.spotify.com/album/2R3mfkFyi2rdOHqVhdE5fw) | 4:45 |
 | 50 | [Sala](https://open.spotify.com/track/50ncoSJxBb3wbVGHUcPSwu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo: Sessions](https://open.spotify.com/album/3Dzq8QRbp61WJD1d0wjpqS) | 5:18 |
 
-Snapshot ID: `ZkFYAAAAAAC6aUhrCgq3Uo7paromXrIX`
+Snapshot ID: `ZkFYAAAAAABwL7UBkKuiSu9PgwI+6NWj`

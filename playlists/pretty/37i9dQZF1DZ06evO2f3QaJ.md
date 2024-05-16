@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. The essential tracks, all in one playlist.
+> This is Zudizilla\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 780 likes - 42 songs - 2 hr 39 min
 
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 41 | [Foco nos Planos](https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 3:56 |
 | 42 | [TELA EM BRANCO](https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Monique Brito](https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:19 |
 
-Snapshot ID: `ZkFYAAAAAACZECbQnOBLwuOsg0q3FS+7`
+Snapshot ID: `ZkFYAAAAAAAS7fmdcSIMCTAxrzHu1oLZ`

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,855 songs - 4 day 1 hr 46 min
+1,856 songs - 4 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1298,6 +1298,7 @@
 | [Playlist](https://open.spotify.com/track/0TLtjH5IDsmrZvvPSwB0A6) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc), [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Playlist](https://open.spotify.com/album/19p2ZM4dceuzqmCQUSyecU) | 2:33 | 2021-05-05 | 2022-04-14 |
 | [Please Don't Leave Just Yet](https://open.spotify.com/track/1kHTb9Mq9FbBKqhH4RjCIi) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Please Don't Leave Just Yet](https://open.spotify.com/album/27L7VdlM5R2B1ZK9hjZYDT) | 3:49 | 2021-08-06 | 2022-06-15 |
 | [Please Love Me](https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Love Letters](https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe) | 2:29 | 2024-01-12 | 2024-02-17 |
+| [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 | 2024-05-15 |  |
 | [pop tarts](https://open.spotify.com/track/3P23kcmBXrFyGmbthN3DLK) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [who gives a f\*\*k?](https://open.spotify.com/album/6LAD5tDe1O0PGXWgOqoND9) | 3:07 | 2021-02-22 | 2021-02-27 |
 | [poppin](https://open.spotify.com/track/7hHZuFMAyVj48DwxhZE9IK) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [poppin](https://open.spotify.com/album/2Z5ksNiLa2fNEi7zWWt7Z5) | 3:49 | 2021-08-06 | 2022-04-15 |
 | [Porsche](https://open.spotify.com/track/1mYzzRRD6wB9xVAxUllDqw) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Porsche](https://open.spotify.com/album/2QoW4xvavVf9KYiIGNBNm8) | 3:35 | 2020-10-20 | 2021-06-03 |
@@ -1442,7 +1443,7 @@
 | [Shitty People](https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Shitty People](https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s) | 2:41 | 2022-06-01 | 2022-06-15 |
 | [Shock Flesh](https://open.spotify.com/track/5x9TpKuPv0dkGF5jxUNgZd) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Shock Flesh](https://open.spotify.com/album/5v5XVEaBSrL2wAURNfUEAf) | 3:41 | 2022-04-08 | 2022-07-29 |
 | [Shook](https://open.spotify.com/track/2ei1umCvdqtDMG8zfC9GRY) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Shook](https://open.spotify.com/album/0uKOb1sntZv5UcXt9XwwWv) | 2:29 | 2021-06-25 | 2022-04-13 |
-| [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 | 2024-04-22 |  |
+| [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 | 2024-04-22 | 2024-05-16 |
 | [Shoplifting From Nike](https://open.spotify.com/track/5EXIUR2WuZPGp5unl9or0V) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Shoplifting From Nike](https://open.spotify.com/album/2qt1TfPRUFkI6qJzsZMOvC) | 2:21 | 2023-07-21 | 2023-07-29 |
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 | 2022-12-10 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 |  |
@@ -1518,7 +1519,7 @@
 | [spinnin](https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [spinnin](https://open.spotify.com/album/0SL254Ra6O4r6VXzrIBTzW) | 2:11 | 2021-10-22 | 2022-04-16 |
 | [Spinning](https://open.spotify.com/track/0R6pHybIu4aJA6gJEJgRbc) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Spinning](https://open.spotify.com/album/6dKyD7dQTcNnSYSoedettQ) | 3:08 | 2021-05-10 | 2021-10-23 |
 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 | 2021-05-03 | 2021-10-14 |
-| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-04-05 |  |
+| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-05 |  |
 | [Split Up](https://open.spotify.com/track/1VNxSjEjFNcV1n2KET3QM9) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Little Demon Boy](https://open.spotify.com/album/1DubHATL9RqfbfD6Y1lAWa) | 2:27 | 2023-09-08 | 2023-09-23 |
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2021-03-08 | 2022-04-09 |
 | [Sprinter Van](https://open.spotify.com/track/0pHQLn5ycYxJZRjgrqUyv7) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sprinter Van](https://open.spotify.com/album/5z3AIOnjlq6a0mP9AkK6J0) | 2:20 | 2021-10-03 | 2021-10-21 |

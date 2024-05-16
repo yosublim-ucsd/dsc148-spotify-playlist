@@ -1,13 +1,29 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Ley Soul",
-  "num_followers": 217218,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Mitchy",
+  "num_followers": 217512,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj12zwAAAADBc4F2+klT5IyBSKy1yNcD",
+  "snapshot_id": "ZkTNFwAAAAABEaj3SUMt0CyhpRK8Rh03",
   "tracks": [
+    {
+      "added_at": "2024-05-15 14:56:23",
+      "album": {
+        "name": "Television",
+        "url": "https://open.spotify.com/album/7azrGthLlLzYSALyEWq4ne"
+      },
+      "artists": [
+        {
+          "name": "Moon Tide Gallery",
+          "url": "https://open.spotify.com/artist/5yS0ICIkgehkPHwYCpe5Hy"
+        }
+      ],
+      "duration_ms": 152472,
+      "name": "Television",
+      "url": "https://open.spotify.com/track/0X8bnjtn3TXsMRcnIpQFaG"
+    },
     {
       "added_at": "2024-05-02 21:04:29",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 180040,
       "name": "I HATE IT TOO",
       "url": "https://open.spotify.com/track/6CCWKFDhQamC5rGxM97Erj"
+    },
+    {
+      "added_at": "2024-05-15 14:56:23",
+      "album": {
+        "name": "Guava Jelly",
+        "url": "https://open.spotify.com/album/7gGEDm7eBmFiStGV09YAjl"
+      },
+      "artists": [
+        {
+          "name": "Royce Fisherman",
+          "url": "https://open.spotify.com/artist/2tdQ97EH4slBa4xawJS0GR"
+        }
+      ],
+      "duration_ms": 144185,
+      "name": "Guava Jelly",
+      "url": "https://open.spotify.com/track/0rpqWuNaBE7lqcITyWx84y"
+    },
+    {
+      "added_at": "2024-05-15 14:56:23",
+      "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
+      },
+      "artists": [
+        {
+          "name": "biblemami",
+          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
     },
     {
       "added_at": "2024-05-08 04:00:00",
@@ -41,6 +89,22 @@
       "url": "https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O"
     },
     {
+      "added_at": "2024-05-15 14:56:23",
+      "album": {
+        "name": "I Saw Jon Hamm At The Beach",
+        "url": "https://open.spotify.com/album/4zqYeafhR8rI5KONk7udHW"
+      },
+      "artists": [
+        {
+          "name": "Loose Buttons",
+          "url": "https://open.spotify.com/artist/6xRfeX9EnnnXrKlzMUr10y"
+        }
+      ],
+      "duration_ms": 217781,
+      "name": "I Saw Jon Hamm At The Beach",
+      "url": "https://open.spotify.com/track/7uyjIiva3TyQ5jhVAWPQvS"
+    },
+    {
       "added_at": "2024-05-08 04:00:00",
       "album": {
         "name": "Sunday (1994)",
@@ -57,6 +121,22 @@
       "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
     },
     {
+      "added_at": "2024-05-15 14:56:23",
+      "album": {
+        "name": "Regret It",
+        "url": "https://open.spotify.com/album/0a2sbZKn8nU5J33DZZ62A9"
+      },
+      "artists": [
+        {
+          "name": "sandy crow",
+          "url": "https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC"
+        }
+      ],
+      "duration_ms": 151775,
+      "name": "Regret It",
+      "url": "https://open.spotify.com/track/6EdSQmDDc8n9jz3bEphwRp"
+    },
+    {
       "added_at": "2024-05-08 04:00:00",
       "album": {
         "name": "falling over you",
@@ -71,6 +151,22 @@
       "duration_ms": 203491,
       "name": "falling over you",
       "url": "https://open.spotify.com/track/6MNvLsYULJDHCMaouEau1V"
+    },
+    {
+      "added_at": "2024-05-15 14:56:23",
+      "album": {
+        "name": "OK OK",
+        "url": "https://open.spotify.com/album/4Eo5QHYjrKahSzXMAp1cEH"
+      },
+      "artists": [
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "OK OK",
+      "url": "https://open.spotify.com/track/7jUHpMHisyNj0uuiDjfuJD"
     },
     {
       "added_at": "2024-05-08 04:00:00",
@@ -105,6 +201,26 @@
       "url": "https://open.spotify.com/track/3nFh3VQoEFJYl1jz2VcWbh"
     },
     {
+      "added_at": "2024-05-15 14:56:23",
+      "album": {
+        "name": "Float Away",
+        "url": "https://open.spotify.com/album/4GDvgtNZKYKZMbcxpCoyAr"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Jennessa Cairo",
+          "url": "https://open.spotify.com/artist/2c2zQ7hv1bVv6JF2aF5dxn"
+        }
+      ],
+      "duration_ms": 126304,
+      "name": "Float Away",
+      "url": "https://open.spotify.com/track/6OMHusMo9jZemASNaFSd4X"
+    },
+    {
       "added_at": "2024-04-24 04:00:00",
       "album": {
         "name": "spiderman",
@@ -135,6 +251,22 @@
       "duration_ms": 190985,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/7LlEvapUX8DuR2k2Ssc0TI"
+    },
+    {
+      "added_at": "2024-05-15 14:56:23",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/04mFlTHvB6PqmhftxBmzyb"
+      },
+      "artists": [
+        {
+          "name": "Treanne",
+          "url": "https://open.spotify.com/artist/0qypHSRrtxZDp1vOifgM2w"
+        }
+      ],
+      "duration_ms": 138663,
+      "name": "It's Ur Birthday",
+      "url": "https://open.spotify.com/track/0SCjjcTT8eDH0MHXoLgjZI"
     },
     {
       "added_at": "2024-05-08 04:00:00",
@@ -1495,202 +1627,6 @@
       "duration_ms": 206085,
       "name": "oldnews",
       "url": "https://open.spotify.com/track/4GPW2IKUMthbk3GA0f2rVD"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "ostara",
-        "url": "https://open.spotify.com/album/5LNXtOnZB6ERdI4xBxFMAj"
-      },
-      "artists": [
-        {
-          "name": "faery",
-          "url": "https://open.spotify.com/artist/7uzaNaDY7uPjwR2mTKf41a"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "ostara",
-      "url": "https://open.spotify.com/track/5JuFgpXOFteFZASjAdZRZK"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Thanks So Much",
-        "url": "https://open.spotify.com/album/2Wci0uRKwLR63NcvHg0vIU"
-      },
-      "artists": [
-        {
-          "name": "Cusp",
-          "url": "https://open.spotify.com/artist/07nDyiBj44NtwrqJJ54Or8"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "The Alternative",
-      "url": "https://open.spotify.com/track/4CmPBOuhNWAA7AdaOYyTp5"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "someone else's eyes",
-        "url": "https://open.spotify.com/album/0srIUGDcjkSY8KRHD5AWEj"
-      },
-      "artists": [
-        {
-          "name": "Molly Seger",
-          "url": "https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9"
-        }
-      ],
-      "duration_ms": 237681,
-      "name": "someone else's eyes",
-      "url": "https://open.spotify.com/track/49AqYOwYQpCS0MBJCKENkt"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Cosette",
-        "url": "https://open.spotify.com/album/7pdvYdg7dQsVcbWMQrwOGo"
-      },
-      "artists": [
-        {
-          "name": "Wilby",
-          "url": "https://open.spotify.com/artist/1Y6ECsGp8e5NR3v88UBIPT"
-        }
-      ],
-      "duration_ms": 235077,
-      "name": "Cosette",
-      "url": "https://open.spotify.com/track/1e0ghRCHwjnwEY0llpODwH"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Seeds of Evil",
-        "url": "https://open.spotify.com/album/2iXteeFOazB3q1QuJfTtjf"
-      },
-      "artists": [
-        {
-          "name": "youbet",
-          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
-        }
-      ],
-      "duration_ms": 187171,
-      "name": "Seeds of Evil",
-      "url": "https://open.spotify.com/track/0wExq390PWRzSvpBlfjQTs"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1AqR0VZf6nkCN4c9sNXSoO"
-      },
-      "artists": [
-        {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
-        }
-      ],
-      "duration_ms": 198424,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Zodiac 13",
-        "url": "https://open.spotify.com/album/5pnrPb0afNwHXXG78XeHWQ"
-      },
-      "artists": [
-        {
-          "name": "No Windows",
-          "url": "https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr"
-        }
-      ],
-      "duration_ms": 172565,
-      "name": "Zodiac 13",
-      "url": "https://open.spotify.com/track/79U8WWKFkPFaKhCk0VPkWE"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Better Than You Found Me",
-        "url": "https://open.spotify.com/album/4BZDpUEyuf9X2w106KXATg"
-      },
-      "artists": [
-        {
-          "name": "Carol Ades",
-          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
-        }
-      ],
-      "duration_ms": 178781,
-      "name": "Better Than You Found Me",
-      "url": "https://open.spotify.com/track/4GTNljZipQMiMorVaaU6sA"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Fire Excape",
-        "url": "https://open.spotify.com/album/66GbIXnM68XdHD0Bt8sTfh"
-      },
-      "artists": [
-        {
-          "name": "Zsela",
-          "url": "https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6"
-        }
-      ],
-      "duration_ms": 198184,
-      "name": "Fire Excape",
-      "url": "https://open.spotify.com/track/1WSJbZvaflbboQCFnTRcYu"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Sponges (feat. Yuki Dreams Again)",
-        "url": "https://open.spotify.com/album/04iVPsioBbQ9OyofuMhV7E"
-      },
-      "artists": [
-        {
-          "name": "Yumi Nu",
-          "url": "https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ"
-        },
-        {
-          "name": "Yuki Dreams Again",
-          "url": "https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t"
-        }
-      ],
-      "duration_ms": 193528,
-      "name": "Sponges (feat. Yuki Dreams Again)",
-      "url": "https://open.spotify.com/track/3vbncj6w2VZRdGNa5H8u5h"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/43vuxuNaINUWh2zIUIunAm"
-      },
-      "artists": [
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        }
-      ],
-      "duration_ms": 197337,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/04llqALZygRbebIFQTZ7fq"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "no self-lover",
-        "url": "https://open.spotify.com/album/7w8j0yr7A9foRq6dWtW02X"
-      },
-      "artists": [
-        {
-          "name": "Planet CeCe",
-          "url": "https://open.spotify.com/artist/2Dm5FxDhagd4UdwKHXrzyb"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "no self-lover",
-      "url": "https://open.spotify.com/track/6mP9VmjkAKS3L0bJ8PSERw"
     }
   ],
   "unique_name": "Fresh Finds Indie",

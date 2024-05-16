@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-432 songs - 1 day 3 hr 52 min
+433 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Adult Swim](https://open.spotify.com/track/6ilMAkM2m0gVAqcHykqIxD) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Adult Swim](https://open.spotify.com/album/5DpXAgQPCAkbjoNUGICXTb) | 2:50 | 2024-04-19 |  |
 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 | 2022-05-02 | 2024-04-19 |
 | [Albatross](https://open.spotify.com/track/4wFVYrjDT0rpEC1yjjs5hb) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Albatross](https://open.spotify.com/album/3x66IuQoDTrZnBrIYgXzQu) | 4:14 | 2022-05-02 | 2022-07-29 |
+| [Albatross](https://open.spotify.com/track/6IpolXK6gnVn0c6ilWI2QX) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Albatross](https://open.spotify.com/album/4w4oqNyTpCFFZOQ92mbGn5) | 3:26 | 2024-05-10 |  |
 | [All Hell For A Basement](https://open.spotify.com/track/221OWzoN7cDlxo5fenxawk) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Brothers And Sisters, Are You Ready?](https://open.spotify.com/album/3frowGksCCfhu5gdxQI7J2) | 4:00 | 2022-05-02 | 2022-07-29 |
 | [All I Really Want \- 2015 Remaster](https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:44 | 2023-05-18 | 2024-04-19 |
 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2024-04-19 |  |
@@ -252,7 +253,7 @@
 | [Nowhere With You](https://open.spotify.com/track/1GPLHjO42TFuIos5JNjYpL) | [Joel Plaskett Emergency](https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3) | [Make A Little Noise EP](https://open.spotify.com/album/14mVaClWSmMct9XwQahGb0) | 3:01 | 2022-05-02 |  |
 | [O Siem](https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN) | 4:27 | 2022-05-02 | 2022-07-09 |
 | [Ocean Pearl](https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Smilin' Buddha Cabaret](https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE) | 3:27 | 2022-05-02 | 2022-09-11 |
-| [Oddly Enough](https://open.spotify.com/track/0wTRA4l4kRHoG7qR29vvXi) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Oddly Enough](https://open.spotify.com/album/2mwK3K2XDwk1U0umEjtS9b) | 2:45 | 2024-05-03 |  |
+| [Oddly Enough](https://open.spotify.com/track/0wTRA4l4kRHoG7qR29vvXi) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Oddly Enough](https://open.spotify.com/album/2mwK3K2XDwk1U0umEjtS9b) | 2:45 | 2024-05-03 | 2024-05-16 |
 | [Old Ties and Companions](https://open.spotify.com/track/6n7Aj8Ok0kyktLxFjcUreo) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Such Jubilee](https://open.spotify.com/album/3hwYI0XK165g3EOCedgOMZ) | 3:08 | 2024-04-19 |  |
 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2023-07-14 | 2024-04-13 |
 | [On the Hood](https://open.spotify.com/track/1g82MrdFflRqyHExNxQG0Y) | [Matt Mays](https://open.spotify.com/artist/0VlFTYaJsPHdN3Vb3EvBsn) | [Matt Mays & El Torpedo](https://open.spotify.com/album/5TNLRd0U6x8FMp9nh3dFmr) | 4:56 | 2023-10-06 | 2023-10-14 |

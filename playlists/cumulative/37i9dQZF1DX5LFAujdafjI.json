@@ -2479,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "So What If I'm A Freak",
+        "url": "https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "So What If I'm A Freak",
+      "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
+    },
+    {
+      "album": {
         "name": "Something On My Mind",
         "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
       },
@@ -2974,7 +2992,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"

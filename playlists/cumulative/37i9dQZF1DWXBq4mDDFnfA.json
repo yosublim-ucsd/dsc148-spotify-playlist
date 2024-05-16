@@ -32,19 +32,19 @@
       },
       "artists": [
         {
-          "name": "Anders Miolin",
-          "url": "https://open.spotify.com/artist/0BNlCKQPbiGIRTVnzKfJgy"
-        },
-        {
           "name": "Claude Debussy",
           "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Anders Miolin",
+          "url": "https://open.spotify.com/artist/0BNlCKQPbiGIRTVnzKfJgy"
         }
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 379800,
-      "name": "2 Arabesques (arr. A. Miolin): Arabesque No. 1",
+      "name": "2 Arabesques: Arabesque No. 1 (Arr. A. Miolin)",
       "url": "https://open.spotify.com/track/15p1shEFbxSlTTwxdGMggG"
     },
     {

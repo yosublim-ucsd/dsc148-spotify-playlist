@@ -1,13 +1,37 @@
 {
-  "description": "This Is Baby Tate. Los temas esenciales, todos en una lista.",
+  "description": "This is Baby Tate. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 4337,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAAXYmo0WbZMZqatDXLJ4f/7",
+  "snapshot_id": "ZkKpgAAAAACJHX12cbrfNS7SzLKorGJU",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
     {
       "added_at": null,
       "album": {
@@ -79,42 +103,6 @@
       "duration_ms": 196610,
       "name": "Grip",
       "url": "https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hey, Mickey!",
-        "url": "https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 173532,
-      "name": "Hey, Mickey!",
-      "url": "https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 172248,
-      "name": "Sl*t Him Out",
-      "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
     },
     {
       "added_at": null,
@@ -223,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 180174,
+      "name": "Aura (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O"
       },
@@ -267,42 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 180174,
-      "name": "Aura (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 125312,
-      "name": "Pedi",
-      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Picky (feat. Baby Tate)",
         "url": "https://open.spotify.com/album/67G5PaoGn8tGMLQLrq9Cab"
       },
@@ -319,6 +291,22 @@
       "duration_ms": 159402,
       "name": "Picky (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/192uOLdDgV4cNLJJ1vkLN0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 125312,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
     },
     {
       "added_at": null,
@@ -367,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 172793,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "While You Wait",
         "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
       },
@@ -403,6 +375,22 @@
       "duration_ms": 208149,
       "name": "Come First",
       "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 172793,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
     },
     {
       "added_at": null,
@@ -439,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys Are From Mars (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
       },
@@ -471,6 +443,22 @@
       "duration_ms": 192386,
       "name": "Boys Are From Mars (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
     },
     {
       "added_at": null,
@@ -523,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 198482,
-      "name": "BLACK PEARLS (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2000AND4EVA",
         "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
       },
@@ -559,6 +527,26 @@
       "duration_ms": 172993,
       "name": "DAMN DANIEL (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 198482,
+      "name": "BLACK PEARLS (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
     },
     {
       "added_at": null,
@@ -927,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 204838,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ms. Out Tonight",
         "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
       },
@@ -943,22 +947,6 @@
       "duration_ms": 209577,
       "name": "Dirty Girl (with Baby Tate)",
       "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 204838,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df"
     },
     {
       "added_at": null,
@@ -987,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
-        "url": "https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK"
+        "name": "What's Love / Sl*t Him Out",
+        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
       },
       "artists": [
         {
@@ -996,9 +984,25 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 66240,
-      "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
-      "url": "https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR"
+      "duration_ms": 250774,
+      "name": "What's Love",
+      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 139495,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/1H4XdPDGFxwCdhNrWwdLpT"
     }
   ],
   "unique_name": "This Is Baby Tate",

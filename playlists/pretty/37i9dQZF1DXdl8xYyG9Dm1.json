@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=P_hQxbrsQ_2BiMszZLQp2A\"> ODUMODUBLVCK</a>",
-  "num_followers": 151061,
+  "num_followers": 151184,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 198709,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2024-05-10 00:01:00",

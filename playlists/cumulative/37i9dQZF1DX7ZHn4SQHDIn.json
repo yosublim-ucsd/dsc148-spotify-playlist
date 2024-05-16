@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Algorhythm",
+        "url": "https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187140,
+      "name": "Algorhythm",
+      "url": "https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a"
+    },
+    {
+      "album": {
         "name": "The Red Sleeve OST Part.9",
         "url": "https://open.spotify.com/album/5iPfEIz0ZnUL62v4ZkuizS"
       },

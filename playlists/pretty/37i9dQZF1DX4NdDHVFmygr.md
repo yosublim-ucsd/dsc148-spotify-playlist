@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains du moment\. Cover: Lbenj
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,133 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,322 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 10 | [Jelaba](https://open.spotify.com/track/2R3LdO45fHZvI0emsSyu8j) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Jelaba](https://open.spotify.com/album/7iQGFJd51Xe1UA1dseLtmM) | 3:06 |
 | 11 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
 | 12 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
-| 13 | [Corazon](https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Corazon](https://open.spotify.com/album/4fdpS6Q0wfscKoVy42UcND) | 3:08 |
+| 13 | [Corazon](https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Corazon](https://open.spotify.com/album/4fdpS6Q0wfscKoVy42UcND) | 3:08 |
 | 14 | [Di Mochkila](https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Di Mochkila](https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK) | 2:25 |
 | 15 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 |
 | 16 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 |

@@ -1,6 +1,6 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 559953,
+  "num_followers": 560703,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 155880,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
       "artists": [
         {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 329400,
-      "name": "She Talks To Angels",
-      "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"
+      "duration_ms": 346960,
+      "name": "Love Bites - Remastered 2017",
+      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
         }
       ],
-      "duration_ms": 346960,
-      "name": "Love Bites - Remastered 2017",
-      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
+      "duration_ms": 329400,
+      "name": "She Talks To Angels",
+      "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+        "name": "The Seventh One",
+        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+      "duration_ms": 269226,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
     }
   ],
   "unique_name": "Easy Rock",

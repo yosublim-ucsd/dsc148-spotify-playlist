@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13701,
+  "num_followers": 13702,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
+    },
+    {
+      "added_at": "2024-05-09 15:17:57",
+      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -107,22 +123,6 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
-      },
-      "artists": [
-        {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
-    },
-    {
-      "added_at": "2024-05-09 15:17:57",
-      "album": {
         "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
       },
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
-      },
-      "artists": [
-        {
-          "name": "Acoustic Collabo",
-          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
-    },
-    {
-      "added_at": "2024-05-09 15:17:57",
-      "album": {
         "name": "Someone's playlist #7",
         "url": "https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 155133,
       "name": "You are My Night",
       "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
+    },
+    {
+      "added_at": "2024-05-09 15:17:57",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Collabo",
+          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
     },
     {
       "added_at": "2024-05-09 15:17:57",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
-        "name": "Summer Festa",
-        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+        "name": "Winded",
+        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
       },
       "artists": [
         {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
         }
       ],
-      "duration_ms": 190040,
-      "name": "Summer Festa",
-      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
+      "duration_ms": 183000,
+      "name": "Winded",
+      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
     },
     {
       "added_at": "2024-05-09 15:17:57",
@@ -263,6 +263,22 @@
       "duration_ms": 220413,
       "name": "sleepless nights (My Sweden Laundry #1)",
       "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
+    },
+    {
+      "added_at": "2024-05-09 15:17:57",
+      "album": {
+        "name": "Summer Festa",
+        "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Summer Festa",
+      "url": "https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR"
     },
     {
       "added_at": "2024-05-09 15:17:57",
@@ -319,22 +335,6 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
-        "name": "Winded",
-        "url": "https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p"
-      },
-      "artists": [
-        {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Winded",
-      "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
-    },
-    {
-      "added_at": "2024-05-09 15:17:57",
-      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 9",
         "url": "https://open.spotify.com/album/2X9zquczSyputp24lpjLkr"
       },
@@ -367,38 +367,6 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
-        "name": "i and i",
-        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "i and i",
-      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
-    },
-    {
-      "added_at": "2024-05-09 15:17:57",
-      "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
-        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
-      },
-      "artists": [
-        {
-          "name": "Who R U?",
-          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
-      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
-    },
-    {
-      "added_at": "2024-05-09 15:17:57",
-      "album": {
         "name": "Asteroid",
         "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
@@ -427,6 +395,38 @@
       "duration_ms": 267893,
       "name": "What Should I do",
       "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
+    },
+    {
+      "added_at": "2024-05-09 15:17:57",
+      "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
+        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
+      },
+      "artists": [
+        {
+          "name": "Who R U?",
+          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
+      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
+    },
+    {
+      "added_at": "2024-05-09 15:17:57",
+      "album": {
+        "name": "i and i",
+        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "i and i",
+      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
     },
     {
       "added_at": "2024-05-09 15:17:57",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
-        "name": "Cat, work for me",
-        "url": "https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH"
-      },
-      "artists": [
-        {
-          "name": "Homemade recording",
-          "url": "https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Cat, work for me",
-      "url": "https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo"
-    },
-    {
-      "added_at": "2024-05-09 15:17:57",
-      "album": {
         "name": "Lonely night",
         "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 187186,
       "name": "Lost Stars",
       "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
+    },
+    {
+      "added_at": "2024-05-09 15:17:57",
+      "album": {
+        "name": "Cat, work for me",
+        "url": "https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH"
+      },
+      "artists": [
+        {
+          "name": "Homemade recording",
+          "url": "https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Cat, work for me",
+      "url": "https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo"
     },
     {
       "added_at": "2024-05-09 15:17:57",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
+    },
+    {
+      "added_at": "2024-05-09 15:17:57",
+      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 201151,
       "name": "Do You Know My Heart (Feat. NUITNUIT)",
       "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
-    },
-    {
-      "added_at": "2024-05-09 15:17:57",
-      "album": {
-        "name": "Seoul Check-in OST Part 8",
-        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
     },
     {
       "added_at": "2024-05-09 15:17:57",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
-        "name": "Hi, I am Deulre Jang",
-        "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
-      },
-      "artists": [
-        {
-          "name": "deulrejang",
-          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
-        }
-      ],
-      "duration_ms": 205756,
-      "name": "People",
-      "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
-    },
-    {
-      "added_at": "2024-05-09 15:17:57",
-      "album": {
         "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
         "url": "https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz"
       },
@@ -699,34 +683,34 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
-        "name": "Don't Know",
-        "url": "https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI"
+        "name": "Hi, I am Deulre Jang",
+        "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
       },
       "artists": [
         {
-          "name": "\uae40\uc218\uc601 Kim Suyoung",
-          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
         }
       ],
-      "duration_ms": 193039,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m"
+      "duration_ms": 205756,
+      "name": "People",
+      "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
     },
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
-        "name": "Call me now",
-        "url": "https://open.spotify.com/album/31a95WflUiSabbWq0RAchF"
+        "name": "RE: CORD",
+        "url": "https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L"
       },
       "artists": [
         {
-          "name": "JI JIN SEOK",
-          "url": "https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw"
+          "name": "THE ADE",
+          "url": "https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy"
         }
       ],
-      "duration_ms": 233520,
-      "name": "Call me now",
-      "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
+      "duration_ms": 191331,
+      "name": "Cheer Up - Acoustic Version",
+      "url": "https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ"
     },
     {
       "added_at": "2024-05-09 15:17:57",
@@ -747,6 +731,38 @@
     {
       "added_at": "2024-05-09 15:17:57",
       "album": {
+        "name": "Call me now",
+        "url": "https://open.spotify.com/album/31a95WflUiSabbWq0RAchF"
+      },
+      "artists": [
+        {
+          "name": "JI JIN SEOK",
+          "url": "https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Call me now",
+      "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
+    },
+    {
+      "added_at": "2024-05-09 15:17:57",
+      "album": {
+        "name": "Don't Know",
+        "url": "https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\uc601 Kim Suyoung",
+          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+        }
+      ],
+      "duration_ms": 193039,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m"
+    },
+    {
+      "added_at": "2024-05-09 15:17:57",
+      "album": {
         "name": "OceanooM\u2218\u263d",
         "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 205306,
       "name": "OceanooM\u2218\u263d",
       "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
-    },
-    {
-      "added_at": "2024-05-09 15:17:57",
-      "album": {
-        "name": "RE: CORD",
-        "url": "https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L"
-      },
-      "artists": [
-        {
-          "name": "THE ADE",
-          "url": "https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy"
-        }
-      ],
-      "duration_ms": 191331,
-      "name": "Cheer Up - Acoustic Version",
-      "url": "https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ"
     },
     {
       "added_at": "2024-05-09 15:17:57",

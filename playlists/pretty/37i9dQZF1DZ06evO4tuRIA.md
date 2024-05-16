@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 ### [This Is LEGADO 7](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tuRIA)
 
-> This Is LEGADO 7\. Los temas esenciales, todos en una lista.
+> This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,292 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,323 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 49 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 |
 | 50 | [En Guadalajara \(feat\. Regulo Caro\)](https://open.spotify.com/track/10DlJh9Rjh9WEJR9XsF12r) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Guadalajara \(feat\. Regulo Caro\)](https://open.spotify.com/album/6i227sRqKcAUgVVozEnkzt) | 2:47 |
 
-Snapshot ID: `ZkFYAAAAAABvG3LNTrb2Kbv5CXVW79bi`
+Snapshot ID: `ZkKpgAAAAAAyxHPj1PZnTwHTK4e8iHkd`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 ### [This Is Violent Soho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BE4x4)
 
-> This Is Violent Soho\. Los temas esenciales, todos en una lista.
+> This is Violent Soho\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 6,162 likes - 32 songs - 1 hr 57 min
 
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 15 | [So Sentimental](https://open.spotify.com/track/6QVLOVHtYM3oCbiLkr8B8K) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:12 |
 | 16 | [Pick it Up Again](https://open.spotify.com/track/1viAAfAMoasBY2OrIiGlxC) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:10 |
 | 17 | [In The Aisle](https://open.spotify.com/track/463MctMxMjFOa8fIgC3lry) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 3:41 |
-| 18 | [Home Haircut](https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10th Anniversary Edition\)](https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ) | 3:43 |
+| 18 | [Tinderbox](https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Tinderbox](https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89) | 3:54 |
 | 19 | [How To Taste](https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:30 |
-| 20 | [Tinderbox](https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Tinderbox](https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89) | 3:54 |
+| 20 | [Home Haircut](https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost \(10th Anniversary Edition\)](https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ) | 3:43 |
 | 21 | [OK Cathedral](https://open.spotify.com/track/45ERko0Qgz1a1xAHrrKLD9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:44 |
 | 22 | [Canada](https://open.spotify.com/track/7eqpBCYDhTfqDCluyE6Ssd) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:29 |
 | 23 | [No Shade](https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:13 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 31 | [Love Is A Heavy Word](https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:05 |
 | 32 | [Here Be Dragons](https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:14 |
 
-Snapshot ID: `ZkFYAAAAAAAwaIKKEdm96R1B/BccceYS`
+Snapshot ID: `ZkKpgAAAAAD3MKXGD7WR6LBFWLl0VY4r`

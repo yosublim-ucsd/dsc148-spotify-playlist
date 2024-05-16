@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 57183,
+  "num_followers": 57246,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "De California Te Escribo",
         "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 212040,
       "name": "El Rey Pobre",
       "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
+        "name": "Camionero",
+        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
+      },
+      "artists": [
+        {
+          "name": "Los Kapsi",
+          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "El Camionero",
+      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
         "name": "Homenaje al Rey Pobre",
         "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 172714,
       "name": "Carta de Luto",
       "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Camionero",
-        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
-      },
-      "artists": [
-        {
-          "name": "Los Kapsi",
-          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "El Camionero",
-      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 165305,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Nadie Sabe Lo Que Tiene",
         "url": "https://open.spotify.com/album/3WHMGAj0LPWPM5jJxAMO3y"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 203149,
       "name": "Alta y Delgadita",
       "url": "https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 165305,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
     },
     {
       "added_at": "2024-02-23 17:22:55",

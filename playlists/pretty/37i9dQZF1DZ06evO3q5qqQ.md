@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 ### [This Is Grupo Arriesgado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3q5qqQ)
 
-> This Is Grupo Arriesgado\. Los temas esenciales, todos en una lista.
+> This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,763 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,774 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 50 | [Jimenez](https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 3:04 |
 | 51 | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE) | 2:33 |
 
-Snapshot ID: `ZkFYAAAAAAC4ZN+qPKIrHQ4bWB/zxiUH`
+Snapshot ID: `ZkFYAAAAAABDM/oJf11Go/boMJvpsVrA`

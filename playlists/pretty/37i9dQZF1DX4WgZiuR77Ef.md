@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,176 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,184 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Supa Luv \- Single Edit](https://open.spotify.com/track/1uxbslkj4RMMcMzgjcfCO4) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH), [Terri Green](https://open.spotify.com/artist/4HZ66P83S8A8xzUwnyQv46), [Herman Behrens](https://open.spotify.com/artist/6PMJ6BMi80FjWLmmcruXWG) | [Supa Luv](https://open.spotify.com/album/1yKfYG8NDgwaKPp07ac52p) | 3:16 |
+| 1 | [Supa Luv \- Single Edit](https://open.spotify.com/track/1uxbslkj4RMMcMzgjcfCO4) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH), [Terri Green](https://open.spotify.com/artist/4HZ66P83S8A8xzUwnyQv46), [Hermann Behrens](https://open.spotify.com/artist/73bjEl8ZsFAD9bseNBNP8F) | [Supa Luv](https://open.spotify.com/album/1yKfYG8NDgwaKPp07ac52p) | 3:16 |
 | 2 | [Freaky Toe \- Richie Stevens Mix](https://open.spotify.com/track/6eHKzialPRpOgAdI3nv8Vs) | [Smudge All Stars](https://open.spotify.com/artist/5MFlcmLtTY9qSoLsrUmbwU), [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc), [Richie Stevens](https://open.spotify.com/artist/0EZnKWoAW1x51x8STsHhsl), [Mary Pearce](https://open.spotify.com/artist/0bxWOv7vpuQ6ndnEzFPkhg), [Charlotte Kelly](https://open.spotify.com/artist/2rKAvmLXx1LNSMz5WL38T4), [DJ D\-Zire](https://open.spotify.com/artist/60ODIW6N3aAyqsESw620Qn), [Trey Lewd](https://open.spotify.com/artist/6T1ZLCrTSmLviH2wME84tD) | [Freaky Toe \(Richie Stevens Mix\)](https://open.spotify.com/album/1YWhNV0h1tUX8thhaWWZdQ) | 4:41 |
 | 3 | [Ain't No Stoppin'](https://open.spotify.com/track/36Mz7rP2M344WqPuPvflzk) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [NEXT](https://open.spotify.com/album/0FVriDwwrFhjRGCnETcRxP) | 5:10 |
 | 4 | [We Outta B Funkin’](https://open.spotify.com/track/13bwv0FluqVWXokMD8Wl7w) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Soopafly](https://open.spotify.com/artist/1fGNdi2u7XLBVYaq6fJUaT), [Temu Bacot](https://open.spotify.com/artist/7h6PVrpt8H8BTvmL9LBxsU), [Myra Washington](https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho) | [We Outta B Funkin’](https://open.spotify.com/album/01wrFWt0KcWYNV2CIOslnN) | 4:21 |

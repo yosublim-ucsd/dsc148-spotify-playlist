@@ -2226,10 +2226,28 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 141133,
       "name": "strangers",
       "url": "https://open.spotify.com/track/6ErwR2KyOsB0xc4oYFMPkW"
+    },
+    {
+      "album": {
+        "name": "bleeding heart (with Track-by-Track Commentary)",
+        "url": "https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141133,
+      "name": "strangers",
+      "url": "https://open.spotify.com/track/6NrRwZOXIvYgEOnofnEE9V"
     },
     {
       "album": {

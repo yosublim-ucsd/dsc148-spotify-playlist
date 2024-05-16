@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to current Pakistani Hits\. 🇵🇰 Cover: Kaavish, Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,428 likes - 56 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,505 likes - 56 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-674 songs - 1 day 9 hr 35 min
+675 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,7 @@
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-07-28 | 2022-10-07 |
 | [Maybe](https://open.spotify.com/track/6t3p46iojKrsOln9fazd23) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Maybe](https://open.spotify.com/album/5QB6qx8rvfe52nHrialFPJ) | 2:33 | 2022-03-25 | 2022-04-19 |
 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 | 2022-01-21 | 2023-11-11 |
-| [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 | 2023-12-22 |  |
+| [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 | 2023-12-22 | 2024-05-16 |
 | [Met Him Last Night \- Dave Audé Remix](https://open.spotify.com/track/0mHz9vqcznnfUcLqfQb3kd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Met Him Last Night \(Dave Audé Remix\)](https://open.spotify.com/album/4MBl3DXlabFiVVQX6gwZLd) | 3:44 | 2022-07-08 | 2022-07-29 |
 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 | 2023-10-20 | 2024-01-03 |
 | [MIND YOUR BUSINESS](https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [MIND YOUR BUSINESS](https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h) | 3:15 | 2023-07-21 | 2023-10-17 |
@@ -491,6 +491,7 @@
 | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB) | 3:18 | 2021-12-17 | 2023-01-01 |
 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 | 2024-01-26 | 2024-03-04 |
 | [Right 2 Left](https://open.spotify.com/track/3xE0VoNYqeBYX86YUQBdFQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 2:34 | 2022-03-25 | 2022-04-19 |
+| [Right Here](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Right Here](https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU) | 2:59 | 2024-05-07 |  |
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2021-12-17 | 2022-07-02 |
 | [Risk It All](https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Risk It All](https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5) | 2:58 | 2022-07-08 | 2023-06-05 |
 | [River](https://open.spotify.com/track/1RtbazjklNd77Tvfe8FT0n) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [River](https://open.spotify.com/album/7jF1bepJ7sVe464qHF5aJ0) | 2:49 | 2022-03-25 | 2022-04-19 |

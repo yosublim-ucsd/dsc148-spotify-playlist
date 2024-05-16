@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 308,070 likes - 213 songs - 14 hr 7 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 308,052 likes - 213 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 3 | [River Flows in You](https://open.spotify.com/track/3xr8COed4nPPn6XWZ0iCGr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [The Best \- Reminiscent 10th Anniversary](https://open.spotify.com/album/7dZ49XnPBaF4e6SMYmsNQ1) | 3:38 |
 | 4 | [Nocturnes, Op\. 9: II\. Andante \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/track/1VorQQ8lFs1yqA1EDpZ9it) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Chopin Nocturnes](https://open.spotify.com/album/70f4SwAji5L8oHrePCMbIR) | 4:19 |
 | 5 | [The Way It Was](https://open.spotify.com/track/7B5Xs96cpGcl4zHNuZ9nLB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Way It Was](https://open.spotify.com/album/1OOhYgpQiNlwt17PDvMkPM) | 3:20 |
-| 6 | [Rachmaninoff: Rhapsody on a Theme of Paganini](https://open.spotify.com/track/7ihUaN200f5Av7pJRbRvz4) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51) | [Classic II](https://open.spotify.com/album/1jYhZVt3I0N2M081cXrSjE) | 2:49 |
+| 6 | [Rhapsody on a Theme of Paganini](https://open.spotify.com/track/7ihUaN200f5Av7pJRbRvz4) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Classic II](https://open.spotify.com/album/1jYhZVt3I0N2M081cXrSjE) | 2:49 |
 | 7 | [Lullaby for Jacques et Brune](https://open.spotify.com/track/5OO5egVOjkqFASx06Ikz75) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL) | [Lullaby for Jacques et Brune](https://open.spotify.com/album/32mCZb70GUxJWlkMTte4M8) | 2:26 |
 | 8 | [Reverie](https://open.spotify.com/track/0MXPtGPzHBwiPioVDzVtfJ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Reverie](https://open.spotify.com/album/0nO7IYnaHm7eNwNRULgLG4) | 3:36 |
 | 9 | [Violin Concerto No\. 4 in F Minor, RV 297 "Winter": II\. Largo](https://open.spotify.com/track/4dFPaQkHKPW6ZOoBrzsf03) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Luka Faulisi](https://open.spotify.com/artist/2KtIu7iMseGtOPctMbh6P3), [Martyna Pastuszka](https://open.spotify.com/artist/1WxdwuAJj8RrWVit3p4xVk), [{oh!} Orkiestra](https://open.spotify.com/artist/4xGOi4Iqowq0b2bSi566b8) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/5fCtiBE7EaxV09YhteEjeC) | 1:46 |

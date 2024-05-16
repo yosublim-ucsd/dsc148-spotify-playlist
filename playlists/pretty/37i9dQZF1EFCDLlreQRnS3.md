@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 85 | [Sugar Rush](https://open.spotify.com/track/07jlo8nEfBOOkL3Rn1CTGN) | [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw) | [Sugar Rush](https://open.spotify.com/album/1xZHrkLd5Nk9xMouzDEzHK) | 2:44 |
 | 86 | [Lovefool](https://open.spotify.com/track/6kYs7BzNz8uo8v2ofrZcVF) | [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Lovefool](https://open.spotify.com/album/12jDom2LoFIXzPQxdPAtM5) | 2:18 |
 | 87 | [Golden \- aus "Angry Birds 2 \- Der Film"](https://open.spotify.com/track/4kOMmI3oj5KYGyzbwSudWs) | [Lukas Rieger](https://open.spotify.com/artist/0QPfdFGUGhEOrYAzdUw1Xx) | [Justice](https://open.spotify.com/album/1ryFzCTmkh8M2aKpI9Jnkn) | 2:36 |
-| 88 | [Tonight](https://open.spotify.com/track/5iFLF2ivhu5FhEuRb8mZvQ) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87) | [Tonight](https://open.spotify.com/album/5kL4mILARwBilOo4ZPyxrs) | 3:06 |
-| 89 | [Oasis](https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Oasis](https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I) | 2:43 |
+| 88 | [Oasis](https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Oasis](https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I) | 2:43 |
+| 89 | [Tonight](https://open.spotify.com/track/5iFLF2ivhu5FhEuRb8mZvQ) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87) | [Tonight](https://open.spotify.com/album/5kL4mILARwBilOo4ZPyxrs) | 3:06 |
 | 90 | [Give & Take](https://open.spotify.com/track/5REoSlUK3GE3sz796vEnQA) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Give & Take](https://open.spotify.com/album/3pZ6sDrRXyTuWf6Y6KByze) | 2:50 |
 | 91 | [Adult Films](https://open.spotify.com/track/4ulPR5zyHO2PUY0NWhjXAH) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU) | [Adult Films](https://open.spotify.com/album/7t5inmowqO4WoBmmvYzLK8) | 2:56 |
 | 92 | [Fiancé](https://open.spotify.com/track/764fINoQQmvNeAleav2Uuy) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [Shapeshifter](https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT) | 3:15 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 100 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 101 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `AbRV9AAAAADeRAEIsC++/j8Eh04jK6qN`
+Snapshot ID: `AbRblAAAAADBPwxJnu9eMF4sVog4xIn6`

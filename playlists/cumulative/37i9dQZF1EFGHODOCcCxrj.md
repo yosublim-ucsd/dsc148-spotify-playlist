@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6lpMQmg0sVeladspBg3BYf">Danny L Harle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-79 songs - 9 hr 12 min
+80 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [Houdini](https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:05 | 2024-05-05 |  |
 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 | 2024-05-01 |  |
 | [I Feel Alright](https://open.spotify.com/track/723TSBtH8XHrx5iGhTXYtu) | [Bonzai](https://open.spotify.com/artist/5BydzSmKBIh8HkWFwx4Rrg) | [I Feel Alright](https://open.spotify.com/album/3HvST025ZBfVOtbfCFAyda) | 3:15 | 2024-05-01 |  |
+| [Illusion](https://open.spotify.com/track/1Qvo9ZyBWoedUiOc0zTCbm) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/3bHBja0WHDXuhZjFzWFImc) | 3:08 | 2024-05-15 |  |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-05-01 | 2024-05-06 |
-| [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 | 2024-05-05 |  |
+| [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 | 2024-05-05 | 2024-05-16 |
 | [ILY2](https://open.spotify.com/track/1KPS1MHPrq9uPklJX8Q4XW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:16 | 2024-05-01 |  |
 | [Insomnia](https://open.spotify.com/track/1hEusmjsW1ZxqmBYs9AmfR) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:14 | 2024-05-01 |  |
 | [Interlocked](https://open.spotify.com/track/53ClYkBItyVBclAdFVMJt5) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Mayhem](https://open.spotify.com/artist/3n2IwUzU4qAAITPTGtoQWp) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 2:46 | 2024-05-01 |  |

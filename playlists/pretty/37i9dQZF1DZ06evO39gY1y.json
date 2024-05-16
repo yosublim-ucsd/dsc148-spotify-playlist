@@ -1,12 +1,12 @@
 {
   "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
-  "num_followers": 222380,
+  "num_followers": 222426,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAABX4v1cLaeyEV8urQ5QD8/a",
+  "snapshot_id": "ZkKpgAAAAACAVqcymy0O+hgehzx2duUo",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Tardes",
+      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Tardes",
-      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vegetales Con Pescado",
         "url": "https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3"
       },
@@ -879,30 +879,6 @@
       "duration_ms": 182200,
       "name": "Vegetales Con Pescado",
       "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anticonceptivos",
-        "url": "https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Anticonceptivos",
-      "url": "https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt"
     },
     {
       "added_at": null,
@@ -939,6 +915,30 @@
       "duration_ms": 211000,
       "name": "Aunque la Vida Duele",
       "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anticonceptivos",
+        "url": "https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Anticonceptivos",
+      "url": "https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt"
     },
     {
       "added_at": null,

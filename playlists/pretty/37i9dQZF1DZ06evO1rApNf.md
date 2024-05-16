@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 ### [This Is Mau y Ricky](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rApNf)
 
-> This is Mau y Ricky\. The essential tracks, all in one playlist.
+> This Is Mau y Ricky\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,075 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,082 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 50 | [Vivir Sin Ti \(con CNCO\)](https://open.spotify.com/track/4zKgBYhLafD8xszGCAiThg) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 3:24 |
 | 51 | [OUCH](https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:17 |
 
-Snapshot ID: `ZkFYAAAAAABLFTXGfXwQxPacNnftAONx`
+Snapshot ID: `ZkFYAAAAAADLj7mOLd//9GpLEFklSRLY`

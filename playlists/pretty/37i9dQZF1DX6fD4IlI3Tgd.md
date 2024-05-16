@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: Esteman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW \- Grupo Frontera & Maluma](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
+### [HOT NOW \- Natanael Cano](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
 
 > 🔥🔥🔥 LAS CANCIONES MÁS 🔥🔥🔥
 
-546 songs - 1 day 5 hr 6 min
+547 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 | 2022-06-10 | 2022-11-05 |
 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 | 2022-01-27 | 2022-03-04 |
 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-10 | 2023-05-18 |
-| [U R SUCH A LAME!](https://open.spotify.com/track/1LSMnUYYLatAZT6HH6H2en) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/3cPAXZQxGuEmfxGaIedLeW) | 2:16 | 2024-04-11 |  |
+| [U R SUCH A LAME!](https://open.spotify.com/track/1LSMnUYYLatAZT6HH6H2en) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/3cPAXZQxGuEmfxGaIedLeW) | 2:16 | 2024-04-11 | 2024-05-16 |
 | [U R SUCH A LAME! \- RMX](https://open.spotify.com/track/5UWWDzGBAQgN3BIxh6ZFmX) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [U R SUCH A LAME! \(RMX\)](https://open.spotify.com/album/0AzBQzdTwYYk9aHSqyffWT) | 2:47 | 2024-05-03 |  |
 | [Un Chingazo](https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Un Chingazo](https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG) | 3:09 | 2022-06-23 | 2022-09-17 |
 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-05-18 | 2023-06-09 |
@@ -546,6 +546,7 @@
 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 | 2022-01-27 | 2022-03-17 |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-02-22 | 2022-10-07 |
 | [Ya Pedo Quién Sabe](https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Pedo Quién Sabe](https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA) | 3:11 | 2024-03-08 | 2024-04-26 |
+| [Ya Te Olvide](https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya Te Olvide](https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB) | 3:36 | 2024-05-16 |  |
 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2023-02-10 | 2023-06-09 |
 | [YCQVM](https://open.spotify.com/track/0DhXBCJuq3cImBDmGNgT7A) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [YCQVM](https://open.spotify.com/album/7lurBuFjNftY7NNRV1WWRr) | 3:05 | 2024-03-08 | 2024-03-23 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-12 | 2024-02-17 |

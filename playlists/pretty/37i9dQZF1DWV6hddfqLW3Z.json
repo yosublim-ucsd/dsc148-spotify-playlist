@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 795514,
+  "num_followers": 795557,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Esmeraldas (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "A noite",
-      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Coisa de Acender",
         "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 291533,
       "name": "Se...",
       "url": "https://open.spotify.com/track/0PgsB53yhlKs8D19LgYU4i"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Esmeraldas (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A noite",
+      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Djavan",
-        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "Oceano",
-      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "P\u00fablico",
         "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 131426,
       "name": "Devolva-Me (Ao Vivo)",
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Djavan",
+        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "Oceano",
+      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -359,22 +359,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Um dia de domingo",
-        "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
+        "name": "Enciclop\u00e9dia Musical Brasileira",
+        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
       },
       "artists": [
         {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 251903,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
+      "duration_ms": 235080,
+      "name": "Brasil pandeiro",
+      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -399,18 +395,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Enciclop\u00e9dia Musical Brasileira",
-        "url": "https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz"
+        "name": "Um dia de domingo",
+        "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 235080,
-      "name": "Brasil pandeiro",
-      "url": "https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d"
+      "duration_ms": 251903,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 212320,
       "name": "N\u00e3o Olha Assim Pra Mim",
       "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "PRISCILLA",
+        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "BOSSA (feat. P\u00e9ricles)",
+      "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Lisboa-Madrid",
         "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
       },
@@ -651,22 +671,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Palavras No Corpo",
-        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 242054,
-      "name": "Palavras No Corpo",
-      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Agridoce",
         "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
       },
@@ -683,22 +687,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "PRISCILLA",
-        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
+        "name": "Palavras No Corpo",
+        "url": "https://open.spotify.com/album/6J9hUU0JUAaRttmy2c0InM"
       },
       "artists": [
         {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 205640,
-      "name": "BOSSA (feat. P\u00e9ricles)",
-      "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
+      "duration_ms": 242054,
+      "name": "Palavras No Corpo",
+      "url": "https://open.spotify.com/track/4xeP4rHORzLbJlaJVHWybQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 179933,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Nossa m\u00fasica",
+        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 239642,
+      "name": "Nossa m\u00fasica",
+      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Nossa m\u00fasica",
-        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 239642,
-      "name": "Nossa m\u00fasica",
-      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 216842,
       "name": "Quase Sem Querer",
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 223773,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Pra Gente Acordar",
         "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 156906,
       "name": "Voltar \u00e0 Bahia",
       "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 223773,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
     },
     {
       "added_at": "2024-05-10 03:00:00",

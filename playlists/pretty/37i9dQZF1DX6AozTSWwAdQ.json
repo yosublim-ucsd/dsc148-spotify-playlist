@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60461,
+  "num_followers": 60476,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-05-13 01:00:00",
       "album": {
-        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
-        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "I'm Just a Kid",
-      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
-    },
-    {
-      "added_at": "2024-05-13 01:00:00",
-      "album": {
         "name": "No Sound Without Silence",
         "url": "https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 245466,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i"
+    },
+    {
+      "added_at": "2024-05-13 01:00:00",
+      "album": {
+        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "I'm Just a Kid",
+      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
     },
     {
       "added_at": "2024-05-13 01:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-05-13 01:00:00",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 143407,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv"
-    },
-    {
-      "added_at": "2024-05-13 01:00:00",
-      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 250763,
       "name": "Bad Habits (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+    },
+    {
+      "added_at": "2024-05-13 01:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 143407,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv"
     },
     {
       "added_at": "2024-05-13 01:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-05-13 01:00:00",
       "album": {
-        "name": "Dead Club City (Deluxe)",
-        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 183849,
-      "name": "Time :: Fate :: Karma :: God",
-      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
-    },
-    {
-      "added_at": "2024-05-13 01:00:00",
-      "album": {
         "name": "Nice To Meet Ya",
         "url": "https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 158805,
       "name": "Nice To Meet Ya",
       "url": "https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H"
+    },
+    {
+      "added_at": "2024-05-13 01:00:00",
+      "album": {
+        "name": "Dead Club City (Deluxe)",
+        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 183849,
+      "name": "Time :: Fate :: Karma :: God",
+      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
     },
     {
       "added_at": "2024-05-13 01:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-05-13 01:00:00",
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 224310,
-      "name": "Bobby Sox",
-      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+      "duration_ms": 183014,
+      "name": "All 4 Nothing (I'm So In Love)",
+      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

@@ -2,7 +2,7 @@
 
 ### [Kalye Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: HELLMERRY, Al James
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Young Blood Neet x Bugoy Na Koykoy
 
 147 songs - 8 hr 22 min
 

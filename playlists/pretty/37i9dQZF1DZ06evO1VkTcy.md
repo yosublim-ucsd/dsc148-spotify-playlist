@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 ### [This Is Lourena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VkTcy)
 
-> This is Lourena\. The essential tracks, all in one playlist.
+> This is Lourena\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,271 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,274 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 49 | [1910](https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [1910](https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g) | 8:37 |
 | 50 | [Poetisas no Topo 2](https://open.spotify.com/track/1X0ZLlZeFQ6JJ70avGNTJI) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy) | [Poetisas no Topo 2](https://open.spotify.com/album/7MyEI58jpFnvdNlVJS3UXX) | 9:16 |
 
-Snapshot ID: `ZkFYAAAAAADdrRX+6Wn7G3wcPwfz4Ae+`
+Snapshot ID: `ZkFYAAAAAAAUN8nO+fMnkSwJyLg5hQS3`

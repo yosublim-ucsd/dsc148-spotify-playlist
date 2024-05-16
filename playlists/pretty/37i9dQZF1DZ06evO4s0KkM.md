@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 ### [This Is Dropkick Murphys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s0KkM)
 
-> This Is Dropkick Murphys\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,791 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,810 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Never Git Drunk No More \(feat\. Nikki Lane\)](https://open.spotify.com/track/7IbJEpBPdVuec0WhORFwHJ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:25 |
 | 50 | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/track/7I5gYS1jiCj3MDS6NUPvCc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 2:46 |
 
-Snapshot ID: `ZkFYAAAAAADz2R6MT25ym4OURX36GvuB`
+Snapshot ID: `ZkFYAAAAAAC1sjxyqo0tQlWAxocV5H79`

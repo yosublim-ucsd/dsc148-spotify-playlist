@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Indien.
 
-1,413 songs - 3 day 5 hr 51 min
+1,415 songs - 3 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,6 +844,7 @@
 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 | 2023-01-06 | 2023-02-11 |
 | [omokage.](https://open.spotify.com/track/0p3qc7N93wst5tEUBcLvUi) | [snctm.](https://open.spotify.com/artist/0N9VAxuKTAu0yAGwhIbyfg), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [omokage.](https://open.spotify.com/album/03P3mYMwAnR2QjEPrESGbc) | 4:25 | 2022-03-24 | 2022-04-15 |
 | [On My Way Home](https://open.spotify.com/track/2oaTpgQ9Mow7dnH3CTbXy2) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [DIZIWASTRIPPY](https://open.spotify.com/artist/2N23SDzDpduiMR58p4hQPe) | [On My Way Home](https://open.spotify.com/album/44yBdfGLBK6RXyWaEhnWkx) | 3:48 | 2022-03-24 | 2022-06-08 |
+| [On My Way Up](https://open.spotify.com/track/7EtfO5qsc7uempj2JR7Jwv) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Shadows of Blue](https://open.spotify.com/album/0jP5PBitTaYMC9TscNx38q) | 3:06 | 2024-05-10 |  |
 | [on the right track](https://open.spotify.com/track/6usIo4k5JfrPvIhau9nN2p) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHY AM I HERE](https://open.spotify.com/album/6DknG0hh3OZf7QTQCA8Ms2) | 2:53 | 2022-03-24 | 2022-08-02 |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2022-02-03 | 2022-12-15 |
 | [one way](https://open.spotify.com/track/5DQX3YKH3270aIOqMQfpzt) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [one way](https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA) | 3:34 | 2023-01-27 | 2023-10-06 |
@@ -998,7 +999,7 @@
 | [Se Te Cayó](https://open.spotify.com/track/2eyaovnTryBlxQZrQ2TDMx) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Se Te Cayó](https://open.spotify.com/album/6P8eo6PshOT2xbv2ISKOGz) | 2:52 | 2022-03-24 | 2022-08-02 |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2022-03-24 | 2022-04-20 |
 | [Sei del Mattino](https://open.spotify.com/track/0SeoeFL0XM5YpTag15SX9n) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 3:05 | 2024-03-15 | 2024-03-18 |
-| [Self\-Care 101](https://open.spotify.com/track/4PK8vwNQuscUXTx4ySI8bm) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Self\-Care 101](https://open.spotify.com/album/7KMHbaMkFywuhG4OJ9piN5) | 3:21 | 2024-04-26 |  |
+| [Self\-Care 101](https://open.spotify.com/track/4PK8vwNQuscUXTx4ySI8bm) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Self\-Care 101](https://open.spotify.com/album/7KMHbaMkFywuhG4OJ9piN5) | 3:21 | 2024-04-26 | 2024-05-16 |
 | [sennik \(vol.2\)](https://open.spotify.com/track/39zA36ymdG2wApLdb4uSqT) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [sennik \(vol.2\)](https://open.spotify.com/album/2yCozxpnHoE06DqOrR5kFh) | 2:28 | 2022-11-18 | 2023-05-31 |
 | [SENSATION](https://open.spotify.com/track/0pIWSS7xmChrYzfNFEfdzn) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:27 | 2023-08-18 | 2024-03-09 |
 | [SENSATION](https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:27 | 2023-08-18 | 2023-11-29 |
@@ -1151,7 +1152,7 @@
 | [Two Cents](https://open.spotify.com/track/6hqJupJkVQmwHzOYeeO7fE) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Two Cents](https://open.spotify.com/album/1aXviDV63VHVx0bYgySnvf) | 3:55 | 2024-03-08 |  |
 | [TY \(for ruining my life\)](https://open.spotify.com/track/7ry0hUCtzs54MaGmYo1kON) | [Adib Sin](https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [TY \(for ruining my life\)](https://open.spotify.com/album/3nP9a6GXTFbE9I9f3XEOqQ) | 2:10 | 2023-05-30 | 2023-07-08 |
 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 | 2023-05-30 | 2023-11-18 |
-| [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-04-19 |  |
+| [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-04-19 | 2024-05-16 |
 | [Tết Real Khum?](https://open.spotify.com/track/5rvn7zGZYmFDq27Y2P7tPu) | [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Tết Real Khum?](https://open.spotify.com/album/73Pkh381e7WaWIBbbdksA8) | 3:38 | 2022-03-24 | 2023-04-18 |
 | [U](https://open.spotify.com/track/0AqiXztTD2a0aeHkQsS1Lm) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [U](https://open.spotify.com/album/0cXPw9gEzyMguXppD8E0Ii) | 2:57 | 2022-02-03 | 2023-01-21 |
 | [U+](https://open.spotify.com/track/1eWE9MBcX8cqYPXhdf2d38) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [U+](https://open.spotify.com/album/2PzmUiqcZUdaje0jkKmHkn) | 2:35 | 2022-02-03 | 2022-12-15 |
@@ -1216,6 +1217,7 @@
 | [When You Call](https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [When You Call](https://open.spotify.com/album/4fsTGQy7aqZI8xGM1eEYnz) | 3:05 | 2024-03-29 |  |
 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 | 2023-10-13 | 2024-04-19 |
 | [Who Do I Call?](https://open.spotify.com/track/7luOSOrHYssQ1usmsFbc66) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Who Do I Call?](https://open.spotify.com/album/7245tBW17hLcjSaOsn5k8n) | 1:54 | 2022-03-24 | 2022-08-02 |
+| [who's he gonna take home](https://open.spotify.com/track/6RmC8PwJ4qwVM1d6j2hfn2) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [who’s he gonna take home](https://open.spotify.com/album/6uqrJkdDkQgi61cLkTRqCw) | 2:20 | 2024-05-10 |  |
 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-09-01 | 2023-12-02 |
 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 | 2023-05-04 | 2023-07-05 |
 | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 | 2022-08-26 | 2023-05-31 |

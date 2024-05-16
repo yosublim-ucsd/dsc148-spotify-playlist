@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. The essential tracks, all in one playlist.
+> This is Jon Hassell\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,002 likes - 51 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,004 likes - 51 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 50 | [Miracle Steps](https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 4:21 |
 | 51 | [Ya Safwa Ti](https://open.spotify.com/track/3HIOAlsSQQI8PtI5sNcK1F) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 5:17 |
 
-Snapshot ID: `ZkFYAAAAAABGZaQ7qCb48cKrFSSKr9jY`
+Snapshot ID: `ZkFYAAAAAADW3hFPo52eLst2nObCybbE`

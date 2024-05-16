@@ -1,6 +1,6 @@
 {
   "description": "The indie viral hits you can't escape. Cover: Chappell Roan ",
-  "num_followers": 455861,
+  "num_followers": 456263,
   "original_name": "Indie that hits different ",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Looking Out for You",
         "url": "https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 179499,
       "name": "Looking Out for You",
       "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Wasted Summers",
+        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
+      },
+      "artists": [
+        {
+          "name": "juju<3",
+          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
+        }
+      ],
+      "duration_ms": 130384,
+      "name": "Wasted Summers",
+      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Angel Youth",
-        "url": "https://open.spotify.com/album/7CESHttY9U97FElD5JAXSW"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 57370,
-      "name": "From the Subway Train",
-      "url": "https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Faye Webster",
         "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 155500,
       "name": "Better in the Dark",
       "url": "https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Angel Youth",
+        "url": "https://open.spotify.com/album/7CESHttY9U97FElD5JAXSW"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 57370,
+      "name": "From the Subway Train",
+      "url": "https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ"
     },
     {
       "added_at": "2024-05-09 22:00:00",

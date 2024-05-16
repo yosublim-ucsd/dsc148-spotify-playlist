@@ -59,6 +59,42 @@
     },
     {
       "album": {
+        "name": "Renaissance the Classics",
+        "url": "https://open.spotify.com/album/5VfGdkkLQ3W46hDleZeu0v"
+      },
+      "artists": [
+        {
+          "name": "Clivill\u00e9s & Cole",
+          "url": "https://open.spotify.com/artist/1Pr4kwH4jQuyc6pZ83VsC0"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 724551,
+      "name": "A Deeper Love - A Deeper Love Mix",
+      "url": "https://open.spotify.com/track/2JfEU7FCnzZNO4hSykiNyA"
+    },
+    {
+      "album": {
+        "name": "A Lifetime On The Hips",
+        "url": "https://open.spotify.com/album/5dAV5QoPhNwRzcHimnCo7W"
+      },
+      "artists": [
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250875,
+      "name": "A Lifetime On The Hips",
+      "url": "https://open.spotify.com/track/6fykoj2sAs3lWWt5b9YIHc"
+    },
+    {
+      "album": {
         "name": "Afrocatalans",
         "url": "https://open.spotify.com/album/6gGqk6p3w5blkrLUlVOBHv"
       },
@@ -114,10 +150,62 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 263204,
       "name": "Ayo!",
       "url": "https://open.spotify.com/track/56Qy96D9EjCe4f3ejHSKVH"
+    },
+    {
+      "album": {
+        "name": "Barely Breaking Even (Ron Trent & Matthias Heilbronn Remixes)",
+        "url": "https://open.spotify.com/album/12p8KeNs0Km1N8JE9b7el2"
+      },
+      "artists": [
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Leroy Burgess",
+          "url": "https://open.spotify.com/artist/6bgccXVuEX61NPVEXj3Xp8"
+        },
+        {
+          "name": "Universal Robot Band",
+          "url": "https://open.spotify.com/artist/2o9c2U0sHi0yM1h5TwmXT9"
+        },
+        {
+          "name": "Patrick Adams",
+          "url": "https://open.spotify.com/artist/6kDB1SwHh0sj9jwTwnYohY"
+        },
+        {
+          "name": "Matthias Heilbronn",
+          "url": "https://open.spotify.com/artist/7u0upwuMvTXRbeQoFmGKlG"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589746,
+      "name": "Barely Breaking Even - Matthias Heilbronn's BKNY Mix",
+      "url": "https://open.spotify.com/track/6Und1Kb0x2sPA2fMQaRH2W"
+    },
+    {
+      "album": {
+        "name": "Beats",
+        "url": "https://open.spotify.com/album/7aosIhQ3ieIrNDaXfnpkJL"
+      },
+      "artists": [
+        {
+          "name": "Kink",
+          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530757,
+      "name": "Beats",
+      "url": "https://open.spotify.com/track/0tsLU5zBNECt6wpBnarQs0"
     },
     {
       "album": {
@@ -132,7 +220,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 404560,
       "name": "Bizarre Love Triangle - Extended Dance Mix",
       "url": "https://open.spotify.com/track/7FJMRaPU32nqAHK3jMPkyQ"
@@ -179,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Calinda",
+        "url": "https://open.spotify.com/album/3LXjY7JPyaIWi8mzWrY6nX"
+      },
+      "artists": [
+        {
+          "name": "Laurent Wolf",
+          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326546,
+      "name": "Calinda - Club Mix",
+      "url": "https://open.spotify.com/track/0C1loegZKOZCHvQD5buUy9"
+    },
+    {
+      "album": {
         "name": "Care 4 U",
         "url": "https://open.spotify.com/album/42UbW8NCTXppa42NEgAuPE"
       },
@@ -190,7 +296,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 273934,
       "name": "Care 4 U",
       "url": "https://open.spotify.com/track/5qnR7addSkFe7TXDV2PDry"
@@ -237,6 +343,28 @@
     },
     {
       "album": {
+        "name": "Count You In",
+        "url": "https://open.spotify.com/album/0EYFFVUyCzO0aphx48DXGT"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        },
+        {
+          "name": "Frazer Ray",
+          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170694,
+      "name": "Count You In",
+      "url": "https://open.spotify.com/track/66ccmJw57D8HRXm89dtBFG"
+    },
+    {
+      "album": {
         "name": "D.J.'s Delight (Mark Knight & Michael Gray Remix)",
         "url": "https://open.spotify.com/album/0EVYVQuVGP25cR4TxR4WK5"
       },
@@ -260,6 +388,28 @@
       "duration_ms": 354959,
       "name": "D.J.'s Delight - Mark Knight & Michael Gray Extended",
       "url": "https://open.spotify.com/track/2QAcZsBCy2BTDAP1KTXNwL"
+    },
+    {
+      "album": {
+        "name": "Da Luna",
+        "url": "https://open.spotify.com/album/0ZLBLne6xL1K60ZTaPT6qm"
+      },
+      "artists": [
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        },
+        {
+          "name": "Mobin Master",
+          "url": "https://open.spotify.com/artist/2TzJ8bPytoVvCvtXilaxYi"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335238,
+      "name": "Da Luna (Mobin Master Remix Edit)",
+      "url": "https://open.spotify.com/track/326amxVZ0bnnZH8KPUlUky"
     },
     {
       "album": {
@@ -336,7 +486,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 212242,
       "name": "Disco Machine Sound - Edit",
       "url": "https://open.spotify.com/track/0NXuHz3OxNd0jZtGeqgR6v"
@@ -415,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Defected Presents House Masters - Junior Jack",
+        "url": "https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433034,
+      "name": "E Samba - Club Mix",
+      "url": "https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV"
+    },
+    {
+      "album": {
         "name": "Chapter Four Edits",
         "url": "https://open.spotify.com/album/2hA0WWK54BvOtBVuFsb3ki"
       },
@@ -430,6 +598,24 @@
       "duration_ms": 308160,
       "name": "Emmanuel's Groove",
       "url": "https://open.spotify.com/track/6e1id4vHQHd57s9PYYlUse"
+    },
+    {
+      "album": {
+        "name": "Everything Blooms Around Her",
+        "url": "https://open.spotify.com/album/4kbekoqQAWlGXkbfnhItpU"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230086,
+      "name": "Everything Blooms Around Her",
+      "url": "https://open.spotify.com/track/4eVI54n4Y1zJJIz0SczRb4"
     },
     {
       "album": {
@@ -462,7 +648,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 299693,
       "name": "Fantasy Girl",
       "url": "https://open.spotify.com/track/4HcUnUdPBuUS8ER88SDVpp"
@@ -724,7 +910,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 450706,
       "name": "Green Gold - Original Mix",
       "url": "https://open.spotify.com/track/4oNNWgfEscsqSbMFwmaYeo"
@@ -854,10 +1040,28 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 435931,
       "name": "I'm Alive - 2019 Remaster",
       "url": "https://open.spotify.com/track/7h6uQcrNnQYpKhw9X8VzRl"
+    },
+    {
+      "album": {
+        "name": "Illegal Love",
+        "url": "https://open.spotify.com/album/4JyjaK9g4rTeBQg2y8G988"
+      },
+      "artists": [
+        {
+          "name": "Jaymie Silk",
+          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213441,
+      "name": "Illegal Love",
+      "url": "https://open.spotify.com/track/7x03bt1bIbXhbcDdA1Gurz"
     },
     {
       "album": {
@@ -979,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "album": {
         "name": "Kitala Beat",
         "url": "https://open.spotify.com/album/7IkD2J470RjSa1sb8ovGwU"
       },
@@ -998,6 +1220,54 @@
       "duration_ms": 282880,
       "name": "Kitala Beat",
       "url": "https://open.spotify.com/track/3RBiNnEK0ZNZAkKdVGH7EW"
+    },
+    {
+      "album": {
+        "name": "Kwatamaja (Pete Herbert Remix)",
+        "url": "https://open.spotify.com/album/4LdvbKgCDyImJzvaekSbfY"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Jupiter & Okwess",
+          "url": "https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT"
+        },
+        {
+          "name": "Pete Herbert",
+          "url": "https://open.spotify.com/artist/1hySxd3wcF1XRQXyYSEblQ"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353949,
+      "name": "Kwatamaja - Pete Herbert Remix",
+      "url": "https://open.spotify.com/track/6TvCiVsXAl4hIHMDsNavCA"
+    },
+    {
+      "album": {
+        "name": "Best of Cruise Music 2020",
+        "url": "https://open.spotify.com/album/33OsPyIrfLWFuKlBFhrwDD"
+      },
+      "artists": [
+        {
+          "name": "MarkFunk",
+          "url": "https://open.spotify.com/artist/5z8oTxvOAgcWkuuHJVNfXS"
+        },
+        {
+          "name": "Fred Dekker",
+          "url": "https://open.spotify.com/artist/07ZpT2WakIEZIpJ256QrbW"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372480,
+      "name": "Latin Heat",
+      "url": "https://open.spotify.com/track/2YKpEkY1MFJBAu0iAY4b4O"
     },
     {
       "album": {
@@ -1024,7 +1294,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 345357,
       "name": "Let's Hold Our Hands Together - Eden Burns Dub",
       "url": "https://open.spotify.com/track/5XzfhJEtoRiia6gA0gW1bK"
@@ -1143,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Mahogany Sunset (Dub Mix)",
+        "url": "https://open.spotify.com/album/2ykPmmaLQe1yA0fmcN9kvh"
+      },
+      "artists": [
+        {
+          "name": "Scruscru",
+          "url": "https://open.spotify.com/artist/1NUvSIBsDRPoLWeGgzkEkn"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317543,
+      "name": "Mahogany Sunset - Dub Mix",
+      "url": "https://open.spotify.com/track/4BWa3eKJGKOwGGgB59BL9k"
+    },
+    {
+      "album": {
         "name": "Main Piano",
         "url": "https://open.spotify.com/album/3hkkDSoODBqmxz4zlBrplm"
       },
@@ -1176,7 +1464,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 252208,
       "name": "Marabelle",
       "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
@@ -1194,10 +1482,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 453013,
       "name": "Metronome - Cousin Cole Remix 5-2",
       "url": "https://open.spotify.com/track/1IlladEAY2gAesKLk6lACA"
+    },
+    {
+      "album": {
+        "name": "Get Nowt",
+        "url": "https://open.spotify.com/album/5cwy8yd0WRJavPkRimJe3W"
+      },
+      "artists": [
+        {
+          "name": "Tommy 2000",
+          "url": "https://open.spotify.com/artist/2J4nqVgYL8lhIuy2GYxHVc"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315223,
+      "name": "Music for a While",
+      "url": "https://open.spotify.com/track/37NwV7dhuqIPEKOmtZMS4u"
     },
     {
       "album": {
@@ -1212,7 +1518,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 277240,
       "name": "My Friend Dario - Extended Version",
       "url": "https://open.spotify.com/track/5snDAIWK0raol1bKwgNnwq"
@@ -1234,7 +1540,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 176752,
       "name": "My House",
       "url": "https://open.spotify.com/track/1jmUD5Oq3rAK0ln9IA0A4v"
@@ -1252,7 +1558,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 293875,
       "name": "Mysterious",
       "url": "https://open.spotify.com/track/1x145KjI99S1G8eC6TO7sy"
@@ -1282,6 +1588,42 @@
       "duration_ms": 235935,
       "name": "Na Real Sekele Fo'Ya - Escapade Edit",
       "url": "https://open.spotify.com/track/2F5ndth7ODtTzHC6X2JZb9"
+    },
+    {
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/6cUtlYLQKwgJUFL9frOWTF"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568822,
+      "name": "Nokturn - Grand Finale",
+      "url": "https://open.spotify.com/track/2q81sK0TSy9zO2j7tQ4jA4"
+    },
+    {
+      "album": {
+        "name": "Not Quite There Yet",
+        "url": "https://open.spotify.com/album/4LrDXNLrsBjbjx7Tjjteee"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255940,
+      "name": "Not Quite There Yet",
+      "url": "https://open.spotify.com/track/0EX0CP2EnRWSE3oQ4GVzcE"
     },
     {
       "album": {
@@ -1441,6 +1783,46 @@
     },
     {
       "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
+    },
+    {
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/12VFylHDX01Xw4joC9wH6Z"
+      },
+      "artists": [
+        {
+          "name": "Blue Boy",
+          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
+        },
+        {
+          "name": "Deep Zone",
+          "url": "https://open.spotify.com/artist/41nTSwlYFLk86zBOu9Mlj0"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450466,
+      "name": "Remember Me - Deep Zone Mix",
+      "url": "https://open.spotify.com/track/4pGvDgVwmSvFEpHiieC1w9"
+    },
+    {
+      "album": {
         "name": "The Klubb Vengeance EP",
         "url": "https://open.spotify.com/album/0JikuhglWtRON1vRFZU3pb"
       },
@@ -1513,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "album": {
         "name": "Son Of Dragon",
         "url": "https://open.spotify.com/album/4cyahRMWwxKmCYaRfsriRH"
       },
@@ -1546,6 +1946,24 @@
       "duration_ms": 181319,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+    },
+    {
+      "album": {
+        "name": "Sotto i Portici",
+        "url": "https://open.spotify.com/album/5OfijnhFpQO020EejojvFm"
+      },
+      "artists": [
+        {
+          "name": "Cristian Viviano",
+          "url": "https://open.spotify.com/artist/2X42T18Ayt5GW2JvxpZjTI"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415227,
+      "name": "Sotto i Portici",
+      "url": "https://open.spotify.com/track/3i3g62FO2nsyeC0iyxd7t8"
     },
     {
       "album": {
@@ -1679,6 +2097,28 @@
     },
     {
       "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/2xmZmMadLbd8Qh3wsymcOe"
+      },
+      "artists": [
+        {
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/0nSidP3h4TQD0bX6YrXEdY"
+        },
+        {
+          "name": "Groove Foundation",
+          "url": "https://open.spotify.com/artist/0EL6929k2tYlnZ20rrZcwB"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489400,
+      "name": "That Feeling - Stereo Mix",
+      "url": "https://open.spotify.com/track/4qcMzLuxX9kyj1afrCQthP"
+    },
+    {
+      "album": {
         "name": "That's Right (Edit)",
         "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
       },
@@ -1769,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "hurry up mixtape",
+        "url": "https://open.spotify.com/album/3fCTiizAiiH3S9cBn5Gad6"
+      },
+      "artists": [
+        {
+          "name": "Alvedon",
+          "url": "https://open.spotify.com/artist/6nFwmnSA3mMtoePROXi5LT"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341785,
+      "name": "WEArgue.",
+      "url": "https://open.spotify.com/track/4olRMQmnrKL84CVKvWW3R4"
+    },
+    {
+      "album": {
         "name": "Welcome to London (J.Sparrow Remix)",
         "url": "https://open.spotify.com/album/2f0VJt1NXPjsxRO4pmmiSF"
       },
@@ -1806,7 +2264,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 264868,
       "name": "Welcome to London - J.Sparrow Remix",
       "url": "https://open.spotify.com/track/1PfPqTqqM7apobxyQkIrvI"
@@ -1824,10 +2282,32 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 238228,
       "name": "What U Want - Edit",
       "url": "https://open.spotify.com/track/6NvjuIDIoOx0LKVoiJ5VQa"
+    },
+    {
+      "album": {
+        "name": "Yo Yo Get Funky (Andre Zimmer Remix)",
+        "url": "https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY"
+      },
+      "artists": [
+        {
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Yo Yo Get Funky - Andre Zimmer Remix",
+      "url": "https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVbfVJ3tB3QO"

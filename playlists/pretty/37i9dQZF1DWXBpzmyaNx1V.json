@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39251,
+  "num_followers": 39249,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "After Destruction",
-        "url": "https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX"
-      },
-      "artists": [
-        {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
-        }
-      ],
-      "duration_ms": 224263,
-      "name": "After Destruction",
-      "url": "https://open.spotify.com/track/3b0murHEJnNk0NiNOuoORG"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
         "name": "Junior",
         "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 277539,
       "name": "Domino",
       "url": "https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "After Destruction",
+        "url": "https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "duration_ms": 224263,
+      "name": "After Destruction",
+      "url": "https://open.spotify.com/track/3b0murHEJnNk0NiNOuoORG"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Paper Dolls",
-        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
+        "name": "Supermercado",
+        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
       },
       "artists": [
         {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
         }
       ],
-      "duration_ms": 120600,
-      "name": "Hello Tarantino",
-      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
+      "duration_ms": 242800,
+      "name": "Le grand \u00e9cart",
+      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Supermercado",
-        "url": "https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK"
+        "name": "Paper Dolls",
+        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
       },
       "artists": [
         {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
         }
       ],
-      "duration_ms": 242800,
-      "name": "Le grand \u00e9cart",
-      "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
+      "duration_ms": 120600,
+      "name": "Hello Tarantino",
+      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
     },
     {
       "added_at": "2024-02-16 18:40:38",

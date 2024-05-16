@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di ANNA e Lazza, Geolier, Don Joe, Ele A e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,107 likes - 85 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,134 likes - 85 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 32 | [INT’A BUFERA](https://open.spotify.com/track/216N9ie9uV2Mg9dCy6h5Wa) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INT’A BUFERA](https://open.spotify.com/album/3jM7GBHjZrU0BqbeaYIRZ7) | 2:59 |
 | 33 | [BUGIE \(prod\. 2nd Roof\)](https://open.spotify.com/track/4bT69rREWHEheKHomaCwid) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BUGIE](https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm) | 2:22 |
 | 34 | [ANIMA freestyle \#1](https://open.spotify.com/track/54TRLndviRvejAynFA6Ozk) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG) | [Anima Freestyle](https://open.spotify.com/album/3GPp3mt9fMBqoWKxygTdZ4) | 1:04 |
-| 35 | [MOTARD](https://open.spotify.com/track/1eMlp9lwJqs9Bnh2WeZhPu) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [MOTARD](https://open.spotify.com/album/0z0F6lC6Mdo7fOvk6sXGiH) | 2:22 |
+| 35 | [MOTARD \(feat\. Willy\)](https://open.spotify.com/track/1eMlp9lwJqs9Bnh2WeZhPu) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Willy](https://open.spotify.com/artist/3OPPr0QwjBGnWfaVkxBTow) | [MOTARD \(feat\. Willy\)](https://open.spotify.com/album/0z0F6lC6Mdo7fOvk6sXGiH) | 2:22 |
 | 36 | [ascoltala sotto le stelle](https://open.spotify.com/track/4GKsoTfNzI1BgFU2g3WR3W) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl) | [ascoltala sotto le stelle](https://open.spotify.com/album/3TDwJb4ZiUP64OjAwvw2UK) | 1:36 |
 | 37 | [LA MIA STORIA](https://open.spotify.com/track/0kOkLxf7bT1pnJe4mygyRv) | [DUS](https://open.spotify.com/artist/4gA9W1mk1xvTmxyLJsNfEY) | [LA MIA STORIA](https://open.spotify.com/album/25v9363mbKlA6V6oudgvwK) | 3:22 |
 | 38 | [OKKE OKKE](https://open.spotify.com/track/0HLEICEJB4UJNdwq3wBb74) | [Ryker](https://open.spotify.com/artist/2djZEaVqBszRWQXVTeSZts) | [OKKE OKKE](https://open.spotify.com/album/4hLmpZ2IDo8ngyNK7DNfxQ) | 2:09 |

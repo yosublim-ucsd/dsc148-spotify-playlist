@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97",
-  "num_followers": 244617,
+  "num_followers": 244816,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -1539,6 +1539,30 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Like A G6 (with Naeleck)",
+        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "duration_ms": 148751,
+      "name": "Like A G6 (with Naeleck)",
+      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
       },
@@ -1611,30 +1635,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Like A G6 (with Naeleck)",
-        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        }
-      ],
-      "duration_ms": 148751,
-      "name": "Like A G6 (with Naeleck)",
-      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "If Only I (feat. Bebe Rexha)",
         "url": "https://open.spotify.com/album/0kd0OCzyoqrr0c9n66xjgi"
       },
@@ -1675,30 +1675,6 @@
       "duration_ms": 136000,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 198867,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1767,30 +1743,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "I Remember (John Summit Remix)",
-        "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "I Remember - John Summit Remix",
-      "url": "https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "We Can't Stop",
         "url": "https://open.spotify.com/album/27LVMe5wMsHddairHoCux2"
       },
@@ -1811,6 +1763,30 @@
       "duration_ms": 122200,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 198867,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1843,6 +1819,30 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "I Remember (John Summit Remix)",
+        "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "I Remember - John Summit Remix",
+      "url": "https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1867,30 +1867,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
       },
@@ -1911,6 +1887,30 @@
       "duration_ms": 240000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Hypnotize EP",
+        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "house in the streetlight",
         "url": "https://open.spotify.com/album/0zaBQVn70gLIwHrKto8ViF"
       },
@@ -2051,6 +2067,22 @@
       "duration_ms": 175113,
       "name": "house in the streetlight",
       "url": "https://open.spotify.com/track/2oKH22tSUiqdjDSUhnWz0t"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2091,26 +2123,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
       },
@@ -2135,18 +2147,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1QmznZxsQ9lUSEYO8KK58j"
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 143440,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4"
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2167,46 +2183,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Saving Up (Odd Mob Remix)",
-        "url": "https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "Saving Up - Odd Mob Remix",
-      "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/2nrh9MzGMJVt705Q3G47V7"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        }
-      ],
-      "duration_ms": 150962,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/22sFNLCbk7LJ2gWKANf6Ue"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -2223,6 +2199,22 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1QmznZxsQ9lUSEYO8KK58j"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 143440,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4"
     }
   ],
   "unique_name": "EDM 2024",

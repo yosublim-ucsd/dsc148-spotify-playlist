@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 644578,
+  "num_followers": 644691,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-04-11 02:50:45",
       "album": {
-        "name": "I'VE MINE",
-        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "Baddie",
-      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
-    },
-    {
-      "added_at": "2024-04-11 02:50:45",
-      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "added_at": "2024-04-11 02:50:45",
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
     },
     {
       "added_at": "2024-04-11 02:50:45",
@@ -919,18 +919,22 @@
     {
       "added_at": "2024-04-11 02:50:45",
       "album": {
-        "name": "Don't Go Insane",
-        "url": "https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1"
+        "name": "BSS 1st Single Album 'SECOND WIND'",
+        "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "BSS",
+          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         }
       ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
+      "duration_ms": 204466,
+      "name": "Fighting (Feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
     },
     {
       "added_at": "2024-04-11 02:50:45",
@@ -983,22 +987,18 @@
     {
       "added_at": "2024-04-11 02:50:45",
       "album": {
-        "name": "BSS 1st Single Album 'SECOND WIND'",
-        "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
+        "name": "Don't Go Insane",
+        "url": "https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1"
       },
       "artists": [
         {
-          "name": "BSS",
-          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 204466,
-      "name": "Fighting (Feat. Lee Young Ji)",
-      "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi"
     },
     {
       "added_at": "2024-04-11 02:50:45",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-04-11 02:50:45",
       "album": {
-        "name": "KISS OF LIFE",
-        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
       },
       "artists": [
         {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 182240,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"
+      "duration_ms": 149718,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
     },
     {
       "added_at": "2024-04-11 02:50:45",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-04-11 02:50:45",
       "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         }
       ],
-      "duration_ms": 149718,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+      "duration_ms": 182240,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"
     },
     {
       "added_at": "2024-04-11 02:50:45",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-11 02:50:45",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Killin\u2019 Me Good",
-      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
-    },
-    {
-      "added_at": "2024-04-11 02:50:45",
-      "album": {
         "name": "Killin' It",
         "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 176133,
       "name": "Killin' It",
       "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
+    },
+    {
+      "added_at": "2024-04-11 02:50:45",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
       "added_at": "2024-04-11 02:50:45",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-04-11 02:50:45",
       "album": {
-        "name": "Bam Yang Gang",
-        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 148729,
-      "name": "Sugar Rush",
-      "url": "https://open.spotify.com/track/5FJqpWkacWPUrXtJ5waI1j"
-    },
-    {
-      "added_at": "2024-04-11 02:50:45",
-      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 170805,
       "name": "Blessed-Cursed",
       "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
+    },
+    {
+      "added_at": "2024-04-11 02:50:45",
+      "album": {
+        "name": "Bam Yang Gang",
+        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 148729,
+      "name": "Sugar Rush",
+      "url": "https://open.spotify.com/track/5FJqpWkacWPUrXtJ5waI1j"
     },
     {
       "added_at": "2024-04-11 02:50:45",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-04-11 02:50:45",
       "album": {
-        "name": "I Am The Best",
-        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 208730,
-      "name": "I Am The Best",
-      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
-    },
-    {
-      "added_at": "2024-04-11 02:50:45",
-      "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 196170,
       "name": "Tamed-Dashed",
       "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
+    },
+    {
+      "added_at": "2024-04-11 02:50:45",
+      "album": {
+        "name": "I Am The Best",
+        "url": "https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 208730,
+      "name": "I Am The Best",
+      "url": "https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE"
     },
     {
       "added_at": "2024-04-11 02:50:45",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-04-11 02:50:45",
       "album": {
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Beatbox",
+      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
+    },
+    {
+      "added_at": "2024-04-11 02:50:45",
+      "album": {
         "name": "A Giant Step",
         "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
-    },
-    {
-      "added_at": "2024-04-11 02:50:45",
-      "album": {
-        "name": "Beatbox - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "Beatbox",
-      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
     },
     {
       "added_at": "2024-04-11 02:50:45",

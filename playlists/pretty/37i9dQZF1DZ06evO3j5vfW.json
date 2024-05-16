@@ -1,12 +1,12 @@
 {
-  "description": "This is Nicky Romero. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This Is Nicky Romero. Los temas esenciales, todos en una lista.",
   "num_followers": 71301,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAD3sB73jWM3PnjD/rI8buqi",
+  "snapshot_id": "ZkKpgAAAAACLybv8a8lyP3z0Aovm+4r0",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,30 @@
       "duration_ms": 208316,
       "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
       "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
     },
     {
       "added_at": null,
@@ -519,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
       },
@@ -539,26 +583,6 @@
       "duration_ms": 215336,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -631,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give In",
-        "url": "https://open.spotify.com/album/7sRz2CJyxpX3ejI3vRnKjR"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Give In",
-      "url": "https://open.spotify.com/track/50FvSZE7zXdP3tvKYLDQY0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
@@ -671,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
+        "name": "Give In",
+        "url": "https://open.spotify.com/album/7sRz2CJyxpX3ejI3vRnKjR"
       },
       "artists": [
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
         }
       ],
-      "duration_ms": 140477,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
+      "duration_ms": 184615,
+      "name": "Give In",
+      "url": "https://open.spotify.com/track/50FvSZE7zXdP3tvKYLDQY0"
     },
     {
       "added_at": null,
@@ -711,6 +715,26 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 140477,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
     },
     {
       "added_at": null,
@@ -823,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love",
-        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Almero",
-          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "So Much Love",
-      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -859,6 +863,26 @@
       "duration_ms": 219653,
       "name": "Iron",
       "url": "https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Love",
+        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "So Much Love",
+      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
     },
     {
       "added_at": null,
@@ -983,42 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Would We Be",
-        "url": "https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6"
-      },
-      "artists": [
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 208023,
-      "name": "Where Would We Be",
-      "url": "https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/4LdvMHoetEhk74SqEEOz2W"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 213624,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/1gpFuNlgfcpvXtD2TQILsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Feel (Radio Edit)",
         "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
       },
@@ -1039,6 +1027,42 @@
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/4LdvMHoetEhk74SqEEOz2W"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 213624,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/1gpFuNlgfcpvXtD2TQILsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where Would We Be",
+        "url": "https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6"
+      },
+      "artists": [
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 208023,
+      "name": "Where Would We Be",
+      "url": "https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd"
     },
     {
       "added_at": null,
@@ -1075,26 +1099,6 @@
       "duration_ms": 145039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6qTP59Amjny78Qd8zayuNW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everybody Clap",
-        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Everybody Clap",
-      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
     }
   ],
   "unique_name": "This Is Nicky Romero",

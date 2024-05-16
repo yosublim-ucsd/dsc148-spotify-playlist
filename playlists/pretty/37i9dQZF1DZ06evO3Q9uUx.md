@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 ### [This Is BIA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Q9uUx)
 
-> This Is BIA\. Los temas esenciales, todos en una lista.
+> This is BIA\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,194 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,201 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [DON'T TELL \(feat\. Juicy J\)](https://open.spotify.com/track/058XdfrLCP1tPxnc39ibGy) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:22 |
 | 50 | [OH NO](https://open.spotify.com/track/1ZvcFWX1gRGhkCQJwtPANZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:37 |
 
-Snapshot ID: `ZkFYAAAAAAARbQSczOWXRrw/9ZIIDJYR`
+Snapshot ID: `ZkKpgAAAAABVzv28vXRsNtBTbrgxV6NU`

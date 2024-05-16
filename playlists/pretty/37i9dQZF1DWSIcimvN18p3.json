@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Hurray For The Riff Raff",
-  "num_followers": 284692,
+  "num_followers": 284735,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Other Voices, Other Rooms",
         "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 260440,
       "name": "Speed of the Sound of Loneliness",
       "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
-        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Train Song",
-      "url": "https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "A Month Or Two",
         "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
+        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Train Song",
+      "url": "https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Dollar Bill Bar",
-        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 209176,
-      "name": "Dollar Bill Bar",
-      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 312613,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Dollar Bill Bar",
+        "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 209176,
+      "name": "Dollar Bill Bar",
+      "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "I Could Drive You Crazy",
+        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 216128,
+      "name": "I Could Drive You Crazy",
+      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Hunt You Down",
         "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Ear to the Ground",
         "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "I Could Drive You Crazy",
-        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Elizabeth Cotten and Brenda Evans",
+          "url": "https://open.spotify.com/artist/2Hkne479RCIeoge0f0E2uw"
         }
       ],
-      "duration_ms": 216128,
-      "name": "I Could Drive You Crazy",
-      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
+      "duration_ms": 302600,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
       },
       "artists": [
         {
-          "name": "Elizabeth Cotten and Brenda Evans",
-          "url": "https://open.spotify.com/artist/2Hkne479RCIeoge0f0E2uw"
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
         }
       ],
-      "duration_ms": 302600,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/3d2oXlbjVmk9Zb37m1Y5t4"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Motel Bouquet",
-        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
       "artists": [
         {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
         }
       ],
-      "duration_ms": 184787,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+        "name": "Motel Bouquet",
+        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
       },
       "artists": [
         {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+      "duration_ms": 184787,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Cowboy Gangster Politician",
-        "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Cowboy Gangster Politician",
-      "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 196800,
       "name": "The Boxer - 2002 Remaster",
       "url": "https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 195320,
       "name": "Blood on Your Bootheels",
       "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Sorry Now",
+        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Sorry Now",
+      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1767,6 +1783,22 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
         "name": "Country Curious",
         "url": "https://open.spotify.com/album/5U47NIIeJLYign4v4Jltxr"
       },
@@ -1783,38 +1815,6 @@
       "duration_ms": 226028,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7nZljN38fxwFPhgQk8mLoO"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Sorry Now",
-        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Sorry Now",
-      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Fruit",
         "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 249173,
       "name": "Swing and Turn Jubilee",
       "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 260096,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/6GLuNBlMnNxwZYZi9cveFf"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "One Step Ahead",
         "url": "https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 212466,
       "name": "Kentucky Borderline",
       "url": "https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 260096,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/6GLuNBlMnNxwZYZi9cveFf"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "no fun/party",
-        "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
-      },
-      "artists": [
-        {
-          "name": "Kara Jackson",
-          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
-        }
-      ],
-      "duration_ms": 356474,
-      "name": "no fun/party",
-      "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "Home Plate (2008 Remaster)",
         "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 167200,
       "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
       "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "no fun/party",
+        "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
+      },
+      "artists": [
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        }
+      ],
+      "duration_ms": 356474,
+      "name": "no fun/party",
+      "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2199,38 +2199,6 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Anarchist Gospel",
-        "url": "https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Whole",
-      "url": "https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 201936,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
@@ -2251,34 +2219,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Highway 101, Vol. 2",
-        "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
       },
       "artists": [
         {
-          "name": "Highway 101",
-          "url": "https://open.spotify.com/artist/0yXAvxrEkI26bKj0o4yyou"
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
         }
       ],
-      "duration_ms": 220586,
-      "name": "(Do You Love Me) Just Say Yes",
-      "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
+      "duration_ms": 201936,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2295,6 +2247,38 @@
       "duration_ms": 324939,
       "name": "Half Twain the Jesse",
       "url": "https://open.spotify.com/track/2kz07UCwBmIoRzIs18X3Ek"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Highway 101, Vol. 2",
+        "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
+      },
+      "artists": [
+        {
+          "name": "Highway 101",
+          "url": "https://open.spotify.com/artist/0yXAvxrEkI26bKj0o4yyou"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "(Do You Love Me) Just Say Yes",
+      "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Anarchist Gospel",
+        "url": "https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Whole",
+      "url": "https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2395,18 +2379,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Age of a Man",
-        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
       "artists": [
         {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 219253,
-      "name": "Age of a Man",
-      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
+      "duration_ms": 231813,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2479,18 +2463,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "The Very Best of Peter, Paul and Mary",
-        "url": "https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0"
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
       },
       "artists": [
         {
-          "name": "Mary Travers",
-          "url": "https://open.spotify.com/artist/6SAXDxx8QdYRBMSpm25nRT"
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
         }
       ],
-      "duration_ms": 159360,
-      "name": "Follow Me - Remastered",
-      "url": "https://open.spotify.com/track/4r45V7ZeTmjpX11lW5i6Xx"
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2511,18 +2495,18 @@
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
+        "name": "The Very Best of Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0"
       },
       "artists": [
         {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+          "name": "Mary Travers",
+          "url": "https://open.spotify.com/artist/6SAXDxx8QdYRBMSpm25nRT"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Will the Circle Be Unbroken",
-      "url": "https://open.spotify.com/track/2XQlZQGMQKIElKRYSf5NWx"
+      "duration_ms": 159360,
+      "name": "Follow Me - Remastered",
+      "url": "https://open.spotify.com/track/4r45V7ZeTmjpX11lW5i6Xx"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2539,6 +2523,22 @@
       "duration_ms": 286388,
       "name": "Stand In",
       "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Will the Circle Be Unbroken",
+      "url": "https://open.spotify.com/track/2XQlZQGMQKIElKRYSf5NWx"
     },
     {
       "added_at": "2024-03-08 05:01:00",

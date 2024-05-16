@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "This is Limp Bizkit. The essential tracks, all in one playlist.",
+  "description": "This is Limp Bizkit. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Limp Bizkit",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 269973,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 166706,
       "name": "Break Stuff",
       "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 270866,
       "name": "Creamer (Radio Is Dead)",
       "url": "https://open.spotify.com/track/7lOXNXztcb8CQ8UoroiNxW"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 239160,
       "name": "I'm Broke",
       "url": "https://open.spotify.com/track/12IRA5MdLZL5hiBAPVRJpc"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 354733,
       "name": "Re-Arranged",
       "url": "https://open.spotify.com/track/6IPJ7LeWIOhxPW8Sq3nIGc"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 266906,
       "name": "Show Me What You Got",
       "url": "https://open.spotify.com/track/5iJmknkGRxLQUHnWat2Ybd"

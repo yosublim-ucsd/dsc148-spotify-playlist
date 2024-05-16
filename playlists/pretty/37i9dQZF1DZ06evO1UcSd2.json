@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lenin Ram\u00edrez. Los temas esenciales, todos en una lista.",
-  "num_followers": 70682,
+  "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
+  "num_followers": 70701,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAAM6ix/M+gHIZ4ykOMstrCp",
+  "snapshot_id": "ZkKpgAAAAAAv6qAWrG5n/ynu2fUDjDtS",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuanto hay que invertir",
-        "url": "https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo"
+        "name": "Estrenando Amante",
+        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
       "artists": [
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Cuanto Hay Que Invertir",
-      "url": "https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X"
+      "duration_ms": 168546,
+      "name": "Estrenando Amante",
+      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
     },
     {
       "added_at": null,
@@ -431,22 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrenando Amante",
-        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
+        "name": "Cuanto hay que invertir",
+        "url": "https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         },
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 168546,
-      "name": "Estrenando Amante",
-      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
+      "duration_ms": 147000,
+      "name": "Cuanto Hay Que Invertir",
+      "url": "https://open.spotify.com/track/4A0HaSz7TjayQ2DjUrCr1X"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi 45 (En Vivo)",
         "url": "https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 156840,
       "name": "Mi 45 - En Vivo",
       "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
     },
     {
       "added_at": null,
@@ -731,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Vueltas de la Vida",
-        "url": "https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW"
+        "name": "Quien Lo Diria",
+        "url": "https://open.spotify.com/album/068CcwdCGAxiwTCBrgZfTm"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Kmill",
+          "url": "https://open.spotify.com/artist/71NWy7AVTtkHMgSJKFmV8e"
         }
       ],
-      "duration_ms": 246946,
-      "name": "Las Vueltas de la Vida",
-      "url": "https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl"
+      "duration_ms": 147082,
+      "name": "Quien Lo Diria",
+      "url": "https://open.spotify.com/track/4YexQVlditl5b9S3B1ZF3a"
     },
     {
       "added_at": null,
@@ -759,6 +763,22 @@
       "duration_ms": 152000,
       "name": "La Fuga del Jefe",
       "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Vueltas de la Vida",
+        "url": "https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 246946,
+      "name": "Las Vueltas de la Vida",
+      "url": "https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl"
     },
     {
       "added_at": null,
@@ -863,26 +883,6 @@
       "duration_ms": 170393,
       "name": "El Teniente Pa' La Clica",
       "url": "https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quien Lo Diria",
-        "url": "https://open.spotify.com/album/068CcwdCGAxiwTCBrgZfTm"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Kmill",
-          "url": "https://open.spotify.com/artist/71NWy7AVTtkHMgSJKFmV8e"
-        }
-      ],
-      "duration_ms": 147082,
-      "name": "Quien Lo Diria",
-      "url": "https://open.spotify.com/track/4YexQVlditl5b9S3B1ZF3a"
     },
     {
       "added_at": null,

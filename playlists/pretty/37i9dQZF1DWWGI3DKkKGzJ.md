@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGI3DKkKGzJ.md) - [plain]
 
 > Le meilleur des années 90 en 90 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,012 likes - 90 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,100 likes - 90 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

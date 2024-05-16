@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 
 ### [This Is Billy Paul](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BIvvE)
 
-> This is Billy Paul\. The essential tracks, all in one playlist.
+> This is Billy Paul\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,410 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,413 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 49 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 |
 | 50 | [It's Critical](https://open.spotify.com/track/4JRQg67LUxpcdGCXfvGIVi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 3:50 |
 
-Snapshot ID: `ZkFYAAAAAAAZH6dR5eBzHIyfgugHZl5O`
+Snapshot ID: `ZkFYAAAAAAA/FaTUvWm+Jv8p2LA/DMCX`

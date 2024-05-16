@@ -1,6 +1,6 @@
 {
   "description": "Let the songs speak. Cover: Inayah",
-  "num_followers": 43126,
+  "num_followers": 43124,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "When It Comes To You",
-        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "When It Comes To You",
-      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
-    },
-    {
       "added_at": "2023-09-08 05:11:32",
       "album": {
         "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
@@ -271,6 +255,22 @@
       "duration_ms": 195000,
       "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
       "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "When It Comes To You",
+        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Sin on Purpose",
+        "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Sin on Purpose",
+      "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -471,22 +487,6 @@
       "duration_ms": 176385,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Sin on Purpose",
-        "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Sin on Purpose",
-      "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Luv To A Fck Song",
-      "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
-    },
-    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Spin Again",
@@ -987,6 +971,22 @@
       "duration_ms": 248872,
       "name": "Spin Again",
       "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Luv To A Fck Song",
+      "url": "https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1061,6 +1061,26 @@
       "url": "https://open.spotify.com/track/6dEHTCK6SyciGXCStYmoJb"
     },
     {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "In The Mood",
+        "url": "https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 242866,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Shadows",
@@ -1083,26 +1103,6 @@
       "duration_ms": 159313,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF"
-    },
-    {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "In The Mood",
-        "url": "https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 242866,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
     },
     {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "five more",
+        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "five more",
+      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+    },
+    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Smoke, Drink, Break Up (feat. Wale)",
@@ -1283,22 +1299,6 @@
       "duration_ms": 131542,
       "name": "Smoke, Drink, Break Up (feat. Wale)",
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
-    },
-    {
-      "added_at": "2023-09-01 04:55:52",
-      "album": {
-        "name": "five more",
-        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "five more",
-      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
     },
     {
       "added_at": "2023-07-14 17:29:23",
@@ -1337,6 +1337,22 @@
       "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "How Many",
+        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Destiny",
+          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
+        }
+      ],
+      "duration_ms": 198888,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Heads Up",
@@ -1355,22 +1371,6 @@
       "duration_ms": 207123,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/32kJsIvZZf6pEq6xOsv0j0"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "How Many",
-        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
-      },
-      "artists": [
-        {
-          "name": "Ryan Destiny",
-          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
-        }
-      ],
-      "duration_ms": 198888,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1421,26 +1421,6 @@
       "url": "https://open.spotify.com/track/1qHwfmane0e7tMGnnMM1jo"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Deep Ellum Interlude",
-        "url": "https://open.spotify.com/album/3D3XkICzsmUP0x93LqSO5q"
-      },
-      "artists": [
-        {
-          "name": "Zay Johnny",
-          "url": "https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ"
-        },
-        {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
-        }
-      ],
-      "duration_ms": 123150,
-      "name": "Deep Ellum Interlude",
-      "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Deep Ellum Interlude",
+        "url": "https://open.spotify.com/album/3D3XkICzsmUP0x93LqSO5q"
+      },
+      "artists": [
+        {
+          "name": "Zay Johnny",
+          "url": "https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ"
+        },
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 123150,
+      "name": "Deep Ellum Interlude",
+      "url": "https://open.spotify.com/track/2CFc6yF8uTLAYO78cJgSSB"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/5v5tNGmRVNvkDgyc6ATBNC"
       },
@@ -1475,6 +1475,38 @@
       "duration_ms": 198367,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/4M3Dm3KwX3nfXQ0w82w3da"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/5VmIuUZW8eDUEXGCenMsnL"
+      },
+      "artists": [
+        {
+          "name": "Essii",
+          "url": "https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ"
+        }
+      ],
+      "duration_ms": 133416,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/7h1xmTzdeH6pBVfV6kSoVI"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Fkn Him Too",
+        "url": "https://open.spotify.com/album/5j4weAU6Kpktlx2fD5gHua"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 170079,
+      "name": "Fkn Him Too",
+      "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1499,38 +1531,6 @@
       "duration_ms": 152000,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/6PZRy35ohzFTVfrpAEzmHf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Fkn Him Too",
-        "url": "https://open.spotify.com/album/5j4weAU6Kpktlx2fD5gHua"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 170079,
-      "name": "Fkn Him Too",
-      "url": "https://open.spotify.com/track/1PQ3QK3tTsknvnw1LppFv1"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/5VmIuUZW8eDUEXGCenMsnL"
-      },
-      "artists": [
-        {
-          "name": "Essii",
-          "url": "https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ"
-        }
-      ],
-      "duration_ms": 133416,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/7h1xmTzdeH6pBVfV6kSoVI"
     },
     {
       "added_at": "2024-03-15 04:00:00",

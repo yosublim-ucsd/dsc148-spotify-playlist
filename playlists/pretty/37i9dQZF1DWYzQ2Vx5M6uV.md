@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rvssian, Ayra Starr & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,712 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,716 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 48 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
 | 49 | [Drogba \(Joanna\) \- Global Latin Version](https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Chosen Few](https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v) | [Drogba \(Joanna\) \[Global Latin Version\]](https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq) | 3:17 |
 | 50 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 |
-| 51 | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73) | [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH) | 2:57 |
-| 52 | [Zimenice](https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Tezzla](https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3) | [Zimenice](https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0) | 3:32 |
+| 51 | [Zimenice](https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Tezzla](https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3) | [Zimenice](https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0) | 3:32 |
+| 52 | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73) | [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH) | 2:57 |
 | 53 | [No Wahala \- Latin Remix](https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [No Wahala \(Latin Remix\)](https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz) | 2:37 |
 | 54 | [YA LLORARE\(MOS\)](https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [YA LLORARE\(MOS\)](https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk) | 3:50 |
 | 55 | [Vámonos](https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Vámonos](https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz) | 2:01 |

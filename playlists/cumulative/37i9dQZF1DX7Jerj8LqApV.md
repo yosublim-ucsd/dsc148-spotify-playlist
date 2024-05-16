@@ -4,12 +4,13 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-107 songs - 7 hr 9 min
+110 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3...2...1 and cut](https://open.spotify.com/track/3r4nAG6MJ8TuqWSXhsTRYW) | [Cami](https://open.spotify.com/artist/2qu2J8C5rJmKK5EprQ1S9P) | [3...2...1 and cut](https://open.spotify.com/album/4mbDWIPF38rvVxYgRy4sfw) | 4:22 | 2024-04-03 | 2024-04-19 |
 | [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 | 2023-10-18 |  |
+| [7:07 \(Hay Buhay\)](https://open.spotify.com/track/5KesauCcOmAPJNUBPB3I3y) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [7:07 \(Hay Buhay\)](https://open.spotify.com/album/37Dhm53dSWWKUAO21BD2Mn) | 3:10 | 2024-05-15 |  |
 | [Akong Addiction](https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Akong Addiction](https://open.spotify.com/album/37egJXzirS9te7NSlbxndI) | 3:51 | 2024-05-08 |  |
 | [All I Want](https://open.spotify.com/track/03X0BZPwMFxLNg9O2yMtza) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [All I Want](https://open.spotify.com/album/22ykUNFfBrxQJcNBZyvXgh) | 2:30 | 2023-10-25 | 2023-11-11 |
 | [Araw\-Araw w/ You](https://open.spotify.com/track/1o0OXfkYfNKhANdE0LPbHa) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Araw\-Araw w/ You](https://open.spotify.com/album/6Sy2dHcsbWhyNTciQ00VY4) | 2:55 | 2024-01-10 | 2024-02-08 |
@@ -22,7 +23,7 @@
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2023-12-08 | 2024-04-22 |
 | [Bituin](https://open.spotify.com/track/014ZhS6LpxihZ1lW8hir4F) | [Ame](https://open.spotify.com/artist/5FBMWQ27y0de4TaZawQ7bN) | [Bituin](https://open.spotify.com/album/1N0KVT7nC3flNBZn7cjFto) | 5:50 | 2023-10-18 | 2023-11-11 |
 | [Bukod\-Tangi](https://open.spotify.com/track/66tKd60oZUTAK0PdmXJl09) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Bukod\-Tangi](https://open.spotify.com/album/4yAWdaZDMWNCNrpwd745NH) | 3:42 | 2024-02-20 | 2024-02-27 |
-| [Cavite's Poison](https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Cavite's Poison](https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj) | 3:31 | 2024-05-08 |  |
+| [Cavite's Poison](https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Cavite's Poison](https://open.spotify.com/album/297iyjwfkLaZ9AAqceG1lj) | 3:31 | 2024-05-08 | 2024-05-16 |
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-04-17 | 2024-05-09 |
 | [Courage \(Acoustic Version\)](https://open.spotify.com/track/2qsd9R4G0g1dZwVejfGowK) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Courage \(Acoustic Version\)](https://open.spotify.com/album/3KNTVXEXg2Y99cbsQcb34u) | 4:46 | 2023-10-18 | 2023-11-11 |
 | [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 | 2023-10-18 | 2024-01-07 |
@@ -40,7 +41,7 @@
 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/album/7GZBDFbz4L9aGnegmi8ZtF) | 3:18 | 2024-02-20 | 2024-05-02 |
 | [I Need You](https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL) | [Sam Mangubat](https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw) | [I Need You](https://open.spotify.com/album/3czIPEVrxzNqOsFcQYNAOf) | 3:09 | 2024-01-10 | 2024-02-08 |
 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 | 2024-04-17 |  |
-| [I Wanna Go](https://open.spotify.com/track/4mh0uJSKznwt17Gj0A8BsJ) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [I Wanna Go](https://open.spotify.com/album/0pefjgnSlK39AtVcDo9Xzd) | 3:10 | 2024-05-08 |  |
+| [I Wanna Go](https://open.spotify.com/track/4mh0uJSKznwt17Gj0A8BsJ) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [I Wanna Go](https://open.spotify.com/album/0pefjgnSlK39AtVcDo9Xzd) | 3:10 | 2024-05-08 | 2024-05-16 |
 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 | 2023-10-18 |  |
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2023-10-18 |  |
 | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/track/3LvrJEPQ61Vvj1t3Edg20X) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/album/6P8VL5hDXBJODIAOBuPJV4) | 4:22 | 2023-10-18 | 2024-04-19 |
@@ -80,10 +81,12 @@
 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-12-08 |  |
 | [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-10-18 | 2023-12-02 |
 | [Pagod](https://open.spotify.com/track/6HAJc8mpLVLiY4M9hRm1g9) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Pagod](https://open.spotify.com/album/1YUwrb26GfU9wBvoPA3rVT) | 4:12 | 2023-10-25 | 2023-11-11 |
+| [pagod na \(sayo\)](https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [pagod na \(sayo\)](https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF) | 4:56 | 2024-05-15 |  |
 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2023-10-18 | 2024-04-19 |
 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 | 2023-12-08 |  |
-| [Pangalawang Ulan](https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO) | [brando bal](https://open.spotify.com/artist/5PEsNoUzsAqT1INR1N4HY0) | [Pangalawang Ulan](https://open.spotify.com/album/2Zz2esghd8bhZZ4lMqn4zH) | 5:23 | 2024-05-08 |  |
+| [Pangalawang Ulan](https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO) | [brando bal](https://open.spotify.com/artist/5PEsNoUzsAqT1INR1N4HY0) | [Pangalawang Ulan](https://open.spotify.com/album/2Zz2esghd8bhZZ4lMqn4zH) | 5:23 | 2024-05-08 | 2024-05-16 |
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2023-10-18 |  |
+| [PAPALAYO](https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [PAPALAYO](https://open.spotify.com/album/4th74t7vSm28kVsqVwb9ii) | 4:00 | 2024-05-15 |  |
 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 | 2023-11-10 |  |
 | [Para Sa Sarili](https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [Mood Swing](https://open.spotify.com/album/6QAw4b5KeyFCCLOaATGkGU) | 4:22 | 2023-12-08 |  |
 | [Paraluman](https://open.spotify.com/track/2jbf9EytR7fzpSrPWAYCf9) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Paraluman](https://open.spotify.com/album/0kQW4dCqjMfD2Vlrf6h8Cw) | 5:12 | 2023-10-18 | 2023-12-18 |

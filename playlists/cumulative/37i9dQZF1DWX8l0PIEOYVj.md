@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Wavedash
 
-562 songs - 1 day 9 hr 47 min
+563 songs - 1 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Escape](https://open.spotify.com/track/6jaQtyA6OB4mBShydBXTXO) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [Escape](https://open.spotify.com/album/5HTNA4xrJDAVMZvwQApXOC) | 2:22 | 2022-07-08 | 2022-08-06 |
 | [Escape](https://open.spotify.com/track/0IRFKCE1lDyKOf12ZQ5CJm) | [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Escape](https://open.spotify.com/album/3xVH7ahLB6T9AnnCekRV5o) | 2:19 | 2023-05-19 |  |
 | [Eternity](https://open.spotify.com/track/0Dur90OEPIM8RvK8eR8dTJ) | [lama](https://open.spotify.com/artist/01M9LokQdmZvlAuwBLsYYH), [XimFny](https://open.spotify.com/artist/6fCuMaLvRqOerjvhnqNjtX) | [Eternity](https://open.spotify.com/album/1UulTnkVbwdExEF0oeGzz6) | 3:25 | 2022-07-08 | 2022-07-29 |
-| [Eternity](https://open.spotify.com/track/0PqsrSUORNOsVyVH7jSlnM) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Eternity](https://open.spotify.com/album/0uVzoO0jamR1dQqDYA3sCY) | 3:20 | 2023-10-27 |  |
+| [Eternity](https://open.spotify.com/track/0PqsrSUORNOsVyVH7jSlnM) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Eternity](https://open.spotify.com/album/0uVzoO0jamR1dQqDYA3sCY) | 3:20 | 2023-10-27 | 2024-05-16 |
 | [Eternity \(feat\. Dayce Williams\)](https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayce Williams](https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6) | [Eternity \(feat\. Dayce Williams\)](https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN) | 3:49 | 2022-08-19 |  |
 | [Everybody Feels \(feat\. Zack Gray\)](https://open.spotify.com/track/1B1YBXBQwN0DCBLJTSMVMy) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Everybody Feels \(feat\. Zack Gray\)](https://open.spotify.com/album/7M946h8d4VNNcQ0715dWsJ) | 3:16 | 2022-07-08 | 2022-08-06 |
 | [Exmachina](https://open.spotify.com/track/1EMXFlcch8mGEX8nziVx1R) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [Exmachina](https://open.spotify.com/album/3YnYhBIENIvaWiTuhuYVdt) | 3:32 | 2023-04-21 | 2023-10-15 |
@@ -371,6 +371,7 @@
 | [Not My Night](https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Not My Night](https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7) | 3:22 | 2024-03-01 |  |
 | [NOT THE ONE](https://open.spotify.com/track/1zT5ymdKPYUJBNLa85FIBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Kelly Paige](https://open.spotify.com/artist/55gmpteNh4JYsHglV3aQeD) | [NOT THE ONE](https://open.spotify.com/album/6fMyp6cpXpQDq5dZ2cRBuY) | 2:27 | 2023-09-29 | 2023-12-02 |
 | [Nowhere](https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Nowhere](https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz) | 3:13 | 2023-08-04 | 2023-11-26 |
+| [Numb](https://open.spotify.com/track/0kMWWZzHQwB5HaIkWhObP5) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [LEUTHERO](https://open.spotify.com/artist/3lzcu6JBa7phqYHz8xjZp5), [skye silansky](https://open.spotify.com/artist/0S3LxjopMZF875k3QbpzFt) | [Numb](https://open.spotify.com/album/0Pjb8nZBlx7muWOH2VZJoy) | 3:12 | 2024-05-10 |  |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-07-08 |  |
 | [Observer](https://open.spotify.com/track/1SsN6wCuFGclhTHmV0W6jq) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Observer](https://open.spotify.com/album/1013GXtP9rPogOxeavuKhm) | 3:33 | 2023-12-01 | 2023-12-09 |
 | [Oceans & Galaxies](https://open.spotify.com/track/5NQKpa6uCqZcaFkAbUK4XB) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Oceans & Galaxies](https://open.spotify.com/album/68ktA77AGDVlrifYU53GzL) | 3:20 | 2022-07-08 | 2022-08-27 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 ### [This Is Avril Lavigne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aBNIs)
 
-> This Is Avril Lavigne\. Los temas esenciales, todos en una lista.
+> This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,235 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,917 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [Lean on Me \- ArtistsCAN](https://open.spotify.com/track/7ejusxgMqURCcMQa0fdOwl) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ), [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz), [Command Sisters](https://open.spotify.com/artist/7a9gjtMIZFHN1NB1Dndyed), [Dan Kanter](https://open.spotify.com/artist/6BifD1GWsFMGLZnfYw0uVE), [Desiire](https://open.spotify.com/artist/3FKDrJjdEpzGNFgwVkzagd), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Jules Halpern](https://open.spotify.com/artist/7K5b86z7l451wp57waF0Py), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa), [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a), [TiKA](https://open.spotify.com/artist/7rBEyjzKmTmWrrhSOhxspU), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Lean on Me \- ArtistsCAN](https://open.spotify.com/album/7fPGIJOxWbsae3wWYnydNj) | 4:02 |
 | 50 | [Alice \- Extended Version](https://open.spotify.com/track/4gLVsEaNMpzkCAM0hXgDoi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 5:00 |
 
-Snapshot ID: `ZkFYAAAAAADGB8AVRiRNoOC8w4VFi9db`
+Snapshot ID: `ZkFYAAAAAACaCUkAWWwljYJz51+J/GdU`

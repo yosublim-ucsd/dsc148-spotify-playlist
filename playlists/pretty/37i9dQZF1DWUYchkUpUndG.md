@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=Wo41Xa\_\_TK6EN2fUKeRO7w>Folabi Nuel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,858 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,879 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

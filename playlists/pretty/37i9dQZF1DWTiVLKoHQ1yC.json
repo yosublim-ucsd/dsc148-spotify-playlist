@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 181086,
+  "num_followers": 181129,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 169275,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4A0StE56VMKnr1QlzosEua"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 189836,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/75gsMOTK0ZXgBeJ4wvDpL4"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 169275,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "GIVVEN",
-          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
-        }
-      ],
-      "duration_ms": 395500,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
         "name": "Enter",
         "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 240316,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "GIVVEN",
+          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+        }
+      ],
+      "duration_ms": 395500,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "When Everything Was New",
-        "url": "https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 267481,
-      "name": "When Everything Was New",
-      "url": "https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
         "name": "No Time (R\u00dcF\u00dcS DU SOL Remix)",
         "url": "https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 398969,
       "name": "No Time - R\u00dcF\u00dcS DU SOL Remix",
       "url": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
+        "name": "When Everything Was New",
+        "url": "https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 267481,
+      "name": "When Everything Was New",
+      "url": "https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -1123,42 +1123,6 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "Love Is Enough",
-        "url": "https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN"
-      },
-      "artists": [
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        },
-        {
-          "name": "Sue McLaren",
-          "url": "https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D"
-        }
-      ],
-      "duration_ms": 176417,
-      "name": "Love Is Enough",
-      "url": "https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        }
-      ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
         "name": "Paint My Tomorrow",
         "url": "https://open.spotify.com/album/5A6O6zDkdKNo94ZGErrQlK"
       },
@@ -1179,6 +1143,42 @@
       "duration_ms": 150000,
       "name": "Paint My Tomorrow",
       "url": "https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
+        "name": "Love Is Enough",
+        "url": "https://open.spotify.com/album/2CqlLD4Ho2MmE4HV4UNryN"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Sue McLaren",
+          "url": "https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D"
+        }
+      ],
+      "duration_ms": 176417,
+      "name": "Love Is Enough",
+      "url": "https://open.spotify.com/track/0gET2J2Mq8ym97aOSffW1P"
     },
     {
       "added_at": "2024-05-10 14:41:32",

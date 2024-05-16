@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,673 likes - 148 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,672 likes - 148 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 44 | [QueLoQue \(feat\. Paloma Mami\)](https://open.spotify.com/track/7em97lNMDo7LbIZ4Ys5TqV) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Music Is The Weapon](https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ) | 2:45 |
 | 45 | [LE GUSTA QUE LA VEAN](https://open.spotify.com/track/3Xaiksu578RaSvmvq893dg) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:49 |
 | 46 | [Istanbul](https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:28 |
-| 47 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 |
-| 48 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 |
+| 47 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 |
+| 48 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 |
 | 49 | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/track/1TwSySLk24VxFyly1iqW9h) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Lenny Tavarez](https://open.spotify.com/artist/5RnYOfWvm7UjbSnTdOYHZC), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/album/0m6bQoUFFfVmty2EsA3XjA) | 4:25 |
 | 50 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
 | 51 | [La Ley](https://open.spotify.com/track/0HdLr91DUb2Z4Md3Hoosiv) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Que Quiénes Somos \(Japan Edition\)](https://open.spotify.com/album/2jDT9YZn8juzCugiUjpopd) | 2:44 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 89 | [Piña Colada](https://open.spotify.com/track/07n2nBfbBGVpVLcbElqTOy) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Piña Colada](https://open.spotify.com/album/2E8hbRURjwvoqiWbb6Pf7S) | 3:09 |
 | 90 | [TE CONOZCO](https://open.spotify.com/track/0MrTHUbjsHRC8sMrfLBd65) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:48 |
 | 91 | [Nada Malo](https://open.spotify.com/track/4I1qopX9knBHznBLKZpAUi) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:23 |
-| 92 | [BIEN CANIJO](https://open.spotify.com/track/2c1PXctrxMCsvYgMhbztVe) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:58 |
-| 93 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
+| 92 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
+| 93 | [BIEN CANIJO](https://open.spotify.com/track/2c1PXctrxMCsvYgMhbztVe) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:58 |
 | 94 | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/track/39ezu6wWxEDAdboRfcjxzO) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Esta Noche \(feat\. Big One\)](https://open.spotify.com/album/2wGhjjn7Znpu8PZ22TojDk) | 3:14 |
 | 95 | [Enredaos](https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:12 |
 | 96 | [No Drama \- Cumbia Version](https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [No Drama \(Cumbia Version\)](https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW) | 3:02 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 147 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 148 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbRVzAAAAAAJkMUIKtOpzuyl/Csycqx4`
+Snapshot ID: `AbRbbAAAAAD95xLIoLFKcaEKXn0r6nKq`

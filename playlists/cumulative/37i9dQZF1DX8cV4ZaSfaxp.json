@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 241542,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M"
@@ -5400,6 +5400,24 @@
       "duration_ms": 194400,
       "name": "THIS CITY",
       "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
+    },
+    {
+      "album": {
+        "name": "Timing",
+        "url": "https://open.spotify.com/album/73VK4w06GJ37zySHOyTUoy"
+      },
+      "artists": [
+        {
+          "name": "Kim eun young",
+          "url": "https://open.spotify.com/artist/49XEW1qNZPAeucXHu8zIeg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237372,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/5hHHF4wzTc2K5PP6gpOTEr"
     },
     {
       "album": {

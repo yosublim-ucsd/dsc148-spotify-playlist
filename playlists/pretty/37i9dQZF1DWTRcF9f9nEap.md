@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,001 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,076 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 23 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
 | 24 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
 | 25 | [Congo Square](https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [South Of I\-10](https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO) | 6:20 |
-| 26 | [Down On The Farm](https://open.spotify.com/track/0dDjBeUnkgwFJIym4rhhR2) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Hubcap Music](https://open.spotify.com/album/2M9xzSsGMgTr2kVjlkbpBT) | 3:50 |
+| 26 | [Walkin' Blues](https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd) | [Roy Rogers](https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe) | [Prime Chops](https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy) | 4:35 |
 | 27 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 |
-| 28 | [Walkin' Blues](https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd) | [Roy Rogers](https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe) | [Prime Chops](https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy) | 4:35 |
+| 28 | [Down On The Farm](https://open.spotify.com/track/0dDjBeUnkgwFJIym4rhhR2) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Hubcap Music](https://open.spotify.com/album/2M9xzSsGMgTr2kVjlkbpBT) | 3:50 |
 | 29 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
-| 30 | [Sweet Home Chicago](https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [At The Crossroads: The Blues Of Robert Johnson](https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc) | 4:28 |
-| 31 | [Walkin' Blues](https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Fight](https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK) | 4:22 |
+| 30 | [Walkin' Blues](https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Fight](https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK) | 4:22 |
+| 31 | [Sweet Home Chicago](https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [At The Crossroads: The Blues Of Robert Johnson](https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc) | 4:28 |
 | 32 | [Ghost Blues](https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Fresh Evidence \(Remastered 2017\)](https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst) | 8:00 |
 | 33 | [Taylor's Rock](https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Best \- Southern Blues](https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW) | 3:57 |
 | 34 | [Highway 61 Revisited](https://open.spotify.com/track/3VwLsRwunJcp66qo9DrUDm) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Second Winter](https://open.spotify.com/album/0OBEzklToS8HeuRBnhVL4J) | 5:07 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 40 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
 | 41 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 |
 | 42 | [Fragile Peace And Certain War](https://open.spotify.com/track/3h3v9Nf0vU8bNr2FGtpYQM) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:59 |
-| 43 | [Sahib Teri Bandi \- Maki Madni](https://open.spotify.com/track/0pxgXjiNwxX7nO96ywdGZe) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ) | 9:54 |
-| 44 | [Death Letter Blues](https://open.spotify.com/track/10Gk3art7qE7JKBe6jhN4E) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [The Roots](https://open.spotify.com/album/0qiFwGYof01onnlq0DhZUy) | 5:28 |
+| 43 | [Death Letter Blues](https://open.spotify.com/track/10Gk3art7qE7JKBe6jhN4E) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [The Roots](https://open.spotify.com/album/0qiFwGYof01onnlq0DhZUy) | 5:28 |
+| 44 | [Sahib Teri Bandi \- Maki Madni](https://open.spotify.com/track/0pxgXjiNwxX7nO96ywdGZe) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Songlines](https://open.spotify.com/album/0bAKGnvpKWdI3lH7Q3RCJJ) | 9:54 |
 | 45 | [The River \(Live\)](https://open.spotify.com/track/46Iid9PQ2ul14y7WzO95JZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tour De Force: Live In London \- The Borderline](https://open.spotify.com/album/2defwrQq8wg12ERYrnG6v3) | 6:57 |
 | 46 | [Just Got Paid](https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 4:27 |
 | 47 | [Hard Times a\-Comin'](https://open.spotify.com/track/2nY8hajgBVPaWZpd6sUIRi) | [Cal Williams Jr](https://open.spotify.com/artist/1aqS60cnKUnBC1QlQGaG45) | [Little Black Crow](https://open.spotify.com/album/734mbE26nI6Tjj8bgaRwAa) | 4:59 |

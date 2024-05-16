@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-280 songs - 17 hr 30 min
+281 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-27 | 2023-02-15 |
 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2023-12-13 | 2024-04-19 |
 | [Ensemble](https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 3:02 | 2024-04-15 |  |
-| [Et Bam \- Acoustic Version](https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ) | 3:35 | 2024-03-27 |  |
+| [Et Bam \- Acoustic Version](https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ) | 3:35 | 2024-03-27 | 2024-05-16 |
 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2022-11-25 | 2023-02-22 |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 | 2022-11-25 | 2023-02-22 |
 | [Fading Away](https://open.spotify.com/track/1fsarPmsdYzQuEtgeqLusc) | [Adam Naas](https://open.spotify.com/artist/6UB2gLFLsQHjdKJneXvvEu) | [Adam Naas](https://open.spotify.com/album/28PjCecLIVQ2l2fEMth4LB) | 4:07 | 2024-03-27 | 2024-04-19 |
@@ -156,6 +156,7 @@
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2023-12-13 | 2024-02-17 |
 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 | 2023-02-21 | 2024-03-28 |
 | [Loneliness](https://open.spotify.com/track/4VAzUwIL69PDIMjmhzBwMD) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Loneliness](https://open.spotify.com/album/0YBjEXcSYKyZ1UGzTfvWEf) | 4:03 | 2023-08-31 |  |
+| [Lonely with Our Love](https://open.spotify.com/track/3r62SofIEN6oRBL9964egb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Lonely with Our Love](https://open.spotify.com/album/6pqseUHCpd1LOVWURaEH9X) | 3:28 | 2024-05-13 |  |
 | [Long Live the \(D\)Evil](https://open.spotify.com/track/7LSQYhyOhooiBpDva8AJaC) | [Moriarty](https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa) | [Epitaph](https://open.spotify.com/album/6Dx95qiRnig7JG4UoZtyFA) | 3:56 | 2022-11-25 | 2023-02-22 |
 | [Long Way From Home](https://open.spotify.com/track/4JHjnOcnKwqdhCOXqYjmoF) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [Long Way From Home](https://open.spotify.com/album/3MZcQxhrc5H0a7JUkLkPlI) | 3:22 | 2024-04-15 |  |
 | [Love That Girl](https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 3:04 | 2023-01-09 |  |

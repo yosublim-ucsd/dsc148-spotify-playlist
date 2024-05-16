@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,868 likes - 69 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,138 likes - 69 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 33 | [Helpless Child](https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Soundtracks for the Blind](https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf) | 15:47 |
 | 34 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
 | 35 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
-| 36 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 36 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 |
 | 37 | [Warmth of You](https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:33 |
 | 38 | [Disengaged](https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:16 |
 | 39 | [The Haunting Presence](https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 7:57 |
-| 40 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 |
+| 40 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
 | 41 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 42 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
 | 43 | [Part](https://open.spotify.com/track/03cSAXCu8hzINJuF6D0YBA) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:57 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 56 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
 | 57 | [haunted \(florence slowed version\)](https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted \(remixes\)](https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX) | 2:33 |
 | 58 | [Slow Bloom](https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [Slow Bloom](https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n) | 4:45 |
-| 59 | [Safn](https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 1:10 |
-| 60 | [Dry Retch \- 2021 Remaster](https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot) | [Donnacha Costello](https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz) | [Together Is The New Alone \(2021 Remaster\)](https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U) | 10:45 |
+| 59 | [Dry Retch \- 2021 Remaster](https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot) | [Donnacha Costello](https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz) | [Together Is The New Alone \(2021 Remaster\)](https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U) | 10:45 |
+| 60 | [Safn](https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 1:10 |
 | 61 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
 | 62 | [Dark Spring](https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:28 |
 | 63 | [I filled my Lungs with the Necessary Air, and yelled! \- Ben Lukas Boysen Rework](https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Vale Reworked](https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz) | 7:17 |

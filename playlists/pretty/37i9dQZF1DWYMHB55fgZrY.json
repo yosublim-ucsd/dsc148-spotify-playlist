@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. El Novio de M\u00e9xico en portada.",
-  "num_followers": 534263,
+  "num_followers": 534328,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
         "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 280400,
       "name": "Luna - En Vivo",
       "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 225173,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+        "name": "Queremos Rock",
+        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
         }
       ],
-      "duration_ms": 213360,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+      "duration_ms": 259398,
+      "name": "Mil Demonios",
+      "url": "https://open.spotify.com/track/2LSa3F2AZldoF2jSCxG5re"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Queremos Rock",
-        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        }
-      ],
-      "duration_ms": 259398,
-      "name": "Mil Demonios",
-      "url": "https://open.spotify.com/track/2LSa3F2AZldoF2jSCxG5re"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Monitor",
         "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 200607,
       "name": "Poli",
       "url": "https://open.spotify.com/track/5WsHtvVnbfY17VNF93rQ7w"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Aqu\u00ed No Es As\u00ed",
-      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -527,6 +511,22 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Aqu\u00ed No Es As\u00ed",
+      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 262613,
       "name": "Mr. P-Mosh",
       "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -667,6 +651,22 @@
       "duration_ms": 269880,
       "name": "Hoy Tengo Miedo",
       "url": "https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
-        "name": "Rock Milenium",
-        "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
-      },
-      "artists": [
-        {
-          "name": "La Lupita",
-          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
-        }
-      ],
-      "duration_ms": 167226,
-      "name": "Paquita Disco",
-      "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
         "name": "Ep1",
         "url": "https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 227600,
       "name": "Horror Amor",
       "url": "https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
+        "name": "Rock Milenium",
+        "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
+      },
+      "artists": [
+        {
+          "name": "La Lupita",
+          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
+        }
+      ],
+      "duration_ms": 167226,
+      "name": "Paquita Disco",
+      "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
+        "name": "Ultrasonicas",
+        "url": "https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7"
+      },
+      "artists": [
+        {
+          "name": "Ultrasonicas",
+          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
+        }
+      ],
+      "duration_ms": 100480,
+      "name": "Vente en Mi Boca",
+      "url": "https://open.spotify.com/track/5Zwg9L8RVPl04ZCmfK7vdV"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
         "name": "Rock en Tu Idioma Sinf\u00f3nico",
         "url": "https://open.spotify.com/album/3ayan86yMHukQACm3V7T6J"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 242720,
       "name": "Cuando Pase el Temblor - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
       "url": "https://open.spotify.com/track/5VIRFG7jnzr8tElckFwgtA"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
-        "name": "Ultrasonicas",
-        "url": "https://open.spotify.com/album/5zTNebmzsdtRxPYrxRxGr7"
-      },
-      "artists": [
-        {
-          "name": "Ultrasonicas",
-          "url": "https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV"
-        }
-      ],
-      "duration_ms": 100480,
-      "name": "Vente en Mi Boca",
-      "url": "https://open.spotify.com/track/5Zwg9L8RVPl04ZCmfK7vdV"
     },
     {
       "added_at": "2023-11-10 18:31:01",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-11-10 18:31:01",
       "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 230207,
+      "name": "Deja Ya de Mentir",
+      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
+    },
+    {
+      "added_at": "2023-11-10 18:31:01",
+      "album": {
         "name": "Enemigo Noches De Sal\u00f3n",
         "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 242840,
       "name": "Enemigo Noches De Sal\u00f3n - Noches De Sal\u00f3n",
       "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
-    },
-    {
-      "added_at": "2023-11-10 18:31:01",
-      "album": {
-        "name": "Rebota (F=KX)2",
-        "url": "https://open.spotify.com/album/7i40q5hprq8zKeQze2xW9H"
-      },
-      "artists": [
-        {
-          "name": "Resorte",
-          "url": "https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Alcohol",
-      "url": "https://open.spotify.com/track/4Om8q2itxIhPZ8eC5BY19U"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

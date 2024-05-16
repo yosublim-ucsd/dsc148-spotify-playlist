@@ -1,6 +1,6 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 670611,
+  "num_followers": 670676,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Beatriz",
-        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 302613,
-      "name": "Bossa & People",
-      "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Un Bossa +",
         "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 86000,
       "name": "Un Bossa +",
       "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 302613,
+      "name": "Bossa & People",
+      "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -957,20 +957,24 @@
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2022-09-02 05:59:54",
       "album": {
-        "name": "Luna Completa",
-        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 288653,
-      "name": "Luna Completa",
-      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -997,24 +1001,20 @@
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
     },
     {
-      "added_at": "2022-09-02 05:59:54",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+        "name": "Luna Completa",
+        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
       },
       "artists": [
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+      "duration_ms": 288653,
+      "name": "Luna Completa",
+      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
     },
     {
       "added_at": "2022-04-01 06:20:39",
@@ -1051,30 +1051,6 @@
       "duration_ms": 181723,
       "name": "Paradiso",
       "url": "https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Shulaguapa",
-        "url": "https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Shulaguapa",
-      "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1187,6 +1163,30 @@
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Shulaguapa",
+        "url": "https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Shulaguapa",
+      "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Post Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Post Qu\u00edmica",
-      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
-    },
-    {
       "added_at": "2023-02-03 04:48:46",
       "album": {
         "name": "Porque Yo",
@@ -1363,6 +1347,22 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Post Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Post Qu\u00edmica",
+      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
       "added_at": "2022-04-17 19:24:57",
       "album": {
         "name": "No Me Quieres (feat. Fabi Reyna)",
@@ -1467,6 +1451,22 @@
       "duration_ms": 203076,
       "name": "No Me Quieres (feat. Fabi Reyna)",
       "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Clandestino (feat. Calypso Rose)",
-        "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6PuvRbgClBhk71ZfODdmpp"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        },
-        {
-          "name": "Calypso Rose",
-          "url": "https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h"
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
         }
       ],
-      "duration_ms": 158714,
-      "name": "Clandestino (feat. Calypso Rose)",
-      "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
+      "duration_ms": 120813,
+      "name": "YO-A-O",
+      "url": "https://open.spotify.com/track/522ebhSF4Bquf1OtekBokP"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1587,18 +1583,38 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/6PuvRbgClBhk71ZfODdmpp"
+        "name": "Clandestino (feat. Calypso Rose)",
+        "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
       },
       "artists": [
         {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Calypso Rose",
+          "url": "https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h"
         }
       ],
-      "duration_ms": 120813,
-      "name": "YO-A-O",
-      "url": "https://open.spotify.com/track/522ebhSF4Bquf1OtekBokP"
+      "duration_ms": 158714,
+      "name": "Clandestino (feat. Calypso Rose)",
+      "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
+    },
+    {
+      "added_at": "2022-01-04 01:50:46",
+      "album": {
+        "name": "Easy and Tropical Machine",
+        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Cumbia Reggae",
+      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1625,20 +1641,20 @@
       "url": "https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg"
     },
     {
-      "added_at": "2022-01-04 01:50:46",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Easy and Tropical Machine",
-        "url": "https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26"
+        "name": "El Af\u00e1n",
+        "url": "https://open.spotify.com/album/3KNX1cziZujwIVFNU6YsyG"
       },
       "artists": [
         {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Cumbia Reggae",
-      "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
+      "duration_ms": 259613,
+      "name": "Me Pierdo Contigo",
+      "url": "https://open.spotify.com/track/4KRIHFy34UpHs8RauCwjWg"
     },
     {
       "added_at": "2022-09-03 02:45:23",
@@ -1655,22 +1671,6 @@
       "duration_ms": 197017,
       "name": "Las 4:40",
       "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "El Af\u00e1n",
-        "url": "https://open.spotify.com/album/3KNX1cziZujwIVFNU6YsyG"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Me Pierdo Contigo",
-      "url": "https://open.spotify.com/track/4KRIHFy34UpHs8RauCwjWg"
     },
     {
       "added_at": "2023-03-31 18:15:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,876 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,886 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 26 | [Caminos de Ayer](https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E), [Fernando Zenaido Maldonado](https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv) | [Blues](https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox) | 2:59 |
 | 27 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 |
 | 28 | [Era La Luz De Abril](https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc) | [Xalapa Jazz Orchestra](https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F), [Valentina Marentes](https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x) | [Cronologías](https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK) | 6:43 |
-| 29 | [Quién Eres Tú?](https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Enrique Nery](https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi), [Aarón Cruz](https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv) | [Quién Eres Tú?](https://open.spotify.com/album/6627kcDKivQe10EdHUDmok) | 5:50 |
+| 29 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 |
 | 30 | [Mosquita Muerta \- Versión Mariachi](https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Mosquita Muerta \(Versión Mariachi\)](https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv) | 5:23 |
-| 31 | [Your Voice](https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Your Voice](https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20) | 2:55 |
+| 31 | [Quién Eres Tú?](https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Enrique Nery](https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi), [Aarón Cruz](https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv) | [Quién Eres Tú?](https://open.spotify.com/album/6627kcDKivQe10EdHUDmok) | 5:50 |
 | 32 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 |
 | 33 | [No Se que Pasa Entre Tú y Yo](https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO) | [Ernesto Riestra Y Su Orquesta](https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE) | [Las Puntadas de Ernesto Riesta](https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ) | 2:58 |
 | 34 | [Chorinho Blanco](https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil) | [Ingrid Beaujean](https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1) | [Días Lentos](https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38) | 3:34 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 47 | [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 |
 | 48 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
 | 49 | [Guapanguito](https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c) | [Rosino Serrano](https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ), [Orquesta Moderna](https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob), [Gianluca Littera](https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo), [Alex Mercado](https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1) | [Orquesta Moderna](https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i) | 4:45 |
-| 50 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 50 | [En Cualquier Momento](https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4) | [Juanjo Gómez](https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp), [Xuc Trío](https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9) | [Semillas De Copinol](https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2) | 5:52 |
 
 Snapshot ID: `ZiccYAAAAACMb9eAOCwlki7mhZpNRZpZ`

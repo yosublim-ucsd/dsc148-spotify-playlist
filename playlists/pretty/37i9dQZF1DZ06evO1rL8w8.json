@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Komander. Los temas esenciales, todos en una lista.",
-  "num_followers": 199002,
+  "description": "This is El Komander. The essential tracks, all in one playlist.",
+  "num_followers": 199082,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAADsosSH8YcmY/w6F30SI7Sm",
+  "snapshot_id": "ZkKpgAAAAAALhXiwMv7WsmaQOFMO31sT",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 133466,
-      "name": "El Katch",
-      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Corrido De Everardo (En Vivo)",
         "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 211500,
       "name": "El Corrido De Everardo (En Vivo)",
       "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 133466,
+      "name": "El Katch",
+      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 135709,
       "name": "Te Prometo",
       "url": "https://open.spotify.com/track/31FxFYyBcvxzVutkNEN5EE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     },
     {
       "added_at": null,

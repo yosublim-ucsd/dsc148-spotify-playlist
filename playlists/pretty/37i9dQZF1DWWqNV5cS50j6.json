@@ -1,6 +1,6 @@
 {
   "description": "?! ft. Tommy Richman",
-  "num_followers": 743004,
+  "num_followers": 743014,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
@@ -393,6 +393,22 @@
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "brown eyes*",
+        "url": "https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "brown eyes*",
+      "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
+    },
+    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "Gangsta",
@@ -415,22 +431,6 @@
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "brown eyes*",
-        "url": "https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "brown eyes*",
-      "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+        "name": "HIT EM WHERE IT HURTS",
+        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 245819,
-      "name": "Gorilla",
-      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
+      "duration_ms": 165499,
+      "name": "HIT EM WHERE IT HURTS",
+      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
     },
     {
       "added_at": "2024-04-26 18:37:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "HIT EM WHERE IT HURTS",
-        "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
       "artists": [
         {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 165499,
-      "name": "HIT EM WHERE IT HURTS",
-      "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
+      "duration_ms": 245819,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
     },
     {
       "added_at": "2024-04-26 18:37:00",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
-    },
-    {
       "added_at": "2024-05-10 17:22:13",
       "album": {
         "name": "Kimbara",
@@ -683,6 +667,22 @@
       "duration_ms": 189816,
       "name": "Kimbara",
       "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "CAROLINE",
+        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 192951,
+      "name": "CAROLINE",
+      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "New Friends (feat. Eem Triplin)",
         "url": "https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 130434,
       "name": "New Friends (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "CAROLINE",
-        "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 192951,
-      "name": "CAROLINE",
-      "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1249,38 +1249,6 @@
       "url": "https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": "i dont even own prada shoes lol",
-        "url": "https://open.spotify.com/album/1dn2JSwF9ULVnQzDprTaiQ"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 130440,
-      "name": "i dont even own prada shoes lol",
-      "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Ant Pile",
-        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126233,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "Fever",
@@ -1303,6 +1271,38 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
+    },
+    {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "i dont even own prada shoes lol",
+        "url": "https://open.spotify.com/album/1dn2JSwF9ULVnQzDprTaiQ"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 130440,
+      "name": "i dont even own prada shoes lol",
+      "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "High (Remix)",
         "url": "https://open.spotify.com/album/38MrNIfXvvdnU0WxeArHSd"
       },
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/1YTslvpUMCvbo2GMR25LTq"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "me and all my niggas",
-        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 114698,
-      "name": "me and all my niggas",
-      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
-    },
-    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "Where Are You Going?",
@@ -1351,6 +1335,22 @@
       "duration_ms": 212985,
       "name": "Now I Know You",
       "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "me and all my niggas",
+        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 114698,
+      "name": "me and all my niggas",
+      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
     },
     {
       "added_at": "2024-04-19 05:00:00",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        },
+        {
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/44C4c70Ni7VpXkCAmg8TXn"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "'Decent",
         "url": "https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU"
       },
@@ -1525,40 +1545,20 @@
       "url": "https://open.spotify.com/track/4Cl0ism4qfwNTtDbk8K6qm"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
+      "added_at": "2024-05-10 17:22:13",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+        "name": "Night Killaz Vol. 2",
+        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
       },
       "artists": [
         {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        },
-        {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/44C4c70Ni7VpXkCAmg8TXn"
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         }
       ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "JASMINE",
-        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
-      },
-      "artists": [
-        {
-          "name": "Renao",
-          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "JASMINE",
-      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
+      "duration_ms": 122400,
+      "name": "Chained Up",
+      "url": "https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1577,6 +1577,22 @@
       "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "JASMINE",
+        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
+      },
+      "artists": [
+        {
+          "name": "Renao",
+          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "JASMINE",
+      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
+    },
+    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Younger Than I Was Before",
@@ -1591,22 +1607,6 @@
       "duration_ms": 155536,
       "name": "Crazy Stupid Love",
       "url": "https://open.spotify.com/track/5gZmKbISqeyhHl63nMFvi0"
-    },
-    {
-      "added_at": "2024-05-10 17:22:13",
-      "album": {
-        "name": "Night Killaz Vol. 2",
-        "url": "https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "Chained Up",
-      "url": "https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Aphid (feat. Dijon)",
-        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Aphid (feat. Dijon)",
-      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "it was nice knowing u",
         "url": "https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 176347,
       "name": "pretty photos",
       "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Aphid (feat. Dijon)",
+        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Aphid (feat. Dijon)",
+      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
     },
     {
       "added_at": "2024-04-19 05:00:00",

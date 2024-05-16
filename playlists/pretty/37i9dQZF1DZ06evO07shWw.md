@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 
 ### [This Is Ingrid Andress](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07shWw)
 
-> This is Ingrid Andress\. The essential tracks, all in one playlist.
+> This is Ingrid Andress\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,065 likes - 29 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,069 likes - 29 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 28 | [All The Love](https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:45 |
 | 29 | [Talk](https://open.spotify.com/track/52nr0MLyxZwe6zcSo7Jfmr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 2:49 |
 
-Snapshot ID: `ZkFYAAAAAAAZ+72PNJijHF/c5rZJf0ym`
+Snapshot ID: `ZkFYAAAAAABgz2PP1LVqAjDPGpd/TO/+`

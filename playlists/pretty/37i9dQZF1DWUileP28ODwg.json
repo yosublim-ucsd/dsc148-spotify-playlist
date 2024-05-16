@@ -1,6 +1,6 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:5d1JhBfyb58upMXCZOdbQu\">Phil Wickham</a>",
-  "num_followers": 350344,
+  "num_followers": 350516,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "Don't Stop Praying",
+        "url": "https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Don't Stop Praying",
+      "url": "https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "Grace In The Wilderness",
         "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 175142,
       "name": "Authority (In The Name Of Jesus)",
       "url": "https://open.spotify.com/track/7mwGxVzcNze72t7F2Om5dh"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "A Hundred Highways",
-        "url": "https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Heart of God",
-      "url": "https://open.spotify.com/track/0XUOsMM0n3jRGzRgagPqGH"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -435,34 +435,18 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Don't Stop Praying",
-        "url": "https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz"
+        "name": "A Hundred Highways",
+        "url": "https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         }
       ],
-      "duration_ms": 233586,
-      "name": "Don't Stop Praying",
-      "url": "https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "Make It Through",
-        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 192196,
-      "name": "Make It Through",
-      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
+      "duration_ms": 234493,
+      "name": "Heart of God",
+      "url": "https://open.spotify.com/track/0XUOsMM0n3jRGzRgagPqGH"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -483,6 +467,22 @@
       "duration_ms": 264386,
       "name": "Fall On Me (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Make It Through",
+        "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 192196,
+      "name": "Make It Through",
+      "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -739,22 +739,18 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Good Morning Mercy",
-        "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
+        "name": "If I Got Jesus",
+        "url": "https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH"
       },
       "artists": [
         {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
-        },
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Good Morning Mercy",
-      "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
+      "duration_ms": 231320,
+      "name": "If I Got Jesus",
+      "url": "https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -775,22 +771,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "If I Got Jesus",
-        "url": "https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 231320,
-      "name": "If I Got Jesus",
-      "url": "https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -831,18 +811,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Invited",
-        "url": "https://open.spotify.com/album/1wj7dPYIb0ECjKmgZ50fZ0"
+        "name": "Good Morning Mercy",
+        "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
       },
       "artists": [
         {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        },
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 223815,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/7y5x9ZsfnVZKd5nyL7ekqp"
+      "duration_ms": 190666,
+      "name": "Good Morning Mercy",
+      "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -859,6 +843,22 @@
       "duration_ms": 167207,
       "name": "No One Loves Me Like You Do - Radio Mix",
       "url": "https://open.spotify.com/track/0VHku8GcJIfdAC6AqQgUrm"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Invited",
+        "url": "https://open.spotify.com/album/1wj7dPYIb0ECjKmgZ50fZ0"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 223815,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/7y5x9ZsfnVZKd5nyL7ekqp"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Before I Knew Jesus",
-        "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "Before I Knew Jesus",
-      "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 210118,
       "name": "The Great Awakening",
       "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Before I Knew Jesus",
+        "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "Before I Knew Jesus",
+      "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "duration_ms": 204479,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 202708,
       "name": "Good Lord (feat. Katy Nichole)",
       "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "Still Standing",
-        "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 204479,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "Live Out Loud",
         "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 191167,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 278119,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/5dRUYUFyuup2nG0cbzzmaf"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 281080,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/4reyRIw1xIeMAa5lylm6ow"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 278119,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
     },
     {
       "added_at": "2024-05-10 04:44:05",

@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4041959,
+  "num_followers": 4041878,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "It Will Rain",
         "url": "https://open.spotify.com/album/4A0vJtV9ok7vmr9ursSKj8"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "It's About Us",
-        "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
-      },
-      "artists": [
-        {
-          "name": "Alex & Sierra",
-          "url": "https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Little Do You Know",
-      "url": "https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Cheers to the Fall",
         "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "It's About Us",
+        "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
+      },
+      "artists": [
+        {
+          "name": "Alex & Sierra",
+          "url": "https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Little Do You Know",
+      "url": "https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "To Be So Lonely",
-      "url": "https://open.spotify.com/track/5JiH89mHrv9oWHlD0T326z"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "To Be So Lonely",
+      "url": "https://open.spotify.com/track/5JiH89mHrv9oWHlD0T326z"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "My Mind & Me",
         "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 147597,
       "name": "My Mind & Me",
       "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Twelve Carat Toothache (Deluxe)",
+        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Waiting For Never",
+      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -1675,22 +1691,6 @@
       "duration_ms": 135877,
       "name": "Violent",
       "url": "https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "Twelve Carat Toothache (Deluxe)",
-        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Waiting For Never",
-      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 214525,
+      "name": "Paper Houses",
+      "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "Bad Life",
         "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 226867,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 214525,
-      "name": "Paper Houses",
-      "url": "https://open.spotify.com/track/1hJ6KojJObbRvjuVj8Ezya"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Chapter One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 168586,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Unlearn (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 155361,
       "name": "Unlearn (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Chapter One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 168586,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -3151,22 +3151,6 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
-        "name": "Black Hole (Acoustic Version)",
-        "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 175979,
-      "name": "Black Hole - Acoustic Version",
-      "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -3183,6 +3167,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "Black Hole (Acoustic Version)",
+        "url": "https://open.spotify.com/album/009oQ3UChouWgXe3XWU2gD"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 175979,
+      "name": "Black Hole - Acoustic Version",
+      "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt"
       },
@@ -3195,22 +3195,6 @@
       "duration_ms": 173237,
       "name": "Champion",
       "url": "https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "Breakups",
-        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 223129,
-      "name": "Breakups",
-      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -3235,6 +3219,22 @@
     {
       "added_at": "2024-02-27 01:41:43",
       "album": {
+        "name": "Breakups",
+        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "Breakups",
+      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
         "name": "Fly Away With Me",
         "url": "https://open.spotify.com/album/0zyfjcblb35vFRjZ3KKXMR"
       },
@@ -3247,22 +3247,6 @@
       "duration_ms": 211733,
       "name": "Fly Away With Me",
       "url": "https://open.spotify.com/track/05u81UgU27g8uL5twJ7ABz"
-    },
-    {
-      "added_at": "2024-02-27 01:41:43",
-      "album": {
-        "name": "Beautiful Trauma",
-        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Wild Hearts Can't Be Broken",
-      "url": "https://open.spotify.com/track/3nA9tHmsw5UGMtSIMz4mt7"
     },
     {
       "added_at": "2024-02-27 01:41:43",
@@ -3283,6 +3267,22 @@
       "duration_ms": 184000,
       "name": "Burning Daylight",
       "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
+    },
+    {
+      "added_at": "2024-02-27 01:41:43",
+      "album": {
+        "name": "Beautiful Trauma",
+        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Wild Hearts Can't Be Broken",
+      "url": "https://open.spotify.com/track/3nA9tHmsw5UGMtSIMz4mt7"
     },
     {
       "added_at": "2024-02-27 01:41:43",

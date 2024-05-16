@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: ROLE MODEL",
-  "num_followers": 1679350,
+  "num_followers": 1679352,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj6W0QAAAADWzTJ1mS2XbbY2eBUwQFgb",
+  "snapshot_id": "ZkQWygAAAAAQDBqrLX+dc987d1MJ+idv",
   "tracks": [
     {
       "added_at": "2024-05-10 04:00:00",
@@ -164,7 +164,7 @@
           "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 162205,
+      "duration_ms": 159213,
       "name": "Spite",
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
     },
     {
-      "added_at": "2024-04-22 22:04:01",
+      "added_at": "2024-05-15 01:58:34",
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0"
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
       },
       "artists": [
         {
-          "name": "Nick Ward",
-          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 146880,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow"
+      "duration_ms": 213360,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -629,20 +629,20 @@
       "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+        "name": "Too Much Of A Good Thing",
+        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+      "duration_ms": 171618,
+      "name": "Too Much Of A Good Thing",
+      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -661,36 +661,20 @@
       "url": "https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Too Much Of A Good Thing",
-        "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 171618,
-      "name": "Too Much Of A Good Thing",
-      "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
-    },
-    {
-      "added_at": "2024-04-05 15:15:26",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2024-04-26 04:34:58",
@@ -707,6 +691,22 @@
       "duration_ms": 210904,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB"
+    },
+    {
+      "added_at": "2024-04-05 15:15:26",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": "2024-03-26 00:31:03",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Your Apartment",
-        "url": "https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 198707,
-      "name": "Your Apartment",
-      "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 192000,
       "name": "Disco Man",
       "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Your Apartment",
+        "url": "https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 198707,
+      "name": "Your Apartment",
+      "url": "https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Drain Me!",
@@ -937,36 +953,20 @@
       "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Love from the Other Side",
-        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+        "name": "A Warning",
+        "url": "https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 249405,
-      "name": "Love from the Other Side",
-      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "So Sick Of Dreaming",
-        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "So Sick Of Dreaming",
-      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
+      "duration_ms": 214964,
+      "name": "A Warning",
+      "url": "https://open.spotify.com/track/2Ir5eVuUM96WvyyZmDTIBX"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -985,20 +985,20 @@
       "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "A Warning",
-        "url": "https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD"
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 214964,
-      "name": "A Warning",
-      "url": "https://open.spotify.com/track/2Ir5eVuUM96WvyyZmDTIBX"
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "DOING IT AGAIN BABY",
-        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 145272,
-      "name": "DOING IT AGAIN BABY",
-      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Cigarettes & Wine (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
       },
@@ -1099,6 +1083,38 @@
       "duration_ms": 192573,
       "name": "Some Type Of Skin",
       "url": "https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1165,6 +1181,22 @@
       "url": "https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "loving u is harder",
@@ -1181,20 +1213,20 @@
       "url": "https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "Ghost of Chicago",
+        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+      "duration_ms": 187100,
+      "name": "Ghost of Chicago",
+      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1215,18 +1247,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Ghost of Chicago",
-        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
+        "name": "Eyes on my baby",
+        "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
       },
       "artists": [
         {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
         }
       ],
-      "duration_ms": 187100,
-      "name": "Ghost of Chicago",
-      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
+      "duration_ms": 132737,
+      "name": "Eyes on my baby",
+      "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Eyes on my baby",
-        "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 132737,
-      "name": "Eyes on my baby",
-      "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 202736,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
     },
     {
+      "added_at": "2024-05-10 16:58:05",
+      "album": {
+        "name": "boys, bugs and men",
+        "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 186763,
+      "name": "boys, bugs and men",
+      "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
+    },
+    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "SCRAPYARD",
@@ -1465,22 +1481,6 @@
       "url": "https://open.spotify.com/track/6xft4ovLvZ3gqNJdSlq7AF"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Big Brown Eyes",
-        "url": "https://open.spotify.com/album/0rez0kptEcS4h9NMKlHsl0"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 218469,
-      "name": "Big Brown Eyes",
-      "url": "https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE"
-    },
-    {
       "added_at": "2024-04-12 19:42:47",
       "album": {
         "name": "Billabong Babe",
@@ -1495,6 +1495,22 @@
       "duration_ms": 134500,
       "name": "Billabong Babe",
       "url": "https://open.spotify.com/track/1ehPpLSc6xdKsncqXIMWkS"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Big Brown Eyes",
+        "url": "https://open.spotify.com/album/0rez0kptEcS4h9NMKlHsl0"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 218469,
+      "name": "Big Brown Eyes",
+      "url": "https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1549,22 +1565,6 @@
       "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "Lola",
@@ -1579,22 +1579,6 @@
       "duration_ms": 223587,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K"
-    },
-    {
-      "added_at": "2024-05-10 16:58:05",
-      "album": {
-        "name": "boys, bugs and men",
-        "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 186763,
-      "name": "boys, bugs and men",
-      "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
     }
   ],
   "unique_name": "Indie Pop",

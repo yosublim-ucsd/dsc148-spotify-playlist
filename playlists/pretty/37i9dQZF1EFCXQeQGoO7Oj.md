@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,489 likes - 449 songs - 1 day 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,509 likes - 449 songs - 1 day 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 130 | [I Wanna Go](https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:30 |
 | 131 | [Scared To Live](https://open.spotify.com/track/4BGZF4oLbTL0pWm7C18pbv) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:11 |
 | 132 | [Never Gonna Not Dance Again](https://open.spotify.com/track/5E6bTiJ2rB18M1DNqkm1V4) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:45 |
-| 133 | [Wish You Were Here](https://open.spotify.com/track/5XHf9PBxxHmJFuiDkGNIOA) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 |
-| 134 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
+| 133 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
+| 134 | [Wish You Were Here](https://open.spotify.com/track/5XHf9PBxxHmJFuiDkGNIOA) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 |
 | 135 | [Lucky](https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:26 |
 | 136 | [Touch It](https://open.spotify.com/track/6WikCGNUbXFmXoLre7vjeW) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 4:20 |
 | 137 | [Love To Lay](https://open.spotify.com/track/1E43TJhKcM8hXgM958ROQ1) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 3:43 |
@@ -209,8 +209,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 199 | [4ever](https://open.spotify.com/track/1Ci7oic2gpYknc5TujzCUd) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg) | 3:29 |
 | 200 | [Saturn Returns Interlude](https://open.spotify.com/track/13jRSCLoWbCoU1XEdJRbgn) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 0:42 |
 | 201 | [Beautiful](https://open.spotify.com/track/3RjL8AnKslWWPmlNLTJsAU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:14 |
-| 202 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
-| 203 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 |
+| 202 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 |
+| 203 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
 | 204 | [International Smile](https://open.spotify.com/track/6q2jvC1htmreAOxJwRtnUD) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:47 |
 | 205 | [Tonight I’m Getting Over You](https://open.spotify.com/track/4w2sOKmotzKsdGDLHic94B) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:39 |
 | 206 | [People of The Pride](https://open.spotify.com/track/5ophZLHA9mwSZhQSmboyDN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:37 |
@@ -447,8 +447,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 437 | [Big Funky Dealer](https://open.spotify.com/track/3qtNR3xi8o97ujHNYExiDL) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 4:17 |
 | 438 | [Rainbow Child](https://open.spotify.com/track/4ZZFUzlQxmM96VKY1B7ry5) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:12 |
 | 439 | [Missing You Crazy](https://open.spotify.com/track/245sh9IIt5LrSbteenqwbW) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Dino](https://open.spotify.com/album/11zpEZs4x1883QuHl02KVl) | 4:06 |
-| 440 | [Making Out](https://open.spotify.com/track/31omC3Q1Irkpa8OHEVUKFQ) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Manifest](https://open.spotify.com/album/5xZ3XLMOTu5v2A9GV7LeJP) | 3:10 |
-| 441 | [The Skank](https://open.spotify.com/track/5dw1UTtIudegZlqxOZ3U2k) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:39 |
+| 440 | [The Skank](https://open.spotify.com/track/5dw1UTtIudegZlqxOZ3U2k) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:39 |
+| 441 | [Making Out](https://open.spotify.com/track/31omC3Q1Irkpa8OHEVUKFQ) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Manifest](https://open.spotify.com/album/5xZ3XLMOTu5v2A9GV7LeJP) | 3:10 |
 | 442 | [Pretend I'm God \(feat\. Max Martin\)](https://open.spotify.com/track/1SLiGnIdBPZo13jhXyu71W) | [It's Alive](https://open.spotify.com/artist/3j0G99UX0pssC96mLgAPXl), [Max Martin](https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G) | [Earthquake Visions \(feat\. Max Martin\)](https://open.spotify.com/album/2sdgDT0zzzCpuFrWfD8R2Z) | 3:23 |
 | 443 | [Bitte mehr Taschengeld](https://open.spotify.com/track/6o9hAUJuvFd9H3u8GYukKG) | [Dominik Schrittesser](https://open.spotify.com/artist/7xnQyD8dC0soUG1PiTx5DK) | [Kiddy Contest Vol\. 16](https://open.spotify.com/album/0TkWTxyMJZuLrtkjLKvtxw) | 3:44 |
 | 444 | [Hologram](https://open.spotify.com/track/2TFnMn6FPIWDd8mGVD2CQZ) | [Tobias Regner](https://open.spotify.com/artist/5oPZdjFCIf6ybR8HeUopfb) | [Straight](https://open.spotify.com/album/3Y1NQvNb65qjCmiLKVftp5) | 3:36 |
@@ -458,4 +458,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 448 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 449 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `AbRV+QAAAAD0MMEFmxK8S3ZOb4VBDUbg`
+Snapshot ID: `AbRbmQAAAAC7YPZ8SD7n8KcT7UNcLObV`

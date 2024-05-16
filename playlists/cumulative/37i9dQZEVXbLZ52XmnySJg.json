@@ -1161,6 +1161,32 @@
     },
     {
       "album": {
+        "name": "Aavesham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Pranavam Sasi",
+          "url": "https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Armadham",
+      "url": "https://open.spotify.com/track/18afrwnlrByAjhi3Ve0Ehn"
+    },
+    {
+      "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
@@ -8788,7 +8814,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 181818,
       "name": "Katchi Sera - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa"
@@ -11838,7 +11864,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -16172,7 +16198,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"

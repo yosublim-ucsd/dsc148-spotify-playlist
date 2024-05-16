@@ -2,7 +2,7 @@
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This is Saweetie\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Saweetie\. Todos os maiores hits em uma só playlist.
 
 77 songs - 3 hr 37 min
 

@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-203 songs - 15 hr 10 min
+204 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amaat One](https://open.spotify.com/track/60nFcBJzUY17ZuDTDtD8qi) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/4UVVXIPLpuFYFxOr8hEPjJ) | 5:36 | 2023-02-17 |  |
 | [Amaat One](https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/2elBATB2nvWGsWxvCPwQwU) | 5:36 | 2023-02-17 | 2024-04-19 |
 | [Aquarius](https://open.spotify.com/track/08EgS4Nqe1jPkI9tx9Dq3S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:58 | 2023-02-17 | 2024-04-19 |
-| [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 | 2023-02-17 |  |
+| [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 | 2023-02-17 | 2024-05-16 |
 | [Arcadian Daze](https://open.spotify.com/track/6NXrZnDylt1iZd2qU8ssK3) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT) | 3:16 | 2023-02-17 | 2024-04-19 |
 | [Arpeggi](https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 4:45 | 2023-02-17 |  |
 | [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 | 2023-02-17 |  |
@@ -69,6 +69,7 @@
 | [From The Seams](https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9) | [Sculpturegardening](https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3) | 4:17 | 2023-02-17 |  |
 | [Good Places](https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Good Places](https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8) | 4:26 | 2023-02-17 |  |
 | [Goodbye, Goodbye](https://open.spotify.com/track/2P43WROXRRBFqSKd2aSc0o) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Royal Astronomy](https://open.spotify.com/album/6wderqhoGndjyEC1rODumX) | 4:07 | 2023-02-17 |  |
+| [Goodnight Felicia](https://open.spotify.com/track/7quMtERAYLteumHQSrBkMr) | [Chris Bear](https://open.spotify.com/artist/0do9UA8mgexUfGJiVTSmiv) | [High Maintenance: Original Music \(Season 1\)](https://open.spotify.com/album/04lzRvq2MISPHUiMjoxjag) | 2:15 | 2023-02-17 |  |
 | [Goodnight Felicia](https://open.spotify.com/track/1yjmDtqnbH5kKEEbTRpR4B) | [Christopher Bear](https://open.spotify.com/artist/0emf9Ah5yNpbvhS49Bl3zt) | [High Maintenance: Original Music \(Season 1\)](https://open.spotify.com/album/3q9iSRK4p24UPEGuuOwZQQ) | 2:15 | 2023-02-17 | 2024-04-19 |
 | [GREEN](https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 5:21 | 2023-02-17 |  |
 | [Haku \- RUMTUM Remix](https://open.spotify.com/track/3TbCoXMQrw0DhfBDppxnU2) | [Ramakhandra](https://open.spotify.com/artist/1Apw9xiab11PyZLo6YeUoJ), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Haku \(RUMTUM Remix\)](https://open.spotify.com/album/3qkPNS42C4RuI4BZrb4uhv) | 5:41 | 2023-02-17 |  |
@@ -174,7 +175,7 @@
 | [Sui Shop](https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:12 | 2023-02-17 |  |
 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 | 2023-02-17 |  |
 | [Sunshine in 1929](https://open.spotify.com/track/4b4HuNGu6nNAsyNwID91nb) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 | 2023-02-17 | 2024-04-19 |
-| [Sunshine in 1929](https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 | 2023-02-17 |  |
+| [Sunshine in 1929](https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 | 2023-02-17 | 2024-05-16 |
 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 | 2023-02-17 |  |
 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 | 2023-02-17 |  |
 | [Tanz Mit Mir](https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Tanz Mit Mir](https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn) | 5:43 | 2023-02-17 |  |
@@ -201,7 +202,7 @@
 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 | 2023-02-17 |  |
 | [Two Dots](https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [A Certain Distance](https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf) | 4:38 | 2023-02-17 |  |
 | [Unheard Melodies](https://open.spotify.com/track/147wFLbWKyaTzXNzLGYFZw) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Unheard Melodies](https://open.spotify.com/album/26GcJyUotrwl9rDGQMANRE) | 4:40 | 2023-02-17 | 2024-04-19 |
-| [Unheard Melodies](https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Unheard Melodies](https://open.spotify.com/album/64bBUTyvKyfQa0A0tKCdxz) | 4:40 | 2023-02-17 | 2024-05-06 |
+| [Unheard Melodies](https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Unheard Melodies](https://open.spotify.com/album/64bBUTyvKyfQa0A0tKCdxz) | 4:40 | 2023-02-17 |  |
 | [Walter's Jam](https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Coasting](https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw) | 2:44 | 2023-02-17 |  |
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2023-02-17 |  |
 | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0) | 5:04 | 2023-02-17 |  |

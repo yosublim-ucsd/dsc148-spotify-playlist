@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1EVKuMoAJjoTIw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVKuMoAJjoTIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVKuMoAJjoTIw)
 
-### [Mix de música melancólica](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
+### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a>, <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a> y más
+> <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a>, <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a> and more
 
-603 songs - 1 day 11 hr 0 min
+604 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Cigarettes](https://open.spotify.com/track/4r4yF6BGAm4oy4MnOYjSjI) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Footprints I Found](https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf) | 2:54 | 2023-08-04 | 2023-08-06 |
 | [Cigarettes out the Window](https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:18 | 2023-12-18 | 2024-03-17 |
 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 | 2023-08-03 | 2023-08-04 |
+| [Clara Bow](https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:36 | 2024-05-16 |  |
 | [Closed Doors](https://open.spotify.com/track/0vLsIOG4XfGMnct5nKtdIv) | [Ismail](https://open.spotify.com/artist/2J4dGyHPTwmLlZAyzDXvdN) | [Closed Doors](https://open.spotify.com/album/2GHpnoWI2XWeZMNTFkawGz) | 3:08 | 2023-12-25 | 2024-04-04 |
 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2022-11-30 | 2024-04-02 |
 | [Cold](https://open.spotify.com/track/4pHCz444L8yvFDar6FC0xd) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 2:17 | 2024-04-08 | 2024-04-09 |
@@ -576,7 +577,7 @@
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-12-11 |  |
 | [Where's My Love \- Acoustic](https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:59 | 2023-12-20 | 2024-04-17 |
 | [Where’s My Love \- Alternate Version](https://open.spotify.com/track/5IH7HQEWhToZnMQTZRzp1H) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me](https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8) | 4:08 | 2024-01-29 | 2024-04-19 |
-| [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-05-15 |  |
+| [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-05-15 | 2024-05-16 |
 | [Why Am I Waiting](https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [Thbk.](https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo) | 1:35 | 2022-12-01 | 2024-04-16 |
 | [Will He](https://open.spotify.com/track/7wvwXi9Z66dcH5t202vVkN) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues \(Deluxe\)](https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ) | 3:22 | 2022-12-02 | 2024-04-19 |
 | [Wings](https://open.spotify.com/track/1D4XFKolp63mNqqMXJJL1V) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within](https://open.spotify.com/album/0r94AFhRLvpfXvha7vx2dK) | 4:12 | 2024-04-08 | 2024-04-17 |

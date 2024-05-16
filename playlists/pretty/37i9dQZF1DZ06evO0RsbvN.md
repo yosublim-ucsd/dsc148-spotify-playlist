@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 
 ### [This Is Ma Rainey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RsbvN)
 
-> This is Ma Rainey\. The essential tracks, all in one playlist.
+> This is Ma Rainey\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,612 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,611 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 | 50 | [Moonshine Blues](https://open.spotify.com/track/04I0CwmlhKD7a6x3pFEDWx) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 2:54 |
 | 51 | [Louisiana Hoo Doo Blues](https://open.spotify.com/track/2bc3uRL4ssJhw2QR3C8WWk) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 3:00 |
 
-Snapshot ID: `ZkFYAAAAAADRajk1qbfr3wsfGaShgqAt`
+Snapshot ID: `ZkFYAAAAAAC8H8+UVEH/ErVYcXPS/y3e`

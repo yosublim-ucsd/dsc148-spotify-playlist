@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-114 songs - 7 hr 42 min
+115 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Menepi Menetap](https://open.spotify.com/track/2hGIQ9tovrpsJzEBR2QQwE) | [Mikha Tambayong](https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG), [Deva Mahenra](https://open.spotify.com/artist/2R4MIJ7l2ZMXxhvXqzcC9J) | [Menepi Menetap](https://open.spotify.com/album/3zNCT8AVDWtkcmgbNxVhW3) | 3:46 | 2023-02-03 | 2023-05-04 |
 | [Mengenang Bintang \( From 'Petualangan Sherina 2' \)](https://open.spotify.com/track/1PI0KjLkj1ZjMqekUocbGN) | [Sherina Munaf](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp), [Derby](https://open.spotify.com/artist/3ife9toV28Lcs5VspZYMLr) | [Mengenang Bintang \( From 'Petualangan Sherina 2' \)](https://open.spotify.com/album/2Yx6TtL6tnapZYniHtWLS3) | 4:12 | 2023-10-19 |  |
 | [Mercusuar](https://open.spotify.com/track/3fgdtD7nivCvPueM8UmvFg) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Generation Y](https://open.spotify.com/album/6AsfYvHD9yFB7UrZLeWsuZ) | 3:56 | 2024-02-13 |  |
+| [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 | 2024-05-15 |  |
 | [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 | 2023-04-17 | 2023-06-23 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-02-03 |  |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2024-02-13 |  |

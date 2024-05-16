@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 ### [This Is Ajuliacosta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04mTU7)
 
-> This is Ajuliacosta\. The essential tracks, all in one playlist.
+> This is Ajuliacosta\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,314 likes - 26 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,338 likes - 26 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 13 | [Marido de Bandida](https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:43 |
 | 14 | [Outra Mulher](https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Outra Mulher](https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB) | 2:54 |
 | 15 | [Pq a Policia Smp Acaba Com a Festa?](https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:25 |
-| 16 | [Mina Chavosa](https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Diabelsmusic](https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA) | [Mina Chavosa](https://open.spotify.com/album/35LfnqgsWFtiDY2AeWmepB) | 3:37 |
+| 16 | [Pânico](https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Unicórnio](https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS) | 3:03 |
 | 17 | [O Suficiente](https://open.spotify.com/track/7qZClco5dd6Hzxg2ISaEdk) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U), [N.I.N.A](https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:24 |
-| 18 | [Pânico](https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Unicórnio](https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS) | 3:03 |
+| 18 | [Mina Chavosa](https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Diabelsmusic](https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA) | [Mina Chavosa](https://open.spotify.com/album/35LfnqgsWFtiDY2AeWmepB) | 3:37 |
 | 19 | [Tão Gostoso](https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 4:22 |
 | 20 | [OK](https://open.spotify.com/track/0MYKlvcHf5a6NHJDHfmyJO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [OK](https://open.spotify.com/album/5QdLVDK0alzPG0aTYecf1P) | 2:09 |
 | 21 | [7 Ruas](https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:00 |
@@ -33,6 +33,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 23 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 |
 | 24 | [Pantera](https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Pantera](https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX) | 4:06 |
 | 25 | [Aju](https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:33 |
-| 26 | [Roteiro Mudado](https://open.spotify.com/track/63mfLY9lu2Wm8WJ0suuwKK) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:16 |
+| 26 | [Empresário](https://open.spotify.com/track/5QxxKQQNZyL5Q4N7Rggjg0) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:07 |
 
-Snapshot ID: `ZkFYAAAAAAD8ck1wRrRh2u6Xg77HJBXh`
+Snapshot ID: `ZkFYAAAAAAB2pgzQrNktRH0YKU+CGoxV`

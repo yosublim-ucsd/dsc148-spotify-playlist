@@ -1,13 +1,33 @@
 {
   "description": "&#x27;Spektre&#x27;s Selection&#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! #respekt",
-  "num_followers": 1386,
+  "num_followers": 1387,
   "original_name": "Spektre's Selection",
   "owner": {
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "AAAHPS9y0RufQl8G8ifM48Ukq5noLbrR",
+  "snapshot_id": "AAAHQdvWxpRa0IUplUHuO9rNpy1az0kt",
   "tracks": [
+    {
+      "added_at": "2024-05-15 16:02:12",
+      "album": {
+        "name": "Remember The Future",
+        "url": "https://open.spotify.com/album/6aPIbroQ9BvcxV8sDY0MGG"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        },
+        {
+          "name": "Bryan Kearney",
+          "url": "https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx"
+        }
+      ],
+      "duration_ms": 204179,
+      "name": "Remember The Future",
+      "url": "https://open.spotify.com/track/0N3Qn7evf2UTM6KA9xNPD3"
+    },
     {
       "added_at": "2024-02-23 11:40:41",
       "album": {
@@ -1743,6 +1763,38 @@
       "duration_ms": 355543,
       "name": "Blood Music",
       "url": "https://open.spotify.com/track/34cygccHj8M2bed5ZHpbdT"
+    },
+    {
+      "added_at": "2024-05-15 17:40:00",
+      "album": {
+        "name": "Jilted",
+        "url": "https://open.spotify.com/album/2Qu6otxkYLN1PMqfq44hL1"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "duration_ms": 217226,
+      "name": "Jilted",
+      "url": "https://open.spotify.com/track/2tL323hsMpY47ZKimADfi8"
+    },
+    {
+      "added_at": "2024-05-15 17:40:04",
+      "album": {
+        "name": "Jilted",
+        "url": "https://open.spotify.com/album/2Qu6otxkYLN1PMqfq44hL1"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Don't Need You",
+      "url": "https://open.spotify.com/track/0U9R5tF9KeUkMuq3uVeDFK"
     }
   ],
   "unique_name": "Spektre's Selection",

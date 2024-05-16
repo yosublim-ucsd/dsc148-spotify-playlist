@@ -2,7 +2,7 @@
 
 ### [This Is Nick Drake](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33j7fa)
 
-> This Is Nick Drake\. Los temas esenciales, todos en una lista.
+> This is Nick Drake\. Todos os maiores hits em uma só playlist.
 
 64 songs - 2 hr 54 min
 

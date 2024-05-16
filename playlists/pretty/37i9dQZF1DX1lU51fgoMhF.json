@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 200977,
+  "num_followers": 201117,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2024-05-09 15:17:34",
       "album": {
+        "name": "RANDOM BOX",
+        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Love & hate (Feat. BIBI)",
+      "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
+    },
+    {
+      "added_at": "2024-05-09 15:17:34",
+      "album": {
         "name": "Move Like This (Feat. YUNA KIM)",
         "url": "https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 196106,
       "name": "Move Like This (Feat. YUNA KIM)",
       "url": "https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d"
-    },
-    {
-      "added_at": "2024-05-09 15:17:34",
-      "album": {
-        "name": "RANDOM BOX",
-        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Love & hate (Feat. BIBI)",
-      "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
     },
     {
       "added_at": "2024-05-09 15:17:34",

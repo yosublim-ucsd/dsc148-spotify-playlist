@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-469 songs - 1 day 0 hr 51 min
+470 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Etema](https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp) | [WaxFiend](https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR) | [Etema](https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb) | 4:30 | 2022-06-16 | 2023-04-07 |
 | [Eve Bounce \- Remix](https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Eve Bounce](https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ) | 3:24 | 2021-12-16 |  |
 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 | 2021-12-16 |  |
+| [Fallin in Love](https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Fallin in Love](https://open.spotify.com/album/7N3hxtYqewN5Mz0W0QTaM1) | 2:42 | 2024-05-15 |  |
 | [Fast Wine](https://open.spotify.com/track/2RQ2CwHD5mJBox0Hc6HYRc) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/1mlDPzy4l8LhGVqNEiopIN) | 3:24 | 2021-12-16 | 2022-01-09 |
 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2023-11-21 |  |
 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 | 2021-12-16 | 2023-05-21 |
@@ -190,7 +191,7 @@
 | [Holy Ghost](https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm) | 3:06 | 2024-04-11 |  |
 | [Hot Topicz](https://open.spotify.com/track/2pyLZLboSKOLKII3uacUsP) | [Shockman](https://open.spotify.com/artist/1yqwpsovt61So9S0YfoEss), [Limitless](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz) | [Hot Topicz](https://open.spotify.com/album/2y9waElWWqJwciMg8gKMkF) | 2:29 | 2021-12-16 | 2022-07-25 |
 | [Hurtin' Me \- The Remix](https://open.spotify.com/track/3UMhetaB5d2Egu49pfpNQA) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [SECURE](https://open.spotify.com/album/5asFxV5BYQsPkI1IaIOGAU) | 4:01 | 2021-12-16 | 2022-02-23 |
-| [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 | 2024-04-11 |  |
+| [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 | 2024-04-11 | 2024-05-16 |
 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 | 2021-12-16 | 2022-06-17 |
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2023-02-02 |  |
 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 4:33 | 2022-03-25 | 2022-04-20 |

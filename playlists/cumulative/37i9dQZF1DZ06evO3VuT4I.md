@@ -2,7 +2,7 @@
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. Tutti i brani in un'unica playlist.
+> This is Suzanne Ciani\. Todos os maiores hits em uma só playlist.
 
 112 songs - 9 hr 21 min
 

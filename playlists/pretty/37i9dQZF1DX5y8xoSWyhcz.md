@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,106 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,149 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 3 | [Don't Wanna Leave](https://open.spotify.com/track/3Y1sbQyG9oB78IMasWoi4y) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [LIMBO](https://open.spotify.com/album/7zRAnRLCMzizB4xRSpIDf2) | 3:28 |
 | 4 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 |
 | 5 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 |
-| 6 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 |
+| 6 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 |
 | 7 | [When You Know Someone](https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [When You Know Someone](https://open.spotify.com/album/64XNQyeeluFB03RJhIs0dT) | 3:40 |
 | 8 | [Eckhaus Latta](https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Eckhaus Latta](https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz) | 2:49 |
 | 9 | [Sponges \(feat\. Yuki Dreams Again\)](https://open.spotify.com/track/3vbncj6w2VZRdGNa5H8u5h) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ), [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Sponges \(feat\. Yuki Dreams Again\)](https://open.spotify.com/album/04iVPsioBbQ9OyofuMhV7E) | 3:13 |

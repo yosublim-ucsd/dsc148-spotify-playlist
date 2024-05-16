@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lou Garcia, Marina Sena",
-  "num_followers": 371456,
+  "num_followers": 371436,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -1147,6 +1147,34 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
+        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "duration_ms": 215660,
+      "name": "absurdo",
+      "url": "https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Meu Mel",
         "url": "https://open.spotify.com/album/6TnvOvmP02ZN1QHP8Eh52v"
       },
@@ -1199,34 +1227,6 @@
       "duration_ms": 149349,
       "name": "La\u00e7o",
       "url": "https://open.spotify.com/track/3xIPdkCcRKNs92RbKPc60U"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
-        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        }
-      ],
-      "duration_ms": 215660,
-      "name": "absurdo",
-      "url": "https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck"
     },
     {
       "added_at": "2024-05-10 03:00:00",

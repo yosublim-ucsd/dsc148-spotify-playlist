@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 571941,
+  "num_followers": 572184,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -1123,30 +1123,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "The Veldt Cinema (BYNX Edit)",
-        "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "Gary Go",
-          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 277298,
-      "name": "The Veldt Cinema - BYNX Edit",
-      "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1171,22 +1163,30 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+        "name": "The Veldt Cinema (BYNX Edit)",
+        "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Gary Go",
+          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+      "duration_ms": 277298,
+      "name": "The Veldt Cinema - BYNX Edit",
+      "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
     },
     {
       "added_at": "2024-03-19 13:37:55",

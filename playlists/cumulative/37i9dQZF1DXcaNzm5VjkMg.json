@@ -1511,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "Pelangi Di Malam Hari",
+        "url": "https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx"
+      },
+      "artists": [
+        {
+          "name": "VIDI",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282973,
+      "name": "Nuansa Bening",
+      "url": "https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe"
+    },
+    {
+      "album": {
         "name": "O\u2026Ya",
         "url": "https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5"
       },

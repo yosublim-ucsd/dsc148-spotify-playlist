@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With By The Coast, LAVE, VICTORS and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Feel Every Bit](https://open.spotify.com/track/41P0qqBtGdJUeGr85AnHot) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Look Inside](https://open.spotify.com/album/2o3LMs219hymLVCYtFAo5p) | 2:49 |
 | 50 | [Sunlight](https://open.spotify.com/track/5QTDDCZytU2evkFhaMSYus) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 3:45 |
 
-Snapshot ID: `ZkQb7wAAAAAHmY8WGSSqkWGnejEjKBLF`
+Snapshot ID: `ZkVvsQAAAAAIdOs/UazFPJ6iZ10GprIO`

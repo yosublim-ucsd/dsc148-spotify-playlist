@@ -1,6 +1,6 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2337,
+  "num_followers": 1420,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Made To Love Someone",
-        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Made To Love Someone",
-      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "You And I (Moon And Stars / Acoustic)",
         "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 200000,
       "name": "You And I - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Made To Love Someone",
+        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Made To Love Someone",
+      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Ash & Clay",
-        "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 244520,
-      "name": "Whisper In Her Ear",
-      "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Ash & Clay",
+        "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 244520,
+      "name": "Whisper In Her Ear",
+      "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        }
+      ],
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
-      },
-      "artists": [
-        {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
-        }
-      ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
+        "name": "This Heart",
+        "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
       },
       "artists": [
         {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+          "name": "Loah",
+          "url": "https://open.spotify.com/artist/3smkUIA0gfguE46oluw954"
         }
       ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
+      "duration_ms": 252580,
+      "name": "Unveiled",
+      "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "This Heart",
-        "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
       },
       "artists": [
         {
-          "name": "Loah",
-          "url": "https://open.spotify.com/artist/3smkUIA0gfguE46oluw954"
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
         }
       ],
-      "duration_ms": 252580,
-      "name": "Unveiled",
-      "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Only The Strong",
-      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Impossible World",
         "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Only The Strong",
+      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "The Doubles",
         "url": "https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 214564,
-      "name": "Green Lights - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Thousand (acoustic)",
         "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 214564,
+      "name": "Green Lights - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "A Prayer Of My Own",
-        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 273513,
-      "name": "A Prayer Of My Own",
-      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Luck Mansion Sessions",
         "url": "https://open.spotify.com/album/72sVXC5BzvjO9WFaebpK1c"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 215998,
       "name": "Mother, Mother",
       "url": "https://open.spotify.com/track/6X0hjAJlVW9PiqQIaGsVzd"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "A Prayer Of My Own",
+        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 273513,
+      "name": "A Prayer Of My Own",
+      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Nothing's Easy",
-        "url": "https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo"
-      },
-      "artists": [
-        {
-          "name": "Tiz McNamara",
-          "url": "https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS"
-        }
-      ],
-      "duration_ms": 186978,
-      "name": "Nothing's Easy",
-      "url": "https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "A Very Lonely Solstice",
         "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 146058,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/0z2NEiu43ZN5r3OuUi2Cud"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Nothing's Easy",
+        "url": "https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo"
+      },
+      "artists": [
+        {
+          "name": "Tiz McNamara",
+          "url": "https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS"
+        }
+      ],
+      "duration_ms": 186978,
+      "name": "Nothing's Easy",
+      "url": "https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Telephone",
+        "url": "https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Been Worryin'",
         "url": "https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD"
       },
@@ -2171,22 +2187,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Telephone",
-        "url": "https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Telephone",
-      "url": "https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Portland",
         "url": "https://open.spotify.com/album/0F1lJ6QmJUMcIMiTE3fBZP"
       },
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Every Shade of Blue (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZHZJEzAcRnrn7pMjk1exJ"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "Hurts (But It Goes Away) - Acoustic",
-      "url": "https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Us (Acoustic)",
         "url": "https://open.spotify.com/album/4RZ3Ux3PeYeKXXH8MuEuu4"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 235030,
       "name": "Us - Acoustic",
       "url": "https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Every Shade of Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZHZJEzAcRnrn7pMjk1exJ"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "Hurts (But It Goes Away) - Acoustic",
+      "url": "https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Love Part Three",
-        "url": "https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt"
-      },
-      "artists": [
-        {
-          "name": "Dani Larkin",
-          "url": "https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Love Part Three",
-      "url": "https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Tax Code 1: Telepathy of a Mammoth",
         "url": "https://open.spotify.com/album/4ZYeCQonqxWYWGqjmyqRwc"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 250992,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/66c2mzrZst8gyTRibuwL9O"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Love Part Three",
+        "url": "https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt"
+      },
+      "artists": [
+        {
+          "name": "Dani Larkin",
+          "url": "https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Love Part Three",
+      "url": "https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "On the Run",
-        "url": "https://open.spotify.com/album/521ssqKMSfvxZpshqgSiKE"
-      },
-      "artists": [
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "On the Run",
-      "url": "https://open.spotify.com/track/7BxJnWwtwZDNSp6g8oD4Ed"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Knife Fighter",
         "url": "https://open.spotify.com/album/6eh8hZrVMmORpMMQ5XGqIK"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 224378,
       "name": "Knife Fighter",
       "url": "https://open.spotify.com/track/2AQuxFv52ShOmNdRRQjmeU"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "On the Run",
+        "url": "https://open.spotify.com/album/521ssqKMSfvxZpshqgSiKE"
+      },
+      "artists": [
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "On the Run",
+      "url": "https://open.spotify.com/track/7BxJnWwtwZDNSp6g8oD4Ed"
     },
     {
       "added_at": "2024-03-15 04:00:00",

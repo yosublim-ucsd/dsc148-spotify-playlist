@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-26",
-  "description": "This Is My Chemical Romance. Los temas esenciales, todos en una lista.",
+  "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
   "name": "This Is My Chemical Romance",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 360760,
       "name": "The Foundations of Decay",
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"

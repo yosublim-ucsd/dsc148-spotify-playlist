@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 139201,
+  "num_followers": 139274,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 245521,
+      "name": "You First",
+      "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 245521,
-      "name": "You First",
-      "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "California Girl",
         "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1887,22 +1887,18 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Day Job",
-        "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ"
       },
       "artists": [
         {
-          "name": "Jayden Seeley",
-          "url": "https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy"
-        },
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
         }
       ],
-      "duration_ms": 158423,
-      "name": "Day Job",
-      "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
+      "duration_ms": 187615,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1923,18 +1919,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ"
+        "name": "Day Job",
+        "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
       },
       "artists": [
         {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+          "name": "Jayden Seeley",
+          "url": "https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy"
+        },
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
         }
       ],
-      "duration_ms": 187615,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr"
+      "duration_ms": 158423,
+      "name": "Day Job",
+      "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "2 of us",
+        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "2 of us",
+      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "cheerleader (ft. Waterparks)",
         "url": "https://open.spotify.com/album/2tWR94g7epMrZx7UAWeIsw"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 159863,
       "name": "cheerleader (ft. Waterparks)",
       "url": "https://open.spotify.com/track/2malYWL8GiAyoAqvLOeSrX"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "2 of us",
-        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "2 of us",
-      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "u & the tin man",
         "url": "https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 148602,
       "name": "u & the tin man",
       "url": "https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Every Heart But Mine",
-        "url": "https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Every Heart But Mine",
-      "url": "https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "hover like a GODDESS",
         "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 143357,
       "name": "hover like a GODDESS",
       "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Every Heart But Mine",
+        "url": "https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Every Heart But Mine",
+      "url": "https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2299,22 +2299,6 @@
       "duration_ms": 204632,
       "name": "Maybe You Saved Me",
       "url": "https://open.spotify.com/track/6pJsukg4tYbHfE01yU40Qr"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "Sagittarius",
-        "url": "https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Kickflip",
-      "url": "https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2351,6 +2335,22 @@
       "duration_ms": 180918,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/6uMKirWXFJYZIYDjXwLwbn"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Sagittarius",
+        "url": "https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Kickflip",
+      "url": "https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 186670,
+      "name": "Good Feeling About You",
+      "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 162986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "DUMB",
-        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2519,18 +2519,18 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
       },
       "artists": [
         {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
         }
       ],
-      "duration_ms": 186670,
-      "name": "Good Feeling About You",
-      "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
+      "duration_ms": 205933,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
     },
     {
       "added_at": "2024-04-19 14:19:15",

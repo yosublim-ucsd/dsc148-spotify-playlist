@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121502,
+  "num_followers": 121509,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Hundred Fifty Up",
-        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 264192,
-      "name": "Hundred Fifty Up",
-      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Space Logic",
         "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 211025,
       "name": "I Need You to Hear Me",
       "url": "https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Hundred Fifty Up",
+        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 264192,
+      "name": "Hundred Fifty Up",
+      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -527,22 +527,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Electric Visions",
-        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
       },
       "artists": [
         {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
-        },
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 369346,
-      "name": "Electric Visions",
-      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -563,22 +559,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Just for a Moment",
         "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 193200,
       "name": "Just for a Moment",
       "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Electric Visions",
+        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
+      },
+      "artists": [
+        {
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+        },
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 369346,
+      "name": "Electric Visions",
+      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Forms / Objects",
-        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
-      },
-      "artists": [
-        {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
-        },
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 386508,
-      "name": "Objects",
-      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Petricor",
         "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
@@ -715,6 +695,46 @@
       "duration_ms": 264000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Forms / Objects",
+        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
+      },
+      "artists": [
+        {
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+        },
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 386508,
+      "name": "Objects",
+      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
+      },
+      "artists": [
+        {
+          "name": "Swann Decamme",
+          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
+        },
+        {
+          "name": "Oktave",
+          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
+        }
+      ],
+      "duration_ms": 415903,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -751,38 +771,26 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
-      },
-      "artists": [
-        {
-          "name": "Swann Decamme",
-          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
-        },
-        {
-          "name": "Oktave",
-          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
-        }
-      ],
-      "duration_ms": 415903,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
+        "name": "Too Many Questions (Remix)",
+        "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
       "artists": [
         {
           "name": "Yamil",
           "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Humanice",
+          "url": "https://open.spotify.com/artist/6FRbGY9J3Rz0lgIXD6xRAT"
+        },
+        {
+          "name": "Soble",
+          "url": "https://open.spotify.com/artist/7fCe4NFHPsjmaW9qf4wvMR"
         }
       ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+      "duration_ms": 293529,
+      "name": "Too Many Questions - Soble Remix",
+      "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -843,22 +851,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
       },
@@ -871,6 +863,22 @@
       "duration_ms": 182407,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -923,78 +931,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Too Many Questions (Remix)",
-        "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
       },
       "artists": [
         {
           "name": "Yamil",
           "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        },
-        {
-          "name": "Humanice",
-          "url": "https://open.spotify.com/artist/6FRbGY9J3Rz0lgIXD6xRAT"
-        },
-        {
-          "name": "Soble",
-          "url": "https://open.spotify.com/artist/7fCe4NFHPsjmaW9qf4wvMR"
         }
       ],
-      "duration_ms": 293529,
-      "name": "Too Many Questions - Soble Remix",
-      "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Killer Machine",
-        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
-      },
-      "artists": [
-        {
-          "name": "Adani & Wolf",
-          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
-        }
-      ],
-      "duration_ms": 233316,
-      "name": "Killer Machine",
-      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1019,6 +967,58 @@
       "duration_ms": 165517,
       "name": "Hachi",
       "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Killer Machine",
+        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
+      },
+      "artists": [
+        {
+          "name": "Adani & Wolf",
+          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
+        }
+      ],
+      "duration_ms": 233316,
+      "name": "Killer Machine",
+      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 252234,
-      "name": "Reconnect",
-      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "100 Miles",
         "url": "https://open.spotify.com/album/0MHuy3031MWIjNAwuPgCJK"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 518086,
       "name": "100 Miles",
       "url": "https://open.spotify.com/track/3AsStByn7z7jj9EY7iymPb"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 252234,
+      "name": "Reconnect",
+      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Yugen",
+        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Yugen",
+      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Such It Goes",
-        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
+        "name": "RDV",
+        "url": "https://open.spotify.com/album/2WjEkuvVo6z3puQTGET9H7"
       },
       "artists": [
         {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
         }
       ],
-      "duration_ms": 482595,
-      "name": "Such It Goes",
-      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
+      "duration_ms": 159705,
+      "name": "RDV",
+      "url": "https://open.spotify.com/track/3oIy7vraINdyE19cGdi1xX"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1239,34 +1255,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Yugen",
-        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
+        "name": "Such It Goes",
+        "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Yugen",
-      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "RDV",
-        "url": "https://open.spotify.com/album/2WjEkuvVo6z3puQTGET9H7"
-      },
-      "artists": [
-        {
-          "name": "Teuteu",
-          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
-        }
-      ],
-      "duration_ms": 159705,
-      "name": "RDV",
-      "url": "https://open.spotify.com/track/3oIy7vraINdyE19cGdi1xX"
+      "duration_ms": 482595,
+      "name": "Such It Goes",
+      "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Voyage Direct (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
-      },
-      "artists": [
-        {
-          "name": "Tom Trago",
-          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
-        }
-      ],
-      "duration_ms": 277899,
-      "name": "Lost in the Streets of NYC - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Fading Memories",
         "url": "https://open.spotify.com/album/1DrA0ZU45wJOm46XoAO2Sd"
       },
@@ -1335,6 +1319,38 @@
       "duration_ms": 483808,
       "name": "Fading Memories",
       "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Voyage Direct (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "duration_ms": 277899,
+      "name": "Lost in the Streets of NYC - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 284205,
       "name": "009A1",
       "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
     },
     {
       "added_at": "2024-04-25 22:00:00",

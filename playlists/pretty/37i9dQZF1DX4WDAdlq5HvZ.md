@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,950 likes - 85 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,959 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 61 | [When I Talk to God](https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 2:37 |
 | 62 | [Amen A sus Mamás](https://open.spotify.com/track/6ndM8lsNfBq7n9b5NcJNo5) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Amen A sus Mamás](https://open.spotify.com/album/0VBFC4sHoaCRQShU1c3YAg) | 2:48 |
 | 63 | [Paving the Runway \(You're Gonna Fly\)](https://open.spotify.com/track/118yj2gBlUuImGrZeMuTUj) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Paving the Runway \(You're Gonna Fly\)](https://open.spotify.com/album/0qqN2oera2BjXRoZzMO3ma) | 3:23 |
-| 64 | [I Am Loved](https://open.spotify.com/track/2ypIhH4TaZQ1Pux0to1ceP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Christian Music 2020](https://open.spotify.com/album/7i58toAI9y2adGP64UJ2Xc) | 7:12 |
-| 65 | [Me](https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Blink](https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49) | 4:33 |
-| 66 | [Momma We Made It](https://open.spotify.com/track/7lsOC2r0VwEQhWcAToVdrQ) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Prophetess Joyce Haddon](https://open.spotify.com/artist/6AGnWgeJe46NcVVKkpBYjx) | [Momma We Made It](https://open.spotify.com/album/0pwxVeIOqu7OG8S2SHQdnn) | 3:52 |
+| 64 | [Momma We Made It](https://open.spotify.com/track/7lsOC2r0VwEQhWcAToVdrQ) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Prophetess Joyce Haddon](https://open.spotify.com/artist/6AGnWgeJe46NcVVKkpBYjx) | [Momma We Made It](https://open.spotify.com/album/0pwxVeIOqu7OG8S2SHQdnn) | 3:52 |
+| 65 | [I Am Loved](https://open.spotify.com/track/2ypIhH4TaZQ1Pux0to1ceP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Christian Music 2020](https://open.spotify.com/album/7i58toAI9y2adGP64UJ2Xc) | 7:12 |
+| 66 | [Me](https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Blink](https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49) | 4:33 |
 | 67 | [Mama \(Sentimental\)](https://open.spotify.com/track/4G9s3pYrx3TgnHZa92dVON) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Mama \(Sentimental\)](https://open.spotify.com/album/57ybSKXLHW8E6Ioo96OMKM) | 3:26 |
 | 68 | [After The Fire](https://open.spotify.com/track/4Gqx9729vziD22mSmqAewG) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Simple Things](https://open.spotify.com/album/0hx7o90RXZZtJ6MS5nvxjF) | 3:21 |
 | 69 | [Mama](https://open.spotify.com/track/4TsPRvWfCbbaGq3nDMfaux) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Mama](https://open.spotify.com/album/4UIzTVq2CaK61HXnoccPj5) | 2:38 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 76 | [Mamá](https://open.spotify.com/track/0llRpbgcHZ9Ig5F105manW) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG) | [Mamá](https://open.spotify.com/album/0DAa8NDAjQB8NsRHygPSqi) | 4:51 |
 | 77 | [You Have Provided](https://open.spotify.com/track/00bTXTGgdFZDo46TmY52Rv) | [David Walker](https://open.spotify.com/artist/5EnYAzla5xYZmVnTyx7qv4), [10,000 Fathers](https://open.spotify.com/artist/48jeM9IfFZT9LpKKkN076l) | [You Have Provided](https://open.spotify.com/album/5eecteiGogxClzN7fKHQkE) | 3:47 |
 | 78 | [O God Our Mother](https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm) | [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [O God Our Mother](https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda) | 3:41 |
-| 79 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
+| 79 | [Trust In You](https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 3:31 |
 | 80 | [You Make Me Brave \(Live\)](https://open.spotify.com/track/345RHjiEdIVedsxtiwGG7t) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/6wuUosaTZizPH4t085tNVg) | 6:06 |
 | 81 | [Breathe](https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS) | 3:33 |
 | 82 | [Fearless](https://open.spotify.com/track/7oZqpToODghmQtvmzmyfQK) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/1ICW4kWyWvw5ekrwul18gP) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,998 likes - 38 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,006 likes - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 34 | [Scary Love](https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Scary Love](https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN) | 3:00 |
 | 35 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 | 36 | [World on a String](https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe) | 3:09 |
-| 37 | [GO GET YA MOTHA](https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 3:03 |
-| 38 | [MISS U AGAIN](https://open.spotify.com/track/6AFESCtuUjE4vfi2OFKKn6) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [MISS U AGAIN](https://open.spotify.com/album/0b5hRsDSSnWPaw8ViQ1uJ4) | 2:57 |
+| 37 | [MISS U AGAIN](https://open.spotify.com/track/6AFESCtuUjE4vfi2OFKKn6) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [MISS U AGAIN](https://open.spotify.com/album/0b5hRsDSSnWPaw8ViQ1uJ4) | 2:57 |
+| 38 | [GO GET YA MOTHA](https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 3:03 |
 
 Snapshot ID: `ZjOmngAAAAClLIzTXC1qHOJ5JkJo6Esr`

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29634,
+  "num_followers": 29637,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAOmHX7bCH5vk038pAe2Yy5LtaYD509",
+  "snapshot_id": "AAAOm8hpK1tz27kaYYxOux7l6oUZd5mQ",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,22 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-05-15 14:43:50",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 229945,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ"
     },
     {
       "added_at": "2024-05-10 11:23:39",
@@ -759,22 +775,6 @@
       "duration_ms": 203130,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
-    },
-    {
-      "added_at": "2023-09-22 17:16:54",
-      "album": {
-        "name": "softscars",
-        "url": "https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 186987,
-      "name": "cyber meat",
-      "url": "https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

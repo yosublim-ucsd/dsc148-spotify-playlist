@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 ### [This Is Greeicy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33YUTu)
 
-> This is Greeicy\. The essential tracks, all in one playlist.
+> This Is Greeicy\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,133 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,141 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 50 | [Te Estás Enamorando de Mí \- Fiesta Remix](https://open.spotify.com/track/2DBrWAfbqHmyX8iYYm2HLD) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Te Estás Enamorando de Mí \(Fiesta Remix\)](https://open.spotify.com/album/7gLrC5Ix8bZCFAX2U28tzh) | 2:15 |
 | 51 | [Esta Vez](https://open.spotify.com/track/36MMDlQwvVLVH0In2L9P8s) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 1:57 |
 
-Snapshot ID: `ZkFYAAAAAACEdr6cDPfh8pDXHSA9yhHe`
+Snapshot ID: `ZkFYAAAAAAD66AUmPYc3VOnUXVSN3p23`

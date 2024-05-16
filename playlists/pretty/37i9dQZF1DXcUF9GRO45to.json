@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 37967,
+  "num_followers": 37969,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
-      },
-      "artists": [
-        {
-          "name": "MDNS",
-          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
-        }
-      ],
-      "duration_ms": 141238,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
         "name": "Fr\u00e9quence violence",
         "url": "https://open.spotify.com/album/19JD5rvKFS4n48zCosjzIE"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 170346,
       "name": "Cristaux liquides",
       "url": "https://open.spotify.com/track/2EWJSXTYhCGfBjdyJ9Zwci"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "duration_ms": 141238,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "T\u00eate bl\u00eame",
-        "url": "https://open.spotify.com/album/1k77W6tW9MlXCnRhNySBSR"
+        "name": "Silence Slowly And Madly Shines",
+        "url": "https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA"
       },
       "artists": [
         {
-          "name": "Pogo Car Crash Control",
-          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
+          "name": "The Psychotic Monks",
+          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
         }
       ],
-      "duration_ms": 162226,
-      "name": "T\u00eate bl\u00eame",
-      "url": "https://open.spotify.com/track/6AQvZgtjYGbw2wEMYMZef4"
+      "duration_ms": 343853,
+      "name": "It's Gone",
+      "url": "https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "Silence Slowly And Madly Shines",
-        "url": "https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA"
+        "name": "T\u00eate bl\u00eame",
+        "url": "https://open.spotify.com/album/1k77W6tW9MlXCnRhNySBSR"
       },
       "artists": [
         {
-          "name": "The Psychotic Monks",
-          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
+          "name": "Pogo Car Crash Control",
+          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
         }
       ],
-      "duration_ms": 343853,
-      "name": "It's Gone",
-      "url": "https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M"
+      "duration_ms": 162226,
+      "name": "T\u00eate bl\u00eame",
+      "url": "https://open.spotify.com/track/6AQvZgtjYGbw2wEMYMZef4"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -607,6 +607,26 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
+        "name": "Kathleen",
+        "url": "https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        },
+        {
+          "name": "Harlee Young",
+          "url": "https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG"
+        }
+      ],
+      "duration_ms": 138083,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
         "name": "The Devil You Know",
         "url": "https://open.spotify.com/album/7zrq1fN6aANP2nDQZA2CtL"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 238947,
       "name": "Take It",
       "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
-        "name": "Kathleen",
-        "url": "https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        },
-        {
-          "name": "Harlee Young",
-          "url": "https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG"
-        }
-      ],
-      "duration_ms": 138083,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "RAVENOUS",
-        "url": "https://open.spotify.com/album/6hbQfjVUBeubJNQUgURm1w"
-      },
-      "artists": [
-        {
-          "name": "Greyborn",
-          "url": "https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis"
-        }
-      ],
-      "duration_ms": 253694,
-      "name": "RAVENOUS",
-      "url": "https://open.spotify.com/track/7MZS2FBik6EQLAj5zOQbyi"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
         "name": "Newspapers",
         "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 188736,
       "name": "Newspapers",
       "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
+        "name": "RAVENOUS",
+        "url": "https://open.spotify.com/album/6hbQfjVUBeubJNQUgURm1w"
+      },
+      "artists": [
+        {
+          "name": "Greyborn",
+          "url": "https://open.spotify.com/artist/5hV2xBm2AojCQ0EF6jDqis"
+        }
+      ],
+      "duration_ms": 253694,
+      "name": "RAVENOUS",
+      "url": "https://open.spotify.com/track/7MZS2FBik6EQLAj5zOQbyi"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "Ennemis",
-        "url": "https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu"
-      },
-      "artists": [
-        {
-          "name": "No One Is Innocent",
-          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "Forces du d\u00e9sordre",
-      "url": "https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/2KQaSNYnMutOHHGAeUBSfO"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 238186,
       "name": "Enfer",
       "url": "https://open.spotify.com/track/1E32HzakrkfftyhRJrRISM"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
+        "name": "Ennemis",
+        "url": "https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu"
+      },
+      "artists": [
+        {
+          "name": "No One Is Innocent",
+          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Forces du d\u00e9sordre",
+      "url": "https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "Hara",
-        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
-      },
-      "artists": [
-        {
-          "name": "Datcha Mandala",
-          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
         "name": "Ineffable",
         "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
+        "name": "Hara",
+        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
       },
       "artists": [
         {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
         }
       ],
-      "duration_ms": 180960,
-      "name": "Heedless",
-      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
+      "duration_ms": 204106,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -1111,6 +1095,22 @@
       "duration_ms": 289476,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
+      },
+      "artists": [
+        {
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Heedless",
+      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "SORORITY / CONTROL",
-        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
-      },
-      "artists": [
-        {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
-        }
-      ],
-      "duration_ms": 163732,
-      "name": "Sorority",
-      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
         "name": "Chantal",
         "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 253906,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
+        "name": "SORORITY / CONTROL",
+        "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 163732,
+      "name": "Sorority",
+      "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "Life Is Unfair",
-        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
-      },
-      "artists": [
-        {
-          "name": "DYE CRAP",
-          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
-        }
-      ],
-      "duration_ms": 135750,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
         "name": "Nothing Belongs to Anything",
         "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 308125,
       "name": "Welcome Newcomers",
       "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
+        "name": "Life Is Unfair",
+        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
+      },
+      "artists": [
+        {
+          "name": "DYE CRAP",
+          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
+        }
+      ],
+      "duration_ms": 135750,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "Vacuum Sealed",
-        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
         "name": "Billy Believe",
         "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "Liminal Status",
-        "url": "https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp"
+        "name": "Vacuum Sealed",
+        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
       "artists": [
         {
-          "name": "Watertank",
-          "url": "https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC"
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Liminal Status",
-      "url": "https://open.spotify.com/track/0wqxvfCxfga9DBOcKYPWuY"
+      "duration_ms": 240333,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -1323,22 +1307,6 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "The West Is the Best",
-        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        }
-      ],
-      "duration_ms": 221322,
-      "name": "Echo Street",
-      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
       },
@@ -1351,6 +1319,38 @@
       "duration_ms": 192815,
       "name": "Humans",
       "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
+        "name": "Liminal Status",
+        "url": "https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp"
+      },
+      "artists": [
+        {
+          "name": "Watertank",
+          "url": "https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Liminal Status",
+      "url": "https://open.spotify.com/track/0wqxvfCxfga9DBOcKYPWuY"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
+        "name": "The West Is the Best",
+        "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "duration_ms": 221322,
+      "name": "Echo Street",
+      "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
+        "name": "Postmodern Blue",
+        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
+      },
+      "artists": [
+        {
+          "name": "Trainfantome",
+          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
+        }
+      ],
+      "duration_ms": 170393,
+      "name": "Vulgar",
+      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+    },
+    {
+      "added_at": "2024-05-02 20:20:33",
+      "album": {
         "name": "Liquor Liquor",
         "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 222288,
       "name": "Liquor Liquor",
       "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
-    },
-    {
-      "added_at": "2024-05-02 20:20:33",
-      "album": {
-        "name": "Core",
-        "url": "https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        }
-      ],
-      "duration_ms": 268399,
-      "name": "Core",
-      "url": "https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td"
     },
     {
       "added_at": "2024-05-02 20:20:33",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-05-02 20:20:33",
       "album": {
-        "name": "Postmodern Blue",
-        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
+        "name": "Core",
+        "url": "https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g"
       },
       "artists": [
         {
-          "name": "Trainfantome",
-          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
         }
       ],
-      "duration_ms": 170393,
-      "name": "Vulgar",
-      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+      "duration_ms": 268399,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td"
     },
     {
       "added_at": "2024-05-02 20:20:33",

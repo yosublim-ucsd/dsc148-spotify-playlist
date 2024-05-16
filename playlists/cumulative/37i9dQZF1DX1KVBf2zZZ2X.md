@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1KVBf2zZZ2X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1KVBf2zZZ2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1KVBf2zZZ2X)
 
-### [Soft Nature Music](https://open.spotify.com/playlist/37i9dQZF1DX1KVBf2zZZ2X)
+### [Calming Nature Music](https://open.spotify.com/playlist/37i9dQZF1DX1KVBf2zZZ2X)
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 

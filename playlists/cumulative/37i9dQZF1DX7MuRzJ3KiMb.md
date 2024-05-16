@@ -4,7 +4,7 @@
 
 > el amor es <3
 
-168 songs - 9 hr 24 min
+169 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Me Quieres Como Soy](https://open.spotify.com/track/79oGee7n59xU3CZr7fkK84) | [Billy Miamor](https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL) | [Me Quieres Como Soy](https://open.spotify.com/album/2DubvBe51q1uMXO4LP6WqE) | 2:46 | 2023-02-14 | 2023-03-11 |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-01-27 | 2023-02-25 |
 | [Menos Tú Y Yo](https://open.spotify.com/track/43SNLAbMAeWEj5iV2WIrIm) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Menos Tú y Yo](https://open.spotify.com/album/0vXp6cX8hFR5EyonKAJFFx) | 3:08 | 2023-02-18 |  |
-| [Miedo](https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Miedo](https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8) | 3:20 | 2022-02-25 |  |
+| [Miedo](https://open.spotify.com/track/5GJl5QdhQ7ZrYuTamGnPBj) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Miedo](https://open.spotify.com/album/7GnOZrSoKrxbEiTvYG0ri8) | 3:20 | 2022-02-25 | 2024-05-16 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-02-25 |  |
 | [Mientras Duermes](https://open.spotify.com/track/1HZNMsGylrBnAuHkRMLl8O) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Mientras Duermes](https://open.spotify.com/album/5Gv3HrGr085Rv4Fc2uuMm3) | 3:39 | 2022-02-25 | 2023-01-12 |
 | [MKOB](https://open.spotify.com/track/1fsv79A1dFFlyZoTP9XJLG) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 3:16 | 2023-06-22 | 2024-02-17 |
@@ -116,6 +116,7 @@
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2024-02-16 |  |
 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 | 2022-12-09 |  |
 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 | 2023-01-27 | 2023-02-18 |
+| [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 | 2024-05-16 |  |
 | [Platícame de Ti](https://open.spotify.com/track/0eqUsxZ2THsPqslnQaPMD7) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Platícame de Ti](https://open.spotify.com/album/3uukbcpnSepDgOHTZLAuQN) | 4:10 | 2022-02-25 | 2022-06-25 |
 | [Por Las Calles Contigo, Mi Amorcito](https://open.spotify.com/track/6IUmMNWhee01Zfr6jWqtGY) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [Por Las Calles Contigo, Mi Amorcito](https://open.spotify.com/album/4Sfz1d0P5TOLeNQgKRHkPW) | 3:16 | 2022-02-25 | 2022-06-25 |
 | [Postre](https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK) | 3:00 | 2024-02-16 | 2024-02-24 |

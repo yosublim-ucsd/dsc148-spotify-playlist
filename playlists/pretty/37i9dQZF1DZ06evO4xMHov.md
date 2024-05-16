@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This is Nívea Soares\. The essential tracks, all in one playlist.
+> This is Nívea Soares\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,370 likes - 50 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,387 likes - 50 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Nenhum Deus Como Tu](https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio](https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F) | 6:01 |
 | 50 | [Nosso General \- Ao Vivo](https://open.spotify.com/track/7zgTca2zHEWFWnkXf4USLv) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nosso General \(Ao Vivo\)](https://open.spotify.com/album/3DkQt1f7twyMO3DW1dHYH8) | 3:08 |
 
-Snapshot ID: `ZkFYAAAAAACLmNKkGAgT81RRiSjmDAc5`
+Snapshot ID: `ZkFYAAAAAACY0kYWfV+vItlb+BGWL4HI`

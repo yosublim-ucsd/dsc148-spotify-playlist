@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08OZ0s.md) - [plain]
 
 ### [This Is Kelli\-Leigh](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08OZ0s)
 
-> This is Kelli\-Leigh\. The essential tracks, all in one playlist.
+> This is Kelli\-Leigh\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08OZ0s.md) - [plain]
 | 50 | [Kill The Lights](https://open.spotify.com/track/5B8d6CO6dbfxPOTf7f1XiL) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Kill The Lights](https://open.spotify.com/album/1iK3k25i2YYQZ5zCxpZx3x) | 2:58 |
 | 51 | [Without You \- Dissent Remix](https://open.spotify.com/track/0Wa9QbZRhwGPVAqYdJMzLD) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [DISSENT](https://open.spotify.com/artist/7EiqGw3DQxecvZLIK8QFSO) | [Without You \(Remixes\)](https://open.spotify.com/album/6jUfQTKKkB3Ta5YL5UCGYs) | 3:27 |
 
-Snapshot ID: `ZkFYAAAAAABqtDYw92Fb5f2s3aI6Hnrh`
+Snapshot ID: `ZkFYAAAAAAD5oETYRjUAKLPLaznJv3QI`

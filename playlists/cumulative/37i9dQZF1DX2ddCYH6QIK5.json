@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: mo\u00e9, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: fyne, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 187391,
       "name": "2nd Floor",
       "url": "https://open.spotify.com/track/1Z5PMuV1AOBokmmEXupSpt"
+    },
+    {
+      "album": {
+        "name": "2Young2Late",
+        "url": "https://open.spotify.com/album/2a1p8r6w3YpUHI4b4tnybo"
+      },
+      "artists": [
+        {
+          "name": "Nefeli",
+          "url": "https://open.spotify.com/artist/2qF6rAtJLY5NJYt0U7iEB3"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159550,
+      "name": "2Young2Late",
+      "url": "https://open.spotify.com/track/54mMrW5A32yoCwVcf4qtJK"
     },
     {
       "album": {
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 256510,
       "name": "Break Out",
       "url": "https://open.spotify.com/track/29ETQvPyGSeizcUdE26cx0"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 423397,
       "name": "Crush",
       "url": "https://open.spotify.com/track/7gY3CDLjByjqUpHYZnbVVB"
@@ -4636,7 +4654,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 208078,
       "name": "Do You Hear The Cries?",
       "url": "https://open.spotify.com/track/41Fk07EHUltBQGrbpaGT2y"
@@ -7298,7 +7316,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 189273,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/5JFn4fgvV39uXk18d71391"
@@ -7428,6 +7446,24 @@
       "duration_ms": 170597,
       "name": "grosse freiheit",
       "url": "https://open.spotify.com/track/6P4HmEGU2LaTMv6o4smUlc"
+    },
+    {
+      "album": {
+        "name": "gr\u00fcne augen l\u00fcgen",
+        "url": "https://open.spotify.com/album/0iTAYbRF5Jd5rq2Rt48JwB"
+      },
+      "artists": [
+        {
+          "name": "kleinabaoho",
+          "url": "https://open.spotify.com/artist/5ZlsovbyHt8JLUKb68OG2x"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197227,
+      "name": "gr\u00fcne augen l\u00fcgen",
+      "url": "https://open.spotify.com/track/1SxYP9yXdN2UgnTu61Pytv"
     },
     {
       "album": {
@@ -7980,6 +8016,28 @@
       "duration_ms": 416012,
       "name": "Hecate",
       "url": "https://open.spotify.com/track/7Mbfjdc7JWcMw2TmFf68Xq"
+    },
+    {
+      "album": {
+        "name": "heimfahren (steuerfrei)",
+        "url": "https://open.spotify.com/album/24PTshDzbA3UbsW0Se5E2w"
+      },
+      "artists": [
+        {
+          "name": "Skofi",
+          "url": "https://open.spotify.com/artist/6Fip3yMOPnSLEhRRj99Olt"
+        },
+        {
+          "name": "wink182",
+          "url": "https://open.spotify.com/artist/3kaSdeNcqnEmkhsm56sfvT"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181687,
+      "name": "heimfahren (steuerfrei)",
+      "url": "https://open.spotify.com/track/3GIOhdxqWwkcjmnNaSa3Qi"
     },
     {
       "album": {
@@ -9851,6 +9909,24 @@
     },
     {
       "album": {
+        "name": "Kauft euch doch ein Eis",
+        "url": "https://open.spotify.com/album/6mBitS2C9UnwdIXFOV6WSy"
+      },
+      "artists": [
+        {
+          "name": "ben clean",
+          "url": "https://open.spotify.com/artist/3VVb8BDDRiXOmlGej2R6s0"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Kauft euch doch ein Eis",
+      "url": "https://open.spotify.com/track/2CP8zre0nLhRDHKkejKkqO"
+    },
+    {
+      "album": {
         "name": "Keep It Movin'",
         "url": "https://open.spotify.com/album/2nGY8IsJjHiPuMi0dr6LeV"
       },
@@ -10028,7 +10104,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 154500,
       "name": "Kino",
       "url": "https://open.spotify.com/track/0gpvcds6YWLVvfCEwmnw6R"
@@ -10656,6 +10732,24 @@
       "duration_ms": 254153,
       "name": "Liebesbriefe",
       "url": "https://open.spotify.com/track/6lVRDNNb4omegvDYORrAet"
+    },
+    {
+      "album": {
+        "name": "Liebesbriefe",
+        "url": "https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a"
+      },
+      "artists": [
+        {
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Liebesbriefe",
+      "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
     },
     {
       "album": {
@@ -12136,6 +12230,28 @@
       "duration_ms": 196000,
       "name": "Nach Dir",
       "url": "https://open.spotify.com/track/5fJ23SU4FzhG6ZzgNYDav6"
+    },
+    {
+      "album": {
+        "name": "nachhause",
+        "url": "https://open.spotify.com/album/2LECNccrTml7H617VA6bLS"
+      },
+      "artists": [
+        {
+          "name": "shuco",
+          "url": "https://open.spotify.com/artist/1H8AkHgSoncaFDKUAebvCX"
+        },
+        {
+          "name": "robeltobel",
+          "url": "https://open.spotify.com/artist/6XEiAwmpNHuvAoKhsLmaHw"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200699,
+      "name": "nachhause",
+      "url": "https://open.spotify.com/track/5dJ3IZMEyhd7BmJOzbTpQu"
     },
     {
       "album": {
@@ -17596,7 +17712,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 258000,
       "name": "THE PASSION",
       "url": "https://open.spotify.com/track/1Pu8ym1hrE5WGVkeM4wfp6"

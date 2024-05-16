@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Naza x Ninho
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,762 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,959 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 33 | [Sakina](https://open.spotify.com/track/0GOS11A3ETbua6u0YsqDQ9) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Sakina](https://open.spotify.com/album/7upDCAsLkh57rRHPUZUao8) | 3:14 |
 | 34 | [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 |
 | 35 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 |
-| 36 | [Corazon](https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Game Over 3 \- Terminal 2](https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7) | 3:08 |
+| 36 | [Corazon](https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Game Over 3 \- Terminal 2](https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7) | 3:08 |
 | 37 | [DIOR](https://open.spotify.com/track/7yh14zQEi0RYwDXWk43GmU) | [Moris Beat](https://open.spotify.com/artist/6dkNQYPE7rqk57DfAfZdQU), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [DIOR](https://open.spotify.com/album/0j1hZJA1NNx9Gs32oExpcs) | 2:45 |
 | 38 | [Noche](https://open.spotify.com/track/2OFjQrosVRVFY2nVxrFvBG) | [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk) | [LES DIÈSES 2](https://open.spotify.com/album/1MyXhXWrMODghP4Oa9p054) | 3:10 |
 | 39 | [DXB](https://open.spotify.com/track/1MWOBTcuQwLvK3lAhkOvtU) | [Mortalla](https://open.spotify.com/artist/7xVHj5WkiGCygNfzWbOVRD) | [DXB](https://open.spotify.com/album/6EPnl5aba6enLzXfjfp3tU) | 2:24 |

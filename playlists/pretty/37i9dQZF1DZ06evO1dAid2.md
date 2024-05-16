@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,659 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,666 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 49 | [Beautiful Delilah \- Alternate Takes 15/16](https://open.spotify.com/track/4RdZsxHKdBVjRj1PgcCe4h) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:32 |
 | 50 | [Together \(We Will Always Be\)](https://open.spotify.com/track/0K9TsB7x1A5QtyF8CDsZu6) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [CHUCK BERRY INTEGRAL 1955 \- 1962](https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0) | 2:36 |
 
-Snapshot ID: `ZkFYAAAAAAAKEZftvlDQcyGF0i5EuwAD`
+Snapshot ID: `ZkKpgAAAAAADT20FV9yoAqzA6DOeIDIQ`

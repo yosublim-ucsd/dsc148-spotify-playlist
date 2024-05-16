@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. LI YILEI  cover. Artwork by Thami Nabil",
-  "num_followers": 160392,
+  "num_followers": 160608,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
       "duration_ms": 141960,
       "name": "the mould",
       "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "jacarandas",
+        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
+      },
+      "artists": [
+        {
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
+        }
+      ],
+      "duration_ms": 138480,
+      "name": "jacarandas",
+      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -483,22 +499,6 @@
     {
       "added_at": "2024-04-17 04:00:00",
       "album": {
-        "name": "INVERTIDO",
-        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
-      },
-      "artists": [
-        {
-          "name": "Marianne",
-          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
-        }
-      ],
-      "duration_ms": 293370,
-      "name": "VOAR",
-      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
-    },
-    {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
         "name": "Al\u00e9m do tempo",
         "url": "https://open.spotify.com/album/318gPAeSQOuTa2OLeTevaj"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 239786,
       "name": "Al\u00e9m do tempo",
       "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "INVERTIDO",
+        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
+      },
+      "artists": [
+        {
+          "name": "Marianne",
+          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
+        }
+      ],
+      "duration_ms": 293370,
+      "name": "VOAR",
+      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -625,22 +641,6 @@
       "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Webcrawler",
-      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
-    },
-    {
       "added_at": "2024-04-24 04:00:00",
       "album": {
         "name": "Bizou",
@@ -655,6 +655,22 @@
       "duration_ms": 184745,
       "name": "Fleur en poly\u00e9thyl\u00e8ne",
       "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -725,6 +741,22 @@
       "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
     },
     {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Tusi Ojos",
@@ -739,22 +771,6 @@
       "duration_ms": 272112,
       "name": "Tusi Ojos",
       "url": "https://open.spotify.com/track/5E32NyBpHy9VAiOAeF0qSX"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Ignore",
-        "url": "https://open.spotify.com/album/2rAaBEPv2cTqzkPGUuMY3E"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Ignore",
-      "url": "https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -793,20 +809,20 @@
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+        "name": "Ignore",
+        "url": "https://open.spotify.com/album/2rAaBEPv2cTqzkPGUuMY3E"
       },
       "artists": [
         {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
+      "duration_ms": 188889,
+      "name": "Ignore",
+      "url": "https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -823,6 +839,38 @@
       "duration_ms": 269812,
       "name": "tdU_du_tdu_tdu",
       "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
+    },
+    {
+      "added_at": "2024-01-10 04:24:05",
+      "album": {
+        "name": "Awhile",
+        "url": "https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "Awhile",
+      "url": "https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Us, In Between The Blinded",
+        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
+      },
+      "artists": [
+        {
+          "name": "Unblinded Society",
+          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
+        }
+      ],
+      "duration_ms": 157646,
+      "name": "Virtual Forrest",
+      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
       "added_at": "2024-05-01 17:01:23",
@@ -849,20 +897,20 @@
       "url": "https://open.spotify.com/track/5m9aliUs9oOoUlII8rbv6U"
     },
     {
-      "added_at": "2024-01-10 04:24:05",
+      "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Awhile",
-        "url": "https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a"
+        "name": "Ground Groove",
+        "url": "https://open.spotify.com/album/02Lf34RloqjwBGi2lPMtUN"
       },
       "artists": [
         {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
         }
       ],
-      "duration_ms": 177814,
-      "name": "Awhile",
-      "url": "https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J"
+      "duration_ms": 126030,
+      "name": "Heart Shimmer",
+      "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -879,38 +927,6 @@
       "duration_ms": 496300,
       "name": "The Bloodwren pt. II",
       "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Us, In Between The Blinded",
-        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
-      },
-      "artists": [
-        {
-          "name": "Unblinded Society",
-          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
-        }
-      ],
-      "duration_ms": 157646,
-      "name": "Virtual Forrest",
-      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Ground Groove",
-        "url": "https://open.spotify.com/album/02Lf34RloqjwBGi2lPMtUN"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 126030,
-      "name": "Heart Shimmer",
-      "url": "https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb"
     },
     {
       "added_at": "2024-01-24 03:58:32",
@@ -985,6 +1001,22 @@
       "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
     },
     {
+      "added_at": "2024-03-20 13:59:17",
+      "album": {
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+      },
+      "artists": [
+        {
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+        }
+      ],
+      "duration_ms": 68110,
+      "name": "wearywatergod",
+      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
+    },
+    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "touch the subconscious",
@@ -1005,22 +1037,6 @@
       "url": "https://open.spotify.com/track/53efsv7kZof3mTNGTiuJ8F"
     },
     {
-      "added_at": "2024-03-20 13:59:17",
-      "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 68110,
-      "name": "wearywatergod",
-      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Paradisia, Vol. 10",
@@ -1035,46 +1051,6 @@
       "duration_ms": 209722,
       "name": "Neo Blu",
       "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
-    },
-    {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Se eu n\u00e3o me divertir, quem \u00e9 que me diverte?",
-        "url": "https://open.spotify.com/album/0stk9o5pshPltSxf9Qhzsx"
-      },
-      "artists": [
-        {
-          "name": "701",
-          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
-        }
-      ],
-      "duration_ms": 168230,
-      "name": "Se o arrependimento matasse",
-      "url": "https://open.spotify.com/track/1oUOHThOffguKFRhWcNeSV"
-    },
-    {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "Sweety Chant",
-        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
-      },
-      "artists": [
-        {
-          "name": "Tiny Griffi",
-          "url": "https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0"
-        },
-        {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 164083,
-      "name": "Sweety Chant",
-      "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"
     },
     {
       "added_at": "2024-01-24 03:58:32",
@@ -1101,6 +1077,22 @@
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
     },
     {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Se eu n\u00e3o me divertir, quem \u00e9 que me diverte?",
+        "url": "https://open.spotify.com/album/0stk9o5pshPltSxf9Qhzsx"
+      },
+      "artists": [
+        {
+          "name": "701",
+          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
+        }
+      ],
+      "duration_ms": 168230,
+      "name": "Se o arrependimento matasse",
+      "url": "https://open.spotify.com/track/1oUOHThOffguKFRhWcNeSV"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Scorpion Deathlock",
@@ -1119,18 +1111,26 @@
     {
       "added_at": "2024-03-13 03:47:45",
       "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/10zkZJRQmq7wM1g9jD3Vni"
+        "name": "Sweety Chant",
+        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
       },
       "artists": [
         {
-          "name": "Sui Zhen",
-          "url": "https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5"
+          "name": "Tiny Griffi",
+          "url": "https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0"
+        },
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 781460,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
+      "duration_ms": 164083,
+      "name": "Sweety Chant",
+      "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1147,6 +1147,22 @@
       "duration_ms": 235140,
       "name": "Z",
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
+    },
+    {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/10zkZJRQmq7wM1g9jD3Vni"
+      },
+      "artists": [
+        {
+          "name": "Sui Zhen",
+          "url": "https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5"
+        }
+      ],
+      "duration_ms": 781460,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1329,20 +1345,20 @@
       "url": "https://open.spotify.com/track/6pa6928PyZgyt5fpusQvux"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
+      "added_at": "2024-04-03 15:21:45",
       "album": {
-        "name": "Lose",
-        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
+        "name": "PATTI SMITH",
+        "url": "https://open.spotify.com/album/2fuQ3W0hHAJ1IhOrkDW0F2"
       },
       "artists": [
         {
-          "name": "Boeckner",
-          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+          "name": "DeepFaith",
+          "url": "https://open.spotify.com/artist/0b6qpgf9acyHi3PwV18Dyc"
         }
       ],
-      "duration_ms": 291037,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
+      "duration_ms": 201759,
+      "name": "PATTI SMITH",
+      "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1361,20 +1377,20 @@
       "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
+      "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "PATTI SMITH",
-        "url": "https://open.spotify.com/album/2fuQ3W0hHAJ1IhOrkDW0F2"
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
       },
       "artists": [
         {
-          "name": "DeepFaith",
-          "url": "https://open.spotify.com/artist/0b6qpgf9acyHi3PwV18Dyc"
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
         }
       ],
-      "duration_ms": 201759,
-      "name": "PATTI SMITH",
-      "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
     },
     {
       "added_at": "2024-03-20 13:59:17",
@@ -1541,22 +1557,6 @@
       "url": "https://open.spotify.com/track/63RgD8yCcqNOdch68VVX35"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "EXHALATION Vol.3 The Great Silence",
-        "url": "https://open.spotify.com/album/0Ja7lmUfyC8uX0nd4iLMAq"
-      },
-      "artists": [
-        {
-          "name": "Cam Lasky",
-          "url": "https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph"
-        }
-      ],
-      "duration_ms": 315428,
-      "name": "Dacey's Patent Automatic Nanny",
-      "url": "https://open.spotify.com/track/2iEfmDxnxBtUShAQdNjErT"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "KAPITA\u0141KA",
@@ -1571,6 +1571,22 @@
       "duration_ms": 192000,
       "name": "KAPITA\u0141KA 7",
       "url": "https://open.spotify.com/track/0WKspchMAunLRrhBUNgeX2"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "EXHALATION Vol.3 The Great Silence",
+        "url": "https://open.spotify.com/album/0Ja7lmUfyC8uX0nd4iLMAq"
+      },
+      "artists": [
+        {
+          "name": "Cam Lasky",
+          "url": "https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph"
+        }
+      ],
+      "duration_ms": 315428,
+      "name": "Dacey's Patent Automatic Nanny",
+      "url": "https://open.spotify.com/track/2iEfmDxnxBtUShAQdNjErT"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1665,22 +1681,6 @@
       "url": "https://open.spotify.com/track/6GNDrXNj0AZWu3SwN2GOVj"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "RUNGBELLER",
-        "url": "https://open.spotify.com/album/5CgnsKqbZOGrdA0ljoUZVm"
-      },
-      "artists": [
-        {
-          "name": "DJ Girl",
-          "url": "https://open.spotify.com/artist/1DONuOPYFilfKkB5rpBkfe"
-        }
-      ],
-      "duration_ms": 280823,
-      "name": "JUST A WORM",
-      "url": "https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "EXHALATION Vol.2 - The Lifecycle of Software Objects",
@@ -1695,6 +1695,22 @@
       "duration_ms": 356571,
       "name": "Intelligence",
       "url": "https://open.spotify.com/track/1ijy62PDVeq0rVya0kZPo4"
+    },
+    {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "RUNGBELLER",
+        "url": "https://open.spotify.com/album/5CgnsKqbZOGrdA0ljoUZVm"
+      },
+      "artists": [
+        {
+          "name": "DJ Girl",
+          "url": "https://open.spotify.com/artist/1DONuOPYFilfKkB5rpBkfe"
+        }
+      ],
+      "duration_ms": 280823,
+      "name": "JUST A WORM",
+      "url": "https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU"
     },
     {
       "added_at": "2024-03-06 06:00:00",

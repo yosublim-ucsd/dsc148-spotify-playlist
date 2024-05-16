@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,933 likes - 60 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,975 likes - 60 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 43 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
 | 44 | [I'm Good](https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [I'm Good](https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77) | 3:45 |
 | 45 | [See the Light \(feat\. Jekalyn Carr\)](https://open.spotify.com/track/3hBX1H7oOtqEQxXQrZlwlC) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [See the Light \(feat\. Jekalyn Carr\)](https://open.spotify.com/album/4B56i2uwAyplbzR4UBi4gA) | 3:19 |
-| 46 | [I'm All In](https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I'm All In](https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK) | 3:23 |
+| 46 | [See You Again](https://open.spotify.com/track/4BDV1qGzUFYyrVoSlI50cC) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Back to Life](https://open.spotify.com/album/5EdIm9Nll2F2GIvv9pojFV) | 5:24 |
 | 47 | [Kind God](https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 4:09 |
-| 48 | [See You Again](https://open.spotify.com/track/4BDV1qGzUFYyrVoSlI50cC) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Back to Life](https://open.spotify.com/album/5EdIm9Nll2F2GIvv9pojFV) | 5:24 |
+| 48 | [I'm All In](https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I'm All In](https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK) | 3:23 |
 | 49 | [My God](https://open.spotify.com/track/74xDe5RO6OwdcdSuRpbaGR) | [Nashville Life Music](https://open.spotify.com/artist/2VeZkVPpOuBcRZXvI774ul), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My God](https://open.spotify.com/album/3h3Tq82HkGf996KzFPnr5g) | 4:50 |
 | 50 | [Open Door \(See You Later\)](https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy) | [Christon Gray](https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2) | [Open Door \(See You Later\)](https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M) | 4:15 |
 | 51 | [Step in the Name \(Radio Edit\)](https://open.spotify.com/track/3XmMK2QKPLxsbS5PuPa956) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [Step in the Name \(Radio Edit\)](https://open.spotify.com/album/4CZWedw98rtQPonHp3LnjU) | 4:33 |

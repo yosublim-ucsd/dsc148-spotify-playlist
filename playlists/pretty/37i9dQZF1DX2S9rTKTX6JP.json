@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 677253,
+  "num_followers": 677320,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "MTV Unplugged In New York",
-        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "The Man Who Sold The World - Live",
-      "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 209266,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "The Man Who Sold The World - Live",
+      "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Somebody Told Me",
-        "url": "https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS"
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 199477,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R"
+      "duration_ms": 366466,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Garage Inc.",
-        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+        "name": "Somebody Told Me",
+        "url": "https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
         }
       ],
-      "duration_ms": 366466,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
+      "duration_ms": 199477,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
+        "name": "**** Live In Phoenix",
+        "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Beat It - Studio Version",
+      "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 181695,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
-        "name": "**** Live In Phoenix",
-        "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Beat It - Studio Version",
-      "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Comandante",
-        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 312262,
-      "name": "Voodoo Child",
-      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Tainted Love",
         "url": "https://open.spotify.com/album/3obOuWdKKDTA5toHFQhQ0z"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 204960,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Comandante",
+        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 312262,
+      "name": "Voodoo Child",
+      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/1gbZr44u85xj3X7SGrim98"
-      },
-      "artists": [
-        {
-          "name": "BRKN LOVE",
-          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
-        }
-      ],
-      "duration_ms": 211019,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/093b1blyOJsbJcX9dyJ8RB"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Sugar We\u2019re Goin Down",
         "url": "https://open.spotify.com/album/70Jry5eQg2mZzWGebXkwZR"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 221481,
       "name": "Sugar We\u2019re Goin Down",
       "url": "https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1gbZr44u85xj3X7SGrim98"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "duration_ms": 211019,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/093b1blyOJsbJcX9dyJ8RB"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 212647,
-      "name": "Miss Independent - Spotify Singles",
-      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Greatest Hitz",
         "url": "https://open.spotify.com/album/1RylctYsdF1nIN4Vn916Tc"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 146706,
       "name": "Faith",
       "url": "https://open.spotify.com/track/3zZQg2DLezm194cTeGQuOD"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 212647,
+      "name": "Miss Independent - Spotify Singles",
+      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
     },
     {
       "added_at": "2024-04-19 19:49:27",

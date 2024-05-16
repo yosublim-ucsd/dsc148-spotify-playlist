@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAA8/kqrbICsTWbbRJ8jlpls",
+  "snapshot_id": "ZkKpgAAAAAA1qoSuk1E4x+TdyNcQ6/dw",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        },
+        {
+          "name": "\u00c1lvaro Urquijo",
+          "url": "https://open.spotify.com/artist/0yiwWDdqEuLc99kyfJgOEP"
+        }
+      ],
+      "duration_ms": 239980,
+      "name": "No Tengas Miedo",
+      "url": "https://open.spotify.com/track/5hiiPTaXZMzCdfzcOFtkAw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Angeles Y Dem\u00e1s Demonios",
         "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
       },
@@ -327,22 +347,6 @@
       "duration_ms": 129666,
       "name": "Despu\u00e9s De La Lluvia",
       "url": "https://open.spotify.com/track/0PGn26byzGAOWa9aMH1BrW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Olvido",
-        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 278480,
-      "name": "El Olvido",
-      "url": "https://open.spotify.com/track/2wCGjgOObAwJL9j3Fkil6s"
     },
     {
       "added_at": null,
@@ -379,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que No Te Falte Ni Gloria",
-        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
       },
       "artists": [
         {
           "name": "Campo De Almas.",
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        },
-        {
-          "name": "\u00c1lvaro Urquijo",
-          "url": "https://open.spotify.com/artist/0yiwWDdqEuLc99kyfJgOEP"
         }
       ],
-      "duration_ms": 239980,
-      "name": "No Tengas Miedo",
-      "url": "https://open.spotify.com/track/5hiiPTaXZMzCdfzcOFtkAw"
+      "duration_ms": 278480,
+      "name": "El Olvido",
+      "url": "https://open.spotify.com/track/2wCGjgOObAwJL9j3Fkil6s"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Olvido",
-        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 260480,
-      "name": "Plat\u00f3nica",
-      "url": "https://open.spotify.com/track/23Cf8htC7DSBhzOdqYyzkx"
+      "duration_ms": 336301,
+      "name": "Juliana",
+      "url": "https://open.spotify.com/track/6qwH1tErqu8MY2cGc9AqVS"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que No Te Falte Ni Gloria",
-        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+        "name": "El Olvido",
+        "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 336301,
-      "name": "Juliana",
-      "url": "https://open.spotify.com/track/6qwH1tErqu8MY2cGc9AqVS"
+      "duration_ms": 260480,
+      "name": "Plat\u00f3nica",
+      "url": "https://open.spotify.com/track/23Cf8htC7DSBhzOdqYyzkx"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baladas",
-        "url": "https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 283653,
-      "name": "Esa Noche",
-      "url": "https://open.spotify.com/track/7ysrGqCyoFVMSdHJxd2eHO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que No Te Falte Ni Gloria",
         "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 227262,
       "name": "Cine Star",
       "url": "https://open.spotify.com/track/01qUPw8i09V8nDcD8SnzLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baladas",
+        "url": "https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 283653,
+      "name": "Esa Noche",
+      "url": "https://open.spotify.com/track/7ysrGqCyoFVMSdHJxd2eHO"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baladas",
-        "url": "https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 213231,
-      "name": "Solo Hoy D\u00eda",
-      "url": "https://open.spotify.com/track/3bJM7hNIC71HGDMlhA7ZWb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que No Te Falte Ni Gloria",
         "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 180675,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/4jZ5rDnj9G1t2df1QTG33q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baladas",
+        "url": "https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 213231,
+      "name": "Solo Hoy D\u00eda",
+      "url": "https://open.spotify.com/track/3bJM7hNIC71HGDMlhA7ZWb"
     },
     {
       "added_at": null,

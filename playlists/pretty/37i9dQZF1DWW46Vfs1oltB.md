@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: JJJ, BLASÉ, Bonbero\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,753 likes - 139 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,845 likes - 139 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,751 likes - 510 songs - 1 day 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,753 likes - 510 songs - 1 day 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 159 | [Your Letter](https://open.spotify.com/track/1NSCBsrYgjkmNiNSgiMLzK) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 5:20 |
 | 160 | [You Were Loved](https://open.spotify.com/track/5NGVnEhrimV9vYwPRxsM3i) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:10 |
 | 161 | [I'm Still Breathing](https://open.spotify.com/track/7r3ZDv5CoIvWH0fDWMizJQ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:15 |
-| 162 | [I Am](https://open.spotify.com/track/25Pvx66yRLQ6mfwQAEzY2D) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/3PkUFix54f7aKr6Jbqnsom) | 3:43 |
-| 163 | [Here In My Heart](https://open.spotify.com/track/13rVu8eRwoCb14fAHea824) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [New Inside](https://open.spotify.com/album/6JjjIH7QBynrssqyphngYi) | 4:08 |
+| 162 | [Here In My Heart](https://open.spotify.com/track/13rVu8eRwoCb14fAHea824) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [New Inside](https://open.spotify.com/album/6JjjIH7QBynrssqyphngYi) | 4:08 |
+| 163 | [I Am](https://open.spotify.com/track/25Pvx66yRLQ6mfwQAEzY2D) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/3PkUFix54f7aKr6Jbqnsom) | 3:43 |
 | 164 | [I'll Fight \- From "RBG" Soundtrack](https://open.spotify.com/track/7ELxtyrasiOfwsRUJiEMGR) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I'll Fight \(From "RBG" Soundtrack\)](https://open.spotify.com/album/4xUSPYluy7p9aYTobDT3du) | 3:19 |
 | 165 | [Nothing Broken But My Heart](https://open.spotify.com/track/03xpqxQ2tCUuDAKNLThmGO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 5:55 |
 | 166 | [New Love](https://open.spotify.com/track/4qVCAQpmMHrorwQI6L7FAI) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
@@ -263,10 +263,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 253 | [Borrowed Angels](https://open.spotify.com/track/4uaQpLvejMjjW5ve8JbAXl) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 4:03 |
 | 254 | [I'll Get There \(The Other Side\)](https://open.spotify.com/track/3Kpj2yYjpc86WrkifbiuDz) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [I’ll Get There \(The Other Side\)](https://open.spotify.com/album/5qQ0VD5av5UFSZrfIcgXbA) | 3:28 |
 | 255 | [Big Big Love](https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119) | 3:46 |
-| 256 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
-| 257 | [Can't Stop My Heart From Loving You \(The Rain Song\)](https://open.spotify.com/track/1SdG61anvsCv8hffXPU8FD) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Tattooed Heart](https://open.spotify.com/album/1NpgemlEpDwLQeKnZTsTZz) | 4:17 |
-| 258 | [Power of Persuasion](https://open.spotify.com/track/4vDpWeR7nTQYCd67fVMzf6) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [The Essential Pointer Sisters](https://open.spotify.com/album/6QmOTNMb8Ab1ZbDd5sJ3AU) | 3:39 |
-| 259 | [Love Cuts Deep](https://open.spotify.com/track/39puNJ8CncH1zTMeBgNAEb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 |
+| 256 | [Can't Stop My Heart From Loving You \(The Rain Song\)](https://open.spotify.com/track/1SdG61anvsCv8hffXPU8FD) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Tattooed Heart](https://open.spotify.com/album/1NpgemlEpDwLQeKnZTsTZz) | 4:17 |
+| 257 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
+| 258 | [Love Cuts Deep](https://open.spotify.com/track/39puNJ8CncH1zTMeBgNAEb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 |
+| 259 | [Power of Persuasion](https://open.spotify.com/track/4vDpWeR7nTQYCd67fVMzf6) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [The Essential Pointer Sisters](https://open.spotify.com/album/6QmOTNMb8Ab1ZbDd5sJ3AU) | 3:39 |
 | 260 | [Porque Me Amaste \(Because You Loved Me\)](https://open.spotify.com/track/0rEja75Y98wfZWBNcYp0o9) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:20 |
 | 261 | [Through the Storm \(with Elton John\)](https://open.spotify.com/track/2xTzFWaVvNzmz1JXbhOt64) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Through the Storm](https://open.spotify.com/album/0K8kAGeIofQOUkWiMOYr8P) | 4:21 |
 | 262 | [Inside](https://open.spotify.com/track/7uTU17dr9MzTYo639ifHrQ) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:12 |
@@ -519,4 +519,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 509 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 | 510 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbRV/gAAAAA27NnuKf4VBekCM2E2JzG7`
+Snapshot ID: `AbRbngAAAAB3tFI/x+gy34h0AElgVrMd`

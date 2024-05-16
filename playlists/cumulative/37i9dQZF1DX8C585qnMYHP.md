@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. LI YILEI  cover\. Artwork by Thami Nabil
 
-1,706 songs - 5 day 15 hr 59 min
+1,707 songs - 5 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,6 +761,7 @@
 | [It Will Be](https://open.spotify.com/track/404NeC2zDoSMpVeP3bJetK) | [Nemean](https://open.spotify.com/artist/4XYR1wGPdtC5LyUPvq6fKz) | [Breakout 003](https://open.spotify.com/album/5IXOVAoG5jPP8f68x3FfDO) | 4:30 | 2023-02-15 | 2023-04-06 |
 | [It's Not A Skill, It's A Curse](https://open.spotify.com/track/0Vql92EbYURqQMlxyqHT0u) | [Theodore Cale Schafer](https://open.spotify.com/artist/0aMEKVrJuNAkKf92RZvxYP) | [It's Not A Skill, It's A Curse](https://open.spotify.com/album/3m48f4HuKY6xBNk1qA5RwV) | 20:02 | 2021-05-06 | 2021-07-20 |
 | [I’ll Do Whatever You Want \(feat\. Floating Points, Laraaji\)](https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [I’ll Do Whatever You Want](https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd) | 7:43 | 2024-04-03 |  |
+| [jacarandas](https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY) | [Joven Tom](https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP) | [jacarandas](https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa) | 2:18 | 2024-05-08 |  |
 | [Jazz Hands](https://open.spotify.com/track/7pOE1yRsCTsxpxgh4WxEoV) | [Dusty Mush](https://open.spotify.com/artist/1wxb3o0FZUnP4czWn8G2yI) | [Modest Alterations](https://open.spotify.com/album/3tRqe75XYpnH1uJzW72MDR) | 2:25 | 2021-01-15 | 2021-02-17 |
 | [Jennifer Calling](https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje) | [Jennifer Vanilla](https://open.spotify.com/artist/2Itr8TQK5dkOjUpreaamWP) | [Castle In The Sky](https://open.spotify.com/album/4z2WEOYZ7w5kOO0LVfMTWS) | 2:04 | 2022-08-10 | 2022-09-12 |
 | [Jitterbug](https://open.spotify.com/track/34YfqnWvaGpbH4SE7zgohN) | [Parasol](https://open.spotify.com/artist/3tywWXsWJSKYn89uZbqaYw) | [1800\-PARASOL](https://open.spotify.com/album/7eRcIoexZgmX24i26Xv55v) | 1:43 | 2023-04-12 | 2023-08-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,003 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,007 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 12 | [Kärlek](https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Kärlek](https://open.spotify.com/album/3wjpMLo7H6dN3NAG3cbZVZ) | 3:37 |
 | 13 | [Babylonsjukan](https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Helt Off](https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV) | 3:49 |
 | 14 | [Gungar fram \(feat\. Näääk & Kaliffa\)](https://open.spotify.com/track/4nsJdPxz6b2mYwopZBco0H) | [Nimo](https://open.spotify.com/artist/2EBLZoR071bKhHfe4TNKPi), [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Gungar fram \(feat\. Näääk & Kaliffa\)](https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5) | 3:52 |
-| 15 | [Sweet Reggaemusik](https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [Sweet Reggaemusik](https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC) | 2:42 |
-| 16 | [Mera tid](https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Mera tid](https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R) | 3:09 |
+| 15 | [Mera tid](https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Mera tid](https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R) | 3:09 |
+| 16 | [Sweet Reggaemusik](https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [Sweet Reggaemusik](https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC) | 2:42 |
 | 17 | [Ugly Girls](https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:35 |
 | 18 | [Hög standard](https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe) | [Peps Blodsband](https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD) | [Hög standard](https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi) | 5:16 |
 | 19 | [Dimman](https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Dimman](https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r) | 3:37 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 35 | [Under samma himmel](https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Under samma himmel](https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA) | 4:13 |
 | 36 | [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 |
 | 37 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
-| 38 | [Min Zina](https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu) | [Alibrorsh](https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw) | [Min Zina](https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb) | 3:16 |
-| 39 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
+| 38 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
+| 39 | [Min Zina](https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu) | [Alibrorsh](https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw) | [Min Zina](https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb) | 3:16 |
 | 40 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
 | 41 | [Leva](https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds) | [Issify](https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM) | [Leva](https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh) | 2:56 |
 | 42 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |

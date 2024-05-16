@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 274546,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
@@ -2060,6 +2060,28 @@
       "duration_ms": 298666,
       "name": "Mi Hermano Y Yo",
       "url": "https://open.spotify.com/track/5ZakTBFmptmNMOw5gYsiAo"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Colacho Mendoza",
+          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288533,
+      "name": "Mi Muchacho",
+      "url": "https://open.spotify.com/track/4p25pvhFydFona4Oe03WEL"
     },
     {
       "album": {

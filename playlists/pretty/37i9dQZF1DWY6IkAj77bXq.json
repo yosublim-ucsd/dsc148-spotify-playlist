@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 71283,
+  "num_followers": 71316,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
+        "name": "Eternal Moonlight",
+        "url": "https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK"
+      },
+      "artists": [
+        {
+          "name": "Rettifilo Flo",
+          "url": "https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE"
+        }
+      ],
+      "duration_ms": 178250,
+      "name": "Eternal Moonlight",
+      "url": "https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
         "name": "Afloat",
         "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 159892,
       "name": "Nature of Life",
       "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
-        "name": "Eternal Moonlight",
-        "url": "https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK"
-      },
-      "artists": [
-        {
-          "name": "Rettifilo Flo",
-          "url": "https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "Eternal Moonlight",
-      "url": "https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 190666,
       "name": "Oh so Quiet",
       "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "\u200bGentle Dreams",
-        "url": "https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG"
-      },
-      "artists": [
-        {
-          "name": "Tranquil Journeys",
-          "url": "https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Gentle Dreams",
-      "url": "https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Calming Water",
         "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
+        "name": "\u200bGentle Dreams",
+        "url": "https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Journeys",
+          "url": "https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Gentle Dreams",
+      "url": "https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
         "name": "Expanded Reality",
         "url": "https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 162857,
       "name": "Expanded Reality",
       "url": "https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Nebulae",
+        "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
+      },
+      "artists": [
+        {
+          "name": "Hello Artemisia!",
+          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
+        }
+      ],
+      "duration_ms": 189272,
+      "name": "Niobe",
+      "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Nebulae",
-        "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
-      },
-      "artists": [
-        {
-          "name": "Hello Artemisia!",
-          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
-        }
-      ],
-      "duration_ms": 189272,
-      "name": "Niobe",
-      "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Incorniciato",
         "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6"
+        "name": "Soft Meadow",
+        "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
       },
       "artists": [
         {
-          "name": "Moments of Clarity",
-          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
         }
       ],
-      "duration_ms": 238192,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
+      "duration_ms": 193492,
+      "name": "Soft Meadow",
+      "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "duration_ms": 238192,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 184545,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
-        "name": "Soft Meadow",
-        "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
-      },
-      "artists": [
-        {
-          "name": "Aloen",
-          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
-        }
-      ],
-      "duration_ms": 193492,
-      "name": "Soft Meadow",
-      "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
     },
     {
       "added_at": "2024-05-10 18:15:09",

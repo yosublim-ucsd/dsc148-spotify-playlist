@@ -1,6 +1,6 @@
 {
   "description": "Hits zum Tanzen und Mitsingen - von damals bis heute.",
-  "num_followers": 1034459,
+  "num_followers": 1034429,
   "original_name": "Party Deluxe",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "More Than You Know",
-      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -1043,30 +1063,6 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        },
-        {
-          "name": "Molella",
-          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
-        },
-        {
-          "name": "Phil Jay",
-          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire - prod. Molella, Phil Jay",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1091,22 +1087,26 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+        },
+        {
+          "name": "Phil Jay",
+          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
         }
       ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+      "duration_ms": 213394,
+      "name": "Freed From Desire - prod. Molella, Phil Jay",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1179,38 +1179,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Backstreet's Back",
         "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
       },
@@ -1227,6 +1195,22 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/4Mz3YFnTKm7JbuOi25mDWH"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 223869,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "Cola",
-        "url": "https://open.spotify.com/album/4Mz3YFnTKm7JbuOi25mDWH"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 223869,
-      "name": "Cola",
-      "url": "https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 139826,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/09EhgVA4blwhSic4hF2TFZ"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "2 Times (Full Package)",
+        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
+      },
+      "artists": [
+        {
+          "name": "Ann Lee",
+          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "2 Times - Original",
+      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "Heart Still Beating",
         "url": "https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp"
       },
@@ -2295,22 +2311,6 @@
       "duration_ms": 149163,
       "name": "Heart Still Beating",
       "url": "https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "2 Times (Full Package)",
-        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
-      },
-      "artists": [
-        {
-          "name": "Ann Lee",
-          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "2 Times - Original",
-      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
     },
     {
       "added_at": "2024-01-08 09:47:24",
@@ -2335,42 +2335,6 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
-        "name": "Von Anfang An...Bis Jetzt !",
-        "url": "https://open.spotify.com/album/1rYXSHYaxxQ9HclnAeVhxv"
-      },
-      "artists": [
-        {
-          "name": "Peter Schilling",
-          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
-        }
-      ],
-      "duration_ms": 299560,
-      "name": "Major Tom (...v\u00f6llig losgel\u00f6st)",
-      "url": "https://open.spotify.com/track/6lXKNdOsnaLv9LwulZbxNl"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
-        "name": "THIS IS... ICONA POP",
-        "url": "https://open.spotify.com/album/2HzRXu5YpCK250baII57f6"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 157152,
-      "name": "I Love It (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/12zpU2S4lMdrK9dvsOoL1m"
-    },
-    {
-      "added_at": "2024-01-08 09:47:24",
-      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8"
       },
@@ -2391,6 +2355,22 @@
     {
       "added_at": "2024-01-08 09:47:24",
       "album": {
+        "name": "Von Anfang An...Bis Jetzt !",
+        "url": "https://open.spotify.com/album/1rYXSHYaxxQ9HclnAeVhxv"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        }
+      ],
+      "duration_ms": 299560,
+      "name": "Major Tom (...v\u00f6llig losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/6lXKNdOsnaLv9LwulZbxNl"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
         "name": "You Little Beauty",
         "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
       },
@@ -2403,6 +2383,26 @@
       "duration_ms": 206587,
       "name": "You Little Beauty",
       "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2024-01-08 09:47:24",
+      "album": {
+        "name": "THIS IS... ICONA POP",
+        "url": "https://open.spotify.com/album/2HzRXu5YpCK250baII57f6"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "I Love It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/12zpU2S4lMdrK9dvsOoL1m"
     },
     {
       "added_at": "2024-01-08 09:47:24",

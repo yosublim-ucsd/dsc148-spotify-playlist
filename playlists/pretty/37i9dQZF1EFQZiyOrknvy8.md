@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 102 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 |
 | 103 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
 | 104 | [Ciao Bella](https://open.spotify.com/track/7GB7TgXcdE1hsm67udwrX9) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:08 |
-| 105 | [Paper Thin](https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Technicolor](https://open.spotify.com/album/0i8MMjp4O2ycsJpSLlZSTb) | 3:36 |
-| 106 | [Berlin City Girl](https://open.spotify.com/track/214zEjNd21eUMoXxr3VqWj) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:11 |
+| 105 | [Berlin City Girl](https://open.spotify.com/track/214zEjNd21eUMoXxr3VqWj) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:11 |
+| 106 | [Paper Thin](https://open.spotify.com/track/5nyF7tFUt6fKgetq8MDGia) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Technicolor](https://open.spotify.com/album/0i8MMjp4O2ycsJpSLlZSTb) | 3:36 |
 | 107 | [Policia](https://open.spotify.com/track/2xlkajdBhNjU5E3eraBTtC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:36 |
 | 108 | [Too Late To Love](https://open.spotify.com/track/7Cd8vj4os8g7d1jgymry0R) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Would I Lie To You](https://open.spotify.com/album/0P6xcRS8cRFlUDcXtt75Yi) | 3:04 |
 | 109 | [Venus & Mars](https://open.spotify.com/track/4AOFs0CEAYUK4FbGAxVwic) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu), [Rola](https://open.spotify.com/artist/6htMzIeVHLO2pKFENGWq5p) | [Hallo Monaco](https://open.spotify.com/album/3SVxcnywXfBRGwt1uyWrcu) | 3:47 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 138 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 139 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbRV/gAAAACuUBv/iruxx2nsD6TQWffy`
+Snapshot ID: `AbRbngAAAAAJUkoy0dkue17zgUpHrKHV`

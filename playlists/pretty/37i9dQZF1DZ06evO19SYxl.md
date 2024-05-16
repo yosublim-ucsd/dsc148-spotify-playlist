@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 ### [This Is Tex Tex](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19SYxl)
 
-> This Is Tex Tex\. Los temas esenciales, todos en una lista.
+> This is Tex Tex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,381 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,382 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [Cuando el Amor Acaba](https://open.spotify.com/track/51EJd3jBO8g5Iz5FYWcEIu) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 3:57 |
 | 50 | [Octubre](https://open.spotify.com/track/3yKdnG4abZ5HRLhp8lh4TG) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Segunda Oportunidad \(Duetos: Caminando Voy\)](https://open.spotify.com/album/7HGHoQGRRbC0B6vh23FTy0) | 3:11 |
 
-Snapshot ID: `ZkFYAAAAAABOlLFTXbewDUMhrGg95Mn1`
+Snapshot ID: `ZkFYAAAAAAAbHXey9Ctn0vYl7b2ubUww`

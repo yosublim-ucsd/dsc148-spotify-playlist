@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,174 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,248 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 17 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 |
 | 18 | [Refletir \(Resista\)](https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [Toni Garrido](https://open.spotify.com/artist/6102bVgHhOwz9NGawJPJOL) | [Refletir \(Resista\)](https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht) | 4:00 |
 | 19 | [Dama Tereza \- Sabotage 50](https://open.spotify.com/track/6BzLWGDXIRl10dFPT3RWpq) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Sabotage 50](https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ) | 3:02 |
-| 20 | [vida leve](https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [vida leve](https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev) | 2:36 |
-| 21 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
+| 20 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
+| 21 | [vida leve](https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [vida leve](https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev) | 2:36 |
 | 22 | [Sereia](https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Pelo mundo](https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym) | 3:16 |
 | 23 | [Tô Em Casa](https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô Em Casa](https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7) | 2:46 |
 | 24 | [Flor de Aruanda](https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Flor de Aruanda](https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er) | 3:03 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 40 | [Avenida da Paixão](https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Avenida da Paixão](https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ) | 2:32 |
 | 41 | [Vou Agradecer](https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl) | [Gabriel Carmo](https://open.spotify.com/artist/5apI1VSAPnJvQWMMUpQXPc), [Manu Testa](https://open.spotify.com/artist/15xByX487ejik5EeNySqxQ) | [Vou Agradecer](https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A) | 3:39 |
 | 42 | [Confia Mais](https://open.spotify.com/track/6lTigAcpgVecT9Sq0StVL4) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Confia Mais](https://open.spotify.com/album/6G6HxSlbqCoGhOiWNdDCTO) | 3:09 |
-| 43 | [Our Love](https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Our Love](https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf) | 2:44 |
-| 44 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
-| 45 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
-| 46 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
+| 43 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
+| 44 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 |
+| 45 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
+| 46 | [Our Love](https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Our Love](https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf) | 2:44 |
 | 47 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
 | 48 | [Se Joga](https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Se Joga](https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG) | 2:53 |
 | 49 | [Sou Tão Eu](https://open.spotify.com/track/7kl4d3es2atNJp1RFs4mCd) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Sou Tão Eu](https://open.spotify.com/album/10MBQILKvvQw5dnoC2fI7x) | 3:23 |

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Rudies Flacko",
-  "num_followers": 137604,
+  "num_followers": 137596,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -775,50 +775,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Ela Jura Que Sabe",
-        "url": "https://open.spotify.com/album/177SAUdkF3JOU5YKr7scKG"
-      },
-      "artists": [
-        {
-          "name": "The Boy",
-          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
-        },
-        {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Ela Jura Que Sabe",
-      "url": "https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "J\u00f3ias do Bairro",
         "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
@@ -843,6 +799,50 @@
       "duration_ms": 171285,
       "name": "J\u00f3ias do Bairro",
       "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "Ela Jura Que Sabe",
+        "url": "https://open.spotify.com/album/177SAUdkF3JOU5YKr7scKG"
+      },
+      "artists": [
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        },
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Ela Jura Que Sabe",
+      "url": "https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Dan\u00e7a na Chuva",
-        "url": "https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Di Marques",
-          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
-        }
-      ],
-      "duration_ms": 196024,
-      "name": "Dan\u00e7a na Chuva",
-      "url": "https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "O Show de Truman",
         "url": "https://open.spotify.com/album/7A7J0x4KWkd9Fk7zEDnTov"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 161280,
       "name": "O Show de Truman",
       "url": "https://open.spotify.com/track/4WX3Pv0W0lLA7PQxZ3JgEz"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "Dan\u00e7a na Chuva",
+        "url": "https://open.spotify.com/album/1kAOiBJua8UnvjZT82lt0Q"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Di Marques",
+          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
+        }
+      ],
+      "duration_ms": 196024,
+      "name": "Dan\u00e7a na Chuva",
+      "url": "https://open.spotify.com/track/0qlk55nq2HZzwMDClQZ5lz"
     },
     {
       "added_at": "2024-05-10 03:01:00",

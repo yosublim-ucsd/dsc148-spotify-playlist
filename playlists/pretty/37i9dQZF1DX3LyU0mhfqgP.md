@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Nemo
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Luisa Almaguer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,178 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,293 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
-| 2 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
+| 1 | [Un día nos vamos a morir](https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Un día nos vamos a morir](https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy) | 4:02 |
+| 2 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 |
 | 3 | [Before The Party's Over](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [Before The Party's Over](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 |
-| 4 | [Un día nos vamos a morir](https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Un día nos vamos a morir](https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy) | 4:02 |
+| 4 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
 | 5 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 |
 | 6 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 7 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 33 | [Jennifer's Body](https://open.spotify.com/track/71Z9lVx6sqrTDt1u6CVjFG) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/12GilM96PJR4LBKqJ8e1dk) | 1:57 |
 | 34 | [本世紀最怪](https://open.spotify.com/track/7k5eVvETDVDNJUrqBWdnGi) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [本世紀最怪](https://open.spotify.com/album/41XHCYpNdlcPtgyM6gORc7) | 5:02 |
 | 35 | [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 |
-| 36 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 |
-| 37 | [Looking Out For An Angel](https://open.spotify.com/track/6YoqDVcO4imk69vM9gHdz9) | [June Jones](https://open.spotify.com/artist/68MzdZEcqsklRZH1tttYk8) | [Looking Out For An Angel](https://open.spotify.com/album/2e6N6Htog3F59851fDIdbv) | 3:17 |
-| 38 | [Baggage](https://open.spotify.com/track/1mQN7wV7P7UTzLhpBhOOZ2) | [Autumn Nicholas](https://open.spotify.com/artist/4WBJACqzmZ1BkWHyyPbRJ6) | [Baggage](https://open.spotify.com/album/6gvLq9TwxePLHCVcAyB6lH) | 2:58 |
-| 39 | [take what i can get](https://open.spotify.com/track/5OyjgGolsgzoqM6DRTlOuI) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [take what i can get](https://open.spotify.com/album/4ogEOFIundyE1VoGLzT13V) | 2:43 |
-| 40 | [Rodeo](https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Rodeo](https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL) | 4:15 |
-| 41 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 |
-| 42 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 |
-| 43 | [Seen My Man \- Spotify Singles](https://open.spotify.com/track/5XjQzyzAbhVGeE4fQCFTaB) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 2:57 |
-| 44 | [Soy Lesbiana](https://open.spotify.com/track/341va7dx1zrzUKhjXDylWX) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Soy Lesbiana](https://open.spotify.com/album/2EdFxhEmZtBAqbhl4CBIbR) | 1:36 |
-| 45 | [IKONA](https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [IKONA](https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg) | 3:00 |
-| 46 | [venier\_rmx165bpm](https://open.spotify.com/track/11pm3TTl9Fi6d0RaCwpzFT) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [DJ Final Boss](https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR) | [venier\_rmx165bpm](https://open.spotify.com/album/29I76NDyjWvTDfBoLs1Vmj) | 2:48 |
-| 47 | [INSOLITO](https://open.spotify.com/track/05VBdpFyIcXk0Ybe6UY4xS) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Jovencito Fuksbrauner](https://open.spotify.com/artist/4bHXpJ2FCXasr4lx1lZ38V) | [INSOLITO](https://open.spotify.com/album/7EUEvZd0Meiv7StmNSdISn) | 4:06 |
+| 36 | [Looking Out For An Angel](https://open.spotify.com/track/6YoqDVcO4imk69vM9gHdz9) | [June Jones](https://open.spotify.com/artist/68MzdZEcqsklRZH1tttYk8) | [Looking Out For An Angel](https://open.spotify.com/album/2e6N6Htog3F59851fDIdbv) | 3:17 |
+| 37 | [take what i can get](https://open.spotify.com/track/5OyjgGolsgzoqM6DRTlOuI) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [take what i can get](https://open.spotify.com/album/4ogEOFIundyE1VoGLzT13V) | 2:43 |
+| 38 | [Rodeo](https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Rodeo](https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL) | 4:15 |
+| 39 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 |
+| 40 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 |
+| 41 | [Seen My Man \- Spotify Singles](https://open.spotify.com/track/5XjQzyzAbhVGeE4fQCFTaB) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 2:57 |
+| 42 | [IKONA](https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [IKONA](https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg) | 3:00 |
+| 43 | [Soy Lesbiana](https://open.spotify.com/track/341va7dx1zrzUKhjXDylWX) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Soy Lesbiana](https://open.spotify.com/album/2EdFxhEmZtBAqbhl4CBIbR) | 1:36 |
+| 44 | [venier\_rmx165bpm](https://open.spotify.com/track/11pm3TTl9Fi6d0RaCwpzFT) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [DJ Final Boss](https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR) | [venier\_rmx165bpm](https://open.spotify.com/album/29I76NDyjWvTDfBoLs1Vmj) | 2:48 |
+| 45 | [INSOLITO](https://open.spotify.com/track/05VBdpFyIcXk0Ybe6UY4xS) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Jovencito Fuksbrauner](https://open.spotify.com/artist/4bHXpJ2FCXasr4lx1lZ38V) | [INSOLITO](https://open.spotify.com/album/7EUEvZd0Meiv7StmNSdISn) | 4:06 |
+| 46 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 |
+| 47 | [Baggage](https://open.spotify.com/track/1mQN7wV7P7UTzLhpBhOOZ2) | [Autumn Nicholas](https://open.spotify.com/artist/4WBJACqzmZ1BkWHyyPbRJ6) | [Baggage](https://open.spotify.com/album/6gvLq9TwxePLHCVcAyB6lH) | 2:58 |
 | 48 | [HETERO](https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu) | [VALENTINO](https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0) | [HETERO](https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ) | 2:38 |
 | 49 | [Oh Lord](https://open.spotify.com/track/4jdB1yZ4qT6UqMk8ZgFZbj) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Oh Lord](https://open.spotify.com/album/5LDKT2LTboIOCLmeMAnkKW) | 2:57 |
 | 50 | [Love Myself Instead](https://open.spotify.com/track/5bCcGYOhitThd1TcVzLI04) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Love Myself Instead](https://open.spotify.com/album/1RBPuehtgS8FzuqVuk18qN) | 3:36 |
 
-Snapshot ID: `ZkHvdgAAAABNICP4HnTPyLB906Huqa97`
+Snapshot ID: `ZkSVsAAAAADIhuuPKcrKjai+fUwz6rB5`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 ### [This Is Lila Downs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xg4VQ)
 
-> This is Lila Downs\. The essential tracks, all in one playlist.
+> This is Lila Downs\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,891 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,907 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 49 | [La San Marqueña](https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:10 |
 | 50 | [Una Noche en Nápoles \(feat\. Lila Downs, Niña Pastori & Soledad\)](https://open.spotify.com/track/5dGWwnkTaiQGqZBtcBnmCc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Corazón \(Deluxe Version\)](https://open.spotify.com/album/4KXLpSbuSYCfs1CqBGCenj) | 4:29 |
 
-Snapshot ID: `ZkFYAAAAAACOHy/dEhGQTOmqrB0Y1HzS`
+Snapshot ID: `ZkFYAAAAAAAfnyIIuVtF8fZ7VGj2/uTY`

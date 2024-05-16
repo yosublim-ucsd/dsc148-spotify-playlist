@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 196663,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/0GDyIFoVT49ok0LnFxaYUj"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 155898,
       "name": "anything for you",
       "url": "https://open.spotify.com/track/5hGXRW8oXPfbSMJcP2xC3f"
@@ -1530,6 +1530,24 @@
       "duration_ms": 196278,
       "name": "Arkansas",
       "url": "https://open.spotify.com/track/053NeBCwPuKf7igx361GSL"
+    },
+    {
+      "album": {
+        "name": "Artichoke/Object Permanence",
+        "url": "https://open.spotify.com/album/3MpP0TdFn7ziPaPNuNS4a4"
+      },
+      "artists": [
+        {
+          "name": "Bloomsday",
+          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163698,
+      "name": "Artichoke",
+      "url": "https://open.spotify.com/track/08Z0xcdFb0KC0yt5QRVvxT"
     },
     {
       "album": {
@@ -2160,6 +2178,24 @@
       "duration_ms": 238466,
       "name": "Better Somehow",
       "url": "https://open.spotify.com/track/2XOiVanXYsxeYy9eYtb9nX"
+    },
+    {
+      "album": {
+        "name": "Big Dipper",
+        "url": "https://open.spotify.com/album/1dq3GRvrZHKFFqAtKRhsQK"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247040,
+      "name": "Big Dipper",
+      "url": "https://open.spotify.com/track/5w1j6wa1DfBxfirOe4Lk0G"
     },
     {
       "album": {
@@ -5638,7 +5674,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 204210,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6fyMrWLRwp2GMnXmcjnDel"
@@ -8034,7 +8070,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 205712,
       "name": "good dog karma",
       "url": "https://open.spotify.com/track/0V5xAM9ljDHgPLt9dvUFpk"
@@ -8508,6 +8544,28 @@
       "duration_ms": 210000,
       "name": "Grow",
       "url": "https://open.spotify.com/track/4dk0RxIacYPK5ue3RkK9Ih"
+    },
+    {
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/7MPLdIGd9bOArCHAyeU9VA"
+      },
+      "artists": [
+        {
+          "name": "Memorial",
+          "url": "https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc"
+        },
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182034,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/4dwRDbXzwMYR53hJ2YD5KR"
     },
     {
       "album": {
@@ -9189,6 +9247,24 @@
     },
     {
       "album": {
+        "name": "home on the range",
+        "url": "https://open.spotify.com/album/0ZHPMLO1uAycrb3E8RCrMi"
+      },
+      "artists": [
+        {
+          "name": "wilter",
+          "url": "https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226989,
+      "name": "home on the range",
+      "url": "https://open.spotify.com/track/3UVBJCa53mJUl86apapS8D"
+    },
+    {
+      "album": {
         "name": "Babyface",
         "url": "https://open.spotify.com/album/6hMw5ZWrlzx65rf4RXEzkW"
       },
@@ -9579,6 +9655,24 @@
     },
     {
       "album": {
+        "name": "i can",
+        "url": "https://open.spotify.com/album/0xIikGAXipJFQvGzFP24Wl"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261545,
+      "name": "i can",
+      "url": "https://open.spotify.com/track/2zZ2W6aATb8fue7MK1sqAf"
+    },
+    {
+      "album": {
         "name": "I Can't Be Friends With You",
         "url": "https://open.spotify.com/album/3VgSk5NW9DfQtYs1Bf7yN5"
       },
@@ -9612,6 +9706,24 @@
       "duration_ms": 221693,
       "name": "I Can't Lie",
       "url": "https://open.spotify.com/track/7o0vl7pu4uwYmH8OvItKKH"
+    },
+    {
+      "album": {
+        "name": "i don't feel safe in my body",
+        "url": "https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163859,
+      "name": "i don't feel safe in my body",
+      "url": "https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9"
     },
     {
       "album": {
@@ -10354,7 +10466,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 199470,
       "name": "In The City",
       "url": "https://open.spotify.com/track/1NNe3ZZX7R0P5qOOZU5SnQ"
@@ -14142,7 +14254,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 287300,
       "name": "Nose Job",
       "url": "https://open.spotify.com/track/6IB1YxShFrWmhBxBtcr1aQ"
@@ -19713,6 +19825,24 @@
     },
     {
       "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/3Osa7WSd92fxbwAPnW0AD5"
+      },
+      "artists": [
+        {
+          "name": "Steph Strings",
+          "url": "https://open.spotify.com/artist/39qxIdIb1R6se4J3X6nRPB"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/5eL6cI5iRqY6D1IM6TF0Ca"
+    },
+    {
+      "album": {
         "name": "E Pluribus M Ross",
         "url": "https://open.spotify.com/album/2moDxyCYDwhyhmbiYepitc"
       },
@@ -20604,7 +20734,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 189829,
       "name": "Virtual Hug",
       "url": "https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD"
@@ -21610,7 +21740,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 150666,
       "name": "Wolfe Ave 40",
       "url": "https://open.spotify.com/track/1kMA15JVoLWJBRJgV6Qdzq"

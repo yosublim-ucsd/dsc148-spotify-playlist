@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,494 likes - 100 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,534 likes - 100 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 33 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 |
 | 34 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 | 35 | [Keys To Imagination](https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [Keys To Imagination](https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n) | 5:14 |
-| 36 | [The Light Cone](https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Pinnacles](https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg) | 4:24 |
-| 37 | [Ursa Minor](https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Planet Voyage](https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl) | 3:49 |
+| 36 | [Ursa Minor](https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Planet Voyage](https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl) | 3:49 |
+| 37 | [The Light Cone](https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Pinnacles](https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg) | 4:24 |
 | 38 | [Movements Of A Visionary \- Remastered 2018](https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 7:57 |
 | 39 | [Crystal Cathedral \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R) | 3:26 |
 | 40 | [Looking Glass](https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [Keys To Imagination](https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n) | 6:39 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 83 | [Boreale \- Remastered](https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 4:14 |
 | 84 | [Seraphic Borealis](https://open.spotify.com/track/0QGgY7KrzfTcIZRy7D8fGQ) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 12:37 |
 | 85 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
-| 86 | [Forest Spirit](https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8) | [Joel Vandroogenbroeck](https://open.spotify.com/artist/6RAwMfx5Bxyfg50pzLAnrS), [Carole Muriel](https://open.spotify.com/artist/36Rm9QDv8917PvW0eosGLt) | [Images of Flutes in Nature](https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa) | 3:21 |
-| 87 | [Meditation: I\. Part I](https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW) | [Eberhard Schoener](https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz) | [Schoener, Eberhard: Meditation](https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb) | 17:29 |
-| 88 | [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 |
+| 86 | [Meditation: I\. Part I](https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW) | [Eberhard Schoener](https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz) | [Schoener, Eberhard: Meditation](https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb) | 17:29 |
+| 87 | [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 |
+| 88 | [Forest Spirit](https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8) | [Joel Vandroogenbroeck](https://open.spotify.com/artist/6RAwMfx5Bxyfg50pzLAnrS), [Carole Muriel](https://open.spotify.com/artist/36Rm9QDv8917PvW0eosGLt) | [Images of Flutes in Nature](https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa) | 3:21 |
 | 89 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 |
 | 90 | [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 |
 | 91 | [Pagnifico \- Remastered](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 
 ### [This Is Banda Bostik](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q3kVr)
 
-> This Is Banda Bostik\. Los temas esenciales, todos en una lista.
+> This is Banda Bostik\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,825 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,828 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 49 | [Pandillero, Pt\. 2](https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:33 |
 | 50 | [Blue Suede Shoes](https://open.spotify.com/track/73jOGdULRXfR02W41tyP9u) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 2:36 |
 
-Snapshot ID: `ZkFYAAAAAAD0LJ8LMu4jCGr8N2gAzoMX`
+Snapshot ID: `ZkFYAAAAAAD56fQzl0F/1pE9uvlGwxhx`

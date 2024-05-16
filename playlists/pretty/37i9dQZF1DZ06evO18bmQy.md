@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 ### [This Is Djonga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18bmQy)
 
-> This is Djonga\. The essential tracks, all in one playlist.
+> This is Djonga\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,213 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,241 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [Disse Que é Fã de Rap](https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Dj Tg Da Inestan](https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl) | [TI RICK](https://open.spotify.com/album/7267xHOHkbbf7AMgKoFksl) | 2:25 |
 | 50 | [Xapralá](https://open.spotify.com/track/6l9UA6IlEGFl1RVAncqvwo) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:48 |
 
-Snapshot ID: `ZkFYAAAAAAAlpLmgjZkmxxyuOlAXwbvW`
+Snapshot ID: `ZkFYAAAAAABOSwytTF7QaX6FGEe1SNPW`

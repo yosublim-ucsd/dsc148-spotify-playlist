@@ -1,12 +1,12 @@
 {
-  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 147895,
+  "description": "This is \u00c1ngela Aguilar. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 147905,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAByF/W0izZT3bFObXYz3dWr",
+  "snapshot_id": "ZkKpgAAAAAC6bX+MB1HPmLMit60ODd3P",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,26 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
     },
     {
       "added_at": null,
@@ -730,11 +750,15 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 226173,
-      "name": "Contigo En La Distancia",
-      "url": "https://open.spotify.com/track/1keRDIpM0Kv4wHE5sjuBpy"
+      "duration_ms": 193773,
+      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
     },
     {
       "added_at": null,

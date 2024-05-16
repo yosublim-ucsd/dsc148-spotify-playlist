@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 37506,
       "name": "A.N.I.C.",
       "url": "https://open.spotify.com/track/0bSjMn6rAMbN1yRlHloBHO"
@@ -1618,6 +1618,24 @@
       "duration_ms": 237560,
       "name": "Blind Man",
       "url": "https://open.spotify.com/track/65KweSXWsUlobRZ3W31oxj"
+    },
+    {
+      "album": {
+        "name": "Sunday (1994)",
+        "url": "https://open.spotify.com/album/2zRqf218fxEGXLDdYnEuOl"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283404,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
     },
     {
       "album": {
@@ -3125,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "Los 60 Mejores Canticuentos",
+        "url": "https://open.spotify.com/album/5LJmTVV1oWC0Qj6WJINbPg"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124106,
+      "name": "Cuento Alem\u00e1n",
+      "url": "https://open.spotify.com/track/6keObJ5PY2ZUHwwB0AaI9w"
+    },
+    {
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/10VjDnXdDNaDNbQPRkWjOp"
       },
@@ -3378,6 +3414,24 @@
       "duration_ms": 212355,
       "name": "Dead Plants",
       "url": "https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC"
+    },
+    {
+      "album": {
+        "name": "Reckless And Relentless",
+        "url": "https://open.spotify.com/album/3aFx7UfKu9KkyPFRGkgyeD"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189573,
+      "name": "Dear Insanity",
+      "url": "https://open.spotify.com/track/5jwttcPG6hynYxMs4mqOMp"
     },
     {
       "album": {
@@ -3870,6 +3924,24 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "Draw the Line",
+      "url": "https://open.spotify.com/track/4pd8HxU5KLuUYfRMwusxf8"
+    },
+    {
+      "album": {
+        "name": "Aerosmith's Greatest Hits",
+        "url": "https://open.spotify.com/album/3VNTh6evo3MyUsStAiatcY"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
       "date_removed": "2024-03-16",
@@ -4236,6 +4308,24 @@
       "duration_ms": 257626,
       "name": "En Direcci\u00f3n Contraria",
       "url": "https://open.spotify.com/track/6M5dKD84KOitpWLKmIqXjt"
+    },
+    {
+      "album": {
+        "name": "En efecto",
+        "url": "https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238372,
+      "name": "En efecto",
+      "url": "https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl"
     },
     {
       "album": {
@@ -5981,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152181,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
+    },
+    {
+      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -6208,7 +6316,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 247640,
       "name": "Homesick - Acoustic",
       "url": "https://open.spotify.com/track/5wRPE2nWUKWVmN67tNWA7O"
@@ -6955,6 +7063,24 @@
     },
     {
       "album": {
+        "name": "Dance Of December Souls",
+        "url": "https://open.spotify.com/album/611qjYkverDCtHobUsMEOX"
+      },
+      "artists": [
+        {
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387893,
+      "name": "In Silence Enshrined",
+      "url": "https://open.spotify.com/track/6pVBQ91ffPyYWVBGirL6D6"
+    },
+    {
+      "album": {
         "name": "Holy Wood [International Version (UK)]",
         "url": "https://open.spotify.com/album/16lx9kcFNxARXK1uVII9b7"
       },
@@ -7204,7 +7330,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 284400,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/78FzQfooQzB43sGzlpI2At"
@@ -7788,7 +7914,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 117106,
       "name": "Last Caress",
       "url": "https://open.spotify.com/track/1C7kuQ0TjfxvEHSFqLEl42"
@@ -7885,6 +8011,28 @@
     },
     {
       "album": {
+        "name": "Beyblade: Beyblade Classics",
+        "url": "https://open.spotify.com/album/6nDm7fvUkcVaDUajGEyItY"
+      },
+      "artists": [
+        {
+          "name": "Sick Kid",
+          "url": "https://open.spotify.com/artist/0wszRx2RL7x5PRRcfpixNl"
+        },
+        {
+          "name": "Lucas Rossi",
+          "url": "https://open.spotify.com/artist/75eXDT5WblPtDKGRL8E1cq"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60693,
+      "name": "Let's Beyblade (feat. Lucas Rossi) [Season 1]",
+      "url": "https://open.spotify.com/track/7fqmSA96j6TrdrE68PNg6T"
+    },
+    {
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5lDWIumwD5CwmOR2PgheB1"
       },
@@ -7950,7 +8098,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 246209,
       "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
       "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
@@ -8786,6 +8934,24 @@
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "album": {
+        "name": "Mechanical Animals (Explicit Version)",
+        "url": "https://open.spotify.com/album/5Ljq72RxzQfkKaOtxPf3Zq"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273345,
+      "name": "Mechanical Animals",
+      "url": "https://open.spotify.com/track/4LvjnyBTZXk7NnkQOjp6Im"
     },
     {
       "album": {
@@ -9752,7 +9918,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 118151,
       "name": "NO AUTO TUNE",
       "url": "https://open.spotify.com/track/1Xl1sRA1JjjN2WXcJi29qa"
@@ -10774,7 +10940,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 178923,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/5LjjjWVQQkCLqRjbWMiPR2"
@@ -13352,7 +13518,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 178687,
       "name": "Sun Sets",
       "url": "https://open.spotify.com/track/6aPhXa3KCjTgjp4SSkpHdm"
@@ -14243,6 +14409,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits II (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3enuKERSauyNFVTa2n0t7S"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237853,
+      "name": "The Invisible Man - Remastered 2011",
+      "url": "https://open.spotify.com/track/0hvKqf1RhDOPCnowp7U0lQ"
+    },
+    {
+      "album": {
         "name": "Blood on Ice",
         "url": "https://open.spotify.com/album/2UFmtZa9BZ4PWQCeXgo2jw"
       },
@@ -14362,7 +14546,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 261093,
       "name": "The Man Who Sold The World - Live",
       "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
@@ -14724,7 +14908,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 207573,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/06xtVXy1Kg9VVRTb7RvQMl"
@@ -15171,6 +15355,24 @@
     },
     {
       "album": {
+        "name": "Vida de perros",
+        "url": "https://open.spotify.com/album/458KtFZXizDQb83WFOScaW"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185898,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/1Krpw6JAsDoTc4zud3Obyq"
+    },
+    {
+      "album": {
         "name": "Taguaras Forever",
         "url": "https://open.spotify.com/album/2Tq5MiwvSbU3GCQVJPJfvY"
       },
@@ -15312,7 +15514,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 118733,
       "name": "ugh!",
       "url": "https://open.spotify.com/track/3CHJC8N9seH3rjVhwGvkSW"
@@ -15558,6 +15760,24 @@
       "duration_ms": 259266,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/1Lv33qFAcC8028WWHNNRMM"
+    },
+    {
+      "album": {
+        "name": "MNW Klassiker - Imperiet",
+        "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
+      },
+      "artists": [
+        {
+          "name": "Imperiet",
+          "url": "https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273573,
+      "name": "Var e vargen? - Remix 1995",
+      "url": "https://open.spotify.com/track/0GQpHGSn14nL1SBH9z16Li"
     },
     {
       "album": {
@@ -16762,7 +16982,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 240773,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0P2j7ogCRvGMK4Pdw2K5ZQ"

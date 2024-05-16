@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Dueles Tan Bien",
       "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
@@ -3692,7 +3692,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 169923,
       "name": "Me Cae Mal Tu Novia - de \"Todas Menos T\u00fa\"",
       "url": "https://open.spotify.com/track/7fnI5yH0tQo7JqiCruKKeY"
@@ -4526,6 +4526,24 @@
       "duration_ms": 176721,
       "name": "Platicamos",
       "url": "https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9"
+    },
+    {
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "PLATONIK",
+      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
     },
     {
       "album": {
@@ -6270,7 +6288,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 219911,
       "name": "Viceversa",
       "url": "https://open.spotify.com/track/1utrxBHmUPgNhE8hWkDjXL"

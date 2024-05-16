@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 175 likes - 200 songs - 10 hr 7 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 176 likes - 200 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 | 121 | [Atlas](https://open.spotify.com/track/30lYh4H2pSUUcoXCboxvNq) | [bleach.bath](https://open.spotify.com/artist/2kP6vFV9kUXMN3qJ5WENWM) | [Plastic Heart](https://open.spotify.com/album/3kamF10NWGqnVaJZPVK17T) | 2:40 |
 | 122 | [Antidepressant](https://open.spotify.com/track/5kN8dM6FQvvU7sKdtGMaKk) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Skitzofrenia Simulation](https://open.spotify.com/album/1xPlkO690CiBEwodg1HaN7) | 4:48 |
 | 123 | [DREAMING IN BINARY](https://open.spotify.com/track/7atdSDQFRh5Ge5N41M7AJI) | [Star Trash](https://open.spotify.com/artist/20xOKqre5bLC5w9OjoHCln) | [DREAMING IN BINARY](https://open.spotify.com/album/3R0cfytoPJYO1AdT66m6UI) | 2:36 |
-| 124 | [END OF TIME](https://open.spotify.com/track/19ovKrboEPlQ2H6yVJ2IOI) | [died](https://open.spotify.com/artist/6ZYPu9cR1Sanx7kDsnHyet), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP), [Yabujin](https://open.spotify.com/artist/3xMSStWH6Wz2KAJqkZwXLu) | [END OF TIME](https://open.spotify.com/album/0k8A45EMQVjZ0hEx7pqWEa) | 1:00 |
+| 124 | [END OF TIME](https://open.spotify.com/track/19ovKrboEPlQ2H6yVJ2IOI) | [died](https://open.spotify.com/artist/6ZYPu9cR1Sanx7kDsnHyet), [kurtains](https://open.spotify.com/artist/1H0OarVEpBkYwM39iIn6FA), [Yabujin](https://open.spotify.com/artist/3xMSStWH6Wz2KAJqkZwXLu) | [END OF TIME](https://open.spotify.com/album/0k8A45EMQVjZ0hEx7pqWEa) | 1:00 |
 | 125 | [call out my name](https://open.spotify.com/track/6ix7yvWxErupciLbkM8lgl) | [kiyosumi](https://open.spotify.com/artist/4COM1CPRHHMGhgZ3jNZx6l), [akitakita](https://open.spotify.com/artist/1fX3dl7WtXgirAOmnKHQCb) | [call out my name](https://open.spotify.com/album/2pMwIjiV75Ez3dO8GAbgCV) | 1:58 |
 | 126 | [4884](https://open.spotify.com/track/47fiNdfLG34wBOhLTC5tm0) | [Zaphyre](https://open.spotify.com/artist/1Cqnru4BRLrT2H6v7nZaRs) | [4884](https://open.spotify.com/album/1bQ48hsO9vjxDQPdi1wZqs) | 3:39 |
 | 127 | [Plastic Memories](https://open.spotify.com/track/28I9y7ksaVfETRiOF65ELT) | [Cvmpliant](https://open.spotify.com/artist/5sd2fxErtIZ9P48K4hyy5Q) | [Plastic Memories](https://open.spotify.com/album/2jZEaKnz3HmBFs9CAT4ZqU) | 5:56 |

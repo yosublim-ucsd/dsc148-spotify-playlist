@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 ### [This Is MC Cabelinho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16f5bq)
 
-> This is MC Cabelinho\. The essential tracks, all in one playlist.
+> This is MC Cabelinho\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,569 likes - 48 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,621 likes - 48 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 47 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 |
 | 48 | [Não Demora](https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Não Demora](https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH) | 3:02 |
 
-Snapshot ID: `ZkFYAAAAAAAB+HewD6mXH0K3P3Hcdrbo`
+Snapshot ID: `ZkFYAAAAAAB5STDrMox5ORhNLaP8/d+c`

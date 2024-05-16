@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 447373,
+  "num_followers": 447402,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "Dreemin'",
-        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 131641,
-      "name": "Dreemin'",
-      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "stars",
         "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 141000,
       "name": "Call It A Night",
       "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "Dreemin'",
+        "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 131641,
+      "name": "Dreemin'",
+      "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "Under The Tree",
-        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
-      },
-      "artists": [
-        {
-          "name": "Chrisolof",
-          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
-        }
-      ],
-      "duration_ms": 114422,
-      "name": "Under The Tree",
-      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "No Awake Zone",
         "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "roadtrip",
-        "url": "https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy"
+        "name": "Under The Tree",
+        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
       },
       "artists": [
         {
-          "name": "vibesment",
-          "url": "https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx"
+          "name": "Chrisolof",
+          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
         }
       ],
-      "duration_ms": 137580,
-      "name": "roadtrip",
-      "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
+      "duration_ms": 114422,
+      "name": "Under The Tree",
+      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -367,18 +351,18 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "Blue Side",
-        "url": "https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX"
+        "name": "roadtrip",
+        "url": "https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy"
       },
       "artists": [
         {
-          "name": "Qommodity",
-          "url": "https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P"
+          "name": "vibesment",
+          "url": "https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx"
         }
       ],
-      "duration_ms": 128212,
-      "name": "Blue Side",
-      "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
+      "duration_ms": 137580,
+      "name": "roadtrip",
+      "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -395,6 +379,22 @@
       "duration_ms": 164062,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "Blue Side",
+        "url": "https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX"
+      },
+      "artists": [
+        {
+          "name": "Qommodity",
+          "url": "https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P"
+        }
+      ],
+      "duration_ms": 128212,
+      "name": "Blue Side",
+      "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "dream surfer",
-        "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
-      },
-      "artists": [
-        {
-          "name": "loyCOY",
-          "url": "https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "dream surfer",
-      "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "soft plushies",
         "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 144005,
       "name": "soft plushies",
       "url": "https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "dream surfer",
+        "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
+      },
+      "artists": [
+        {
+          "name": "loyCOY",
+          "url": "https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7"
+        }
+      ],
+      "duration_ms": 144892,
+      "name": "dream surfer",
+      "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-13 12:58:04",
       "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
         "name": "So It Falls",
         "url": "https://open.spotify.com/album/6xov2MgfMNHXdfFdCLwY3y"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 133333,
       "name": "So It Falls",
       "url": "https://open.spotify.com/track/47BSkYZ0VusQR2sKWwnhv8"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "duration_ms": 144892,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -971,22 +971,6 @@
       "duration_ms": 211200,
       "name": "talk it out",
       "url": "https://open.spotify.com/track/1VDM0Wv8wqX4hLSdzudVey"
-    },
-    {
-      "added_at": "2024-05-13 12:58:04",
-      "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 121672,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
     },
     {
       "added_at": "2024-05-13 12:58:04",
@@ -1075,6 +1059,22 @@
       "duration_ms": 154750,
       "name": "But of All We Did Together, Was It Worth It?",
       "url": "https://open.spotify.com/track/3GpuZPoVK9DCPbiAkKFZxo"
+    },
+    {
+      "added_at": "2024-05-13 12:58:04",
+      "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "duration_ms": 121672,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
     },
     {
       "added_at": "2024-05-13 12:58:04",

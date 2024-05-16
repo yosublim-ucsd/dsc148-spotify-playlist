@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 ### [This Is Mac Júlia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fXqHm)
 
-> This is Mac Júlia\. The essential tracks, all in one playlist.
+> This is Mac Júlia\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,321 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Love Me Two Times](https://open.spotify.com/track/7j19DBFzaXdIRRtWjvulBk) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Sextape: Love Me Two Times](https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR) | 2:04 |
 | 50 | [Medley](https://open.spotify.com/track/6FA0auhg0L75rRKIoYwpAx) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 3:26 |
 
-Snapshot ID: `ZkFYAAAAAABrBRt9/Jn23pWgQynh3YjO`
+Snapshot ID: `ZkFYAAAAAABc2e72M5BFzisR/vDWx59C`

@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 83215,
+  "num_followers": 83291,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2024-04-01 18:18:25",
       "album": {
+        "name": "Beau (feat. Julien Dor\u00e9) [Version acoustique]",
+        "url": "https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        },
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "Beau (feat. Julien Dor\u00e9) - Version acoustique",
+      "url": "https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU"
+    },
+    {
+      "added_at": "2024-04-01 18:18:25",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 206626,
       "name": "Evidemment - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
-    },
-    {
-      "added_at": "2024-04-01 18:18:25",
-      "album": {
-        "name": "Beau (feat. Julien Dor\u00e9) [Version acoustique]",
-        "url": "https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        },
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "Beau (feat. Julien Dor\u00e9) - Version acoustique",
-      "url": "https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU"
     },
     {
       "added_at": "2024-04-01 18:18:25",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-04-01 18:18:25",
       "album": {
-        "name": "Jamais Content",
-        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All\u00f4 maman bobo",
-      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
-    },
-    {
-      "added_at": "2024-04-01 18:18:25",
-      "album": {
         "name": "Jours Heureux",
         "url": "https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 149000,
       "name": "T'es Belle",
       "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
+    },
+    {
+      "added_at": "2024-04-01 18:18:25",
+      "album": {
+        "name": "Jamais Content",
+        "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All\u00f4 maman bobo",
+      "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
     },
     {
       "added_at": "2024-04-01 18:18:25",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-04-01 18:18:25",
       "album": {
+        "name": "Piano S\u00d8LO",
+        "url": "https://open.spotify.com/album/2it504tpH2sWxL1fJEnZa0"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Paris-Seychelles - Piano-Voix",
+      "url": "https://open.spotify.com/track/5iHqNcItJyFeYsoFSMzT0I"
+    },
+    {
+      "added_at": "2024-04-01 18:18:25",
+      "album": {
         "name": "Singles Collection (2001 - 2021)",
         "url": "https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 294826,
       "name": "Le grand secret (feat. Melissa Auf der Maur) - Les pianos voix",
       "url": "https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw"
-    },
-    {
-      "added_at": "2024-04-01 18:18:25",
-      "album": {
-        "name": "Piano S\u00d8LO",
-        "url": "https://open.spotify.com/album/2it504tpH2sWxL1fJEnZa0"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Paris-Seychelles - Piano-Voix",
-      "url": "https://open.spotify.com/track/5iHqNcItJyFeYsoFSMzT0I"
     },
     {
       "added_at": "2024-04-01 18:18:25",

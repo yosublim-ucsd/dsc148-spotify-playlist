@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,860 likes - 80 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,980 likes - 80 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 15 | [You Spin Me Round \(Like a Record\) \- Murder Mix](https://open.spotify.com/track/6gIBeNdhyrT2nt1zEILoxc) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [That's The Way I Like It: The Best of Dead Or Alive](https://open.spotify.com/album/1FhVoVBXXXJuZr3GwdOgPS) | 8:01 |
 | 16 | [Material Girl \- Extended Dance Remix](https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
 | 17 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
-| 18 | [Pretty Young Girl](https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT) | [Bad Boys Blue](https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa) | [Hot Girls, Bad Boys](https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y) | 5:46 |
-| 19 | [Baker Street \- Extended Mix](https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70) | [Undercover](https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7) | [Baker Street](https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW) | 5:11 |
+| 18 | [Baker Street \- Extended Mix](https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70) | [Undercover](https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7) | [Baker Street](https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW) | 5:11 |
+| 19 | [Pretty Young Girl](https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT) | [Bad Boys Blue](https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa) | [Hot Girls, Bad Boys](https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y) | 5:46 |
 | 20 | [So Many Men, So Little Time](https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men](https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX) | 8:14 |
 | 21 | [Maneater \- Extended Club Mix](https://open.spotify.com/track/1kTH8Ok1XWldpvIuzrCHFg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Original Album Classics](https://open.spotify.com/album/7rsyTubfxdtX7lWCVmmBVy) | 5:58 |
 | 22 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 75 | [The Reflex \- Dance Mix](https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 6:34 |
 | 76 | [High Energy \(Extended Version\)](https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ) | [Evelyn Thomas](https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh) | [High Energy](https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn) | 7:51 |
 | 77 | [Vamos a la Playa \- 1983 Maxi](https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 5:06 |
-| 78 | [Axel F \- Extended Mix](https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74) | [Forever 80](https://open.spotify.com/artist/4L1IYCTwbB9PXUtVT10HCM) | [Axel F \(Theme from "Beverly Hills Cop"\)](https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV) | 5:10 |
-| 79 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF) | 6:18 |
+| 78 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF) | 6:18 |
+| 79 | [Axel F \- Extended Mix](https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74) | [Forever 80](https://open.spotify.com/artist/4L1IYCTwbB9PXUtVT10HCM) | [Axel F \(Theme from "Beverly Hills Cop"\)](https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV) | 5:10 |
 | 80 | [Uncertain Smile \- 12" Remix](https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [45 RPM \- The Singles Of The The](https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa) | 9:59 |
 
 Snapshot ID: `ZcJUFgAAAAAhs3za3IFP/sHcGIxId/Fn`

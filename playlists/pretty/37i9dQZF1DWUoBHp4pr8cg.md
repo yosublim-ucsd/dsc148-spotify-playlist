@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from K.O & Maglera Doe Boy \(pictured\), Kendrick Lamar, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,990 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,046 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

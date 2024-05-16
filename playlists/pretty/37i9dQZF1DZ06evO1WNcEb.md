@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 ### [This Is Eyshila](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WNcEb)
 
-> This is Eyshila\. The essential tracks, all in one playlist.
+> This is Eyshila\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,792 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,791 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [Lázaro](https://open.spotify.com/track/3cqFVJ9wMjsU6NnI1aV741) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Lázaro](https://open.spotify.com/album/6K6iPw0DJulvcZ6GYXvIYs) | 5:22 |
 | 50 | [Oleiro](https://open.spotify.com/track/6ADpJaVUozhAuh0OjbLd2w) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Oleiro](https://open.spotify.com/album/2HyIjpequVfbPh42JKtmjT) | 4:11 |
 
-Snapshot ID: `ZkFYAAAAAAB5c8g+jhxCEn9qromaq1nn`
+Snapshot ID: `ZkKpgAAAAADnV1DJUqWopG7AUgQFTliE`

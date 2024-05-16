@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,121 likes - 1,192 songs - 3 day 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,162 likes - 1,192 songs - 3 day 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -697,7 +697,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 687 | [Avarandado](https://open.spotify.com/track/4HW3qBemcKJYaoW0iFqGJV) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Avarandado](https://open.spotify.com/album/6EyfiA9hNpoS7rIwSLyR3b) | 3:53 |
 | 688 | [Si, Si, Si](https://open.spotify.com/track/6NkxtCjJbh1Z3SzESoSAZo) | [Abelardo Carbono](https://open.spotify.com/artist/2gvexCrSP72GLvESGZQ772), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Si, Si, Si](https://open.spotify.com/album/01BhpqA5nv5fjTXs8hdyoG) | 5:40 |
 | 689 | [Hijos Del Sol](https://open.spotify.com/track/6G7pNFWlN2quQSICrS7ECu) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hijos Del Sol](https://open.spotify.com/album/32io9VfQKpJuOyJN0EGK7h) | 2:56 |
-| 690 | [Mi Condena](https://open.spotify.com/track/7cGMfEBgGpGlWHMyHU6MnL) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Bad Bad Thing](https://open.spotify.com/album/75PPqLtADwkI4qSkOqVe6e) | 4:05 |
+| 690 | [Mi Condena](https://open.spotify.com/track/7cGMfEBgGpGlWHMyHU6MnL) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Bad Bad Things](https://open.spotify.com/album/75PPqLtADwkI4qSkOqVe6e) | 4:05 |
 | 691 | [Couleur café](https://open.spotify.com/track/3qgx26V2POGIsGAFLyWJsx) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Gainsbourg percussions](https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1) | 2:14 |
 | 692 | [Mathar](https://open.spotify.com/track/5ezivMcaRvUg2KtKyYYKUI) | [Dave Pike Set](https://open.spotify.com/artist/6zAEqMMSjBiAH4Dat94F3G) | [Noisy Silence \- Gentle Noise](https://open.spotify.com/album/2FqvsZsOGHKUBRmk4XOawF) | 3:42 |
 | 693 | [Blackbird Singing](https://open.spotify.com/track/0Xf3chg0IH3ivgHfSRDImY) | [Rosalyn Sweat](https://open.spotify.com/artist/10FVIFMSktDL7zadsCqMRn), [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/4znstpmS1WOSyKyGtTVM8m) | 2:34 |

@@ -1,6 +1,6 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 100705,
+  "num_followers": 100741,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "I Cry Jesus",
-        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 218765,
-      "name": "I Cry Jesus",
-      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "I Speak Jesus",
         "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 233301,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "I Cry Jesus",
+        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 218765,
+      "name": "I Cry Jesus",
+      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -323,18 +323,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Before I Knew Jesus",
-        "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
+        "name": "The Great Awakening",
+        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
       },
       "artists": [
         {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 196975,
-      "name": "Before I Knew Jesus",
-      "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
+      "duration_ms": 210118,
+      "name": "The Great Awakening",
+      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -355,22 +359,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Great Awakening",
-        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
+        "name": "Before I Knew Jesus",
+        "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
         }
       ],
-      "duration_ms": 210118,
-      "name": "The Great Awakening",
-      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+      "duration_ms": 196975,
+      "name": "Before I Knew Jesus",
+      "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Miracle Power",
-        "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 277893,
-      "name": "Miracle Power",
-      "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
         "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 206400,
       "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
       "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Miracle Power",
+        "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 277893,
+      "name": "Miracle Power",
+      "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 278119,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/5dRUYUFyuup2nG0cbzzmaf"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 281080,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/4reyRIw1xIeMAa5lylm6ow"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 278119,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Church I Grew Up in (Live)",
-        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 296715,
-      "name": "The Church I Grew Up In - Live",
-      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Though None Go",
         "url": "https://open.spotify.com/album/6AARjaQ2hd1WfU3S0JfImo"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 212380,
       "name": "Clear The Air",
       "url": "https://open.spotify.com/track/7mN6Y61Xo7k7aoxkuqzXlz"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "The Church I Grew Up in (Live)",
+        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 296715,
+      "name": "The Church I Grew Up In - Live",
+      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "If It Comes From You",
+        "url": "https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 294349,
+      "name": "If It Comes From You",
+      "url": "https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Show Up Choose Love",
         "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "If It Comes From You",
-        "url": "https://open.spotify.com/album/6xMkcoUOnaZ3GtvkQIIQYA"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 294349,
-      "name": "If It Comes From You",
-      "url": "https://open.spotify.com/track/1TXEoiSeCPgMfBfoc9LhZf"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Only Ever Always",
         "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 179420,
       "name": "Only Ever Always",
       "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1119,6 +1103,22 @@
       "duration_ms": 374437,
       "name": "Pursuit (As The Deer) - Live",
       "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Jesus Did",
-        "url": "https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 203752,
-      "name": "Jesus Did",
-      "url": "https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Streams of Worship",
         "url": "https://open.spotify.com/album/0DK8yClnB95oTZlSdTD3K6"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 240000,
       "name": "Break Every Boundary",
       "url": "https://open.spotify.com/track/1nDhSCOgxX4BY0l9aBTTqE"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Jesus Did",
+        "url": "https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 203752,
+      "name": "Jesus Did",
+      "url": "https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
-      },
-      "artists": [
-        {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
-        }
-      ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 184000,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+      },
+      "artists": [
+        {
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+        }
+      ],
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "HELP!",
-        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "HELP!",
-      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "HELP!",
+        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "HELP!",
+      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Smell The Roses",
-        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 253940,
-      "name": "Smell The Roses",
-      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "God Is Real",
         "url": "https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 177235,
       "name": "Never Not God",
       "url": "https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Smell The Roses",
+        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 253940,
+      "name": "Smell The Roses",
+      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1667,18 +1667,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "everything and more",
-        "url": "https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8"
+        "name": "The Kindness Of The Cross",
+        "url": "https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        },
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 232466,
-      "name": "everything and more",
-      "url": "https://open.spotify.com/track/12JPE50t031pH3Dy5mcAzR"
+      "duration_ms": 286130,
+      "name": "God Really Loves Us",
+      "url": "https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E"
     },
     {
       "added_at": "2022-10-29 07:17:38",

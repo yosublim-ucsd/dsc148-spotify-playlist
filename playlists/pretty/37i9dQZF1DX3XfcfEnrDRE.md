@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Alive City
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,087 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,121 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 42 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
 | 43 | [Leaving The 99 \- Remix](https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Leaving The 99 \(Remix\)](https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze) | 4:02 |
 | 44 | [Calm Before the Storm](https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Calm Before the Storm](https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q) | 3:55 |
-| 45 | [Rooftops](https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Rooftops](https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq) | 2:49 |
-| 46 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 |
+| 45 | [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 |
+| 46 | [Rooftops](https://open.spotify.com/track/3Kx67wg68HCdDLWGeKepL8) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Rooftops](https://open.spotify.com/album/0E5sGFa3NnW5Jj2iIkDwqq) | 2:49 |
 | 47 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 |
 | 48 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 |
 | 49 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 |

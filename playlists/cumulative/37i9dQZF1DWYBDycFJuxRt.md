@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: imase \*👉 <a href="https://spice.eplus.jp/articles/328587?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: imase \*👉 <a href="https://spice.eplus.jp/articles/328748?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-6,242 songs - 15 day 20 hr 29 min
+6,243 songs - 15 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [2024/4/17 First Love is Never Returnedがカバー！BUMP OF CHICKEN、椎名林檎、aiko、水曜日のカンパネラの新曲もリリースに！Rina Sawayamaとちゃんみなのコラボソング、tuki.の新曲、荒谷翔大初のソロ楽曲や、MFSのアルバムもリリースに！ワンリパブリックが手がけたアニメ『怪獣8号』のエンディングテーマもピックアップ！](https://open.spotify.com/episode/7u83hn30oydzzNOefPTDIq) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 32:21 | 2024-04-17 | 2024-04-24 |
 | [2024/4/24 Lucky Kilimanjaroがカバー！go!go!vanillas、十明、DURDN、BE:FIRST、LEXなど注目アーティストの新作続々到着！Spotify記録を樹立したテイラー・スウィフトのニューアルバムも！Nenashiのニューアルバム、Bye\-Bye\-Handの方程式の新曲、KaneeeとDaichi Yamamotoのコラボ曲も！](https://open.spotify.com/episode/7KbNheF2NCe8gR8bPtOddJ) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:14 | 2024-04-24 | 2024-05-01 |
 | [2024/5/1 あいみょんがカバー！LEXとJP THE WAVYのコラボ、Tempalayのニューアルバムもリリースに。ちゃんみな、WurtS、女王蜂、槇原敬之の新曲、Early Noiseアーティストの音田雅則、CHO CO PA CO CHO CO QUIN QUINの新曲も！フランスのジャスティスのニューアルバムもピックアップ！](https://open.spotify.com/episode/3ar9F7aWEXxlGtMWQ6vSI0) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 30:49 | 2024-05-01 | 2024-05-08 |
+| [2024/5/15 imaseが初のアルバムをリリース！MILLENNIUM PARADEの新曲も！！\[Alexandros\]や水曜日のカンパネラの新曲も。BonberoとKohjiyaのコラボ、guca owlの新曲といったヒップホップ注目新作や、長谷川白紙の新曲、TM NETWORKのトリビュートアルバムからB'zの「Get Wild」も！ポスト・マローンの新曲もリリースに！](https://open.spotify.com/episode/1MAjxXzBfF7weYVGTr9jW9) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 34:02 | 2024-05-15 |  |
 | [2024/5/8 ゲスの極み乙女がカバー！「幾億光年」がヒット中のOmoinotakeの新曲も！WILYWNKAのニューアルバム、JJJ、BLASÉ、Bonberoのコラボ曲、KEIJUの新曲など注目ヒップホップ作品も多数リリースに！Mr.Children、ビッケブランカ、乃紫、KERENMIもピックアップ。海外からはデュア・リパのニューアルバムなどを深堀り！](https://open.spotify.com/episode/7E9vuHi6y2SkknvDQmW816) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 35:32 | 2024-05-08 | 2024-05-15 |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/0t6GDvannAPMhpYV9KQvhd) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4NQWLV27zjKf450cF0HtGp) | 5:12 | 2023-09-12 | 2023-09-14 |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/69xcj07x7CoDq2X82QA14j) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4h3k67qvKQdWTM7LWpSYOH) | 5:12 | 2023-09-13 | 2023-09-20 |

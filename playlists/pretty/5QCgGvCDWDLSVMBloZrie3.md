@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 420 songs - 1 day 3 hr 11 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 15 likes - 422 songs - 1 day 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -428,5 +428,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 418 | [Clara Bow](https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:36 |
 | 419 | [Caesar on a TV Screen](https://open.spotify.com/track/2w4cRBhWvHCsDpvyhiDkjq) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:49 |
 | 420 | [Burn Alive](https://open.spotify.com/track/54wX7jxwKL2TQS9itIIMyJ) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:21 |
+| 421 | [We Made It](https://open.spotify.com/track/2IRD8YXIKzclULZwnv51p7) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Celisse](https://open.spotify.com/artist/0SJrFoAb35fTLKCLWcXJYu) | [We Made It](https://open.spotify.com/album/50soRftpa2dYDxH6v9Jka8) | 2:24 |
+| 422 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
 
-Snapshot ID: `AAAEw7rYUA7vMN7rpAfZtbjEy/OzEUJ+`
+Snapshot ID: `AAAExXbEgLhwHUM5uc4GjkCSJaoeht78`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,077,044 likes - 152 songs - 6 hr 1 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,077,034 likes - 152 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 28 | [MELODIA DE VITORIA](https://open.spotify.com/track/3y5LRV9dYkGECL51KkZfxc) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [MELODIA DE VITORIA](https://open.spotify.com/album/6sBNyXmOT6TgdZdZWah3kD) | 1:29 |
 | 29 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 30 | [Deathless](https://open.spotify.com/track/63SMGDToDTOXEZ6ZVheHhm) | [Doc Backer](https://open.spotify.com/artist/7tXyKeOv9LiXg7qfVQKQm4) | [Deathless](https://open.spotify.com/album/53VVLBkKFhNqBMTUSeR4yc) | 2:17 |
-| 31 | [Hollow](https://open.spotify.com/track/43m2rSnNDyVc3XEg8TDJTw) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [GOLDKID$](https://open.spotify.com/artist/6PEnjhcHrk3FoMtUSHc3Jz) | [Hollow](https://open.spotify.com/album/7DarvJQ1pM56CZOLwEQQbi) | 2:50 |
+| 31 | [hollow](https://open.spotify.com/track/43m2rSnNDyVc3XEg8TDJTw) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [GOLDKID$](https://open.spotify.com/artist/6PEnjhcHrk3FoMtUSHc3Jz) | [hollow](https://open.spotify.com/album/7DarvJQ1pM56CZOLwEQQbi) | 2:50 |
 | 32 | [x\-tudo \- slowed](https://open.spotify.com/track/2CSQju5oDh0zMIwsf6qcsN) | [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [x\-tudo](https://open.spotify.com/album/5mGMCvuF70Alfy0FXg3Sn7) | 1:15 |
 | 33 | [THOMAS](https://open.spotify.com/track/3cjg55upztjI5bIsBQqSN1) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [THOMAS](https://open.spotify.com/album/6s28IiIJ7ElbJfTPn03D6Y) | 1:30 |
 | 34 | [Hold It Down \[The FifthGuys Remix\]](https://open.spotify.com/track/0K4h7wmNfQyj5V2NYDKLNh) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Swisha T](https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ), [Bmike](https://open.spotify.com/artist/1iwTLEeVSDXJxCY9pg0UZz), [Prznt](https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w) | [Hold It Down \[The FifthGuys Remix\]](https://open.spotify.com/album/7kT2iqP1GVGr1UXq63YZDz) | 2:47 |

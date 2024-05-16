@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 49276,
+  "num_followers": 49305,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
+        "name": "Long Violent History",
+        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
       },
       "artists": [
         {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Bombshell",
-      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
+      "duration_ms": 248453,
+      "name": "Midnight on the Water",
+      "url": "https://open.spotify.com/track/2wvkWO6Pys01AT32nOc5RB"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Long Violent History",
-        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 248453,
-      "name": "Midnight on the Water",
-      "url": "https://open.spotify.com/track/2wvkWO6Pys01AT32nOc5RB"
+      "duration_ms": 202066,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Tombstone Junction",
-        "url": "https://open.spotify.com/album/6NUtE5zHsAqYpTcvtOd5YV"
-      },
-      "artists": [
-        {
-          "name": "Michael Prewitt",
-          "url": "https://open.spotify.com/artist/4s2da3g2gHWyQ4Ybz5hRBE"
-        }
-      ],
-      "duration_ms": 308026,
-      "name": "Tombstone Junction",
-      "url": "https://open.spotify.com/track/1j9lPZgn3NoXELxBVB0uaN"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Tombstone Junction",
+        "url": "https://open.spotify.com/album/6NUtE5zHsAqYpTcvtOd5YV"
+      },
+      "artists": [
+        {
+          "name": "Michael Prewitt",
+          "url": "https://open.spotify.com/artist/4s2da3g2gHWyQ4Ybz5hRBE"
+        }
+      ],
+      "duration_ms": 308026,
+      "name": "Tombstone Junction",
+      "url": "https://open.spotify.com/track/1j9lPZgn3NoXELxBVB0uaN"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -667,6 +667,22 @@
       "duration_ms": 180493,
       "name": "Bon Aqua Blues",
       "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Leaving Cottondale",
+      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -731,22 +747,6 @@
       "duration_ms": 198733,
       "name": "Smith Chapel",
       "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Leaving Cottondale",
-      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -939,30 +939,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Songs For The Sparrows",
-        "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
-      },
-      "artists": [
-        {
-          "name": "Nefesh Mountain",
-          "url": "https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 269733,
-      "name": "Big Mountain",
-      "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Lonesome Whistle",
         "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 166720,
       "name": "City Of New Orleans - Instrumental",
       "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Songs For The Sparrows",
+        "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
+      },
+      "artists": [
+        {
+          "name": "Nefesh Mountain",
+          "url": "https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "Big Mountain",
+      "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Jubilation",
-        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Graveyard Fields",
-      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Cellopickin'",
         "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 196875,
       "name": "Cellopickin'",
       "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Jubilation",
+        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
+        }
+      ],
+      "duration_ms": 179140,
+      "name": "Graveyard Fields",
+      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Jolly Green",
         "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 142652,
       "name": "Jolly Green",
       "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 325013,
-      "name": "Birdland",
-      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Tsali's Run",
         "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
       },
@@ -1391,22 +1375,6 @@
       "duration_ms": 238000,
       "name": "Tsali's Run",
       "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1439,6 +1407,38 @@
       "duration_ms": 218120,
       "name": "Crossing the Junction / Deer River",
       "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 325013,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Marigold Hair",
+        "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
+      },
+      "artists": [
+        {
+          "name": "David Brimer",
+          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
+        },
+        {
+          "name": "Mark Grundhoefer",
+          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+        }
+      ],
+      "duration_ms": 153622,
+      "name": "Marigold Hair",
+      "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Finnland",
         "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
       },
@@ -1671,26 +1691,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Marigold Hair",
-        "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
-      },
-      "artists": [
-        {
-          "name": "David Brimer",
-          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
-        },
-        {
-          "name": "Mark Grundhoefer",
-          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
-        }
-      ],
-      "duration_ms": 153622,
-      "name": "Marigold Hair",
-      "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Skunk Weed",
         "url": "https://open.spotify.com/album/43SUsPRzrTbe6oaHukQERY"
       },
@@ -1719,6 +1719,22 @@
       "duration_ms": 171823,
       "name": "Saltbush Express",
       "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Wood Box Heroes",
+        "url": "https://open.spotify.com/album/0KMYFch1J5SGDL6Zz4if9f"
+      },
+      "artists": [
+        {
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "No. 444",
+      "url": "https://open.spotify.com/track/72Xjcfh50FRUeMaomktamF"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Things Are Simple",
-        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Along Came Sonny",
-      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Grassy Cove",
         "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
       },
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
       },
       "artists": [
         {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+      "duration_ms": 372746,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE?si=1KmYBCHhQCO7FRXiflcZNw>REFUGE WRSHP</a>",
-  "num_followers": 9147,
+  "num_followers": 9173,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jvAAAAADUHhwBnk5sWSG7xHIlQi3P",
+  "snapshot_id": "ZkUNJQAAAAAUYOYvWTvc/jAKbyDO6lrg",
   "tracks": [
     {
       "added_at": "2024-05-10 00:01:00",
@@ -27,6 +27,26 @@
       "duration_ms": 300000,
       "name": "There For Me",
       "url": "https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kaggwa",
+          "url": "https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF"
+        },
+        {
+          "name": "Johnmarie",
+          "url": "https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -63,22 +83,6 @@
       "duration_ms": 183050,
       "name": "You Are Great",
       "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
-    },
-    {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "DAY OF THE LORD",
-        "url": "https://open.spotify.com/album/28sHaz4Rcsy7grBT9OkARL"
-      },
-      "artists": [
-        {
-          "name": "REFUGE WRSHP",
-          "url": "https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE"
-        }
-      ],
-      "duration_ms": 427377,
-      "name": "DAY OF THE LORD",
-      "url": "https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -177,22 +181,6 @@
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Yeshua (Worship Rendition)",
-        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 216962,
-      "name": "Yeshua (Worship Rendition)",
-      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
-    },
-    {
       "added_at": "2024-05-10 00:01:00",
       "album": {
         "name": "Somebody's Child",
@@ -211,6 +199,22 @@
       "duration_ms": 204121,
       "name": "Somebody's Child",
       "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Yeshua (Worship Rendition)",
+        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 216962,
+      "name": "Yeshua (Worship Rendition)",
+      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -345,22 +349,6 @@
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Baba",
@@ -383,6 +371,22 @@
       "duration_ms": 211200,
       "name": "Baba",
       "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "added_at": "2024-03-15 00:01:00",
@@ -513,26 +517,6 @@
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "All Things Are Possible (Live)",
-        "url": "https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S"
-      },
-      "artists": [
-        {
-          "name": "EJ Newton",
-          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
-        },
-        {
-          "name": "Great Grace Music",
-          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "All Things Are Possible (Live)",
-      "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "The Doing of the Lord",
@@ -551,6 +535,26 @@
       "duration_ms": 286880,
       "name": "The Doing of the Lord",
       "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "All Things Are Possible (Live)",
+        "url": "https://open.spotify.com/album/5zAoHldAVbalTRk851wI1S"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "All Things Are Possible (Live)",
+      "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -649,22 +653,6 @@
       "url": "https://open.spotify.com/track/31BeCK5NpDASyf8A97blzw"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
-    },
-    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Angel",
@@ -679,6 +667,22 @@
       "duration_ms": 268830,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -737,26 +741,6 @@
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
     },
     {
-      "added_at": "2024-01-12 00:01:00",
-      "album": {
-        "name": "Worry About Nothing",
-        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 204975,
-      "name": "Worry About Nothing",
-      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
-    },
-    {
       "added_at": "2024-03-15 00:01:00",
       "album": {
         "name": "Jesus To The City, Vol. 2 (Live)",
@@ -807,6 +791,26 @@
       "duration_ms": 642124,
       "name": "Amaram Onyewem - Live",
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Worry About Nothing",
+        "url": "https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 204975,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
     },
     {
       "added_at": "2024-03-22 00:01:00",

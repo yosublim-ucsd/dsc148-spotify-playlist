@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: girl in red
 
-1,253 songs - 3 day 0 hr 8 min
+1,255 songs - 3 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 | 2023-04-27 | 2023-05-05 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-18 | 2023-07-07 |
 | [Emotional](https://open.spotify.com/track/0mt5kngEPeux5Bgflvm9qN) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Emotional](https://open.spotify.com/album/1XvJPvitM6cBjEik59dzDr) | 2:43 | 2023-07-13 | 2023-07-21 |
-| [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-05-02 |  |
+| [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-05-02 | 2024-05-16 |
 | [Empty Mansions](https://open.spotify.com/track/5GdSPrFUgE6bGpyVYxxqyK) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:25 | 2023-07-06 | 2023-07-14 |
 | [Erotomania](https://open.spotify.com/track/0I7y5xyPbTp4C9SNwYP4bF) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Mommy](https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay) | 2:06 | 2023-08-24 | 2023-09-01 |
 | [Eulogy](https://open.spotify.com/track/4JfMlJsDGIu1bVOYUnUYYH) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Eulogy](https://open.spotify.com/album/1yoLIxqTVxN9O5U5KmwIIj) | 2:21 | 2023-03-16 | 2023-04-07 |
@@ -589,6 +589,7 @@
 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 | 2024-01-25 | 2024-03-01 |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-16 | 2023-05-15 |
 | [Just Another Rainbow](https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Just Another Rainbow](https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX) | 5:36 | 2024-01-04 | 2024-02-23 |
+| [Just My Type](https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Just My Type](https://open.spotify.com/album/1FrfBppniPQH42IpFBBgAh) | 3:05 | 2024-05-09 |  |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-03-16 | 2024-02-09 |
 | [Just The Once](https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Just The Once](https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5) | 3:24 | 2023-07-06 | 2023-07-14 |
 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 | 2023-03-30 | 2023-04-07 |
@@ -616,7 +617,7 @@
 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2023-11-30 | 2024-02-09 |
 | [LANGUAGE](https://open.spotify.com/track/13ynkovTAESCMefYh6MqIb) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [LANGUAGE](https://open.spotify.com/album/1Pu6wKzlEoCEMO2P2p5PeM) | 2:58 | 2023-06-22 | 2023-06-30 |
 | [Last Man In The World](https://open.spotify.com/track/4BO4583RpKU9ILHVvIR5vv) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Last Man In The World](https://open.spotify.com/album/44yyClOXbzPpTBhcUbsarK) | 2:42 | 2023-05-25 | 2023-06-16 |
-| [Last Night On Earth \- Single Version / Remastered 2024](https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Last Night On Earth](https://open.spotify.com/album/0JB2aNVc7mUlwwz5qdl9zM) | 4:15 | 2024-05-07 |  |
+| [Last Night On Earth \- Single Version / Remastered 2024](https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Last Night On Earth](https://open.spotify.com/album/0JB2aNVc7mUlwwz5qdl9zM) | 4:15 | 2024-05-07 | 2024-05-16 |
 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 | 2023-04-27 | 2023-05-05 |
 | [Leap Years](https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Leap Years](https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo) | 2:39 | 2024-02-29 | 2024-03-08 |
 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 | 2024-02-08 |  |
@@ -1080,6 +1081,7 @@
 | [The Goldmine](https://open.spotify.com/track/6jySeYVTWo7S9HE1A9q7ju) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [The Goldmine](https://open.spotify.com/album/3bFJ75u5NpQsqi4HtxVHmQ) | 3:32 | 2023-11-16 | 2023-11-24 |
 | [The Guest](https://open.spotify.com/track/0sK1ET6VbYeGZnbpCudlIA) | [Mary Timony](https://open.spotify.com/artist/1FFaHFtnhdnHuY0xGZcnD1) | [The Guest](https://open.spotify.com/album/4Uf7DE1G3Uj3ISQQl2nUFA) | 3:53 | 2024-01-04 | 2024-01-12 |
 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-07-20 | 2023-07-28 |
+| [The Joke](https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 3:57 | 2024-05-09 |  |
 | [The Last Time](https://open.spotify.com/track/4YXmWAo4IHhHpkZbtlwBYm) | [Less Than Hollow](https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD) | [No Looking Back](https://open.spotify.com/album/0dwAxWVt9N0HIO4QPmFZq5) | 3:21 | 2023-12-21 | 2024-01-05 |
 | [The Matrix](https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [The Matrix](https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd) | 3:21 | 2023-11-02 | 2023-11-17 |
 | [the mom song](https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [the mom song](https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI) | 2:32 | 2024-01-04 | 2024-01-12 |

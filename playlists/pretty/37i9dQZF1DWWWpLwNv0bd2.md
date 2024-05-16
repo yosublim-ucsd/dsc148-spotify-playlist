@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : STAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,563 likes - 52 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,585 likes - 52 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

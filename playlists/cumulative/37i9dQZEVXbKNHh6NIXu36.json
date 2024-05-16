@@ -1149,6 +1149,32 @@
     },
     {
       "album": {
+        "name": "7ICE",
+        "url": "https://open.spotify.com/album/6HGfZaFMBtELLmTcASH7sG"
+      },
+      "artists": [
+        {
+          "name": "Sajfer",
+          "url": "https://open.spotify.com/artist/5ft3IHiUHeGIvsxTdBSKtN"
+        },
+        {
+          "name": "Jala Brat",
+          "url": "https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL"
+        },
+        {
+          "name": "Buba Corelli",
+          "url": "https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "7ICE",
+      "url": "https://open.spotify.com/track/32Xr4SIsTHMlpXeRZnXwN0"
+    },
+    {
+      "album": {
         "name": "9 bis 9",
         "url": "https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb"
       },
@@ -19621,6 +19647,28 @@
     },
     {
       "album": {
+        "name": "Kamagra",
+        "url": "https://open.spotify.com/album/7aNOB8u5u03sPn7Te1FyEF"
+      },
+      "artists": [
+        {
+          "name": "Sajfer",
+          "url": "https://open.spotify.com/artist/5ft3IHiUHeGIvsxTdBSKtN"
+        },
+        {
+          "name": "Gr\u0161e",
+          "url": "https://open.spotify.com/artist/7tcnxMy5DB0GEOOUnlkKyz"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "Kamagra",
+      "url": "https://open.spotify.com/track/2jbyyX4V0mbqywpre52pzW"
+    },
+    {
+      "album": {
         "name": "KAMPFSPORT",
         "url": "https://open.spotify.com/album/7KOLePcY2f4EjjaMO9DZo3"
       },
@@ -28342,7 +28390,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 95783,
       "name": "One Time",
       "url": "https://open.spotify.com/track/17MhO4CkAL6qWy6jxO9B6a"
@@ -30354,6 +30402,28 @@
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "album": {
+        "name": "Preko",
+        "url": "https://open.spotify.com/album/5G9PG5Tgnx7L3EEGyHDagZ"
+      },
+      "artists": [
+        {
+          "name": "Sajfer",
+          "url": "https://open.spotify.com/artist/5ft3IHiUHeGIvsxTdBSKtN"
+        },
+        {
+          "name": "THCF",
+          "url": "https://open.spotify.com/artist/2hFufgCsz7uNPvymOJ4gUz"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Preko",
+      "url": "https://open.spotify.com/track/7KS2Sx9aaPZtwJSrK18Lsb"
     },
     {
       "album": {
@@ -34272,7 +34342,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -40106,7 +40176,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 117656,
       "name": "Vorbei",
       "url": "https://open.spotify.com/track/7xq0ZfsN1ZjYcmdE5FYjWk"

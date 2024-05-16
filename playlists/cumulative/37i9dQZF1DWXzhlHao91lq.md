@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-243 songs - 13 hr 48 min
+244 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Coffee](https://open.spotify.com/track/2N8HUYJ0oGyByJgkeh5MTS) | [Izzeah](https://open.spotify.com/artist/6oluXlULn1Lvo3Nu64KMbq) | [Coffee](https://open.spotify.com/album/7KmMhkOhc6rXrP877cumyf) | 3:37 | 2022-05-30 | 2022-07-22 |
 | [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 | 2023-05-29 | 2023-09-02 |
 | [Columbo](https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:33 | 2023-08-28 | 2024-01-06 |
-| [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:04 | 2023-10-30 |  |
+| [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:00 | 2023-10-30 |  |
 | [comethru](https://open.spotify.com/track/6fFTPGGItuEpjwXRUIr4rk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [comethru](https://open.spotify.com/album/0z59TOGj1z9NZJYNvRV02q) | 3:01 | 2022-05-30 | 2022-07-29 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-07-25 | 2024-04-19 |
 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-05-30 |  |
@@ -96,7 +96,7 @@
 | [Here's Your Perfect \- Acoustic](https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:44 | 2022-05-30 |  |
 | [High Hopes](https://open.spotify.com/track/3z5V7oSggDeCPeEGiCIu83) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [High Hopes](https://open.spotify.com/album/2lx32jA6XqlM6wXn6fWyCm) | 3:36 | 2022-05-30 | 2022-07-29 |
 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 | 2024-02-19 |  |
-| [Honest Man](https://open.spotify.com/track/725idQDxyOq1atgCsutMrS) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Honest Man](https://open.spotify.com/album/40JBrBKlMu5ENJPnCGflAP) | 3:49 | 2024-04-08 |  |
+| [Honest Man](https://open.spotify.com/track/725idQDxyOq1atgCsutMrS) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Honest Man](https://open.spotify.com/album/40JBrBKlMu5ENJPnCGflAP) | 3:49 | 2024-04-08 | 2024-05-16 |
 | [How Long Will I Love You](https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [How Long Will I Love You](https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm) | 2:24 | 2022-05-30 | 2023-04-26 |
 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/55oeEYEp81nHKvkdJjwXW2) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/album/7L1nVNAEtlPi49xZHrDuBW) | 2:57 | 2022-05-30 | 2022-07-28 |
 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 | 2022-08-08 |  |
@@ -245,6 +245,7 @@
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days \(Deluxe Edition\) In The Canyon Haze](https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q) | 4:17 | 2022-10-31 | 2022-11-13 |
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-05 | 2022-10-08 |
 | [You Are The Reason \- Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios](https://open.spotify.com/track/2L5V8TQCEq5n3CLrjGbWE8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason \(Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios\)](https://open.spotify.com/album/5TY5e5pUCFkAkCyFGFzn3P) | 3:48 | 2022-08-08 | 2024-04-19 |
+| [You Belong](https://open.spotify.com/track/7l0tDNF2csr9nNfwhiwPnp) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [You Belong](https://open.spotify.com/album/6c8vMOCuwj0HMbsv15JyDA) | 3:02 | 2024-05-13 |  |
 | [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2022-08-08 |  |
 | [You Can't Make Old Friends \- Duet with Dolly Parton](https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [You Can't Make Old Friends](https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr) | 4:02 | 2023-10-23 |  |
 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-30 |  |

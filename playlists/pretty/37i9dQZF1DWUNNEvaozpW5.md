@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Bunbury con Arde Bogotá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,208 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,306 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 22 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 |
 | 23 | [Feo Fuerte y Formal](https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi) | [Loquillo Y Los Trogloditas](https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl) | [Feo, Fuerte y Formal](https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF) | 4:02 |
 | 24 | [Desesperación](https://open.spotify.com/track/3f1Bjc2q2gz88GNcagQwMt) | [Pablo Perea](https://open.spotify.com/artist/1RDmz2DB87UtfVvkEuQLF9) | [Desesperación](https://open.spotify.com/album/2NdTFCFZ2k0Fi56mUFHVFu) | 4:03 |
-| 25 | [Carolina \- En directo 2000](https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sin Enchufe](https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj) | 4:23 |
+| 25 | [Acabo de llegar](https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 6:15 |
 | 26 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
-| 27 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
+| 27 | [Carolina \- En directo 2000](https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sin Enchufe](https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj) | 4:23 |
 | 28 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
 | 29 | [Voy a pasármelo bien](https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Voy A Pasarmelo Bien](https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv) | 3:55 |
 | 30 | [Como Camarón](https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Esencial Estopa](https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK) | 3:23 |
-| 31 | [Acabo de llegar](https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 6:15 |
+| 31 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
 | 32 | [Fotosensible](https://open.spotify.com/track/0dNR2ihcMpfZtYCGgYmKUW) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [Fotosensible](https://open.spotify.com/album/3WWU3uQsDXO32uYXsSkVQN) | 4:26 |
 | 33 | [Mirihi](https://open.spotify.com/track/5LZOvmMXll7f24gflG6k2X) | [Issak](https://open.spotify.com/artist/7nVoXDJbbTOX6Ng6qDoxqZ) | [Mirihi](https://open.spotify.com/album/00WDW6hxgP05pgLC6OfUjq) | 3:01 |
 | 34 | [So payaso](https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Agila](https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is) | 4:41 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 75 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
 | 76 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 |
 | 77 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 |
-| 78 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
-| 79 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
-| 80 | [Tu frialdad](https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un Encuentro](https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL) | 4:23 |
+| 78 | [Tu frialdad](https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un Encuentro](https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL) | 4:23 |
+| 79 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
+| 80 | [Masculino singular](https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Veo Veo Mamoneo](https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI) | 4:03 |
 | 81 | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL) | 2:56 |
 | 82 | [Hablar, Hablar, Hablar...](https://open.spotify.com/track/4OP27AFFqUJ8de27sOIIku) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Los Zigarros](https://open.spotify.com/album/2j5gSZN3pvMMBSLBJ6dhNP) | 3:17 |
 | 83 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 97 | [Que Hace una Chica Como Tu en un Sitio Como Este](https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:07 |
 | 98 | [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 |
 | 99 | [Cada vez duele menos](https://open.spotify.com/track/5lSYmIvz1g7hUtEqLdnQrK) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Cada vez duele menos](https://open.spotify.com/album/3kx2BKb2kpAtnvC1OHVRiO) | 3:46 |
-| 100 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 |
+| 100 | [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe) | [Mikel Erentxun](https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO), [Víctor Cabezuelo](https://open.spotify.com/artist/2Ba0v7AY4kqOmlHSCdEm2M) | [En algún lugar \(feat\. Santi Balmes & Víctor Cabezuelo\)](https://open.spotify.com/album/5rUQe1NWnm6Aw1TcUfoJQY) | 3:58 |
 
 Snapshot ID: `Zj3zgAAAAAA+9wvL/mHj9xMuIGZtEys6`

@@ -1,6 +1,6 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 197688,
+  "num_followers": 197703,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-10 04:42:44",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 232063,
-      "name": "Worth",
-      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
-    },
-    {
-      "added_at": "2024-05-10 04:42:44",
-      "album": {
         "name": "This Is Freedom (Ain't No Rock) [Live]",
         "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 344125,
       "name": "This Is Freedom (Ain't No Rock) - Live",
       "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
+    },
+    {
+      "added_at": "2024-05-10 04:42:44",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 232063,
+      "name": "Worth",
+      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
     },
     {
       "added_at": "2024-05-10 04:42:44",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-05-10 04:42:44",
       "album": {
-        "name": "More Than Halfway",
-        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 221453,
-      "name": "More Than Halfway",
-      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
-    },
-    {
-      "added_at": "2024-05-10 04:42:44",
-      "album": {
         "name": "You, Me, The Church, That's Us - Side B",
         "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 188120,
       "name": "Word - Live",
       "url": "https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg"
+    },
+    {
+      "added_at": "2024-05-10 04:42:44",
+      "album": {
+        "name": "More Than Halfway",
+        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 221453,
+      "name": "More Than Halfway",
+      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
     },
     {
       "added_at": "2024-05-10 04:42:44",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-05-10 04:42:44",
       "album": {
-        "name": "HEY GOD",
-        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
-      },
-      "artists": [
-        {
-          "name": "KAYDEN",
-          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "HEY GOD",
-      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
-    },
-    {
-      "added_at": "2024-05-10 04:42:44",
-      "album": {
         "name": "High Low (Remix)",
         "url": "https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 164383,
       "name": "High Low - Remix",
       "url": "https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN"
+    },
+    {
+      "added_at": "2024-05-10 04:42:44",
+      "album": {
+        "name": "HEY GOD",
+        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
+      },
+      "artists": [
+        {
+          "name": "KAYDEN",
+          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "HEY GOD",
+      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
     },
     {
       "added_at": "2024-05-10 04:42:44",
@@ -1315,6 +1315,22 @@
       "duration_ms": 293706,
       "name": "Praise",
       "url": "https://open.spotify.com/track/4Ot0zyWL4fzzVuduj6GZ9L"
+    },
+    {
+      "added_at": "2024-05-10 04:42:44",
+      "album": {
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     },
     {
       "added_at": "2024-05-10 04:42:44",
@@ -1359,22 +1375,6 @@
       "duration_ms": 196738,
       "name": "Overcomer - Julie and Ruslan Remix",
       "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
-    },
-    {
-      "added_at": "2024-05-10 04:42:44",
-      "album": {
-        "name": "I Will Follow You (Live)",
-        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 231123,
-      "name": "I Will Follow You - Live",
-      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     },
     {
       "added_at": "2024-05-10 04:42:44",

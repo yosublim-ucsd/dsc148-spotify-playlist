@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: キタニタツヤ
 
-447 songs - 1 day 2 hr 2 min
+448 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 | 2024-03-26 | 2024-05-08 |
 | [Abrupt](https://open.spotify.com/track/1ALEFBi1WTJXbWjOhA1WTd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [Abrupt](https://open.spotify.com/album/31cifPhTXIuhZbqDv9pAg3) | 3:11 | 2024-02-20 | 2024-03-01 |
 | [Adventure](https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Adventure](https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g) | 3:20 | 2024-02-15 | 2024-03-02 |
+| [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 | 2024-05-15 |  |
 | [Ai need your love](https://open.spotify.com/track/5IKcZuIuzKyx7hyqKTY7cg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai need your love](https://open.spotify.com/album/7fg7uDn8Dhslc4DqBlnbmw) | 3:46 | 2023-11-29 | 2023-12-20 |
 | [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 | 2024-05-14 |  |
 | [Almost 20](https://open.spotify.com/track/0GzfMhBaODjHyGYCbdmI6x) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 3:22 | 2024-03-05 | 2024-04-24 |
@@ -45,7 +46,7 @@
 | [bugs](https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [bugs](https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7) | 3:59 | 2024-01-31 | 2024-03-06 |
 | [Buriki No Dance](https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Buriki No Dance](https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk) | 3:19 | 2023-11-29 | 2023-12-13 |
 | [Champion Road](https://open.spotify.com/track/7rnBYJ8higmgHsdi9NfvQy) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP \(BHG Edition\)](https://open.spotify.com/album/6UnXZYwHf7Yqiqv87k7o89) | 3:42 | 2024-02-16 | 2024-03-08 |
-| [Champions](https://open.spotify.com/track/07n4Wa9DmDyZyeyoba6dtA) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Champions](https://open.spotify.com/album/2AlTOHvsl8jYqVxGgsvXqe) | 4:37 | 2024-04-30 |  |
+| [Champions](https://open.spotify.com/track/07n4Wa9DmDyZyeyoba6dtA) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Champions](https://open.spotify.com/album/2AlTOHvsl8jYqVxGgsvXqe) | 4:37 | 2024-04-30 | 2024-05-16 |
 | [CHAOS](https://open.spotify.com/track/0zeE7GWhYlWink9gQgAsQ6) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [CHAOS](https://open.spotify.com/album/7jo87kWPoxGUeoBCYxTztz) | 3:39 | 2024-03-26 | 2024-04-03 |
 | [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/track/25ZpVBEhPmKuMwJHVbUXIG) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Cheat Life \(feat\. punchnello\)\(prod\. by GRAY\)](https://open.spotify.com/album/3Tk0EPZRaUwlNyRhrUFxOL) | 2:34 | 2023-11-23 | 2023-12-13 |
 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 | 2024-01-31 | 2024-02-10 |

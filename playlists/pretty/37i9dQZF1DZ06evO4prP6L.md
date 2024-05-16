@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,944 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,949 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 49 | [Country Girls \- Remastered 2017](https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The Outback Club](https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr) | 3:14 |
 | 50 | [Dirt \- Remastered 2017](https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:20 |
 
-Snapshot ID: `ZkFYAAAAAACPHL/2hipuijqQaw9HNxJR`
+Snapshot ID: `ZkKpgAAAAAA0HtvPBZI85O1jHL9Ji6s+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 李榮浩 \(Ronghao Li\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,858 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,964 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 22 | [I Hate Myself Sometimes](https://open.spotify.com/track/5znau6BqFcgBkyQGcOutil) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [I Hate Myself Sometimes](https://open.spotify.com/album/7HSZCDvflTWrGFVuoDeLX7) | 2:54 |
 | 23 | [Cardi](https://open.spotify.com/track/5CMQIrCdmbcy45RZD41xa6) | [Denzel Cheng](https://open.spotify.com/artist/6HdMvBWAXWnxX5LEWlgluN) | [Cardi](https://open.spotify.com/album/4E6CE4oIXH6fDff3VvgX4p) | 2:22 |
 | 24 | [必巡 \(三立戲劇《含笑食堂》片尾曲/《嘉慶君遊臺灣》片頭曲\)](https://open.spotify.com/track/3MHs8CC273iKTyGLVrLwxG) | [曾瑋中](https://open.spotify.com/artist/7zY8finbugZLFpNfwNe4qW) | [總會有一工](https://open.spotify.com/album/6jyy3GnC8nOShlkmv6xKkV) | 4:26 |
-| 25 | [MORE LIFE](https://open.spotify.com/track/3hkgXpiKZSGP4pSimNEIig) | [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau), [ZEO 水神](https://open.spotify.com/artist/5mqAXFgQBOP8ZKFEZVhIiI) | [MORE LIFE](https://open.spotify.com/album/4Rlesg8EvTOvAztLPGxFRK) | 2:22 |
+| 25 | [MORE LIFE](https://open.spotify.com/track/3hkgXpiKZSGP4pSimNEIig) | [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau), [ZEO](https://open.spotify.com/artist/7vtia4HP3xY8RPfBLIvkM6) | [MORE LIFE](https://open.spotify.com/album/4Rlesg8EvTOvAztLPGxFRK) | 2:22 |
 | 26 | [雪 Distance](https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC) | [Capper](https://open.spotify.com/artist/0NWX8s7X9gtjad7sIB0uba), [羅言](https://open.spotify.com/artist/4ubrvBBuK8sxibCYU5JSUf) | [Uniconfication](https://open.spotify.com/album/7xlWrNZ5NHxhQz9hHFqgbv) | 2:45 |
 | 27 | [Sad Melody](https://open.spotify.com/track/6GVwWeD84JggU70yWK441Z) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [Sad Melody](https://open.spotify.com/album/3LTCtS2B7kyUKm9scxmP34) | 4:00 |
 | 28 | [善良的我們](https://open.spotify.com/track/4pKP9CQMrspu58JW0SUrSS) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 3:55 |

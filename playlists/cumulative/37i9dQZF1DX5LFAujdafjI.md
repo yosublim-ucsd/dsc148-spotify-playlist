@@ -4,7 +4,7 @@
 
 > 2024 line up reveal! For your pre\-games, afters, spurts of manic cleaning, and everything in between\. Curated by the Portola Festival Department of Science and Research.
 
-157 songs - 10 hr 17 min
+158 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Simple Times](https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Simple Times](https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13) | 4:14 | 2024-05-13 |  |
 | [Snakes Crawl \- East Village Mix](https://open.spotify.com/track/2cjgYQF4OqfM8Xgl7vV4No) | [Phil Kieran](https://open.spotify.com/artist/7fVBYlm65H50HLNLAQHBt5), [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Snakes Crawl EP](https://open.spotify.com/album/1hc74ZF3XlNoCN4BBCWHIO) | 4:08 | 2023-11-13 | 2024-05-14 |
 | [So Fly](https://open.spotify.com/track/64pF7ja6ndGYpYsADBrmpt) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [So Fly](https://open.spotify.com/album/4tlYRI9bDdWGBHzKa80hOx) | 2:36 | 2023-11-13 | 2024-05-14 |
+| [So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [So What If I'm A Freak](https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ) | 2:26 | 2024-05-15 |  |
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-25 | 2024-05-14 |
 | [Stayin' Alive](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 | 2023-09-25 | 2024-04-19 |
 | [Stayin' Alive \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:45 | 2023-11-13 | 2024-05-14 |
@@ -155,7 +156,7 @@
 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 | 2023-09-25 | 2024-05-14 |
 | [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-05-13 |  |
 | [Tumbling Dice](https://open.spotify.com/track/7pkV6Xq6oSs3Lwps6bHTGn) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:55 | 2023-09-25 | 2024-05-14 |
-| [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 | 2024-05-13 |  |
+| [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 | 2024-05-13 | 2024-05-16 |
 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 | 2024-05-13 |  |
 | [VIRUS \- Odd Mob Remix](https://open.spotify.com/track/0MyfdGptOUnUnGzJmiyCOG) | [GEN.KLOUD](https://open.spotify.com/artist/5SA5qxjYXQTxjQ56s22J4q), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [AUTONOMY \(REMIXES\)](https://open.spotify.com/album/7BIq8KJwrUVHaRsDNY5glN) | 3:04 | 2023-11-13 | 2024-05-14 |
 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 | 2023-09-25 | 2024-05-14 |

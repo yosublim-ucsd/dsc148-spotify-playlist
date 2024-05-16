@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "The Seventh One",
+        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269226,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
+    },
+    {
+      "album": {
         "name": "Seals & Crofts' Greatest Hits",
         "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"

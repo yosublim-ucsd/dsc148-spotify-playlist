@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
-  "num_followers": 389033,
+  "num_followers": 389027,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
+        "name": "Miriam Collection",
+        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
+      },
+      "artists": [
+        {
+          "name": "Miriam Cruz",
+          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "La Loba",
+      "url": "https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
         "name": "Merengues Cl\u00e1sicos de los 80's, Vol. 1",
         "url": "https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 219871,
       "name": "Tu Belleza",
       "url": "https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya"
-      },
-      "artists": [
-        {
-          "name": "Jerry Legrand",
-          "url": "https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe"
-        }
-      ],
-      "duration_ms": 268104,
-      "name": "Todo Me Gusta de Ti",
-      "url": "https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
-        "url": "https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya"
       },
       "artists": [
         {
-          "name": "Confusion",
-          "url": "https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE"
+          "name": "Jerry Legrand",
+          "url": "https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe"
         }
       ],
-      "duration_ms": 316302,
-      "name": "Caminando por la Vida",
-      "url": "https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu"
+      "duration_ms": 268104,
+      "name": "Todo Me Gusta de Ti",
+      "url": "https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Miriam Collection",
-        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
+        "url": "https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv"
       },
       "artists": [
         {
-          "name": "Miriam Cruz",
-          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
+          "name": "Confusion",
+          "url": "https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE"
         }
       ],
-      "duration_ms": 259519,
-      "name": "La Loba",
-      "url": "https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk"
+      "duration_ms": 316302,
+      "name": "Caminando por la Vida",
+      "url": "https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu"
     },
     {
       "added_at": "2024-03-28 01:35:59",

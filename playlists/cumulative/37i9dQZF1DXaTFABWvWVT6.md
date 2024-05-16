@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-134 songs - 7 hr 52 min
+135 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Colourblind](https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Colourblind](https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy) | 3:05 | 2023-05-19 | 2023-09-02 |
 | [Compute](https://open.spotify.com/track/4gqTC1qq0dQxZ2sGMqfZgo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 4:23 | 2024-03-22 | 2024-04-19 |
 | [Compute](https://open.spotify.com/track/7LNsgTO7ipNPLE10Nn7iR7) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R) | 4:23 | 2023-10-06 | 2024-01-02 |
-| [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 | 2024-03-01 |  |
+| [Costa](https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Costa](https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7) | 3:36 | 2024-03-01 | 2024-05-16 |
 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 | 2022-07-18 | 2023-09-02 |
 | [Dog Days](https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Dog Days](https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8) | 3:43 | 2023-11-24 |  |
 | [Don't Break My Heart](https://open.spotify.com/track/4FlUR0F8qDcCJoppxn4UFZ) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Break My Heart](https://open.spotify.com/album/00aSM0hWFLEe2wFZ3LiPxn) | 3:47 | 2023-09-22 | 2023-10-06 |
@@ -87,6 +87,7 @@
 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 | 2023-10-06 | 2024-04-05 |
 | [Let's Begin](https://open.spotify.com/track/46Fsgmz1Zc5ZMmhqFGmjaF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Let's Begin](https://open.spotify.com/album/2QB0mD6cQ2yPnMmo4QaoN8) | 2:53 | 2023-11-24 | 2024-03-23 |
 | [LET'S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET'S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-07-18 | 2024-03-01 |
+| [Lights Out](https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Lights Out](https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB) | 3:38 | 2024-05-10 |  |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-05-19 | 2023-10-06 |
 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 | 2023-05-19 | 2023-10-06 |
 | [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 | 2024-04-05 |  |

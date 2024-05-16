@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 338699,
+  "num_followers": 338816,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Will You Be My Yellow?",
-        "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 173349,
-      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
         "name": "Black Magic Woman",
         "url": "https://open.spotify.com/album/4tWsyDsJaSDp0Z0PTa0vLP"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 218625,
       "name": "Black Magic Woman",
       "url": "https://open.spotify.com/track/6Y1szSzgBTj39XorUpxGXV"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
+        "name": "Will You Be My Yellow?",
+        "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 173349,
+      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -791,18 +791,22 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+        "name": "i can't go outside",
+        "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
       },
       "artists": [
         {
           "name": "Channel Tres",
           "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+      "duration_ms": 248764,
+      "name": "fuego (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -963,22 +967,18 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "i can't go outside",
-        "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
       },
       "artists": [
         {
           "name": "Channel Tres",
           "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 248764,
-      "name": "fuego (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Holier (JD. REID Remix feat. Shygirl)",
-        "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "JD. REID",
-          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Holier - JD. REID Remix feat. Shygirl",
-      "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 197277,
       "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
       "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
+        "name": "Holier (JD. REID Remix feat. Shygirl)",
+        "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "JD. REID",
+          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Holier - JD. REID Remix feat. Shygirl",
+      "url": "https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD"
     },
     {
       "added_at": "2024-04-04 15:22:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Luke Hemmings
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,817 likes - 105 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,779 likes - 105 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 2 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 |
 | 3 | [take the hit](https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything and nothing](https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO) | 2:20 |
 | 4 | [Try Again](https://open.spotify.com/track/2Jdo2UwlQMc0AySBT7T2EZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Try Again](https://open.spotify.com/album/7LikYERyfpoxZdjyezrJiN) | 3:31 |
-| 5 | [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:46 |
+| 5 | [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:43 |
 | 6 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 |
 | 7 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 |
 | 8 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 94 | [I'm Different Now](https://open.spotify.com/track/0Ff2ltrgOMd3IVNJRnD4PD) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [I'm Different Now](https://open.spotify.com/album/6pwcK3JeJsT865X43eOFCW) | 3:09 |
 | 95 | [Forget About You \(with Pink Sweat$\)](https://open.spotify.com/track/7K84vL9TnKyLBN2tgCYBzQ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Forget About You \(with Pink Sweat$\)](https://open.spotify.com/album/2mwO1hWpMx0vB3OqZkHuON) | 2:30 |
 | 96 | [why dont we go](https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [why dont we go](https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q) | 2:46 |
-| 97 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 |
+| 97 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 |
 | 98 | [Proud](https://open.spotify.com/track/43hgaexgdv1COrIJi5DlbN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Proud](https://open.spotify.com/album/3HEfD8zUlWj3BQtArGnx7Y) | 3:05 |
 | 99 | [Cool Girl](https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:00 |
 | 100 | [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 |

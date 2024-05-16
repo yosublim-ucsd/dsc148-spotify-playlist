@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Refused
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,714 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,719 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 38 | [Savory](https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N) | [Jawbox](https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP) | [For Your Own Special Sweetheart](https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt) | 4:39 |
 | 39 | [Back And To The Left](https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ) | [Texas Is The Reason](https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8) | [Do You Know Who You Are?: The Complete Collection](https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7) | 3:55 |
 | 40 | [While Oceana Sleeps](https://open.spotify.com/track/0zgEbB05wAnOHQ9XRupLwX) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Porcelain](https://open.spotify.com/album/17Mq1v9fKGSmCabI7DaV4S) | 4:24 |
-| 41 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
-| 42 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 |
-| 43 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
+| 41 | [Love Rhymes With Hideous Car Wreck](https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Crimes \(Bonus Track Version\)](https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F) | 3:14 |
+| 42 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
+| 43 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 |
 | 44 | [Siberian Kiss \- 2009 Remaster](https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:49 |
-| 45 | [Love Rhymes With Hideous Car Wreck](https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Crimes \(Bonus Track Version\)](https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F) | 3:14 |
+| 45 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 |
 | 46 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 |
 | 47 | [Venus and Bacchus](https://open.spotify.com/track/10G4c1yAJymTIKTvPYP2Pm) | [Saetia](https://open.spotify.com/artist/5piONaqFh85tIjxSQgZuWA) | [Collected](https://open.spotify.com/album/63tBBmuRFk2tTIF4AeffOU) | 3:19 |
-| 48 | [I Can Climb Mountains](https://open.spotify.com/track/0Y42Kib9ZqjdJkgd6vtvnV) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [The Neon Handshake](https://open.spotify.com/album/13emeERNt6pPdmBwodNztx) | 3:20 |
+| 48 | [Set Fire to the Face on Fire](https://open.spotify.com/track/544Ptp7zIMQ1F6qkQBEIgf) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Young Machetes \(Bonus Track Version\)](https://open.spotify.com/album/0zpZ1eqa0511ir5kNZriB5) | 2:19 |
 | 49 | [Earthquakes and Sharks](https://open.spotify.com/track/7jATtiR7Sjfke3qKdA5HEd) | [Brandtson](https://open.spotify.com/artist/4wlNIqMnqGY8g2lcFTkzsY) | [Hello, Control.](https://open.spotify.com/album/6vfntMjrhjePcDe48vXOwz) | 2:57 |
-| 50 | [Caught in a Flood With the Captain of the Cheerleading Squad](https://open.spotify.com/track/3HlL9LqIdf1v4C3BIK9dQA) | [I Hate Myself](https://open.spotify.com/artist/5m858bXqt99f2hWD72hySB) | [Ten Songs](https://open.spotify.com/album/3jLWGkPi9b5xbrrFaQIpzH) | 3:26 |
+| 50 | [I Can Climb Mountains](https://open.spotify.com/track/0Y42Kib9ZqjdJkgd6vtvnV) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [The Neon Handshake](https://open.spotify.com/album/13emeERNt6pPdmBwodNztx) | 3:20 |
 
 Snapshot ID: `ZIsXWwAAAACE6XL2vMolGhVxsvKbMnOr`

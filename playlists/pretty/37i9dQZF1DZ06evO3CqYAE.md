@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,256 likes - 48 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,270 likes - 48 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 47 | [Jesus Never Fails](https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus Never Fails](https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj) | 5:28 |
 | 48 | [Trust](https://open.spotify.com/track/0My8DVXf12YQFJicl20tAW) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Trust](https://open.spotify.com/album/7ADT3sHzKtro6GCqcCv0FN) | 2:53 |
 
-Snapshot ID: `ZkFYAAAAAADqf4u1WGoTkUrj7OlyYT+Z`
+Snapshot ID: `ZkKpgAAAAACDvNA1S4xteNJzGZmieUVE`

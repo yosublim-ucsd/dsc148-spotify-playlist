@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,033 likes - 150 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,027 likes - 150 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,14 +83,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 73 | [La Nave Del Olvido](https://open.spotify.com/track/7KCj9ZAENKI71pJvF2bfnU) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [100% Merengue '99](https://open.spotify.com/album/5oytlALvjjbQFuM6G7i4MZ) | 4:45 |
 | 74 | [Culpable O No \- En Vivo](https://open.spotify.com/track/6Q53A9fvMQ2eMgP33SL18R) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:35 |
 | 75 | [Cuando Llegara](https://open.spotify.com/track/17PhuPpYpMv2Jnb6HOHdYb) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/6a2IqhC6p4EExbsoMrYpso) | 4:12 |
-| 76 | [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 |
-| 77 | [Todo Me Gusta de Ti](https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6) | [Jerry Legrand](https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe) | [Exitos](https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya) | 4:28 |
+| 76 | [La Loba](https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 4:19 |
+| 77 | [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 |
 | 78 | [Te Quiero](https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Los Toros Band..\. "Pa' La Calle"](https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO) | 3:54 |
 | 79 | [Nadie Me Brinda Na'](https://open.spotify.com/track/6ZRcNiFhbuSisisClh4Axr) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:55 |
 | 80 | [Que Es Lo Que Tienes](https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
-| 81 | [Caminando por la Vida](https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu) | [Confusion](https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 5:16 |
+| 81 | [Todo Me Gusta de Ti](https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6) | [Jerry Legrand](https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe) | [Exitos](https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya) | 4:28 |
 | 82 | [Como Duele \- En Vivo](https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:33 |
-| 83 | [La Loba](https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 4:19 |
+| 83 | [Caminando por la Vida](https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu) | [Confusion](https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 5:16 |
 | 84 | [Nuestro Amor](https://open.spotify.com/track/4sEqK8SeihEwDySmsf2Zed) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/0ZtKfpi3mUYi1T2n8SMoh5) | 3:40 |
 | 85 | [Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon](https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Raices](https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz) | 6:19 |
 | 86 | [Peluche](https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f) | [Los Reyes Del Caribe](https://open.spotify.com/artist/52xfmIPS4Adi3h7AhRNMSe) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 3:50 |

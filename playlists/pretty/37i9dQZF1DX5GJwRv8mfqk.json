@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 117242,
+  "num_followers": 117316,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Sigo De Pie",
+        "url": "https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB"
+      },
+      "artists": [
+        {
+          "name": "Banda Legal",
+          "url": "https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj"
+        }
+      ],
+      "duration_ms": 195223,
+      "name": "Y Si Es Posible",
+      "url": "https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Desde El Estudio Andaluz Music",
         "url": "https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 199533,
       "name": "Ya Estuvo Bueno",
       "url": "https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Sigo De Pie",
-        "url": "https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB"
-      },
-      "artists": [
-        {
-          "name": "Banda Legal",
-          "url": "https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj"
-        }
-      ],
-      "duration_ms": 195223,
-      "name": "Y Si Es Posible",
-      "url": "https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Por Si Te Interesa",
-        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
-      },
-      "artists": [
-        {
-          "name": "Los Del Arroyo",
-          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Por Si Te Interesa",
-      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Con Todo Incluido",
         "url": "https://open.spotify.com/album/2izHnHlQEWkSCTEEqXEktH"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 220053,
       "name": "Tambi\u00e9n Me Gusta Que Me Quieras",
       "url": "https://open.spotify.com/track/5yttvXNSdXOjVjleueo2nm"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Por Si Te Interesa",
+        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
+      },
+      "artists": [
+        {
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Por Si Te Interesa",
+      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Estoy Listo",
-        "url": "https://open.spotify.com/album/0pQR2T6VftJykRHPAUkYsI"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 189633,
-      "name": "Estoy Listo",
-      "url": "https://open.spotify.com/track/4FYj4bZIMhRDfnxZXXTDyk"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Vida Sinaloense",
         "url": "https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 185186,
       "name": "No He Podido Olvidarte",
       "url": "https://open.spotify.com/track/66vieJDTLIGcwXegEz7RG6"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Estoy Listo",
+        "url": "https://open.spotify.com/album/0pQR2T6VftJykRHPAUkYsI"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 189633,
+      "name": "Estoy Listo",
+      "url": "https://open.spotify.com/track/4FYj4bZIMhRDfnxZXXTDyk"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Gallo Fino",
-        "url": "https://open.spotify.com/album/2kJwxhrph41CehsndRr6XQ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 193558,
-      "name": "Que Al Cabo Ni Quer\u00eda - Versi\u00f3n Ranchera",
-      "url": "https://open.spotify.com/track/7hAjEDGw4ejftFFPKe7LoT"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 132760,
       "name": "Bajo La Misma Luna",
       "url": "https://open.spotify.com/track/4eGSrENFHAieXpWWhGDkZq"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Gallo Fino",
+        "url": "https://open.spotify.com/album/2kJwxhrph41CehsndRr6XQ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 193558,
+      "name": "Que Al Cabo Ni Quer\u00eda - Versi\u00f3n Ranchera",
+      "url": "https://open.spotify.com/track/7hAjEDGw4ejftFFPKe7LoT"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Gallo Fino",
-        "url": "https://open.spotify.com/album/2kJwxhrph41CehsndRr6XQ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 185057,
-      "name": "Que Al Cabo Ni Quer\u00eda - Versi\u00f3n Alterada - Bonus Track",
-      "url": "https://open.spotify.com/track/4P6u9NIGVwm3mNiWdn4s6V"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Vida Sinaloense",
         "url": "https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 148453,
       "name": "Vida Sinaloense",
       "url": "https://open.spotify.com/track/6cFImFKRSjUcz3paXEEtTP"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Gallo Fino",
+        "url": "https://open.spotify.com/album/2kJwxhrph41CehsndRr6XQ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 185057,
+      "name": "Que Al Cabo Ni Quer\u00eda - Versi\u00f3n Alterada - Bonus Track",
+      "url": "https://open.spotify.com/track/4P6u9NIGVwm3mNiWdn4s6V"
     },
     {
       "added_at": "2022-05-25 16:50:02",

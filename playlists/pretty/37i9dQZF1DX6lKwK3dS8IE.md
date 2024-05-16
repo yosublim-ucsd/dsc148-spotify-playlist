@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,641 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,643 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 24 | [Walk Away](https://open.spotify.com/track/36hTYlFbEsH2SOu24KJNtH) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 4:16 |
 | 25 | [Survival Song](https://open.spotify.com/track/47hr9KDPHYmOCCd0aj3Q04) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 2:28 |
 | 26 | [Armchair Anarchism](https://open.spotify.com/track/3p7v07Sm6ItF5GFYMsQdkZ) | [Not Half Bad](https://open.spotify.com/artist/3oOlOS93V6ex5t5lrvZ7s7) | [Dorks / Nerds](https://open.spotify.com/album/2iNrQMInnce84QaUwlOTUw) | 2:26 |
-| 27 | [Twin Size Mattress](https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs) | 4:24 |
-| 28 | [Springwater](https://open.spotify.com/track/5XS17WKzCivfD3aaK6Vuet) | [Birdcloud](https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo) | [Singles Only](https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL) | 1:50 |
-| 29 | [Cult Boyfriend](https://open.spotify.com/track/4yYkAGcxY6H0NtNaRTzmpH) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [A Turn in the Dream\-Songs](https://open.spotify.com/album/7HqSmbT8eQWB9Ta65a7sAi) | 2:36 |
+| 27 | [Springwater](https://open.spotify.com/track/5XS17WKzCivfD3aaK6Vuet) | [Birdcloud](https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo) | [Singles Only](https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL) | 1:50 |
+| 28 | [Cult Boyfriend](https://open.spotify.com/track/4yYkAGcxY6H0NtNaRTzmpH) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [A Turn in the Dream\-Songs](https://open.spotify.com/album/7HqSmbT8eQWB9Ta65a7sAi) | 2:36 |
+| 29 | [Twin Size Mattress](https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs) | 4:24 |
 | 30 | [Tangled in Ropes](https://open.spotify.com/track/78IKSH3rgDaL8GyXV06OKP) | [Holy Locust](https://open.spotify.com/artist/53pzYGtCFFFYEnDy7I21KQ) | [Fever Dream](https://open.spotify.com/album/6Voz4CbRCeBmjOAl6cQYeO) | 5:14 |
 | 31 | [Bring It Home \(feat\. Jaime Wyatt\)](https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:22 |
 | 32 | [Thinking About a Potentially Awkward Interaction with an Old Friend](https://open.spotify.com/track/60D1sWe1mCWVRnfCOj9FIE) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ), [COMMUTED](https://open.spotify.com/artist/6cawYhCvtkb5aEr1ZpjbGT) | [Just Popping in to Say Hi](https://open.spotify.com/album/5hlppuKaSHTx8E58QAMrE3) | 2:44 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 35 | [Once a Loser Aways a Loser](https://open.spotify.com/track/4FBoTpxUkJtJsr5qyY3mSF) | [HappyHappy](https://open.spotify.com/artist/6lBNYwZyzu3pes9Ldf9mkw) | [HappyHappy](https://open.spotify.com/album/2GuPxUaRFiBW2ThTYmT3xp) | 4:57 |
 | 36 | [I Know How It Feels](https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [I Know How It Feels](https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI) | 2:46 |
 | 37 | [Devil's Will](https://open.spotify.com/track/12A6vaFlMMGVOxwTrLjexL) | [Cousin Boneless](https://open.spotify.com/artist/5fPPvbwNTcwUlHEnupabeg) | [Revel in the Rubble](https://open.spotify.com/album/3ZOYd7kYr7MBKJo7l0iyTf) | 3:54 |
-| 38 | [Critical Hit](https://open.spotify.com/track/2XCxUexRr4mxLqBwZoHg9I) | [Ghost Mice](https://open.spotify.com/artist/0TF5GTnQ6cdDVRhfGyIXM2) | [Death and Hatred to Mankind](https://open.spotify.com/album/5lIeYBB9sGqFZHPasYTr8t) | 1:59 |
-| 39 | [I Saw a Hippie Girl on 8th Ave](https://open.spotify.com/track/1lmsq361YTwZC9ftorAGIu) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [It's the Ones Who've Cracked That the Light Shines Through](https://open.spotify.com/album/4GqPBbYTgJ8PrYV3fSB7Db) | 2:02 |
+| 38 | [I Saw a Hippie Girl on 8th Ave](https://open.spotify.com/track/1lmsq361YTwZC9ftorAGIu) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [It's the Ones Who've Cracked That the Light Shines Through](https://open.spotify.com/album/4GqPBbYTgJ8PrYV3fSB7Db) | 2:02 |
+| 39 | [Critical Hit](https://open.spotify.com/track/2XCxUexRr4mxLqBwZoHg9I) | [Ghost Mice](https://open.spotify.com/artist/0TF5GTnQ6cdDVRhfGyIXM2) | [Death and Hatred to Mankind](https://open.spotify.com/album/5lIeYBB9sGqFZHPasYTr8t) | 1:59 |
 | 40 | [heavens to murgatroyd! \(exit stage left, even!\)](https://open.spotify.com/track/0GkZUyS44NvAOp4aRQK0RM) | [The Official Bard of Baldwin County](https://open.spotify.com/artist/1t9P3blGpfZPEOwNIfwk9f) | [the patron saint of something](https://open.spotify.com/album/6bv9D8AebF3JvroDuozvND) | 2:50 |
 | 41 | [Coming of Age](https://open.spotify.com/track/7cy8bN353JaUkc6qeTRg6B) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Coming of Age](https://open.spotify.com/album/1QduDQX8LXLJVTqvrFfbSf) | 3:48 |
 | 42 | [Shadows Follow You](https://open.spotify.com/track/70ocBhBQfu6gRbGZJdMl0h) | [Dogtooth & Nail](https://open.spotify.com/artist/3TzCgwT2fJB0oh2vggswZ9) | [Learning How to Unlearn](https://open.spotify.com/album/2ri1PLSmxfnM0yhamVmHz4) | 3:15 |

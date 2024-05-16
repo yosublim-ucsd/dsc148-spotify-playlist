@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,937 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,033 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 26 | [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 |
 | 27 | [Kreislauf](https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kreislauf](https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07) | 3:27 |
 | 28 | [Erste große Freiheit](https://open.spotify.com/track/6V61cAkuLWBbCgUfInCafm) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Erste große Freiheit](https://open.spotify.com/album/7jXxuBaJyejbo3mawvLTex) | 2:21 |
-| 29 | [ich hoff du brichst mir das herz](https://open.spotify.com/track/6DhirTqLVokUliDHoeifV1) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/2xC2CRqglvHLuK0voIWseb) | 2:40 |
-| 30 | [Trippy Energy](https://open.spotify.com/track/7oxqDCr1lc2vy0RajpZZY1) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Trippy Energy](https://open.spotify.com/album/4x2l98hIcFBXfgEp6o6FWQ) | 2:01 |
-| 31 | [Two Bodies In A Bed](https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Two Bodies In A Bed](https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L) | 3:41 |
-| 32 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
+| 29 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
+| 30 | [ich hoff du brichst mir das herz](https://open.spotify.com/track/6DhirTqLVokUliDHoeifV1) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/2xC2CRqglvHLuK0voIWseb) | 2:40 |
+| 31 | [Trippy Energy](https://open.spotify.com/track/7oxqDCr1lc2vy0RajpZZY1) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Trippy Energy](https://open.spotify.com/album/4x2l98hIcFBXfgEp6o6FWQ) | 2:01 |
+| 32 | [Two Bodies In A Bed](https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Two Bodies In A Bed](https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L) | 3:41 |
 | 33 | [Nicht Ich](https://open.spotify.com/track/6yYsu5AdhasHKhjP4u7V7n) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nicht Ich](https://open.spotify.com/album/7watQnItLt86vUTFSf7259) | 3:41 |
 | 34 | [taugenichts](https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:36 |
 | 35 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |

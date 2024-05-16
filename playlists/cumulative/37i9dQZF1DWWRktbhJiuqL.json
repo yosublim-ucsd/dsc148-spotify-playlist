@@ -2369,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Dream Machine",
+        "url": "https://open.spotify.com/album/7s0ZTcFsL35WUQycjHVPnn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2024-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "I Am The Lightning",
+      "url": "https://open.spotify.com/track/4wnCcp9LAL9aFl7hev8lg2"
+    },
+    {
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
       },
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 257946,
       "name": "Never Ending Moment",
       "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"

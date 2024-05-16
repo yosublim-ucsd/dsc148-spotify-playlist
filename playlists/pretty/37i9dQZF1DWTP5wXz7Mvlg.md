@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,310 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,322 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 4 | [Changing Moods](https://open.spotify.com/track/65GTRsXRYgSh6Se0ziQ6ep) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Innerground 100](https://open.spotify.com/album/51VA7pPbQh9AZxv8LDchbS) | 4:29 |
 | 5 | [Fatto In Casa](https://open.spotify.com/track/3ymGRP1GUiEkd63nwogvd4) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Fatto In Casa](https://open.spotify.com/album/7ef6O6G86dB4ru6mFj6Dcl) | 4:28 |
 | 6 | [Ill Vibe](https://open.spotify.com/track/6ztOiIeGpij1n1w3PDNbHS) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/1eM19niXbnucUMUs1Ljkre) | 4:28 |
-| 7 | [Sliding Gliding](https://open.spotify.com/track/4DPHd9trjYHc1EEdMaRhJd) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Dossa & Locuzzed](https://open.spotify.com/artist/1hjb2l5U7cvWiXBpTyQF39) | [Sliding Gliding](https://open.spotify.com/album/4eNrXH1JmhJaeSUzGmOc7C) | 4:12 |
+| 7 | [Sliding Gliding](https://open.spotify.com/track/4DPHd9trjYHc1EEdMaRhJd) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Dossa](https://open.spotify.com/artist/7KHm6mL7xNRACVaDkhrgiq), [Locuzzed](https://open.spotify.com/artist/6P60AuL5otqLuaPh5FZ2jG) | [Sliding Gliding](https://open.spotify.com/album/4eNrXH1JmhJaeSUzGmOc7C) | 4:12 |
 | 8 | [Moore's Law](https://open.spotify.com/track/4lgVbCE0R1gnM5igDvLtfh) | [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV) | [Moore's Law / Flawless](https://open.spotify.com/album/77FBxtfwHuqI7i0xI3vIEJ) | 4:27 |
 | 9 | [Like This](https://open.spotify.com/track/6hU8ZNdJbpncSye5IXmXzF) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs) | [Roll With It / Like This](https://open.spotify.com/album/6yP8tbWAEZT0Q23scueKnD) | 4:52 |
 | 10 | [Edge Of The World](https://open.spotify.com/track/54Y1t8Nt0wNMgdZ0eNQMf0) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [King](https://open.spotify.com/album/3l9BJmxZoTTzjRVJ1iqi8d) | 4:35 |

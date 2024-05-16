@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 565573,
+  "num_followers": 565899,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "7 Colours (The Remixes)",
+        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
+      },
+      "artists": [
+        {
+          "name": "Lost Witness",
+          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "7 Colours - Radio Edit",
+      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Brave New World (The Opera Song)",
         "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 212658,
       "name": "The Opera Song (Brave New World)",
       "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "7 Colours (The Remixes)",
-        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
-      },
-      "artists": [
-        {
-          "name": "Lost Witness",
-          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "7 Colours - Radio Edit",
-      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
     },
     {
       "added_at": "2023-08-11 10:02:57",

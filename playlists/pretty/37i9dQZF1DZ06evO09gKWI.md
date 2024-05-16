@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. The essential tracks, all in one playlist.
+> This is Bivolt\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 340 likes - 40 songs - 2 hr 18 min
 
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 39 | [Essa Onda](https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 3:08 |
 | 40 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
 
-Snapshot ID: `ZkFYAAAAAABlbB45HduRwETHHSDjUrkV`
+Snapshot ID: `ZkKpgAAAAADsEDeozA+KWlqlQlZxK1xc`

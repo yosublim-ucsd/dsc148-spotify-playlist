@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana.",
-  "num_followers": 930358,
+  "num_followers": 930427,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 179133,
       "name": "Tu Amante o Tu Enemigo",
       "url": "https://open.spotify.com/track/2xFcw6Oo4FsrO22fj1O8SA"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
-      },
-      "artists": [
-        {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
-        }
-      ],
-      "duration_ms": 263320,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Siempre Karina",
         "url": "https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 235760,
       "name": "A Quien",
       "url": "https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "duration_ms": 263320,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
     },
     {
       "added_at": "2020-06-24 19:34:30",

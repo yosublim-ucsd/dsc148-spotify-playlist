@@ -1,12 +1,12 @@
 {
-  "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 26590,
+  "description": "This Is Bobby Pulido. Los temas esenciales, todos en una lista.",
+  "num_followers": 26594,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAACsRm+rRH/W5bFCEaAOYdhE",
+  "snapshot_id": "ZkKpgAAAAABJxBmzSlG7lpgQLkRCa41C",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Margarita",
-      "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 189933,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "La Plancha",
-      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si No Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 194021,
       "name": "Si No Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "La Plancha",
+      "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Cumbia Vallenata",
+      "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde las Vegas",
         "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 296255,
       "name": "Intro / Se Muri\u00f3 de Amor - En Vivo",
       "url": "https://open.spotify.com/track/3Pwpg0uNftcanpfFwhcIlu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Que Baile Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Se Me Antoja",
-      "url": "https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
+        "name": "Para Que Baile Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b"
       },
       "artists": [
         {
@@ -796,9 +796,25 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Cumbia Vallenata",
-      "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+      "duration_ms": 187600,
+      "name": "Se Me Antoja",
+      "url": "https://open.spotify.com/track/42nsZ9ewqjMWc8Hy9A53St"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/6zpbZkfhTuywWpHcJVYOm5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inesperadamente",
         "url": "https://open.spotify.com/album/3t8iVE3ZSqgl7MRR3MfSYu"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ll\u00f3rame",
-        "url": "https://open.spotify.com/album/0XT8nEBbAPG8TTRc5ZwLqf"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186459,
-      "name": "Ll\u00f3rame",
-      "url": "https://open.spotify.com/track/2uBdikf4ImGwMP4UZCpt0W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3lo Hits (20 \u00c9xitos)",
         "url": "https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 184360,
       "name": "Las Movidas",
       "url": "https://open.spotify.com/track/6wOz26q5SbBru05Ur5hEr7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ll\u00f3rame",
+        "url": "https://open.spotify.com/album/0XT8nEBbAPG8TTRc5ZwLqf"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186459,
+      "name": "Ll\u00f3rame",
+      "url": "https://open.spotify.com/track/2uBdikf4ImGwMP4UZCpt0W"
     },
     {
       "added_at": null,

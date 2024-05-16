@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Elyanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,669 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,737 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 3 | [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 |
 | 4 | [Call Her Right Now](https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Motif Alumni](https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC) | [Call Her Right Now](https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14) | 2:17 |
 | 5 | [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 |
-| 6 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 |
+| 6 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 |
 | 7 | [push back \(feat\. GrzzLee\)](https://open.spotify.com/track/0x1Z1binRRDnQKL6ALG4x2) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6) | [push back \(feat\. GrzzLee\)](https://open.spotify.com/album/3VoZJdHv32izzxBHyjQdod) | 2:15 |
 | 8 | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x) | 2:53 |
 | 9 | [Batwanes Beek](https://open.spotify.com/track/1GeYUET3K5CwpkhsiwzUrV) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Batwanes Beek](https://open.spotify.com/album/4YxeCQ6xwltgmLZQyLwVVe) | 2:09 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 38 | [ON MY WAY](https://open.spotify.com/track/4ROX1uuhzvVlVAb1JD4QLt) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [ON MY WAY](https://open.spotify.com/album/4vuD3eA8e1R7gLCAcXC4Ut) | 3:32 |
 | 39 | [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 |
 | 40 | [Show Me](https://open.spotify.com/track/52PJYhZeFDUJD70NR3kYT3) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Show Me](https://open.spotify.com/album/400tCk424YR0fhAH3yj29v) | 3:21 |
-| 41 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
+| 41 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
 | 42 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 |
 | 43 | [complicated\_5](https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [complicated\_5](https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml) | 3:12 |
 | 44 | [OBSESSED](https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [OBSESSED](https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG) | 2:54 |

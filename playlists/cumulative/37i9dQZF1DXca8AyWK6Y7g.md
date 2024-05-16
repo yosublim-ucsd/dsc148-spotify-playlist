@@ -4,7 +4,7 @@
 
 > summer is beginning to peek through 📷 Devon Cole
 
-2,045 songs - 4 day 6 hr 56 min
+2,046 songs - 4 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1188,6 +1188,7 @@
 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-03-01 |  |
 | [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 | 2022-10-28 | 2022-12-24 |
 | [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-21 | 2022-10-30 |
+| [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-15 |  |
 | [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 | 2023-03-17 | 2024-01-05 |
 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 | 2024-02-16 |  |
 | [Missing Somebody](https://open.spotify.com/track/7sdBSpr1CRXtPE6yjKLDk2) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [This Is How The World Made Me](https://open.spotify.com/album/3ttrsJgrYIHhpbk1p85TGs) | 3:19 | 2022-06-24 | 2022-06-28 |
@@ -1203,7 +1204,7 @@
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-03-26 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-23 |  |
 | [Money](https://open.spotify.com/track/7dW77OTAuGxwlz4QDHUFUa) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Money / Sleeping In](https://open.spotify.com/album/5oGDO55PqgzbHBu4Z7CJQY) | 3:10 | 2019-09-06 | 2021-03-20 |
-| [Monster](https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Monster](https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE) | 3:19 | 2024-03-08 |  |
+| [Monster](https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Monster](https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE) | 3:19 | 2024-03-08 | 2024-05-16 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-04-27 | 2021-08-20 |
 | [Moonlight](https://open.spotify.com/track/5PG863bM3f6nnUel0e0AS3) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Moonlight](https://open.spotify.com/album/77Z6SanMi4623M4tRBMXQf) | 3:11 | 2021-03-19 | 2021-11-20 |
 | [More To You](https://open.spotify.com/track/3kpXsXVUkPus5T7Qld833K) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [More To You](https://open.spotify.com/album/5wOG2cUteiFYJ9u19jHkzL) | 3:54 | 2021-04-17 | 2021-05-25 |
@@ -1666,7 +1667,7 @@
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-18 | 2024-01-05 |
 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 | 2021-06-12 | 2021-11-20 |
 | [Spiral City](https://open.spotify.com/track/5KFyMWdNeEi5zGdrdXqofa) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Spiral City](https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5) | 2:29 | 2023-07-28 | 2023-09-16 |
-| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-04-12 |  |
+| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-12 |  |
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2019-06-27 | 2020-04-18 |
 | [stacy's brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [stacy's brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 | 2022-11-25 |  |
 | [Starlight](https://open.spotify.com/track/3nqVMuqHr47plQkOn4pfu5) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Starlight](https://open.spotify.com/album/3oCkgF8JN5ZsxAKGZU4U1f) | 4:02 | 2019-05-26\* | 2019-08-13 |

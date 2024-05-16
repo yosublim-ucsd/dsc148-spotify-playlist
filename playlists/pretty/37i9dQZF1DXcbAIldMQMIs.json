@@ -1,6 +1,6 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 533932,
+  "num_followers": 533945,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "ARIZONA BABY",
-        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 176732,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Loverboy",
         "url": "https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 224520,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "ARIZONA BABY",
+        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 176732,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "ERYS (Deluxe)",
         "url": "https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "drunk text",
-        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -775,6 +759,22 @@
       "duration_ms": 141520,
       "name": "Lil Baby Crush",
       "url": "https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "drunk text",
+        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
     },
     {
       "added_at": "2023-09-29 20:24:12",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 ### [This Is El Haragán y Compañía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C5R5V)
 
-> This Is El Haragán y Compañía\. Los temas esenciales, todos en una lista.
+> This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,195 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,204 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Yayo](https://open.spotify.com/track/554UiqN2TguT6PGTBAJGUo) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Yayo](https://open.spotify.com/album/7L3dnKcqyEBW1lNXf5p4wf) | 3:57 |
 | 50 | [Nena \- En Vivo](https://open.spotify.com/track/0g0dTi9c09eqbyezuzR1v6) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:47 |
 
-Snapshot ID: `ZkFYAAAAAAA/OgqvVLPFUu96+qv99vzD`
+Snapshot ID: `ZkFYAAAAAADrio9CqhsGmUcaDY23VkUN`

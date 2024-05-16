@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 260329,
+  "num_followers": 260319,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
+        "name": "Trilhas",
+        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Barquinho de papel",
+      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
         "name": "Meant to Be (Acoustic)",
         "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 173680,
       "name": "Mad World - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
-        "name": "Trilhas",
-        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "Barquinho de papel",
-      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Can't Tame Her (Acoustic)",
-        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can't Tame Her - Acoustic",
-      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 266720,
       "name": "Elastic Heart - Live from The Village",
       "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Can't Tame Her (Acoustic)",
+        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Can't Tame Her - Acoustic",
+      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Dancing On My Own (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 230553,
-      "name": "Dancing On My Own - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "FRIENDS (Acoustic)",
         "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 209434,
       "name": "FRIENDS - Acoustic",
       "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Veneno - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
         "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
         "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 138348,
       "name": "Love Me Now (feat. FAST BOY) - Acoustic",
       "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "Veneno - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "PSYCHO (Acoustic)",
-        "url": "https://open.spotify.com/album/6gQZTsyFmMPZ2vdh413QoK"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 140026,
-      "name": "PSYCHO - Acoustic",
-      "url": "https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 195578,
       "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "PSYCHO (Acoustic)",
+        "url": "https://open.spotify.com/album/6gQZTsyFmMPZ2vdh413QoK"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 140026,
+      "name": "PSYCHO - Acoustic",
+      "url": "https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA"
     },
     {
       "added_at": "2024-04-05 03:03:00",

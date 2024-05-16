@@ -1,6 +1,6 @@
 {
   "description": "Modernas, rebeldes y divertidas, \u00a1As\u00ed son ellas!",
-  "num_followers": 15948,
+  "num_followers": 15950,
   "original_name": "\u00a1Chicas Ye-y\u00e9!",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
+        "name": "Una Guitarra Espa\u00f1ola",
+        "url": "https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp"
+      },
+      "artists": [
+        {
+          "name": "Maleni Castro",
+          "url": "https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt"
+        }
+      ],
+      "duration_ms": 125467,
+      "name": "Snob Ye Ye",
+      "url": "https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
         "name": "Swinging Mademoiselles",
         "url": "https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb"
       },
@@ -443,18 +459,18 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Una Guitarra Espa\u00f1ola",
-        "url": "https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp"
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
       "artists": [
         {
-          "name": "Maleni Castro",
-          "url": "https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt"
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
         }
       ],
-      "duration_ms": 125467,
-      "name": "Snob Ye Ye",
-      "url": "https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX"
+      "duration_ms": 194080,
+      "name": "The \"In\" Crowd",
+      "url": "https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -475,22 +491,6 @@
       "duration_ms": 124653,
       "name": "Let's Shake Baby",
       "url": "https://open.spotify.com/track/4YxycWQkXTmhxFmlCzeVjg"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "The \"In\" Crowd",
-      "url": "https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8"
     },
     {
       "added_at": "2021-01-18 18:58:11",

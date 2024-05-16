@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,634 likes - 88 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,655 likes - 88 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 35 | [You’re Gonna Get The Glory \- Live](https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 8:01 |
 | 36 | [Famous For \(I Believe\) \[Sunday A.M\. Version\]](https://open.spotify.com/track/3O1OvEm2Kho4oEAMnnLXaP) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [Donald Lawrence & Company](https://open.spotify.com/artist/1haevnXTeIhKJSc04ly4as) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:38 |
 | 37 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 |
-| 38 | [Trusting God](https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW) | [Worth It](https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P) | 4:51 |
-| 39 | [Only One Night Tho \- Radio Edit / Live](https://open.spotify.com/track/7uEZ2aSvXYd2Qlnz12avMr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only One Night Tho \(Radio Edit / Live\)](https://open.spotify.com/album/2Tp2cYv7h7bFQGs4zLmyVs) | 3:50 |
+| 38 | [Only One Night Tho \- Radio Edit / Live](https://open.spotify.com/track/7uEZ2aSvXYd2Qlnz12avMr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only One Night Tho \(Radio Edit / Live\)](https://open.spotify.com/album/2Tp2cYv7h7bFQGs4zLmyVs) | 3:50 |
+| 39 | [Trusting God](https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW) | [Worth It](https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P) | 4:51 |
 | 40 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 |
 | 41 | [Burdens Down \- Live](https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 4:22 |
 | 42 | [Winning](https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Think About These Things](https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG) | 2:33 |

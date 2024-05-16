@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc?si=c0xGHotyQCSuDFFTvaX9gQ">Khanyisa</a>, <a href="https://open.spotify.com/artist/6B7gicAnGtCxLjMCYUodWy?si=GurL9e5fSAyyV9PXZMKjTQ">Lady Steezy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,055 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,304 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

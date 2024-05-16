@@ -866,7 +866,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 216333,
       "name": "Dreaming My Dreams",
       "url": "https://open.spotify.com/track/45ipml9tB0PVrLFAJegcWE"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180400,
       "name": "Free Animal",
       "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 166833,
       "name": "I Must Be In Love",
       "url": "https://open.spotify.com/track/1P9KM0iwzW8e900blTRJWJ"
@@ -4296,6 +4296,24 @@
       "duration_ms": 453600,
       "name": "There's No Other Place",
       "url": "https://open.spotify.com/track/2pFPvMME9cynR1dokBTHJJ"
+    },
+    {
+      "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "This Modern Love",
+      "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
     },
     {
       "album": {

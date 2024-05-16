@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0BRqs5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0BRqs5)
 
-### [This Is 藍井エイル](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
+### [This Is Eir Aoi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
 
-> This is 藍井エイル\. The essential tracks, all in one playlist.
+> This is Eir Aoi\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,095 likes - 51 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,096 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 50 | [アカツキ](https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 4:51 |
 | 51 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 |
 
-Snapshot ID: `ZkFYAAAAAAC55CXIpYgCKnor6oi/BPgM`
+Snapshot ID: `ZkFYAAAAAABTkDOmDM7PIdBp3RurBKbK`

@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1761652,
+  "num_followers": 1761625,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 227374,
       "name": "Dream Girl Evil",
       "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "All in Good Time",
         "url": "https://open.spotify.com/album/6kVfufglPPPTLPWQkvHPaR"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 255338,
       "name": "All in Good Time",
       "url": "https://open.spotify.com/track/533aNRdHHLdI9tiTvqPqjt"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 174539,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Mood Ring",
-        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 177080,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -735,6 +719,22 @@
       "duration_ms": 219782,
       "name": "Slide Tackle",
       "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Right Back to It",
         "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Imaan",
-        "url": "https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 214088,
-      "name": "Imaan",
-      "url": "https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "A Face Like Mine",
         "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 275693,
       "name": "Who Else Could I Be",
       "url": "https://open.spotify.com/track/0px8acghPxrLMXXGaS6Mwe"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Imaan",
+        "url": "https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "Imaan",
+      "url": "https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 222341,
-      "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Lemon [Feat. Sharon Van Etten]",
         "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 305040,
       "name": "Fruits of My Labor",
       "url": "https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "What Is There",
-        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
+        "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
+        "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
       },
       "artists": [
         {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 200946,
-      "name": "It Ain\u2019t Easy",
-      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
+      "duration_ms": 303626,
+      "name": "Lockdown On Date Night Tuesday",
+      "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

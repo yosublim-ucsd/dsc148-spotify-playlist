@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
+> Check out the latest hits from Sandalwood!<br/>Cover : Kotee
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,445 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,456 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [The Age Of Madness \- Kannada](https://open.spotify.com/track/5yICKMOnrZq4HybPhmwJLJ) | [Christo Xavier](https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS), [Sayanth S](https://open.spotify.com/artist/7ImKOVIYXQFPwQHBNdejsy) | [Bramayugam \- Kannada](https://open.spotify.com/album/3fFTTlMbK4lfeeBIV1Pssi) | 4:42 |
 | 75 | [Ellaa Maatannu \(from "Ondu Sarala Prema Kathe"\)](https://open.spotify.com/track/2cbEhOVcx6eGNU1KX9cflQ) | [Shivani Swami](https://open.spotify.com/artist/64VSAmd4CFfkJ4JQljYjsr), [Veer Samarth](https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb) | [Ellaa Maatannu \(from "Ondu Sarala Prema Kathe"\)](https://open.spotify.com/album/1rQPkxAVUVyuGd9vk5WMui) | 4:18 |
 
-Snapshot ID: `ZkNeWAAAAADrEnFBf+ISoCwr+ZDDR7q5`
+Snapshot ID: `ZkRHBAAAAADI4ZhZ6ZrYDMnql/wiUypp`

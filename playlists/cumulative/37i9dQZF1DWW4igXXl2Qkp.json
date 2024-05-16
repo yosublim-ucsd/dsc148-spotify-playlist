@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:02hku5R1SCUiTPydXMdKBp\">Seiji Oda</a>\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:4nqQTosM2Mbg7iRjvJU0N0\">Samara Cyn</a>\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -1057,6 +1057,28 @@
     },
     {
       "album": {
+        "name": "Ain't Goin (feat. Bossman Dlow)",
+        "url": "https://open.spotify.com/album/1jY60bMrbZxHcQHo9N4ZOV"
+      },
+      "artists": [
+        {
+          "name": "Trigga500k",
+          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126627,
+      "name": "Ain't Goin",
+      "url": "https://open.spotify.com/track/4mxgBzqjxVeqsCYwJXgydM"
+    },
+    {
+      "album": {
         "name": "ain't shit",
         "url": "https://open.spotify.com/album/7r9eWWD3Crv01r5RQUGQYK"
       },
@@ -1486,7 +1508,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 150857,
       "name": "angrylilaccidents",
       "url": "https://open.spotify.com/track/62zGQLfgceKrMSPmttZmkA"
@@ -3802,7 +3824,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 116405,
       "name": "Bully",
       "url": "https://open.spotify.com/track/1mmhQcuoaD8e4UUjxeN7C7"
@@ -5549,6 +5571,24 @@
     },
     {
       "album": {
+        "name": "Dick On Yo Hoe",
+        "url": "https://open.spotify.com/album/59Me2dWiRs66d7jLe3H2o1"
+      },
+      "artists": [
+        {
+          "name": "Young Deji",
+          "url": "https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "Dick On Yo Hoe",
+      "url": "https://open.spotify.com/track/1RtF7BYImqxF1vZvuBqPtY"
+    },
+    {
+      "album": {
         "name": "DID I CALL AT A BAD TIME? (feat. Rizz Capolatti)",
         "url": "https://open.spotify.com/album/39sbILILleUcTiBVZjnX3Q"
       },
@@ -5882,7 +5922,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 240000,
       "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
       "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
@@ -11137,6 +11177,24 @@
     },
     {
       "album": {
+        "name": "Your Stepdad",
+        "url": "https://open.spotify.com/album/2NpZdzeE7qiT1irfRkA3IO"
+      },
+      "artists": [
+        {
+          "name": "Your Stepdad",
+          "url": "https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91200,
+      "name": "LAMBO + NIC",
+      "url": "https://open.spotify.com/track/6POc3AEMEl3jXMe90cFY1t"
+    },
+    {
+      "album": {
         "name": "Last Laugh",
         "url": "https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng"
       },
@@ -14819,6 +14877,28 @@
     },
     {
       "album": {
+        "name": "Taking It There 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5nH20YNSh8KbC692JF0nrP"
+      },
+      "artists": [
+        {
+          "name": "Lil Dre6o",
+          "url": "https://open.spotify.com/artist/3HT9jbDp89eu9Dxi3vAZzG"
+        },
+        {
+          "name": "Lil Rae",
+          "url": "https://open.spotify.com/artist/3mBgj6uh2YjNocaBRGJumA"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93915,
+      "name": "No Reddit",
+      "url": "https://open.spotify.com/track/0JoGNwd82CGzVsOe40atmX"
+    },
+    {
+      "album": {
         "name": "NO TELLIN",
         "url": "https://open.spotify.com/album/247yuZ7hBgYGX7S3Sh5Fdw"
       },
@@ -17536,7 +17616,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 132480,
       "name": "S T A R",
       "url": "https://open.spotify.com/track/667WXZTbxfMio6VJBoNupr"
@@ -19869,6 +19949,24 @@
     },
     {
       "album": {
+        "name": "Talking To The Sun",
+        "url": "https://open.spotify.com/album/0l6STd2uyi9qYltrbI94Vt"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79533,
+      "name": "Talking To The Sun",
+      "url": "https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw"
+    },
+    {
+      "album": {
         "name": "TBH (C Wills Remix)",
         "url": "https://open.spotify.com/album/4MJqwM5WFfqoMQErZYktlN"
       },
@@ -22168,7 +22266,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 99731,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/0TySgc2EvCmHohzEdtHBtt"

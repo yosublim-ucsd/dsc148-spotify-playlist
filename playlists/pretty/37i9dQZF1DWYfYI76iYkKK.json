@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 124201,
+  "num_followers": 124212,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "\u7d66",
-        "url": "https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa"
-      },
-      "artists": [
-        {
-          "name": "LaLa Hsu",
-          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
-        }
-      ],
-      "duration_ms": 280097,
-      "name": "\u6c92\u6709\u7b2c\u4e09\u8005\u7684\u5206\u624b",
-      "url": "https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "\u9019\u689d\u5c0f\u9b5a\u5728\u4e4e",
         "url": "https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
+        "name": "\u7d66",
+        "url": "https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa"
+      },
+      "artists": [
+        {
+          "name": "LaLa Hsu",
+          "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
+        }
+      ],
+      "duration_ms": 280097,
+      "name": "\u6c92\u6709\u7b2c\u4e09\u8005\u7684\u5206\u624b",
+      "url": "https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
         "name": "\u6211\u9019\u500b\u4eba (\u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6evHYH3s4yGF5YvrqpFYep"
       },
@@ -175,8 +175,8 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "DEPART",
-        "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
+        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
+        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
         }
       ],
-      "duration_ms": 250898,
-      "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
-      "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
+      "duration_ms": 260958,
+      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
+      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -275,6 +275,26 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
+        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
+        "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "duration_ms": 236239,
+      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
+      "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
         "name": "\u91cd\u62fe_\u5feb\u6a02",
         "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
       },
@@ -287,22 +307,6 @@
       "duration_ms": 249417,
       "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
       "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
-        "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
-        "url": "https://open.spotify.com/album/0poaQZmzUoFK0I4vGaFIJq"
-      },
-      "artists": [
-        {
-          "name": "Sandy Lam",
-          "url": "https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro"
-        }
-      ],
-      "duration_ms": 201675,
-      "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
-      "url": "https://open.spotify.com/track/04tUeaYn8y9H1qohdFoajG"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -327,8 +331,8 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "\u5929\u4f7f\u8207\u9b54\u9b3c\u7684\u5c0d\u8a71",
-        "url": "https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V"
+        "name": "DEPART",
+        "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
       },
       "artists": [
         {
@@ -336,9 +340,9 @@
           "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
         }
       ],
-      "duration_ms": 260958,
-      "name": "\u5341\u842c\u6beb\u5347\u6dda\u6c34",
-      "url": "https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk"
+      "duration_ms": 250898,
+      "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
+      "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -375,22 +379,18 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
-        "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
+        "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
+        "url": "https://open.spotify.com/album/0poaQZmzUoFK0I4vGaFIJq"
       },
       "artists": [
         {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        },
-        {
-          "name": "DIOR \u5927\u7a4e",
-          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+          "name": "Sandy Lam",
+          "url": "https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro"
         }
       ],
-      "duration_ms": 236239,
-      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
-      "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
+      "duration_ms": 201675,
+      "name": "\u662f\u4f60\u6cbb\u7652\u4e86\u6211\u7684\u5b64\u55ae",
+      "url": "https://open.spotify.com/track/04tUeaYn8y9H1qohdFoajG"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
+        "name": "Face II \u771f\u30fb\u88cf",
+        "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i"
+        }
+      ],
+      "duration_ms": 269990,
+      "name": "\u6700\u7f8e\u7684\u907a\u61be",
+      "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
         "name": "T.I.A.",
         "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "Face II \u771f\u30fb\u88cf",
-        "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i"
-        }
-      ],
-      "duration_ms": 269990,
-      "name": "\u6700\u7f8e\u7684\u907a\u61be",
-      "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "CHIN UP!",
         "url": "https://open.spotify.com/album/3ykss35B3LJwwwKkLxYOs3"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f (Live Session)",
-        "url": "https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh"
-      },
-      "artists": [
-        {
-          "name": "\u827e\u8587",
-          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
-        }
-      ],
-      "duration_ms": 189190,
-      "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f - Live Session",
-      "url": "https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 (\u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 220032,
       "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 - \u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f (Live Session)",
+        "url": "https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u8587",
+          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
+        }
+      ],
+      "duration_ms": 189190,
+      "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f - Live Session",
+      "url": "https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I"
     },
     {
       "added_at": "2024-05-09 16:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-05-09 16:00:00",
       "album": {
-        "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
-        "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 184607,
-      "name": "\u5176\u5be6\u4f60\u4e26\u6c92\u90a3\u9ebc\u5b64\u55ae",
-      "url": "https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB"
-    },
-    {
-      "added_at": "2024-05-09 16:00:00",
-      "album": {
         "name": "\u6697\u6d41",
         "url": "https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 234750,
       "name": "\u5929\u5802\u8207\u6ce5\u571f",
       "url": "https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN"
+    },
+    {
+      "added_at": "2024-05-09 16:00:00",
+      "album": {
+        "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
+        "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "\u5176\u5be6\u4f60\u4e26\u6c92\u90a3\u9ebc\u5b64\u55ae",
+      "url": "https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB"
     },
     {
       "added_at": "2024-05-09 16:00:00",

@@ -2625,6 +2625,28 @@
     },
     {
       "album": {
+        "name": "Mil Horas",
+        "url": "https://open.spotify.com/album/6tJzhzcKJZVuUUOp4c2fUn"
+      },
+      "artists": [
+        {
+          "name": "Cachorro Lopez",
+          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180162,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/6c7s0wN0CahLzgB7VbWJKa"
+    },
+    {
+      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 129479,
+  "num_followers": 129513,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,26 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "FELIX!",
+          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 148517,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+      "duration_ms": 177899,
+      "name": "Upset (feat. Tommy Richman & FELIX!)",
+      "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -259,26 +267,18 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "FELIX!",
-          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
-        },
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 177899,
-      "name": "Upset (feat. Tommy Richman & FELIX!)",
-      "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
+        "name": "12 Notes",
+        "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 154705,
+      "name": "Ways To Go (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
       },
@@ -1287,22 +1307,18 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "12 Notes",
-        "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
+        "name": "Toro / Alone in Miami",
+        "url": "https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 154705,
-      "name": "Ways To Go (feat. Khalid)",
-      "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
+      "duration_ms": 175666,
+      "name": "Toro",
+      "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1363,6 +1379,22 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
+        "name": "grace",
+        "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 289541,
+      "name": "grace",
+      "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
       },
@@ -1399,54 +1431,6 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "Toro / Alone in Miami",
-        "url": "https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Toro",
-      "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
-        "name": "grace",
-        "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 289541,
-      "name": "grace",
-      "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
+        "name": "\u559c\u5287",
+        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "\u559c\u5287",
+      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
-        "name": "\u559c\u5287",
-        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "\u559c\u5287",
-      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
     },
     {
       "added_at": "2024-05-14 15:00:00",

@@ -6,7 +6,7 @@
     "name": "Sally_e713",
     "url": "https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u"
   },
-  "snapshot_id": "AAAEw7rYUA7vMN7rpAfZtbjEy/OzEUJ+",
+  "snapshot_id": "AAAExXbEgLhwHUM5uc4GjkCSJaoeht78",
   "tracks": [
     {
       "added_at": "2022-04-11 12:00:45",
@@ -6947,6 +6947,42 @@
       "duration_ms": 201414,
       "name": "Burn Alive",
       "url": "https://open.spotify.com/track/54wX7jxwKL2TQS9itIIMyJ"
+    },
+    {
+      "added_at": "2024-05-15 12:36:46",
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/50soRftpa2dYDxH6v9Jka8"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        },
+        {
+          "name": "Celisse",
+          "url": "https://open.spotify.com/artist/0SJrFoAb35fTLKCLWcXJYu"
+        }
+      ],
+      "duration_ms": 144267,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/2IRD8YXIKzclULZwnv51p7"
+    },
+    {
+      "added_at": "2024-05-16 02:24:43",
+      "album": {
+        "name": "Love Over Glory",
+        "url": "https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "duration_ms": 279272,
+      "name": "Love Over Glory",
+      "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
     }
   ],
   "unique_name": "main playlist",

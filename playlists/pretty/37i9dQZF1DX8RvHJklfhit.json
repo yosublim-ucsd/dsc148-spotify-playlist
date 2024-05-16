@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 178005,
+  "num_followers": 178040,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 181894,
       "name": "Ambar Bossa Nova - Spotify Singles",
       "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Nena <3",
-        "url": "https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf"
       },
       "artists": [
         {
-          "name": "Julienne Ramos",
-          "url": "https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg"
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
         }
       ],
-      "duration_ms": 193149,
-      "name": "Nena <3",
-      "url": "https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2"
+      "duration_ms": 236503,
+      "name": "Drive - Edit",
+      "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf"
+        "name": "Nena <3",
+        "url": "https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY"
       },
       "artists": [
         {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+          "name": "Julienne Ramos",
+          "url": "https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg"
         }
       ],
-      "duration_ms": 236503,
-      "name": "Drive - Edit",
-      "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
+      "duration_ms": 193149,
+      "name": "Nena <3",
+      "url": "https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1623,18 +1623,22 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "PARIS",
-        "url": "https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4"
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/4D0QCzQOyz43DJrItdlexR"
       },
       "artists": [
         {
           "name": "Salt Cathedral",
           "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 198573,
-      "name": "PARIS",
-      "url": "https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F"
+      "duration_ms": 215257,
+      "name": "Te Quiero Olvidar (feat. Ximena Sari\u00f1ana)",
+      "url": "https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe"
     },
     {
       "added_at": "2023-10-12 20:02:07",

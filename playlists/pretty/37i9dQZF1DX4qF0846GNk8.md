@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=wH1M\-7yZQCGXxYg6WLgI\-w"> عصام صاصا </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,900 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,491 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 11 | [مهرجان يازميكس البت بتاعتك دي الاكس](https://open.spotify.com/track/7sxPHO8bRHKJYiomXQb9Ne) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh), [Omar Id](https://open.spotify.com/artist/5T46R2Hxs4CNSnZiYAkneg) | [مهرجان يازميكس البت بتاعتك دي الاكس](https://open.spotify.com/album/65k9Omt0JOPURvHffhSMjR) | 5:11 |
 | 12 | [طب هأ دي حبيبتك مش بتقول لا \- مهرجان \- طب هأ دي حبيبتك مش بتقول لا \- اسلام كابونجا \-ميسو ميسره \-توزيع فيجو الدخلاوي مهرجانات](https://open.spotify.com/track/44KVuj4G37j4HULHHrteQu) | [ميسو ميسره](https://open.spotify.com/artist/0QpJBmVA3GcAX8NgPlrrMW), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [طب هأ دي حبيبتك مش بتقول لا \(مهرجان \- طب هأ دي حبيبتك مش بتقول لا \- اسلام كابونجا \-ميسو ميسره \-توزيع فيجو الدخلاوي مهرجانات\)](https://open.spotify.com/album/2TTvzhsqIDnxS6rBPgw2Tu) | 4:51 |
 | 13 | [كلها بقا ليها اخصام \- عليا الطلاق كله بيكدب](https://open.spotify.com/track/4vLMzTyW0qq87QEaX2enxW) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [كلها بقا ليها اخصام \(عليا الطلاق كله بيكدب\)](https://open.spotify.com/album/76zWCg8Bm8Ifac89Vww2al) | 3:09 |
-| 14 | [يلا نلعبو جوله](https://open.spotify.com/track/7AVngULvj8UIiF4TvM2zFt) | [حوده بوده](https://open.spotify.com/artist/4aa4VlPLbYO184dQMWmwcx), [اسلام كابونجا](https://open.spotify.com/artist/6lBIyYTrWwULJmuFlncN48) | [يلا نلعبو جوله](https://open.spotify.com/album/1F3vUJFcQynW76e1bwvF0w) | 0:48 |
+| 14 | [يلا نلعبو جوله](https://open.spotify.com/track/7AVngULvj8UIiF4TvM2zFt) | [حوده بوده](https://open.spotify.com/artist/4aa4VlPLbYO184dQMWmwcx), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [يلا نلعبو جوله](https://open.spotify.com/album/1F3vUJFcQynW76e1bwvF0w) | 0:48 |
 | 15 | [مش شايفك](https://open.spotify.com/track/348qlmHvImqrjdgqlwvPjr) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [مش شايفك](https://open.spotify.com/album/0C8L9omqkyv8af3yCXNg7L) | 2:21 |
 | 16 | [Fe Elarayeb Zany Khayeb](https://open.spotify.com/track/5oF7BShsiRop4RMXGnkxDS) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Fe Elarayeb Zany Khayeb](https://open.spotify.com/album/1za2yPFwwgsjbrMADIBLSV) | 4:02 |
 | 17 | [اللي نفسه فيا بيتي ميتوهش](https://open.spotify.com/track/1qhODkCMlYY22JflCKJQnz) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [اللي نفسه فيا بيتي ميتوهش](https://open.spotify.com/album/6KvK6k20VxB2PGWw9zfml5) | 6:25 |

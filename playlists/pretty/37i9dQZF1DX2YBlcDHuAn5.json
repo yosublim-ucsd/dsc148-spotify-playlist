@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7382,
+  "num_followers": 7384,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "What Kind of Woman",
+        "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        },
+        {
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "What Kind of Woman",
+      "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Gold Dust Woman",
         "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 180466,
       "name": "Gold Dust Woman",
       "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "What Kind of Woman",
-        "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        },
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "What Kind of Woman",
-      "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Russell County Line",
-        "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
+        "name": "In The Morning, When We Rise",
+        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
       "artists": [
         {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
         }
       ],
-      "duration_ms": 249872,
-      "name": "Russell County Line",
-      "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
+      "duration_ms": 232725,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "In The Morning, When We Rise",
-        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
+        "name": "Russell County Line",
+        "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
       },
       "artists": [
         {
-          "name": "Christof van der Ven",
-          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
         }
       ],
-      "duration_ms": 232725,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
+      "duration_ms": 249872,
+      "name": "Russell County Line",
+      "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
     },
     {
       "added_at": "2024-04-25 22:00:00",

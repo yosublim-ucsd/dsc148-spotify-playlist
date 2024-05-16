@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289384,
+  "num_followers": 289412,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -287,34 +287,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Canc\u00fan",
-        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Irineu Bars\u00e9",
-          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Uma Linda Mulher - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -339,6 +311,34 @@
       "duration_ms": 199081,
       "name": "calor do momento",
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico Canc\u00fan",
+        "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Irineu Bars\u00e9",
+          "url": "https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Uma Linda Mulher - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
     },
     {
       "added_at": "2024-05-10 03:00:00",

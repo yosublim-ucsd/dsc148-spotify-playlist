@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,021 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,027 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Patek \(Remix\)](https://open.spotify.com/track/6aaN2LMboLIyNlo7XmPIrP) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Patek \(Remix\)](https://open.spotify.com/album/1AQtfXqm69rws7a5Qmf2PN) | 3:03 |
 | 50 | [Sample You \- Remix](https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Sample You \(Remix\)](https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE) | 3:33 |
 
-Snapshot ID: `ZkFYAAAAAAB5oV3iOe2dsiDPirdJNTgm`
+Snapshot ID: `ZkKpgAAAAAAJnIMDyn7c8SS9z3EqMwIb`

@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Jesse & Joy en portada.
 
-981 songs - 2 day 4 hr 48 min
+982 songs - 2 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [AÚN TE QUIERO](https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AÚN TE QUIERO](https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u) | 3:25 | 2023-11-24 | 2024-01-27 |
 | [B de Bellako](https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [B de Bellako](https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB) | 3:08 | 2024-01-05 | 2024-02-17 |
 | [BAD INTENCIONES](https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [BAD INTENCIONES](https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC) | 2:49 | 2024-01-26 | 2024-02-03 |
-| [Bagatelle](https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Bagatelle](https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0) | 4:19 | 2024-04-05 |  |
+| [Bagatelle](https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Bagatelle](https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0) | 4:19 | 2024-04-05 | 2024-05-16 |
 | [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 | 2022-06-17 | 2022-08-05 |
 | [Bandida](https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Bandida](https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O) | 2:59 | 2024-02-23 | 2024-04-27 |
 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 | 2024-01-26 | 2024-05-10 |
@@ -130,6 +130,7 @@
 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 | 2022-01-13 | 2022-07-16 |
 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 | 2022-08-18 | 2022-08-26 |
 | [BUEN PROVECHO](https://open.spotify.com/track/51xrXvVm8jZjVWtChbDB1Q) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [BUEN PROVECHO](https://open.spotify.com/album/2tESdgGf46wSHu5526o7rK) | 2:41 | 2023-10-13 | 2023-11-04 |
+| [Buenos Tiempos](https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Buenos Tiempos](https://open.spotify.com/album/0JZFAmJrauExEk4sR9YzzV) | 3:48 | 2024-05-10 |  |
 | [Buscando El Olvido](https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:41 | 2023-04-28 | 2023-05-28 |
 | [Buscándole A La Suerte](https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Buscándole A La Suerte](https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au) | 2:18 | 2023-10-06 | 2023-11-11 |
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-05-26 | 2024-03-16 |

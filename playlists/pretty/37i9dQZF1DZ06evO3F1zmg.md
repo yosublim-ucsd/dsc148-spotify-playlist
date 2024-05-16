@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This is Saweetie\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Saweetie\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,619 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,629 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [Icy Chain](https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Icy Chain](https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5) | 1:50 |
 | 50 | [Good Good](https://open.spotify.com/track/3KmUrUs6pqJaPqpswIKN6C) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 3:21 |
 
-Snapshot ID: `ZkFYAAAAAABLVflUcNQ+EezOw3bp8SvU`
+Snapshot ID: `ZkFYAAAAAADQHnsqChttLCpxdRbHygUP`

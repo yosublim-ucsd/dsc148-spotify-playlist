@@ -3235,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "Reflections of Purple Sun",
+        "url": "https://open.spotify.com/album/3Sj1uOUTM1giGUXuoME25Z"
+      },
+      "artists": [
+        {
+          "name": "EABS",
+          "url": "https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415897,
+      "name": "Boratka",
+      "url": "https://open.spotify.com/track/59ehEi9Q9HwZG10uveIQiD"
+    },
+    {
+      "album": {
         "name": "Bossfight",
         "url": "https://open.spotify.com/album/2SFH3JK7MDqWnYkTF2I7mG"
       },
@@ -14237,6 +14255,24 @@
     },
     {
       "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/4KXntcSQJGigvxSKNKRcR4"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206973,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/4GX7xgJ6rfFLy8jo3lG8TI"
+    },
+    {
+      "album": {
         "name": "Lost in Abstraction",
         "url": "https://open.spotify.com/album/49ujJAQmdUIBAmSuMcyoi8"
       },
@@ -20264,7 +20300,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 176874,
       "name": "Rite of Passage",
       "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
@@ -20800,7 +20836,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 381286,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/6Rmc0ZAzhESwPH9e5hKdj8"

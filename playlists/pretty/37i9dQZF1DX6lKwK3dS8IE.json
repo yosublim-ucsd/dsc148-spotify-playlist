@@ -1,6 +1,6 @@
 {
   "description": "Folk punk, anti-folk, acoustic punk & more. Cover: AJJ",
-  "num_followers": 2641,
+  "num_followers": 2643,
   "original_name": "Folk Misfits",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Talon Of The Hawk",
-        "url": "https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs"
-      },
-      "artists": [
-        {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
-        }
-      ],
-      "duration_ms": 264676,
-      "name": "Twin Size Mattress",
-      "url": "https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Singles Only",
         "url": "https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 156800,
       "name": "Cult Boyfriend",
       "url": "https://open.spotify.com/track/4yYkAGcxY6H0NtNaRTzmpH"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Death and Hatred to Mankind",
-        "url": "https://open.spotify.com/album/5lIeYBB9sGqFZHPasYTr8t"
-      },
-      "artists": [
-        {
-          "name": "Ghost Mice",
-          "url": "https://open.spotify.com/artist/0TF5GTnQ6cdDVRhfGyIXM2"
-        }
-      ],
-      "duration_ms": 119457,
-      "name": "Critical Hit",
-      "url": "https://open.spotify.com/track/2XCxUexRr4mxLqBwZoHg9I"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "It's the Ones Who've Cracked That the Light Shines Through",
         "url": "https://open.spotify.com/album/4GqPBbYTgJ8PrYV3fSB7Db"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 122893,
       "name": "I Saw a Hippie Girl on 8th Ave",
       "url": "https://open.spotify.com/track/1lmsq361YTwZC9ftorAGIu"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Death and Hatred to Mankind",
+        "url": "https://open.spotify.com/album/5lIeYBB9sGqFZHPasYTr8t"
+      },
+      "artists": [
+        {
+          "name": "Ghost Mice",
+          "url": "https://open.spotify.com/artist/0TF5GTnQ6cdDVRhfGyIXM2"
+        }
+      ],
+      "duration_ms": 119457,
+      "name": "Critical Hit",
+      "url": "https://open.spotify.com/track/2XCxUexRr4mxLqBwZoHg9I"
     },
     {
       "added_at": "2023-05-26 04:01:00",

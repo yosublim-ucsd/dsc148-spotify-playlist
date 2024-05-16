@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 ### [This Is Los Dos Carnales](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bH9ni)
 
-> This Is Los Dos Carnales\. Los temas esenciales, todos en una lista.
+> This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,259 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,301 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 49 | [El Mejor del Mundo \- En Vivo](https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mejor del Mundo \(En Vivo\)](https://open.spotify.com/album/3SQSVXheDF238LrACCxEwE) | 3:04 |
 | 50 | [Lo Que Aprendí](https://open.spotify.com/track/2KVLgxXdnrGHwGDVLWxauQ) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Lo Que Aprendí](https://open.spotify.com/album/2xxj4SskoPZneewIM68h8X) | 2:45 |
 
-Snapshot ID: `ZkFYAAAAAACrNP9PHSc0EiZZGy8ZyRxV`
+Snapshot ID: `ZkKpgAAAAABANE98KyZreSsIt5JHFB/V`

@@ -2,7 +2,7 @@
 
 ### [This Is Story Of The Year](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nABhe)
 
-> This is Story Of The Year\. The essential tracks, all in one playlist.
+> This Is Story Of The Year\. Los temas esenciales, todos en una lista.
 
 53 songs - 3 hr 6 min
 

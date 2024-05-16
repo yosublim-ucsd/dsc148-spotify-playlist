@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 ### [This Is Joan Baez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0V2kc4)
 
-> This is Joan Baez\. The essential tracks, all in one playlist.
+> This is Joan Baez\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,529 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,545 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 49 | [El Preso Numero Nueve](https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:24 |
 | 50 | [Girl Of Constant Sorrow](https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 1:45 |
 
-Snapshot ID: `ZkFYAAAAAAAPdvT6vofPNShBJW1Y5yR0`
+Snapshot ID: `ZkFYAAAAAADiA9q4R8Xb45+weOcKadah`

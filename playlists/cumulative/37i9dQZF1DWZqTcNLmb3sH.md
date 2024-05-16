@@ -2,7 +2,7 @@
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
+> Check out the latest hits from Sandalwood!<br/>Cover : Kotee
 
 1,173 songs - 2 day 23 hr 31 min
 

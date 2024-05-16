@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076 likes - 23 songs - 58 min 25 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,084 likes - 23 songs - 58 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

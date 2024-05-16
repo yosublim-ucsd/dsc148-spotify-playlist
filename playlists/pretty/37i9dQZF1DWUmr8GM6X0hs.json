@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 82821,
+  "num_followers": 82858,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "M\u00e1s Recuerdos Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV"
-      },
-      "artists": [
-        {
-          "name": "Chivirico Davila",
-          "url": "https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Aguerrida",
         "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 206908,
       "name": "Si No Est\u00e1s para Mi",
       "url": "https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "M\u00e1s Recuerdos Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV"
+      },
+      "artists": [
+        {
+          "name": "Chivirico Davila",
+          "url": "https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H"
     },
     {
       "added_at": "2023-12-20 18:45:06",

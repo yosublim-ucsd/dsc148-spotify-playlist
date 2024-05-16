@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Nemo
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Luisa Almaguer
 
 1,181 songs - 2 day 15 hr 53 min
 
@@ -961,7 +961,7 @@
 | [Space](https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Space](https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp) | 2:56 | 2023-04-13 | 2023-06-02 |
 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 | 2024-05-06 |  |
 | [Spells](https://open.spotify.com/track/7w9pvfKwCbIc2K1v97ICkb) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Devi McCallion](https://open.spotify.com/artist/6i1PYODUPDYMtaK8QCGE9I) | [Spells](https://open.spotify.com/album/0d5qdh50jjlmfJl4l9kcqP) | 2:23 | 2023-03-31 | 2023-04-14 |
-| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-05-06 |  |
+| [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-05-06 |  |
 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-01-14 | 2022-04-16 |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 | 2022-12-01 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-11-30 | 2023-01-25 |

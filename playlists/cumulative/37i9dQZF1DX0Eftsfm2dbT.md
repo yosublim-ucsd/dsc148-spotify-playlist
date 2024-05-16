@@ -2,7 +2,7 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> 【POPYOURSまであと3日】J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Bonbero, Kohjiya
+> 【POPYOURSまであと2日】J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Tohji
 
 734 songs - 1 day 13 hr 55 min
 
@@ -193,7 +193,7 @@
 | [Eternity \- feat\. Dove](https://open.spotify.com/track/0hgFEg1GC8bmkMi4jYPptm) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK), [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Dove](https://open.spotify.com/artist/749Lj97lUEji1r45Fkdvb4) | [Eternity \(feat\. Dove\)](https://open.spotify.com/album/5V0dVjADMWlNUk9JXB0sOv) | 2:38 | 2024-01-18 | 2024-01-24 |
 | [EVERGREEN](https://open.spotify.com/track/4tyrUfKPjXH7RZxAUH70uQ) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [EVERGREEN](https://open.spotify.com/album/1FsSbVECGxs7ZYr5dA0Qa6) | 3:48 | 2024-04-18 |  |
 | [EVERGREEN](https://open.spotify.com/track/7g52m7qMFNe2FFCEB2rQuu) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [EVERGREEN](https://open.spotify.com/album/0tS8i5iuz4twsxquEFybh7) | 3:48 | 2024-03-28 | 2024-04-19 |
-| [EVERGREEN \- KM Remix](https://open.spotify.com/track/1423mK2swMePYLGBPpRHcn) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [EVERGREEN \(KM Remix\)](https://open.spotify.com/album/5G2PvM21xlpQaWFV9bbtrn) | 3:36 | 2024-05-09 |  |
+| [EVERGREEN \- KM Remix](https://open.spotify.com/track/1423mK2swMePYLGBPpRHcn) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [EVERGREEN \(KM Remix\)](https://open.spotify.com/album/5G2PvM21xlpQaWFV9bbtrn) | 3:36 | 2024-05-09 |  |
 | [Everything Is Everything](https://open.spotify.com/track/0O7Kf2lAVqJDXQIVyLbjFn) | [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H), [GENJU](https://open.spotify.com/artist/52vnH9P4Rs3Gbc7FSbLNwC), [rkemishi](https://open.spotify.com/artist/0p8wb8VQyOYmHkN42xhJ9v) | [WILL OF STEEL](https://open.spotify.com/album/2UQh4sHMRFOKwBNuDUuNt1) | 3:27 | 2024-03-26 | 2024-04-24 |
 | [Excuse Me](https://open.spotify.com/track/2Fs8ACanwCf6XaTb3AaIcn) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Excuse Me](https://open.spotify.com/album/1hwvsyVIUP8aCN25AKEwKL) | 3:03 | 2024-02-28 |  |
 | [Excuse Me](https://open.spotify.com/track/5XGAX53b2t2iv9WkJzBvth) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Excuse Me](https://open.spotify.com/album/1FkXJBykFSoTDuZYkVoF8l) | 3:03 | 2024-02-28 | 2024-04-19 |
@@ -290,7 +290,7 @@
 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 | 2024-01-23 | 2024-03-13 |
 | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/track/4uj6pYv0nqin3IRns4ygJv) | [15MUS](https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j) | [HURUKAMOWAKARANAIKEDO](https://open.spotify.com/album/2WeYegm46CmTZ5ddJJSlGT) | 3:26 | 2023-12-26 | 2024-01-12 |
 | [HYAKKIYAKO](https://open.spotify.com/track/48EErLKgvtuB1rQh7P5q41) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [HYAKKIYAKO](https://open.spotify.com/album/0m9SCyoEvBNKfY7SMxO6si) | 3:49 | 2024-04-09 | 2024-04-19 |
-| [I Don’t Know Yet \- SBFP ver.](https://open.spotify.com/track/4uwiTJFWyu7dKTpThidRuZ) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [STACKIN' BREAD FROM THE PRISON Mixed by DJ DEFLO](https://open.spotify.com/album/42VPtqE0iKiFBfTuR9utZp) | 3:20 | 2024-05-09 |  |
+| [I Don’t Know Yet \- SBFP ver\. \- Mixed](https://open.spotify.com/track/4uwiTJFWyu7dKTpThidRuZ) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [STACKIN' BREAD FROM THE PRISON Mixed by DJ DEFLO](https://open.spotify.com/album/42VPtqE0iKiFBfTuR9utZp) | 3:20 | 2024-05-09 |  |
 | [I'ma beliver](https://open.spotify.com/track/5EykQQCDxQMsAkvZRYgmue) | [罰当](https://open.spotify.com/artist/7ErKCBi0MGvoud71tTcHBn) | [I'ma beliver](https://open.spotify.com/album/4Izjt3nqSLoa5q15WXFGVq) | 2:46 | 2024-05-15 |  |
 | [Iburi Gacko Flow pt.2](https://open.spotify.com/track/2uzlLXfDZDEgu46Pz4ohsW) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [Yung Colty](https://open.spotify.com/artist/6InHIz4YmrobstXDE8OvBv), [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [LOYALTY](https://open.spotify.com/album/5uG6tQHwmirEfkBqiRvqYM) | 3:01 | 2023-12-13 | 2024-01-17 |
 | [iikanji](https://open.spotify.com/track/6BnM0zSmcdPe7hPErGFYvE) | [taro](https://open.spotify.com/artist/4Js1UIksLXH7FLzj99W3vi) | [iikanji](https://open.spotify.com/album/7JjEPqfTY1X0j34H69RUXr) | 2:41 | 2024-01-11 | 2024-01-17 |

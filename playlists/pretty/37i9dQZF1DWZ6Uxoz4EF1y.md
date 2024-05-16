@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,401 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,500 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 62 | [Encontré Mi Lugar](https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Encontré Mi Lugar](https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf) | 4:56 |
 | 63 | [Santa Cruz](https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Triduo](https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv) | 2:39 |
 | 64 | [Cristo Vive En Mi](https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD) | [Neil Velez](https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO) | [Dios Es Capaz](https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP) | 5:12 |
-| 65 | [Nunca Fallas](https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Nunca Fallas](https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2) | 5:39 |
-| 66 | [Inmenso Amor](https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:51 |
+| 65 | [Inmenso Amor](https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:51 |
+| 66 | [Nunca Fallas](https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Nunca Fallas](https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2) | 5:39 |
 | 67 | [Barra Libre](https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [Mariana Michelle](https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU) | [Barra Libre](https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ) | 3:26 |
 | 68 | [Amor Imparable](https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 3:45 |
 | 69 | [Porque Él Vive](https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6) | [Rudy Pérez](https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv) | [Porque Él Vive](https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn) | 4:19 |

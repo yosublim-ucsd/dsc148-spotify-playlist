@@ -2,7 +2,7 @@
 
 ### [Christian Soundtracks \(Movie + TV\) 2024](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
 
-> Christian Soundtracks \(Movie + TV\) 2024 \| Music from Christian Movies and TV that we all know and love made by <a href="spotify:user:sozoofficial">SOZO Playlists</a> ! Cover: <a href="https://open.spotify.com/playlist/48sh4izdZC5kNNcec80Gec?si=93f6dc9e903b4854">Cast of Journey To Bethlehem</a>
+> Christian Soundtracks \(Movie + TV\) 2024 \| &quot;I could never choose to love another, maybe one day I can learn to love you too...&quot; \| Music from Christian Movies and TV that we all know and love! Cover: <a href="https://www.journeytobethlehemmovie.com/">Cast of Journey To Bethlehem</a>
 
 323 songs - 20 hr 45 min
 

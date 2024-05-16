@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Cody Johnson",
-  "num_followers": 356706,
+  "num_followers": 356749,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Tyler Hubbard",
+        "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 179640,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Tyler Hubbard",
-        "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 179640,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 245625,
+      "name": "Drunk (And I Don't Wanna Go Home)",
+      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
+        "name": "One Of Them Girls",
+        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 174992,
       "name": "Different 'Round Here",
       "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "One Of Them Girls",
-        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "One Of Them Girls",
-      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
+        "name": "Hey World",
+        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/2f0DzdU6QbWtZqSlN7s1s5"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 196160,
       "name": "Wine, Beer, Whiskey",
       "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "Hey World",
-        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "REBEL (The Beginning)",
-        "url": "https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Rain In The Rearview",
-      "url": "https://open.spotify.com/track/10kDUCSM3OZ99MfMcRboZB"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "What Makes You Country",
         "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 216093,
       "name": "Sunrise, Sunburn, Sunset",
       "url": "https://open.spotify.com/track/53yTYusPQJ1AApL1hi0Dnc"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "REBEL (The Beginning)",
+        "url": "https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Rain In The Rearview",
+      "url": "https://open.spotify.com/track/10kDUCSM3OZ99MfMcRboZB"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Mud On The Tires",
-        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Mud on the Tires",
-      "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Mud On The Tires",
+        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Mud on the Tires",
+      "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Time, Tequila & Therapy",
-        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
       },
@@ -2107,18 +2091,18 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Brown Eyes Baby",
-        "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
+        "name": "Time, Tequila & Therapy",
+        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Brown Eyes Baby",
-      "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+      "duration_ms": 191360,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -2135,6 +2119,22 @@
       "duration_ms": 206506,
       "name": "Whiskey And Rain",
       "url": "https://open.spotify.com/track/1tf4Bfk8JIKryLpWYRvyiI"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Brown Eyes Baby",
+        "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Brown Eyes Baby",
+      "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
-        "name": "Angels (Don\u2019t Always Have Wings)",
-        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "Angels (Don\u2019t Always Have Wings)",
-      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
         "name": "Happy Endings",
         "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
@@ -2203,6 +2187,22 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
+        "name": "Angels (Don\u2019t Always Have Wings)",
+        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "Angels (Don\u2019t Always Have Wings)",
+      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -2215,38 +2215,6 @@
       "duration_ms": 215933,
       "name": "Breaking Up Was Easy In The 90's",
       "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
-        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Save Me The Trouble",
-      "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "One Margarita",
-        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "One Margarita",
-      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -2271,6 +2239,22 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
+        "name": "One Margarita",
+        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "One Margarita",
+      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
         "name": "Greetings From...Jake",
         "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 192653,
       "name": "Homemade",
       "url": "https://open.spotify.com/track/31JID2STTlLuFqXFWHyM8e"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
+        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
+        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Save Me The Trouble",
+      "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
+        "name": "EVERYBODY",
+        "url": "https://open.spotify.com/album/6De0uTqKw2KMGDzidbCPhS"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Fix a Drink",
+      "url": "https://open.spotify.com/track/0s6OWiWGuiCcm1Muzch5A8"
+    },
+    {
+      "added_at": "2024-05-03 04:01:00",
+      "album": {
         "name": "Best Thing Since Backroads",
         "url": "https://open.spotify.com/album/0V5GJsZdw3zXfrz2oKUhue"
       },
@@ -2475,22 +2491,6 @@
       "duration_ms": 183087,
       "name": "Can't Have Mine (Find You A Girl)",
       "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "EVERYBODY",
-        "url": "https://open.spotify.com/album/6De0uTqKw2KMGDzidbCPhS"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Fix a Drink",
-      "url": "https://open.spotify.com/track/0s6OWiWGuiCcm1Muzch5A8"
     },
     {
       "added_at": "2024-05-03 04:01:00",

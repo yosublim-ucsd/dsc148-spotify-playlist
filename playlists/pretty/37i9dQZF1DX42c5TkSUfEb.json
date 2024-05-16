@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 762976,
+  "num_followers": 763040,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-05-13 13:37:00",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 165426,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2024-05-13 13:37:00",
-      "album": {
         "name": "If Only + No One Noticed",
         "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "added_at": "2024-05-13 13:37:00",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2024-05-13 13:37:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-05-13 13:37:00",
       "album": {
-        "name": "Gee Whiz But This Is a Lonesome Town",
-        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
-      },
-      "artists": [
-        {
-          "name": "Moriarty",
-          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
-    },
-    {
-      "added_at": "2024-05-13 13:37:00",
-      "album": {
         "name": "Street Bangerz Volume 6: Playhouse",
         "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 240000,
       "name": "But I Do",
       "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
+    },
+    {
+      "added_at": "2024-05-13 13:37:00",
+      "album": {
+        "name": "Gee Whiz But This Is a Lonesome Town",
+        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
+      },
+      "artists": [
+        {
+          "name": "Moriarty",
+          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
     },
     {
       "added_at": "2024-05-13 13:37:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-13 13:37:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 180973,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
-    },
-    {
-      "added_at": "2024-05-13 13:37:00",
-      "album": {
         "name": "Toujours des fleurs",
         "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 306266,
       "name": "4 And 20",
       "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
+    },
+    {
+      "added_at": "2024-05-13 13:37:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
     },
     {
       "added_at": "2024-05-13 13:37:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-13 13:37:00",
       "album": {
-        "name": "Free as a Bird",
-        "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
-      },
-      "artists": [
-        {
-          "name": "Soom T",
-          "url": "https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Free as a Bird",
-      "url": "https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv"
-    },
-    {
-      "added_at": "2024-05-13 13:37:00",
-      "album": {
         "name": "You're Stronger Than You Know",
         "url": "https://open.spotify.com/album/5MSaKdet5kiMdSczHYxEmg"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 208493,
       "name": "Elle laisse - Radio Edit",
       "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
+    },
+    {
+      "added_at": "2024-05-13 13:37:00",
+      "album": {
+        "name": "Free as a Bird",
+        "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
+      },
+      "artists": [
+        {
+          "name": "Soom T",
+          "url": "https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Free as a Bird",
+      "url": "https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv"
     },
     {
       "added_at": "2024-05-13 13:37:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-13 13:37:00",
       "album": {
-        "name": "Things I've Seen",
-        "url": "https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi"
-      },
-      "artists": [
-        {
-          "name": "Alex Hepburn",
-          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
-    },
-    {
-      "added_at": "2024-05-13 13:37:00",
-      "album": {
         "name": "The Right Words",
         "url": "https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 202084,
       "name": "The Right Words",
       "url": "https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R"
+    },
+    {
+      "added_at": "2024-05-13 13:37:00",
+      "album": {
+        "name": "Things I've Seen",
+        "url": "https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi"
+      },
+      "artists": [
+        {
+          "name": "Alex Hepburn",
+          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK"
     },
     {
       "added_at": "2024-05-13 13:37:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-05-13 13:37:00",
       "album": {
-        "name": "A Change Is Gonna Come",
-        "url": "https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp"
-      },
-      "artists": [
-        {
-          "name": "Los Coast",
-          "url": "https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 203615,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU"
-    },
-    {
-      "added_at": "2024-05-13 13:37:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/3wbCP5qlV3RNmTq1PV9zm4"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 307333,
       "name": "Helsinki",
       "url": "https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78"
+    },
+    {
+      "added_at": "2024-05-13 13:37:00",
+      "album": {
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp"
+      },
+      "artists": [
+        {
+          "name": "Los Coast",
+          "url": "https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 203615,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU"
     },
     {
       "added_at": "2024-05-13 13:37:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-05-13 13:37:00",
       "album": {
-        "name": "Still I Wait",
-        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
-      },
-      "artists": [
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Still I Wait",
-      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
-    },
-    {
-      "added_at": "2024-05-13 13:37:00",
-      "album": {
         "name": "St\u00f6rm",
         "url": "https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 264333,
       "name": "St\u00f6rm",
       "url": "https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi"
+    },
+    {
+      "added_at": "2024-05-13 13:37:00",
+      "album": {
+        "name": "Still I Wait",
+        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
+      },
+      "artists": [
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Still I Wait",
+      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
     },
     {
       "added_at": "2024-05-13 13:37:00",
@@ -1591,38 +1591,6 @@
     {
       "added_at": "2024-05-13 13:37:00",
       "album": {
-        "name": "I Know, I Know",
-        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 180619,
-      "name": "I Know, I Know",
-      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
-    },
-    {
-      "added_at": "2024-05-13 13:37:00",
-      "album": {
-        "name": "Et Bam",
-        "url": "https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ"
-      },
-      "artists": [
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "Et Bam - Acoustic Version",
-      "url": "https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd"
-    },
-    {
-      "added_at": "2024-05-13 13:37:00",
-      "album": {
         "name": "The Conflict Of The Mind",
         "url": "https://open.spotify.com/album/6VwbUdW1COPXGwZfWXiMiv"
       },
@@ -1651,6 +1619,38 @@
       "duration_ms": 219294,
       "name": "On My Mind - Radio Edit",
       "url": "https://open.spotify.com/track/4A8NuOMg65pgEYUr1X0mzU"
+    },
+    {
+      "added_at": "2024-05-13 13:37:00",
+      "album": {
+        "name": "Lonely with Our Love",
+        "url": "https://open.spotify.com/album/6pqseUHCpd1LOVWURaEH9X"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 208823,
+      "name": "Lonely with Our Love",
+      "url": "https://open.spotify.com/track/3r62SofIEN6oRBL9964egb"
+    },
+    {
+      "added_at": "2024-05-13 13:37:00",
+      "album": {
+        "name": "I Know, I Know",
+        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 180619,
+      "name": "I Know, I Know",
+      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
     }
   ],
   "unique_name": "Au calme",

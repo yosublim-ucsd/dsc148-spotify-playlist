@@ -1,12 +1,12 @@
 {
-  "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 206622,
+  "description": "This Is Julieta Venegas. Los temas esenciales, todos en una lista.",
+  "num_followers": 206704,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAADxo/AgtaUr0rd6e3ktub8M",
+  "snapshot_id": "ZkKpgAAAAAAfAB9fPdpZmhioI98x8t9v",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 225693,
       "name": "Nada Fue Un Error - Live In Spain / 2005",
       "url": "https://open.spotify.com/track/7GO6pBFbieZ30NjGIp2LP5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mirada",
-        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "La Mirada",
-      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 222908,
       "name": "un d\u00eda",
       "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Mirada",
+        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "La Mirada",
+      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
+        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Tu Nombre - Live",
+      "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Ti",
         "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
       },
@@ -851,22 +871,6 @@
       "duration_ms": 212156,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suavecito",
-        "url": "https://open.spotify.com/album/6zghbTfY5LTp8XiiqXDOGz"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Suavecito",
-      "url": "https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2"
     },
     {
       "added_at": null,
@@ -907,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Tributo",
+        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Certa Manha Acordei De Sonhos Intranquilos",
         "url": "https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK"
       },
@@ -923,22 +943,6 @@
       "duration_ms": 203533,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/23DnvfI41PNvTHEkGJXVBC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205228,
-      "name": "Tu Historia",
-      "url": "https://open.spotify.com/track/6iLYRz5jMXoLIqd5YE3uNh"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

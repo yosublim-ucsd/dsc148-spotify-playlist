@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 ### [This Is Yandel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04naX6)
 
-> This is Yandel\. The essential tracks, all in one playlist.
+> This Is Yandel\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,801 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,830 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Cuando Baila Reggaeton](https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [The Underdog \- El Subestimado](https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5) | 3:04 |
 | 50 | [Te Acuerdas De Mí](https://open.spotify.com/track/3EgHkFBGUu7NHZspAdiy0D) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 1:44 |
 
-Snapshot ID: `ZkFYAAAAAABzGvAbdYeARmXguc8vWOAq`
+Snapshot ID: `ZkFYAAAAAAC2BNVEiUgXcvGDZW6JxpWz`

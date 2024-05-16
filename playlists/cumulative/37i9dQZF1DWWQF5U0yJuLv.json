@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 358080,
       "name": "Aquarius",
       "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
@@ -1132,6 +1132,24 @@
       "duration_ms": 247373,
       "name": "Goodbye, Goodbye",
       "url": "https://open.spotify.com/track/2P43WROXRRBFqSKd2aSc0o"
+    },
+    {
+      "album": {
+        "name": "High Maintenance: Original Music (Season 1)",
+        "url": "https://open.spotify.com/album/04lzRvq2MISPHUiMjoxjag"
+      },
+      "artists": [
+        {
+          "name": "Chris Bear",
+          "url": "https://open.spotify.com/artist/0do9UA8mgexUfGJiVTSmiv"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135051,
+      "name": "Goodnight Felicia",
+      "url": "https://open.spotify.com/track/7quMtERAYLteumHQSrBkMr"
     },
     {
       "album": {
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 225289,
       "name": "Sunshine in 1929",
       "url": "https://open.spotify.com/track/76Ux8iRWXJwhwyjuuKwbG7"
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 280658,
       "name": "Unheard Melodies",
       "url": "https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa"

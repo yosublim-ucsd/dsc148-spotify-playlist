@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-852 songs - 1 day 22 hr 18 min
+853 songs - 1 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Deewana](https://open.spotify.com/track/7pHbdBHrGCmGNibnTpvIeq) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP) | [Deewana](https://open.spotify.com/album/1ojsW5BU8JfG7GNYaoGSKv) | 3:13 | 2022-03-08 | 2022-04-06 |
 | [Deewane Ho Gaye](https://open.spotify.com/track/06WgWDkgJbC6IqViz5ogHg) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [First Draft](https://open.spotify.com/album/5d0bHiEe4CFci3cfkZQNCp) | 3:04 | 2022-09-21 | 2022-12-16 |
 | [Definitely \(Laazmi\)](https://open.spotify.com/track/6NYV682wtWwgb0QTsRTJ1F) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Definitely \(Laazmi\)](https://open.spotify.com/album/1JwCaeRWcDiRiCQTfEDgdS) | 2:35 | 2022-07-27 | 2022-08-18 |
+| [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60) | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc) | 4:41 | 2024-05-15 |  |
 | [Dekhya Kite](https://open.spotify.com/track/07X7p4jFhHEECps5IBKQ3c) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Dekhya Kite](https://open.spotify.com/album/2zPnY5L7hwCjuYmpuCCAO5) | 3:02 | 2022-10-13 |  |
 | [Detail](https://open.spotify.com/track/3EugNj4xYj1PwqbYTqw9GE) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Akash Jandu](https://open.spotify.com/artist/2D6IROV04QKexvp3E12ZEA), [Kamal Longowal](https://open.spotify.com/artist/3DVtobN6UW8hZFKCvsZl0I) | [Detail](https://open.spotify.com/album/4SCWjB4fAYHL70dQmTy0Mu) | 2:23 | 2022-10-14 | 2023-02-04 |
 | [Detail](https://open.spotify.com/track/7qzSJVrqOpl8rLXqAdTCOU) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Kamal Longowal](https://open.spotify.com/artist/3DVtobN6UW8hZFKCvsZl0I) | [Detail](https://open.spotify.com/album/5cq2347ktrWBRdHbE6dmBg) | 2:23 | 2022-09-15 | 2022-10-20 |
@@ -404,7 +405,7 @@
 | [Laare](https://open.spotify.com/track/4L6h1muuapCakyu81caEVN) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Laare](https://open.spotify.com/album/0o667wDHfJ9lPRl3T1q7iw) | 2:38 | 2022-11-22 | 2023-02-02 |
 | [Laare](https://open.spotify.com/track/2lKfpNZeNDQ1AsR8btddjH) | [Puran Sidhu](https://open.spotify.com/artist/6TC5PtzelDA6UDZYK5XO72) | [Laare](https://open.spotify.com/album/3AGYl1b5NqxVtrcM3ikyk2) | 3:05 | 2022-07-21 | 2022-08-18 |
 | [Laddu Barfi \("Batch 2013"\)](https://open.spotify.com/track/1e4G9vx9WUOgcJYU5upEeV) | [Davi \(The Landers\)](https://open.spotify.com/artist/6VDimujATVznVXD7SiBbxs) | [Laddu Barfi \("Batch 2013"\)](https://open.spotify.com/album/6wtqlS534lWDhufWSBxYML) | 3:04 | 2022-08-31 | 2022-09-03 |
-| [Lagda E Nai](https://open.spotify.com/track/6EeiadaHCduRvLeDSdnOKs) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Lagda E Nai](https://open.spotify.com/album/2VkIDq9xfbt182yceoJaTN) | 2:06 | 2024-04-24 |  |
+| [Lagda E Nai](https://open.spotify.com/track/6EeiadaHCduRvLeDSdnOKs) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Lagda E Nai](https://open.spotify.com/album/2VkIDq9xfbt182yceoJaTN) | 2:06 | 2024-04-24 | 2024-05-16 |
 | [Lagda Na](https://open.spotify.com/track/2FyB6FVV2F35wh175H6IeZ) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Stunnah Beatz](https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl) | [Lagda Na](https://open.spotify.com/album/3fLoAnovxL1DsmdFJ9oqs1) | 2:17 | 2022-09-09 | 2022-09-23 |
 | [Lai Dass](https://open.spotify.com/track/7icfI2Gl3eUpUvKFJdnGBX) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Lai Dass](https://open.spotify.com/album/2AgJubUHUajZY9lzXYRFsy) | 3:30 | 2023-01-12 | 2023-02-02 |
 | [Laid Back](https://open.spotify.com/track/3x7tOQG4O3xc71ojvukQOk) | [Noor Tung](https://open.spotify.com/artist/44SO7hG8JnPeibqOefhgMY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Laid Back](https://open.spotify.com/album/7rsMotcs26SBQNVytHaUwU) | 2:52 | 2022-04-04 | 2022-04-29 |

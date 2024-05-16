@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 427377,
       "name": "DAY OF THE LORD",
       "url": "https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC"
@@ -2910,6 +2910,28 @@
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kaggwa",
+          "url": "https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF"
+        },
+        {
+          "name": "Johnmarie",
+          "url": "https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW"
     },
     {
       "album": {

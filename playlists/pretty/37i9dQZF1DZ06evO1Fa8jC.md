@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 ### [This Is Los Cafres](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Fa8jC)
 
-> This is Los Cafres\. The essential tracks, all in one playlist.
+> This Is Los Cafres\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,612 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,640 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Velas y Sahumerios](https://open.spotify.com/track/3ANlhNoOuwdQBgh9p8GW3Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:26 |
 | 50 | [Prefiero](https://open.spotify.com/track/3i6m98djJi8AJnyCWyhXWV) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 3:28 |
 
-Snapshot ID: `ZkFYAAAAAAAFK09MiQqSugQkpHKwJ4mS`
+Snapshot ID: `ZkFYAAAAAAAFSH9xmnXV+sWieQ/w+n67`

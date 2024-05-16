@@ -1,6 +1,6 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 84272,
+  "num_followers": 84273,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-01-16 01:21:41",
       "album": {
+        "name": "ugly",
+        "url": "https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "ugly",
+      "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
+    },
+    {
+      "added_at": "2024-01-16 01:21:41",
+      "album": {
         "name": "SALT (feat. Oli Sykes)",
         "url": "https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 222375,
       "name": "SALT (feat. Oli Sykes)",
       "url": "https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr"
-    },
-    {
-      "added_at": "2024-01-16 01:21:41",
-      "album": {
-        "name": "ugly",
-        "url": "https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "ugly",
-      "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
     },
     {
       "added_at": "2024-01-16 01:21:41",

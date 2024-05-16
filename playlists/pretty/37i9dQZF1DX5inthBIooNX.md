@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inthBIooNX.md) - [plain]
 
 > "the realization that each random passerby is living a life as vivid and complex as your own."
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,100 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,271 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

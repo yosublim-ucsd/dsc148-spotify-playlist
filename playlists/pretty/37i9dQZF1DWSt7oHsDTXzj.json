@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 180691,
+  "num_followers": 180667,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "When Christmas Comes Again",
-        "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 197787,
-      "name": "When Christmas Comes Again",
-      "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
         "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 222560,
       "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
       "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "When Christmas Comes Again",
+        "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 197787,
+      "name": "When Christmas Comes Again",
+      "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+        "name": "thank you wisdom angel i love you",
+        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
         }
       ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+      "duration_ms": 198208,
+      "name": "silver second",
+      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "thank you wisdom angel i love you",
-        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
       "artists": [
         {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 198208,
-      "name": "silver second",
-      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Tinsel Dresses",
-        "url": "https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12"
-      },
-      "artists": [
-        {
-          "name": "Charlie Bennett",
-          "url": "https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG"
-        }
-      ],
-      "duration_ms": 124406,
-      "name": "Tinsel Dresses",
-      "url": "https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "baby jesus is nobody's baby now",
         "url": "https://open.spotify.com/album/54ech4ihgHD7emD0ucycog"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 215065,
       "name": "baby jesus is nobody's baby now",
       "url": "https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Tinsel Dresses",
+        "url": "https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bennett",
+          "url": "https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG"
+        }
+      ],
+      "duration_ms": 124406,
+      "name": "Tinsel Dresses",
+      "url": "https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ"
     },
     {
       "added_at": "2023-10-16 19:34:42",

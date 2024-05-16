@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 ### [This Is Sexyy Red](https://open.spotify.com/playlist/37i9dQZF1DZ06evO271ive)
 
-> This is Sexyy Red\. The essential tracks, all in one playlist.
+> This is Sexyy Red\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,000 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,055 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 50 | [Ghetto Freestyle](https://open.spotify.com/track/14cDqt0n4v50DerFfFpBXD) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:37 |
 | 51 | [FaceTime](https://open.spotify.com/track/4KbbzhLFx8pGzQ8EJkqNFx) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:31 |
 
-Snapshot ID: `ZkFYAAAAAAA9ecpwEJ9crdNTKz9mGXWa`
+Snapshot ID: `ZkFYAAAAAAAtMhPyQCE3YXIOBYrEkwG1`

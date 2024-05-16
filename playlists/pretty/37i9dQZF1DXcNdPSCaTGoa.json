@@ -1,6 +1,6 @@
 {
   "description": "Remembering <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX-n7beSCAHzBQ\">Brenda Fassie's</a> incredible legacy, 20 years on.",
-  "num_followers": 57594,
+  "num_followers": 57726,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-05-10 06:20:50",
       "album": {
-        "name": "House Player",
-        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
-      },
-      "artists": [
-        {
-          "name": "DJ Mbuso",
-          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
-        }
-      ],
-      "duration_ms": 370906,
-      "name": "Mbuso's Revenge",
-      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
-    },
-    {
-      "added_at": "2024-05-10 06:20:50",
-      "album": {
         "name": "Mkhukhu Funkshen",
         "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 275360,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
+    },
+    {
+      "added_at": "2024-05-10 06:20:50",
+      "album": {
+        "name": "House Player",
+        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
+      },
+      "artists": [
+        {
+          "name": "DJ Mbuso",
+          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
+        }
+      ],
+      "duration_ms": 370906,
+      "name": "Mbuso's Revenge",
+      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
     },
     {
       "added_at": "2024-05-10 06:20:50",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-10 06:20:50",
       "album": {
-        "name": "Zabalaza",
-        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        }
-      ],
-      "duration_ms": 402093,
-      "name": "Zabalaza",
-      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
-    },
-    {
-      "added_at": "2024-05-10 06:20:50",
-      "album": {
         "name": "Mababaza",
         "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 247630,
       "name": "Sbali",
       "url": "https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV"
+    },
+    {
+      "added_at": "2024-05-10 06:20:50",
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 402093,
+      "name": "Zabalaza",
+      "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
     },
     {
       "added_at": "2024-05-10 06:20:50",

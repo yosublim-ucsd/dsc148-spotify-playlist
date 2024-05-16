@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 
 ### [This Is Kenia OS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBgha)
 
-> This is Kenia OS\. The essential tracks, all in one playlist.
+> This Is Kenia OS\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,365 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,374 likes - 47 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 46 | [Kenia Roast Yourself](https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Kenia Roast Yourself](https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779) | 3:56 |
 | 47 | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui) | 2:59 |
 
-Snapshot ID: `ZkFYAAAAAAB/UGIA2iCHhaFEdLPxGOFh`
+Snapshot ID: `ZkFYAAAAAAB055kx9JoyiXbOBJaTSrJF`

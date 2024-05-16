@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,245 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,271 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 36 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 |
 | 37 | [Fire Wood](https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf) | [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Breakfast in Lagos](https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u) | 2:21 |
 | 38 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 |
-| 39 | [Bad Influence](https://open.spotify.com/track/6DFM9BKkKDGHoGoavIPV3c) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/1WtsIAJMX3vtk7Gjpftyyu) | 2:18 |
-| 40 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 |
+| 39 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 |
+| 40 | [Bad Influence](https://open.spotify.com/track/6DFM9BKkKDGHoGoavIPV3c) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/1WtsIAJMX3vtk7Gjpftyyu) | 2:18 |
 | 41 | [Don't Call Me Back](https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:32 |
 | 42 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 |
 | 43 | [Fvck You](https://open.spotify.com/track/3YbFfl3M2XgBhKoUW19XbQ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [King Of Love](https://open.spotify.com/album/17HtAdJO3qQzLJDf9GAePl) | 3:51 |
-| 44 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 |
-| 45 | [Omoge Mi](https://open.spotify.com/track/6xKWafFBzv9KGbWODuwQ0V) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs) | 4:35 |
-| 46 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 |
-| 47 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 |
+| 44 | [Omoge Mi](https://open.spotify.com/track/6xKWafFBzv9KGbWODuwQ0V) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs) | 4:35 |
+| 45 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 |
+| 46 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 |
+| 47 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 |
 | 48 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 |
-| 49 | [Toxic Love](https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Toxic Love](https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK) | 2:19 |
-| 50 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 |
+| 49 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 |
+| 50 | [Toxic Love](https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Toxic Love](https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK) | 2:19 |
 
 Snapshot ID: `Zj1jvAAAAACH0S3Ojtz8d6niKGyjNrEn`

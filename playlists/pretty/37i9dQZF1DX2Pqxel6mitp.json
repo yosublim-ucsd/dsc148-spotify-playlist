@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 85575,
+  "num_followers": 85633,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Rockin' With Reed",
-        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 143331,
-      "name": "Take Out Some Insurance",
-      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 228626,
       "name": "T-Bone Blues",
       "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Rockin' With Reed",
+        "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 143331,
+      "name": "Take Out Some Insurance",
+      "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Black Angel Blues",
-      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "The \"Killer\" Rocks On",
         "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 172800,
       "name": "C.C. Rider",
       "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Forever On My Mind",
-        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 351960,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Love Comin' Down",
         "url": "https://open.spotify.com/album/0kzGduWwsaqFQ4x4hJS8iS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 272493,
       "name": "Two Trains",
       "url": "https://open.spotify.com/track/1E6zG7BknaI9FQPIhb7o9r"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Forever On My Mind",
+        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 351960,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 179293,
       "name": "Tough Times",
       "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "I\u2019m Leaving (The Circle Session, 2023)",
-        "url": "https://open.spotify.com/album/3pKl41Jxd2TLvWFSqsDRM7"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 319011,
-      "name": "I'm Leaving - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/21BrIxmHjrYiLrzIDP3kNI"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Devil Got My Woman",
         "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 315000,
       "name": "Devil Got My Woman",
       "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "I\u2019m Leaving (The Circle Session, 2023)",
+        "url": "https://open.spotify.com/album/3pKl41Jxd2TLvWFSqsDRM7"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 319011,
+      "name": "I'm Leaving - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/21BrIxmHjrYiLrzIDP3kNI"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 156465,
       "name": "The Sun is Shining",
       "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Strange Time To Be Alive",
-        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Dance In The Fire",
-      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Dance In The Fire",
+      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Mean Ole Frisco",
         "url": "https://open.spotify.com/album/7flULFzyNizeGByE4WDgnr"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 140906,
       "name": "That's All Right (Mama)",
       "url": "https://open.spotify.com/track/2MErQaq2RPHSoxqmyzQrYR"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Guitar Blues 101",
+        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy & Junior Wells",
+          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Rollin' and Tumblin'",
+      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1371,22 +1387,6 @@
       "duration_ms": 241946,
       "name": "If You Go",
       "url": "https://open.spotify.com/track/1YLLWrUeR99ztUaGGn355R"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Guitar Blues 101",
-        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy & Junior Wells",
-          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Rollin' and Tumblin'",
-      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Misery Loves Company",
-        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR"
       },
       "artists": [
         {
-          "name": "Mary Flower",
-          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
+          "name": "Marc Amacher",
+          "url": "https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0"
         }
       ],
-      "duration_ms": 372440,
-      "name": "Death Letter Blues",
-      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
+      "duration_ms": 252253,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR"
+        "name": "Misery Loves Company",
+        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
       },
       "artists": [
         {
-          "name": "Marc Amacher",
-          "url": "https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0"
+          "name": "Mary Flower",
+          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
         }
       ],
-      "duration_ms": 252253,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu"
+      "duration_ms": 372440,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Empire State Express",
-        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
+        "name": "When Your Best Friend Turns Their Back On You",
+        "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "John Littlejohn",
+          "url": "https://open.spotify.com/artist/2HzWKvI04SaehwU6bM9GUn"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Empire State Express",
-      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
+      "duration_ms": 361200,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Empire State Express",
+        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Empire State Express",
+      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "A Soul to Claim",
         "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 267512,
       "name": "Only Porter at the Station",
       "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "When Your Best Friend Turns Their Back On You",
-        "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
-      },
-      "artists": [
-        {
-          "name": "John Littlejohn",
-          "url": "https://open.spotify.com/artist/2HzWKvI04SaehwU6bM9GUn"
-        }
-      ],
-      "duration_ms": 361200,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Gettin' Together",
-        "url": "https://open.spotify.com/album/52jq4u9jjWovc8hzgf472C"
-      },
-      "artists": [
-        {
-          "name": "Michael Jerome Browne",
-          "url": "https://open.spotify.com/artist/5FuofLPjGvwTTSt0rHphfc"
-        }
-      ],
-      "duration_ms": 231776,
-      "name": "Please Help",
-      "url": "https://open.spotify.com/track/4tUmDlWfo82idjkeOp8rgX"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Got to Go Back Home",
         "url": "https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 234473,
       "name": "Got to Go Back Home",
       "url": "https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Gettin' Together",
+        "url": "https://open.spotify.com/album/52jq4u9jjWovc8hzgf472C"
+      },
+      "artists": [
+        {
+          "name": "Michael Jerome Browne",
+          "url": "https://open.spotify.com/artist/5FuofLPjGvwTTSt0rHphfc"
+        }
+      ],
+      "duration_ms": 231776,
+      "name": "Please Help",
+      "url": "https://open.spotify.com/track/4tUmDlWfo82idjkeOp8rgX"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Outside (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 172713,
       "name": "Something's Wrong",
       "url": "https://open.spotify.com/track/3xNcvPeHHpGAkXR3EBRU5A"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Outside (featuring Lamar Williams Jr.)",
+      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
     },
     {
       "added_at": "2023-11-24 19:23:20",

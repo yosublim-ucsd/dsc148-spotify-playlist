@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,626 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,620 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 34 | [Christmas Rave](https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Basslovers United](https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Christmas Rave](https://open.spotify.com/album/0qWXWyan06KiYiMtYS2Q67) | 2:25 |
 | 35 | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [It's Christmas Time \(with Michael Bolton\)](https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C) | 3:23 |
 | 36 | [2020 Christmas](https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A) | [Dominique](https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8) | [2020 Christmas](https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq) | 2:05 |
-| 37 | [Christmas With You](https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Tom Faber](https://open.spotify.com/artist/3fJXOOFs3qd12qPgcZvzFJ), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Christmas With You](https://open.spotify.com/album/35w6FkcyNuQ3wtMG1sJhNX) | 2:27 |
-| 38 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 |
+| 37 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 |
+| 38 | [Christmas With You](https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Tom Faber](https://open.spotify.com/artist/3fJXOOFs3qd12qPgcZvzFJ), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Christmas With You](https://open.spotify.com/album/35w6FkcyNuQ3wtMG1sJhNX) | 2:27 |
 | 39 | [Christmas is Here \(feat\. Late Night Alumni\)](https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 2:47 |
 | 40 | [Last Christmas](https://open.spotify.com/track/5K8Ka64VtY8EoqfNgKqYlN) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [ChipTune](https://open.spotify.com/artist/70GKv0GShE7KGqElJe9gxy) | [Last Christmas](https://open.spotify.com/album/54g1r68fEM0mbkMt7OmFku) | 2:28 |
 | 41 | [I Wish \(feat\. Mabel\) \- Christmas Version](https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\) \[Christmas Version\]](https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy) | 3:20 |

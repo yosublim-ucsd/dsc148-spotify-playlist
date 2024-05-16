@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: إليسا
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,312 likes - 78 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,381 likes - 78 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。MILLENNIUM PARADE, Post Malone, Ice Spice,  SEKAI NO OWARI and more! cover: MILLENNIUM PARADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,605 likes - 84 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,629 likes - 84 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 71 | [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 |
 | 72 | [magical moment 2584](https://open.spotify.com/track/3Wd4GGP52tnJGdWajFPknM) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [éphémère \(Original Soundtrack\)](https://open.spotify.com/album/46YXG4wO1EHB8FzrNbMxsQ) | 3:47 |
 | 73 | [2nd Revolution](https://open.spotify.com/track/6ugY3QChCjwaqWLZZE1tO6) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [2nd Revolution](https://open.spotify.com/album/7cVeLsQccO6KMrAd951LiP) | 2:45 |
-| 74 | [EVERGREEN \- KM Remix](https://open.spotify.com/track/1423mK2swMePYLGBPpRHcn) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [EVERGREEN \(KM Remix\)](https://open.spotify.com/album/5G2PvM21xlpQaWFV9bbtrn) | 3:36 |
+| 74 | [EVERGREEN \- KM Remix](https://open.spotify.com/track/1423mK2swMePYLGBPpRHcn) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [EVERGREEN \(KM Remix\)](https://open.spotify.com/album/5G2PvM21xlpQaWFV9bbtrn) | 3:36 |
 | 75 | [Switch](https://open.spotify.com/track/23go39MHs82n7ZuFUFFda6) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Switch](https://open.spotify.com/album/1WiDQdLHHTm23MIHPAuxje) | 2:54 |
 | 76 | [Most Definitely](https://open.spotify.com/track/098rsNELupiqnutsfFUeKt) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Most Definitely](https://open.spotify.com/album/79BMhiSb5NwMmRhH7etk6y) | 3:26 |
-| 77 | [G.O.H](https://open.spotify.com/track/4BLLKfDFwepJQbAn6xL167) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [STACKIN' BREAD FROM THE PRISON Mixed by DJ DEFLO](https://open.spotify.com/album/42VPtqE0iKiFBfTuR9utZp) | 2:28 |
+| 77 | [G.O.H \- Mixed](https://open.spotify.com/track/4BLLKfDFwepJQbAn6xL167) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [STACKIN' BREAD FROM THE PRISON Mixed by DJ DEFLO](https://open.spotify.com/album/42VPtqE0iKiFBfTuR9utZp) | 2:28 |
 | 78 | [Everybody](https://open.spotify.com/track/4J49lA4pk81tqf7mLVf3Ml) | [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD) | [Everybody](https://open.spotify.com/album/3Au69cf9QGP548iYg9RjRM) | 2:37 |
 | 79 | [Happy Slides](https://open.spotify.com/track/1AzCaSTj5ZiE5Kz1Bk4uI8) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Happy Slides](https://open.spotify.com/album/264LI8XtPmUKAf0RMxFbVF) | 3:15 |
 | 80 | [The Older You Get](https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [The Older You Get](https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ) | 3:36 |

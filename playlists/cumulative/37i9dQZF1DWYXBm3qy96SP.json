@@ -6592,7 +6592,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 367954,
       "name": "Empty And Silent (feat. King Krule)",
       "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
@@ -10963,6 +10963,24 @@
     },
     {
       "album": {
+        "name": "Just My Type",
+        "url": "https://open.spotify.com/album/1FrfBppniPQH42IpFBBgAh"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185642,
+      "name": "Just My Type",
+      "url": "https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8"
+    },
+    {
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -11476,7 +11494,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 255942,
       "name": "Last Night On Earth - Single Version / Remastered 2024",
       "url": "https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw"
@@ -20042,6 +20060,24 @@
       "duration_ms": 244216,
       "name": "The Indigo Streak",
       "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
+    },
+    {
+      "album": {
+        "name": "The Joke / Deranged",
+        "url": "https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2024-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237533,
+      "name": "The Joke",
+      "url": "https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ"
     },
     {
       "album": {

@@ -3251,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "The Idea of You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153002,
+      "name": "Guard Down",
+      "url": "https://open.spotify.com/track/3HpaV46FMvO52VbH0wuxpP"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
       },
@@ -3374,7 +3392,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 228857,
       "name": "Healing Out of Spite",
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
@@ -3808,6 +3826,28 @@
       "duration_ms": 178780,
       "name": "I Can't Help But Feel",
       "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "album": {
@@ -5560,7 +5600,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 206112,
       "name": "Mile Away",
       "url": "https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK"
@@ -7881,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "album": {
         "name": "The Dumb Song",
         "url": "https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5"
       },
@@ -9166,7 +9224,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 181500,
       "name": "you're like",
       "url": "https://open.spotify.com/track/7BE81V2jbUz6HtGOIGHGuZ"

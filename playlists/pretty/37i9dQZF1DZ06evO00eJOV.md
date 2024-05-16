@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 
 ### [This Is Brenda Fassie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00eJOV)
 
-> This is: Brenda Fassie\. Alle wichtigen Tracks in einer Playlist.
+> This is Brenda Fassie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,246 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,249 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 49 | [Don't Follow Me I'm Married](https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Too Late For Mama](https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN) | 4:37 |
 | 50 | [Ngiyakusaba](https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [I Am Not A Bad Girl](https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y) | 5:14 |
 
-Snapshot ID: `ZkFYAAAAAAAj0b95xUvO0H4FMcI8CKug`
+Snapshot ID: `ZkFYAAAAAACnwxc8exSBLtPdNY6GI7KK`

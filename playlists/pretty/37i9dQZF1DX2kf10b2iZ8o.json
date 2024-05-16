@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 22873,
+  "num_followers": 22884,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR",
+        "url": "https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz"
+      },
+      "artists": [
+        {
+          "name": "315 ALLSTARS",
+          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
+        }
+      ],
+      "duration_ms": 295506,
+      "name": "PRIDE STAR",
+      "url": "https://open.spotify.com/track/6foQ7TwClarh7orzRNKMa9"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
         "name": "THE IDOLM@STER SideM WORLD TRE@SURE 03",
         "url": "https://open.spotify.com/album/2600B026iZThRT78I7Xjlk"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 248333,
       "name": "Baile Apasionado",
       "url": "https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
-        "name": "THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03",
-        "url": "https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK"
-      },
-      "artists": [
-        {
-          "name": "315 STARS",
-          "url": "https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "POKER FAITH -\u30dd\u30fc\u30ab\u30fc\u30d5\u30a7\u30a4\u30b9-",
-      "url": "https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz"
     },
     {
       "added_at": "2024-03-05 17:33:35",
@@ -1139,34 +1139,42 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR",
-        "url": "https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz"
+        "name": "THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03",
+        "url": "https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK"
       },
       "artists": [
         {
-          "name": "315 ALLSTARS",
-          "url": "https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX"
+          "name": "315 STARS",
+          "url": "https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO"
         }
       ],
-      "duration_ms": 295506,
-      "name": "PRIDE STAR",
-      "url": "https://open.spotify.com/track/6foQ7TwClarh7orzRNKMa9"
+      "duration_ms": 243106,
+      "name": "POKER FAITH -\u30dd\u30fc\u30ab\u30fc\u30d5\u30a7\u30a4\u30b9-",
+      "url": "https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz"
     },
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a04 Caf\u00e9 Parade",
-        "url": "https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA"
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
       },
       "artists": [
         {
           "name": "Caf\u00e9 Parade",
           "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        },
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        },
+        {
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
         }
       ],
-      "duration_ms": 247573,
-      "name": "Delicious Delivery",
-      "url": "https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO"
+      "duration_ms": 276026,
+      "name": "Eternal Fantasia",
+      "url": "https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq"
     },
     {
       "added_at": "2024-03-05 17:33:35",

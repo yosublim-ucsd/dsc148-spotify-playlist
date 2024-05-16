@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85490,
+  "num_followers": 85504,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 270906,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 169776,
       "name": "TOSCANA",
       "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 270906,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 153139,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/0y6hqnWI5Yf6tJishhKjW0"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/5OKRA5qN6pPxDKW2xis3ic"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Bandido - En Vivo",
+      "url": "https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 177818,
       "name": "Lindos Problemas",
       "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
-        "name": "En Vivo en el Gran Rex",
-        "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Bandido - En Vivo",
-      "url": "https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
+        "name": "El Momento Perfecto",
+        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
         "name": "Historia de un Amor",
         "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 155675,
       "name": "Todo Lamento",
       "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
-        "name": "El Momento Perfecto",
-        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 201661,
-      "name": "El Momento Perfecto",
-      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Cl\u00e1sico",
-        "url": "https://open.spotify.com/album/6SBMBonYpCmJUIPlwSnL6G"
-      },
-      "artists": [
-        {
-          "name": "Hipnotica",
-          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 201441,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/7bNtNcHMc4VMmiWO9gQBXy"
-    },
-    {
-      "added_at": "2024-04-25 19:24:52",
-      "album": {
         "name": "Vete De Una Vez",
         "url": "https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX"
       },
@@ -1635,18 +1615,22 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "Nataci\u00f3n (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4kzkWxw8Mx0O2jvphkJuVh"
+        "name": "Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/6SBMBonYpCmJUIPlwSnL6G"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 221824,
-      "name": "Nataci\u00f3n - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1yBoSHwB98478ukWVGp0Qq"
+      "duration_ms": 201441,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/7bNtNcHMc4VMmiWO9gQBXy"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1679,6 +1663,22 @@
       "duration_ms": 198571,
       "name": "Retrato",
       "url": "https://open.spotify.com/track/62zJRyfUtWI67iXWBY5e3p"
+    },
+    {
+      "added_at": "2024-04-25 19:24:52",
+      "album": {
+        "name": "Nataci\u00f3n (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4kzkWxw8Mx0O2jvphkJuVh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 221824,
+      "name": "Nataci\u00f3n - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1yBoSHwB98478ukWVGp0Qq"
     },
     {
       "added_at": "2024-04-25 19:24:52",
@@ -1739,22 +1739,18 @@
     {
       "added_at": "2024-04-25 19:24:52",
       "album": {
-        "name": "El Milagro",
-        "url": "https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh"
+        "name": "No Me Quiero Ir Lejos",
+        "url": "https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy"
       },
       "artists": [
         {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
         }
       ],
-      "duration_ms": 218639,
-      "name": "El Milagro",
-      "url": "https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic"
+      "duration_ms": 204614,
+      "name": "No Me Quiero Ir Lejos",
+      "url": "https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW"
     }
   ],
   "unique_name": "Radio Indie",

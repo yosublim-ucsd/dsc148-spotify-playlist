@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YOOK SUNGJAE\(육성재\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,235 likes - 130 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,363 likes - 130 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 42 | [Gunners \(feat\. Gwang\-il Jo\)](https://open.spotify.com/track/0kd1YSuDy1VD9Hiu2jowN9) | [MODO](https://open.spotify.com/artist/2IubTH4G0npISFP7DCualO), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [VERSE BATTLE RAPCUP Quarterfinals Part I](https://open.spotify.com/album/6errfeEuUILS7trc194CGi) | 3:48 |
 | 43 | [Hangang Chillin'](https://open.spotify.com/track/2z4Q58WhE8OC5F38R3hCGd) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Hangang Chillin'](https://open.spotify.com/album/0mm29Ew2iUYiyLKVyi2HBE) | 2:45 |
 | 44 | [I can](https://open.spotify.com/track/5MtJXTHJOAB7JU4uQ3U4J7) | [rotten but still sweet](https://open.spotify.com/artist/322OUn5IKJCjyuoIuBgSXx) | [I can](https://open.spotify.com/album/2a55bgBDhtRfOMcdZAxfYt) | 3:40 |
-| 45 | [Only You](https://open.spotify.com/track/1EEUsRxQNO7V6k2sUNsDyv) | [Punch](https://open.spotify.com/artist/5srfARv56g1mB0ULJgKQEY) | [Cho Youngsoo Remake Project Part.3](https://open.spotify.com/album/5cj1qXBQPkZmZuiiG15GD2) | 3:26 |
+| 45 | [Only You](https://open.spotify.com/track/1EEUsRxQNO7V6k2sUNsDyv) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Cho Youngsoo Remake Project Part.3](https://open.spotify.com/album/5cj1qXBQPkZmZuiiG15GD2) | 3:26 |
 | 46 | [Three Methods of Containing Sorrow](https://open.spotify.com/track/3RDCy9sr00fMnAN8b3E26Y) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Three Methods of Containing Sorrow](https://open.spotify.com/album/5dq1nYp45LJ0t5rng19jnU) | 3:56 |
 | 47 | [Drip Drop](https://open.spotify.com/track/2N7k0XskWId3p5gEdDQ9Nu) | [Lee Dong Yeol](https://open.spotify.com/artist/29RErZSdBFsMxRcFXXSlfu) | [Howling](https://open.spotify.com/album/2aoTKWmzxyqIvJTUAaYzqb) | 3:17 |
 | 48 | [Mars](https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:07 |

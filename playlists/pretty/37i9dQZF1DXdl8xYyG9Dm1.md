@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=P\_hQxbrsQ\_2BiMszZLQp2A"> ODUMODUBLVCK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,061 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,184 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 22 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 |
 | 23 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
 | 24 | [45](https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:52 |
-| 25 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
-| 26 | [Hallelujah](https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rozzz](https://open.spotify.com/artist/3wIYjte1HLaehiGvrSxUju), [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd) | [Hallelujah](https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH) | 3:18 |
+| 25 | [Hallelujah](https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rozzz](https://open.spotify.com/artist/3wIYjte1HLaehiGvrSxUju), [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd) | [Hallelujah](https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH) | 3:18 |
+| 26 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
 | 27 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 28 | [CORSA LITE MUSIC](https://open.spotify.com/track/6vo1ZacthDmWGZwxVLsRsK) | [ByLwansta](https://open.spotify.com/artist/08XiXTlJPbnyNFZBygX58N), [Hannah Lane](https://open.spotify.com/artist/0LhFbxS54laQx2Yo3aASr5), [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [THE CHIP IS StALE](https://open.spotify.com/album/30SozwyvYzVXmez5cnc2np) | 4:33 |
 | 29 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 |

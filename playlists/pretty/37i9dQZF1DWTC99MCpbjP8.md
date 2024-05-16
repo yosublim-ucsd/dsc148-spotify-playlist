@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,302 likes - 228 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,396 likes - 228 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 40 | [Three Small Steps](https://open.spotify.com/track/7pYPoG1pds3ZaoZt5tVGe6) | [Flore Habendum](https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl) | [Three Small Steps](https://open.spotify.com/album/71PNbuZGjoFXdjJ818Nv8q) | 3:03 |
 | 41 | [Reverie](https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Reverie](https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP) | 2:30 |
 | 42 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 |
-| 43 | [An Evening](https://open.spotify.com/track/1XC63Vb7wvBRuIYcEuOEVm) | [Daan Duijf](https://open.spotify.com/artist/4vgc7LR6lNRJBCO1FGWeSc) | [An Evening](https://open.spotify.com/album/7DtgwEUhcxPrSNZ1Pi0Ydh) | 2:35 |
+| 43 | [An Evening \- Single Edit](https://open.spotify.com/track/1XC63Vb7wvBRuIYcEuOEVm) | [Daan Duijf](https://open.spotify.com/artist/4vgc7LR6lNRJBCO1FGWeSc) | [An Evening](https://open.spotify.com/album/7DtgwEUhcxPrSNZ1Pi0Ydh) | 2:35 |
 | 44 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 |
 | 45 | [Angel Wings](https://open.spotify.com/track/2XZC2qNKbAKHLpvJH0BEZs) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Angel Wings](https://open.spotify.com/album/65XjpkXA9NZbuhOaEOqGnT) | 2:58 |
 | 46 | [Once Forever Ago](https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Once Forever Ago](https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6) | 2:26 |

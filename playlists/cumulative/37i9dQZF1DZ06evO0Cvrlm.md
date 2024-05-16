@@ -2,7 +2,7 @@
 
 ### [This Is George Michael](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Cvrlm)
 
-> This is George Michael\. The essential tracks, all in one playlist.
+> This is George Michael\. Todos os maiores hits em uma só playlist.
 
 64 songs - 5 hr 10 min
 
@@ -24,10 +24,10 @@
 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 | 2023-07-28 |  |
 | [Fastlove, Pt\. 1](https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:24 | 2023-07-28 |  |
 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 | 2023-07-28 |  |
-| [Feeling Good \- Live](https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:15 | 2023-07-28 | 2024-05-14 |
+| [Feeling Good \- Live](https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:15 | 2023-07-28 |  |
 | [Flawless \(Go to the City\)](https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 6:51 | 2023-07-28 |  |
 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 | 2023-07-28 | 2023-11-11 |
-| [Freedom! '90 \- Remastered](https://open.spotify.com/track/1wZ7o1mZysv1l26ZWawVfW) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 6:30 | 2023-11-10 |  |
+| [Freedom! '90 \- Remastered](https://open.spotify.com/track/1wZ7o1mZysv1l26ZWawVfW) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 6:30 | 2023-11-10 | 2024-05-16 |
 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 | 2023-07-28 |  |
 | [Hand to Mouth \- Remastered](https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:36 | 2023-12-19 | 2024-05-14 |
 | [Heal the Pain \- Remastered](https://open.spotify.com/track/2EBWsH43kZsQd6MSPygouy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:39 | 2023-07-28 | 2023-12-17 |
@@ -42,7 +42,7 @@
 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 | 2024-01-30 |  |
 | [Killer / Papa Was a Rollin' Stone](https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 4:15 | 2023-07-28 | 2024-01-28 |
 | [Kissing a Fool \- Remastered](https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:40 | 2023-07-28 |  |
-| [Let Her Down Easy \- Live](https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:50 | 2023-07-28 |  |
+| [Let Her Down Easy \- Live](https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 3:50 | 2023-07-28 | 2024-05-16 |
 | [Miss Sarajevo](https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:10 | 2023-07-28 |  |
 | [Monkey \- Remastered](https://open.spotify.com/track/2nzPzkGP9QSZ1lqvXTfyzT) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:06 | 2023-07-28 |  |
 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:59 | 2023-08-09 | 2023-08-28 |
@@ -51,7 +51,7 @@
 | [Older](https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:33 | 2023-07-28 |  |
 | [One More Try \- Remastered](https://open.spotify.com/track/5932kbyNt445gDTT2chRUS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:50 | 2023-07-28 |  |
 | [Outside](https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 4:43 | 2023-07-28 |  |
-| [Praying for Time \- Remastered](https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 | 2023-12-29 | 2024-05-15 |
+| [Praying for Time \- Remastered](https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 | 2023-12-29 |  |
 | [Praying for Time \- Remastered](https://open.spotify.com/track/7CgRXXie9XIxVSkpKi40ID) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:40 | 2023-07-28 | 2023-12-30 |
 | [Round Here](https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 5:55 | 2023-07-28 |  |
 | [Roxanne](https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:11 | 2023-07-28 |  |

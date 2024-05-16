@@ -4,7 +4,7 @@
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-229 songs - 11 hr 44 min
+230 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Baby \(with J Balvin\)](https://open.spotify.com/track/4L5ZhW0VJeQ6je2iqvqZ4X) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT) | 3:13 | 2022-05-03 | 2022-07-27 |
 | [Balaclava \(feat\. Capo Plaza\)](https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Untouchable](https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf) | 3:07 | 2022-05-03 | 2022-07-29 |
 | [Bandito](https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Bandito](https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh) | 2:39 | 2023-01-19 | 2023-03-21 |
+| [BBE \(feat\. Lazza\)](https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [BBE \(feat\. Lazza\)](https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3) | 3:18 | 2024-05-15 |  |
 | [Blauer](https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Blauer](https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK) | 2:56 | 2022-05-03 | 2022-07-29 |
 | [Bling Bling \(Oro\)](https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:28 | 2023-10-26 |  |
 | [Blue Bandana](https://open.spotify.com/track/55Soh2lcLeN0ysLou2P7XP) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [Blue Bandana](https://open.spotify.com/album/79KOIK5EMbjEXYu3TPQTt6) | 2:46 | 2022-05-03 | 2022-07-29 |
@@ -47,7 +48,7 @@
 | [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/78xAYXMtvQkDvlqJA3fKu6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:32 | 2022-10-11 | 2023-03-29 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2022-06-09 | 2024-04-19 |
 | [Calling My Phone](https://open.spotify.com/track/5Kskr9LcNYa0tpt5f0ZEJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Calling My Phone](https://open.spotify.com/album/1QhKOq11hGEoNA42rV2IHp) | 3:25 | 2022-05-03 | 2022-07-28 |
-| [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-05-03 |  |
+| [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-05-03 | 2024-05-16 |
 | [Capo](https://open.spotify.com/track/7A9lnmpkWR2tPkcPWGbMqo) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele \(Marchio registrato\)](https://open.spotify.com/album/2ahd6iY3PPFIK0Tu1oB46c) | 2:30 | 2022-05-03 | 2022-07-29 |
 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 | 2022-06-02 |  |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-14 | 2024-05-13 |

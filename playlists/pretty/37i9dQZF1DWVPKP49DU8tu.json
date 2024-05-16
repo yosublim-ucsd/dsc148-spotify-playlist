@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 356038,
+  "num_followers": 356039,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
+        "name": "la noia",
+        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 189124,
+      "name": "la noia",
+      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 259453,
       "name": "She Will Be Loved - Radio Mix",
       "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
-        "name": "la noia",
-        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 189124,
-      "name": "la noia",
-      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Girl on Fire (Remixes) - EP",
-        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Girl on Fire",
-      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Out Of Our Heads",
         "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Girl on Fire (Remixes) - EP",
+        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Girl on Fire",
+      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "TUTA GOLD",
-        "url": "https://open.spotify.com/album/298TPucavaqMuiInBsW7jX"
-      },
-      "artists": [
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        }
-      ],
-      "duration_ms": 178467,
-      "name": "TUTA GOLD",
-      "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "TUTA GOLD",
+        "url": "https://open.spotify.com/album/298TPucavaqMuiInBsW7jX"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "duration_ms": 178467,
+      "name": "TUTA GOLD",
+      "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
         "name": "Sinceramente",
         "url": "https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 217031,
       "name": "UN RAGAZZO UNA RAGAZZA",
       "url": "https://open.spotify.com/track/60NDVF7fFIq13aO9rIN80c"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "I AM...SASHA FIERCE - Platinum Edition",
-        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261160,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "I AM...SASHA FIERCE - Platinum Edition",
+        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261160,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Vai!",
-        "url": "https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Vai!",
-      "url": "https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Memories (feat. Kid Cudi) [2021 Remix]",
         "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 162992,
       "name": "Memories (feat. Kid Cudi) - 2021 Remix",
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Vai!",
+        "url": "https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Vai!",
+      "url": "https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Ma non tutta la vita",
-        "url": "https://open.spotify.com/album/404Id5xZDXzT3yc85GiZxG"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Ma non tutta la vita",
-      "url": "https://open.spotify.com/track/1bZIs6zAOtFJLORZVojCUH"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
+        "name": "Ma non tutta la vita",
+        "url": "https://open.spotify.com/album/404Id5xZDXzT3yc85GiZxG"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Ma non tutta la vita",
+      "url": "https://open.spotify.com/track/1bZIs6zAOtFJLORZVojCUH"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
         "name": "Diamond Dogs (2016 Remaster)",
         "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 274746,
       "name": "Rebel Rebel - 2016 Remaster",
       "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
-        "name": "DIAMANTI GREZZI",
-        "url": "https://open.spotify.com/album/11KJdw9RyMJwFABzPBaALV"
-      },
-      "artists": [
-        {
-          "name": "CLARA",
-          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "DIAMANTI GREZZI",
-      "url": "https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Leave a Light On",
-        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
+        "name": "DIAMANTI GREZZI",
+        "url": "https://open.spotify.com/album/11KJdw9RyMJwFABzPBaALV"
       },
       "artists": [
         {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
         }
       ],
-      "duration_ms": 185863,
-      "name": "Leave a Light On",
-      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
+      "duration_ms": 192120,
+      "name": "DIAMANTI GREZZI",
+      "url": "https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1307,6 +1291,22 @@
       "duration_ms": 193320,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Leave a Light On",
+        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 185863,
+      "name": "Leave a Light On",
+      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Onda Alta",
-        "url": "https://open.spotify.com/album/0VXxWeYHwVAP2HiOBG5Evx"
-      },
-      "artists": [
-        {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
-        }
-      ],
-      "duration_ms": 214556,
-      "name": "Onda Alta",
-      "url": "https://open.spotify.com/track/586qiIWHIkjYnfwnIAFY38"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 249866,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Onda Alta",
+        "url": "https://open.spotify.com/album/0VXxWeYHwVAP2HiOBG5Evx"
+      },
+      "artists": [
+        {
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+        }
+      ],
+      "duration_ms": 214556,
+      "name": "Onda Alta",
+      "url": "https://open.spotify.com/track/586qiIWHIkjYnfwnIAFY38"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "AUTODISTRUTTIVO",
-        "url": "https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q"
-      },
-      "artists": [
-        {
-          "name": "LA SAD",
-          "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
-        }
-      ],
-      "duration_ms": 189494,
-      "name": "AUTODISTRUTTIVO",
-      "url": "https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "The Hits--Chapter One",
         "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 213600,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "AUTODISTRUTTIVO",
+        "url": "https://open.spotify.com/album/1M06XJqOcsMo0kCroZzl0q"
+      },
+      "artists": [
+        {
+          "name": "LA SAD",
+          "url": "https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY"
+        }
+      ],
+      "duration_ms": 189494,
+      "name": "AUTODISTRUTTIVO",
+      "url": "https://open.spotify.com/track/3ZcpVnBJguv1WVeMG44i2M"
     },
     {
       "added_at": "2024-03-27 14:38:52",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-03-27 14:38:52",
       "album": {
-        "name": "Pazza",
-        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
-      },
-      "artists": [
-        {
-          "name": "Loredana Bert\u00e8",
-          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
-        }
-      ],
-      "duration_ms": 168166,
-      "name": "Pazza",
-      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
-    },
-    {
-      "added_at": "2024-03-27 14:38:52",
-      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 192040,
       "name": "La tua canzone",
       "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
+    },
+    {
+      "added_at": "2024-03-27 14:38:52",
+      "album": {
+        "name": "Pazza",
+        "url": "https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv"
+      },
+      "artists": [
+        {
+          "name": "Loredana Bert\u00e8",
+          "url": "https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx"
+        }
+      ],
+      "duration_ms": 168166,
+      "name": "Pazza",
+      "url": "https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe"
     },
     {
       "added_at": "2024-03-27 14:38:52",

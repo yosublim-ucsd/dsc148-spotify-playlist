@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Neeti Mohan
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,383 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,398 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 13 | [Karma](https://open.spotify.com/track/5mowfsyfcMHPljgxVMjtQL) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 4:00 |
 | 14 | [Ho Jaane Do](https://open.spotify.com/track/4hnXC2Tx6qpL3wJTRdOH3G) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Ho Jaane Do](https://open.spotify.com/album/7tpX0rspZTkQZSXTJeYm09) | 3:11 |
 | 15 | [Baavre Ho Gaye](https://open.spotify.com/track/6eqPTXbERj4fj48rKzT0TZ) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Baavre Ho Gaye](https://open.spotify.com/album/29GwKSimTP6XMlop401he1) | 3:48 |
-| 16 | [Mashwara](https://open.spotify.com/track/1Yiwkdc1Jv5NjXThjL541E) | [Surya Singh](https://open.spotify.com/artist/39l29T5muGAMa7ARnBGyNQ), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Mashwara](https://open.spotify.com/album/5WcGuU8M3bqnMUrKwM7pzH) | 2:52 |
+| 16 | [Mashwara](https://open.spotify.com/track/1Yiwkdc1Jv5NjXThjL541E) | [Surya Singh](https://open.spotify.com/artist/0ttzjcNFtqtpDr2nh12FL4), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Mashwara](https://open.spotify.com/album/5WcGuU8M3bqnMUrKwM7pzH) | 2:52 |
 | 17 | [Furqat](https://open.spotify.com/track/5mSmawZVP7jIxHv4gTt9s5) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Sameer Uddin](https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Furqat](https://open.spotify.com/album/45Zqi0sTQmzyyoReHnrOez) | 3:57 |
 | 18 | [Kya Tu Mere Bina](https://open.spotify.com/track/4FFN55Fdmd6C7ZE2oxNnRl) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 2:55 |
 | 19 | [Jiya Laage Na](https://open.spotify.com/track/3KPUWlWbtzm5xAe7j6s58R) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Jiya Laage Na](https://open.spotify.com/album/4RUF107aoycB0b7JVeNFie) | 3:15 |

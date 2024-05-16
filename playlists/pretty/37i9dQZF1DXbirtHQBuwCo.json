@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: (Cover: D.O.(\ub3c4\uacbd\uc218))",
-  "num_followers": 1004734,
+  "num_followers": 1004718,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,18 @@
     {
       "added_at": "2024-05-10 04:25:09",
       "album": {
-        "name": "HOPE ON THE STREET VOL.1",
-        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
       },
       "artists": [
         {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         }
       ],
-      "duration_ms": 183149,
-      "name": "i don't know (with HUH YUNJIN of LE SSERAFIM)",
-      "url": "https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ"
+      "duration_ms": 179866,
+      "name": "Sugarcoat (NATTY Solo)",
+      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
     },
     {
       "added_at": "2024-05-10 04:25:09",
@@ -323,18 +319,22 @@
     {
       "added_at": "2024-05-10 04:25:09",
       "album": {
-        "name": "KISS OF LIFE",
-        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
       },
       "artists": [
         {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
         }
       ],
-      "duration_ms": 179866,
-      "name": "Sugarcoat (NATTY Solo)",
-      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
+      "duration_ms": 183149,
+      "name": "i don't know (with HUH YUNJIN of LE SSERAFIM)",
+      "url": "https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ"
     },
     {
       "added_at": "2024-05-10 04:25:09",
@@ -455,6 +455,26 @@
     {
       "added_at": "2024-05-10 04:25:09",
       "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
+    },
+    {
+      "added_at": "2024-05-10 04:25:09",
+      "album": {
         "name": "Bittersweet (feat. LeeHi)",
         "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 174773,
       "name": "Bittersweet (feat. LeeHi)",
       "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
-    },
-    {
-      "added_at": "2024-05-10 04:25:09",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
     },
     {
       "added_at": "2024-05-10 04:25:09",
@@ -655,26 +655,22 @@
     {
       "added_at": "2024-05-10 04:25:09",
       "album": {
-        "name": "Yes or No",
-        "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
       },
       "artists": [
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         },
         {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
         }
       ],
-      "duration_ms": 179146,
-      "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
-      "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
+      "duration_ms": 214920,
+      "name": "Don't ever say love me (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
     },
     {
       "added_at": "2024-05-10 04:25:09",
@@ -699,22 +695,26 @@
     {
       "added_at": "2024-05-10 04:25:09",
       "album": {
-        "name": "Love Part 2",
-        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+        "name": "Yes or No",
+        "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 214920,
-      "name": "Don't ever say love me (feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
+      "duration_ms": 179146,
+      "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
+      "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
     },
     {
       "added_at": "2024-05-10 04:25:09",

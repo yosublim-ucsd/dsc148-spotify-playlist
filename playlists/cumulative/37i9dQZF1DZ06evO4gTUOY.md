@@ -2,7 +2,7 @@
 
 ### [This Is Eminem](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gTUOY)
 
-> This is Eminem\. أغاني روعة في قايمة أغاني واحدة.
+> This Is Eminem\. Los temas esenciales, todos en una lista.
 
 64 songs - 4 hr 38 min
 

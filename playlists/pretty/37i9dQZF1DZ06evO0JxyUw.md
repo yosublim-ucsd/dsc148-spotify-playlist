@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 ### [This Is Christina Aguilera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0JxyUw)
 
-> This is Christina Aguilera\. The essential tracks, all in one playlist.
+> This Is Christina Aguilera\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,606 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,632 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 49 | [El Mejor Guerrero \- De "Mulán"](https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [El Mejor Guerrero \(De "Mulán"\)](https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F) | 2:43 |
 | 50 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 |
 
-Snapshot ID: `ZkFYAAAAAADxNwlSlqlIak4vZHtSUsjq`
+Snapshot ID: `ZkFYAAAAAACa4dskjHfJ8/5u2MIOACQB`

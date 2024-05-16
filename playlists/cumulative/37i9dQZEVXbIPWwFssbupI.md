@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,812 songs - 3 day 23 hr 55 min
+1,813 songs - 3 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Blue story \(feat\. Lil Baby\)](https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 4:18 | 2023-07-01 | 2023-07-16 |
 | [Bobo](https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Bobo](https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI) | 3:07 | 2021-05-30 | 2021-08-24 |
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/3im90dPSC5z1PYJ305kgSy) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 2:46 | 2022-07-02 | 2022-09-09 |
-| [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-01-04 |  |
+| [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-01-04 | 2024-05-16 |
 | [Bolide allemand](https://open.spotify.com/track/7edvQQI4OxF0qbqWNmoHJn) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 2:56 | 2022-12-03 | 2022-12-31 |
 | [Bon qu’à ça](https://open.spotify.com/track/07VDlMEZIHbocc84zVB410) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 2:49 | 2023-07-01 | 2023-07-10 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-05-03 | 2022-07-03 |
@@ -391,6 +391,7 @@
 | [Combien de temps](https://open.spotify.com/track/4CTclzZBLuCBa9uPcuYnlB) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Stratos](https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL) | 3:11 | 2023-01-28 | 2023-01-30 |
 | [Comme au bon vieux temps](https://open.spotify.com/track/22pVMtbZDVh6AKYqnyfQlE) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 4:22 | 2022-06-04 | 2022-06-07 |
 | [Comment on fait](https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:00 | 2023-11-26 | 2023-11-28 |
+| [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-15 |  |
 | [Corazon](https://open.spotify.com/track/4Uz9uTnqgM0xjZpY9wb8ym) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:45 | 2023-01-28 | 2023-01-30 |
 | [Corrida](https://open.spotify.com/track/0h5loK7awcpjgerjVSKHCg) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 2:50 | 2021-03-27\* | 2021-04-05 |
 | [Cosmos](https://open.spotify.com/track/3UHp1ZNVPKAIZ3Dvjd7bvN) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 1:48 | 2021-09-12 | 2021-09-13 |

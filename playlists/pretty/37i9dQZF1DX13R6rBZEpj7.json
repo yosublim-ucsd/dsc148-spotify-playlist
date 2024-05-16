@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 211386,
+  "num_followers": 211502,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-03-01 12:22:09",
       "album": {
+        "name": "Gimme More",
+        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
+      },
+      "artists": [
+        {
+          "name": "Distinkt",
+          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
+        }
+      ],
+      "duration_ms": 234418,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
+    },
+    {
+      "added_at": "2024-03-01 12:22:09",
+      "album": {
         "name": "Friday Nights (efan Remix)",
         "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 206571,
       "name": "Friday Nights (efan Remix)",
       "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
-    },
-    {
-      "added_at": "2024-03-01 12:22:09",
-      "album": {
-        "name": "Gimme More",
-        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
-      },
-      "artists": [
-        {
-          "name": "Distinkt",
-          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
-        }
-      ],
-      "duration_ms": 234418,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-03-01 12:22:09",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8"
+      },
+      "artists": [
+        {
+          "name": "Cooky",
+          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm"
+    },
+    {
+      "added_at": "2024-03-01 12:22:09",
+      "album": {
         "name": "Get Right",
         "url": "https://open.spotify.com/album/2T3PGm9B64yh7FQYdfAh6J"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 195555,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM"
-    },
-    {
-      "added_at": "2024-03-01 12:22:09",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8"
-      },
-      "artists": [
-        {
-          "name": "Cooky",
-          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm"
     },
     {
       "added_at": "2024-03-01 12:22:09",

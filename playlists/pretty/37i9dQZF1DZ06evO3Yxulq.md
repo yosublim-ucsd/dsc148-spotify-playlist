@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 ### [This Is Christine D'Clario](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Yxulq)
 
-> This is Christine D'Clario\. The essential tracks, all in one playlist.
+> This Is Christine D'Clario\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,568 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,590 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Eterno \(Con Cuando Los Santos Marchan Ya\)](https://open.spotify.com/track/1D7gcN6H8n0hdxr1osOd6N) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 6:02 |
 | 50 | [El Gran Nombre del Señor](https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX) | 4:29 |
 
-Snapshot ID: `ZkFYAAAAAAC2nOYLFySfueKgf0tBlF4W`
+Snapshot ID: `ZkFYAAAAAAByOHXH4aXtyY6yJdJwtNWW`

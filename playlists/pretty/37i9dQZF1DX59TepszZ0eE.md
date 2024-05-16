@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga?si=k2\_K6pJqTdyARlv\_VNY97w>The Fellowship</a>
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw?si=HX5WGU7EReuPUGVluT3\-Vg>Ayanda Ntanzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,196 likes - 100 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,303 likes - 100 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Ntho ke ena \(Live\)](https://open.spotify.com/track/2NHFL8FpxYGJ1ovE4uIuWs) | [Tebs David](https://open.spotify.com/artist/5wuC7dnBTQsphj7CIOm4fv) | [Ntho ke ena \(Live\)](https://open.spotify.com/album/0olffnuTDQXe6cYxOse7f3) | 6:00 |
 | 100 | [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/track/0Fyt8lAORpZJqPRciHHa0Y) | [lulama lofani](https://open.spotify.com/artist/5tUxz69IpVRSjorHKiAFFC), [Girly Sibiya](https://open.spotify.com/artist/2FxLvFgLUJzmXZjMh3EsEU) | [Silifuze Elobandla\(Acts 2:42\-47\)](https://open.spotify.com/album/2e74E0qcVor3plRWUnCpMP) | 5:03 |
 
-Snapshot ID: `Zj1jvAAAAAAKWkK2r6EYNJAepoF70pbk`
+Snapshot ID: `ZkUsDwAAAACJCugrTPnI12v5pIZ4ZJnw`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 ### [This Is Marcos Witt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EFRC0)
 
-> This is Marcos Witt\. The essential tracks, all in one playlist.
+> This Is Marcos Witt\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,836 likes - 51 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,844 likes - 51 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 50 | [Damos honor a Ti feat.Danilo Montero](https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Homenaje a Jesús](https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J) | 8:01 |
 | 51 | [Maravilloso Dios](https://open.spotify.com/track/0U5SaWJBbeqqQOT1tQmYMF) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 2:21 |
 
-Snapshot ID: `ZkFYAAAAAABf+3pEx7s7mAdiQpNsnOAi`
+Snapshot ID: `ZkFYAAAAAAAIzv2ReXZ5eZsVSIA6G6Ri`

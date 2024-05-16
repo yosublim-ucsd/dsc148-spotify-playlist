@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 155142,
       "name": ":)",
       "url": "https://open.spotify.com/track/3WW9a6iele1fFmhTfcbplL"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 215082,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
@@ -10258,7 +10258,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 208640,
       "name": "Pop Star - Chaeyoung Remix",
       "url": "https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG"
@@ -13505,6 +13505,24 @@
     },
     {
       "album": {
+        "name": "Time to Pretend (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243035,
+      "name": "Time to Pretend - Spotify Singles",
+      "url": "https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg"
+    },
+    {
+      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -13680,6 +13698,24 @@
       "duration_ms": 203333,
       "name": "Tragic Love",
       "url": "https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo"
+    },
+    {
+      "album": {
+        "name": "Train Goes Faster",
+        "url": "https://open.spotify.com/album/0wX5y6h9xocq3xvcZgeuD9"
+      },
+      "artists": [
+        {
+          "name": "Will Jay",
+          "url": "https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168929,
+      "name": "Train Goes Faster",
+      "url": "https://open.spotify.com/track/1tYOveOD0d2Pu0DYO7jJ4J"
     },
     {
       "album": {
@@ -14271,6 +14307,24 @@
     },
     {
       "album": {
+        "name": "Watermelon Sugar (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129656,
+      "name": "Watermelon Sugar - Spotify Singles",
+      "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
+    },
+    {
+      "album": {
         "name": "Continua",
         "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
       },
@@ -14312,6 +14366,24 @@
       "duration_ms": 226036,
       "name": "We Are (\uc6b0\ub9ac\ub294)",
       "url": "https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu"
+    },
+    {
+      "album": {
+        "name": "we can't be friends (wait for your love) - Spotify Singles",
+        "url": "https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245233,
+      "name": "we can't be friends (wait for your love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3"
     },
     {
       "album": {
@@ -15272,7 +15344,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-16",
       "duration_ms": 79584,
       "name": "YUM.ME",
       "url": "https://open.spotify.com/track/5CaIpjSJ49hQxQqC7IG04H"
