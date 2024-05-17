@@ -633,6 +633,32 @@
     },
     {
       "album": {
+        "name": "Welcome To Punjab",
+        "url": "https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/3KFheLtGom9wgSIgxTifgd"
+    },
+    {
+      "album": {
         "name": "Fuffad Ji (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2rUfyKVXe16mH973tWOjkB"
       },
@@ -1868,7 +1894,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 192831,
       "name": "Talent",
       "url": "https://open.spotify.com/track/0EeKOCYS9jaOLaqYyWvq9N"

@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 158660,
+  "num_followers": 158684,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-05-06 01:41:10",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2024-05-06 01:41:10",
+      "album": {
         "name": "IT'S YOU (feat. keshi)",
         "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 173426,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
-    },
-    {
-      "added_at": "2024-05-06 01:41:10",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2024-05-06 01:41:10",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-06 01:41:10",
       "album": {
-        "name": "My Dream",
-        "url": "https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K"
-      },
-      "artists": [
-        {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
-    },
-    {
-      "added_at": "2024-05-06 01:41:10",
-      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2024-05-06 01:41:10",
       "album": {
-        "name": "The House That I Live In",
-        "url": "https://open.spotify.com/album/0rNvPsTkfRZap56kUJwnML"
+        "name": "My Dream",
+        "url": "https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K"
       },
       "artists": [
         {
-          "name": "Lydia Lee",
-          "url": "https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F"
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
         }
       ],
-      "duration_ms": 182343,
-      "name": "Don\u2019t Matter",
-      "url": "https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh"
+      "duration_ms": 199200,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
     },
     {
       "added_at": "2024-05-06 01:41:10",
@@ -1343,6 +1327,22 @@
       "duration_ms": 208421,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
+    },
+    {
+      "added_at": "2024-05-06 01:41:10",
+      "album": {
+        "name": "The House That I Live In",
+        "url": "https://open.spotify.com/album/0rNvPsTkfRZap56kUJwnML"
+      },
+      "artists": [
+        {
+          "name": "Lydia Lee",
+          "url": "https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "Don\u2019t Matter",
+      "url": "https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh"
     },
     {
       "added_at": "2024-05-06 01:41:10",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-05-06 01:41:10",
       "album": {
-        "name": "Ambivalence",
-        "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
-      },
-      "artists": [
-        {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ"
-        }
-      ],
-      "duration_ms": 225422,
-      "name": "April Smile",
-      "url": "https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX"
-    },
-    {
-      "added_at": "2024-05-06 01:41:10",
-      "album": {
         "name": "Easy (feat. 6LACK)",
         "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2024-05-06 01:41:10",
       "album": {
-        "name": "Hello, I said",
-        "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
+        "name": "Ambivalence",
+        "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
       },
       "artists": [
         {
-          "name": "Diana Wang",
-          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ"
         }
       ],
-      "duration_ms": 156729,
-      "name": "Hello, I said",
-      "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
+      "duration_ms": 225422,
+      "name": "April Smile",
+      "url": "https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX"
     },
     {
       "added_at": "2024-05-06 01:41:10",
@@ -1527,6 +1511,22 @@
       "duration_ms": 203946,
       "name": "If You Think It's Love",
       "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
+    },
+    {
+      "added_at": "2024-05-06 01:41:10",
+      "album": {
+        "name": "Hello, I said",
+        "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
+      },
+      "artists": [
+        {
+          "name": "Diana Wang",
+          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
+        }
+      ],
+      "duration_ms": 156729,
+      "name": "Hello, I said",
+      "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
     },
     {
       "added_at": "2024-05-06 01:41:10",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-05-06 01:41:10",
       "album": {
-        "name": "leave before u do",
-        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
-      },
-      "artists": [
-        {
-          "name": "\u7fc1\u9756\u582fyao",
-          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
-        }
-      ],
-      "duration_ms": 182115,
-      "name": "leave before u do",
-      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
-    },
-    {
-      "added_at": "2024-05-06 01:41:10",
-      "album": {
         "name": "NOT TOO DEEP (feat. 6LACK)",
         "url": "https://open.spotify.com/album/7vunoY8kfwitFWcNaPzqNj"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 288412,
       "name": "NOT TOO DEEP (feat. 6LACK)",
       "url": "https://open.spotify.com/track/2u925ft5mxwxYLhMQ7Sr72"
+    },
+    {
+      "added_at": "2024-05-06 01:41:10",
+      "album": {
+        "name": "leave before u do",
+        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
+      },
+      "artists": [
+        {
+          "name": "\u7fc1\u9756\u582fyao",
+          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
+        }
+      ],
+      "duration_ms": 182115,
+      "name": "leave before u do",
+      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
     },
     {
       "added_at": "2024-05-06 01:41:10",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-05-06 01:41:10",
       "album": {
-        "name": "Mirror, Mirror on the Wall",
-        "url": "https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip"
-      },
-      "artists": [
-        {
-          "name": "INDAHKUS",
-          "url": "https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Mirror, Mirror on the Wall",
-      "url": "https://open.spotify.com/track/3zUosQq3tfNqJT1fVIzNvc"
-    },
-    {
-      "added_at": "2024-05-06 01:41:10",
-      "album": {
         "name": "cloud9",
         "url": "https://open.spotify.com/album/1ueZFUuqoyR9hzRxrgrgoK"
       },
@@ -1719,22 +1703,18 @@
     {
       "added_at": "2024-05-06 01:41:10",
       "album": {
-        "name": "Thursday",
-        "url": "https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u"
+        "name": "Mirror, Mirror on the Wall",
+        "url": "https://open.spotify.com/album/4GxXqUC1qtV2i2Uy1lxoip"
       },
       "artists": [
         {
-          "name": "Axel Brizzy",
-          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
-        },
-        {
-          "name": "Marian Carmel",
-          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
+          "name": "INDAHKUS",
+          "url": "https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB"
         }
       ],
-      "duration_ms": 229200,
-      "name": "Thursday",
-      "url": "https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt"
+      "duration_ms": 228466,
+      "name": "Mirror, Mirror on the Wall",
+      "url": "https://open.spotify.com/track/3zUosQq3tfNqJT1fVIzNvc"
     },
     {
       "added_at": "2024-05-06 01:41:10",
@@ -1751,6 +1731,26 @@
       "duration_ms": 187058,
       "name": "Whatever This Is",
       "url": "https://open.spotify.com/track/0fSBuNmLlfkzulls16EA6T"
+    },
+    {
+      "added_at": "2024-05-06 01:41:10",
+      "album": {
+        "name": "Thursday",
+        "url": "https://open.spotify.com/album/0bUXmso9cdsN763cc4Ol2u"
+      },
+      "artists": [
+        {
+          "name": "Axel Brizzy",
+          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
+        },
+        {
+          "name": "Marian Carmel",
+          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Thursday",
+      "url": "https://open.spotify.com/track/0B2Ujrs9t4c1XvNzrECwLt"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

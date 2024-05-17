@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,685 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,829 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 42 | [Dil Mera Churaya Kyun](https://open.spotify.com/track/4OvdhTOjq75CvPO6O7AWRw) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Akele Hum Akele Tum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zwT18Vm7F5zPBNvRQp71F) | 4:42 |
 | 43 | [Yara Seeli Seeli](https://open.spotify.com/track/0CK9b2dEDscskyQ0Xd7L4p) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lekin](https://open.spotify.com/album/1fU4zPiQdPHq0OGZ10O6Lk) | 5:05 |
 | 44 | [Kuchh Na Kaho \- Sad](https://open.spotify.com/track/3WzyCA2R9pllvKLHgjOU3l) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [1942 A Love Story](https://open.spotify.com/album/7MY6mU1NlibP3FHt8vut3F) | 6:23 |
-| 45 | [Dheere Dheere Hausla](https://open.spotify.com/track/3dY8ozWoOCSg6akDHnt1hj) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Phool Aur Kaante \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Io1WaSa7zSLlLmop0bNKL) | 2:28 |
-| 46 | [Hum Dil De Chuke Sanam](https://open.spotify.com/track/3oGL4HTmIpiD3J0f80Viqt) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Mohammad Salamat](https://open.spotify.com/artist/3mxHOkL6ulqrmBYXqSTGLw), [Dominique](https://open.spotify.com/artist/3Y24UY463kttOxNYMH9X2u) | [Hum Dil De Chuke Sanam](https://open.spotify.com/album/1QUfdAyckA0M14z0kpOBts) | 6:46 |
-| 47 | [Yeh Raat Khushnaseeb Hai](https://open.spotify.com/track/30AczwVkRJOVdhb5bGY1Nv) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Aaina](https://open.spotify.com/album/2btAZNa9WZEeaxS5lRJTKp) | 4:49 |
-| 48 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
-| 49 | [Tu Hi Re \- From "Bombay"](https://open.spotify.com/track/6nwRC0UkS1MdOOMjcJsrbX) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Bombay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 7:15 |
+| 45 | [Dil Kehta Hai \(From "Akele Hum Akele Tum"\)](https://open.spotify.com/track/4xx4olj0y8KxA1oVXe4fBL) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Bollywood Music \- Kumar Sanu At His Best, Vol\. 2](https://open.spotify.com/album/2zy2TJ3HX11LjNt5n3zFtI) | 6:55 |
+| 46 | [Dheere Dheere Hausla](https://open.spotify.com/track/3dY8ozWoOCSg6akDHnt1hj) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Phool Aur Kaante \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Io1WaSa7zSLlLmop0bNKL) | 2:28 |
+| 47 | [Hum Dil De Chuke Sanam](https://open.spotify.com/track/3oGL4HTmIpiD3J0f80Viqt) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Mohammad Salamat](https://open.spotify.com/artist/3mxHOkL6ulqrmBYXqSTGLw), [Dominique](https://open.spotify.com/artist/3Y24UY463kttOxNYMH9X2u) | [Hum Dil De Chuke Sanam](https://open.spotify.com/album/1QUfdAyckA0M14z0kpOBts) | 6:46 |
+| 48 | [Yeh Raat Khushnaseeb Hai](https://open.spotify.com/track/30AczwVkRJOVdhb5bGY1Nv) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Aaina](https://open.spotify.com/album/2btAZNa9WZEeaxS5lRJTKp) | 4:49 |
+| 49 | [Ae Ajnabi](https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 5:49 |
 | 50 | [Nahin Saamne Tu](https://open.spotify.com/track/2VbJADm28rn89sdn2QwzuZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Taal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bqIzWWbArrjJ963HKeZcd) | 6:03 |
 
-Snapshot ID: `ZitIdgAAAADD+i1ddJqTYXb2Cv/DHD8g`
+Snapshot ID: `ZkXUSwAAAAAqm1/haw8ck7cZRbxSM0oQ`

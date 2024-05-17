@@ -640,7 +640,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
@@ -3301,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "Exciter EP",
+        "url": "https://open.spotify.com/album/2KSfWKqnb68mwhMchuTFnk"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00fcb De Combat",
+          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335334,
+      "name": "House Anthem",
+      "url": "https://open.spotify.com/track/155dl8ITrVUipEUGnJ4SOq"
+    },
+    {
+      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
       },
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 375704,
       "name": "Immer - Oliver Koletzki Remix",
       "url": "https://open.spotify.com/track/4osJFT0X475tG30ymuC3DW"
@@ -4458,6 +4476,24 @@
       "duration_ms": 170732,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x"
+    },
+    {
+      "album": {
+        "name": "Luxo",
+        "url": "https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ"
+      },
+      "artists": [
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332400,
+      "name": "Luxo",
+      "url": "https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1"
     },
     {
       "album": {

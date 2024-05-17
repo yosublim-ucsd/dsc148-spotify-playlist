@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: FKJ
 
-423 songs - 1 day 1 hr 4 min
+426 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Cold Nights](https://open.spotify.com/track/1iR2KYd4xQJdoVG7GICA1F) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Jon Ari](https://open.spotify.com/artist/1mIExdFD1z8x2QqX2NcKSf) | [Cold Nights](https://open.spotify.com/album/1hREBt9rjIktCyLQtyh1Oo) | 3:03 | 2024-02-08 |  |
 | [Come Over](https://open.spotify.com/track/08lS7uqLMbXv7BDOb9guYJ) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Come Over](https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0) | 3:42 | 2021-12-16 | 2022-06-17 |
 | [Company](https://open.spotify.com/track/3SlKn22we9mXaoRY6t78i6) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Company](https://open.spotify.com/album/07yfD6iFop3fOAH5zV5mje) | 2:45 | 2021-12-16 | 2022-01-14 |
+| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-16 |  |
 | [Coolest Things \(feat\. Ari Lennox\)](https://open.spotify.com/track/2vG3GYjzeOsu9VUQ7Ft9bl) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:28 | 2022-04-08 | 2023-04-07 |
 | [Copy & Paste Interlude](https://open.spotify.com/track/4Pq1hdbm1GrjBeh46BqFjO) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Copy & Paste Interlude](https://open.spotify.com/album/40WuuDpNMKy5GB2CUQO2Xx) | 2:49 | 2021-12-16 | 2022-04-29 |
 | [Crazy \(DuDuDu\)](https://open.spotify.com/track/3vPku6d0AIu3U2b4HOcKjd) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [KAEDI](https://open.spotify.com/artist/0HNQ9Df6RUMiQHIq7KxLf1) | [Crazy \(DuDuDu\)](https://open.spotify.com/album/4lUDOpOQpworctVvTKS0Vn) | 3:24 | 2023-12-08 |  |
@@ -238,6 +239,7 @@
 | [MilkShake & FriES \- Demo](https://open.spotify.com/track/5T5uxgC1lWESmsXFHlXbIs) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [MilkShake & FriES \(Demo\)](https://open.spotify.com/album/0CZMcf4cXdbwL7WwlR83NW) | 2:50 | 2021-12-16 | 2022-10-15 |
 | [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 | 2022-06-17 | 2023-02-18 |
 | [Miss you](https://open.spotify.com/track/1Hy1jI7ASTAmT94a7Vt7ea) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Tell Jimmy](https://open.spotify.com/album/7qW0v91QqdcYVuu4sVMLVt) | 3:33 | 2024-03-14 |  |
+| [Missing Me](https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Missing Me](https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT) | 3:00 | 2024-05-16 |  |
 | [Mood Right](https://open.spotify.com/track/5Q8G6sLpG6PBFjJIXOPW9l) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Mood Right](https://open.spotify.com/album/5B4oxR73Yss8t4dcgOezUI) | 2:49 | 2023-02-17 | 2024-02-17 |
 | [Moonlight](https://open.spotify.com/track/4rdQivUpY3faWSm98gMplo) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Anthology](https://open.spotify.com/album/7caIHqOdEIG5iaxjdRHoD9) | 3:46 | 2021-12-16 | 2022-02-11 |
 | [More Than Ever](https://open.spotify.com/track/3llTnIKQXVYxnLD4K7jXXv) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Blossom Carefully](https://open.spotify.com/album/0jvOSPYrrocMcLui4thzZ5) | 2:59 | 2021-12-16 | 2022-01-14 |
@@ -335,6 +337,7 @@
 | [Sonder](https://open.spotify.com/track/4kU5O6r6BlGpcELBNj2SEA) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Poetry In Motion](https://open.spotify.com/album/4Z5bdwjILIWCBWpqTpdcRY) | 3:09 | 2021-12-16 | 2022-10-29 |
 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 | 2024-05-02 |  |
 | [Space](https://open.spotify.com/track/5SLvWGcGM2aQ1FHAkQRsGD) | [Morgan Munroe](https://open.spotify.com/artist/41K03x2QpJG4rJJ84LceST) | [Space](https://open.spotify.com/album/3KpYADcTT3HW1S0yjNIkEG) | 2:26 | 2022-06-16 | 2022-10-15 |
+| [Speechless](https://open.spotify.com/track/5S4llrdOSlVYLlFZflVQE8) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Speechless](https://open.spotify.com/album/4ABBtWGwPKGMpph6AAK0hQ) | 3:40 | 2024-05-16 |  |
 | [Spit Up](https://open.spotify.com/track/5ninsjB30htfz4V2EHhT5F) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Spit Up](https://open.spotify.com/album/0qxXNClkynGMG0zKnMRb21) | 3:53 | 2022-04-28 | 2023-07-08 |
 | [Stacy](https://open.spotify.com/track/6EbK8OLEbYvj6wWNik3A1f) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Stacy](https://open.spotify.com/album/4w0hYug61vOLQ6pSq8EMeO) | 2:24 | 2021-12-16 | 2022-02-11 |
 | [Stages](https://open.spotify.com/track/4oElBWNxGX0Lg8wD1k5uHx) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Adi Oasis](https://open.spotify.com/album/0W8Rm6qBMnykppCswQyMTO) | 3:47 | 2021-12-16 | 2022-08-13 |

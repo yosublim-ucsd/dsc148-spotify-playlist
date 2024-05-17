@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65?si=G8Yjoqa\-Q16QIr7V7Zklcw">Zoé</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE?si=JYtPHoRASdO2CzgkhyN3sQ">VOLK</a>
 
-470 songs - 1 day 4 hr 3 min
+471 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Girl You Made Me Bad](https://open.spotify.com/track/28asKrTduKTrMExly9z8Zo) | [Sugardrive](https://open.spotify.com/artist/283E3ICiG1Fiec39Rxel0n) | [Sand.Man.Sky](https://open.spotify.com/album/5M3opHjZ5u2jQ5gF7GVzfM) | 4:52 | 2024-01-04 | 2024-03-30 |
 | [Glide Stride](https://open.spotify.com/track/5TKySOZAIyhdpzwN01SDux) | [Alibi Friday](https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg) | [Glide Stride](https://open.spotify.com/album/2Me4bFxziBPEr9omsL9LYV) | 5:02 | 2023-12-14 | 2024-01-05 |
 | [Gods Gift](https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N) | [Beyond Rebellion](https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe) | [Gods Gift](https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi) | 3:16 | 2022-11-17 | 2023-03-03 |
-| [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 | 2024-01-04 |  |
+| [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 | 2024-01-04 | 2024-05-17 |
 | [Good Little Girl](https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y) | [Saturn Return](https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt) | [Good Little Girl](https://open.spotify.com/album/2A2SF1ydODURrgfp9hOp8A) | 3:25 | 2023-05-05 | 2023-07-29 |
 | [Good Time](https://open.spotify.com/track/13bC2RZHqYhWOdUiMAH4O1) | [Filthy Hippies](https://open.spotify.com/artist/69KIxpkIadv1nMT3h6G8bC) | [Good Time](https://open.spotify.com/album/4m93HqALWDte1O3e6uIvm6) | 4:52 | 2023-08-11 | 2023-09-29 |
 | [Goodbye](https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS) | 3:58 | 2023-12-14 | 2024-04-13 |
@@ -294,6 +294,7 @@
 | [No One Else Will](https://open.spotify.com/track/76KLjagyMyDblwHHHgVJLZ) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [No One Else Will](https://open.spotify.com/album/3xq4IJTrAK1atE6FVsBY98) | 3:20 | 2023-02-16 | 2023-03-18 |
 | [Nothing Feels Good Without You](https://open.spotify.com/track/0ldL6b3ZxXX5hcAntTHsi6) | [Louise Carver](https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD) | [Nothing Feels Good Without You](https://open.spotify.com/album/2oRvkrGd0ceGblE1Ui8hBe) | 3:25 | 2022-07-21 | 2023-02-03 |
 | [Nothing to Show \- Bonus Track](https://open.spotify.com/track/0a9srDwDH1sSIp9jvSP9rX) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk) | [The Aviary \(Deluxe Edition\)](https://open.spotify.com/album/77lEYneVqteKZOJjzi88MZ) | 3:37 | 2021-11-11 | 2022-02-18 |
+| [Nou's Ek Blind](https://open.spotify.com/track/5IsUGhCV7rl11tnQf3jsuA) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Nou's Ek Blind](https://open.spotify.com/album/5egz5Szxe4rFmYUUvsGzLI) | 3:58 | 2024-05-16 |  |
 | [Ntuthwane](https://open.spotify.com/track/26LjhwE4l45AnMbvyxavn9) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Ntuthwane](https://open.spotify.com/album/6H3Afy1rryTXuENzc6JQhy) | 2:05 | 2023-04-20 | 2023-06-02 |
 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 | 2023-08-31 |  |
 | [Oh No!](https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [Oh No!](https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3) | 2:25 | 2022-09-15 | 2023-03-03 |

@@ -267,6 +267,36 @@
     },
     {
       "album": {
+        "name": "Welcome To Punjab",
+        "url": "https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        },
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        },
+        {
+          "name": "Nabjot",
+          "url": "https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Albatta",
+      "url": "https://open.spotify.com/track/3XAcx54wxdHMZVfb5EGHaD"
+    },
+    {
+      "album": {
         "name": "YOLO",
         "url": "https://open.spotify.com/album/4xBhPWyrysJmW2bnaGKXOV"
       },
@@ -432,7 +462,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 166151,
       "name": "Bitches - Elevate",
       "url": "https://open.spotify.com/track/0hkXFOhbJ1OUzLOJQ0iEq8"
@@ -762,6 +792,28 @@
       "duration_ms": 176385,
       "name": "Clash",
       "url": "https://open.spotify.com/track/7krGSbOnw13S7tIpgVEWAo"
+    },
+    {
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/5MVcpqBjVQhYBesdGYYW4e"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136416,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/2xgtCp6JpkiIx4PsW0SuFV"
     },
     {
       "album": {
@@ -1201,6 +1253,28 @@
     },
     {
       "album": {
+        "name": "Goin' Off",
+        "url": "https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Goin' Off",
+      "url": "https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU"
+    },
+    {
+      "album": {
         "name": "WHEN WE RIDE",
         "url": "https://open.spotify.com/album/2x1eisYz2DSHg76V6HkaH5"
       },
@@ -1322,7 +1396,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 129114,
       "name": "Heartless feat. Ikky",
       "url": "https://open.spotify.com/track/7cMYN4HXfJGyVy6zQ6mga6"
@@ -1893,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y"
+      },
+      "artists": [
+        {
+          "name": "JERRY",
+          "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149857,
+      "name": "Miami Flow",
+      "url": "https://open.spotify.com/track/2DgeseqrXJEc7MmKvXWxY0"
+    },
+    {
+      "album": {
         "name": "Welcome To The Revolution",
         "url": "https://open.spotify.com/album/0N0Nl1ZBWIRataqQ4Wtae3"
       },
@@ -1930,6 +2022,24 @@
       "duration_ms": 182762,
       "name": "Murder",
       "url": "https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs"
+    },
+    {
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196897,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk"
     },
     {
       "album": {
@@ -2210,7 +2320,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 210159,
       "name": "Not Allowed",
       "url": "https://open.spotify.com/track/6GHamf2yNnMghMPGZ1CDmW"
@@ -2474,7 +2584,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 158895,
       "name": "Problems Over Peace",
       "url": "https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD"
@@ -2536,7 +2646,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 158094,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT"
@@ -2900,7 +3010,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 202013,
       "name": "Syllabus",
       "url": "https://open.spotify.com/track/58E08Q6KvrLuzMU88nZQxy"
@@ -3161,6 +3271,28 @@
     },
     {
       "album": {
+        "name": "We Different",
+        "url": "https://open.spotify.com/album/2kgj5kqtOqe0xQ0sX3qt9e"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "We Different",
+      "url": "https://open.spotify.com/track/0NUFlsE6MRFRc0qJs2ljPB"
+    },
+    {
+      "album": {
         "name": "WE ROLLIN",
         "url": "https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO"
       },
@@ -3194,6 +3326,28 @@
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"
+    },
+    {
+      "album": {
+        "name": "Winning Speech",
+        "url": "https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "Winning Speech",
+      "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jang Soo Bin(\uc7a5\uc218\ube48))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jayci Yucca, SLO)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -4650,6 +4650,28 @@
       "duration_ms": 210220,
       "name": "Re: 14 (feat. Minjeong)",
       "url": "https://open.spotify.com/track/4DmGa6XvEJuWdywgs6mxlK"
+    },
+    {
+      "album": {
+        "name": "Reed",
+        "url": "https://open.spotify.com/album/2ODXFLBbWprQ5Eq7ONM6St"
+      },
+      "artists": [
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "SLO",
+          "url": "https://open.spotify.com/artist/0OxLdB5E14KIM16YBcJ3sj"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192253,
+      "name": "Reed",
+      "url": "https://open.spotify.com/track/0aPq9xDq5OWNiCRvDjBUVI"
     },
     {
       "album": {

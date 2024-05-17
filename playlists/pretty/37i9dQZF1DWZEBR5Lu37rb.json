@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 60590,
+  "num_followers": 60685,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Ebusuku",
-        "url": "https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv"
-      },
-      "artists": [
-        {
-          "name": "Th&o.",
-          "url": "https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT"
-        }
-      ],
-      "duration_ms": 221819,
-      "name": "Prosecco",
-      "url": "https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 191893,
       "name": "Number One",
       "url": "https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Ebusuku",
+        "url": "https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv"
+      },
+      "artists": [
+        {
+          "name": "Th&o.",
+          "url": "https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT"
+        }
+      ],
+      "duration_ms": 221819,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1517,6 +1517,22 @@
       "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
     },
     {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Angel Of Mine",
+      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
+    },
+    {
       "added_at": "2024-03-20 09:22:32",
       "album": {
         "name": "My Baby",
@@ -1535,22 +1551,6 @@
       "duration_ms": 190000,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Angel Of Mine",
-      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1587,30 +1587,6 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Uyangijabulisa",
-        "url": "https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW"
-      },
-      "artists": [
-        {
-          "name": "Fezeka Dlamini",
-          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
-        },
-        {
-          "name": "Nomfundo Moh",
-          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
-        },
-        {
-          "name": "Naledi",
-          "url": "https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX"
-        }
-      ],
-      "duration_ms": 288052,
-      "name": "Uyangijabulisa",
-      "url": "https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
         "name": "Uliza Kiatu",
         "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
       },
@@ -1641,6 +1617,30 @@
       "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
     },
     {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Uyangijabulisa",
+        "url": "https://open.spotify.com/album/04HgLbUVHdvAvawQzjX9JW"
+      },
+      "artists": [
+        {
+          "name": "Fezeka Dlamini",
+          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
+        },
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Naledi",
+          "url": "https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX"
+        }
+      ],
+      "duration_ms": 288052,
+      "name": "Uyangijabulisa",
+      "url": "https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN"
+    },
+    {
       "added_at": "2024-03-20 09:22:32",
       "album": {
         "name": "Give You Love",
@@ -1659,6 +1659,26 @@
       "duration_ms": 234605,
       "name": "Give You Love",
       "url": "https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5"
+    },
+    {
+      "added_at": "2024-02-13 07:43:01",
+      "album": {
+        "name": "Bald Men Love Better",
+        "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Aaron Rimbui",
+          "url": "https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H"
+        }
+      ],
+      "duration_ms": 174807,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1691,26 +1711,6 @@
       "duration_ms": 426746,
       "name": "Mayine",
       "url": "https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ"
-    },
-    {
-      "added_at": "2024-02-13 07:43:01",
-      "album": {
-        "name": "Bald Men Love Better",
-        "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Aaron Rimbui",
-          "url": "https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H"
-        }
-      ],
-      "duration_ms": 174807,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15"
     },
     {
       "added_at": "2024-02-13 07:43:01",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2024-02-13 07:43:01",
       "album": {
-        "name": "Mfalme Wa Mapenzi",
-        "url": "https://open.spotify.com/album/2wgSxbkNeLOwBVM1LuSSnj"
+        "name": "The Book of Kirya",
+        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
       },
       "artists": [
         {
-          "name": "Sanaipei Tande",
-          "url": "https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J"
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
         }
       ],
-      "duration_ms": 286511,
-      "name": "Mfalme Wa Mapenzi",
-      "url": "https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q"
+      "duration_ms": 192706,
+      "name": "The Blue Dress Song",
+      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
     }
   ],
   "unique_name": "100 Best African Love Songs ",

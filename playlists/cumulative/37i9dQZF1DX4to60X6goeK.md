@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: SOTA
 
-238 songs - 16 hr 6 min
+239 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Complicated](https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Complicated](https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM) | 4:26 | 2023-09-22 |  |
 | [Confliction](https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S) | [CrossBreed](https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL), [MTD](https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Confliction](https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E) | 3:20 | 2022-08-12 |  |
 | [Cool Out Son \- Benny Page & Isaac Maya Remix \- Edit](https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [Cool Out Son](https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4) | 3:28 | 2022-05-06 | 2023-09-20 |
+| [Count To Ten \(2024\)](https://open.spotify.com/track/5ArpYtNCWRaGCxFv8xERer) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Count To Ten \(2024\) / Break the Cycle](https://open.spotify.com/album/6vDQhJv8UlLNuoTGWKsSOG) | 2:20 | 2024-05-10 |  |
 | [Cous Cous](https://open.spotify.com/track/1AC2Np13uqqDmhNnDpMaEu) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Cous Cous](https://open.spotify.com/album/3T2qY6oeQNDALRHTRBMzkY) | 3:44 | 2023-12-27 | 2024-01-12 |
 | [Cowboy \- Primate Remix](https://open.spotify.com/track/6n5laDuCJW4Nis3pvR79Vq) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Logan D](https://open.spotify.com/artist/1p2Bj8h0k83W4M7RY8rUvA), [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Cowboy \(Primate Remix\)](https://open.spotify.com/album/5vbaJ9iIWKt81rQRXti1FI) | 4:34 | 2023-12-27 | 2024-01-12 |
 | [Creeper](https://open.spotify.com/track/7qgCZFI5c4BtRZ6bwhpceX) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [UPGRADE](https://open.spotify.com/artist/3UXIdGEjbBhgkT38RT2J3a), [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM) | [Creeper](https://open.spotify.com/album/3ZMFnixVla5h6hLrweQ3KN) | 4:28 | 2023-12-27 | 2024-01-12 |
@@ -113,7 +114,7 @@
 | [Kickons](https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9) | 3:55 | 2022-08-12 | 2023-10-19 |
 | [Kickons](https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7) | 3:55 | 2022-05-06 | 2023-05-19 |
 | [Killer](https://open.spotify.com/track/1z0X1bUL9zQ3cwzpsIqiqT) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [Killer](https://open.spotify.com/album/2hGBOvM92KXih0rp5OGFhx) | 3:40 | 2023-12-27 | 2024-01-12 |
-| [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 | 2022-05-06 |  |
+| [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 | 2022-05-06 | 2024-05-17 |
 | [Lana](https://open.spotify.com/track/33VXCIGxpVYgntrRjhCsJo) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Viper Style / Lana](https://open.spotify.com/album/7Ad97zEHtyN7GNLN9lGhGc) | 3:26 | 2023-10-27 |  |
 | [Lapse](https://open.spotify.com/track/6rduLWfZ32SDJLco9Pb4jr) | [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [Lapse](https://open.spotify.com/album/7HcZT4FVS2BdGJIr7FfWPB) | 4:12 | 2024-03-22 |  |
 | [Laser](https://open.spotify.com/track/6A8xdDCg9ZXX7ixqADU4Sp) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Let's Play](https://open.spotify.com/album/2bnmP4Sddqbmx5YqRTeKDt) | 4:11 | 2022-05-06 | 2022-07-28 |

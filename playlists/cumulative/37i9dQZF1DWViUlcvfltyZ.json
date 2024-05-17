@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Novit\u00e0 rock, indie e punk dall'Italia! Lamante in cover.",
+  "description": "La playlist che \u00e8 come andare ai concerti. Novit\u00e0 rock, indie e punk dall'Italia! Brucher\u00f2 nei pascoli in cover.",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -337,6 +337,32 @@
     },
     {
       "album": {
+        "name": "ACQUAMARA",
+        "url": "https://open.spotify.com/album/2bt6TWExb29uNBI8Y5t94g"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        },
+        {
+          "name": "yuks",
+          "url": "https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd"
+        },
+        {
+          "name": "Bedini",
+          "url": "https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134711,
+      "name": "ACQUAMARA",
+      "url": "https://open.spotify.com/track/2iofxGL2ZLRZ73BvTfNwhe"
+    },
+    {
+      "album": {
         "name": "Acufene",
         "url": "https://open.spotify.com/album/7aX8218CkbDH44mYYvaEez"
       },
@@ -626,6 +652,24 @@
       "duration_ms": 241013,
       "name": "Albanera",
       "url": "https://open.spotify.com/track/5pZsX5r10LBZtQ0H1YbTF8"
+    },
+    {
+      "album": {
+        "name": "All'Apice",
+        "url": "https://open.spotify.com/album/4EC0q8dyQKs3bo5F3RmScg"
+      },
+      "artists": [
+        {
+          "name": "Tancredi Bin",
+          "url": "https://open.spotify.com/artist/4dAoe0NJbubYAyzhiWCuyX"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173367,
+      "name": "All'Apice",
+      "url": "https://open.spotify.com/track/5Mvf9Jkq7jfOO51phvVkub"
     },
     {
       "album": {
@@ -1277,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "Badman (Ting) (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/6SdzI9JTSBYzZaIHxlwiwV"
+      },
+      "artists": [
+        {
+          "name": "Valerian Swing",
+          "url": "https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "Badman (Ting) (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/3diLbv7ChuSFm6nmhIqW0d"
+    },
+    {
+      "album": {
         "name": "Ballerina alla scala",
         "url": "https://open.spotify.com/album/6OxrqzUfmYzlNokxaingLu"
       },
@@ -1686,6 +1752,24 @@
       "duration_ms": 232466,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/0wJ60VHGY9Ehsaz89nCMll"
+    },
+    {
+      "album": {
+        "name": "Bobby Ballad",
+        "url": "https://open.spotify.com/album/5xesmnYE1IdyH9TaE06WIz"
+      },
+      "artists": [
+        {
+          "name": "Generic Animal",
+          "url": "https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180465,
+      "name": "Bobby Ballad",
+      "url": "https://open.spotify.com/track/6fPOGxRKCytnWrvKvvqqcp"
     },
     {
       "album": {
@@ -3388,7 +3472,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 169910,
       "name": "Confronto/Fuga",
       "url": "https://open.spotify.com/track/2cVHTRvvbTSn3nIULnHhkc"
@@ -3576,6 +3660,28 @@
       "duration_ms": 224080,
       "name": "Cpr14",
       "url": "https://open.spotify.com/track/0kNVayFfKaampXjb0fdOCy"
+    },
+    {
+      "album": {
+        "name": "CRACCO",
+        "url": "https://open.spotify.com/album/1HwLLJbjwzEebz1n3gmVSw"
+      },
+      "artists": [
+        {
+          "name": "Brucher\u00f2 nei pascoli",
+          "url": "https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148301,
+      "name": "CRACCO",
+      "url": "https://open.spotify.com/track/6UqEFbDhIFIQnL4g3AY675"
     },
     {
       "album": {
@@ -4268,7 +4374,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 167173,
       "name": "DON\u2019T WANNA BE LIKE YOU",
       "url": "https://open.spotify.com/track/2alaFx9Ey2pzpVTyjA3JpZ"
@@ -5088,7 +5194,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 143009,
       "name": "FATT A ROT",
       "url": "https://open.spotify.com/track/2JHHDgAwZzUOSvssfiGCtA"
@@ -6088,7 +6194,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 212076,
       "name": "Giurami",
       "url": "https://open.spotify.com/track/4NGDpOt89PQ3Xqm5IXX3Qp"
@@ -6178,7 +6284,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 345413,
       "name": "Gor-ai",
       "url": "https://open.spotify.com/track/7fWy2WdOanqACQKJp0iyp7"
@@ -7095,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "Il peruviano",
+        "url": "https://open.spotify.com/album/5jaCO3qKMqPoBGYjza7wGe"
+      },
+      "artists": [
+        {
+          "name": "Ministri",
+          "url": "https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65410,
+      "name": "Il peruviano",
+      "url": "https://open.spotify.com/track/1vPnGlas3K2TMbT6M4AJqw"
+    },
+    {
+      "album": {
         "name": "Lunganotte",
         "url": "https://open.spotify.com/album/26GDVWVImp4k4bbBuZKZFc"
       },
@@ -7409,6 +7533,24 @@
     },
     {
       "album": {
+        "name": "Nevermind The Tempo",
+        "url": "https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr"
+      },
+      "artists": [
+        {
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148116,
+      "name": "Italiapaura",
+      "url": "https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu"
+    },
+    {
+      "album": {
         "name": "J!OY",
         "url": "https://open.spotify.com/album/5N6AdhmlYwQ6AZZuGNYJVH"
       },
@@ -7590,7 +7732,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 190239,
       "name": "Jim",
       "url": "https://open.spotify.com/track/5njkPi9zdqTuNaK4gYmn4b"
@@ -7626,7 +7768,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 175412,
       "name": "Karen's Couch",
       "url": "https://open.spotify.com/track/1jIWVEDgyIRm9wAPuH8NMn"
@@ -7696,6 +7838,28 @@
       "duration_ms": 118500,
       "name": "Kill me",
       "url": "https://open.spotify.com/track/61NuA3h0Sci2DzqMKJuQRj"
+    },
+    {
+      "album": {
+        "name": "POGO MIXTAPE VOL.1",
+        "url": "https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS"
+      },
+      "artists": [
+        {
+          "name": "Finley",
+          "url": "https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157061,
+      "name": "KILLER (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/33DOYNnargf2vYuMEfDd6E"
     },
     {
       "album": {
@@ -8302,7 +8466,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 258090,
       "name": "Lay Down",
       "url": "https://open.spotify.com/track/5cmdZtvCBPErGlJWCTOLhi"
@@ -8562,7 +8726,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 300040,
       "name": "Look at Us",
       "url": "https://open.spotify.com/track/4doSYqBNDg3bZWlOJhiVYT"
@@ -8736,7 +8900,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 273432,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/6nz5LIW9pIrKck2uNVq1DM"
@@ -9534,7 +9698,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 252000,
       "name": "Moloch",
       "url": "https://open.spotify.com/track/0rM1Rczpbkju6Ybmz86v1t"
@@ -10219,6 +10383,28 @@
     },
     {
       "album": {
+        "name": "Non c'\u00e8 mare",
+        "url": "https://open.spotify.com/album/3lYE8a0ygUhb7UjJddmTtY"
+      },
+      "artists": [
+        {
+          "name": "Nico Arezzo",
+          "url": "https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V"
+        },
+        {
+          "name": "Moregr\u00e8",
+          "url": "https://open.spotify.com/artist/2fw5erjUYoGPxwKhOnELAm"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248077,
+      "name": "Non c'\u00e8 mare",
+      "url": "https://open.spotify.com/track/2p0ImE7xlDmUdVtv8EXAxs"
+    },
+    {
+      "album": {
         "name": "In Memoria Di",
         "url": "https://open.spotify.com/album/5Y6cSv9uLJrv3iVvgqyOr4"
       },
@@ -10850,6 +11036,24 @@
       "duration_ms": 207533,
       "name": "Ok boomer (feat. Brunori Sas)",
       "url": "https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue"
+    },
+    {
+      "album": {
+        "name": "And the Gangband Vol. I",
+        "url": "https://open.spotify.com/album/5d75e3Qi8Nao1CloFB1bgy"
+      },
+      "artists": [
+        {
+          "name": "PIPYA",
+          "url": "https://open.spotify.com/artist/4MopKRVZ6lyknlOml9P0Zz"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297200,
+      "name": "Okey (Unsolved)",
+      "url": "https://open.spotify.com/track/2aFLQXjaxK37rG6w4WqM9K"
     },
     {
       "album": {
@@ -11597,6 +11801,24 @@
     },
     {
       "album": {
+        "name": "Pixel",
+        "url": "https://open.spotify.com/album/06HmMCnb2fqeu1RfILHxb8"
+      },
+      "artists": [
+        {
+          "name": "Naeev",
+          "url": "https://open.spotify.com/artist/1cxHKVZfKdKwMlSOoQ0U27"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209825,
+      "name": "Pixel",
+      "url": "https://open.spotify.com/track/0vi7G39FGuQHL8YqLTS9r5"
+    },
+    {
+      "album": {
         "name": "Pi\u00f9 mi odi pi\u00f9 mi amo",
         "url": "https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT"
       },
@@ -11924,6 +12146,24 @@
       "duration_ms": 328467,
       "name": "Preda",
       "url": "https://open.spotify.com/track/0atyKPRQkBohLByxwbAC2u"
+    },
+    {
+      "album": {
+        "name": "Prendersi Cura",
+        "url": "https://open.spotify.com/album/2ZhbjoC4zcBdaQ6cnj1maP"
+      },
+      "artists": [
+        {
+          "name": "Soft Boys Club",
+          "url": "https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270323,
+      "name": "Prendersi Cura",
+      "url": "https://open.spotify.com/track/3bhZr2G5pFb6cGXPhPGHMM"
     },
     {
       "album": {
@@ -12870,7 +13110,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 191661,
       "name": "Ruvida ruvida",
       "url": "https://open.spotify.com/track/2o4N0AtDKE1KdKE8URYKc4"
@@ -13260,6 +13500,24 @@
       "duration_ms": 192631,
       "name": "Scrivere",
       "url": "https://open.spotify.com/track/6A4gpoXjKnQC0IpBqJRxAL"
+    },
+    {
+      "album": {
+        "name": "Non \u00e8 la siccit\u00e0",
+        "url": "https://open.spotify.com/album/34iAs0Ved0TiF783HpJNiS"
+      },
+      "artists": [
+        {
+          "name": "Fris\u00e0ri",
+          "url": "https://open.spotify.com/artist/2f6mtYy1MV0l5jYGGdCYTN"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183085,
+      "name": "Se non ti bagni con me",
+      "url": "https://open.spotify.com/track/1hBsb8qLEKTBJoHzsO12fK"
     },
     {
       "album": {
@@ -15916,6 +16174,24 @@
       "duration_ms": 173684,
       "name": "Un'Altra Me",
       "url": "https://open.spotify.com/track/1f7fdXPkUThNS5MwYHfaSM"
+    },
+    {
+      "album": {
+        "name": "Una casa in cui tornare",
+        "url": "https://open.spotify.com/album/31V9wKtqfO4OVx9bKCbnSU"
+      },
+      "artists": [
+        {
+          "name": "Elephant Brain",
+          "url": "https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182357,
+      "name": "Una casa in cui tornare",
+      "url": "https://open.spotify.com/track/7zoS1OtnYQdB9EKB29tnM6"
     },
     {
       "album": {

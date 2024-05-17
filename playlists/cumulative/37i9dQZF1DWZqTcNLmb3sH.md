@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kotee
 
-1,173 songs - 2 day 23 hr 31 min
+1,174 songs - 2 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Andada Hoovu](https://open.spotify.com/track/1QQQtAbrwiBX4hYQI5asa0) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Sinchana Chandan](https://open.spotify.com/artist/008bzHAZXzjOoWyWdtC8nP), [Bharath Janardhan](https://open.spotify.com/artist/1XahZIYu35FIpKehAg9nh5) | [Vasanthakalada Hoogalu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xf7NcN6YGjSqhI7TQXU9T) | 4:05 | 2023-11-06 | 2023-11-21 |
 | [Andhaaju \(From "Hi Nanna"\)](https://open.spotify.com/track/1z3KzKdFVNrq6SOJ42clde) | [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Andhaaju \(From "Hi Nanna"\)](https://open.spotify.com/album/4XMW6RZWugseHqp7tmDIAo) | 3:39 | 2023-11-06 | 2024-01-10 |
 | [Angel Angel \(From "Hare Rama Hare Krishna"\)](https://open.spotify.com/track/33TUH8JbkiOwELVLpvrqsq) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Rita](https://open.spotify.com/artist/5IBFFb0fp0qRYH9Set3ISz) | [Angel Angel \(From "Hare Rama Hare Krishna"\)](https://open.spotify.com/album/5vABbOm69COHdLVMoftKft) | 4:27 | 2021-12-21 | 2022-01-04 |
+| [Angrezi Beat](https://open.spotify.com/track/48YSxUAihvV6PvWLNDSxNl) | [Pavan](https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp), [Ahmad Parvez](https://open.spotify.com/artist/0ISGKF1vFL0MPRowqdt62K), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Music Shop Murthy \(Kannada\)](https://open.spotify.com/album/44iG62oj6JCKbi2ye11oqY) | 3:53 | 2024-05-16 |  |
 | [Anjanadri Theme Song \(From "HanuMan"\) \[Kannada\]](https://open.spotify.com/track/1gTiz4EccN56liBJaIsyg9) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Sai Charan](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Siva Sakthi Datta](https://open.spotify.com/artist/4yyVabDrnKm1Z9nfGVdSO8) | [Anjanadri Theme Song \(From "HanuMan"\) \[Kannada\]](https://open.spotify.com/album/66r8NrK2uSxGU7BfgutAqj) | 2:00 | 2024-01-29 | 2024-02-17 |
 | [Anna From Mexico Theme Music \(From "Anna From Mexico"\)](https://open.spotify.com/track/4qyZzJdBO488eitGRUaWCE) | [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Anna From Mexico Theme Music \(From "Anna From Mexico"\)](https://open.spotify.com/album/0S6PTwkCcOssG17kDoNCex) | 1:19 | 2023-08-24 | 2023-10-17 |
 | [Annayya Annayya](https://open.spotify.com/track/1BVDfqznqgpVQe2S8IOocC) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf) | [Nam Annayya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4uv4boWsopVsf1LQyU9g07) | 4:23 | 2021-12-06 | 2022-02-03 |

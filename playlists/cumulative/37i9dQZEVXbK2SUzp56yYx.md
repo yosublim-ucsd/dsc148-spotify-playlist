@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-400 songs - 18 hr 13 min
+402 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [If U Think I'm Pretty \(HardTekk\)](https://open.spotify.com/track/01aNc4MsuOqNrAQF7A5Ro9) | [r0pss](https://open.spotify.com/artist/1mYWtRJaiRhifspJSQ3BEj) | [If U Think I'm Pretty \(HardTekk\)](https://open.spotify.com/album/7zmF0zJaICVwCBFq066NXO) | 1:39 | 2024-03-30 | 2024-04-09 |
 | [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 | 2024-02-18 | 2024-02-21 |
 | [IYDKMIGTHTKY \(Gimme That\)](https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 6:20 | 2024-01-29 | 2024-03-01 |
+| [jackass](https://open.spotify.com/track/4YudWFElI1fvs8cHgbzslh) | [CMH](https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [MUDBLOOD](https://open.spotify.com/album/1oFOkozpZrvDWg9h7bL2Y8) | 2:14 | 2024-05-16 |  |
 | [Jako](https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Ladaniva](https://open.spotify.com/album/1XtgrVhoVHWCqrUhx2ITDk) | 2:25 | 2024-05-14 |  |
 | [Jeff the Killer](https://open.spotify.com/track/24T8LnTIZGiWplQIj6sFg6) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT), [sly sheen](https://open.spotify.com/artist/0YhCp2pFoghkgiwx5q0h1V) | [JERK SHIT HAPPENS](https://open.spotify.com/album/5vuwrdSk8QOlcMCCeKyCgV) | 1:43 | 2024-01-29 | 2024-02-07 |
 | [juice](https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [juice](https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV) | 1:47 | 2024-03-05 | 2024-05-01 |
@@ -131,7 +132,8 @@
 | [Loser, Baby](https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 2:55 | 2024-02-06 | 2024-02-15 |
 | [Lost Angeles](https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 1:54 | 2024-01-29 | 2024-02-01 |
 | [lucy\~](https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [lucy\~](https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq) | 1:58 | 2024-05-03 |  |
-| [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-05-13 |  |
+| [Luktelk](https://open.spotify.com/track/1nuYw5614RF5tm7Byrigw5) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ) | 2:41 | 2024-05-16 |  |
+| [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-05-13 | 2024-05-17 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-09 | 2024-05-08 |
 | [MAKE UP \(FBL\)](https://open.spotify.com/track/6KYhmIY3N11aSweAZdZwDs) | [Japssii](https://open.spotify.com/artist/4kHVe9fcXovUpsi5qeTm8Q) | [MAKE UP \(FBL\)](https://open.spotify.com/album/5WPQSiRMmFpe1A19A8SqI8) | 1:14 | 2024-02-03 | 2024-04-28 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-05 | 2024-04-10 |
@@ -312,7 +314,7 @@
 | [ЛЕЖАТЬ!](https://open.spotify.com/track/1FVAdh3JHNRPOp0gNltSOM) | [ЖЭКА РАЙЗ](https://open.spotify.com/artist/6PtpVO2SHCLqX2bN5PRXBw), [DONK](https://open.spotify.com/artist/7tkpe7Yr9NUnVFwypZKSvq), [PEREPOLOH](https://open.spotify.com/artist/0WGJTjlRMYlGhmPYo0vFDa) | [ЛЕЖАТЬ!](https://open.spotify.com/album/3hrnStfkDwDIwqaaqQV9VC) | 1:01 | 2024-03-24 | 2024-04-07 |
 | [Любовь](https://open.spotify.com/track/6Dwahul5BIUfUiKYir2FXz) | [Dolphin](https://open.spotify.com/artist/2pktDyTJxrLJo7dL2qT1pA) | [Глубина резкости](https://open.spotify.com/album/70GQe37gMb2QhVLfkzdCHt) | 4:19 | 2024-03-01 | 2024-03-27 |
 | [Майами](https://open.spotify.com/track/3YY8gp6IDGySRIfnsgaKRR) | [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz), [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs) | [Майами](https://open.spotify.com/album/2OPGGzX2izLNHMmsuxrGuK) | 1:57 | 2024-01-29 | 2024-02-01 |
-| [Мам, я умираю](https://open.spotify.com/track/0lMfnxtuOMdnACle7Ewraj) | [pxnguin](https://open.spotify.com/artist/50IRqlllbhbFuGugTTbern) | [Опианариум](https://open.spotify.com/album/0ysUVI697JZwF53TUG0ujP) | 2:29 | 2024-05-07 |  |
+| [Мам, я умираю](https://open.spotify.com/track/0lMfnxtuOMdnACle7Ewraj) | [pxnguin](https://open.spotify.com/artist/50IRqlllbhbFuGugTTbern) | [Опианариум](https://open.spotify.com/album/0ysUVI697JZwF53TUG0ujP) | 2:29 | 2024-05-07 | 2024-05-17 |
 | [Мефистофель](https://open.spotify.com/track/6hqHMxZAXwS2FqwmluUSi3) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:26 | 2024-01-29 | 2024-02-13 |
 | [Можно я с тобой](https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB) | 2:12 | 2024-03-04 | 2024-03-14 |
 | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-13 | 2024-04-24 |

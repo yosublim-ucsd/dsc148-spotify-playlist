@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-213 songs - 14 hr 26 min
+215 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ala Moj Al Bahr \- Live Album](https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:28 | 2022-05-19 | 2023-06-24 |
 | [Alchemist](https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Alchemist EP](https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv) | 8:35 | 2023-12-18 | 2024-02-18 |
 | [Alek Shway](https://open.spotify.com/track/1oxOYMvVimEG6xz2OI7hj2) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Yazan Rousan](https://open.spotify.com/artist/3e6ookZkJCTBdGD1eol2qW) | [Alek Shway](https://open.spotify.com/album/5DnTtizoWcoAW0FoKascoB) | 3:33 | 2024-03-03 |  |
+| [Alf Leila We Leila](https://open.spotify.com/track/4sMOCYlI7Un6lXvStxQHmk) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Alf Leila We Leila](https://open.spotify.com/album/7fd3zydNBZ8GdVwNCGm3jS) | 2:49 | 2024-05-17 |  |
 | [Alf Leila We Leila Remix](https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Alf Leila We Leila Remix](https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ) | 3:14 | 2022-10-14 | 2023-02-02 |
 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-01-26 |  |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-04-21 |  |
@@ -112,6 +113,7 @@
 | [Kindir Suprise](https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Kindir Surprise](https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM) | 4:48 | 2023-06-23 | 2023-08-17 |
 | [Ksser Essouk](https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Ksser Essouk](https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh) | 5:26 | 2023-03-01 | 2024-04-22 |
 | [Kun](https://open.spotify.com/track/38p1aFLLRYT8XbNal1PbWT) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 4:45 | 2022-03-30 | 2022-11-26 |
+| [La Malama \(R3HAB MDLBEAST Remix\)](https://open.spotify.com/track/2oiq5NTWSUX85Gq2d3YC3U) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [La Malama \(R3HAB MDLBEAST Remix\)](https://open.spotify.com/album/4LIntQqvBcPAeTUFmrwLNP) | 4:00 | 2024-05-17 |  |
 | [Laar Ya Laar](https://open.spotify.com/track/6p1nVQXxuS3bI5jXxwZnnF) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Laar Ya Laar](https://open.spotify.com/album/4cpHlMvyOBWGHGAa9sufhw) | 2:10 | 2022-03-30 | 2023-12-30 |
 | [Lala Mama](https://open.spotify.com/track/41G8Erys8j0Ijux3HAJ9mp) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lala Mama](https://open.spotify.com/album/7CGDfjYxjMl8HT49pNydPG) | 2:43 | 2022-03-30 | 2023-06-24 |
 | [lamma bada yatathana](https://open.spotify.com/track/4Pz9TcBWMjH13vMbHItS0v) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Mia\-Maria](https://open.spotify.com/artist/3kzWp3weeysIkcanxwo43n) | [lamma bada yatathana](https://open.spotify.com/album/276Hm5lY9sd4Rf4hWnjfpU) | 7:01 | 2022-03-30 | 2023-06-24 |

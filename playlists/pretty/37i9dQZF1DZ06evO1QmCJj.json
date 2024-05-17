@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lola Indigo. Los temas esenciales, todos en una lista.",
-  "num_followers": 37925,
+  "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
+  "num_followers": 37929,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAADFWPfDPFRBUV8cvkRO6ykJ",
+  "snapshot_id": "ZkP7AAAAAAAOJvquSWZcI3vYSu2dSBpa",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORAZONES ROTOS",
-        "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 230130,
-      "name": "CORAZONES ROTOS",
-      "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DE PLASTILINA",
         "url": "https://open.spotify.com/album/0PoBB1ZYvloZYblyrAIWYa"
       },
@@ -247,6 +227,22 @@
       "duration_ms": 209533,
       "name": "DE PLASTILINA",
       "url": "https://open.spotify.com/track/6oA2XNlyXtGl0y49bdwIoI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
     },
     {
       "added_at": null,
@@ -271,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+        "name": "MALA SUERTE",
+        "url": "https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
         }
       ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+      "duration_ms": 215142,
+      "name": "MALA SUERTE",
+      "url": "https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya"
     },
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 174433,
+      "name": "Me Quedo",
+      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trendy",
         "url": "https://open.spotify.com/album/7tSdas1MzZuLc0qdygQfm2"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 183564,
       "name": "Trendy",
       "url": "https://open.spotify.com/track/6KS9MjBx9PnEetb0XUqGv6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 199747,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
     },
     {
       "added_at": null,
@@ -631,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Quiero N\u00e1",
-        "url": "https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob"
+        "name": "Lola Bunny",
+        "url": "https://open.spotify.com/album/6ZzTJncT5EwHp5Pa4xwFpS"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Don Patricio",
+          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
         }
       ],
-      "duration_ms": 192975,
-      "name": "Ya No Quiero N\u00e1",
-      "url": "https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX"
+      "duration_ms": 187263,
+      "name": "Lola Bunny",
+      "url": "https://open.spotify.com/track/7IzbHY75UhGztauT7U5eKb"
     },
     {
       "added_at": null,
@@ -667,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lola Bunny",
-        "url": "https://open.spotify.com/album/6ZzTJncT5EwHp5Pa4xwFpS"
+        "name": "Akelarre",
+        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
       },
       "artists": [
         {
@@ -676,13 +680,13 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Don Patricio",
-          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
         }
       ],
-      "duration_ms": 187263,
-      "name": "Lola Bunny",
-      "url": "https://open.spotify.com/track/7IzbHY75UhGztauT7U5eKb"
+      "duration_ms": 188693,
+      "name": "Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/6qz7XM4Ysl3z0rEcInLivx"
     },
     {
       "added_at": null,
@@ -707,6 +711,30 @@
       "duration_ms": 225153,
       "name": "Humedad - Remix",
       "url": "https://open.spotify.com/track/6JhhDlJAT1afRYjCL6qsCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/7awwlXzz3wRtLFv7ip9L6p"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Elettra Lamborghini",
+          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3Mx0B6Q36VSPBxa9CAuMti"
     },
     {
       "added_at": null,
@@ -743,30 +771,6 @@
       "duration_ms": 337106,
       "name": "Chivirika - Remix",
       "url": "https://open.spotify.com/track/0u8glMfKNxpiArg4YOlT9I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/7awwlXzz3wRtLFv7ip9L6p"
-      },
-      "artists": [
-        {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Elettra Lamborghini",
-          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3Mx0B6Q36VSPBxa9CAuMti"
     },
     {
       "added_at": null,
@@ -995,38 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akelarre",
-        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "El Humo - Canci\u00f3n Original De La Pel\u00edcula \"Lo Dejo Cuando Quiera\"",
-      "url": "https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Mala Cara",
-      "url": "https://open.spotify.com/track/7jzWJgzbodsjOhJ5brR6eu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALLE",
         "url": "https://open.spotify.com/album/3tmWYrXOkrEF0MjxCSbZc5"
       },
@@ -1047,6 +1019,38 @@
       "duration_ms": 222912,
       "name": "CALLE",
       "url": "https://open.spotify.com/track/53X5FmHdNxcnZuY8YhOkgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 210510,
+      "name": "Spice Girls",
+      "url": "https://open.spotify.com/track/6QibTRZoT2eg0662PMEQk6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mala Cara",
+        "url": "https://open.spotify.com/album/2kJvz4V7Thc5FyI6r8pq4T"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "Mala Cara",
+      "url": "https://open.spotify.com/track/0ArXnrjWXgLdqfVCosRSHQ"
     }
   ],
   "unique_name": "This Is Lola Indigo",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: \u66fe\u570b\u5b8f (Tseng Kuo Hung)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 218613,
       "name": "hummingbird",
       "url": "https://open.spotify.com/track/6LhXMXpIFb1cxvhBmHa4kB"
@@ -1210,6 +1210,28 @@
       "duration_ms": 216818,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/07wmygzJZ8HG3j9Iu0YCIQ"
+    },
+    {
+      "album": {
+        "name": "May flowers",
+        "url": "https://open.spotify.com/album/4OJ6X8eazX6FSN3ShfoJUD"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192212,
+      "name": "May flowers",
+      "url": "https://open.spotify.com/track/7DdpBxdbpYBMXPPTVrrD6m"
     },
     {
       "album": {
@@ -2416,7 +2438,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 228307,
       "name": "\u4eba\u9593\u689d\u4ef6",
       "url": "https://open.spotify.com/track/68C5YDFHwHRpZ9Y3Ig3gRl"
@@ -2778,6 +2800,24 @@
       "duration_ms": 220499,
       "name": "\u77f3\u6a4b",
       "url": "https://open.spotify.com/track/1GSaEKLXJMbgS25vLiC1or"
+    },
+    {
+      "album": {
+        "name": "\u795e\u69d8",
+        "url": "https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc"
+      },
+      "artists": [
+        {
+          "name": "Gestalt Girl",
+          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "\u795e\u69d8",
+      "url": "https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU"
     },
     {
       "album": {

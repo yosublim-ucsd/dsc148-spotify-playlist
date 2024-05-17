@@ -2515,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "So Medieval",
+        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
+      },
+      "artists": [
+        {
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106880,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av"
+    },
+    {
+      "album": {
         "name": "The Electronic Tapes (Habibi Funk 005)",
         "url": "https://open.spotify.com/album/7x2uLqFMqaviXJ3sf4E01J"
       },

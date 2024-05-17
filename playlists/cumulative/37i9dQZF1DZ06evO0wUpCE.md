@@ -2,7 +2,7 @@
 
 ### [This Is Intocable](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wUpCE)
 
-> This is Intocable\. The essential tracks, all in one playlist.
+> This Is Intocable\. Sus mejores éxitos, todos en una playlist.
 
 70 songs - 4 hr 9 min
 
@@ -31,7 +31,7 @@
 | [El Poder De Tus Manos](https://open.spotify.com/track/4ZhvLAPvtgJkk6RBBqJCUq) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 3:02 | 2023-08-08 |  |
 | [Enséñame A Olvidarte](https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:22 | 2023-08-08 |  |
 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 | 2023-08-08 |  |
-| [Es Mejor Decir Adiós](https://open.spotify.com/track/0YwdU9eCFz14gpy93jvrRV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X](https://open.spotify.com/album/66JS64FD7dhGEKIHo2Uizr) | 4:20 | 2024-05-03 | 2024-05-04 |
+| [Es Mejor Decir Adiós](https://open.spotify.com/track/0YwdU9eCFz14gpy93jvrRV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X](https://open.spotify.com/album/66JS64FD7dhGEKIHo2Uizr) | 4:20 | 2024-05-03 |  |
 | [Es Mejor Decir Adiós](https://open.spotify.com/track/1XYOzOTFwB2flq7yVBFPuf) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Romances](https://open.spotify.com/album/105sAuhvY2L17r5DvIaTtf) | 4:20 | 2023-08-08 | 2024-02-16 |
 | [Es Tan Bello](https://open.spotify.com/track/2sWiWpbCgoTfN94y5Gwd3x) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:47 | 2023-08-08 |  |
 | [Eso Duele](https://open.spotify.com/track/1iC61Hz52gDokQ8e4UBkwM) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Nuestro Destino Estaba Escrito](https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB) | 3:16 | 2023-08-08 |  |
@@ -57,7 +57,7 @@
 | [Por Ella \(Poco A Poco\)](https://open.spotify.com/track/4WWITxzEgGZJcB1JyzPvbc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 4:03 | 2023-08-08 |  |
 | [Por Un Beso](https://open.spotify.com/track/7b6HqGIszgwGinMRtY4d1U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:29 | 2023-08-08 |  |
 | [Que Facil Es Amarte](https://open.spotify.com/track/3dYQuYpu94qxIjrTFJ3L7G) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 4:06 | 2024-01-31 | 2024-02-02 |
-| [Quiéreme \(Ámame\)](https://open.spotify.com/track/1IUmnoh6JIi3VUjMzmLKRA) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Highway](https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm) | 4:00 | 2024-05-08 |  |
+| [Quiéreme \(Ámame\)](https://open.spotify.com/track/1IUmnoh6JIi3VUjMzmLKRA) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Highway](https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm) | 4:00 | 2024-05-08 | 2024-05-17 |
 | [Robarte un Beso](https://open.spotify.com/track/2I8JurbSZR2wjQnP4T87SO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2011](https://open.spotify.com/album/0iKVh2YiP0Ah83V4T2U1Lr) | 3:13 | 2023-08-08 |  |
 | [Si Me Duele Que Duela](https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Si Me Duele Que Duela](https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY) | 2:51 | 2023-08-08 |  |
 | [Si Se Acabó El Amor](https://open.spotify.com/track/6Q81FQKs8frictojPGC91p) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:53 | 2023-08-08 |  |

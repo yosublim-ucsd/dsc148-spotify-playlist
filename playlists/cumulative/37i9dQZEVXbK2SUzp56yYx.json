@@ -1989,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "MUDBLOOD",
+        "url": "https://open.spotify.com/album/1oFOkozpZrvDWg9h7bL2Y8"
+      },
+      "artists": [
+        {
+          "name": "CMH",
+          "url": "https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134144,
+      "name": "jackass",
+      "url": "https://open.spotify.com/track/4YudWFElI1fvs8cHgbzslh"
+    },
+    {
+      "album": {
         "name": "Ladaniva",
         "url": "https://open.spotify.com/album/1XtgrVhoVHWCqrUhx2ITDk"
       },
@@ -2480,6 +2502,24 @@
     {
       "album": {
         "name": "Luktelk",
+        "url": "https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ"
+      },
+      "artists": [
+        {
+          "name": "Silvester Belt",
+          "url": "https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Luktelk",
+      "url": "https://open.spotify.com/track/1nuYw5614RF5tm7Byrigw5"
+    },
+    {
+      "album": {
+        "name": "Luktelk",
         "url": "https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2"
       },
       "artists": [
@@ -2490,7 +2530,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 161142,
       "name": "Luktelk",
       "url": "https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1"
@@ -6188,7 +6228,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 149446,
       "name": "\u041c\u0430\u043c, \u044f \u0443\u043c\u0438\u0440\u0430\u044e",
       "url": "https://open.spotify.com/track/0lMfnxtuOMdnACle7Ewraj"

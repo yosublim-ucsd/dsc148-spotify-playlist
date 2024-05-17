@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
+> Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
-393 songs - 22 hr 26 min
+395 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bestfriend](https://open.spotify.com/track/71VfgEoTxsvCM6t3ezM4O4) | [Nino Tz](https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn) | [Bestfriend](https://open.spotify.com/album/1yAjYmx4h0wcZkQYXPHnnh) | 3:33 | 2022-06-02 | 2022-11-08 |
 | [Bestfriend remix](https://open.spotify.com/track/2Q5xL6g75mPeBOMSNjGP8l) | [Nino Tz](https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn), [Belle 9](https://open.spotify.com/artist/6ggRSrG9TdJEVxreHuiapz) | [Bestfriend remix](https://open.spotify.com/album/5jz1VKY3KvSSqOs4QyVH7S) | 3:28 | 2023-03-23 | 2023-08-18 |
 | [Bila Doo](https://open.spotify.com/track/4gPdbGzIDoDhxDl6HM1sbK) | [Fari Athman](https://open.spotify.com/artist/7iPhp4msnqZazxIzKJ3Ljf) | [Bila Doo](https://open.spotify.com/album/0QXt0G5pXXPuKQiUX5kg17) | 2:46 | 2024-04-15 |  |
-| [Blessing](https://open.spotify.com/track/0I5lFzbgE9kwcZUeXmUZPn) | [Bonge La Nyau](https://open.spotify.com/artist/4w19ryUFdkiLmZ26j5omEY), [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Blessing](https://open.spotify.com/album/3WIKezrOdZBshDKQmzyXbh) | 3:04 | 2024-02-15 |  |
+| [Blessing](https://open.spotify.com/track/0I5lFzbgE9kwcZUeXmUZPn) | [Bonge La Nyau](https://open.spotify.com/artist/4w19ryUFdkiLmZ26j5omEY), [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Blessing](https://open.spotify.com/album/3WIKezrOdZBshDKQmzyXbh) | 3:04 | 2024-02-15 | 2024-05-17 |
 | [Bobea](https://open.spotify.com/track/0YcIY0C7NS6Yzngjdrnb3W) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [Bobea](https://open.spotify.com/album/6K66HalLnaJpXDAIUeZH4W) | 3:23 | 2023-06-22 | 2023-10-27 |
 | [Bora Peke Yangu](https://open.spotify.com/track/0eIdUNkRBCxaouwoDRl2M4) | [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [My Voice](https://open.spotify.com/album/3rIFLWukhzKyepIqtohd28) | 3:55 | 2021-11-11 | 2022-03-04 |
 | [Buruda](https://open.spotify.com/track/2iGBUGhHFUsEQHdxnH7tTd) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Buruda](https://open.spotify.com/album/0eLIVpi2YJkWmABLUrxbt3) | 3:44 | 2023-12-08 |  |
@@ -65,6 +65,7 @@
 | [Deka \(feat\. Mabantu\)](https://open.spotify.com/track/7KjPkecOPSbOakRrlrfbZF) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Deka \(feat\. Mabantu\)](https://open.spotify.com/album/4hp2roWquO9nf8LZL8qF5m) | 3:08 | 2022-06-09 | 2023-06-16 |
 | [Desh Desh](https://open.spotify.com/track/1ZDuaLvkiFkpsdY588XgO1) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Desh Desh](https://open.spotify.com/album/5TeobdTGGuqEeAJVmFMAe8) | 4:08 | 2022-09-01 | 2023-03-25 |
 | [Dharau](https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dharau](https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy) | 3:32 | 2024-02-22 |  |
+| [Disconnect \(feat\. Marioo\)](https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Disconnect \(feat\. Marioo\)](https://open.spotify.com/album/5mMzFbsinhdB2lCXOwKc1j) | 3:25 | 2024-05-16 |  |
 | [Dodo](https://open.spotify.com/track/2iMxlpiSajGwrkSqWn7RIh) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dodo](https://open.spotify.com/album/29laMqyXW8THPpNK3tTsNj) | 3:59 | 2021-06-25 | 2022-01-07 |
 | [Don't Let Go](https://open.spotify.com/track/46MW6k54DIiMMkXYJ7vOeW) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Don't Let Go](https://open.spotify.com/album/2LXIF7NQRV6S0XBlaVV6u4) | 2:15 | 2023-02-09 | 2024-01-19 |
 | [Don't You Know](https://open.spotify.com/track/1XPpKdRjnNNsXZcYg7Krwg) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Don't You Know](https://open.spotify.com/album/3iMtRORC74LGs0pm4AewFB) | 3:19 | 2022-04-14 | 2022-12-10 |
@@ -149,6 +150,7 @@
 | [Kopo](https://open.spotify.com/track/6VMjurq5gUfi3Piz9W52mR) | [Rich Mavoko](https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp) | [Fundi](https://open.spotify.com/album/65MtM8HhzXZIa7Q9RCIDOU) | 2:29 | 2022-03-24 | 2022-09-09 |
 | [Kubali](https://open.spotify.com/track/3cShNf1oV3QdFvpiIoA4Cu) | [Lody Music](https://open.spotify.com/artist/4JXre9ot9NxnB4MKckSkBx) | [Kubali](https://open.spotify.com/album/5VNOijb3l4EVZZEWKpJD2X) | 3:40 | 2021-10-14 | 2022-04-15 |
 | [Kufuli](https://open.spotify.com/track/4TKXEFQdDJop18ViF8uXvM) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Tboy Daflame](https://open.spotify.com/artist/63QeEAU156JSxXF5uce9ZT) | [Kufuli](https://open.spotify.com/album/0Va6eNgw90XvaIOcZP4JEr) | 4:23 | 2021-11-18 | 2022-07-01 |
+| [Kunguru](https://open.spotify.com/track/7CrKROpJ7yEwPkimUHkM7b) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Kunguru](https://open.spotify.com/album/2fNGt6yWdGfGKStXpkW0Mk) | 4:10 | 2024-05-16 |  |
 | [Kunjani](https://open.spotify.com/track/1eAoxRoicPL7yEBe2yUXg9) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Kunjani](https://open.spotify.com/album/5A75lUyWtHmQy8u1qym21S) | 4:21 | 2021-11-04 | 2022-06-03 |
 | [Kwamanati \(feat\. Fire Mlilo\)](https://open.spotify.com/track/32fb4HP1AP8w62zH8bl6rf) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Fire Mlilo](https://open.spotify.com/artist/5gYlE5i1uZ0Xwbkeb9b6fB) | [Kwamanati \(feat\. Fire Mlilo\)](https://open.spotify.com/album/2ASHOZok5TARAAzK0xcYJ2) | 2:44 | 2023-11-10 | 2024-02-02 |
 | [Kwikwi](https://open.spotify.com/track/6RdkggWArMBHrxBmKTvsaj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Kwikwi](https://open.spotify.com/album/4Ylrz9HbGlQnEKHCe511nJ) | 3:11 | 2022-10-07 | 2023-08-04 |
@@ -395,7 +397,7 @@
 | [Yanga Anthem](https://open.spotify.com/track/4jRRo64OzwBCrnO1saAE0q) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yanga Anthem](https://open.spotify.com/album/3adR7VXxB4rXdHQ3pQEEYJ) | 3:50 | 2022-09-01 | 2022-09-23 |
 | [Yatapita](https://open.spotify.com/track/5osJXf9jysiW72jZQ0tTKD) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yatapita](https://open.spotify.com/album/5uTKAcHVaMTbaEfORUWZrD) | 4:59 | 2023-01-19 | 2023-10-13 |
 | [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/track/15ObWtsj5TVgUybcGsHoIf) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/album/4DukccL0dV6cqfWlJ8xqia) | 5:19 | 2023-07-20 | 2024-04-19 |
-| [You \- E.A Remix](https://open.spotify.com/track/19fK3nUPSN9vHNy63zPDR5) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [You \(E.A Remix\)](https://open.spotify.com/album/5PZvJ6rcSc41P3iDSS7u7Z) | 2:44 | 2023-12-08 |  |
+| [You \- E.A Remix](https://open.spotify.com/track/19fK3nUPSN9vHNy63zPDR5) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [You \(E.A Remix\)](https://open.spotify.com/album/5PZvJ6rcSc41P3iDSS7u7Z) | 2:44 | 2023-12-08 | 2024-05-17 |
 | [Zai](https://open.spotify.com/track/53fKnybx3p5MZj3KDYvzz2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zai](https://open.spotify.com/album/2zo7BLeC2bPUkiKxrzXtwd) | 3:36 | 2021-11-04 | 2022-07-22 |
 | [Zamani](https://open.spotify.com/track/60bfNCQoQ668j2CbTfzqZA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zamani](https://open.spotify.com/album/38KjNLFKtwaHr8Vxzmviwn) | 3:38 | 2024-02-22 |  |
 | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 | 2023-06-15 | 2024-04-05 |

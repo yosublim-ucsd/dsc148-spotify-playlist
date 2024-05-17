@@ -159,6 +159,24 @@
     },
     {
       "album": {
+        "name": "A 30",
+        "url": "https://open.spotify.com/album/5Huqv5KYQM9i298ddFpS6R"
+      },
+      "artists": [
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "A 30",
+      "url": "https://open.spotify.com/track/3oCCsxd8aFmJzjHhGHT6qZ"
+    },
+    {
+      "album": {
         "name": "Exitos Vol. 1",
         "url": "https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 104594,
       "name": "Al Paso",
       "url": "https://open.spotify.com/track/4cFcMa9cJ3ZfNLifHRLKHh"
@@ -607,6 +625,32 @@
     },
     {
       "album": {
+        "name": "Bagazo",
+        "url": "https://open.spotify.com/album/1ybINUxdQVisgZvO5MUwnP"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142556,
+      "name": "Bagazo",
+      "url": "https://open.spotify.com/track/4BpdzdVk4o33Xn6nMObhxD"
+    },
+    {
+      "album": {
         "name": "Bailalo",
         "url": "https://open.spotify.com/album/1rfDlUcAZZALSkz3FWGbwQ"
       },
@@ -666,6 +710,28 @@
       "duration_ms": 210964,
       "name": "Bailalo",
       "url": "https://open.spotify.com/track/7nO4lwCsURRXPjHo2ogvyF"
+    },
+    {
+      "album": {
+        "name": "Bailar",
+        "url": "https://open.spotify.com/album/0WeZGkKjUfmY0QgSqUaZL9"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151186,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/2DuBOUMZMowLdngW9tbLBx"
     },
     {
       "album": {
@@ -1908,6 +1974,28 @@
       "duration_ms": 181208,
       "name": "Co\u00f1o (with Puri & El Bloonel)",
       "url": "https://open.spotify.com/track/6Af0ZwUZt9ghj5Nw99XroS"
+    },
+    {
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0fjF0iKZF4bEtTxPyK2wB0"
+      },
+      "artists": [
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164865,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/2TnkVub0xoURlV40kuM3Pc"
     },
     {
       "album": {
@@ -3312,7 +3400,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 119163,
       "name": "El Sonido",
       "url": "https://open.spotify.com/track/5EIrQKYCThSSsP1cWAHGGP"
@@ -5016,7 +5104,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 150508,
       "name": "La Cara Tatuada",
       "url": "https://open.spotify.com/track/2aTrjrPsNa3NtGtKMNc6Cw"
@@ -5829,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "LLENO DE ODIO",
+        "url": "https://open.spotify.com/album/3IXdbLGtVIdweMQM3ZzLvS"
+      },
+      "artists": [
+        {
+          "name": "Gatillero 23",
+          "url": "https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "LLENO DE ODIO",
+      "url": "https://open.spotify.com/track/2FA2AhJhKyubqOJPJcqAhU"
+    },
+    {
+      "album": {
         "name": "Llevo La Vainita",
         "url": "https://open.spotify.com/album/2v4PGOWo3I1mohKUjIqrjy"
       },
@@ -6466,7 +6572,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 139194,
       "name": "Mama Me Lo Cont\u00f3",
       "url": "https://open.spotify.com/track/5mexRSBqKNkfH3IQhJC5ug"
@@ -7028,7 +7134,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 160776,
       "name": "Menor Remix",
       "url": "https://open.spotify.com/track/1wrjITAnVKxl3i3BN0DYZv"
@@ -7897,6 +8003,24 @@
     },
     {
       "album": {
+        "name": "Ojos De Colores",
+        "url": "https://open.spotify.com/album/79zcfIYFRNSwwvuw4LiBta"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106421,
+      "name": "Ojos De Colores",
+      "url": "https://open.spotify.com/track/4y6AJfoPAGkxkDiGMFU45P"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -8688,7 +8812,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 174246,
       "name": "PILA D CUERO",
       "url": "https://open.spotify.com/track/1evHuVvlijZAdCUHAG7ASm"
@@ -9212,7 +9336,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 104661,
       "name": "Primera Vez",
       "url": "https://open.spotify.com/track/1IjhElJFljp4h3rirzM080"
@@ -12198,6 +12322,24 @@
       "duration_ms": 189619,
       "name": "Traag",
       "url": "https://open.spotify.com/track/5fySAmiBZEILTlSwo8n4Wi"
+    },
+    {
+      "album": {
+        "name": "Trakas Belico",
+        "url": "https://open.spotify.com/album/1DsEIRuqKVBpZSCvfLZfpx"
+      },
+      "artists": [
+        {
+          "name": "Gerry Garcia",
+          "url": "https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152715,
+      "name": "Trakas Belico",
+      "url": "https://open.spotify.com/track/5aSevcoVohlQUvVyF7NKbC"
     },
     {
       "album": {

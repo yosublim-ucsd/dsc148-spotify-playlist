@@ -224,7 +224,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 228923,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm"
@@ -638,6 +638,24 @@
       "duration_ms": 282890,
       "name": "Behind the Scenes (feat. Jess Spink)",
       "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
+    },
+    {
+      "album": {
+        "name": "Bite Your Lip pt. 2",
+        "url": "https://open.spotify.com/album/4TMaXttEPyK93NHPPoLzcL"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Bite Your Lip pt. 2",
+      "url": "https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx"
     },
     {
       "album": {
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 216923,
       "name": "Closer",
       "url": "https://open.spotify.com/track/21xzkkfeDUsPXyxZmiGGpM"
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 214545,
       "name": "Donny Don",
       "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
@@ -1929,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "Front to Back",
+        "url": "https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147107,
+      "name": "Front to Back",
+      "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
+    },
+    {
+      "album": {
         "name": "Gary Lineker",
         "url": "https://open.spotify.com/album/4QMOqeOSjkXAZGV3Ne3PS1"
       },
@@ -2020,7 +2056,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 195555,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM"
@@ -2914,7 +2950,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 256603,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0ObQeoS1Mka9as8t4Tn9BC"
@@ -3261,6 +3297,28 @@
     },
     {
       "album": {
+        "name": "Needle To The Record / One More Time",
+        "url": "https://open.spotify.com/album/1geHip3CKIKmCfZSZKA5kX"
+      },
+      "artists": [
+        {
+          "name": "Wa-Fu",
+          "url": "https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo"
+        },
+        {
+          "name": "Alpha Rosa",
+          "url": "https://open.spotify.com/artist/00NUdwW99bIh26anz76hcs"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284888,
+      "name": "Needle To The Record",
+      "url": "https://open.spotify.com/track/5AeWQqL6s9dII2xXqUbpc8"
+    },
+    {
+      "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/7u24MlEFH8OrFG3RI0pMr5"
       },
@@ -3386,7 +3444,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 196500,
       "name": "nice and close",
       "url": "https://open.spotify.com/track/1gXbEybfs68aNJsd9gX3Uc"
@@ -3636,7 +3694,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 234703,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"
@@ -3768,6 +3826,24 @@
       "duration_ms": 181714,
       "name": "Party Starter (feat. Slick Don)",
       "url": "https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf"
+    },
+    {
+      "album": {
+        "name": "What About The DJ?",
+        "url": "https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280554,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n"
     },
     {
       "album": {
@@ -4511,6 +4587,32 @@
     },
     {
       "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123981,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
+    },
+    {
+      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
       },
@@ -4683,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "Stop Dawdling / The Streets",
+        "url": "https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265454,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
+    },
+    {
+      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/6KKQ3ys4B4FShi6tuqqMGs"
       },
@@ -4702,6 +4822,32 @@
       "duration_ms": 232504,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/7jzBBm22dDJ2C5LfNRw4M8"
+    },
+    {
+      "album": {
+        "name": "The von dutch remix with skream and benga",
+        "url": "https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Benga",
+          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "The von dutch remix with skream and benga",
+      "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
     },
     {
       "album": {

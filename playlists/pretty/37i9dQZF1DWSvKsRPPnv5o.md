@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kalan.FrFr
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,519 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,565 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 73 | [Monte Carlo](https://open.spotify.com/track/1gvuQuIOv3YAtxwR89XMuI) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [SURF OR DROWN, Vol\. 2](https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i) | 2:56 |
 | 74 | [Wanna Win \(feat\. 03 Greedo\)](https://open.spotify.com/track/4E1u837bZx5Oqg0KqMtxoI) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Sleeve Music](https://open.spotify.com/album/2IpZVx5VHq8K6l8x9BeGM1) | 2:29 |
 | 75 | [Top](https://open.spotify.com/track/3qINPOfejlN331MAmdz0XK) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs), [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2) | [GOTDAMNIT BABYSTONES 2](https://open.spotify.com/album/2KUliAiO3UiJtDspsSXexx) | 2:36 |
-| 76 | [EAZY CALL \(feat\. Big Hit\)](https://open.spotify.com/track/7bW909H89QjLGvXTQ6BQIL) | [JasonMartin](https://open.spotify.com/artist/3exvmJjpMVsuvzYN7HVGfZ), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [EAZY CALL \(feat\. Big Hit\)](https://open.spotify.com/album/2iqf7foLn2Zu5AlMFS8TOl) | 2:18 |
+| 76 | [EAZY CALL \(feat\. Big Hit\)](https://open.spotify.com/track/7bW909H89QjLGvXTQ6BQIL) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll) | [EAZY CALL \(feat\. Big Hit\)](https://open.spotify.com/album/2iqf7foLn2Zu5AlMFS8TOl) | 2:18 |
 | 77 | [Blasphemy](https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Blasphemy](https://open.spotify.com/album/5c04iQtkacRr05igSQg46z) | 2:50 |
 | 78 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 |
 | 79 | [Light It Up](https://open.spotify.com/track/3PQ27N3vm2mw9qtbxvO7X2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [King of Ratchet](https://open.spotify.com/album/1Bu3sTcDZbHGZNWeSwOXUx) | 2:13 |

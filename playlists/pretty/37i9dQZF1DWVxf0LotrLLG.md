@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,935 likes - 320 songs - 16 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,939 likes - 320 songs - 16 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

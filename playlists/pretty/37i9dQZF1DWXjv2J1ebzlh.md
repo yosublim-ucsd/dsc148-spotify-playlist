@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,162 likes - 1,192 songs - 3 day 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,196 likes - 1,192 songs - 3 day 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -398,7 +398,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 388 | [Use My Body](https://open.spotify.com/track/7icSPAv1VMEjh7jHP4rqt0) | [Mavis John](https://open.spotify.com/artist/3MkGbWOM7lb49LNZViHwxG) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 4:27 |
 | 389 | [Crema Mental](https://open.spotify.com/track/7pCGUi0Knh5AQnoZ0UBAnG) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:44 |
 | 390 | [Kpon Fi La](https://open.spotify.com/track/7AKFEe7rgh9UkCPBGWsCkq) | [El Rego](https://open.spotify.com/artist/01621nzFzHPae66HU5dTRT) | [El Rego](https://open.spotify.com/album/0L1JWdrvp5WoFh8qZBAZmh) | 3:58 |
-| 391 | [Blackman's Word \(aka Black Man's Pride\)](https://open.spotify.com/track/4yiICPDc9s9ONtJZouvKc1) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 2:49 |
+| 391 | [Blackman's Word \- aka Black Man's Pride](https://open.spotify.com/track/4yiICPDc9s9ONtJZouvKc1) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 2:49 |
 | 392 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 |
 | 393 | [Sputla](https://open.spotify.com/track/1YIkwhcOW1Z0606rqiQgRI) | [Teaspoon Ndelu](https://open.spotify.com/artist/4bTL8Crz6YNEGHMO1QiCcY) | [Ke Kopa Madulo](https://open.spotify.com/album/1TNAgVusw6jRLFmbJuO97C) | 7:03 |
 | 394 | [The Book Keeper](https://open.spotify.com/track/1tFI06y1zhOfvz216tT0WD) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Toby Laing](https://open.spotify.com/artist/1OV6iOLlgqF62UEo676aBq) | [Melodies](https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU) | 5:49 |
@@ -627,7 +627,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 617 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 |
 | 618 | [Magica Nueva](https://open.spotify.com/track/2kVerE4zN9Q7BRAS7fpfuR) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Paracaídas](https://open.spotify.com/album/7bFsZpUPhcAnGKLbmxxpwz) | 3:19 |
 | 619 | [Moja Bhari Moja](https://open.spotify.com/track/1cqupEafj7Gkh7m0o0Gcij) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 8:16 |
-| 620 | [South American Folk Songs](https://open.spotify.com/track/59hCD9o1KUDmMlIBiNkdeC) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/20PmoTQRyWQrXnKDPcwdHO) | 2:37 |
+| 620 | [South American Folk Songs](https://open.spotify.com/track/59hCD9o1KUDmMlIBiNkdeC) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5), [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/20PmoTQRyWQrXnKDPcwdHO) | 2:37 |
 | 621 | [Advice from Father](https://open.spotify.com/track/3Neyj2zB4zylFq6MhatEMg) | [Buari](https://open.spotify.com/artist/7AI9wDJVuvSmYH1SfRsRgX) | [Buari](https://open.spotify.com/album/2fs9DAwzczfaXU1K8yc5iA) | 4:50 |
 | 622 | [Mario Miguel](https://open.spotify.com/track/0fkjBZ4EO2OSsWUufd2chx) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Mario Miguel](https://open.spotify.com/album/15xLvUZmh6Lz6WvHh3h3PK) | 3:36 |
 | 623 | [Cumbanchero](https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a) | [Ruben Gonzalez](https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh) | [Introducing](https://open.spotify.com/album/4aH9hHamrsRzZm4oSzfcZH) | 4:35 |

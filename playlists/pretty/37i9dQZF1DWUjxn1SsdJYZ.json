@@ -1,12 +1,12 @@
 {
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Lisi",
-  "num_followers": 138042,
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: YNG Martyr",
+  "num_followers": 138052,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj080wAAAAAtRVJn1hbYl//WeCJ7xR9o",
+  "snapshot_id": "ZkYRYAAAAABGskZOAMP9FUGy272Eu5ak",
   "tracks": [
     {
       "added_at": "2024-05-09 21:14:59",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/0t5jX5yYQ4HklmDak76c39"
     },
     {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "GUAPANESE",
+        "url": "https://open.spotify.com/album/1k2TdLQCzSJ4HycHgJbvQY"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "duration_ms": 112602,
+      "name": "GUAPANESE",
+      "url": "https://open.spotify.com/track/4zTX30iU2GLWmfscpMvyId"
+    },
+    {
       "added_at": "2024-05-09 21:14:59",
       "album": {
         "name": "Lifetime",
@@ -39,6 +55,62 @@
       "duration_ms": 225612,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/7ltDqWsM4FkIDcX58SsXY1"
+    },
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5vAKS4zJCyJKIDmqk7wpRm"
+      },
+      "artists": [
+        {
+          "name": "3%",
+          "url": "https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg"
+        },
+        {
+          "name": "Calula Webster",
+          "url": "https://open.spotify.com/artist/0TvVoJVGQMWZ7KI0lQBEH5"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7uBk4IyAYeITrzdovVjKXs"
+    },
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "Miss You Still",
+        "url": "https://open.spotify.com/album/2Ji8E0Cm2RzoJWRNoKTJVt"
+      },
+      "artists": [
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        },
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "duration_ms": 150778,
+      "name": "Miss You Still",
+      "url": "https://open.spotify.com/track/0SarTtshZyZMdLB6KdClab"
+    },
+    {
+      "added_at": "2024-05-09 21:14:59",
+      "album": {
+        "name": "Big Hoofa",
+        "url": "https://open.spotify.com/album/6WQ5Ikyp9wYaMSPiigsFhW"
+      },
+      "artists": [
+        {
+          "name": "Juiceboxx",
+          "url": "https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Big Hoofa",
+      "url": "https://open.spotify.com/track/51zUnfBUxOsnGNzrQ1ZW4z"
     },
     {
       "added_at": "2024-05-09 21:14:59",
@@ -57,20 +129,20 @@
       "url": "https://open.spotify.com/track/7576a1TJ554JQGmvch8fzq"
     },
     {
-      "added_at": "2024-05-09 21:14:59",
+      "added_at": "2024-05-16 14:00:00",
       "album": {
-        "name": "Big Hoofa",
-        "url": "https://open.spotify.com/album/6WQ5Ikyp9wYaMSPiigsFhW"
+        "name": "CREW",
+        "url": "https://open.spotify.com/album/1jl0bVp8j9FH2apdk15qV5"
       },
       "artists": [
         {
-          "name": "Juiceboxx",
-          "url": "https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33"
+          "name": "SWIDT",
+          "url": "https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Big Hoofa",
-      "url": "https://open.spotify.com/track/51zUnfBUxOsnGNzrQ1ZW4z"
+      "duration_ms": 163373,
+      "name": "CREW",
+      "url": "https://open.spotify.com/track/50rG7ggLMQYl2JmcAR599P"
     },
     {
       "added_at": "2024-05-09 21:14:59",
@@ -95,6 +167,38 @@
       "duration_ms": 195666,
       "name": "Mashallah",
       "url": "https://open.spotify.com/track/6IzSh3p8d9LaZemZi7FP6o"
+    },
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "TRA TRA",
+        "url": "https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih"
+      },
+      "artists": [
+        {
+          "name": "Jalmar",
+          "url": "https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb"
+        }
+      ],
+      "duration_ms": 148798,
+      "name": "TRA TRA",
+      "url": "https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ"
+    },
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "PRIDE (EPISODE 2)",
+        "url": "https://open.spotify.com/album/7g6h09Tv4ELd4OAqAVa4bu"
+      },
+      "artists": [
+        {
+          "name": "OD",
+          "url": "https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9"
+        }
+      ],
+      "duration_ms": 135461,
+      "name": "PRIDE - EPISODE 2",
+      "url": "https://open.spotify.com/track/5N32A33Xtf216gEBTUgnMr"
     },
     {
       "added_at": "2024-05-09 21:14:59",
@@ -163,6 +267,22 @@
     {
       "added_at": "2024-05-09 21:14:59",
       "album": {
+        "name": "Get This Money",
+        "url": "https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Get This Money",
+      "url": "https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT"
+    },
+    {
+      "added_at": "2024-05-09 21:14:59",
+      "album": {
         "name": "London To A Brick Show (feat. Shadow)",
         "url": "https://open.spotify.com/album/34gI1CcP4vlRagM0Y2vSMl"
       },
@@ -219,22 +339,6 @@
     {
       "added_at": "2024-05-09 21:14:59",
       "album": {
-        "name": "Get This Money",
-        "url": "https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3"
-      },
-      "artists": [
-        {
-          "name": "Hooligan Hefs",
-          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Get This Money",
-      "url": "https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
         "name": "Souljah",
         "url": "https://open.spotify.com/album/6zImdzNBD90wZbAMkeoUvt"
       },
@@ -247,6 +351,26 @@
       "duration_ms": 189890,
       "name": "Souljah",
       "url": "https://open.spotify.com/track/7eMDp8atBVbjwSi8V9iBC5"
+    },
+    {
+      "added_at": "2024-05-09 21:14:59",
+      "album": {
+        "name": "SouthWest",
+        "url": "https://open.spotify.com/album/6zyswqGvS5WvdDHssQnflG"
+      },
+      "artists": [
+        {
+          "name": "Stallyano",
+          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
+        },
+        {
+          "name": "E.T",
+          "url": "https://open.spotify.com/artist/1o2sHR0qEnL1JVSbkxEf4w"
+        }
+      ],
+      "duration_ms": 159164,
+      "name": "SouthWest",
+      "url": "https://open.spotify.com/track/6rsRue1muUPqjD05x2YMFf"
     },
     {
       "added_at": "2024-05-09 21:14:59",
@@ -343,26 +467,6 @@
       "duration_ms": 223236,
       "name": "HIM",
       "url": "https://open.spotify.com/track/1fk698ZPPGjJW3qO4VMWSp"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
-        "name": "SouthWest",
-        "url": "https://open.spotify.com/album/6zyswqGvS5WvdDHssQnflG"
-      },
-      "artists": [
-        {
-          "name": "Stallyano",
-          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
-        },
-        {
-          "name": "E.T",
-          "url": "https://open.spotify.com/artist/1o2sHR0qEnL1JVSbkxEf4w"
-        }
-      ],
-      "duration_ms": 159164,
-      "name": "SouthWest",
-      "url": "https://open.spotify.com/track/6rsRue1muUPqjD05x2YMFf"
     },
     {
       "added_at": "2024-05-09 21:14:59",
@@ -1275,22 +1379,6 @@
     {
       "added_at": "2024-05-09 21:14:59",
       "album": {
-        "name": "Griselda",
-        "url": "https://open.spotify.com/album/7DB8Corm5p7XfnKojphcmJ"
-      },
-      "artists": [
-        {
-          "name": "Sexton",
-          "url": "https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2"
-        }
-      ],
-      "duration_ms": 169228,
-      "name": "Griselda",
-      "url": "https://open.spotify.com/track/4OCXpKzCgLMdEl5ib8os2J"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
         "name": "POWERFUL POETRY",
         "url": "https://open.spotify.com/album/3Tu04t5KSKVNVfgGd1OAEd"
       },
@@ -1383,30 +1471,6 @@
       "duration_ms": 192583,
       "name": "We Up",
       "url": "https://open.spotify.com/track/7H9W9Dn7LDHYfH2RNl4L4v"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
-        "name": "Both My Hands",
-        "url": "https://open.spotify.com/album/7JgVfS6XzYlZXStSG6u8g9"
-      },
-      "artists": [
-        {
-          "name": "MAMMOTH.",
-          "url": "https://open.spotify.com/artist/7tdBqb3aekf8FbdIUKEMM1"
-        },
-        {
-          "name": "Eric Spice",
-          "url": "https://open.spotify.com/artist/6QESzAv0RlIn1sKeHkNTeE"
-        },
-        {
-          "name": "Nikodimos",
-          "url": "https://open.spotify.com/artist/3UR6EeXwoBQuXxKPxtEgLu"
-        }
-      ],
-      "duration_ms": 154868,
-      "name": "Both My Hands",
-      "url": "https://open.spotify.com/track/62B32ZHDCFDsueU5FW8YI4"
     },
     {
       "added_at": "2024-05-09 21:14:59",
@@ -1531,46 +1595,6 @@
     {
       "added_at": "2024-05-09 21:14:59",
       "album": {
-        "name": "Next Up Australia - S1-E6",
-        "url": "https://open.spotify.com/album/0oXCK5cmxHUNRdjhJSGdFU"
-      },
-      "artists": [
-        {
-          "name": "DIBZ",
-          "url": "https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 140947,
-      "name": "Next Up Australia - S1-E6",
-      "url": "https://open.spotify.com/track/64SsCEM4LdmB4uc2SxxbBn"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/05Y6KOMvp6pG1Y61JGmyt8"
-      },
-      "artists": [
-        {
-          "name": "Pao",
-          "url": "https://open.spotify.com/artist/0BjwyQkvPnw7b6SE1Zz1xr"
-        },
-        {
-          "name": "Oshua",
-          "url": "https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/33JmS4eT392zIOj4YO25Lk"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
         "name": "Next Up Australia - S1-E7",
         "url": "https://open.spotify.com/album/3JRghRZoDxlBTG4ACYU1UC"
       },
@@ -1611,42 +1635,6 @@
     {
       "added_at": "2024-05-09 21:14:59",
       "album": {
-        "name": "Through The Storm",
-        "url": "https://open.spotify.com/album/5pACLCow7gGS6YJPyfbbGW"
-      },
-      "artists": [
-        {
-          "name": "No Money Enterprise",
-          "url": "https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB"
-        },
-        {
-          "name": "Bently",
-          "url": "https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Through The Storm",
-      "url": "https://open.spotify.com/track/4AnY0oihG1lRUxSiTOcGdt"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
-        "name": "LIED TO MY FACE",
-        "url": "https://open.spotify.com/album/6JGDi4vkRhBqZG8M8iTraE"
-      },
-      "artists": [
-        {
-          "name": "OD",
-          "url": "https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9"
-        }
-      ],
-      "duration_ms": 124878,
-      "name": "LIED TO MY FACE",
-      "url": "https://open.spotify.com/track/2V7vvwuyjat8IchV9EbxcD"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
         "name": "Next Up Australia - S1-E1",
         "url": "https://open.spotify.com/album/3aUtF8qNMNW0tLLT7pQ0Jl"
       },
@@ -1667,22 +1655,6 @@
       "duration_ms": 145074,
       "name": "Next Up Australia - S1-E1",
       "url": "https://open.spotify.com/track/5JpGv87nAb2bD8mw7GIUKl"
-    },
-    {
-      "added_at": "2024-05-09 21:14:59",
-      "album": {
-        "name": "Win",
-        "url": "https://open.spotify.com/album/0qkvZIgjzFagx6TtrqjfLd"
-      },
-      "artists": [
-        {
-          "name": "Lil Spacely",
-          "url": "https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n"
-        }
-      ],
-      "duration_ms": 144405,
-      "name": "Win",
-      "url": "https://open.spotify.com/track/1DbOAQSLtvclmAHpaYx4ZA"
     },
     {
       "added_at": "2024-05-09 21:14:59",

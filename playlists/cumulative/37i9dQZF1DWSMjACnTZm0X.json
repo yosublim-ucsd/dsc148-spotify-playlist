@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Yumbs, Joeboy, Focalistic, Moliy, Bien",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Tito M, Burna Boy, Yuppe",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -1447,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/7i49JEVekmPcw9DaxLBe39"
+      },
+      "artists": [
+        {
+          "name": "1wayJustis",
+          "url": "https://open.spotify.com/artist/3wI8SbcuRAH53rmUC3yFe5"
+        },
+        {
+          "name": "Julio Ade",
+          "url": "https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173822,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/1qTgKEsfJplWlcJopKjN6O"
+    },
+    {
+      "album": {
         "name": "Faster",
         "url": "https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p"
       },
@@ -1600,7 +1622,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 229386,
       "name": "Get Busy (Mshikashika)",
       "url": "https://open.spotify.com/track/5kTKXAvNPxUjvHybQmhwpo"
@@ -3044,7 +3066,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 383998,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/64ZjngztTdU3j6G1ekJh0D"
@@ -3206,7 +3228,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 129306,
       "name": "No Collab",
       "url": "https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g"
@@ -3516,7 +3538,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 242244,
       "name": "Party",
       "url": "https://open.spotify.com/track/3w6sbb4d9p4XC9EF0BoB4c"
@@ -4456,7 +4478,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 196179,
       "name": "Things on Things",
       "url": "https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE"
@@ -4504,6 +4526,36 @@
       "duration_ms": 235662,
       "name": "Toro (feat. DDG)",
       "url": "https://open.spotify.com/track/6qaRAEwQ7rQ6Qd1kwBEqWK"
+    },
+    {
+      "album": {
+        "name": "Tshwala Bam (feat. S.N.E) [Remix]",
+        "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Tshwala Bam (feat. S.N.E) - Remix",
+      "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
       "album": {
@@ -4596,7 +4648,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 197389,
       "name": "VACAY",
       "url": "https://open.spotify.com/track/6IYWAQtBQ2sDGd0eXmnah4"
@@ -4818,7 +4870,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 176637,
       "name": "What It Do Baby",
       "url": "https://open.spotify.com/track/2cSlM8aBaXFNoj7QBSXLmZ"

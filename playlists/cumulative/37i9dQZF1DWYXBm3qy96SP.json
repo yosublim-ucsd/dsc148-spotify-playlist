@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: girl in red ",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Bon Jovi",
   "name": "Rock The World",
   "tracks": [
     {
@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 115177,
       "name": "Changing Faces (feat. Cuco)",
       "url": "https://open.spotify.com/track/0Ti4ZWTNevOQFTN63Vldjl"
@@ -8470,7 +8470,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 245033,
       "name": "GLORIOUS 70",
       "url": "https://open.spotify.com/track/2mdj2hVUfM1hrXyIAITvV0"
@@ -8528,6 +8528,28 @@
       "duration_ms": 136266,
       "name": "Go Man Go",
       "url": "https://open.spotify.com/track/4gC9PZqUSZbfzm8LEygxZD"
+    },
+    {
+      "album": {
+        "name": "God Speed (feat. WARGASM (UK))",
+        "url": "https://open.spotify.com/album/0mu1GjpR57D8aStHJyyboQ"
+      },
+      "artists": [
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        },
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196252,
+      "name": "God Speed (feat. WARGASM (UK))",
+      "url": "https://open.spotify.com/track/7CqdptwGjeskv3rim4Spvi"
     },
     {
       "album": {
@@ -8976,7 +8998,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 194680,
       "name": "Happy Hurts",
       "url": "https://open.spotify.com/track/79odnhnVWU9uEE3XAQhTo3"
@@ -10551,6 +10573,24 @@
     },
     {
       "album": {
+        "name": "Infernoids - Single",
+        "url": "https://open.spotify.com/album/1UThdhct5a4WeVQc8croan"
+      },
+      "artists": [
+        {
+          "name": "Adora",
+          "url": "https://open.spotify.com/artist/6hlmeO5GSiAKHjBgZlKPmB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191719,
+      "name": "Infernoids",
+      "url": "https://open.spotify.com/track/0pok6MZVjACv63B032iF7W"
+    },
+    {
+      "album": {
         "name": "Insane Supermarket",
         "url": "https://open.spotify.com/album/6KJxZCc3cV7axMuAXGbSL2"
       },
@@ -11350,7 +11390,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 162506,
       "name": "L.A.M.N",
       "url": "https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k"
@@ -12058,6 +12098,24 @@
       "duration_ms": 219352,
       "name": "Living Or Dying",
       "url": "https://open.spotify.com/track/33hscsDJtrZMeOi5eJhHLr"
+    },
+    {
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219346,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
     },
     {
       "album": {
@@ -12946,7 +13004,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 289097,
       "name": "Merry Old England",
       "url": "https://open.spotify.com/track/3BxzLyZAlj0fKDGo9iuw5F"
@@ -19383,6 +19441,32 @@
     },
     {
       "album": {
+        "name": "Surrounded by Stars (feat. Lili Forest & OBSESS)",
+        "url": "https://open.spotify.com/album/2hw4xdlpOhT8A0lXTcZ6h3"
+      },
+      "artists": [
+        {
+          "name": "Seasons for Change",
+          "url": "https://open.spotify.com/artist/3Fq4PqVhwwwwCVCt0NQoXT"
+        },
+        {
+          "name": "Lili Forest",
+          "url": "https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6"
+        },
+        {
+          "name": "OBSESS",
+          "url": "https://open.spotify.com/artist/1CnX88uQKiTPRNeFInBey9"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264565,
+      "name": "Surrounded by Stars (feat. Lili Forest & OBSESS)",
+      "url": "https://open.spotify.com/track/2GrPSSEbBGa5SdEK5FlzGy"
+    },
+    {
+      "album": {
         "name": "STRUGGLER",
         "url": "https://open.spotify.com/album/08pAfyf7MaZumnHQ2yzOU6"
       },
@@ -21610,7 +21694,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 166844,
       "name": "Waiting On A Twist Of Fate",
       "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
@@ -23237,6 +23321,24 @@
     },
     {
       "album": {
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+    },
+    {
+      "album": {
         "name": "\u3089\u3093\u3069",
         "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
       },
@@ -23360,6 +23462,24 @@
       "duration_ms": 275520,
       "name": "\u77e5\u3089\u306a\u3044\u9053",
       "url": "https://open.spotify.com/track/0MapT4uZ7ZQFUxVw8x7L4F"
+    },
+    {
+      "album": {
+        "name": "\u795e\u69d8",
+        "url": "https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc"
+      },
+      "artists": [
+        {
+          "name": "Gestalt Girl",
+          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "\u795e\u69d8",
+      "url": "https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU"
     },
     {
       "album": {

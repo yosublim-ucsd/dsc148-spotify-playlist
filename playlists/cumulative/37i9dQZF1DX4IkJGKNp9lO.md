@@ -4,7 +4,7 @@
 
 > 
 
-314 songs - 14 hr 45 min
+316 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,10 +55,11 @@
 | [Daniel Blake](https://open.spotify.com/track/7xAjyXIyAUypU0Qci8Gw4H) | [23Till](https://open.spotify.com/artist/5tvMlDFl5M1AnDDHhMFdfp) | [Shake it baby!](https://open.spotify.com/album/3i6ubfsYG7esZzrv0c1Up8) | 2:56 | 2024-03-28 | 2024-04-19 |
 | [Den amerikanska drömmen](https://open.spotify.com/track/7jVzX2aSNJRYJV84j6F0wE) | [Förbjudna Ljud](https://open.spotify.com/artist/1LeVZ9pA0Ao7fhgL22Wb25) | [Den amerikanska drömmen](https://open.spotify.com/album/6VJejmkhQrOHfN1rZGGCMg) | 2:12 | 2021-12-14 |  |
 | [Den blomstertid](https://open.spotify.com/track/5v8RElTegz5AqfczPkw11x) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Den blomstertid](https://open.spotify.com/album/2CaELSWA9uJgNlVmCzDeoJ) | 2:38 | 2021-12-14 | 2022-07-28 |
+| [Den här stan](https://open.spotify.com/track/7yHpuyqiWdljDEF855hMgC) | [Skithuvve](https://open.spotify.com/artist/74aaVl8iprrvSfvYUsyHIB) | [Bryter ihop för idag](https://open.spotify.com/album/5MWVgUzeKPg3dcY8u1t8o7) | 2:13 | 2024-05-16 |  |
 | [Den Här Är Till Er](https://open.spotify.com/track/4QihvZNdzxHc9Upqk7HFmC) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Historien Dömer Oss Alla](https://open.spotify.com/album/4ZaG6S0IIZaUrsKk3U7vC2) | 4:18 | 2021-12-14 | 2022-07-29 |
 | [Den Här Är Till Er](https://open.spotify.com/track/4FU7skLnl1FpRIbFezJ0j1) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Den Här Är Till Er](https://open.spotify.com/album/3l1A9HHdfzlRg6O4hdQ8OE) | 4:23 | 2021-12-14 | 2023-05-14 |
 | [Det borde fan var't jag](https://open.spotify.com/track/6nMC8j2DhFEUQmrYFtrHJ8) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Automatiskt](https://open.spotify.com/album/5Z7SWe9qj63UOVQu6cJCqU) | 2:19 | 2021-12-14 | 2022-05-14 |
-| [Det spelar ingen roll](https://open.spotify.com/track/0dUrBmCva4ajCAslQMYiyr) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 1:36 | 2021-12-14 |  |
+| [Det spelar ingen roll](https://open.spotify.com/track/0dUrBmCva4ajCAslQMYiyr) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m) | 1:36 | 2021-12-14 | 2024-05-17 |
 | [Die Mauer](https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön](https://open.spotify.com/album/3fZyzR2Qeu8d5h8FsejF1I) | 4:04 | 2021-12-14 |  |
 | [Dina ögon](https://open.spotify.com/track/0t5IihDPop70K6cdiaWiu4) | [Fabriken](https://open.spotify.com/artist/4NSYVBtc6AfoIpUgvXnWvT) | [Mot botten av ett hål](https://open.spotify.com/album/1DMtd1QajX2PwaL8Ac2F4u) | 3:11 | 2021-12-14 | 2022-07-25 |
 | [Dina ögon](https://open.spotify.com/track/1kwic7QBnCm9ybxq1MU5N2) | [Fabriken](https://open.spotify.com/artist/4NSYVBtc6AfoIpUgvXnWvT) | [Mot botten av ett hål](https://open.spotify.com/album/3VkXVn56aBAjhslETKDWx7) | 3:11 | 2023-12-14 | 2024-04-19 |
@@ -126,6 +127,7 @@
 | [I populismens klor](https://open.spotify.com/track/206QNNcVsaMoe0Mdz0jaFK) | [Blodstank](https://open.spotify.com/artist/5BaFiL4shovzRK2inwstnt) | [I populismens klor](https://open.spotify.com/album/4zrCgFzXGLOwf950kg8UeV) | 2:46 | 2024-04-18 |  |
 | [Idrottslärarn e sträng!](https://open.spotify.com/track/2mNxYWVvBvNUkVT4AlhzQ8) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 2:08 | 2021-12-14 |  |
 | [Ingen äger mig](https://open.spotify.com/track/5dmO8OXn6YkF5r1bCZDPIT) | [Vidro](https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8) | [Vidro / Cankro \(Brasil Tour\)](https://open.spotify.com/album/08tdwukMxzhjRCFr7owfBw) | 1:17 | 2021-12-14 |  |
+| [Innan du försvinner](https://open.spotify.com/track/38n2koCjpSxcGm5kiun02Q) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Innan du försvinner](https://open.spotify.com/album/5vzyrifDDM1ZfYSkVVPJSW) | 3:20 | 2024-05-16 |  |
 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/0CyGNDM8ulsItXRJyi0iPI) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/1VlxCiN1DYTqwG4o1OTiGr) | 3:27 | 2021-12-14 | 2022-07-29 |
 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/0aozr0Hc6LefOhDj818RDI) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/0zgmxxpsQDiLBcWLKTZMld) | 3:27 | 2023-04-13 | 2024-04-19 |
 | [Jag Går Upp Och Håller Käften](https://open.spotify.com/track/4wBImoo0wHN7nuqcFp2M8j) | [Coca Carola](https://open.spotify.com/artist/3SZ1ctTCbqXxdQ8atMJpVh) | [Feber](https://open.spotify.com/album/3BQYGmHHjOxOGKgFJfWzay) | 3:27 | 2021-12-14 | 2023-04-29 |
@@ -301,7 +303,7 @@
 | [Vem sätter märket](https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Vem sätter märket](https://open.spotify.com/album/0wK3Dh1UY6XVZOfhUvR6GF) | 3:10 | 2021-12-14 | 2022-11-13 |
 | [Vem Vågar Tro](https://open.spotify.com/track/2i0rygqMD1AKTGuVc5oHq9) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From the Past](https://open.spotify.com/album/7MPicF3ZYteZYXCSveQ0Eb) | 3:03 | 2024-03-28 | 2024-04-19 |
 | [Vem Vågar Tro](https://open.spotify.com/track/5VAz683ouGZsuROud0rl44) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From The Past](https://open.spotify.com/album/6L76NkyJbhwhLLzFTQ36JU) | 3:03 | 2021-12-14 | 2022-07-17 |
-| [Vill inte va med](https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 2:49 | 2021-12-14 |  |
+| [Vill inte va med](https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 2:49 | 2021-12-14 | 2024-05-17 |
 | [Vill inte va med](https://open.spotify.com/track/4bcj3IBZ3qOGOuhq3zZX6p) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os) | 2:49 | 2021-12-14 | 2024-04-19 |
 | [Vilse på öppet hav](https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v) | [SARDO NUMSPA](https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq) | [För alltid](https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ) | 2:45 | 2023-08-03 | 2024-04-19 |
 | [Vilse på öppet hav](https://open.spotify.com/track/4PERjfb1QptY3TKUfaMoCw) | [SARDO NUMSPA](https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq) | [Vilse på öppet hav](https://open.spotify.com/album/0iSIR7gLR3biV3QX6ZKV8m) | 2:45 | 2021-12-14 |  |

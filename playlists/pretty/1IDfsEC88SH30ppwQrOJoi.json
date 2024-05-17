@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14516,
+  "num_followers": 14514,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAJbTJKJXISx8+aEFmt0pY7ZPSTVbPb",
+  "snapshot_id": "AAAJbi+VZ53f8/HJ3XmCdZluz/23vBgK",
   "tracks": [
     {
       "added_at": "2024-05-14 10:39:50",
@@ -1487,6 +1487,26 @@
       "duration_ms": 160500,
       "name": "Sleep When I'm Dead",
       "url": "https://open.spotify.com/track/7jfDt0UHiWpD5TJA8yiA7Q"
+    },
+    {
+      "added_at": "2024-05-16 10:10:21",
+      "album": {
+        "name": "Cheri Cheri Lady (Tech House Version)",
+        "url": "https://open.spotify.com/album/0CKaqrOZnbV40SmsZDimtl"
+      },
+      "artists": [
+        {
+          "name": "Wamo",
+          "url": "https://open.spotify.com/artist/2aVcWpmF6DBOMBguB1fwFZ"
+        },
+        {
+          "name": "Elemer",
+          "url": "https://open.spotify.com/artist/7KuO3mvpWbSf7o7iR8fvOn"
+        }
+      ],
+      "duration_ms": 149669,
+      "name": "Cheri Cheri Lady - Tech House Version",
+      "url": "https://open.spotify.com/track/1Du5QYYZ9yjxmtG13wYKoB"
     }
   ],
   "unique_name": "Ultra Club Hits",

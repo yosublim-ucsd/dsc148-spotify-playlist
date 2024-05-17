@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Bollywood Music - Kumar Sanu At His Best, Vol. 2",
+        "url": "https://open.spotify.com/album/2zy2TJ3HX11LjNt5n3zFtI"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415666,
+      "name": "Dil Kehta Hai (From \"Akele Hum Akele Tum\")",
+      "url": "https://open.spotify.com/track/4xx4olj0y8KxA1oVXe4fBL"
+    },
+    {
+      "album": {
         "name": "Akele Hum Akele Tum (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1zwT18Vm7F5zPBNvRQp71F"
       },
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 435493,
       "name": "Tu Hi Re - From \"Bombay\"",
       "url": "https://open.spotify.com/track/6nwRC0UkS1MdOOMjcJsrbX"

@@ -1,15 +1,63 @@
 {
   "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP?si=bjd2Swa8RyiqorHV5oPoIw\">Maline Aura</a>",
-  "num_followers": 73438,
+  "num_followers": 73437,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1VcAAAAACtOmAv8IU6wSktEYFMyvhA",
+  "snapshot_id": "ZkaP8AAAAAAA/GDvTY2omBBirKJnvgbW",
   "tracks": [
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Gorah (Francis Mercier Midnight Mix)",
+        "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "Gorah - Francis Mercier Midnight Mix",
+      "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "EVERGREEN",
+        "url": "https://open.spotify.com/album/1acxyJRAsjYqYK8cF6dOfM"
+      },
+      "artists": [
+        {
+          "name": "Charisse C",
+          "url": "https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n"
+        },
+        {
+          "name": "Shazmicsoul",
+          "url": "https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg"
+        },
+        {
+          "name": "Small Keys",
+          "url": "https://open.spotify.com/artist/2KCQgfKYeUmXJPrWxOOEf2"
+        }
+      ],
+      "duration_ms": 359701,
+      "name": "Angisafuni",
+      "url": "https://open.spotify.com/track/4A4EXdgo16fyLqm6ylV9vW"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Sekusile",
         "url": "https://open.spotify.com/album/17EktvwMYBNNcXL4rXVai7"
@@ -29,27 +77,59 @@
       "url": "https://open.spotify.com/track/4Zb3pc30RA1QtXezj5heEr"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Oke Oke",
-        "url": "https://open.spotify.com/album/3kavaUgCeyHTADu1kufulb"
+        "name": "Ezizweni (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/0UvsgCBwKsYpkOBt0xdPaj"
       },
       "artists": [
         {
-          "name": "DJ Lag",
-          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
         },
         {
-          "name": "Jazz Alonso",
-          "url": "https://open.spotify.com/artist/2ghMQoYAKLMNHs896hl93k"
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "Luke Ntombela",
+          "url": "https://open.spotify.com/artist/0gxKZ0KGwSMOuZ1A0PtVmD"
         }
       ],
-      "duration_ms": 187204,
-      "name": "Oke Oke",
-      "url": "https://open.spotify.com/track/5giz0fcrNPPfLHPAHlAN76"
+      "duration_ms": 209508,
+      "name": "Ezizweni (Nitefreak Remix)",
+      "url": "https://open.spotify.com/track/7HewQPen9NTYZdWdCbE6j3"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Sandcastle (Remixes)",
+        "url": "https://open.spotify.com/album/0OMsO7ck4mM05y1joUjI4k"
+      },
+      "artists": [
+        {
+          "name": "Sir LSG",
+          "url": "https://open.spotify.com/artist/2Uy7rPXDCqkd90ksG3sgt0"
+        },
+        {
+          "name": "Ayanda Jiya",
+          "url": "https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl"
+        },
+        {
+          "name": "The Bless",
+          "url": "https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5"
+        }
+      ],
+      "duration_ms": 262564,
+      "name": "Sandcastle - Sir LSG & The Bless Radio Edit",
+      "url": "https://open.spotify.com/track/7wkPyS0jyJUEqxuxfuppFh"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
@@ -85,135 +165,7 @@
       "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Digane",
-        "url": "https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 162701,
-      "name": "Digane",
-      "url": "https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Kronan & Kaleta",
-        "url": "https://open.spotify.com/album/6PpT7RwurGi2WmIJo8FJDi"
-      },
-      "artists": [
-        {
-          "name": "Kronan",
-          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
-        }
-      ],
-      "duration_ms": 170861,
-      "name": "Yamba Jump",
-      "url": "https://open.spotify.com/track/52TAucBl21tbNx6cV3m6T5"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Hypnotize EP",
-        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Gorah (Francis Mercier Midnight Mix)",
-        "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
-      },
-      "artists": [
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "Gorah - Francis Mercier Midnight Mix",
-      "url": "https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "EVERGREEN",
-        "url": "https://open.spotify.com/album/1acxyJRAsjYqYK8cF6dOfM"
-      },
-      "artists": [
-        {
-          "name": "Charisse C",
-          "url": "https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n"
-        },
-        {
-          "name": "Shazmicsoul",
-          "url": "https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg"
-        },
-        {
-          "name": "Small Keys",
-          "url": "https://open.spotify.com/artist/2KCQgfKYeUmXJPrWxOOEf2"
-        }
-      ],
-      "duration_ms": 359701,
-      "name": "Angisafuni",
-      "url": "https://open.spotify.com/track/4A4EXdgo16fyLqm6ylV9vW"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "iNumber Number",
-        "url": "https://open.spotify.com/album/2T8w3dPW9a3htSnb2pM81b"
-      },
-      "artists": [
-        {
-          "name": "Omagoqa",
-          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
-        },
-        {
-          "name": "DBN Gogo",
-          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
-        },
-        {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
-        }
-      ],
-      "duration_ms": 333877,
-      "name": "iNumber Number",
-      "url": "https://open.spotify.com/track/7wcy1BbA5JtRyV3wleeNIX"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Breathe (Remixes)",
         "url": "https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb"
@@ -237,7 +189,175 @@
       "url": "https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Oke Oke",
+        "url": "https://open.spotify.com/album/3kavaUgCeyHTADu1kufulb"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Jazz Alonso",
+          "url": "https://open.spotify.com/artist/2ghMQoYAKLMNHs896hl93k"
+        }
+      ],
+      "duration_ms": 187204,
+      "name": "Oke Oke",
+      "url": "https://open.spotify.com/track/5giz0fcrNPPfLHPAHlAN76"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Umqhumo Wethu",
+        "url": "https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        },
+        {
+          "name": "The Ascension",
+          "url": "https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF"
+        },
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "duration_ms": 325176,
+      "name": "uZosala",
+      "url": "https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Digane",
+        "url": "https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 162701,
+      "name": "Digane",
+      "url": "https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Say Yes (feat. Rona Ray) [Jimpster Remix]",
+        "url": "https://open.spotify.com/album/0bK7ineznnkxK4cEKEohbt"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        },
+        {
+          "name": "Jimpster",
+          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Say Yes (feat. Rona Ray) - Jimpster Remix",
+      "url": "https://open.spotify.com/track/468OCUl2AS0D9dfFMYICLK"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Kronan & Kaleta",
+        "url": "https://open.spotify.com/album/6PpT7RwurGi2WmIJo8FJDi"
+      },
+      "artists": [
+        {
+          "name": "Kronan",
+          "url": "https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "duration_ms": 170861,
+      "name": "Yamba Jump",
+      "url": "https://open.spotify.com/track/52TAucBl21tbNx6cV3m6T5"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Hypnotize EP",
+        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Pan African Rockstar (The Pack Remixes)",
+        "url": "https://open.spotify.com/album/57SAIfLFbtKfdPKLhxNgvJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "F\u0101\u00ebM",
+          "url": "https://open.spotify.com/artist/1PIhIFbh6DT2McaR3DBy0u"
+        },
+        {
+          "name": "Martinses",
+          "url": "https://open.spotify.com/artist/3OcLXqt9ch5xD04w3ptF9V"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Hello Lady",
+      "url": "https://open.spotify.com/track/44QAZc6eUUwZKfYu3QB6Kk"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv"
@@ -261,7 +381,27 @@
       "url": "https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Within Me",
+        "url": "https://open.spotify.com/album/1JekMRrpYZUdqHypLHcMxj"
+      },
+      "artists": [
+        {
+          "name": "TAPIWA",
+          "url": "https://open.spotify.com/artist/18fxzBELWLV9RCCOqqjyEd"
+        },
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK"
+        }
+      ],
+      "duration_ms": 235530,
+      "name": "Within Me",
+      "url": "https://open.spotify.com/track/7DtWK3lSms04714HDzUm9n"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
@@ -277,199 +417,7 @@
       "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "See The Light",
-        "url": "https://open.spotify.com/album/2MgKWEdCIRt4ofpJIgABvD"
-      },
-      "artists": [
-        {
-          "name": "Mr. Blas\u00e9",
-          "url": "https://open.spotify.com/artist/4E2V6Hm9zyOXmBtklwXSKd"
-        }
-      ],
-      "duration_ms": 408758,
-      "name": "See The Light",
-      "url": "https://open.spotify.com/track/4dY2SIZQRp2LLZNXd4itE3"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Murder On The Dancefloor (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 174337,
-      "name": "Murder On The Dancefloor - David Guetta Remix",
-      "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/2OhUilvZnuG4pJpKseLkAo"
-      },
-      "artists": [
-        {
-          "name": "Mhammed El Alami",
-          "url": "https://open.spotify.com/artist/10VgXLUtnERqoxZBwEabyI"
-        },
-        {
-          "name": "Ericsson",
-          "url": "https://open.spotify.com/artist/2YWH9rS0WkMBlvtGjgW4X1"
-        },
-        {
-          "name": "EGGSTA",
-          "url": "https://open.spotify.com/artist/6DtlUeAwcib4uc0CfcgYBz"
-        }
-      ],
-      "duration_ms": 219052,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/4mtRixukURYPTXJFTg1Cm5"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Gorilla EP",
-        "url": "https://open.spotify.com/album/32tJ3ZvTh6ivoohE42aYTA"
-      },
-      "artists": [
-        {
-          "name": "RAYZIR",
-          "url": "https://open.spotify.com/artist/0SyO8xciHr7YgddHXRVJLQ"
-        },
-        {
-          "name": "Philou Louzolo",
-          "url": "https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Gorilla - Radio Edit",
-      "url": "https://open.spotify.com/track/07RX3FwnpN61suArirCyx2"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Ezizweni (Nitefreak Remix)",
-        "url": "https://open.spotify.com/album/0UvsgCBwKsYpkOBt0xdPaj"
-      },
-      "artists": [
-        {
-          "name": "Hyenah",
-          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
-        },
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "DJ Tira",
-          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
-        },
-        {
-          "name": "Luke Ntombela",
-          "url": "https://open.spotify.com/artist/0gxKZ0KGwSMOuZ1A0PtVmD"
-        }
-      ],
-      "duration_ms": 209508,
-      "name": "Ezizweni (Nitefreak Remix)",
-      "url": "https://open.spotify.com/track/7HewQPen9NTYZdWdCbE6j3"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/31P59gRrOBDO8zRbhEmRRk"
-      },
-      "artists": [
-        {
-          "name": "Floyd Lavine",
-          "url": "https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw"
-        },
-        {
-          "name": "Coflo",
-          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
-        },
-        {
-          "name": "Rawb Boss",
-          "url": "https://open.spotify.com/artist/1CGgLRMyrQ5POtzYjeLKcC"
-        }
-      ],
-      "duration_ms": 445440,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/2qZxw6wK5e4AiKDwRVpuVX"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "sisahleleleni (Henrik Schwarz Remix)",
-        "url": "https://open.spotify.com/album/0XwqQyVMKVSY1TgMjjB5qI"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        }
-      ],
-      "duration_ms": 354304,
-      "name": "sisahleleleni - Henrik Schwarz Remix",
-      "url": "https://open.spotify.com/track/4JMmufXTzZPDbdDGp53TYt"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Criminal (feat. Kah-Lo & BJ The Chicago Kid)",
-        "url": "https://open.spotify.com/album/05X0dZXNDwLdNP0sP3l0zJ"
-      },
-      "artists": [
-        {
-          "name": "Alice Ivy",
-          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        }
-      ],
-      "duration_ms": 217243,
-      "name": "Criminal (feat. Kah-Lo & BJ The Chicago Kid)",
-      "url": "https://open.spotify.com/track/1etj360XIk6CFlAxuyYKBy"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Respect The Drumboss (3 Step Edition)",
         "url": "https://open.spotify.com/album/1gYcrQzMkSsXhmJpo7Z8eX"
@@ -497,7 +445,23 @@
       "url": "https://open.spotify.com/track/2znV6ccKYPJOLh1GzKM3zE"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "See The Light",
+        "url": "https://open.spotify.com/album/2MgKWEdCIRt4ofpJIgABvD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4E2V6Hm9zyOXmBtklwXSKd"
+        }
+      ],
+      "duration_ms": 408758,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/4dY2SIZQRp2LLZNXd4itE3"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Click Bait",
         "url": "https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1"
@@ -537,7 +501,155 @@
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Murder On The Dancefloor (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 174337,
+      "name": "Murder On The Dancefloor - David Guetta Remix",
+      "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "The Star Is Reborn",
+        "url": "https://open.spotify.com/album/23EoRgzCXwzvaRQ5WMEL2S"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Abasekho",
+      "url": "https://open.spotify.com/track/1W5pFCjik3BlmyIsBglaBH"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/2OhUilvZnuG4pJpKseLkAo"
+      },
+      "artists": [
+        {
+          "name": "Mhammed El Alami",
+          "url": "https://open.spotify.com/artist/10VgXLUtnERqoxZBwEabyI"
+        },
+        {
+          "name": "Ericsson",
+          "url": "https://open.spotify.com/artist/2YWH9rS0WkMBlvtGjgW4X1"
+        },
+        {
+          "name": "EGGSTA",
+          "url": "https://open.spotify.com/artist/6DtlUeAwcib4uc0CfcgYBz"
+        }
+      ],
+      "duration_ms": 219052,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/4mtRixukURYPTXJFTg1Cm5"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Gorilla EP",
+        "url": "https://open.spotify.com/album/32tJ3ZvTh6ivoohE42aYTA"
+      },
+      "artists": [
+        {
+          "name": "RAYZIR",
+          "url": "https://open.spotify.com/artist/0SyO8xciHr7YgddHXRVJLQ"
+        },
+        {
+          "name": "Philou Louzolo",
+          "url": "https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Gorilla - Radio Edit",
+      "url": "https://open.spotify.com/track/07RX3FwnpN61suArirCyx2"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/31P59gRrOBDO8zRbhEmRRk"
+      },
+      "artists": [
+        {
+          "name": "Floyd Lavine",
+          "url": "https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw"
+        },
+        {
+          "name": "Coflo",
+          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
+        },
+        {
+          "name": "Rawb Boss",
+          "url": "https://open.spotify.com/artist/1CGgLRMyrQ5POtzYjeLKcC"
+        }
+      ],
+      "duration_ms": 445440,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/2qZxw6wK5e4AiKDwRVpuVX"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "sisahleleleni (Henrik Schwarz Remix)",
+        "url": "https://open.spotify.com/album/0XwqQyVMKVSY1TgMjjB5qI"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 354304,
+      "name": "sisahleleleni - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/4JMmufXTzZPDbdDGp53TYt"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Criminal (feat. Kah-Lo & BJ The Chicago Kid)",
+        "url": "https://open.spotify.com/album/05X0dZXNDwLdNP0sP3l0zJ"
+      },
+      "artists": [
+        {
+          "name": "Alice Ivy",
+          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 217243,
+      "name": "Criminal (feat. Kah-Lo & BJ The Chicago Kid)",
+      "url": "https://open.spotify.com/track/1etj360XIk6CFlAxuyYKBy"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Muziq Unboxed",
         "url": "https://open.spotify.com/album/2UfnKtExvC2owCH1nNegSb"
@@ -553,7 +665,7 @@
       "url": "https://open.spotify.com/track/79cCWXqthsH0KDSeY6Aldj"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
@@ -573,7 +685,7 @@
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Hade Boss",
         "url": "https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO"
@@ -597,7 +709,7 @@
       "url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
@@ -617,7 +729,7 @@
       "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "mr useless",
         "url": "https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ"
@@ -637,23 +749,7 @@
       "url": "https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "The Star Is Reborn",
-        "url": "https://open.spotify.com/album/23EoRgzCXwzvaRQ5WMEL2S"
-      },
-      "artists": [
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Abasekho",
-      "url": "https://open.spotify.com/track/1W5pFCjik3BlmyIsBglaBH"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
@@ -677,7 +773,7 @@
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
@@ -697,7 +793,7 @@
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "There's Music in the Air (Fka Mash Remix)",
         "url": "https://open.spotify.com/album/2PDkvcTn7a4oZsaJ55qaMQ"
@@ -721,7 +817,7 @@
       "url": "https://open.spotify.com/track/4uFhNunbrBa3FRbSHPmLhq"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Jamming (FISHER Rework)",
         "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
@@ -741,7 +837,7 @@
       "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -761,7 +857,7 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/4i4WmGqPHmvhmfLwLkj4Rj"
@@ -789,7 +885,7 @@
       "url": "https://open.spotify.com/track/1SIJCvshI9ZRrj1mgLooHM"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Costa",
         "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
@@ -809,7 +905,7 @@
       "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Umoya (Radio Edit)",
         "url": "https://open.spotify.com/album/4sEVxflS8Kasf7NXndPew3"
@@ -829,7 +925,7 @@
       "url": "https://open.spotify.com/track/6UMJCyLYHXy1JjDNgqtTB0"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Weekent Sun Sets (Horns In The Sun Remix EP)",
         "url": "https://open.spotify.com/album/4rdsbF5ddnRC2WVwCX5VWn"
@@ -861,7 +957,7 @@
       "url": "https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Hey Hey (Da Capo & Kitty Amor Remix)",
         "url": "https://open.spotify.com/album/321dq5Ag24Jcz5e2AXHd9O"
@@ -885,7 +981,7 @@
       "url": "https://open.spotify.com/track/6vQAEYaF1CTSPMlhZsyWCe"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Close My Eyes",
         "url": "https://open.spotify.com/album/1cU0eE3jwlG2IAIj8WUroc"
@@ -905,7 +1001,7 @@
       "url": "https://open.spotify.com/track/1BCMXKkENzzr1ofF0iRQtX"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "FIRST ENCOUNTER",
         "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
@@ -921,7 +1017,7 @@
       "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
@@ -941,7 +1037,7 @@
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "The Cure & The Cause (Atmos Blaq Remix)",
         "url": "https://open.spotify.com/album/1KCpufTAncrsZE9pPMGafl"
@@ -965,7 +1061,7 @@
       "url": "https://open.spotify.com/track/0ohdPNEvFGQNaMpeAx7VnL"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Aluku Records Various Compilation SA Edition Pt.4 (Deluxe)",
         "url": "https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw"
@@ -985,7 +1081,7 @@
       "url": "https://open.spotify.com/track/2mqcozGNbNMZ6VpLyARu5H"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Rule The World (Everybody)",
         "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
@@ -1013,7 +1109,7 @@
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
     },
     {
-      "added_at": "2024-05-09 23:00:00",
+      "added_at": "2024-05-16 23:00:00",
       "album": {
         "name": "Yes God (M\u00f6rda, Thakzin, Mhaw Keys Remix)",
         "url": "https://open.spotify.com/album/1lKbAHZVjunVFeZMEuwFLS"
@@ -1047,94 +1143,6 @@
       "duration_ms": 420229,
       "name": "Yes God - M\u00f6rda, Thakzin, Mhaw Keys Remix",
       "url": "https://open.spotify.com/track/0WPY91ucbS7OnJpo1x4smF"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/5qg7NaOPem8DEfFEMTZmgb"
-      },
-      "artists": [
-        {
-          "name": "Maxxteen",
-          "url": "https://open.spotify.com/artist/7bfVIpfABU122Nj5tDFnTS"
-        },
-        {
-          "name": "Nautica",
-          "url": "https://open.spotify.com/artist/1o2JBdhhkXydmQlMkr2BGx"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/3f50wWrt5z4Jl6mTNffb9p"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        },
-        {
-          "name": "Tom Breu",
-          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Parapanda (Andrew Naklab Remix)",
-        "url": "https://open.spotify.com/album/6tApVN7hOOprWIKn17SvEU"
-      },
-      "artists": [
-        {
-          "name": "FEEZZ",
-          "url": "https://open.spotify.com/artist/6S5ZEVM2yv6IASzqIhODKM"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        },
-        {
-          "name": "Andrew Naklab",
-          "url": "https://open.spotify.com/artist/3EWfLZ3b0jTf5Z2VlYuHJ9"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Parapanda - Andrew Naklab Remix",
-      "url": "https://open.spotify.com/track/5UK9AU6CcE2lQgVRIgZ80b"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "One Night/All Night",
-        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "One Night/All Night",
-      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
     }
   ],
   "unique_name": "mint South Africa",

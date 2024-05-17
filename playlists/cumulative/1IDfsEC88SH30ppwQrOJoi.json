@@ -1005,6 +1005,28 @@
     },
     {
       "album": {
+        "name": "Cheri Cheri Lady (Tech House Version)",
+        "url": "https://open.spotify.com/album/0CKaqrOZnbV40SmsZDimtl"
+      },
+      "artists": [
+        {
+          "name": "Wamo",
+          "url": "https://open.spotify.com/artist/2aVcWpmF6DBOMBguB1fwFZ"
+        },
+        {
+          "name": "Elemer",
+          "url": "https://open.spotify.com/artist/7KuO3mvpWbSf7o7iR8fvOn"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149669,
+      "name": "Cheri Cheri Lady - Tech House Version",
+      "url": "https://open.spotify.com/track/1Du5QYYZ9yjxmtG13wYKoB"
+    },
+    {
+      "album": {
         "name": "Chills (LA Hills)",
         "url": "https://open.spotify.com/album/0redIUGhpUdCdlx3q7OLQK"
       },

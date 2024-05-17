@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > vuelve a ser niñx con las canciones que creciste 🎈
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,026 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,085 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El diario de daniela \(Theme from "El diario de Daniela"\)](https://open.spotify.com/track/3S7vE73KVGb0Vbv2Vv5JOj) | [Daniela Luján](https://open.spotify.com/artist/1V81ME19fkBcwOD72f6Ags) | [Ídolos del Pop](https://open.spotify.com/album/7IA7OG10gHZxuhYC5s7jsp) | 3:47 |
 | 2 | [Cómplices al Rescate](https://open.spotify.com/track/3FuSwDDYm55t4kQHTm3ttE) | [Complices](https://open.spotify.com/artist/3PSoXOflvPAoqN4MFbOMZl) | [Silvana \- Cómplices Al Rescate](https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc) | 3:03 |
 | 3 | [El Baile del Sapito](https://open.spotify.com/track/0KDRBPar8trGwTXP2Z9zEN) | [Cómplices](https://open.spotify.com/artist/3z2EQwnmY8EdZ30CdUkdRS) | [Mariana \- Cómplices Al Rescate](https://open.spotify.com/album/38qQ0oqb7OSqY81SImVonp) | 3:01 |
-| 4 | [Alegrijes y rebujos](https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae) | [Soundtrack Alegrijes y Rebujos](https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5) | [Alegrije](https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR) | 2:43 |
+| 4 | [Alegrijes y rebujos](https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae) | [Soundtrack Alegrijes y Rebujos](https://open.spotify.com/artist/0JtYF2F7dWUNAnLFSlp8y2) | [Alegrije](https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR) | 2:43 |
 | 5 | [El Baile del Gorila](https://open.spotify.com/track/4HjzdN3HFW2p52Eey2MumB) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [De Pata Negra](https://open.spotify.com/album/204uMUSfS4PNgdzGrpl7Gs) | 3:08 |
 | 6 | [Amigos por Siempre](https://open.spotify.com/track/2T5zGc7PYrxpgN3lL1BcAO) | [Martin](https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Amigos X Siempre](https://open.spotify.com/album/4uC8aLKiO6jtJQOcQsROFn) | 3:13 |
 | 7 | [Aventuras En El Tiempo](https://open.spotify.com/track/0lh18hhI9vxejLA6fjwynz) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo) | [Aventuras En El Tiempo](https://open.spotify.com/album/0TpcSvWBE1qXWGvtybMfAq) | 2:40 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 16 | [Si Me Besas](https://open.spotify.com/track/7aPPHmpJlY6s0MaXOXqfa4) | [Lola](https://open.spotify.com/artist/736usxEhjxC9wbch31ZERs) | [Erase Una Vez](https://open.spotify.com/album/1cQXqzLkCzvgJZKZ4L4NKK) | 3:12 |
 | 17 | [Gotita De Amor](https://open.spotify.com/track/4w6O2VvJ1DJabqrmR2TJZ9) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Edición Limitada](https://open.spotify.com/album/3zuQ6PyTt9xfHZsQsJpjmq) | 2:28 |
 | 18 | [Alcanzar la Libertad](https://open.spotify.com/track/0Uk7jW7oV1qBQoaGrei84p) | [Pandilla](https://open.spotify.com/artist/5RPUuSpg0iB7n1cwKUc6Hm) | [Cómplices al Rescate..\. El Gran Final](https://open.spotify.com/album/56o5oNLjaJT4bxacBhI6bE) | 3:32 |
-| 19 | [Tu rey león](https://open.spotify.com/track/0QpoQ3yb5LmptCtQChh208) | [Soundtrack Alegrijes y Rebujos](https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5) | [Alegrije](https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR) | 2:20 |
+| 19 | [Tu rey león](https://open.spotify.com/track/0QpoQ3yb5LmptCtQChh208) | [Soundtrack Alegrijes y Rebujos](https://open.spotify.com/artist/0JtYF2F7dWUNAnLFSlp8y2) | [Alegrije](https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR) | 2:20 |
 | 20 | [Boba Niña Nice \- Teenage Superstar](https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:00 |
 | 21 | [Enamorado de Britney Spears](https://open.spotify.com/track/38vARCw0a9nC7pVom7mtui) | [Martin](https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI) | [Martín](https://open.spotify.com/album/6pH1lXjY5OL30k0qAwGyD7) | 3:37 |
 | 22 | [Carita de ángel](https://open.spotify.com/track/2niNJzXFpAobs33GVRt04O) | [Emerson Ensamble](https://open.spotify.com/artist/1ZNS9xvKkY8qPlHUrVr96N) | [Telenovelas](https://open.spotify.com/album/0tDuGcDGoVH3NIYbvbQ5Yh) | 2:57 |

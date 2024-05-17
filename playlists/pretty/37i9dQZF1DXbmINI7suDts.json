@@ -1,15 +1,15 @@
 {
-  "description": "Get your spirits up and manage your mood any time of the day. Cover: MAUIM\u00d8ON",
-  "num_followers": 8584,
+  "description": "Get your spirits up and manage your mood any time of the day. Cover: Joshua Baraka",
+  "num_followers": 8591,
   "original_name": "Mutima ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1jRAAAAAARRhhUEnXGSLTRZpW90QTC",
+  "snapshot_id": "ZkadxAAAAAB8l0h4YHy/O8LUKOBVQEW7",
   "tracks": [
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "SANKOFA",
         "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/5biHJejkpcsUaqGd2jgxMK"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
+      "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Jolene - Deluxe",
+      "url": "https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO"
+    },
+    {
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Niyo Ndirimbo",
         "url": "https://open.spotify.com/album/6U4XtK4eFbBDoHXmGYCZ7f"
@@ -49,7 +65,23 @@
       "url": "https://open.spotify.com/track/0J8exQMukp4lBP2alsaNWy"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
+      },
+      "artists": [
+        {
+          "name": "Meddy",
+          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
+        }
+      ],
+      "duration_ms": 238888,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
+    },
+    {
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Maybe It's You",
         "url": "https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6"
@@ -65,7 +97,7 @@
       "url": "https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Commander",
         "url": "https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "I Do (Acoustic Version)",
         "url": "https://open.spotify.com/album/1HURfcIukpOqxEhsJeL38E"
@@ -97,39 +129,7 @@
       "url": "https://open.spotify.com/track/35p0RKvsJ6wS5fthRJLFQh"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
-      "album": {
-        "name": "Gojaasi",
-        "url": "https://open.spotify.com/album/1n1eIj5ECt0HB6zSPP5cmn"
-      },
-      "artists": [
-        {
-          "name": "Kenneth Mugabi",
-          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
-        }
-      ],
-      "duration_ms": 253584,
-      "name": "Gojaasi",
-      "url": "https://open.spotify.com/track/66QnBSxNiLlWk3K66m15IJ"
-    },
-    {
-      "added_at": "2024-05-09 23:59:00",
-      "album": {
-        "name": "Abantu",
-        "url": "https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Abantu",
-      "url": "https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa"
-    },
-    {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Sivawo (Acoustic)",
         "url": "https://open.spotify.com/album/0GB9VfuHcrAwPd0YKLvjYL"
@@ -145,7 +145,39 @@
       "url": "https://open.spotify.com/track/19f9KenlWbUQntWH7EbnLi"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
+      "album": {
+        "name": "Gojaasi",
+        "url": "https://open.spotify.com/album/1n1eIj5ECt0HB6zSPP5cmn"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Mugabi",
+          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
+        }
+      ],
+      "duration_ms": 253584,
+      "name": "Gojaasi",
+      "url": "https://open.spotify.com/track/66QnBSxNiLlWk3K66m15IJ"
+    },
+    {
+      "added_at": "2024-05-16 23:59:00",
+      "album": {
+        "name": "Abantu",
+        "url": "https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Abantu",
+      "url": "https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa"
+    },
+    {
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
@@ -161,7 +193,23 @@
       "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
+      "album": {
+        "name": "Love So Hard",
+        "url": "https://open.spotify.com/album/6ZeXSuv1si3Mobh4Z446Wz"
+      },
+      "artists": [
+        {
+          "name": "Neliah",
+          "url": "https://open.spotify.com/artist/3q7yaZhoTuqkL9Ku1aPcx5"
+        }
+      ],
+      "duration_ms": 220943,
+      "name": "Love So Hard",
+      "url": "https://open.spotify.com/track/0wziWY68BtP0cCoysabecJ"
+    },
+    {
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Type Of Girl",
         "url": "https://open.spotify.com/album/7xx4zbtu0xnr4jgOBQ8LVb"
@@ -181,23 +229,7 @@
       "url": "https://open.spotify.com/track/06pxO19q4mkseGmNoqJHFQ"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
-      },
-      "artists": [
-        {
-          "name": "Meddy",
-          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
-        }
-      ],
-      "duration_ms": 238888,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
-    },
-    {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Omutima",
         "url": "https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY"
@@ -213,7 +245,7 @@
       "url": "https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "GROOVE WITH ME - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "SIRINA TIME",
         "url": "https://open.spotify.com/album/2FeZdukSXs2e5TjQA50lOU"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/1XISfavYLaLDgbPPPIVo1G"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/6MEWQJnMXo3GnMUUcRsCr1"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Wampisa",
         "url": "https://open.spotify.com/album/6UDMeyDezBLR1BOPm0yoM6"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/6q5lNkKJfxpzLrsv0QlyMR"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Let's Music Vol 2",
         "url": "https://open.spotify.com/album/2ZaMITZXW1qt20EnWbIMuf"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/6776viloLrnBTXcAEYsaQ1"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Your Number (Acoustic)",
         "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Pity Party",
         "url": "https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "River Nile",
         "url": "https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk"
@@ -345,7 +377,7 @@
       "url": "https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Magician",
         "url": "https://open.spotify.com/album/2gmGcuJjhe04ZIF5Xuj8Ul"
@@ -361,7 +393,23 @@
       "url": "https://open.spotify.com/track/5jNt4Zok4HVAPRtq8eFtRC"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
+      "album": {
+        "name": "i will recover all",
+        "url": "https://open.spotify.com/album/1Kg731pJsUpMP289JbiX58"
+      },
+      "artists": [
+        {
+          "name": "itsjamer",
+          "url": "https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "i will recover all",
+      "url": "https://open.spotify.com/track/5MMYn4ZjRc0up1HhJO6N4T"
+    },
+    {
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/32vyKRiiUI07Mqd0KEKL5f"
@@ -385,7 +433,7 @@
       "url": "https://open.spotify.com/track/2m310ptnkUrI39sdNQjwcs"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Ssemusajja",
         "url": "https://open.spotify.com/album/0R90wsPOBZN8b5vXUCEXQJ"
@@ -405,7 +453,7 @@
       "url": "https://open.spotify.com/track/27lnkqJpcscslS7gS9VXfY"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Give Me Your Hand",
         "url": "https://open.spotify.com/album/25EzvrXbFM5qKNy2qHmZZH"
@@ -425,23 +473,7 @@
       "url": "https://open.spotify.com/track/6SzIN4egYTNrqE22mcb6WR"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
-      "album": {
-        "name": "i will recover all",
-        "url": "https://open.spotify.com/album/1Kg731pJsUpMP289JbiX58"
-      },
-      "artists": [
-        {
-          "name": "itsjamer",
-          "url": "https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "i will recover all",
-      "url": "https://open.spotify.com/track/5MMYn4ZjRc0up1HhJO6N4T"
-    },
-    {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Lover Girl",
         "url": "https://open.spotify.com/album/6ZPwy1sInfO5kbh6G9N9n6"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/3xvordMfsFsbPsuCWEdnAf"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "From Uganda With Love",
         "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
@@ -477,7 +509,7 @@
       "url": "https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Sserugooti",
         "url": "https://open.spotify.com/album/2am3ccGP1eFx4qPHQ8LRqM"
@@ -493,7 +525,7 @@
       "url": "https://open.spotify.com/track/0GSChodHDqw7L5CkR8UQMQ"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh"
@@ -509,7 +541,7 @@
       "url": "https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/5gjFDaBgK7t5vlqWljQmCs"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/6Xil25LAkeXS8t7zuX9bCq"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Dream Girl",
         "url": "https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd"
@@ -577,7 +609,7 @@
       "url": "https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Call Me Crazy",
         "url": "https://open.spotify.com/album/4FltpHD4x1eQKA7X8sDcpQ"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/0aznaBi7uhInSSagaQu9dF"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/4r9DKPP3egZ5LSSMknYrzc"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH"
@@ -637,7 +669,7 @@
       "url": "https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
@@ -661,7 +693,7 @@
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "The Book of Kirya",
         "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
@@ -677,7 +709,7 @@
       "url": "https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0OmJ43CgaYjwrbk7qfS6C7"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/20uyihs553VZ9hWLaoCZqe"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Moyo (Acoustic)",
         "url": "https://open.spotify.com/album/4vUkJcpljy6ZTJjRTwHy5g"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/6YZf3C5fcEVVzfywVEHhsZ"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Night Skies In Bombo",
         "url": "https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Mountains of the Moon",
         "url": "https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Ugandan",
         "url": "https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/2lcx1HhjTeD4ftYvY6oBii"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Type of Energy",
         "url": "https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap"
@@ -793,7 +825,7 @@
       "url": "https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Pearl Of Africa, Vol. 2",
         "url": "https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH"
@@ -813,7 +845,7 @@
       "url": "https://open.spotify.com/track/2J2QaKEpM5leuiLpj8hKMN"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Kwaata Wano",
         "url": "https://open.spotify.com/album/7ah4EmgbvbW5IchFO3HlVI"
@@ -829,7 +861,23 @@
       "url": "https://open.spotify.com/track/4IZ3S8yLA4MtBx6dWrXh8O"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
+      "album": {
+        "name": "The Book of Kirya",
+        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "The Blue Dress Song",
+      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
+    },
+    {
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Webale",
         "url": "https://open.spotify.com/album/1CyjROUmGfBaONkrP39hef"
@@ -845,7 +893,7 @@
       "url": "https://open.spotify.com/track/2iPSEJ6JfWEcDgInwFQrci"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Pearl Of Africa, Vol. 2",
         "url": "https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH"
@@ -861,7 +909,7 @@
       "url": "https://open.spotify.com/track/0Pxq1IeikXlCYQQ6sytVBU"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Naawe",
         "url": "https://open.spotify.com/album/08B4E8ScG8wygWm4iR5D9J"
@@ -881,7 +929,7 @@
       "url": "https://open.spotify.com/track/55GWIiAMNisTX5YLav9XuR"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "WANO",
         "url": "https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t"
@@ -897,7 +945,7 @@
       "url": "https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "I Have a Dream",
         "url": "https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf"
@@ -913,23 +961,7 @@
       "url": "https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
-      "album": {
-        "name": "Kibunomu",
-        "url": "https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp"
-      },
-      "artists": [
-        {
-          "name": "Kenneth Mugabi",
-          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
-        }
-      ],
-      "duration_ms": 166897,
-      "name": "Naki",
-      "url": "https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq"
-    },
-    {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Muunda",
         "url": "https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG"
@@ -949,27 +981,7 @@
       "url": "https://open.spotify.com/track/2Ce8M6T6HihuA8m0I17GlZ"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
-      "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It (feat. Lagum the Rapper)",
-      "url": "https://open.spotify.com/track/6JRGCGnNluJkVVa3lb7MkQ"
-    },
-    {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE"
@@ -989,7 +1001,7 @@
       "url": "https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Nkwagala",
         "url": "https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo"
@@ -1005,7 +1017,7 @@
       "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
@@ -1021,7 +1033,7 @@
       "url": "https://open.spotify.com/track/0UoH7Il9Ns8puNMo73R4r7"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "WENA CHAPTER 2",
         "url": "https://open.spotify.com/album/09QQkaDBulEZx9DE5chbuV"
@@ -1041,23 +1053,7 @@
       "url": "https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb"
     },
     {
-      "added_at": "2024-05-09 23:59:00",
-      "album": {
-        "name": "The Book of Kirya",
-        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "The Blue Dress Song",
-      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
-    },
-    {
-      "added_at": "2024-05-09 23:59:00",
+      "added_at": "2024-05-16 23:59:00",
       "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"

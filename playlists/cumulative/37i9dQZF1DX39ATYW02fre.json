@@ -370,7 +370,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 352945,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
@@ -718,6 +718,32 @@
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+    },
+    {
+      "album": {
+        "name": "Burst",
+        "url": "https://open.spotify.com/album/5zmdoVs8pjlNgOGuRfPqOz"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271463,
+      "name": "Burst",
+      "url": "https://open.spotify.com/track/61lptJvdOLbF0CICC5K74l"
     },
     {
       "album": {
@@ -1228,6 +1254,24 @@
       "duration_ms": 247869,
       "name": "FTLOG",
       "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195001,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa"
     },
     {
       "album": {
@@ -2657,6 +2701,28 @@
     },
     {
       "album": {
+        "name": "Orange Sky",
+        "url": "https://open.spotify.com/album/1BS5KiDhUsl44A4nwatXfO"
+      },
+      "artists": [
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        },
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/3A3mFJaeBvAomfvhEEY9OA"
+    },
+    {
+      "album": {
         "name": "Painting On Glass",
         "url": "https://open.spotify.com/album/4sx4UF9JugEaB2dTIbRzlV"
       },
@@ -3096,7 +3162,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 184989,
       "name": "Roll Back - Single Mix",
       "url": "https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21"
@@ -3603,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Mimose",
+        "url": "https://open.spotify.com/album/4C3g7KoC8HBoiURn8eWGaa"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225849,
+      "name": "Stellar",
+      "url": "https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN"
+    },
+    {
+      "album": {
         "name": "Still Not Over You (Mall Grab Remix)",
         "url": "https://open.spotify.com/album/2dDHUt1lXEpLi4X2i2gAEx"
       },
@@ -3840,7 +3924,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 176363,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/7kTjD4nHxgiORLTIgxaF0s"
@@ -3974,7 +4058,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 368000,
       "name": "U",
       "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"

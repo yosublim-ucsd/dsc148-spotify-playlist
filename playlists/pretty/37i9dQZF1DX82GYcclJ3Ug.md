@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Dehd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110,939 likes - 126 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,024 likes - 126 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

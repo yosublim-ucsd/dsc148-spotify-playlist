@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "I Love You (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/5yVaHl3QMFTJQelPDxhAbf"
+      },
+      "artists": [
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        },
+        {
+          "name": "A-Gan",
+          "url": "https://open.spotify.com/artist/3Npa3oPCYQ8BXQ9QzZsseH"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209563,
+      "name": "I Love You - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/6qLhGqkpNeCScdqW1vaXDK"
+    },
+    {
+      "album": {
         "name": "I SEE / LIGHT",
         "url": "https://open.spotify.com/album/5j9W2g8zxIvWEquGIXWPsi"
       },

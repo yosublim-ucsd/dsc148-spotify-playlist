@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "AnKur",
       "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
@@ -514,6 +514,24 @@
       "duration_ms": 139510,
       "name": "Barbiet\u00faricos",
       "url": "https://open.spotify.com/track/5O83Nfv1SG3587o5Xnm5om"
+    },
+    {
+      "album": {
+        "name": "BASTA!",
+        "url": "https://open.spotify.com/album/1vmpDYAYGns7H9hI1ulBFB"
+      },
+      "artists": [
+        {
+          "name": "keko",
+          "url": "https://open.spotify.com/artist/096WT4GVoi1my7nHuZVei5"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107600,
+      "name": "BASTA!",
+      "url": "https://open.spotify.com/track/246RVZyQpPdm3OFqOUpo2W"
     },
     {
       "album": {
@@ -692,7 +710,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 142285,
       "name": "Caballero de la Muerte",
       "url": "https://open.spotify.com/track/2lFJlrVU6sN8yRgkWXvYd3"
@@ -728,10 +746,32 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 207995,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/02sruOvCKNX0PrbYcDdfnG"
+    },
+    {
+      "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/7x0k67StjId5u9LQTQTPhm"
+      },
+      "artists": [
+        {
+          "name": "Sticky M.A.",
+          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114729,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/7EgoqYFDjG3eca4uUvcj41"
     },
     {
       "album": {
@@ -1191,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "DEALER",
+        "url": "https://open.spotify.com/album/1XEVfafGWUtTVdMBUBnsPh"
+      },
+      "artists": [
+        {
+          "name": "Nevo Angel",
+          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
+        },
+        {
+          "name": "Paul Married",
+          "url": "https://open.spotify.com/artist/2pmWsiYQukESpS71qzhreG"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148769,
+      "name": "DEALER",
+      "url": "https://open.spotify.com/track/4GuXCU05kmxG5jqksZOICN"
+    },
+    {
+      "album": {
         "name": "debo dejar de fumar",
         "url": "https://open.spotify.com/album/4G8fBBPQC00s5VH8d2p142"
       },
@@ -1566,7 +1628,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 153630,
       "name": "ESA MISMA NOCHE",
       "url": "https://open.spotify.com/track/1XL0v02xUZoMji1JxpeyI5"
@@ -1726,7 +1788,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152068,
       "name": "FINA Y ELEGANTA",
       "url": "https://open.spotify.com/track/61WtcJBA1CwKBPkqZnod0E"
@@ -2408,7 +2470,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 164050,
       "name": "JaJaJa",
       "url": "https://open.spotify.com/track/5YXkLwZyPzf5D9YlG0L5NM"
@@ -2444,7 +2506,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 127363,
       "name": "Kanekalon",
       "url": "https://open.spotify.com/track/72FOS2i2LW9z1kG2WLapwp"
@@ -3274,7 +3336,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 155147,
       "name": "MOTOR",
       "url": "https://open.spotify.com/track/6biw3fcABUuQJLb1Ktxk9k"
@@ -3350,7 +3412,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 164307,
       "name": "MYLOVEMYLOVE",
       "url": "https://open.spotify.com/track/63qXWotY7UFD70tVGk2g71"
@@ -3565,6 +3627,28 @@
     },
     {
       "album": {
+        "name": "No Hab\u00eda Choice",
+        "url": "https://open.spotify.com/album/3BxvaH2NoNQJcybK9fQzOM"
+      },
+      "artists": [
+        {
+          "name": "Cozko",
+          "url": "https://open.spotify.com/artist/31mGj9EGiXfDJaFtMekA0P"
+        },
+        {
+          "name": "Jlee",
+          "url": "https://open.spotify.com/artist/0bZMxHRlHk7CDH7HU2WFjH"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171245,
+      "name": "No Hab\u00eda Choice",
+      "url": "https://open.spotify.com/track/57ig3SMp9E3Zj7h8CeCZyV"
+    },
+    {
+      "album": {
         "name": "no lo volver\u00e9 a hacer",
         "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
       },
@@ -3722,6 +3806,24 @@
       "duration_ms": 181395,
       "name": "NPC",
       "url": "https://open.spotify.com/track/0sFvbQRGiLkpa67HG2EKqi"
+    },
+    {
+      "album": {
+        "name": "NUNCA M\u00c1S",
+        "url": "https://open.spotify.com/album/6vbKZZgNdTkbhTIEc5hJuX"
+      },
+      "artists": [
+        {
+          "name": "Roberta Nikita",
+          "url": "https://open.spotify.com/artist/4xetVDWWLeifmMtR9HQKbE"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87739,
+      "name": "NUNCA M\u00c1S",
+      "url": "https://open.spotify.com/track/7eOsby9WbPNAa19uV8FmJX"
     },
     {
       "album": {
@@ -4372,7 +4474,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 121666,
       "name": "Que m\u00e1s da",
       "url": "https://open.spotify.com/track/5iwtTGyfu9QzlXiFvCwvnw"
@@ -5365,6 +5467,24 @@
     },
     {
       "album": {
+        "name": "Un \u00c1ngel Se Apodero de Mi",
+        "url": "https://open.spotify.com/album/6T1uXDUiu9FjXPYLBp2cRR"
+      },
+      "artists": [
+        {
+          "name": "Nixa",
+          "url": "https://open.spotify.com/artist/4YcVhE86HFvuC0hhVjB8Qc"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Un \u00c1ngel Se Apodero de Mi",
+      "url": "https://open.spotify.com/track/5sd5uEfQFwRCt12oRXt2LQ"
+    },
+    {
+      "album": {
         "name": "Una Mierda (Autoremix) [Remix]",
         "url": "https://open.spotify.com/album/4F7Y0GCyN2jWHX7Z77uGFj"
       },
@@ -5472,7 +5592,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 210636,
       "name": "Wonky",
       "url": "https://open.spotify.com/track/42y5CMuNAJgBHRNrQ3ZWMX"
@@ -5564,7 +5684,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 190090,
       "name": "Y T\u00fa Con \u00c9l - Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/3akWoBzRyv21tNhCTKlcqI"

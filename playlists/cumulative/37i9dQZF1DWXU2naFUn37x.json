@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Niky Savage in cover.",
+  "description": "Solo il meglio dello street rap italiano. Cover: Capo Plaza",
   "name": "Street Culto",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 179071,
       "name": "+++!",
       "url": "https://open.spotify.com/track/0Uicbmb213nXrOHCC16aTU"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 196162,
       "name": "Capra a tre Teste (feat. Tony boy & Artie 5ive)",
       "url": "https://open.spotify.com/track/29XfSJE6jSzceVjUdH3i2c"
@@ -4677,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "GUARDA COME FL3XO",
+        "url": "https://open.spotify.com/album/3WoOhPK946IoZwevCoayvR"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "GUARDA COME FL3XO",
+      "url": "https://open.spotify.com/track/5TlndMPcKVEaTsBtbmMuBW"
+    },
+    {
+      "album": {
         "name": "L'Angelo del Male",
         "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
       },
@@ -5976,7 +5994,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 118974,
       "name": "LAPROVINCE #3",
       "url": "https://open.spotify.com/track/7bF8PdgDn6gLY6E14Axh4M"
@@ -10707,6 +10725,24 @@
     },
     {
       "album": {
+        "name": "TRISTE",
+        "url": "https://open.spotify.com/album/3w0gbh9blEDD9LDa7NOr8m"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146776,
+      "name": "TRISTE",
+      "url": "https://open.spotify.com/track/4ULKTtWRMJh5EnJgL2fXcL"
+    },
+    {
+      "album": {
         "name": "TUNNEL",
         "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
       },
@@ -10836,6 +10872,32 @@
       "duration_ms": 212035,
       "name": "T\u00e9l\u00e9phone",
       "url": "https://open.spotify.com/track/76YfUp0DTnERvtZokyU6jm"
+    },
+    {
+      "album": {
+        "name": "\u00c8 LA (LOVE)",
+        "url": "https://open.spotify.com/album/3iG8beByY8fvwVYmeikUpI"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215999,
+      "name": "UFFA (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/6pL8SPXS9WcSPVqnSXwVVC"
     },
     {
       "album": {

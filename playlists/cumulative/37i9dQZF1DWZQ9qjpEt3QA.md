@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-147 songs - 9 hr 54 min
+148 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Plastic Love](https://open.spotify.com/track/2qxTmEfGbBGMSJrwu4Ez1v) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Plastic Love](https://open.spotify.com/album/2TiOMHRdkGmcij7SLo6Vfm) | 4:35 | 2022-05-26 |  |
 | [PODCAST](https://open.spotify.com/track/0yPjTrXN41ONUZVhyZQtg9) | [mamakiss](https://open.spotify.com/artist/5itRWli5gwKtm3WHcxeSGJ) | [BRUNCH TIME](https://open.spotify.com/album/551VB5xExkPbwV57w2HVfn) | 3:47 | 2022-05-26 |  |
 | [Podcast](https://open.spotify.com/track/7uCA0lY4vsR98wcAwATSCO) | [mamakiss](https://open.spotify.com/artist/5itRWli5gwKtm3WHcxeSGJ) | [Brunch Time](https://open.spotify.com/album/2ZOl7gmy5ShGP0yLESQu6Q) | 3:47 | 2022-05-26 | 2024-04-19 |
+| [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 | 2024-05-16 |  |
 | [Pupus Harapan](https://open.spotify.com/track/1ABvISIP8cNOF3T8krbYC7) | [Groovebox Story](https://open.spotify.com/artist/4bHOW2FNQ5JAEWBAQoVQB5) | [Pop diKota \(SRM 10th Anniversary\)](https://open.spotify.com/album/200pEAgk87ajUpHGty4MDJ) | 3:38 | 2022-05-26 |  |
 | [rehabilitasi.](https://open.spotify.com/track/6vhnz5MiMTbk42oUoYnCh7) | [Aftertones](https://open.spotify.com/artist/48ltWo8j0jJsy7Ly2XDgqc) | [Softboi](https://open.spotify.com/album/4d7cclZUEfdz0fHFPg0GRG) | 4:28 | 2022-05-26 |  |
 | [RIDE ON TIME](https://open.spotify.com/track/7a6Gj71tooMRmxcZwdGNnh) | [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [RIDE ON TIME](https://open.spotify.com/album/5nS4tUBMNOf9ZX8bd5bgbl) | 4:35 | 2022-05-26 |  |

@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-272 songs - 14 hr 7 min
+273 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [DL9CAP](https://open.spotify.com/track/2RpFBnDA4cJ3Wixzg1n3qQ) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Funkaar](https://open.spotify.com/artist/2V6FIScMLZiqWrNLmkDrfu) | [DL9CAP](https://open.spotify.com/album/3RPFqWIHpZIdt21iZ47N7h) | 2:31 | 2024-04-19 |  |
 | [Dooba](https://open.spotify.com/track/09U9zwWGgDlVMp0s5PReJj) | [Void](https://open.spotify.com/artist/3rPEiLwMVfd4Vg3BlRbuJK), [Exult Yowl](https://open.spotify.com/artist/6szIEcaQzaFdMn8e1UQzwU) | [Lonely December](https://open.spotify.com/album/6XxG32SXPyQLwhYeH1KKZf) | 3:15 | 2023-03-29 | 2023-04-17 |
 | [Doon](https://open.spotify.com/track/6nthwAxdXDMU0LczZ5FUFd) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Doon](https://open.spotify.com/album/0SoxFtfAbIOHktfwT5NPSC) | 2:26 | 2024-04-09 |  |
+| [Drame](https://open.spotify.com/track/2qKkU1B8d5sKYGlkhUGTpP) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [ATHRV](https://open.spotify.com/artist/1Qdg9IrqdbU1J2TG7ORCHx) | [Drame](https://open.spotify.com/album/5v9aI0o7wpy7wGVQjWJxKq) | 2:51 | 2024-05-16 |  |
 | [Dramebaaz](https://open.spotify.com/track/2rUGjnnd2R3O3Jue3V9Fru) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy), [Mack Varpe](https://open.spotify.com/artist/4bw3C9UYH7zW8gGEQMFcLO) | [The Come Up](https://open.spotify.com/album/4yubq6bM4FV9boh6CdzOzT) | 3:28 | 2023-03-29 | 2023-07-21 |
 | [Drifta](https://open.spotify.com/track/7mdYZBW0QlFjClvN1a7hyL) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [DAKSH](https://open.spotify.com/artist/78bNETOrFeEr5MISnz1wMH) | [Drifta](https://open.spotify.com/album/0s7h4UyNaW4j3mwOQwbCgV) | 2:46 | 2023-11-17 | 2023-11-26 |
 | [Duniya Makkaar](https://open.spotify.com/track/78C9fInl0QUYAQBsEenYVC) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:38 | 2023-10-12 |  |
@@ -157,7 +158,7 @@
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 |  |
 | [Laapata](https://open.spotify.com/track/5B9c2td4fRTEg6tzTu7W1D) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Laapata](https://open.spotify.com/album/14pOiTMpRkwSbTbGrMUjj9) | 4:14 | 2024-01-17 |  |
 | [Ladke Rote Nahi Hain](https://open.spotify.com/track/6keHp1mZiGakfZ37byQVl7) | [Shady Mellow](https://open.spotify.com/artist/35bVAq5kSH9fBxZqj8T9z7), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 6](https://open.spotify.com/album/1IbAnKLZjXigERXiukqkiq) | 3:20 | 2023-11-08 |  |
-| [Ladki Scheme Hai](https://open.spotify.com/track/4PQ77n0G4SR8FPFf5uCI2p) | [Mirage 2.0](https://open.spotify.com/artist/6qkBTYjV48Mt8NSW4t54V2), [Nonchi](https://open.spotify.com/artist/57hC7DGsnOtvGTHMAce1i4), [Young Seaz](https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK) | [Ladki Scheme Hai](https://open.spotify.com/album/1xSXJzntDOVykzNm9Jtzw4) | 2:18 | 2024-04-19 |  |
+| [Ladki Scheme Hai](https://open.spotify.com/track/4PQ77n0G4SR8FPFf5uCI2p) | [Mirage 2.0](https://open.spotify.com/artist/6qkBTYjV48Mt8NSW4t54V2), [Nonchi](https://open.spotify.com/artist/57hC7DGsnOtvGTHMAce1i4), [Young Seaz](https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK) | [Ladki Scheme Hai](https://open.spotify.com/album/1xSXJzntDOVykzNm9Jtzw4) | 2:18 | 2024-04-19 | 2024-05-17 |
 | [Lady Gaga](https://open.spotify.com/track/2zKVb9TTkIwBQy6c6AkWq9) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [Harry Spark](https://open.spotify.com/artist/4rjoncFFlCXRsbwdpfOd1q) | [Lady Gaga](https://open.spotify.com/album/5dCAd6jFbGF3KtBKpBHvSO) | 3:00 | 2023-04-16 | 2023-04-25 |
 | [Legacy](https://open.spotify.com/track/6zMr3R1ZqD4u3s4r3YB7Cl) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Legacy](https://open.spotify.com/album/1cfP2hvla4AyCynac61ehL) | 3:14 | 2023-09-22 |  |
 | [Legacy](https://open.spotify.com/track/6eUEejfxljMTJX6vInnzKh) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Legacy](https://open.spotify.com/album/6ToDMWhME90Jv4kSbxVL0l) | 2:30 | 2023-10-05 | 2023-10-13 |

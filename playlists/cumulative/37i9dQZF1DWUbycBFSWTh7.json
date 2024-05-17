@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 376563,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5Xzn5zL1v2Hv3ReLKMt0OS"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 297049,
       "name": "Growth",
       "url": "https://open.spotify.com/track/3D4HEAeEjCVbqD9nimbFqt"
@@ -2338,6 +2338,24 @@
       "duration_ms": 280104,
       "name": "Holos - Edit",
       "url": "https://open.spotify.com/track/0bkzYVDAsHmwrbbgzu6nfh"
+    },
+    {
+      "album": {
+        "name": "SPLIT EP3",
+        "url": "https://open.spotify.com/album/4ZzzVkDLUGDd8OawGbKN8Y"
+      },
+      "artists": [
+        {
+          "name": "Michel De Hey",
+          "url": "https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "Hot Like That - Edit",
+      "url": "https://open.spotify.com/track/2D9zHcnqpzmddIuyPbsJO5"
     },
     {
       "album": {
@@ -3672,7 +3690,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 392000,
       "name": "Natural Child",
       "url": "https://open.spotify.com/track/6LammjSAxH6zEGfvaE8wHp"
@@ -3752,6 +3770,28 @@
       "duration_ms": 196000,
       "name": "Nine O Nine",
       "url": "https://open.spotify.com/track/69AqhrS5e4snOxqLvoplPW"
+    },
+    {
+      "album": {
+        "name": "Hypnotherapy",
+        "url": "https://open.spotify.com/album/5G4UAoJpRubbtSYnP7HA5o"
+      },
+      "artists": [
+        {
+          "name": "Boris Werner",
+          "url": "https://open.spotify.com/artist/5HplhWaP0VIc9mDlg4aqVv"
+        },
+        {
+          "name": "MC Pryme",
+          "url": "https://open.spotify.com/artist/5lWZtunb40JWzyL1opSeLe"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412688,
+      "name": "No Tantrums",
+      "url": "https://open.spotify.com/track/1NT2IoopDzkGnIo2XvQfig"
     },
     {
       "album": {
@@ -5336,6 +5376,28 @@
       "duration_ms": 223700,
       "name": "The Night - Fred Everything Tribute Mix",
       "url": "https://open.spotify.com/track/3RqSPDIqfBkhCDiefCcAW0"
+    },
+    {
+      "album": {
+        "name": "The Next Morning EP",
+        "url": "https://open.spotify.com/album/6ohSTSCZIUV4zicyi1jKef"
+      },
+      "artists": [
+        {
+          "name": "D Stone",
+          "url": "https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9"
+        },
+        {
+          "name": "Milion",
+          "url": "https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339127,
+      "name": "The Night Before",
+      "url": "https://open.spotify.com/track/4imTik1IzrhI0OwrhoUKKb"
     },
     {
       "album": {

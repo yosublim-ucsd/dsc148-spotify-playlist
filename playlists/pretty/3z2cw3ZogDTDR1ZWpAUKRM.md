@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3z2cw3ZogDTDR1ZWpAUKRM.md) - [plain]
 
 > 
 
-[ssamt](https://open.spotify.com/user/ssamt) - 0 like - 12 songs - 58 min 4 sec
+[ssamt](https://open.spotify.com/user/ssamt) - 0 like - 12 songs - 55 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/3z2cw3ZogDTDR1ZWpAUKRM.md) - [plain]
 | 4 | [Turn Me Up](https://open.spotify.com/track/0i6MFSVoW9FRPwEau74Wrq) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:44 |
 | 5 | [Passerine](https://open.spotify.com/track/4pIpjNNk21oQfOtkcMUul1) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Eurus](https://open.spotify.com/album/5Dc0RmwwqNs7203eShdJ09) | 3:43 |
 | 6 | [Bread & Wine](https://open.spotify.com/track/6CgrS3cN3hBo4uCft5uFom) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Love & War & The Sea In Between](https://open.spotify.com/album/3jrVFS6lW7HvxOKN7QPQC8) | 3:54 |
-| 7 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 |
-| 8 | [HUMBLE.](https://open.spotify.com/track/131OLY5J8XyfGuSjXRiTRM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/0bLXUfNT34mna9aXq8ex68) | 2:57 |
-| 9 | [Chasing Ghosts](https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [We Go On](https://open.spotify.com/album/6R41RzrVQb0K3VCkz6JVWe) | 3:24 |
-| 10 | [Crooked Ways \(feat\. Terence F\. Clark\)](https://open.spotify.com/track/3qmofcHM3aKP3OADKjAORj) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Terence F\. Clark](https://open.spotify.com/artist/1POjjGDdXoEeXv27GsMxp5) | [Crooked](https://open.spotify.com/album/3HmkL2AENDW4XO9Da0NGy9) | 6:22 |
-| 11 | [Another New World](https://open.spotify.com/track/2OWfdex8Sx9e6RqUeFfUKW) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Ahoy!](https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8) | 6:30 |
+| 7 | [Chasing Ghosts](https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [We Go On](https://open.spotify.com/album/6R41RzrVQb0K3VCkz6JVWe) | 3:24 |
+| 8 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 |
+| 9 | [HUMBLE.](https://open.spotify.com/track/131OLY5J8XyfGuSjXRiTRM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/0bLXUfNT34mna9aXq8ex68) | 2:57 |
+| 10 | [Darkness And Trees \- Reprise](https://open.spotify.com/track/45kgznK2dCoCfhIXhanR1y) | ['Come From Away' Company](https://open.spotify.com/artist/3yVB4N2PhQy60dAxzCoNdQ) | [Come From Away \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6SisHkIpxo4JN5kRcBEv9Z) | 1:44 |
+| 11 | [The Mariner's Revenge Song](https://open.spotify.com/track/3GDIZO71jiE1FEcHEJh3RH) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y) | 8:45 |
 | 12 | [River Flows In You](https://open.spotify.com/track/2agBDIr9MYDUducQPC1sFU) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [First Love \(The Original & the Very First Recording\)](https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh) | 3:08 |
 
-Snapshot ID: `AAAARKCCBGtbt6uuI0wQkOy6Vf9tnDbp`
+Snapshot ID: `AAAAS4RCVJnnfu0ixafy6urlxLXEDaj6`

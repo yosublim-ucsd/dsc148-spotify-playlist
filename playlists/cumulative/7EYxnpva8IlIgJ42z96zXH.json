@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
@@ -7224,7 +7224,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 178000,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2QzlUwDods1IHQF3UyYAAO"
@@ -8600,6 +8600,24 @@
       "duration_ms": 173046,
       "name": "Kota on the plane - MGNA Crrrta Remix",
       "url": "https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe"
+    },
+    {
+      "album": {
+        "name": "Enhancer",
+        "url": "https://open.spotify.com/album/08k7oNc4hEYbcgS0qlueY5"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121681,
+      "name": "L.A",
+      "url": "https://open.spotify.com/track/5JNP3hHrJCfIEZCnLmjqta"
     },
     {
       "album": {
@@ -11022,6 +11040,28 @@
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
+    },
+    {
+      "album": {
+        "name": "Night Dance",
+        "url": "https://open.spotify.com/album/47jEILICKwW8TcYNXmbCKl"
+      },
+      "artists": [
+        {
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
+        },
+        {
+          "name": "Set Mo",
+          "url": "https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136374,
+      "name": "Night Dance",
+      "url": "https://open.spotify.com/track/3OS4TFD46uxv5lUJpfJL3g"
     },
     {
       "album": {
@@ -14672,7 +14712,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 171954,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/33p5VrwqW4GDBr1cY3N8IM"

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Adakah Kau Pasti",
+        "url": "https://open.spotify.com/album/0bfHm3nM5WT7QHIwXcolpL"
+      },
+      "artists": [
+        {
+          "name": "Keka Nizam",
+          "url": "https://open.spotify.com/artist/4ltnkPy6GrvCalfth4WhNK"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224246,
+      "name": "Adakah Kau Pasti",
+      "url": "https://open.spotify.com/track/6rufD5k8CBP4LYs3sjfQl9"
+    },
+    {
+      "album": {
         "name": "Aduh",
         "url": "https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 265361,
       "name": "Bagaimana Kabarmu?",
       "url": "https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT"
@@ -204,6 +222,24 @@
       "duration_ms": 264656,
       "name": "Baik Dan Burukmu",
       "url": "https://open.spotify.com/track/5shoTyhcitiZVNJruRLJZp"
+    },
+    {
+      "album": {
+        "name": "Bawa Hatiku Bersama Kamu",
+        "url": "https://open.spotify.com/album/282ujeLlKQe3A7tvW30YVg"
+      },
+      "artists": [
+        {
+          "name": "Khai Bahar",
+          "url": "https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222176,
+      "name": "Bawa Hatiku Bersama Kamu",
+      "url": "https://open.spotify.com/track/6TeY4w3Ew5mjXZzBD2XMyv"
     },
     {
       "album": {
@@ -276,7 +312,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
@@ -330,7 +366,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 218293,
       "name": "Bimbang",
       "url": "https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy"
@@ -388,10 +424,28 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 231978,
       "name": "Bukan Sebuah Rindu",
       "url": "https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp"
+    },
+    {
+      "album": {
+        "name": "Cinta Indah Buat Kanda (From \"The Experts\")",
+        "url": "https://open.spotify.com/album/6C577UJbbUObnXLu1D9zyk"
+      },
+      "artists": [
+        {
+          "name": "Yuka Kharisma",
+          "url": "https://open.spotify.com/artist/1rIJgdnQuJKKumgG4RQVBB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170847,
+      "name": "Cinta Indah Buat Kanda - From \"The Experts\"",
+      "url": "https://open.spotify.com/track/40jA5HPLdlTVVoi6NFPzoO"
     },
     {
       "album": {
@@ -677,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Hadiah Tuhan Paling Jelita",
+        "url": "https://open.spotify.com/album/741D3ykVMja5qIWr9CaSHS"
+      },
+      "artists": [
+        {
+          "name": "Aiman Sidek",
+          "url": "https://open.spotify.com/artist/1povjOYaWAzxgLchIrhKtM"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "Hadiah Tuhan Paling Jelita",
+      "url": "https://open.spotify.com/track/6CxuqjOBNxn8W5WAsb3KIs"
+    },
+    {
+      "album": {
         "name": "HAHAHA",
         "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
       },
@@ -948,7 +1020,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 231428,
       "name": "Kasih",
       "url": "https://open.spotify.com/track/0tGHu21mZ1WWLy6h39XuPC"
@@ -1237,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Masih Ku Sayang",
+        "url": "https://open.spotify.com/album/7poIkWOHtsKXf2uXimQmXO"
+      },
+      "artists": [
+        {
+          "name": "Hoondoo",
+          "url": "https://open.spotify.com/artist/3FRJ1DX6ZUdVquwKsjs0D6"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200222,
+      "name": "Masih Ku Sayang",
+      "url": "https://open.spotify.com/track/5G9afAQLqId5heLtc3Ra6I"
+    },
+    {
+      "album": {
         "name": "Masihkah Ada Rasa Itu? (From \"Wanita Syurga\")",
         "url": "https://open.spotify.com/album/3u4ZDExYXwapRXRWwzbJ0G"
       },
@@ -1288,6 +1378,24 @@
       "duration_ms": 220000,
       "name": "Melawan Restu",
       "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
+    },
+    {
+      "album": {
+        "name": "Melepaskanmu",
+        "url": "https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250716,
+      "name": "Melepaskanmu",
+      "url": "https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B"
     },
     {
       "album": {
@@ -1414,7 +1522,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 277498,
       "name": "Mengenangmu",
       "url": "https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS"
@@ -1520,10 +1628,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 268534,
       "name": "Orang Yang Sama",
       "url": "https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1"
+    },
+    {
+      "album": {
+        "name": "Padam Api Dalam Lantera",
+        "url": "https://open.spotify.com/album/30oY9Mg1zuHkr7odeTBHys"
+      },
+      "artists": [
+        {
+          "name": "Iera Milpan",
+          "url": "https://open.spotify.com/artist/5zz4cBU2JXvmlgFuiCmiPI"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231103,
+      "name": "Padam Api Dalam Lantera",
+      "url": "https://open.spotify.com/track/5K3YoXc2ZoNcqu4rLtVk5Z"
     },
     {
       "album": {
@@ -1542,6 +1668,24 @@
       "duration_ms": 271267,
       "name": "Panasea",
       "url": "https://open.spotify.com/track/704CLzTYm3TWTxpWB0YAvw"
+    },
+    {
+      "album": {
+        "name": "Pandai Bicara",
+        "url": "https://open.spotify.com/album/2M1LHvoFgQQA0gPXX08Gx2"
+      },
+      "artists": [
+        {
+          "name": "Anneth",
+          "url": "https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234177,
+      "name": "Pandai Bicara",
+      "url": "https://open.spotify.com/track/6RCVSl65W3uAsEZTyJI4PX"
     },
     {
       "album": {
@@ -1972,7 +2116,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 310625,
       "name": "Semua Aku Dirayakan",
       "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"

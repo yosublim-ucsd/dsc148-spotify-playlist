@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 540281,
+  "num_followers": 540293,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 293239,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "The Great American Death Rattle",
         "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 293239,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -983,6 +967,22 @@
       "duration_ms": 300666,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "All My Friends Move Like The Night",
-        "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
-      },
-      "artists": [
-        {
-          "name": "Devil Electric",
-          "url": "https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA"
-        }
-      ],
-      "duration_ms": 173808,
-      "name": "All My Friends Move Like The Night",
-      "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "In Search Of",
         "url": "https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 306973,
       "name": "Neptune's Convoy",
       "url": "https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "All My Friends Move Like The Night",
+        "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
+      },
+      "artists": [
+        {
+          "name": "Devil Electric",
+          "url": "https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA"
+        }
+      ],
+      "duration_ms": 173808,
+      "name": "All My Friends Move Like The Night",
+      "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1531,38 +1531,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Jim's Whiskers",
-        "url": "https://open.spotify.com/album/5a8f0Sc9PktiUNmsRNjnj4"
-      },
-      "artists": [
-        {
-          "name": "John Garcia",
-          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
-        }
-      ],
-      "duration_ms": 222169,
-      "name": "Jim's Whiskers",
-      "url": "https://open.spotify.com/track/4IhSrCg1QzLtYiu3B50WOQ"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Gravity X",
-        "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
-      },
-      "artists": [
-        {
-          "name": "Truckfighters",
-          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
-        }
-      ],
-      "duration_ms": 449946,
-      "name": "Desert Cruiser",
-      "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Burning Village",
         "url": "https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P"
       },
@@ -1595,18 +1563,50 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Beneath the Rose",
-        "url": "https://open.spotify.com/album/2no4ulladMZvuT4Nas8iwL"
+        "name": "Jim's Whiskers",
+        "url": "https://open.spotify.com/album/5a8f0Sc9PktiUNmsRNjnj4"
       },
       "artists": [
         {
-          "name": "Baroness",
-          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+          "name": "John Garcia",
+          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
         }
       ],
-      "duration_ms": 334306,
-      "name": "Beneath the Rose",
-      "url": "https://open.spotify.com/track/1t0MRsDlm9npSZeVCx8KEy"
+      "duration_ms": 222169,
+      "name": "Jim's Whiskers",
+      "url": "https://open.spotify.com/track/4IhSrCg1QzLtYiu3B50WOQ"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Gravity X",
+        "url": "https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml"
+      },
+      "artists": [
+        {
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+        }
+      ],
+      "duration_ms": 449946,
+      "name": "Desert Cruiser",
+      "url": "https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/4pyLlYKdxHtEH4sEJPSbEe"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/6U7yjgpweQna55cfWEZXIk"
     }
   ],
   "unique_name": "Stoner Rock",

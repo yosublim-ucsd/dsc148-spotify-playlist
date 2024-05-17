@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-292 songs - 21 hr 29 min
+293 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Arabesque](https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ Ego](https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv) | [Arabesque](https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT) | 6:17 | 2020-10-18\* | 2023-03-18 |
 | [Arabesque](https://open.spotify.com/track/41oLuetwousQIfBOxYVxcL) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Arabesque](https://open.spotify.com/album/3hjgx4cloyYAA6fW7UsLcA) | 4:11 | 2020-10-18\* | 2023-03-18 |
 | [Arabian Magic](https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Arabian Magic](https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX) | 3:08 | 2020-10-18\* |  |
-| [Arabian Soul](https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ) | [Arabian Soul](https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9) | 5:12 | 2020-10-18\* |  |
+| [Arabian Soul](https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ) | [Arabian Soul](https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9) | 5:12 | 2020-10-18\* | 2024-05-17 |
 | [Arabic Nights](https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Arabic Nights](https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap) | 2:45 | 2022-12-05 |  |
 | [Arabic Soul](https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1), [Anas Otman](https://open.spotify.com/artist/66kee8oYRhl1zR7PvNCpU9) | [Arabic Soul](https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH) | 4:33 | 2022-10-14 |  |
 | [Asha](https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Asha](https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd) | 4:12 | 2023-02-04 | 2024-03-12 |
@@ -111,6 +111,7 @@
 | [Give a Little](https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS), [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Give a Little](https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b) | 3:54 | 2020-12-08 |  |
 | [Give It To Me \(feat\. Ezgi Kosa\) \- Padé Remix](https://open.spotify.com/track/2fPOQTdBExhbsu9j1pOuv2) | [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn), [Rednod](https://open.spotify.com/artist/5AiAZqe3QhCSrROQCAtWpE), [Ezgi Kosa](https://open.spotify.com/artist/6fuRfSBoGP6XYSQa0eY1Jz), [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Give It To Me \(feat\. Ezgi Kosa\) \[Remixes\]](https://open.spotify.com/album/6Lk1ovuSfjEx28Bf6K8GLW) | 2:44 | 2021-04-24 | 2023-03-18 |
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2020-11-06 | 2021-02-12 |
+| [Hajaruni \(Suray Remix\)](https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Suray](https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn), [Hossam wahab](https://open.spotify.com/artist/57XN19Qw07kzvBN9sHQq8C) | [Hajaruni \(Suray Remix\)](https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH) | 5:31 | 2024-05-17 |  |
 | [Hasat](https://open.spotify.com/track/2AozWD8d95Q39J740Ba070) | [Hey! Douglas](https://open.spotify.com/artist/72xb37kgUWGPVJqqBFhGKq) | [Hasat](https://open.spotify.com/album/192JWsGEt8HNOKHHzuh3ux) | 3:15 | 2023-09-29 | 2023-11-11 |
 | [Hayati](https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Hayati](https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ) | 2:57 | 2024-03-13 |  |
 | [Heatiche \- Vip Mix](https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO) | [Mpirgkel](https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4) | [Heatiche \(Vip Mix\)](https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3) | 3:36 | 2023-07-03 |  |

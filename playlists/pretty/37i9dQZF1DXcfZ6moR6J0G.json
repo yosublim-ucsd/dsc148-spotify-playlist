@@ -1,6 +1,6 @@
 {
   "description": "It's just one of those days...",
-  "num_followers": 1882279,
+  "num_followers": 1882707,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/713d2aig86cskmj4zdL9nR"
+        "name": "Digimortal",
+        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
       },
       "artists": [
         {
-          "name": "Taproot",
-          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 189200,
-      "name": "Poem",
-      "url": "https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR"
+      "duration_ms": 204853,
+      "name": "Linchpin",
+      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "Digimortal",
-        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/713d2aig86cskmj4zdL9nR"
       },
       "artists": [
         {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+          "name": "Taproot",
+          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
         }
       ],
-      "duration_ms": 204853,
-      "name": "Linchpin",
-      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
+      "duration_ms": 189200,
+      "name": "Poem",
+      "url": "https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "From This Day",
-      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
-    },
-    {
-      "added_at": "2024-03-26 10:10:23",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 192213,
       "name": "Pitiful",
       "url": "https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW"
+    },
+    {
+      "added_at": "2024-03-26 10:10:23",
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "From This Day",
+      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
     },
     {
       "added_at": "2024-03-26 10:10:23",

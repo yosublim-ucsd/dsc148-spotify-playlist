@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-11",
-  "description": "This is: Maaya Sakamoto. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Maaya Sakamoto. The essential tracks, all in one playlist.",
   "name": "This Is Maaya Sakamoto",
   "tracks": [
     {
@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 297293,
       "name": "un_mute",
       "url": "https://open.spotify.com/track/3u5awR3XHHpmdn0nQWf5ul"
@@ -1508,6 +1508,24 @@
       "duration_ms": 253333,
       "name": "\u4e00\u5ea6\u304d\u308a\u3067\u3044\u3044",
       "url": "https://open.spotify.com/track/0h4AsQi0Mov21Y8nYXV58n"
+    },
+    {
+      "album": {
+        "name": "25\u5468\u5e74\u8a18\u5ff5\u30a2\u30eb\u30d0\u30e0\u3000\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b \u30a2\u30c1\u30b3\u30c1",
+        "url": "https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303293,
+      "name": "\u4e09\u65e5\u6708",
+      "url": "https://open.spotify.com/track/7ywH1zVrid4wNCFosahE1p"
     },
     {
       "album": {

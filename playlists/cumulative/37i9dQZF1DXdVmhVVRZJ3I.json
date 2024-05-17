@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/4HdCnUOdk6zCGaBoDgHZGL"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/293FR9YVtNOqAQhTXq3zEB"
+    },
+    {
+      "album": {
         "name": "Maya",
         "url": "https://open.spotify.com/album/5yEmMKkRYLtgzhgT7kpb1E"
       },
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 165519,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"

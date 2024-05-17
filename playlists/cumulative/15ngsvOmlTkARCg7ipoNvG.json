@@ -25317,6 +25317,24 @@
     },
     {
       "album": {
+        "name": "Soul Light",
+        "url": "https://open.spotify.com/album/7aMPQ4UdMMei670S9HoGj0"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60111,
+      "name": "Soul Light",
+      "url": "https://open.spotify.com/track/6Pdpvo7HMXquJp3HrrJHRG"
+    },
+    {
+      "album": {
         "name": "Our Dreams",
         "url": "https://open.spotify.com/album/44JzdzxKFan8JqnUxK40sl"
       },

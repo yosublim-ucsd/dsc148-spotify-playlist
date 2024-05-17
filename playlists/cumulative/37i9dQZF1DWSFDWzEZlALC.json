@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "<a href=\"https://www.introducing.events/\">Hier</a> anmelden f\u00fcr das Wilde Herzen Festival mit Levin Liam, Dilla, soffie, error und Katha Pauer",
+  "description": "<a href=\"https://www.introducing.events/\">Hier</a> anmelden f\u00fcr das Wilde Herzen Festival mit Zartmann, Sandra Isabel, elimako, Levin Liam, Dilla, soffie, error und Katha Pauer",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 136000,
       "name": "ALIEN",
       "url": "https://open.spotify.com/track/0nvWJynJUxMmaQHoiv1XLI"
@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Bevor du gehst",
+        "url": "https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155218,
+      "name": "Bevor du gehst",
+      "url": "https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F"
+    },
+    {
+      "album": {
         "name": "Bialetti",
         "url": "https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE"
       },
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 151363,
       "name": "bucketlist",
       "url": "https://open.spotify.com/track/7HjJK7TngZk3Ervm9JCVdd"
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 145623,
       "name": "Cool",
       "url": "https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss"
@@ -1988,6 +2006,24 @@
       "duration_ms": 96693,
       "name": "Das Sch\u00f6nste",
       "url": "https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV"
+    },
+    {
+      "album": {
+        "name": "DATEN",
+        "url": "https://open.spotify.com/album/4w2RGcZdcr80yBdebPjPus"
+      },
+      "artists": [
+        {
+          "name": "JPD",
+          "url": "https://open.spotify.com/artist/6GINGsiSYu415FMWN9xbBN"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158481,
+      "name": "DATEN",
+      "url": "https://open.spotify.com/track/1shypv0qCQfECx9gwmryke"
     },
     {
       "album": {
@@ -2940,7 +2976,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 193937,
       "name": "Entt\u00e4uscht",
       "url": "https://open.spotify.com/track/0yDzE2lP8xFMpu7Pqp5196"
@@ -3150,6 +3186,24 @@
       "duration_ms": 186000,
       "name": "Ewiger Fahrgast",
       "url": "https://open.spotify.com/track/3RXfhZCEVajHZa9lwyPruL"
+    },
+    {
+      "album": {
+        "name": "fahrrad",
+        "url": "https://open.spotify.com/album/2DhSWGy4f6yO7t85B0aOYW"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158986,
+      "name": "fahrrad",
+      "url": "https://open.spotify.com/track/1D0ajO4cad6fTpqznvxwjE"
     },
     {
       "album": {
@@ -4946,7 +5000,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 144216,
       "name": "immatrikuliert",
       "url": "https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC"
@@ -5911,6 +5965,28 @@
     },
     {
       "album": {
+        "name": "K\u00f6nig der Welt",
+        "url": "https://open.spotify.com/album/5eJi60iLsaNifq4huXjssS"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        },
+        {
+          "name": "KARRERA",
+          "url": "https://open.spotify.com/artist/0QSZQytIm1CY8rKaND9mP2"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194634,
+      "name": "K\u00f6nig der Welt",
+      "url": "https://open.spotify.com/track/7hpv7oXSPNaLvIOmNQzEbw"
+    },
+    {
+      "album": {
         "name": "K\u00f6nigin der Nacht",
         "url": "https://open.spotify.com/album/1IlrO1vexqP55HwH78rsM8"
       },
@@ -6064,6 +6140,24 @@
       "duration_ms": 152160,
       "name": "laster",
       "url": "https://open.spotify.com/track/3r1QMbUzff4aVrUIbYjUDf"
+    },
+    {
+      "album": {
+        "name": "lauf",
+        "url": "https://open.spotify.com/album/7qVoIKsmBemsKvxDitsvWr"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "lauf",
+      "url": "https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok"
     },
     {
       "album": {
@@ -6508,7 +6602,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 98666,
       "name": "L\u00e4rm",
       "url": "https://open.spotify.com/track/1oBy3oAxgmTcWLKS8AAWKK"
@@ -6638,7 +6732,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 171600,
       "name": "marseille",
       "url": "https://open.spotify.com/track/57ufrqhwjOnHIahY1S2CjM"
@@ -7836,7 +7930,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 157784,
       "name": "Otto Normal",
       "url": "https://open.spotify.com/track/2XuDucWOZOUjneQXyRVyay"
@@ -9110,7 +9204,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 134666,
       "name": "Sie sagt",
       "url": "https://open.spotify.com/track/2fDx4w2rGgr73T0cwt3GMl"
@@ -10301,6 +10395,24 @@
     },
     {
       "album": {
+        "name": "Vergessen",
+        "url": "https://open.spotify.com/album/7xVirb7FLEN5J9RXzOYuhm"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143154,
+      "name": "Vergessen",
+      "url": "https://open.spotify.com/track/4m4hXm2iOa5fNIEpvIiXye"
+    },
+    {
+      "album": {
         "name": "Meere",
         "url": "https://open.spotify.com/album/25G3mIHCrSMheIv5qkPCRF"
       },
@@ -11397,6 +11509,24 @@
     },
     {
       "album": {
+        "name": "XY",
+        "url": "https://open.spotify.com/album/6RcWkF9TkhEP1cmxky2N3j"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167016,
+      "name": "XY",
+      "url": "https://open.spotify.com/track/3edFSoZ9Iz3kcFOGsn6RNQ"
+    },
+    {
+      "album": {
         "name": "Wartesaal (Deluxe Version)",
         "url": "https://open.spotify.com/album/1E9STCQ94KIpH714S9z8DD"
       },
@@ -11696,6 +11826,24 @@
       "duration_ms": 141236,
       "name": "\u00c4ndert nichts",
       "url": "https://open.spotify.com/track/7n3hfyNw12pdVoWAYHcEuO"
+    },
+    {
+      "album": {
+        "name": "\u00c4ngste Haben Arme",
+        "url": "https://open.spotify.com/album/2SZVzyfI8TV5nALfSskU32"
+      },
+      "artists": [
+        {
+          "name": "RAR",
+          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180300,
+      "name": "\u00c4ngste Haben Arme",
+      "url": "https://open.spotify.com/track/2syhnkO2esqLFG7Mycl9jm"
     },
     {
       "album": {

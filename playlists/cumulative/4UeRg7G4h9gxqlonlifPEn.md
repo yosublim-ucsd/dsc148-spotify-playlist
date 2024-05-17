@@ -4,7 +4,7 @@
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: 21 Lil Harold
 
-487 songs - 22 hr 56 min
+488 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Damn \(feat\. G Herbo\)](https://open.spotify.com/track/7Dy1LrsEmooLc39o5bSk7k) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Damn \(feat\. G Herbo\)](https://open.spotify.com/album/6qlLwfmIfkvJjCiEiLiUgI) | 3:37 | 2022-11-18 | 2024-02-24 |
 | [Danger](https://open.spotify.com/track/471FWaPy9XscLiSggofiOp) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3) | [Danger](https://open.spotify.com/album/24ZUzBMda4Xpn3FdsM3V2G) | 2:03 | 2022-12-02 | 2024-02-24 |
 | [Danny Phantom](https://open.spotify.com/track/35j3snzXeXVqDiRQf1cmeg) | [Teflon Zay](https://open.spotify.com/artist/3AFIv9mCacdqjnxIebQhbS) | [Danny Phantom](https://open.spotify.com/album/4PwL5Hd7azNTCfARLXI3f7) | 3:27 | 2023-03-17 | 2023-04-22 |
+| [Deep End](https://open.spotify.com/track/4VX9BbRWlXlaB0J6DRpzOo) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/26XfVMxBavGaeQXzEA6Xu9) | 2:26 | 2024-04-12 |  |
 | [DEEP in my bag](https://open.spotify.com/track/0f71iqxiqEWdWJiEBMBZ2i) | [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE) | [Portrait of the P](https://open.spotify.com/album/4atz7LmnhYnWHIOUDiOXde) | 3:17 | 2024-02-23 |  |
 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-07-28 | 2024-02-24 |
 | [Demons](https://open.spotify.com/track/7ai0VlJiTZXqIKRlgrx7zi) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn) | [Demons](https://open.spotify.com/album/7uVVW3UQWcHg3o5X2vqd5R) | 2:11 | 2022-07-15 | 2023-07-14 |

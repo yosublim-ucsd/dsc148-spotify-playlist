@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 182590,
       "name": "BLOW!",
       "url": "https://open.spotify.com/track/5ELT4PdWP7CaveDVvKKqLf"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 249000,
       "name": "Dead Ends",
       "url": "https://open.spotify.com/track/0QqgVlrgMLDepJQIyOlNzD"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 196467,
       "name": "Don't Understand Why",
       "url": "https://open.spotify.com/track/4McagilwKb0abKxmNG6aYZ"
@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "GO WRONG",
+        "url": "https://open.spotify.com/album/6m9VjN1FUvPVn9cK9Yp2po"
+      },
+      "artists": [
+        {
+          "name": "Monjola",
+          "url": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164430,
+      "name": "GO WRONG",
+      "url": "https://open.spotify.com/track/0XSUBDTVqnOjDxHcy7DkwI"
+    },
+    {
+      "album": {
         "name": "Graveyard",
         "url": "https://open.spotify.com/album/0MlaMXFXlpdVChmsFajK31"
       },
@@ -1001,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Don't Understand Why",
+        "url": "https://open.spotify.com/album/5vq0A4GmKfJMKUGDhsDU4x"
+      },
+      "artists": [
+        {
+          "name": "TOUCAN",
+          "url": "https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221910,
+      "name": "If This Isn't Love",
+      "url": "https://open.spotify.com/track/5U6SrAMCXeHLH6YoLLWXgU"
+    },
+    {
+      "album": {
         "name": "Once I Was",
         "url": "https://open.spotify.com/album/5MsCcv0akW9QgcJSoKSySx"
       },
@@ -1052,6 +1088,24 @@
       "duration_ms": 185056,
       "name": "INFINITY",
       "url": "https://open.spotify.com/track/2cBpwQbzk3MdkoaPNKpUN9"
+    },
+    {
+      "album": {
+        "name": "Ingrid Bergman",
+        "url": "https://open.spotify.com/album/4xoqOw1eTKcjVnqu9M4HXd"
+      },
+      "artists": [
+        {
+          "name": "All of Eden",
+          "url": "https://open.spotify.com/artist/35SCef5OjAjpX89gpHuMRO"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243628,
+      "name": "Ingrid Bergman",
+      "url": "https://open.spotify.com/track/14BOO0aHNAlSHBA2qZbHer"
     },
     {
       "album": {
@@ -1246,7 +1300,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 199171,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/5NwOMleiL1o2QFxoDx8Vib"
@@ -1318,7 +1372,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 232936,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/3ULrypzl0UPwpNoToJoMJy"
@@ -1463,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/15YyAiSJSwhmGJHFjYGLdU"
+      },
+      "artists": [
+        {
+          "name": "Niamh Regan",
+          "url": "https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193438,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6HrcOG9ILLgEZZ28FyQLaL"
+    },
+    {
+      "album": {
         "name": "MYAEROPLANE",
         "url": "https://open.spotify.com/album/5BRCSxV8M8RxAsCd3UtPQk"
       },
@@ -1557,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Nobu",
+        "url": "https://open.spotify.com/album/3tF98Bm6QCkrYH4nhxz7nu"
+      },
+      "artists": [
+        {
+          "name": "Soul\u00e9",
+          "url": "https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "Nobu",
+      "url": "https://open.spotify.com/track/0t8lulg4WM4813ib0klR9S"
+    },
+    {
+      "album": {
         "name": "NOTHING WILL EVER BE THE SAME",
         "url": "https://open.spotify.com/album/721N179Yxv1G8kqefWUc0A"
       },
@@ -1604,7 +1694,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 167330,
       "name": "OFTEN",
       "url": "https://open.spotify.com/track/1VdwrdjGYknOMvEsGvHjrP"
@@ -1622,7 +1712,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 313000,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/08PEMd5eezf6t55FXX7CSt"
@@ -1842,7 +1932,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 258829,
       "name": "Quick Fix",
       "url": "https://open.spotify.com/track/5ReMXn9NCcwKJVwQT4HlWq"
@@ -1968,7 +2058,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 145074,
       "name": "Self Sabotage",
       "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
@@ -2004,7 +2094,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 167900,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r"
@@ -2022,7 +2112,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 337133,
       "name": "Shattered Glass",
       "url": "https://open.spotify.com/track/47MS05AWVBYVGEkJ3MJQOW"
@@ -2098,6 +2188,24 @@
       "duration_ms": 262240,
       "name": "Sleeping with Ghosts",
       "url": "https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc"
+    },
+    {
+      "album": {
+        "name": "Blink And You Miss It",
+        "url": "https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem"
+      },
+      "artists": [
+        {
+          "name": "NO PHOTOS",
+          "url": "https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255392,
+      "name": "Slippy",
+      "url": "https://open.spotify.com/track/6Y9NFgYQwKpc9QXYsuMuMh"
     },
     {
       "album": {

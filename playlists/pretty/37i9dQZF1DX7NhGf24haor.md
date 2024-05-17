@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,122 likes - 120 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,231 likes - 120 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 11 | [Schooier \(feat\. Chicco\)](https://open.spotify.com/track/45Wtlihsfygwj4GcXl59sS) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf), [Chicco](https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb) | [Schooier \(feat\. Chicco\)](https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV) | 3:38 |
 | 12 | [Rave Mozart](https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Rave Mozart](https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8) | 2:06 |
 | 13 | [Through My Veins](https://open.spotify.com/track/4jTtUjgUqHkwVtlWPuXQDj) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Through My Veins](https://open.spotify.com/album/7kdMytBymEhWquNnV10Swv) | 3:36 |
-| 14 | [Open Sesame \(Abracadabra\) \- D\-Block & S\-te\-Fan Remix](https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Open Sesame \(Abracadabra\)](https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq) | 3:02 |
+| 14 | [Open Sesame \(Abracadabra\) \- D\-Block & S\-te\-Fan Remix](https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Open Sesame \(Abracadabra\) \[D\-Block & S\-te\-Fan Remix\]](https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq) | 3:02 |
 | 15 | [Do My Thing](https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Do My Thing](https://open.spotify.com/album/2eGAHFGF6NUfeQblm1Txac) | 3:30 |
 | 16 | [LA DI DA](https://open.spotify.com/track/6l07fK093JBCIh6enC4cof) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx) | [LA DI DA](https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR) | 2:59 |
 | 17 | [Endless Blue](https://open.spotify.com/track/0XPR0wuwmLlUxCBLgN5Rlm) | [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC) | [Endless Blue](https://open.spotify.com/album/541TfSYnzJ6L8EvoqDra3r) | 2:25 |

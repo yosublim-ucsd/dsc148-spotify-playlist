@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from K.O & Maglera Doe Boy (pictured), Kendrick Lamar, and more...",
+  "description": "Only the hottest Hip Hop from Ricky Tyler (pictured) K.O & Maglera Doe Boy, Kendrick Lamar, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -3524,6 +3524,28 @@
       "duration_ms": 181108,
       "name": "No More",
       "url": "https://open.spotify.com/track/4GVQOvxTqXPLJ1rHvP0SwZ"
+    },
+    {
+      "album": {
+        "name": "No More Discos",
+        "url": "https://open.spotify.com/album/29CCIglajfMrsmv25zu8ZN"
+      },
+      "artists": [
+        {
+          "name": "Ricky Tyler",
+          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
+        },
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "No More Discos",
+      "url": "https://open.spotify.com/track/1CEOhntVCcqmouZq4vmeZ3"
     },
     {
       "album": {

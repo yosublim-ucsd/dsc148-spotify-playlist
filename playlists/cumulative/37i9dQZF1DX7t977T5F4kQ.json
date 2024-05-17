@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Kofi Kinaata",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Kojo Blak",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -280,6 +280,24 @@
       "duration_ms": 179043,
       "name": "Abasakom",
       "url": "https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc"
+    },
+    {
+      "album": {
+        "name": "757",
+        "url": "https://open.spotify.com/album/0509XspJuKs2kUv31D9ED4"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142140,
+      "name": "Abena",
+      "url": "https://open.spotify.com/track/12ZauZJSO1DbNcaFI1qr6c"
     },
     {
       "album": {
@@ -918,7 +936,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 223333,
       "name": "Back To Sender (Taamiawu)",
       "url": "https://open.spotify.com/track/2Ttg2Q7FuEJwT024yjz8ca"
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 144312,
       "name": "Designer",
       "url": "https://open.spotify.com/track/4IMmrj6wSiWwmPUGCDzXZU"
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 148173,
       "name": "J.O.K.",
       "url": "https://open.spotify.com/track/31F9gmsnEaeGwN2kmjwCzg"
@@ -3334,6 +3352,28 @@
       "duration_ms": 164000,
       "name": "Je M'appelle (feat. DaVido)",
       "url": "https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK"
+    },
+    {
+      "album": {
+        "name": "Jesus Christ",
+        "url": "https://open.spotify.com/album/0g81DgWVnrSCOuOjLg3nyB"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "BillyDray",
+          "url": "https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190589,
+      "name": "Jesus Christ",
+      "url": "https://open.spotify.com/track/0Au5PSC5WR6PajhnCBogle"
     },
     {
       "album": {
@@ -6328,7 +6368,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 156000,
       "name": "Summer ABA",
       "url": "https://open.spotify.com/track/6g91DkaLUfwlJd8bvBMOzI"
@@ -7216,6 +7256,28 @@
       "duration_ms": 247880,
       "name": "Y3 b3 k) beebi",
       "url": "https://open.spotify.com/track/7hi9yX7NN5Fw5nAFhtMqQB"
+    },
+    {
+      "album": {
+        "name": "Y3 Koom",
+        "url": "https://open.spotify.com/album/70nC8BoqNKcRaU2v52fQkT"
+      },
+      "artists": [
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222902,
+      "name": "Y3 Koom",
+      "url": "https://open.spotify.com/track/3LgSUQM3AJDgCZwM01NKEt"
     },
     {
       "album": {

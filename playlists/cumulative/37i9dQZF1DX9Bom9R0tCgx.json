@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 143636,
       "name": "All My Friends Are Hot",
       "url": "https://open.spotify.com/track/2zsDKb9ioHL4xYiMZb8hcp"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 345346,
       "name": "Bass Down Low",
       "url": "https://open.spotify.com/track/3npnY5CEUv1YbdsdGWsApw"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 116162,
       "name": "Bouncy (Bass Test)",
       "url": "https://open.spotify.com/track/4F6b8D0ZNdni5shVRTlwWy"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 116062,
       "name": "Can't Forget U",
       "url": "https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 164896,
       "name": "Freude sch\u00f6ner G\u00f6tterfunken",
       "url": "https://open.spotify.com/track/41j6STYoP5XoJqqdZJWUxv"
@@ -2792,6 +2792,32 @@
       "duration_ms": 160312,
       "name": "I Like The Way",
       "url": "https://open.spotify.com/track/2WS439Dg6I4yJ9b6nnHS6l"
+    },
+    {
+      "album": {
+        "name": "i like the way you kiss me (Techno)",
+        "url": "https://open.spotify.com/album/5rNX8wPVFvvkM9MS9RHaUz"
+      },
+      "artists": [
+        {
+          "name": "dj tani",
+          "url": "https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA"
+        },
+        {
+          "name": "Tsenay",
+          "url": "https://open.spotify.com/artist/6aHn8RsiWlLB8K6CWHFxeO"
+        },
+        {
+          "name": "FEARZ",
+          "url": "https://open.spotify.com/artist/10xwd2RQptiwP45TIiBlCE"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132670,
+      "name": "i like the way you kiss me - Techno",
+      "url": "https://open.spotify.com/track/1oJ5nlMnZjhEfwPM3FP34c"
     },
     {
       "album": {
@@ -4188,7 +4214,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 235111,
       "name": "New Generation - Space 92 Remix",
       "url": "https://open.spotify.com/track/5R83UKYem3OpSmWCvE3Yax"
@@ -4589,6 +4615,28 @@
     },
     {
       "album": {
+        "name": "P.I.M.P",
+        "url": "https://open.spotify.com/album/2obXOASaM8BX9vlhWW24Ts"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Swizznife",
+          "url": "https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117882,
+      "name": "P.I.M.P",
+      "url": "https://open.spotify.com/track/4aIJ6bMEK91amdy07Ap21o"
+    },
+    {
+      "album": {
         "name": "DARK MATTER",
         "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
       },
@@ -4813,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "Plain Jane",
+        "url": "https://open.spotify.com/album/2XN09zQpDy4MODHvV1QCS0"
+      },
+      "artists": [
+        {
+          "name": "TRFN",
+          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136191,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/03C4P3Tc7UpPlqTBML4ybz"
+    },
+    {
+      "album": {
         "name": "Poison (with Timmy Trumpet x W&W)",
         "url": "https://open.spotify.com/album/0i36q6Jj9rtyiaonm15vZe"
       },
@@ -4836,6 +4902,28 @@
       "duration_ms": 167111,
       "name": "Poison (with Timmy Trumpet x W&W)",
       "url": "https://open.spotify.com/track/7d4vcqHz2rjPQooXa0CZM3"
+    },
+    {
+      "album": {
+        "name": "Pon De Replay",
+        "url": "https://open.spotify.com/album/2pz2xrOldHvovzJvErMGA9"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        },
+        {
+          "name": "Milan Gavris",
+          "url": "https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122156,
+      "name": "Pon De Replay",
+      "url": "https://open.spotify.com/track/0Pf0qMHAWrAkEQOfy0cm6H"
     },
     {
       "album": {
@@ -5488,7 +5576,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 221854,
       "name": "Satellite - Tweekacore Remix",
       "url": "https://open.spotify.com/track/1FSZYa6qb0Is7SBxu3Psyi"
@@ -5705,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131520,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w"
+    },
+    {
+      "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
       },
@@ -5884,6 +5990,24 @@
       "duration_ms": 131200,
       "name": "SIDE2SIDE (CELO & VALDEEZ Remix)",
       "url": "https://open.spotify.com/track/2E23Ug1qYZfGPnMczJZv8f"
+    },
+    {
+      "album": {
+        "name": "SKELETON",
+        "url": "https://open.spotify.com/album/6mkdOyHLglhEaj50QbGmRk"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "SKELETON",
+      "url": "https://open.spotify.com/track/7Id3dL8SN0JIZ0kelI5JcA"
     },
     {
       "album": {
@@ -6765,6 +6889,28 @@
     },
     {
       "album": {
+        "name": "The Riddle",
+        "url": "https://open.spotify.com/album/399nSedhNZyX10UhnhrG5I"
+      },
+      "artists": [
+        {
+          "name": "NIVEK",
+          "url": "https://open.spotify.com/artist/4LW7ATTlh6btuM3AvT1Ejp"
+        },
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/21tl68v5jPNfBvZuIRq8KQ"
+    },
+    {
+      "album": {
         "name": "The Sinner",
         "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
       },
@@ -6884,7 +7030,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 188571,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/5mASStSnLfAz7JvHV5kSyx"
@@ -7104,6 +7250,28 @@
       "duration_ms": 120000,
       "name": "Voodoo People",
       "url": "https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji"
+    },
+    {
+      "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/4thDxyb6ezYHZ8wTA2eABT"
+      },
+      "artists": [
+        {
+          "name": "LIZZIP",
+          "url": "https://open.spotify.com/artist/1jNyttT0vL0IEemrawjILH"
+        },
+        {
+          "name": "BASTL",
+          "url": "https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129093,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/20drQYkiowWBVQWs7b0DII"
     },
     {
       "album": {

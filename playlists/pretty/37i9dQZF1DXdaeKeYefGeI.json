@@ -1,12 +1,12 @@
 {
   "description": "Wat kan het Nederlands toch mooi zijn. Cover: Simon Keizer",
-  "num_followers": 24426,
+  "num_followers": 24437,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1HYAAAAADCDd9q531YgDXOLA5/7Hoc",
+  "snapshot_id": "ZkZhVQAAAABbaqTM8KErgsBTf6iZG8Q5",
   "tracks": [
     {
       "added_at": "2024-05-09 22:00:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "Beste Zangers Seizoen 2020 (Miss Montreal)",
+        "url": "https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 170277,
+      "name": "Door De Wind",
+      "url": "https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "Dat heb jij gedaan",
         "url": "https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 283361,
       "name": "Liefde Van Later",
       "url": "https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Beste Zangers Seizoen 2020 (Miss Montreal)",
-        "url": "https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS"
-      },
-      "artists": [
-        {
-          "name": "Miss Montreal",
-          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
-        }
-      ],
-      "duration_ms": 170277,
-      "name": "Door De Wind",
-      "url": "https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9"
     },
     {
       "added_at": "2024-05-09 22:00:00",

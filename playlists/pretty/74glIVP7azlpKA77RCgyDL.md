@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Knocked Loose
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,555 likes - 106 songs - 6 hr 29 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,557 likes - 106 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

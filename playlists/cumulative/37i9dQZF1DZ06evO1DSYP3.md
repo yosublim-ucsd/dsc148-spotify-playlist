@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 35 min
+57 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Big Steppin' \(feat\. E\-40 & P\-Lo\) \- Remix](https://open.spotify.com/track/7wOG9tjfJUrdMQvV5BXJz1) | [Stunnaman02](https://open.spotify.com/artist/6GqksGv39gHrhEbbI0Mavw), [QuakeBeatz](https://open.spotify.com/artist/30HKqvpaWBTGoxIO8hFMt1), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Big Steppin' \(Remix\) \[feat\. E\-40 & P\-Lo\]](https://open.spotify.com/album/67rMSc4nEWohwEYjA2MaJY) | 3:07 | 2024-01-29 |  |
 | [Blue Hunnids](https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Blue Hunnids \(feat\. P\-Lo\) \- Single](https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq) | 3:16 | 2024-01-29 |  |
 | [Bounce](https://open.spotify.com/track/6fzADIXo9q8wnHoIMWKqUl) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [BONA FIDE](https://open.spotify.com/album/1wHjsPMfZOAPdIVejEjmxF) | 3:19 | 2024-01-29 |  |
-| [Boy](https://open.spotify.com/track/4tWfESbIYebRHdMqlwy04T) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/3RXaP3Adt3TLsnIKRPBb1x) | 3:41 | 2024-01-29 |  |
+| [Boy](https://open.spotify.com/track/4tWfESbIYebRHdMqlwy04T) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/3RXaP3Adt3TLsnIKRPBb1x) | 3:41 | 2024-01-29 | 2024-05-17 |
+| [Boy \(feat\. P\-Lo\)](https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/2BThd0FFROidBahO46lH1y) | 3:41 | 2024-05-17 |  |
 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 | 2024-01-29 |  |
 | [Get Me Lit](https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Get Me Lit](https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW) | 2:11 | 2024-01-29 |  |
 | [Going Off](https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going Off](https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS) | 2:03 | 2024-01-29 |  |

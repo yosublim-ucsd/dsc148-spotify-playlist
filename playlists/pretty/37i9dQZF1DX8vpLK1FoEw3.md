@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > pra superar idiotas q ferem só colada no paredão mô \#MeuSpotify com Pabllo Vittar
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,000 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,984 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 11 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 |
 | 12 | [Disco Arranhado](https://open.spotify.com/track/2n6hURX6zWyPAyrG2V4Yxg) | [Malu](https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ) | [A Nova Voz Romântica do Brasil](https://open.spotify.com/album/4hCFOVbagqEijcdkuimete) | 2:47 |
 | 13 | [Dançando Calypso \- Ao Vivo](https://open.spotify.com/track/6IBIcuBp1e6ZfrJjHgnwvW) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 2 \(Ao Vivo\)](https://open.spotify.com/album/1vD9BsVndH5DqvdCrsoJ5K) | 2:06 |
-| 14 | [Lápis](https://open.spotify.com/track/2myIOMbPy2ErPeEAqm1A8l) | [Evoney Fernandes](https://open.spotify.com/artist/5mkVUbjeMxfKKjqL1mhplz), [Pablo](https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK) | [Lápis](https://open.spotify.com/album/4ipbWS3UhY6DJTFyOIMkc6) | 2:42 |
+| 14 | [Lápis \- Ao Vivo](https://open.spotify.com/track/2myIOMbPy2ErPeEAqm1A8l) | [Evoney Fernandes](https://open.spotify.com/artist/5mkVUbjeMxfKKjqL1mhplz), [Pablo](https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK) | [Lápis](https://open.spotify.com/album/4ipbWS3UhY6DJTFyOIMkc6) | 2:42 |
 | 15 | [Se Mancol \- Ao Vivo](https://open.spotify.com/track/2vHW0iTLZd4GhKCAmGZutQ) | [Companhia do Calypso](https://open.spotify.com/artist/0c7uc4pA1hpla0xbbEF5W5) | [Companhia do Calypso, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7GXCJX2sG1jJuRC6d40jNb) | 3:03 |
 | 16 | [Diga Sim pra Mim](https://open.spotify.com/track/74QtGMeYncf3wP6fhg00zb) | [Desejo De Menina](https://open.spotify.com/artist/2BwGxEffKsSjsQyKNtBgcQ) | [Diga Sim, Vol\. 4](https://open.spotify.com/album/2smfsQHrlDBsA30MycLHHY) | 3:41 |
 | 17 | [Falta Coragem](https://open.spotify.com/track/6lRrel33k5DYgUX3GHBpFs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:37 |

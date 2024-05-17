@@ -23669,6 +23669,24 @@
     },
     {
       "album": {
+        "name": "STORY",
+        "url": "https://open.spotify.com/album/2Vur4c1yj2x87W7XcYa3m6"
+      },
+      "artists": [
+        {
+          "name": "RPT JasonDilla",
+          "url": "https://open.spotify.com/artist/2UHHfc0InrWSmUkiuss6f4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "STORY",
+      "url": "https://open.spotify.com/track/4mgkU2RnSWSknPLSgHhEGj"
+    },
+    {
+      "album": {
         "name": "Story Of The Heart",
         "url": "https://open.spotify.com/album/5CUMPhGxHTmE79uaQEdYTX"
       },

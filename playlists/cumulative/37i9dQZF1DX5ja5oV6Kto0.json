@@ -166,7 +166,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 127466,
       "name": "2MUCH",
       "url": "https://open.spotify.com/track/4CSv8hUpanXv7J3Ypwjpho"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 182621,
       "name": "ACTIVE",
       "url": "https://open.spotify.com/track/4P0NCS7lV5u4fOvIuXxVI0"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 171428,
       "name": "Cincinatti Pumpin!!",
       "url": "https://open.spotify.com/track/2tsmBwTvtJ0pU1IViRvsWJ"
@@ -4126,7 +4126,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 205013,
       "name": "Escapism (feat. Fave & Tay Iwar)",
       "url": "https://open.spotify.com/track/0ixcA2mSYrHIu5RNgJ2vBB"
@@ -5188,6 +5188,28 @@
       "duration_ms": 171577,
       "name": "HEATING ROCKS",
       "url": "https://open.spotify.com/track/3mL1frnTR0o83A3viBbIX8"
+    },
+    {
+      "album": {
+        "name": "Heaven/ Middle of the Yard",
+        "url": "https://open.spotify.com/album/6XyVHamuIbG0foRJU3xI6f"
+      },
+      "artists": [
+        {
+          "name": "3kene",
+          "url": "https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv"
+        },
+        {
+          "name": "Iver Rivers",
+          "url": "https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117966,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6rcxnBJWJa9shsD2eZj7He"
     },
     {
       "album": {
@@ -8171,6 +8193,28 @@
     },
     {
       "album": {
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+    },
+    {
+      "album": {
         "name": "My Dear",
         "url": "https://open.spotify.com/album/2xztOGVgCO2E0GUDhrPepL"
       },
@@ -9256,6 +9300,40 @@
       "duration_ms": 150293,
       "name": "Pacifier",
       "url": "https://open.spotify.com/track/1pWiciwrA2f7sny0zC6XAt"
+    },
+    {
+      "album": {
+        "name": "Pain and Pleasure",
+        "url": "https://open.spotify.com/album/17tb3wkAv9Kqbu5VLWgIcJ"
+      },
+      "artists": [
+        {
+          "name": "Iyke Parker",
+          "url": "https://open.spotify.com/artist/05CCsFubGf9UpnbXp0iAWr"
+        },
+        {
+          "name": "LeonardoDDJ",
+          "url": "https://open.spotify.com/artist/25Q3IQWJ78bRWV15GOQyYV"
+        },
+        {
+          "name": "99 PHACES",
+          "url": "https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p"
+        },
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        },
+        {
+          "name": "Freddie Gambini",
+          "url": "https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Pain and Pleasure",
+      "url": "https://open.spotify.com/track/1YNcsikMzn7VnhVQCXhx2o"
     },
     {
       "album": {
@@ -12648,6 +12726,28 @@
       "duration_ms": 150935,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/5a74iY70gcJ1j4GCk3EMF6"
+    },
+    {
+      "album": {
+        "name": "Trust The Process",
+        "url": "https://open.spotify.com/album/3WqKChd04Gc1kzJmkbYQ0E"
+      },
+      "artists": [
+        {
+          "name": "Sosa.ttw",
+          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+        },
+        {
+          "name": "Thekiddnk",
+          "url": "https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125572,
+      "name": "Trust The Process",
+      "url": "https://open.spotify.com/track/61NC6VVyBuHohAm8MWVrbF"
     },
     {
       "album": {

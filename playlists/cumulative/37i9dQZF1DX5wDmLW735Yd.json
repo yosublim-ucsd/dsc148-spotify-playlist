@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: SHY FX",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Mozey",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 124800,
       "name": "Badman",
       "url": "https://open.spotify.com/track/1AtDX5155W9zDdvzYPUcDb"
@@ -2796,6 +2796,28 @@
       "duration_ms": 237000,
       "name": "Cycles - VIP",
       "url": "https://open.spotify.com/track/3lUgswfQB5kCVf3I7lGnwQ"
+    },
+    {
+      "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/5cnK9r9zaVKoBGrfWUDhzo"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Mugatu",
+          "url": "https://open.spotify.com/artist/5rTqnwlpBgvK7LGQhsCGV6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158965,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/3WLkk22rygJ3whtqu0OXIZ"
     },
     {
       "album": {
@@ -5954,7 +5976,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 180689,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3ardTKlR7VEELLh8iI3bpK"
@@ -10461,6 +10483,28 @@
     },
     {
       "album": {
+        "name": "Remember (Circadian Remix)",
+        "url": "https://open.spotify.com/album/5pwrlbm64b9Qhh9HDinpiI"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251034,
+      "name": "Remember - Circadian Remix",
+      "url": "https://open.spotify.com/track/7lZprWncXs1bwOoFnkcziB"
+    },
+    {
+      "album": {
         "name": "Remember Their Names (feat. Josh Barry)",
         "url": "https://open.spotify.com/album/0ZHubRX9Ac0BEUDzMriufH"
       },
@@ -11440,7 +11484,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 157745,
       "name": "Silence Is Loud",
       "url": "https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg"
@@ -12760,6 +12804,36 @@
       "duration_ms": 209655,
       "name": "Tell You What I Did",
       "url": "https://open.spotify.com/track/4cdTUcdzvpbVz9BJazc1ou"
+    },
+    {
+      "album": {
+        "name": "Ten Toes (Feat. MC Spyda, General Levy & Eksman)",
+        "url": "https://open.spotify.com/album/1cmCebelS6vjNHb9dnPAbn"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234615,
+      "name": "Ten Toes (Feat. MC Spyda, General Levy & Eksman)",
+      "url": "https://open.spotify.com/track/6d7smhFOnBEVeaKAiYm8PK"
     },
     {
       "album": {

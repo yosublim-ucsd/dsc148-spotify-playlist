@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: J. Cole",
-  "num_followers": 1592241,
+  "num_followers": 1592271,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -177,7 +177,7 @@
         }
       ],
       "duration_ms": 328430,
-      "name": "Mutty (feat. Stove God Cooks)",
+      "name": "Mutty",
       "url": "https://open.spotify.com/track/1kMr1X2SBTV6KTmlIf4psb"
     },
     {
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Scared Money",
-        "url": "https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD"
-      },
-      "artists": [
-        {
-          "name": "Stalley",
-          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
-        },
-        {
-          "name": "Kevin Durant",
-          "url": "https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey"
-        }
-      ],
-      "duration_ms": 173161,
-      "name": "Scared Money (feat. Kevin Durant)",
-      "url": "https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "And Then You Pray For Me",
         "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 299270,
       "name": "Mamas PrimeTime",
       "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Scared Money",
+        "url": "https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD"
+      },
+      "artists": [
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        },
+        {
+          "name": "Kevin Durant",
+          "url": "https://open.spotify.com/artist/0CFcWMZu68nAWFjuFg0jey"
+        }
+      ],
+      "duration_ms": 173161,
+      "name": "Scared Money (feat. Kevin Durant)",
+      "url": "https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Moving Day",
+        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Moving Day",
+      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Don't Forget To Breathe",
         "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
       },
@@ -743,30 +759,6 @@
       "duration_ms": 154920,
       "name": "Buddy A Fool",
       "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Welcome 2 Collegrove",
-        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 313397,
-      "name": "Oprah & Gayle (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -795,6 +787,30 @@
       "duration_ms": 213640,
       "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Welcome 2 Collegrove",
+        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 313397,
+      "name": "Oprah & Gayle (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -839,18 +855,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Moving Day",
-        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
+        "name": "Lyrics to GO Vol. 5",
+        "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
       },
       "artists": [
         {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
         }
       ],
-      "duration_ms": 170602,
-      "name": "Moving Day",
-      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
+      "duration_ms": 155169,
+      "name": "TULUM",
+      "url": "https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -875,26 +895,6 @@
       "duration_ms": 181196,
       "name": "Giants Of The Fall",
       "url": "https://open.spotify.com/track/57RzX9szVUX5gsfPQNc72M"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Lyrics to GO Vol. 5",
-        "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 155169,
-      "name": "TULUM",
-      "url": "https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Yokohama Slim",
         "url": "https://open.spotify.com/album/0EFCnTO7xvVAXFHXTcPLDR"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 140800,
       "name": "Yokohama Slim",
       "url": "https://open.spotify.com/track/0FUttXeJKxykc1EqlJXNgy"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     }
   ],
   "unique_name": "Spilled Ink",

@@ -3645,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "CONNECT",
+        "url": "https://open.spotify.com/album/0aBKpiRYV5X7VDIFKr3MlR"
+      },
+      "artists": [
+        {
+          "name": "IS:SUE",
+          "url": "https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "CONNECT",
+      "url": "https://open.spotify.com/track/6tyCsqp5qGXdagwG6rIoru"
+    },
+    {
+      "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
       },
@@ -5658,6 +5676,24 @@
       "duration_ms": 176212,
       "name": "Feel the POP",
       "url": "https://open.spotify.com/track/1K3Jlfhut0c38mq6EH2yTE"
+    },
+    {
+      "album": {
+        "name": "Feel the POP (Japanese ver.)",
+        "url": "https://open.spotify.com/album/4bINmqQE4GASzM887eOXUx"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176193,
+      "name": "Feel the POP - Japanese ver.",
+      "url": "https://open.spotify.com/track/3KJHDWhswwu5WZdGfVaXSX"
     },
     {
       "album": {

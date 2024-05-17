@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Djodje",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -746,7 +746,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 238790,
       "name": "Bela",
       "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 197946,
       "name": "Fala S\u00f3",
       "url": "https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ"
@@ -2774,6 +2774,24 @@
       "duration_ms": 208000,
       "name": "Jeito Dela",
       "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
+    },
+    {
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7l478mo7VlYpgFVUJeZBCm"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162151,
+      "name": "Juliana",
+      "url": "https://open.spotify.com/track/2ujbkemDmWlKttKOnAHliq"
     },
     {
       "album": {
@@ -5013,6 +5031,32 @@
     },
     {
       "album": {
+        "name": "Pondodu",
+        "url": "https://open.spotify.com/album/51gfGpmvSvZnVwxnnwWHpa"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Boy Game",
+          "url": "https://open.spotify.com/artist/0uUqFjPffTb1fW3spN0spk"
+        },
+        {
+          "name": "Pcc",
+          "url": "https://open.spotify.com/artist/2iBToyDbE9ZmciHQTxmSTy"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203278,
+      "name": "Pondodu",
+      "url": "https://open.spotify.com/track/0hfdyksAPklSdEcZEeen5q"
+    },
+    {
+      "album": {
         "name": "Ponto Fraco",
         "url": "https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y"
       },
@@ -6344,7 +6388,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 205996,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
@@ -6522,6 +6566,24 @@
       "duration_ms": 222097,
       "name": "Toquei",
       "url": "https://open.spotify.com/track/3OuhLAiyqxCeDj4FRsioIt"
+    },
+    {
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7l478mo7VlYpgFVUJeZBCm"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176685,
+      "name": "Tou Aqui",
+      "url": "https://open.spotify.com/track/1juQ6EniKzxIFuElkRPFi3"
     },
     {
       "album": {

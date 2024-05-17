@@ -2,7 +2,7 @@
 
 ### [This Is Banda Rafaga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s7DZn)
 
-> This is Banda Rafaga\. Todos os maiores hits em uma só playlist.
+> This is Banda Rafaga\. The essential tracks, all in one playlist.
 
 109 songs - 6 hr 5 min
 

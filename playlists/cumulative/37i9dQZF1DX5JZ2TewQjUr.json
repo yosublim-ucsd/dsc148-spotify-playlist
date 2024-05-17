@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  CHANKA",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: nnscya ",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 187354,
       "name": "5949mi",
       "url": "https://open.spotify.com/track/3rgDed1aygTvUKwvWETfZq"
+    },
+    {
+      "album": {
+        "name": "5pm",
+        "url": "https://open.spotify.com/album/3qcaV9TKqscYkc6Wgjcu1W"
+      },
+      "artists": [
+        {
+          "name": "Goochan",
+          "url": "https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "5pm",
+      "url": "https://open.spotify.com/track/0wDSJ6wGMl8SdDoWHt4uTf"
     },
     {
       "album": {
@@ -4077,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Song",
+        "url": "https://open.spotify.com/album/3acd27iDYrbyDAOxeZ16g0"
+      },
+      "artists": [
+        {
+          "name": "Gwenji",
+          "url": "https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Goodbye Song",
+      "url": "https://open.spotify.com/track/50AqEQ5FauDIsV4csMFx5F"
+    },
+    {
+      "album": {
         "name": "fusion flow",
         "url": "https://open.spotify.com/album/5AgqJ1dz6117KjqNJrsPnI"
       },
@@ -5425,6 +5461,24 @@
     },
     {
       "album": {
+        "name": "in love / not enough",
+        "url": "https://open.spotify.com/album/4UvU4P3qLkjXqQp7tqlcdQ"
+      },
+      "artists": [
+        {
+          "name": "WHIZZ",
+          "url": "https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210433,
+      "name": "in love / not enough",
+      "url": "https://open.spotify.com/track/1hqh3ZyC1ltmQICWJK6RCs"
+    },
+    {
+      "album": {
         "name": "Independent Artist",
         "url": "https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC"
       },
@@ -5874,6 +5928,24 @@
       "duration_ms": 251474,
       "name": "LA (summer rain)",
       "url": "https://open.spotify.com/track/0ts8LtbR38ZO9hK9hKpoFx"
+    },
+    {
+      "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/1VVky8OBzNrxJC4ggqxzvS"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS"
     },
     {
       "album": {
@@ -7058,6 +7130,24 @@
       "duration_ms": 149019,
       "name": "MK Nose",
       "url": "https://open.spotify.com/track/7dlznx1fY6ylydSB4aZp5t"
+    },
+    {
+      "album": {
+        "name": "Mom I\u2019d Like To...",
+        "url": "https://open.spotify.com/album/1LQtV1flVtaGPVuBZ6d8q7"
+      },
+      "artists": [
+        {
+          "name": "MATCH",
+          "url": "https://open.spotify.com/artist/3Chg16F5OR4qSf1zE4vywa"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226853,
+      "name": "Mom I\u2019d Like To...",
+      "url": "https://open.spotify.com/track/0zJ3jtxEwtcifX7S0EIVDl"
     },
     {
       "album": {
@@ -8408,6 +8498,24 @@
       "duration_ms": 177230,
       "name": "pick up your phone",
       "url": "https://open.spotify.com/track/4jiiHoUOH8oDLPcWuydGuF"
+    },
+    {
+      "album": {
+        "name": "\u6279 PIE",
+        "url": "https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz"
+      },
+      "artists": [
+        {
+          "name": "nnscya",
+          "url": "https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177249,
+      "name": "pie \u6279",
+      "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
     },
     {
       "album": {
@@ -10406,6 +10514,32 @@
       "duration_ms": 157894,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/27ec2g3R7h4Hgz7KRUi7lK"
+    },
+    {
+      "album": {
+        "name": "Surrounded by Stars (feat. Lili Forest & OBSESS)",
+        "url": "https://open.spotify.com/album/2hw4xdlpOhT8A0lXTcZ6h3"
+      },
+      "artists": [
+        {
+          "name": "Seasons for Change",
+          "url": "https://open.spotify.com/artist/3Fq4PqVhwwwwCVCt0NQoXT"
+        },
+        {
+          "name": "Lili Forest",
+          "url": "https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6"
+        },
+        {
+          "name": "OBSESS",
+          "url": "https://open.spotify.com/artist/1CnX88uQKiTPRNeFInBey9"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264565,
+      "name": "Surrounded by Stars (feat. Lili Forest & OBSESS)",
+      "url": "https://open.spotify.com/track/2GrPSSEbBGa5SdEK5FlzGy"
     },
     {
       "album": {
@@ -15437,6 +15571,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u5011\u4e4b\u9593\u7684\u82b1\u671f\u4e0d\u662f\u6c38\u9060",
+        "url": "https://open.spotify.com/album/12Idf6J0CaXnshoFZLb19M"
+      },
+      "artists": [
+        {
+          "name": "Cozy Syndrome",
+          "url": "https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243900,
+      "name": "\u6211\u5011\u4e4b\u9593\u7684\u82b1\u671f\u4e0d\u662f\u6c38\u9060",
+      "url": "https://open.spotify.com/track/1lWyFWupCnE7HIGuKhxTfj"
+    },
+    {
+      "album": {
         "name": "\u6211\u548c\u963f\u59e8\u6709\u500b\u7d04\u6703 feat. \u9ece\u8389Chris Lai",
         "url": "https://open.spotify.com/album/0xRGANwWmNcifIUq6URZlQ"
       },
@@ -15872,6 +16024,24 @@
       "duration_ms": 196334,
       "name": "\u65e5\u51fa\u7684\u7f3a\u53e3",
       "url": "https://open.spotify.com/track/7ap3XCfO7Wr5iO4K45sqrk"
+    },
+    {
+      "album": {
+        "name": "\u65e5\u524d",
+        "url": "https://open.spotify.com/album/5crgKrXM275zPH5T7YjNdc"
+      },
+      "artists": [
+        {
+          "name": "\u60e1\u5922\u626d\u86cb",
+          "url": "https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215433,
+      "name": "\u65e5\u524d",
+      "url": "https://open.spotify.com/track/7B01stoklzmVRdEHLYQHCI"
     },
     {
       "album": {

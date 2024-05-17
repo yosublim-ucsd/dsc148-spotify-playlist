@@ -7340,24 +7340,6 @@
     {
       "album": {
         "name": "Revival Medley",
-        "url": "https://open.spotify.com/album/5RJ8JGMlLr5JSbO35MKXpt"
-      },
-      "artists": [
-        {
-          "name": "Jason Nelson",
-          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
-        }
-      ],
-      "date_added": "2024-04-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 453689,
-      "name": "Revival Medley",
-      "url": "https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO"
-    },
-    {
-      "album": {
-        "name": "Revival Medley",
         "url": "https://open.spotify.com/album/1gMmy9RnRInV3WCXBLfpuF"
       },
       "artists": [
@@ -7372,6 +7354,24 @@
       "duration_ms": 453689,
       "name": "Revival Medley",
       "url": "https://open.spotify.com/track/4ZAdZMMuBlCNNjWGWV6viA"
+    },
+    {
+      "album": {
+        "name": "Revival Medley",
+        "url": "https://open.spotify.com/album/5RJ8JGMlLr5JSbO35MKXpt"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453689,
+      "name": "Revival Medley - Live",
+      "url": "https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO"
     },
     {
       "album": {

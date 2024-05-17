@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,393 songs - 2 day 4 hr 29 min
+1,394 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,11 +561,11 @@
 | [I'll See Myself Out](https://open.spotify.com/track/1TBsrLMWBcPPEtzwYzYPkb) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [I'll See Myself Out](https://open.spotify.com/album/6A9hTaAFPDgeKQE9Ulqxxi) | 2:09 | 2022-05-27 | 2022-06-03 |
 | [I'll Wait](https://open.spotify.com/track/4gTsqVEBYNVgdwzJligeIM) | [Lomoplay](https://open.spotify.com/artist/0R7NYzygUKT8QjUpDTylUo) | [I'll Wait](https://open.spotify.com/album/2WFVu3UGokQwdMCXNTr5BH) | 2:02 | 2022-01-27 | 2022-06-10 |
 | [I'm Out](https://open.spotify.com/track/50oE6KjOO1CrikNQ7DTlS1) | [Glass Globe](https://open.spotify.com/artist/0crpGDMvXANXQ6wyjkcDzu) | [Home Alone](https://open.spotify.com/album/1BcrJRI3FXOpFqxUUeoXeN) | 2:02 | 2022-01-27 | 2022-12-24 |
-| [Ice Mountain](https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw) | [Shogi Boy](https://open.spotify.com/artist/6Ye1lnToliYlxUujEDXip1) | [Ice Mountain](https://open.spotify.com/album/6uccgGz13yQU6L2bGKzsiq) | 1:48 | 2022-05-20 | 2024-05-14 |
+| [Ice Mountain](https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw) | [Shogi Boy](https://open.spotify.com/artist/6Ye1lnToliYlxUujEDXip1) | [Ice Mountain](https://open.spotify.com/album/6uccgGz13yQU6L2bGKzsiq) | 1:48 | 2022-05-20 |  |
 | [Iced Pandan Latte](https://open.spotify.com/track/6mSfWNWb8c5kIkahN4Glix) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY) | [Iced Pandan Latte](https://open.spotify.com/album/0iJ5jwKjklnvYcAxLjaOO9) | 2:27 | 2022-07-15 | 2022-12-10 |
 | [Iced Skinny Latte](https://open.spotify.com/track/4hukQ9nia9ZgGrSsZ4hN8t) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Iced Skinny Latte](https://open.spotify.com/album/5QSFp8O3JuVkB4YrVlqbPH) | 2:05 | 2022-10-15 | 2023-09-22 |
 | [Iced Tea](https://open.spotify.com/track/0Oi6aHYgfr4COgmxDGwo8n) | [ben the bird](https://open.spotify.com/artist/1i5mrAjdJZ6NHsruDGXVN1) | [Iced Tea](https://open.spotify.com/album/4C5mkfc3AZwaY8bFRV2vm0) | 2:23 | 2022-09-16 | 2023-09-05 |
-| [If It Rains](https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [If It Rains](https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k) | 1:54 | 2023-03-08 |  |
+| [If It Rains](https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [If It Rains](https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k) | 1:54 | 2023-03-08 | 2024-05-17 |
 | [Ilene](https://open.spotify.com/track/0Y5hAGvfwXoQnjWEd90ju2) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Sharingan](https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY) | 2:09 | 2022-01-27 | 2023-06-06 |
 | [Illuminated](https://open.spotify.com/track/7JGzBYYOPMpR4J0bttU32b) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Illuminated](https://open.spotify.com/album/0FmNls6a4NskzGGH4JiFtd) | 1:49 | 2023-03-08 | 2024-05-14 |
 | [immanent](https://open.spotify.com/track/1N1TBYrQ2VGKzQ1JyTMXSq) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [immanent](https://open.spotify.com/album/60Rh4kHbkGV8YojGWysb5v) | 2:22 | 2024-01-19 | 2024-03-14 |
@@ -588,6 +588,7 @@
 | [Inside All Day](https://open.spotify.com/track/6SM9wXpzMbD0Sivei8dOUm) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Inside All Day](https://open.spotify.com/album/2lBQBS5DqOboX9CrD0rSjc) | 2:26 | 2022-01-27 | 2022-05-20 |
 | [Inside Time](https://open.spotify.com/track/6SkGbqgn8bi7HmijsKqvik) | [fakename](https://open.spotify.com/artist/0BUWlzdVAow3whRDUIQOV9) | [Inside Time](https://open.spotify.com/album/3J1CZJxth6KUV94yEGJ0Xq) | 2:07 | 2022-11-25 | 2023-09-29 |
 | [Intangible](https://open.spotify.com/track/1zolBVsZLjNy5dBgDv0CCD) | [Southern Structure](https://open.spotify.com/artist/5JJ1xxpb11qLyqR1BktdIk) | [Intangible](https://open.spotify.com/album/0M0pz2DCYdCCOUmZGBPEfV) | 2:27 | 2022-01-27 | 2022-04-08 |
+| [Into the Crystal Air](https://open.spotify.com/track/4X9huTWFlmFKciZKOgjawF) | [Snack Villain](https://open.spotify.com/artist/1pJ29M4gnoC6aR8Woi10O2) | [Into the Crystal Air](https://open.spotify.com/album/44cHMcE2OOf7tvSRiIl4zP) | 2:03 | 2024-05-13 |  |
 | [Into The Deep](https://open.spotify.com/track/48XQa6SedIMMrLgaayGF1P) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Into The Deep](https://open.spotify.com/album/5aiWXOc1LV3K8r0mLyw5Fy) | 2:16 | 2022-10-08 | 2024-05-14 |
 | [Invisible](https://open.spotify.com/track/1VH8n20orFuTgBnapyxEg3) | [New Morning](https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb) | [Invisible](https://open.spotify.com/album/0unze2zqVBOHoC0KsfNDRV) | 1:56 | 2022-12-23 |  |
 | [Invisible Time](https://open.spotify.com/track/4IY6MZeXVhM6XnIb1dPAyN) | [Opal Fangs](https://open.spotify.com/artist/4WXavKtmJD4UsjSTHIwZrZ) | [Positive Vibes](https://open.spotify.com/album/075pLxefaNgm93o7v9K7kC) | 1:41 | 2022-01-27 | 2022-06-10 |
@@ -1075,7 +1076,7 @@
 | [Shower Thoughts](https://open.spotify.com/track/1ISAjJlU6f8kdXQGbsxHvT) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Shower Thoughts](https://open.spotify.com/album/71h6jwoSe8NghMkX8xghD5) | 1:18 | 2023-08-03 | 2023-10-20 |
 | [Siamese Catwalk \(Little Flute\)](https://open.spotify.com/track/4SMvpl84nQpGas1UAXzHj4) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Siamese Catwalk \(Little Flute\)](https://open.spotify.com/album/7yJg1mV8DVDg5btdZb2yQN) | 2:55 | 2023-06-05 |  |
 | [Silky Pleasure](https://open.spotify.com/track/6rQLn8guB7YKWIzLqPHtDc) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Silky Pleasure](https://open.spotify.com/album/3w0R961rJLP7OLMJsKdPIo) | 2:22 | 2022-10-15 | 2023-09-22 |
-| [Silky Way](https://open.spotify.com/track/5vyFOvY3TyI8OXiXBi8PqT) | [Upah Beats](https://open.spotify.com/artist/6LPpXChwcxm1jxTQ8O9tlI) | [Silky Way](https://open.spotify.com/album/3WCcEiLHRqZ4YbMPCGodYE) | 2:33 | 2023-11-17 |  |
+| [Silky Way](https://open.spotify.com/track/5vyFOvY3TyI8OXiXBi8PqT) | [Upah Beats](https://open.spotify.com/artist/6LPpXChwcxm1jxTQ8O9tlI) | [Silky Way](https://open.spotify.com/album/3WCcEiLHRqZ4YbMPCGodYE) | 2:33 | 2023-11-17 | 2024-05-17 |
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2022-09-02 |  |
 | [silly n proud](https://open.spotify.com/track/0Mllvrh9hG4xmdKkr1MlYZ) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [silly n proud](https://open.spotify.com/album/3c1StHkjtZrY9ZBg8VxpAe) | 2:53 | 2022-04-22 |  |
 | [Similes](https://open.spotify.com/track/3ndjOcHGZ924UKDneWdstW) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Similes](https://open.spotify.com/album/4cwCYkwltW2xf5KNRQTc6k) | 2:50 | 2022-09-30 | 2023-08-04 |

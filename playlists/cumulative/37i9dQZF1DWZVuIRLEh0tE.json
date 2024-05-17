@@ -531,6 +531,32 @@
     },
     {
       "album": {
+        "name": "Atras Del Peso",
+        "url": "https://open.spotify.com/album/6znwRtX2Gqvo5xaf58Jhvg"
+      },
+      "artists": [
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Black Jonas Point",
+          "url": "https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12"
+        },
+        {
+          "name": "Nitido Nintendo",
+          "url": "https://open.spotify.com/artist/0W1sucg7Pw2nSfRZCKlnIB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175428,
+      "name": "Atras Del Peso",
+      "url": "https://open.spotify.com/track/37TtBEQkCrBezZCGKoIW7X"
+    },
+    {
+      "album": {
         "name": "Aveces Pienso",
         "url": "https://open.spotify.com/album/5YbeFlMpKb0MQToXJm6hNd"
       },
@@ -3335,6 +3361,28 @@
     },
     {
       "album": {
+        "name": "Glock Freestyle",
+        "url": "https://open.spotify.com/album/7Gp3aGiWIVpZ1Im02lR6Of"
+      },
+      "artists": [
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        },
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439788,
+      "name": "Glock Freestyle",
+      "url": "https://open.spotify.com/track/4RRaw36EHRM7siNXgnS8Or"
+    },
+    {
+      "album": {
         "name": "SABIDURIA",
         "url": "https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc"
       },
@@ -3394,6 +3442,24 @@
       "duration_ms": 184745,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/7nJRXovps7c2ffbnbLD642"
+    },
+    {
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/5YATUkB47595a4WeOvYedT"
+      },
+      "artists": [
+        {
+          "name": "I Am El Negro",
+          "url": "https://open.spotify.com/artist/0DN2PEOhfbZF1GdxqjILyK"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/6t07n5tcIJfrpddmnXzjJS"
     },
     {
       "album": {
@@ -4250,7 +4316,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 245434,
       "name": "Llego El Control",
       "url": "https://open.spotify.com/track/7Bb6ALvmGdlZLxjjxtaM1x"
@@ -5994,7 +6060,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 155625,
       "name": "Novio Nuevo",
       "url": "https://open.spotify.com/track/01k5np4XcbJtocWAgHtLuP"
@@ -7512,7 +7578,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 169611,
       "name": "TE LLAMO",
       "url": "https://open.spotify.com/track/6PX4bwAK0bgKrpG6UJgxeH"

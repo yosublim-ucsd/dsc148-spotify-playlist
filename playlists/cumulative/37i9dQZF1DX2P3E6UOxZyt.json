@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6591\u6069Ben",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u79aa\u6ce2 (ZENB\u00d8)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 156416,
       "name": "3am - Demo Ver.",
       "url": "https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr"
@@ -526,6 +526,24 @@
       "duration_ms": 195000,
       "name": "Changing",
       "url": "https://open.spotify.com/track/2mYORUFdcHe4xkXOjzLukA"
+    },
+    {
+      "album": {
+        "name": "Fly Machine",
+        "url": "https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139286,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/4tib3tkIn1FN3WQw2RMdAi"
     },
     {
       "album": {
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 196535,
       "name": "Galaxy official",
       "url": "https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5"
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 198000,
       "name": "I Don't Give a, Pt. 2 (feat. MADBOII)",
       "url": "https://open.spotify.com/track/4jMrtQST6Ugw5Ww5O7IKnK"
@@ -2221,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "May flowers",
+        "url": "https://open.spotify.com/album/4OJ6X8eazX6FSN3ShfoJUD"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192212,
+      "name": "May flowers",
+      "url": "https://open.spotify.com/track/7DdpBxdbpYBMXPPTVrrD6m"
+    },
+    {
+      "album": {
         "name": "Maybe Maybe",
         "url": "https://open.spotify.com/album/4Zkkd7RLPCMbs8U2RU2TWY"
       },
@@ -2356,7 +2396,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 221758,
       "name": "Natural Smoke (feat.Andr)",
       "url": "https://open.spotify.com/track/3fZ836Q4EVbV0cToLqtKqd"
@@ -2408,6 +2448,24 @@
       "duration_ms": 192000,
       "name": "No Ice",
       "url": "https://open.spotify.com/track/0rzNMZfOsvUXrEdb1QNBRm"
+    },
+    {
+      "album": {
+        "name": "NOT ALRIGHT",
+        "url": "https://open.spotify.com/album/6kY9wH57QbOAwhxyubRQyu"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "NOT ALRIGHT",
+      "url": "https://open.spotify.com/track/0m7w5JwGZDOvLio6be3GLi"
     },
     {
       "album": {
@@ -3269,6 +3327,24 @@
     },
     {
       "album": {
+        "name": "2nd PRE EVOLUTION",
+        "url": "https://open.spotify.com/album/2enwJuwD3Tygke0CHEGcS9"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168207,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/1v2aWdfCMOYeyySnXexhPn"
+    },
+    {
+      "album": {
         "name": "The Great Escape Of Our Time",
         "url": "https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ"
       },
@@ -3298,7 +3374,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 173793,
       "name": "The Same Title \u72d7\u8840",
       "url": "https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi"
@@ -3592,7 +3668,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152866,
       "name": "what 4",
       "url": "https://open.spotify.com/track/0RDRXCdWNSJdMPnS4eAtAg"
@@ -4309,6 +4385,24 @@
     },
     {
       "album": {
+        "name": "\u7d19\u98db\u6a5f",
+        "url": "https://open.spotify.com/album/6ihVhJds67m09BksN2MGKW"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u6f54\u5fc3",
+          "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247223,
+      "name": "\u4e82\u6d41",
+      "url": "https://open.spotify.com/track/238p15Fz5TneRm52TNoVL8"
+    },
+    {
+      "album": {
         "name": "\u4eba\u7fa4\u4e2d",
         "url": "https://open.spotify.com/album/6yGHjeaUjpkbCeC5URMfnO"
       },
@@ -4758,7 +4852,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 171812,
       "name": "\u5077\u5077\u60f3\u5ff5\u4f60 (feat. \u65b9\u6668)",
       "url": "https://open.spotify.com/track/7xVj07lWHM86OIlTXkEq7R"
@@ -5261,6 +5355,24 @@
     },
     {
       "album": {
+        "name": "\u5496\u5561\u6c24",
+        "url": "https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "\u5496\u5561\u6c24",
+      "url": "https://open.spotify.com/track/5WYgEoOPQSCT8hHYV3bYo3"
+    },
+    {
+      "album": {
         "name": "\u552f\u4e00\u7684\u4f60 (\u97d3\u5287\u300a\u73fe\u6b63\u5206\u624b\u4e2d\u300b\u4e2d\u6587\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5npbPfK0TGruvqhq5la8WF"
       },
@@ -5584,7 +5696,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 177623,
       "name": "\u591a\u5df4\u80fa",
       "url": "https://open.spotify.com/track/4SeVkGp84CmcPF1W3Y5C2s"
@@ -5722,6 +5834,24 @@
       "duration_ms": 177931,
       "name": "\u597d\u50cf\u662fRapper",
       "url": "https://open.spotify.com/track/1PC2s3PcZQgwxoRRSZ60IY"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/4tzg5PxQyc4cFVdMCwd8mK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina \u80e1\u6042\u821e",
+          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156705,
+      "name": "\u597d\u5929\u6c23\u58de\u5fc3\u60c5",
+      "url": "https://open.spotify.com/track/6qeehWrg1b7G8d0SJhyz6Q"
     },
     {
       "album": {
@@ -7453,6 +7583,24 @@
     },
     {
       "album": {
+        "name": "\u53bb\u59b3\u7684\u5047\u65e5",
+        "url": "https://open.spotify.com/album/16NiqNJRrW8U5H7xKuMyze"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168973,
+      "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
+      "url": "https://open.spotify.com/track/3Zcs5flpb0P0AoKS1N2sTV"
+    },
+    {
+      "album": {
         "name": "\u6700\u7f8e\u7684\u98a8\u666f (feat. \u83ab\u5bb0\u7f8a)",
         "url": "https://open.spotify.com/album/0oM9cYr2l14guScjTsMIKX"
       },
@@ -8632,7 +8780,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 243726,
       "name": "\u771f\u5fc3\u8a71",
       "url": "https://open.spotify.com/track/06Hci8wC8NSf2r5OHqhivw"
@@ -8860,7 +9008,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 135884,
       "name": "\u7d19\u98db\u6a5f",
       "url": "https://open.spotify.com/track/6VoUlMALTDMm9Gx8MSQbO4"

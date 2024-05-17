@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 83593,
+  "num_followers": 83601,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkKpgAAAAADW8N/UL0/Tilpkp+feaKQW",
+  "snapshot_id": "ZkP7AAAAAAA4+CW1Jq5ENKcu6x9LNl/9",
   "tracks": [
     {
       "added_at": null,
@@ -135,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me Like You Mean It (Reimagined)",
-        "url": "https://open.spotify.com/album/36e91gVGVfU186J5TiPCd5"
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 179530,
-      "name": "Love Me Like You Mean It (Reimagined)",
-      "url": "https://open.spotify.com/track/5GcrERs8LWD910w4AVXFub"
+      "duration_ms": 155668,
+      "name": "hole in the bottle",
+      "url": "https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl"
     },
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+        "name": "Love Me Like You Mean It (Reimagined)",
+        "url": "https://open.spotify.com/album/36e91gVGVfU186J5TiPCd5"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 155668,
-      "name": "hole in the bottle",
-      "url": "https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl"
+      "duration_ms": 179530,
+      "name": "Love Me Like You Mean It (Reimagined)",
+      "url": "https://open.spotify.com/track/5GcrERs8LWD910w4AVXFub"
     },
     {
       "added_at": null,

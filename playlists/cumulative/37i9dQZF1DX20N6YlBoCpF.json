@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP?si=P6w1qFFUQyK4Vwiaqf-5Sw\">Wilma Van Heerden</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI?si=5ucGuzjIRj2RK5CeQtFedA\">Nicholis Louw</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -226,6 +226,24 @@
       "duration_ms": 210570,
       "name": "2010",
       "url": "https://open.spotify.com/track/1p9eJQ8JJuvdrbCBUKPvSr"
+    },
+    {
+      "album": {
+        "name": "= Liefde",
+        "url": "https://open.spotify.com/album/6N9D2MKfxMaxkQ6X01Ya3t"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "= Liefde",
+      "url": "https://open.spotify.com/track/3OfxPAFrmFkbc5ZceZLEyj"
     },
     {
       "album": {
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 174888,
       "name": "Daai Liedjie",
       "url": "https://open.spotify.com/track/6ulxkVna1ruGAKxdT3TwsY"
@@ -3088,6 +3106,24 @@
       "duration_ms": 183000,
       "name": "Die Breils",
       "url": "https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM"
+    },
+    {
+      "album": {
+        "name": "Die Dans Ding (Radio Edit)",
+        "url": "https://open.spotify.com/album/4WVJQZWgqrsMLEm4RV6ZrQ"
+      },
+      "artists": [
+        {
+          "name": "David Fourie",
+          "url": "https://open.spotify.com/artist/3372wrCwHX44K1vjwiZHoA"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165407,
+      "name": "Die Dans Ding - Radio Edit",
+      "url": "https://open.spotify.com/track/3pcGif0gWG91smnOrtK9er"
     },
     {
       "album": {
@@ -4892,7 +4928,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 215437,
       "name": "Enkelvoud",
       "url": "https://open.spotify.com/track/2JifH8GkXc1MrJC8WouZSK"
@@ -5416,6 +5452,24 @@
       "duration_ms": 203307,
       "name": "Groenlig",
       "url": "https://open.spotify.com/track/02LfA4rOmSeVgk9koPe3y9"
+    },
+    {
+      "album": {
+        "name": "Grondboontjiebotter",
+        "url": "https://open.spotify.com/album/2Xoe7TR3avw0S1GieIDeG4"
+      },
+      "artists": [
+        {
+          "name": "Tuimeltrein",
+          "url": "https://open.spotify.com/artist/5FZPyeJJIsm4Js3HqzXNJR"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231692,
+      "name": "Grondboontjiebotter",
+      "url": "https://open.spotify.com/track/1h23aEgO97G14Mhz9KCX8r"
     },
     {
       "album": {
@@ -7954,7 +8008,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 175403,
       "name": "Klein Bitjie Liefde",
       "url": "https://open.spotify.com/track/6ZEIneX9VFvtJhRNXGJBQo"
@@ -8276,7 +8330,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 172676,
       "name": "Kom Nader",
       "url": "https://open.spotify.com/track/3K3rAxT2i3ktxfwNui17Pp"
@@ -11243,6 +11297,24 @@
     },
     {
       "album": {
+        "name": "Nou's Ek Blind",
+        "url": "https://open.spotify.com/album/5egz5Szxe4rFmYUUvsGzLI"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238711,
+      "name": "Nou's Ek Blind",
+      "url": "https://open.spotify.com/track/5IsUGhCV7rl11tnQf3jsuA"
+    },
+    {
+      "album": {
         "name": "Nuwe Liefde",
         "url": "https://open.spotify.com/album/1385mUopK4X7q2jW76Ma0G"
       },
@@ -11348,7 +11420,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 197479,
       "name": "OASE",
       "url": "https://open.spotify.com/track/2DiZzEROBjh6HejBmWav51"
@@ -12180,7 +12252,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 207585,
       "name": "PhD",
       "url": "https://open.spotify.com/track/6LE7G8movXuzVMfmBLvtWr"
@@ -15240,7 +15312,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 230685,
       "name": "Toe Die Engel Aan Die Water Raak",
       "url": "https://open.spotify.com/track/4xPpFrmBwVfpKpXOXdAiOL"
@@ -16238,7 +16310,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 223640,
       "name": "Vir Altyd",
       "url": "https://open.spotify.com/track/1ogTBxoqu4dQOPKWJKVncv"
@@ -16906,7 +16978,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 204304,
       "name": "Vuur Wat Brand",
       "url": "https://open.spotify.com/track/1c9QUvWJm52Qi0p7i5CKrB"
@@ -17288,7 +17360,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 232384,
       "name": "Weer En Weer",
       "url": "https://open.spotify.com/track/06p4VAEejFAq9t19iU0wJl"
@@ -17390,6 +17462,24 @@
       "duration_ms": 172000,
       "name": "Welkom By My Party",
       "url": "https://open.spotify.com/track/2D5M8Bjxbacp8U9McEa0I7"
+    },
+    {
+      "album": {
+        "name": "Werfbobbejaan",
+        "url": "https://open.spotify.com/album/562nWIgtZ7DybtLivIysUg"
+      },
+      "artists": [
+        {
+          "name": "Nicholis Louw",
+          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Werfbobbejaan",
+      "url": "https://open.spotify.com/track/4MMlY0c2N8X9uqy6P0IPwc"
     },
     {
       "album": {

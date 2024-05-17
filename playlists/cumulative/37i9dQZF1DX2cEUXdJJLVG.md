@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-345 songs - 20 hr 33 min
+346 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Rollercoaster](https://open.spotify.com/track/1fowwO5FLJpv7Suxf0vOC6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5), [whinn](https://open.spotify.com/artist/3R9yGzKCvht9vUyRyV3tU9), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Rollercoaster](https://open.spotify.com/album/3AyZzhTDxJ0sl7XECu6NUL) | 3:12 | 2022-10-14 | 2024-04-19 |
 | [Rollout \(feat\. Jay Prince, Scrufizzer & Close Counters\)](https://open.spotify.com/track/16Y3IuWraX46DMtrATcIaY) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [Rollout](https://open.spotify.com/album/3freFdGNjhuPplhWe9m6Gn) | 3:04 | 2022-09-09 |  |
 | [Romeo](https://open.spotify.com/track/4AcHN6bHmVe97eRB2yXZvl) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Bleached Flamingo EP](https://open.spotify.com/album/5AaDDKSdOALfqGkvnMeWRw) | 4:09 | 2022-09-09 | 2023-07-08 |
+| [Rosy Cheeks](https://open.spotify.com/track/0q1B1FNIIX1IKTzGoBUwTY) | [Moonlight Breakfast](https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp) | [Rosy Cheeks](https://open.spotify.com/album/4ylLZ7Y7b4RVISVAhjEFAv) | 3:10 | 2024-05-16 |  |
 | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0) | 3:43 | 2024-04-10 |  |
 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 | 2022-09-09 |  |
 | [Running Away](https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR) | 1:51 | 2023-05-11 | 2024-04-19 |

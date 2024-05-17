@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "giza desert rave",
+  "description": "IBZ szn",
   "name": "Umami",
   "tracks": [
     {
@@ -1319,6 +1319,28 @@
     },
     {
       "album": {
+        "name": "Blue Berries",
+        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170008,
+      "name": "Blue Berries",
+      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
+    },
+    {
+      "album": {
         "name": "blue ceiling - Sinego Remix",
         "url": "https://open.spotify.com/album/1sO0WqytQcxvZN0iMRfIJQ"
       },
@@ -1468,6 +1490,32 @@
       "duration_ms": 486488,
       "name": "Bosco Bosco (Drums For Life)",
       "url": "https://open.spotify.com/track/4EQ3FEAFDB7NHhjGXGrVnm"
+    },
+    {
+      "album": {
+        "name": "Botella",
+        "url": "https://open.spotify.com/album/6XoP4toPZnWgszUAwh5JzL"
+      },
+      "artists": [
+        {
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
+        },
+        {
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Botella - Marco Lys Remix",
+      "url": "https://open.spotify.com/track/2gBF5jLphcsOVrNcIe5clN"
     },
     {
       "album": {
@@ -2512,6 +2560,24 @@
       "duration_ms": 306889,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1t9sv2QWKyIzIcuka3Cvnr"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4uBdcNdHLX8bxB3w0auCkQ"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199894,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/7n7glIQ3SSM1LLPCPpPceF"
     },
     {
       "album": {
@@ -3817,6 +3883,24 @@
     },
     {
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/5NzBt1gMEkDAs3MlZMgHur"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0CXs85WxeFgxLOOnmYGoAk"
+    },
+    {
+      "album": {
         "name": "GOOD TIMES (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
       },
@@ -4133,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "havet",
+        "url": "https://open.spotify.com/album/6fQ0pD1xd66tZki5Znw37L"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199570,
+      "name": "havet",
+      "url": "https://open.spotify.com/track/5wJf2MmIa9zSK5VrztQA9B"
+    },
+    {
+      "album": {
         "name": "Haze EP",
         "url": "https://open.spotify.com/album/4s208ZjKKt2tbSVD5EzKuF"
       },
@@ -4238,6 +4340,24 @@
       "duration_ms": 177204,
       "name": "Hendrix Flow",
       "url": "https://open.spotify.com/track/2JK7amLLxtXYavB4DJeF0Y"
+    },
+    {
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
     },
     {
       "album": {
@@ -5329,6 +5449,28 @@
     },
     {
       "album": {
+        "name": "La Blanca y la Rosa [Andres Hernandez (ES) Remix]",
+        "url": "https://open.spotify.com/album/6rvHmYkua9pbBii70T2eY0"
+      },
+      "artists": [
+        {
+          "name": "Anthony Godfather",
+          "url": "https://open.spotify.com/artist/1CYqCVVCerhOIUu6gmGpP8"
+        },
+        {
+          "name": "Andres Hernandez (ES)",
+          "url": "https://open.spotify.com/artist/2GQQBYYea6KZ1eDCigYmMj"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385660,
+      "name": "La Blanca y la Rosa - Andres Hernandez (ES) Remix",
+      "url": "https://open.spotify.com/track/2FiJTCxEw4jWbDlefS6z5P"
+    },
+    {
+      "album": {
         "name": "La Fille aux Cheveux de Lin (Model Man Rework)",
         "url": "https://open.spotify.com/album/6gydvdUe3QkrhxPG2Uf7QB"
       },
@@ -6064,6 +6206,24 @@
       "duration_ms": 261290,
       "name": "Magic - Dave + Sam Remix",
       "url": "https://open.spotify.com/track/40ZMNSpiY0JvcdJZdqeY7f"
+    },
+    {
+      "album": {
+        "name": "Magic Circus",
+        "url": "https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229180,
+      "name": "Magic Circus",
+      "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
     },
     {
       "album": {
@@ -7121,6 +7281,40 @@
     },
     {
       "album": {
+        "name": "Only You (&ME Remix)",
+        "url": "https://open.spotify.com/album/3L34LelOyPZKhF3ydzYviM"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        },
+        {
+          "name": "Wil Malone",
+          "url": "https://open.spotify.com/artist/7jzCxvaCAS6u8iivGjTVOl"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434232,
+      "name": "Only You - &ME Remix",
+      "url": "https://open.spotify.com/track/6Pot7RIYFgzOOadIG1IMBv"
+    },
+    {
+      "album": {
         "name": "Opal (Four Tet Remix)",
         "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
@@ -7292,6 +7486,28 @@
       "duration_ms": 328615,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/7wy7MZgOAwkEIHCsyzu5l2"
+    },
+    {
+      "album": {
+        "name": "Parachute (feat. Rachel Chinouriri)",
+        "url": "https://open.spotify.com/album/6TRdgdNykVKxmg4GAoyGfl"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233898,
+      "name": "Parachute (feat. Rachel Chinouriri)",
+      "url": "https://open.spotify.com/track/0BlxpYD81CZucSEvCS11Ed"
     },
     {
       "album": {
@@ -8241,6 +8457,24 @@
     },
     {
       "album": {
+        "name": "Running Out",
+        "url": "https://open.spotify.com/album/0r7banAi5AuwKaugh45Ip4"
+      },
+      "artists": [
+        {
+          "name": "Soho Disco",
+          "url": "https://open.spotify.com/artist/4QUOWaXZAU66Kgr3ynuYUy"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242449,
+      "name": "Running Out",
+      "url": "https://open.spotify.com/track/0nXxu9pnUsI8yt4Ud8xvMv"
+    },
+    {
+      "album": {
         "name": "Samburu",
         "url": "https://open.spotify.com/album/5tbIY5LCwWg4oziblZ3NOy"
       },
@@ -8756,6 +8990,28 @@
       "duration_ms": 198000,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8"
+    },
+    {
+      "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Some Type Of Skin - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7"
     },
     {
       "album": {

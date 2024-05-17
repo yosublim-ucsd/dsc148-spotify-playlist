@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: RAYE",
+  "description": "The best jazz new releases. Cover: Madeleine Peyroux",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 225237,
       "name": "al Fayhaa",
       "url": "https://open.spotify.com/track/70IYWJnc0DiVEibOaw9vCW"
@@ -1334,6 +1334,32 @@
       "duration_ms": 380638,
       "name": "Bones - Philippa Dub",
       "url": "https://open.spotify.com/track/7iymZyW4zxRWaPs7nzAqfe"
+    },
+    {
+      "album": {
+        "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
+        "url": "https://open.spotify.com/album/7onoQMuGPow8Myxwhn23SJ"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        },
+        {
+          "name": "Diego Imbert",
+          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
+      "url": "https://open.spotify.com/track/2WPuBGF8SxUhzWvJrmqkdQ"
     },
     {
       "album": {
@@ -4904,7 +4930,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 258900,
       "name": "Inside and Out",
       "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
@@ -5108,6 +5134,28 @@
       "duration_ms": 365288,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/1ao6KfsCQsl2zn55hTMtpd"
+    },
+    {
+      "album": {
+        "name": "Three Roses",
+        "url": "https://open.spotify.com/album/35AAL1fg3jjtMyBJ2LToUn"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        },
+        {
+          "name": "Ivan Conti",
+          "url": "https://open.spotify.com/artist/2dfKG7aNtsTiPXBkXqQbVa"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236890,
+      "name": "Ivan",
+      "url": "https://open.spotify.com/track/0456iEt4RKO3bmhJbTixcf"
     },
     {
       "album": {
@@ -5748,7 +5796,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 241560,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
@@ -8216,6 +8264,28 @@
       "duration_ms": 330480,
       "name": "Scootin'",
       "url": "https://open.spotify.com/track/0OnwVifjJwOvrPqRKQxdQt"
+    },
+    {
+      "album": {
+        "name": "Secret House",
+        "url": "https://open.spotify.com/album/0aGXNuZWFskg5cHKOU2etG"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "Secret House",
+      "url": "https://open.spotify.com/track/4aVUPEHIzzXsidRgdAf4RW"
     },
     {
       "album": {

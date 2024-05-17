@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,766 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,752 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 17 | [15 de Maio](https://open.spotify.com/track/4Ay7TKLiOJvuavlc5bKeUK) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [15 de Maio](https://open.spotify.com/album/3W4WE8Q0E42A2W3TbeLv9I) | 2:53 |
 | 18 | [Não vá me enganar \- Ao Vivo](https://open.spotify.com/track/6Q3JFwQ0EoAO7gosrWI3na) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 3:07 |
 | 19 | [TunTunTun \- Spotify Singles](https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [TunTunTun \(Spotify Singles\)](https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK) | 3:06 |
-| 20 | [Superei](https://open.spotify.com/track/6y6K1HJL6RFBfQZVuVLX2j) | [Ju Diniz](https://open.spotify.com/artist/1NCCYvPcHYeEDvW3a64Ahr) | [Superei](https://open.spotify.com/album/6Hc0N92CsNB1B4M7lv7zla) | 3:25 |
+| 20 | [Superei \- Ao Vivo](https://open.spotify.com/track/6y6K1HJL6RFBfQZVuVLX2j) | [Ju Diniz](https://open.spotify.com/artist/1NCCYvPcHYeEDvW3a64Ahr) | [Superei \(Ao Vivo\)](https://open.spotify.com/album/6Hc0N92CsNB1B4M7lv7zla) | 3:25 |
 | 21 | [Coisas do Amor \- Ao Vivo](https://open.spotify.com/track/6qITMbvJsUCRbSplE6Ca9B) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [TDP20 \- Nossa História \(Ao Vivo\)](https://open.spotify.com/album/5jy0SRd09cU87HeQgJ9BAQ) | 3:39 |
 | 22 | [Definitivo \- Ao Vivo](https://open.spotify.com/track/1Y5jGRo67zdNG5tk5uU0zq) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Da Rocinha pro Mundo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5gZoVKsxlJH0lxlE2tRs7v) | 3:09 |
 | 23 | [Esquece \- Ao Vivo](https://open.spotify.com/track/204tFpQgg6o80ljThVOfCv) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [DVD Fases Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/1xyir17L6OpZDZzOJAVuwy) | 2:50 |

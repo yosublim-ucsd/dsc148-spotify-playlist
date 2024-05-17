@@ -5804,7 +5804,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 193333,
       "name": "Escape",
       "url": "https://open.spotify.com/track/3f50wWrt5z4Jl6mTNffb9p"
@@ -7530,6 +7530,32 @@
       "duration_ms": 322000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1SIJCvshI9ZRrj1mgLooHM"
+    },
+    {
+      "album": {
+        "name": "Pan African Rockstar (The Pack Remixes)",
+        "url": "https://open.spotify.com/album/57SAIfLFbtKfdPKLhxNgvJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        },
+        {
+          "name": "F\u0101\u00ebM",
+          "url": "https://open.spotify.com/artist/1PIhIFbh6DT2McaR3DBy0u"
+        },
+        {
+          "name": "Martinses",
+          "url": "https://open.spotify.com/artist/3OcLXqt9ch5xD04w3ptF9V"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Hello Lady",
+      "url": "https://open.spotify.com/track/44QAZc6eUUwZKfYu3QB6Kk"
     },
     {
       "album": {
@@ -9430,7 +9456,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 333877,
       "name": "iNumber Number",
       "url": "https://open.spotify.com/track/7wcy1BbA5JtRyV3wleeNIX"
@@ -14572,7 +14598,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
@@ -14960,7 +14986,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 179517,
       "name": "Parapanda - Andrew Naklab Remix",
       "url": "https://open.spotify.com/track/5UK9AU6CcE2lQgVRIgZ80b"
@@ -16301,6 +16327,32 @@
     },
     {
       "album": {
+        "name": "Sandcastle (Remixes)",
+        "url": "https://open.spotify.com/album/0OMsO7ck4mM05y1joUjI4k"
+      },
+      "artists": [
+        {
+          "name": "Sir LSG",
+          "url": "https://open.spotify.com/artist/2Uy7rPXDCqkd90ksG3sgt0"
+        },
+        {
+          "name": "Ayanda Jiya",
+          "url": "https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl"
+        },
+        {
+          "name": "The Bless",
+          "url": "https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262564,
+      "name": "Sandcastle - Sir LSG & The Bless Radio Edit",
+      "url": "https://open.spotify.com/track/7wkPyS0jyJUEqxuxfuppFh"
+    },
+    {
+      "album": {
         "name": "Sari Manuwe (Afriindi & Dr Feel Remixes)",
         "url": "https://open.spotify.com/album/3SW9QtTh6oiY4RvXoJGYzp"
       },
@@ -16500,6 +16552,32 @@
       "duration_ms": 276532,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/4z330NUfUTl4v67WZN1JPx"
+    },
+    {
+      "album": {
+        "name": "Say Yes (feat. Rona Ray) [Jimpster Remix]",
+        "url": "https://open.spotify.com/album/0bK7ineznnkxK4cEKEohbt"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        },
+        {
+          "name": "Jimpster",
+          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243934,
+      "name": "Say Yes (feat. Rona Ray) - Jimpster Remix",
+      "url": "https://open.spotify.com/track/468OCUl2AS0D9dfFMYICLK"
     },
     {
       "album": {
@@ -20775,6 +20853,36 @@
     },
     {
       "album": {
+        "name": "Umqhumo Wethu",
+        "url": "https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        },
+        {
+          "name": "The Ascension",
+          "url": "https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF"
+        },
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325176,
+      "name": "uZosala",
+      "url": "https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf"
+    },
+    {
+      "album": {
         "name": "Vaudzeyi Vanamate",
         "url": "https://open.spotify.com/album/27Zl6RHfLP9hDmzpEkZUVN"
       },
@@ -21352,7 +21460,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
@@ -21730,6 +21838,28 @@
       "duration_ms": 177000,
       "name": "Winyo Nungo",
       "url": "https://open.spotify.com/track/0EUOQmN7T9RdEBSAycGKPf"
+    },
+    {
+      "album": {
+        "name": "Within Me",
+        "url": "https://open.spotify.com/album/1JekMRrpYZUdqHypLHcMxj"
+      },
+      "artists": [
+        {
+          "name": "TAPIWA",
+          "url": "https://open.spotify.com/artist/18fxzBELWLV9RCCOqqjyEd"
+        },
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235530,
+      "name": "Within Me",
+      "url": "https://open.spotify.com/track/7DtWK3lSms04714HDzUm9n"
     },
     {
       "album": {

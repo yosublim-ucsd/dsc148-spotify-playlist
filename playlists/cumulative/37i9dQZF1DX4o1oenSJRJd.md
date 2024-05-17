@@ -2,7 +2,7 @@
 
 ### [All Out 2000s](https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd)
 
-> The biggest songs of the 2000s\. Cover: Kelly Clarkson
+> The biggest songs of the 2000s\. Cover: Amy Winehouse
 
 664 songs - 1 day 19 hr 39 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,516 likes - 73 songs - 3 hr 37 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,514 likes - 74 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 71 | [Make Some Noise](https://open.spotify.com/track/3rsXPMYxQ7vl1XCcrZlzAC) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Chris Nasty](https://open.spotify.com/artist/1rGakp9mQfKaLjN7mT9ohd), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Make Some Noise](https://open.spotify.com/album/3mqinTVMorAEwc9TiyI6DH) | 2:58 |
 | 72 | [Loneliness](https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS) | 2:43 |
 | 73 | [Sleep When I'm Dead](https://open.spotify.com/track/7jfDt0UHiWpD5TJA8yiA7Q) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Sleep When I'm Dead](https://open.spotify.com/album/7I577n54Z2sUrjsXousEIY) | 2:40 |
+| 74 | [Cheri Cheri Lady \- Tech House Version](https://open.spotify.com/track/1Du5QYYZ9yjxmtG13wYKoB) | [Wamo](https://open.spotify.com/artist/2aVcWpmF6DBOMBguB1fwFZ), [Elemer](https://open.spotify.com/artist/7KuO3mvpWbSf7o7iR8fvOn) | [Cheri Cheri Lady \(Tech House Version\)](https://open.spotify.com/album/0CKaqrOZnbV40SmsZDimtl) | 2:29 |
 
-Snapshot ID: `AAAJbTJKJXISx8+aEFmt0pY7ZPSTVbPb`
+Snapshot ID: `AAAJbi+VZ53f8/HJ3XmCdZluz/23vBgK`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: FLEMMING",
+  "description": "De nieuwste Nederlandse pop! Cover: Claude",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 153882,
       "name": "1 Minuut",
       "url": "https://open.spotify.com/track/1p1BuKbmgTCQ87dB7Jcqfi"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 190043,
       "name": "Een Beatle & Een Stone",
       "url": "https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu"
@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 156386,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/0ChKnEMUsi8rZts7tGzUi8"
@@ -4506,6 +4506,24 @@
     {
       "album": {
         "name": "Hou Me Vast",
+        "url": "https://open.spotify.com/album/0w8klfvc6lom4df8jcLHj9"
+      },
+      "artists": [
+        {
+          "name": "ROI",
+          "url": "https://open.spotify.com/artist/2RvGx3eWrv0Yiq6nJQNXwA"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151149,
+      "name": "Hou Me Vast",
+      "url": "https://open.spotify.com/track/1lpHDQdfTxoljwnMLTadLl"
+    },
+    {
+      "album": {
+        "name": "Hou Me Vast",
         "url": "https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj"
       },
       "artists": [
@@ -4582,6 +4600,24 @@
       "duration_ms": 158400,
       "name": "Houden Van Mij",
       "url": "https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS"
+    },
+    {
+      "album": {
+        "name": "Huil Maar Niet Om Mij",
+        "url": "https://open.spotify.com/album/17myds3ynEuOM29OFacYpD"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147226,
+      "name": "Huil Maar Niet Om Mij",
+      "url": "https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa"
     },
     {
       "album": {
@@ -5521,6 +5557,24 @@
     },
     {
       "album": {
+        "name": "Kus Me",
+        "url": "https://open.spotify.com/album/3RVP2qGanzthIYNUMSW14O"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207365,
+      "name": "Kus Me",
+      "url": "https://open.spotify.com/track/3vcxViXJi2yQEliHiyKnQ3"
+    },
+    {
+      "album": {
         "name": "Noodzakelijk Verdriet",
         "url": "https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o"
       },
@@ -6107,6 +6161,28 @@
     },
     {
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/0PLOKaa16HSmG8xjuaoumw"
+      },
+      "artists": [
+        {
+          "name": "Cheryl \u00d6zt\u00fcrk",
+          "url": "https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9"
+        },
+        {
+          "name": "Sluwe Ollie",
+          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/7iVTRKxQYlZheRkU2kLsT9"
+    },
+    {
+      "album": {
         "name": "Mama Dankjewel",
         "url": "https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC"
       },
@@ -6118,7 +6194,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 170306,
       "name": "Mama Dankjewel",
       "url": "https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK"
@@ -7205,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "Liefde Voor Muziek 2024",
+        "url": "https://open.spotify.com/album/3AzchNozJtlNQJSGVHtmwT"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212920,
+      "name": "Onder De Sterren - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/3DOb5CSeDxW001CL8OY6B5"
+    },
+    {
+      "album": {
         "name": "Onder Invloed",
         "url": "https://open.spotify.com/album/3qtu1t30eeSgoA0cgBTteg"
       },
@@ -7473,6 +7567,24 @@
     },
     {
       "album": {
+        "name": "Parler Fran\u00e7ais",
+        "url": "https://open.spotify.com/album/0HpUDKGmUBuvEA3AyaMqRh"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "Parler Fran\u00e7ais",
+      "url": "https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z"
+    },
+    {
+      "album": {
         "name": "Pas Nu Ik Ons Ken",
         "url": "https://open.spotify.com/album/3NOQNnOJcm9Sg1klAGbBNI"
       },
@@ -7502,7 +7614,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 173031,
       "name": "Patronen",
       "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
@@ -8109,6 +8221,24 @@
     },
     {
       "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/5j1V29MfouuZsRNMPhTzyY"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231894,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/1hG3BvlHR6qaCzq2m7CPHH"
+    },
+    {
+      "album": {
         "name": "Sexy",
         "url": "https://open.spotify.com/album/6F47aUJVE7SBwQ4KDJaOek"
       },
@@ -8358,7 +8488,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 163018,
       "name": "Spijt",
       "url": "https://open.spotify.com/track/7d3nTgaCcWmvFVt8AhGAJO"
@@ -8680,7 +8810,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 205520,
       "name": "Stukje Van Mij",
       "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
@@ -9536,7 +9666,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 160974,
       "name": "Verpest",
       "url": "https://open.spotify.com/track/4OXQsETHvL01dQfx3mpCpo"
@@ -9554,7 +9684,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 162984,
       "name": "Verrader",
       "url": "https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq"
@@ -9876,7 +10006,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 186671,
       "name": "Voor Wat Je Lief Is",
       "url": "https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz"
@@ -9960,6 +10090,24 @@
       "duration_ms": 174000,
       "name": "Waar Ben Je Bang Voor",
       "url": "https://open.spotify.com/track/1N2qmVOdqt66SP0CT968G7"
+    },
+    {
+      "album": {
+        "name": "Tegendraads",
+        "url": "https://open.spotify.com/album/7k2fnz81WU5IPPNqkqNORj"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "Waar Ben Jij",
+      "url": "https://open.spotify.com/track/2oybR9LRXJ0ixXpNgNRXde"
     },
     {
       "album": {
@@ -10477,6 +10625,24 @@
     },
     {
       "album": {
+        "name": "Winnaar Van De Tijd",
+        "url": "https://open.spotify.com/album/13D8OBwzsJyCycsdey7mf8"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149417,
+      "name": "Winnaar Van De Tijd",
+      "url": "https://open.spotify.com/track/7HZ1jlkGv2Y4qL975pHmfl"
+    },
+    {
+      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ"
       },
@@ -10896,6 +11062,24 @@
       "duration_ms": 149045,
       "name": "Zoveel Mooie Dagen",
       "url": "https://open.spotify.com/track/1M6fiGx0cHpGLG08fibQdr"
+    },
+    {
+      "album": {
+        "name": "Zo\u00eb",
+        "url": "https://open.spotify.com/album/0up49ciVSJUKXsjtjaghOH"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5Gj8NmnSAo6ZuGum96pzrB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119260,
+      "name": "Zo\u00eb",
+      "url": "https://open.spotify.com/track/59gGsyejFwRWsjRywD0iCp"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
-  "num_followers": 893722,
+  "num_followers": 893819,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "This Is Our God",
-        "url": "https://open.spotify.com/album/1AOGcBpy6CxShBK8Pu3wB5"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 265653,
-      "name": "This Is Our God",
-      "url": "https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
         "name": "Heart Cry",
         "url": "https://open.spotify.com/album/29KBqH474Kpmrfc6cCtzWF"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 416946,
       "name": "Monday Morning Faith",
       "url": "https://open.spotify.com/track/7qMRmcVM1ki7z6YgiPmXrU"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
+        "name": "This Is Our God",
+        "url": "https://open.spotify.com/album/1AOGcBpy6CxShBK8Pu3wB5"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 265653,
+      "name": "This Is Our God",
+      "url": "https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/5l2mPzW2yGGsQNmYZiUaoB"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 330516,
+      "name": "There's No Way - Live",
+      "url": "https://open.spotify.com/track/4W1VnLhislRPhU7vOsyytP"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
         "name": "Why Not Right Now? (Live)",
         "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 239962,
       "name": "Let The People Sing - Live",
       "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/5l2mPzW2yGGsQNmYZiUaoB"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 330516,
-      "name": "There's No Way - Live",
-      "url": "https://open.spotify.com/track/4W1VnLhislRPhU7vOsyytP"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "Gratitude (Live)",
-        "url": "https://open.spotify.com/album/1XYyOfq5HZn39IgNYmv9yP"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Lauren Lee",
-          "url": "https://open.spotify.com/artist/77DFeBv5fvmZXGCfSd7DWI"
-        }
-      ],
-      "duration_ms": 339615,
-      "name": "Gratitude - Live",
-      "url": "https://open.spotify.com/track/4462xbcu0evh26vPuOEKaa"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
         "name": "Thanks",
         "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 455294,
       "name": "Tend - Live",
       "url": "https://open.spotify.com/track/6OilLftko3AbJBzedstJOA"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
+        "name": "Gratitude (Live)",
+        "url": "https://open.spotify.com/album/1XYyOfq5HZn39IgNYmv9yP"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Lee",
+          "url": "https://open.spotify.com/artist/77DFeBv5fvmZXGCfSd7DWI"
+        }
+      ],
+      "duration_ms": 339615,
+      "name": "Gratitude - Live",
+      "url": "https://open.spotify.com/track/4462xbcu0evh26vPuOEKaa"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 251612,
-      "name": "King of Calvary - Live",
-      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
         "name": "Moments: 011 (Live)",
         "url": "https://open.spotify.com/album/63Fa54QgiqrrEuPFbKqkVC"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 696887,
       "name": "This Is My Shepherd - Live",
       "url": "https://open.spotify.com/track/1PTVHxjA9dsK0z4O2XXwTl"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "King of Calvary - Live",
+      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -1487,22 +1487,30 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "Pour Over Me (Live)",
-        "url": "https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW"
+        "name": "Heavenly Party (Live)",
+        "url": "https://open.spotify.com/album/3VdTs3fkdDMQQyviAwNffZ"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+          "name": "P&W",
+          "url": "https://open.spotify.com/artist/6s0mYfHQjI3oWTWL5aChcU"
         },
         {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+          "name": "Kate Gurren",
+          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        },
+        {
+          "name": "Kieran De La Harpe",
+          "url": "https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl"
         }
       ],
-      "duration_ms": 598000,
-      "name": "Pour Over Me - Live",
-      "url": "https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW"
+      "duration_ms": 364759,
+      "name": "Heavenly Party - Live",
+      "url": "https://open.spotify.com/track/0ZC7Lnq622CEYqE2F6C0I0"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -1519,6 +1527,26 @@
       "duration_ms": 316400,
       "name": "Show Me Your Glory - Live At Chapel",
       "url": "https://open.spotify.com/track/3mYBDgjbviEZQDl3KQpJF8"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
+        "name": "Pour Over Me (Live)",
+        "url": "https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 598000,
+      "name": "Pour Over Me - Live",
+      "url": "https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -1659,6 +1687,22 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
+        "name": "Every Time (Live)",
+        "url": "https://open.spotify.com/album/2l64p1PXLCa9e52kdovW6H"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 457952,
+      "name": "Every Time - Live",
+      "url": "https://open.spotify.com/track/5a6ISwzMRWzCx3lrl0BpZD"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
         "name": "This Is How We Know What Love Is",
         "url": "https://open.spotify.com/album/0Oy6Fd3YTLFPmWrvfPr9GG"
       },
@@ -1675,50 +1719,6 @@
       "duration_ms": 227080,
       "name": "This Is How We Know What Love Is",
       "url": "https://open.spotify.com/track/7Ang7ZFjMao4Xkiyl2M73v"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
-        "name": "Heavenly Party (Live)",
-        "url": "https://open.spotify.com/album/3VdTs3fkdDMQQyviAwNffZ"
-      },
-      "artists": [
-        {
-          "name": "P&W",
-          "url": "https://open.spotify.com/artist/6s0mYfHQjI3oWTWL5aChcU"
-        },
-        {
-          "name": "Kate Gurren",
-          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
-        },
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        },
-        {
-          "name": "Kieran De La Harpe",
-          "url": "https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl"
-        }
-      ],
-      "duration_ms": 364759,
-      "name": "Heavenly Party - Live",
-      "url": "https://open.spotify.com/track/0ZC7Lnq622CEYqE2F6C0I0"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
-        "name": "Every Time (Live)",
-        "url": "https://open.spotify.com/album/2l64p1PXLCa9e52kdovW6H"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 457952,
-      "name": "Every Time - Live",
-      "url": "https://open.spotify.com/track/5a6ISwzMRWzCx3lrl0BpZD"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 338900,
-      "name": "Good Things - (Live) [Acoustic]",
-      "url": "https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
         "name": "Living Breathing Miracle (Live)",
         "url": "https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 385574,
       "name": "Remain - Live",
       "url": "https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 338900,
+      "name": "Good Things - (Live) [Acoustic]",
+      "url": "https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R"
     },
     {
       "added_at": "2024-05-10 04:41:59",

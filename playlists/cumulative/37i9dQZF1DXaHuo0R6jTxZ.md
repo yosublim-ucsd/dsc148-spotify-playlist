@@ -2,7 +2,7 @@
 
 ### [90s Arabic Hits](https://open.spotify.com/playlist/37i9dQZF1DXaHuo0R6jTxZ)
 
-> Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
+> The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
 75 songs - 5 hr 59 min
 

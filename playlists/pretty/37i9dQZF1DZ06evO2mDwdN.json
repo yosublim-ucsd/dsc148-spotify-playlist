@@ -1,12 +1,12 @@
 {
-  "description": "This is Harold Melvin & The Blue Notes. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
   "num_followers": 12359,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAChDTwJgakalUV+yUGz1gXj",
+  "snapshot_id": "ZkP7AAAAAADILSxs6hGYHOlxUWXamFOi",
   "tracks": [
     {
       "added_at": null,
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 210186,
-      "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
+      "duration_ms": 213853,
+      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
+      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
     },
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 221506,
-      "name": "Keep On Loving You",
-      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
+      "duration_ms": 210186,
+      "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
     },
     {
       "added_at": null,
@@ -287,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+        "name": "I Really Love You",
+        "url": "https://open.spotify.com/album/1MuztCzUVFAEVPbirCI8dT"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 412106,
-      "name": "I'm Weak for You (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5wEMmtXZqeURq0OcTrsTlE"
+      "duration_ms": 322146,
+      "name": "I Really Love You",
+      "url": "https://open.spotify.com/track/4nr9biIV72ZDo4fWJADCBM"
     },
     {
       "added_at": null,
@@ -327,6 +327,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Keep On Loving You",
+      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "Tell the World How I Feel About 'Cha Baby (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -347,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
       "artists": [
         {
@@ -360,9 +396,49 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 308333,
-      "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"
+      "duration_ms": 326853,
+      "name": "It's All Because of a Woman (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/0xhrVgS6P9jXvi38FiTWFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 412106,
+      "name": "I'm Weak for You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5wEMmtXZqeURq0OcTrsTlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 322226,
+      "name": "I'm Searching for a Love (feat. Sharon Paige)",
+      "url": "https://open.spotify.com/track/2HOiASEeCWnXn63B8mazDm"
     },
     {
       "added_at": null,
@@ -396,9 +472,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 326853,
-      "name": "It's All Because of a Woman (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/0xhrVgS6P9jXvi38FiTWFq"
+      "duration_ms": 293826,
+      "name": "Somewhere Down the Line (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4ghUVSwZNOBmdaU587E60G"
     },
     {
       "added_at": null,
@@ -423,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "Tell the World How I Feel About 'Cha Baby (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -463,26 +519,6 @@
       "duration_ms": 218554,
       "name": "Cry Together - Live",
       "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Somewhere Down the Line (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4ghUVSwZNOBmdaU587E60G"
     },
     {
       "added_at": null,
@@ -659,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
+        "url": "https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cooler Than Ice: Arctic Records and the Rise of Philly Soul",
         "url": "https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv"
       },
@@ -671,26 +723,6 @@
       "duration_ms": 182693,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pray Before You Start Your Day (Inspirational Mixes)",
-        "url": "https://open.spotify.com/album/1VkwyoBGUQCaXaIwrA3f7m"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Izaiah James",
-          "url": "https://open.spotify.com/artist/4wZUGoay4DsAjuNtHlpGfG"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Pray Before You Start Your Day - Inspirational Mix 1",
-      "url": "https://open.spotify.com/track/5ZOsNAgB6aY2b3Wj1QMNuB"
     },
     {
       "added_at": null,
@@ -735,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pray Before You Start Your Day (Inspirational Mixes)",
+        "url": "https://open.spotify.com/album/1VkwyoBGUQCaXaIwrA3f7m"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Izaiah James",
+          "url": "https://open.spotify.com/artist/4wZUGoay4DsAjuNtHlpGfG"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Pray Before You Start Your Day - Inspirational Mix 1",
+      "url": "https://open.spotify.com/track/5ZOsNAgB6aY2b3Wj1QMNuB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Too Hot to Handle",
         "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
       },
@@ -747,22 +799,6 @@
       "duration_ms": 147813,
       "name": "The Retribution Blues",
       "url": "https://open.spotify.com/track/02OKedr8l69kXLmhJDllTr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harold Melvin & The Blue Notes",
-        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Could It Be I'm Falling in Love (Rerecorded)",
-      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
     },
     {
       "added_at": null,
@@ -823,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 290613,
-      "name": "It All Depends On You (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/3Hy8XnWjOEl4bjFmigA1Fr"
+      "duration_ms": 326333,
+      "name": "Introduction / The Love I Lost - Live",
+      "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
     },
     {
       "added_at": null,
@@ -867,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 302642,
-      "name": "Love Train - Live",
-      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Hot to Handle",
         "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
       },
@@ -907,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Love Songs",
-        "url": "https://open.spotify.com/album/6B1HPZ1E0Cc9fLUUaDeuFA"
+        "name": "Don't Give Me Up",
+        "url": "https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR"
       },
       "artists": [
         {
@@ -916,9 +924,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 263360,
-      "name": "This Is The Love",
-      "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
+      "duration_ms": 398453,
+      "name": "Don't Give Me Up - M & M 12\" Mix",
+      "url": "https://open.spotify.com/track/4tBRV1dhprHCwYo6Uy3z2j"
     },
     {
       "added_at": null,
@@ -955,22 +963,6 @@
       "duration_ms": 213173,
       "name": "What Can A Man Do",
       "url": "https://open.spotify.com/track/3CHoatkZzRYeCmrelOa1SG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Hot to Handle",
-        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 127360,
-      "name": "Wagon Wheels",
-      "url": "https://open.spotify.com/track/72KmrZAwfWaonHxdj3lu4M"
     }
   ],
   "unique_name": "This Is Harold Melvin & The Blue Notes",

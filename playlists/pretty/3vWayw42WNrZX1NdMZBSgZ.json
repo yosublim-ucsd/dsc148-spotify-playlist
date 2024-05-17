@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Misi\u00f3n Imposible,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Camilo",
-  "num_followers": 53834,
+  "num_followers": 53831,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAARYp+l5rckUL9VxpkVng6wM3eo4n5B",
+  "snapshot_id": "AAARY8z31Uig2V5DeZZHUOK2uYKhjvMM",
   "tracks": [
     {
       "added_at": "2024-05-09 00:11:32",
@@ -123,6 +123,26 @@
       "duration_ms": 271333,
       "name": "Eres",
       "url": "https://open.spotify.com/track/5LOQ20KYRzR10z9TLmtIe5"
+    },
+    {
+      "added_at": "2024-05-17 01:26:29",
+      "album": {
+        "name": "Coraz\u00f3n en Coma",
+        "url": "https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 172100,
+      "name": "Coraz\u00f3n en Coma",
+      "url": "https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ"
     },
     {
       "added_at": "2024-05-09 00:14:25",

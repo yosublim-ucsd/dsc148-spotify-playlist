@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: I. JORDAN // Photo: Kairo Urovi\n\n\n\n\n",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Peggy Gou",
   "name": "Altar JP",
   "tracks": [
     {
@@ -702,7 +702,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 274046,
       "name": "Aperleye",
       "url": "https://open.spotify.com/track/03fbr5KYWTq1MXwwLrMJpd"
@@ -1036,6 +1036,28 @@
       "duration_ms": 422249,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1cetCDd0tE6OoaHa4GhyBx"
+    },
+    {
+      "album": {
+        "name": "Bella (Yess Remix)",
+        "url": "https://open.spotify.com/album/61wa8gsQRTcZ1CqQ8WeqA3"
+      },
+      "artists": [
+        {
+          "name": "EDWARD(\u6211)",
+          "url": "https://open.spotify.com/artist/7tlATmu4HQx6OYIBpCgwyh"
+        },
+        {
+          "name": "Yess",
+          "url": "https://open.spotify.com/artist/2NMw711wBhPg9fuxYpPLwq"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "Bella - Yess Remix",
+      "url": "https://open.spotify.com/track/6LnXxhvZ0ySQLpnAowIVeE"
     },
     {
       "album": {
@@ -2698,7 +2720,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 259354,
       "name": "DEVOTION - Mansionair Remix",
       "url": "https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB"
@@ -5327,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/0AoooHl4HQipVjQhJaZjA5"
+      },
+      "artists": [
+        {
+          "name": "MGRAW",
+          "url": "https://open.spotify.com/artist/0B0q2BqV8MM3GKC3MSc7Ze"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220007,
+      "name": "Hide & Seek - Radio Mix",
+      "url": "https://open.spotify.com/track/58l8zvfOGXK6hcK4BfOSmQ"
+    },
+    {
+      "album": {
         "name": "One More City",
         "url": "https://open.spotify.com/album/36B9hGfl53tY0tXhpAnzA5"
       },
@@ -7105,6 +7145,24 @@
     },
     {
       "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "album": {
         "name": "Locked To Heaven",
         "url": "https://open.spotify.com/album/2oiY7AQMzAR6W6vwHS7nrp"
       },
@@ -7590,7 +7648,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 224204,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV"
@@ -8170,7 +8228,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 346030,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2"
@@ -9937,6 +9995,24 @@
     },
     {
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229945,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ"
+    },
+    {
+      "album": {
         "name": "RIGHT TRACK (voquote VIP REMIX)",
         "url": "https://open.spotify.com/album/6zeYY3Rb8bn1SEuTNR6zbT"
       },
@@ -10594,7 +10670,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 181240,
       "name": "She's On My Mind",
       "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
@@ -12439,6 +12515,24 @@
     },
     {
       "album": {
+        "name": "tongue",
+        "url": "https://open.spotify.com/album/6OVEaQkPAz2krHyz2G7nK0"
+      },
+      "artists": [
+        {
+          "name": "ID",
+          "url": "https://open.spotify.com/artist/6w5bXGgWBZmZ06TrNDykFj"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325877,
+      "name": "tongue",
+      "url": "https://open.spotify.com/track/49oJ4kxZLNPOFn34N8pmUb"
+    },
+    {
+      "album": {
         "name": "Tongue",
         "url": "https://open.spotify.com/album/7KAszjpHBD8Y3ddwv2wsek"
       },
@@ -12840,7 +12934,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 288837,
       "name": "UFO-mie feat.The Hair Kid- Guchon Remix",
       "url": "https://open.spotify.com/track/674UiTojsFSIjXTvQwgnd1"

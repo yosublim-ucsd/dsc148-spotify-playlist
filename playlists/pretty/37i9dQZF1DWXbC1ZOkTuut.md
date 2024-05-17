@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Joss Favela
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,234 likes - 118 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,246 likes - 118 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

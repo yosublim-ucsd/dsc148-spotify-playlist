@@ -1,6 +1,6 @@
 {
   "description": "A playlist oficial do Carona Podpah, Original Spotify com o <a href=\"spotify:show:1GLSDdk9CDEwziGNIlnb8a\">Podpah</a>",
-  "num_followers": 8874,
+  "num_followers": 8872,
   "original_name": "Carona Podpah com m\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -486,6 +486,10 @@
         {
           "name": "POLLO",
           "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
+        },
+        {
+          "name": "Ivo Mozart",
+          "url": "https://open.spotify.com/artist/4yTuL3DV58ipi2dn3up6ny"
         }
       ],
       "duration_ms": 170766,

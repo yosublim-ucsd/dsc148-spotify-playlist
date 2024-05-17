@@ -1143,6 +1143,32 @@
     },
     {
       "album": {
+        "name": "Heeramandi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "A M Turaz",
+          "url": "https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243792,
+      "name": "Chaudhavi Shab",
+      "url": "https://open.spotify.com/track/7p87RATknowYjH1siFCC3P"
+    },
+    {
+      "album": {
         "name": "Chhor Denge",
         "url": "https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9"
       },
@@ -6086,7 +6112,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 171473,
       "name": "Saajan Ve",
       "url": "https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0"
@@ -6274,6 +6300,32 @@
       "duration_ms": 170044,
       "name": "Sajni (From \"Laapataa Ladies\")",
       "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
+    },
+    {
+      "album": {
+        "name": "Heeramandi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Raja Hasan",
+          "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
+        },
+        {
+          "name": "Amir Khusro",
+          "url": "https://open.spotify.com/artist/7075Swy0Th9uQZK3FQPMuk"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150131,
+      "name": "Sakal Ban",
+      "url": "https://open.spotify.com/track/0AQ5edVRkFOcg2abiaGYtO"
     },
     {
       "album": {
@@ -7372,7 +7424,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"

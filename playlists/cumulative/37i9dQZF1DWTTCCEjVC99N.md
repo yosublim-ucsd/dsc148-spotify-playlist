@@ -2,7 +2,7 @@
 
 ### [00s Arabic Hits](https://open.spotify.com/playlist/37i9dQZF1DWTTCCEjVC99N)
 
-> Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
+> The biggest Arabic songs in the 2000's\. Cover: Nancy Ajram
 
 179 songs - 14 hr 2 min
 

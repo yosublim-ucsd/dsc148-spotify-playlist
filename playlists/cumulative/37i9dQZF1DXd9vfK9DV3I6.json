@@ -534,7 +534,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 312125,
       "name": "Arabian Soul",
       "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
@@ -2148,6 +2148,32 @@
       "duration_ms": 432786,
       "name": "Giza",
       "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
+    },
+    {
+      "album": {
+        "name": "Hajaruni (Suray Remix)",
+        "url": "https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Suray",
+          "url": "https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn"
+        },
+        {
+          "name": "Hossam wahab",
+          "url": "https://open.spotify.com/artist/57XN19Qw07kzvBN9sHQq8C"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331530,
+      "name": "Hajaruni (Suray Remix)",
+      "url": "https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 87620,
+  "num_followers": 87675,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "El rock de la c\u00e1rcel (Remastered)",
-        "url": "https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzm\u00e1n & Teen Tops",
-          "url": "https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD"
-        }
-      ],
-      "duration_ms": 141635,
-      "name": "Bule bule - Remastered",
-      "url": "https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "La Onda Juvenil 25 Aniversario",
         "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 198520,
       "name": "Es Lupe (Hang on Sloopy)",
       "url": "https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "El rock de la c\u00e1rcel (Remastered)",
+        "url": "https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzm\u00e1n & Teen Tops",
+          "url": "https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD"
+        }
+      ],
+      "duration_ms": 141635,
+      "name": "Bule bule - Remastered",
+      "url": "https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT"
     },
     {
       "added_at": "2020-04-17 21:51:59",

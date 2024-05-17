@@ -2297,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/26XfVMxBavGaeQXzEA6Xu9"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146320,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/4VX9BbRWlXlaB0J6DRpzOo"
+    },
+    {
+      "album": {
         "name": "Portrait of the P",
         "url": "https://open.spotify.com/album/4atz7LmnhYnWHIOUDiOXde"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=HCVYTrC6SRi08zH0Co-EpA\">Appel</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=RH_VK2OfT8KLNPkaZlukuA\">Bernice West</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Net Dans",
+        "url": "https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228473,
+      "name": "Net Dans",
+      "url": "https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD"
+    },
+    {
+      "album": {
         "name": "Net Een Keer",
         "url": "https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M"
       },
@@ -3486,7 +3504,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 185276,
       "name": "Teiken",
       "url": "https://open.spotify.com/track/4L4BUQvSfWorVJApet8mYa"

@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "2 steg fram 1 steg tillbaka",
+        "url": "https://open.spotify.com/album/4zzp7A1yH6zMvm1hIl46mO"
+      },
+      "artists": [
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        },
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148875,
+      "name": "2 steg fram 1 steg tillbaka",
+      "url": "https://open.spotify.com/track/1MuVJkosvnmqbmKIncccgv"
+    },
+    {
+      "album": {
         "name": "2010",
         "url": "https://open.spotify.com/album/6MIuZmdka8h6vy84CcItzN"
       },
@@ -4108,7 +4130,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 158834,
       "name": "DUCKA POPO I VOLVO",
       "url": "https://open.spotify.com/track/0RHTTfjCS4JP1lVDsTJPrR"
@@ -5277,6 +5299,28 @@
     },
     {
       "album": {
+        "name": "ETT SLAG I HUVET",
+        "url": "https://open.spotify.com/album/0znTEE9qO1HMbST1rtnlxm"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "MADNEZZ",
+          "url": "https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123096,
+      "name": "ETT SLAG I HUVET",
+      "url": "https://open.spotify.com/track/392lPETFLti5p3L1t365vv"
+    },
+    {
+      "album": {
         "name": "Eva-Lena (Remix)",
         "url": "https://open.spotify.com/album/4zOyj7UzaharbKdsODMW83"
       },
@@ -5949,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "FEST I UME\u00c5",
+        "url": "https://open.spotify.com/album/1lK07McadheE51a0334vOr"
+      },
+      "artists": [
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152254,
+      "name": "FEST I UME\u00c5",
+      "url": "https://open.spotify.com/track/3nLd9rmS291m921Ry86KPC"
+    },
+    {
+      "album": {
         "name": "FESTA HELA NATTEN",
         "url": "https://open.spotify.com/album/1qvXnN3JXgF5xtEmLZHZ2T"
       },
@@ -6547,6 +6609,24 @@
     },
     {
       "album": {
+        "name": "FRUGAN",
+        "url": "https://open.spotify.com/album/20i27WKZ6qXpx3u1o2McgD"
+      },
+      "artists": [
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145687,
+      "name": "FRUGAN",
+      "url": "https://open.spotify.com/track/6Ff87zNfv5DI35GNZor6cL"
+    },
+    {
+      "album": {
         "name": "Fr\u00f6ken Kosken",
         "url": "https://open.spotify.com/album/1V6ZP4rzEYoP8ts5R38lbN"
       },
@@ -7025,6 +7105,32 @@
     },
     {
       "album": {
+        "name": "FULLT \u00d6S ARBETSL\u00d6S",
+        "url": "https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        },
+        {
+          "name": "Banditerna",
+          "url": "https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150384,
+      "name": "FULLT \u00d6S ARBETSL\u00d6S",
+      "url": "https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz"
+    },
+    {
+      "album": {
         "name": "FULLT \u00d6S MEDVETSL\u00d6S",
         "url": "https://open.spotify.com/album/4R6HAyNgbmFASNlRNaQvQx"
       },
@@ -7040,7 +7146,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 126909,
       "name": "FULLT \u00d6S MEDVETSL\u00d6S",
       "url": "https://open.spotify.com/track/2aRJL6oQqkiesnJOGNtoJF"
@@ -8458,7 +8564,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 147428,
       "name": "Hand i hand",
       "url": "https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM"
@@ -10418,7 +10524,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 145124,
       "name": "INKASSO",
       "url": "https://open.spotify.com/track/4U7lSJZBfQcbERhChyNxxy"
@@ -10672,6 +10778,24 @@
       "duration_ms": 117589,
       "name": "JAG T\u00c5L INTE ET NEI",
       "url": "https://open.spotify.com/track/1T3Amb9ELrHxGoo4U5BYce"
+    },
+    {
+      "album": {
+        "name": "JAG VET DU VILL HA MIG",
+        "url": "https://open.spotify.com/album/6r7ReFUuzNj386qLniElZt"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "JAG VET DU VILL HA MIG",
+      "url": "https://open.spotify.com/track/7c39b3xRQ2Gu1Ty1wcx2PO"
     },
     {
       "album": {
@@ -11406,6 +11530,24 @@
       "duration_ms": 197468,
       "name": "Kung f\u00f6r en dag",
       "url": "https://open.spotify.com/track/0f43lwagoPt0TipfJwKd34"
+    },
+    {
+      "album": {
+        "name": "KUNG F\u00d6R EN DAG",
+        "url": "https://open.spotify.com/album/79ODSm622lS9XphYJfUtHX"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147341,
+      "name": "KUNG F\u00d6R EN DAG",
+      "url": "https://open.spotify.com/track/4l8E2CbbDgAGVSikCL39s8"
     },
     {
       "album": {
@@ -12714,7 +12856,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 104683,
       "name": "MARK OCH FJ\u00c4LL (LA LA LA)",
       "url": "https://open.spotify.com/track/6QYe7wbNvWO47XDhdxrdSZ"
@@ -16548,7 +16690,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 147428,
       "name": "ROM & COLA",
       "url": "https://open.spotify.com/track/0MaVhvIUlTyaqCPIoaWFv3"
@@ -16834,7 +16976,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 129573,
       "name": "Salut!",
       "url": "https://open.spotify.com/track/7xWEygNugagG1Ctmlhjdxu"
@@ -19007,6 +19149,28 @@
     },
     {
       "album": {
+        "name": "STUDENTEN (Hardstyle)",
+        "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "Skurk3n",
+          "url": "https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "STUDENTEN (Hardstyle)",
+      "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
+    },
+    {
+      "album": {
         "name": "STUNDERNA JAG SAKNAR",
         "url": "https://open.spotify.com/album/1W358oQwdJYcnoNTsafq7d"
       },
@@ -19724,7 +19888,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 151587,
       "name": "S\u00e5 DUM",
       "url": "https://open.spotify.com/track/2JbzvLQUbimv1H55ylsw9v"
@@ -19804,7 +19968,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152758,
       "name": "S\u00c5 VI RULLAR FRAM",
       "url": "https://open.spotify.com/track/66dzRujQYYLiYiCoa44JmG"
@@ -21348,7 +21512,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 119631,
       "name": "UTEKV\u00c4LL",
       "url": "https://open.spotify.com/track/60rvxpY6GlWW5DP8jSgZMW"

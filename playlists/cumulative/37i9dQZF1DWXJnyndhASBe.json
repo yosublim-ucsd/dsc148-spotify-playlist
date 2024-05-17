@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Guzior",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -148,6 +148,24 @@
       "duration_ms": 174315,
       "name": "3 w nocy w Mi\u0119dzyzdrojach",
       "url": "https://open.spotify.com/track/5KcuT4Yau5Y6KiiB0NR7C7"
+    },
+    {
+      "album": {
+        "name": "4 RANO",
+        "url": "https://open.spotify.com/album/57GcfcB49w7OmlOzb5EPO8"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120902,
+      "name": "4 RANO",
+      "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
     },
     {
       "album": {
@@ -801,6 +819,32 @@
     },
     {
       "album": {
+        "name": "Bida (Def Jam World Tour)",
+        "url": "https://open.spotify.com/album/2EPgB1SWKa1swIQBUT9hUC"
+      },
+      "artists": [
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I"
+        },
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bida - Def Jam World Tour",
+      "url": "https://open.spotify.com/track/6wDjG42PJdxrloQFw8NRSg"
+    },
+    {
+      "album": {
         "name": "BIG BIG GIRL / KARATE KID",
         "url": "https://open.spotify.com/album/0wMT5TwEqLwYdOWVo1YNnv"
       },
@@ -872,6 +916,32 @@
       "duration_ms": 137480,
       "name": "BLOK!",
       "url": "https://open.spotify.com/track/031b3RMm1OxdNAta0tBcvN"
+    },
+    {
+      "album": {
+        "name": "BOOMBOO",
+        "url": "https://open.spotify.com/album/6vR4wHULa9nAd9dG2xzT2f"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "BOOMBOO",
+      "url": "https://open.spotify.com/track/4uENLDm1ig23LmYH0yVDec"
     },
     {
       "album": {
@@ -2226,7 +2296,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 153636,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/4XupoqYkrUSAixBgvcTad8"
@@ -2735,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Ikar",
+        "url": "https://open.spotify.com/album/4jEY2QY3CQaAqb0hgnpcPJ"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Ikar",
+      "url": "https://open.spotify.com/track/1JjLRI0SajNgJcrAlWGbQ4"
+    },
+    {
+      "album": {
         "name": "ILE LAT?",
         "url": "https://open.spotify.com/album/5pzf4AhTd7kPFC0W1Bh5Ti"
       },
@@ -3014,7 +3102,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 161707,
       "name": "Ju\u017c nie mog\u0119 przegra\u0107",
       "url": "https://open.spotify.com/track/0zHgCovAQxTGXYt1oZHzlb"
@@ -4252,7 +4340,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 154285,
       "name": "NA WIEKI",
       "url": "https://open.spotify.com/track/5I2v4NCXfzHE3aM2ahHyA1"
@@ -4991,6 +5079,28 @@
     },
     {
       "album": {
+        "name": "Ostatni Raz",
+        "url": "https://open.spotify.com/album/4PeUQHXZZDwh3uPrRcY052"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Ostatni Raz",
+      "url": "https://open.spotify.com/track/6XCdNJK8ywKYIr9PHq6eST"
+    },
+    {
+      "album": {
         "name": "Ostatnia prosta",
         "url": "https://open.spotify.com/album/02lJqxm5r3y5M2hnJgsTNa"
       },
@@ -5184,7 +5294,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 142225,
       "name": "PASEK PLAYBOYA",
       "url": "https://open.spotify.com/track/6g76ndArDHwMe3OsrYxKiu"
@@ -5803,6 +5913,32 @@
     },
     {
       "album": {
+        "name": "S. D. A.",
+        "url": "https://open.spotify.com/album/5g0hMKW2TeUrkaokHm08jd"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175777,
+      "name": "S. D. A.",
+      "url": "https://open.spotify.com/track/611rJoIIRmKksfBh8sTqBz"
+    },
+    {
+      "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/5rzQB82IYueZ2BQXjNPYWl"
       },
@@ -6214,7 +6350,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 114374,
       "name": "START",
       "url": "https://open.spotify.com/track/4Pgv4GtlLKf8QwBu9Kb4Gm"
@@ -6630,7 +6766,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 169903,
       "name": "Ty Wiesz",
       "url": "https://open.spotify.com/track/0QfTXFJdnx42T8DeTWWwN6"

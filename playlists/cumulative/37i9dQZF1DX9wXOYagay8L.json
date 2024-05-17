@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=OS2sIIclT_OMXMOGsrZGKw\">Thandiswa</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN?si=sVSYrD4YRliHn20AbUrzkg\">Nhlonipho</a>, <a href=\"https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap?si=LkqJvhZ7RsqKHOI_AGaO3w\">Savara</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 220041,
       "name": "Inkumbulo",
       "url": "https://open.spotify.com/track/1xL5DE9xNucOz9K2t7Q7IH"
@@ -3986,6 +3986,28 @@
       "duration_ms": 219375,
       "name": "Isono Esimnandi",
       "url": "https://open.spotify.com/track/5F52TSrx13bOeMfHslxTNO"
+    },
+    {
+      "album": {
+        "name": "Isthembu (feat. Siya Ntuli)",
+        "url": "https://open.spotify.com/album/1QMdGApVcu9mH5R4lY3Acv"
+      },
+      "artists": [
+        {
+          "name": "Miona",
+          "url": "https://open.spotify.com/artist/0hePZ68kOMD7Mhz5wUKmuB"
+        },
+        {
+          "name": "Siya Ntuli",
+          "url": "https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258088,
+      "name": "Isthembu (feat. Siya Ntuli)",
+      "url": "https://open.spotify.com/track/1yF1gVIE76t5DqUGIRyipv"
     },
     {
       "album": {
@@ -8331,6 +8353,28 @@
     },
     {
       "album": {
+        "name": "Qoma",
+        "url": "https://open.spotify.com/album/1fsqPg291cO98V4ZTC7k5R"
+      },
+      "artists": [
+        {
+          "name": "Nhlonipho",
+          "url": "https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242571,
+      "name": "Qoma",
+      "url": "https://open.spotify.com/track/7xCravOtt3QiSSVC9sC1nZ"
+    },
+    {
+      "album": {
         "name": "Qongqotha (live) [Demo]",
         "url": "https://open.spotify.com/album/1OgbwEsTKgf3FnHXjQha8h"
       },
@@ -11022,7 +11066,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 251611,
       "name": "UThando",
       "url": "https://open.spotify.com/track/42p0qkwmfv4YfP6QO6wP5f"

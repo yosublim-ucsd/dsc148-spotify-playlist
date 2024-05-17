@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,369 likes - 175 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,433 likes - 175 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

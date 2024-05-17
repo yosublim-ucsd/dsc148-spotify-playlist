@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Mon amour\" de Slimane est le Grand Hit de la semaine.",
+  "description": "\"Recommence-moi\" de SANTA est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -230,6 +230,24 @@
       "duration_ms": 143157,
       "name": "Belle",
       "url": "https://open.spotify.com/track/7kmslsDZxmi87QwTsXEuaH"
+    },
+    {
+      "album": {
+        "name": "boomerang",
+        "url": "https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177876,
+      "name": "boomerang",
+      "url": "https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD"
     },
     {
       "album": {
@@ -1113,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
+    },
+    {
+      "album": {
         "name": "J'me barre",
         "url": "https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT"
       },
@@ -1186,7 +1222,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 151066,
       "name": "Je m'en fous",
       "url": "https://open.spotify.com/track/74ljmdHbvY25QxR9NyAF4O"
@@ -1360,7 +1396,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 184466,
       "name": "Jusqu'au dernier - Version radio",
       "url": "https://open.spotify.com/track/0d3ewnwyQPx7ypLCucYlEW"
@@ -1863,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "OCEANO NOX",
+        "url": "https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl"
+      },
+      "artists": [
+        {
+          "name": "Clara Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189360,
+      "name": "L\u2019\u00c9toile",
+      "url": "https://open.spotify.com/track/6051Cr1ieO10nTt9rONI6c"
+    },
+    {
+      "album": {
         "name": "Ma ch\u00e9rie",
         "url": "https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz"
       },
@@ -1993,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "Multicolore",
+        "url": "https://open.spotify.com/album/5pshEhto6fETHUMWA42en8"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Multicolore",
+      "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
+    },
+    {
+      "album": {
         "name": "Ol\u00e9 Ol\u00e9",
         "url": "https://open.spotify.com/album/3evFSKuVUPwT9X3GtnD9hd"
       },
@@ -2026,7 +2098,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 154454,
       "name": "Origami",
       "url": "https://open.spotify.com/track/2aZzYnRRP6RNa6VVW1sNCl"
@@ -2474,7 +2546,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152373,
       "name": "Tara",
       "url": "https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh"

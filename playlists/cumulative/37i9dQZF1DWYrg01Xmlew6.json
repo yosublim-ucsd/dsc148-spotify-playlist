@@ -184,7 +184,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 191287,
       "name": "A Storia M\u00ec",
       "url": "https://open.spotify.com/track/56syCqfZDVTN3rHWDLnxwb"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 133359,
       "name": "AUDI NOIRE",
       "url": "https://open.spotify.com/track/4YvWoLoanqyBjEZGBCeyWi"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 174550,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/4yZmG7r6lneTHug5nMkSrp"
@@ -5049,6 +5049,40 @@
     },
     {
       "album": {
+        "name": "REPLAY (feat. Yung Snapp, MV Killa, Vale Lambo, Lele Blade)",
+        "url": "https://open.spotify.com/album/19xqnKvk2U4tRVKJ7d70yY"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214776,
+      "name": "REPLAY (feat. Yung Snapp, MV Killa, Vale Lambo, Lele Blade)",
+      "url": "https://open.spotify.com/track/1GQbYcdWWEmC9bV7BRfSQQ"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -5578,6 +5612,24 @@
       "duration_ms": 221204,
       "name": "Sincer (feat. Lele Blade & Icy Subzero)",
       "url": "https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4yGzgY9coSIFTc9WlF0ZeZ"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141417,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/5xj75TS7YbhrniUeOwGh2p"
     },
     {
       "album": {
@@ -6560,6 +6612,32 @@
       "duration_ms": 174875,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/63WzPPR8lS0ibJeZvngg9A"
+    },
+    {
+      "album": {
+        "name": "VIEN\u2018CCA",
+        "url": "https://open.spotify.com/album/3WgAGqPic8HiBXkO8n1HCF"
+      },
+      "artists": [
+        {
+          "name": "Christian Liguori",
+          "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        },
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        },
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "VIEN'CCA",
+      "url": "https://open.spotify.com/track/6ENT7ncTtDKUia5LSf0TUI"
     },
     {
       "album": {

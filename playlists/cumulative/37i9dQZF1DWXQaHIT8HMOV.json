@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan hits in one playlist. Cover: Kohen Jaycee",
+  "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -268,6 +268,28 @@
       "duration_ms": 162061,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/1Scu47vmkOiPYysCUVUWgc"
+    },
+    {
+      "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242142,
+      "name": "Alone - Deluxe",
+      "url": "https://open.spotify.com/track/5zaoKCTA6RW3XW03TUHTLe"
     },
     {
       "album": {
@@ -1030,7 +1052,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 132857,
       "name": "Captain",
       "url": "https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF"
@@ -1358,6 +1380,32 @@
       "duration_ms": 167755,
       "name": "Dalilah",
       "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
+    },
+    {
+      "album": {
+        "name": "Do You Want to Party",
+        "url": "https://open.spotify.com/album/7jPtTxpFgvCeDJwUfxO0OZ"
+      },
+      "artists": [
+        {
+          "name": "Chwezimadeit",
+          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
+        },
+        {
+          "name": "DJ Chris",
+          "url": "https://open.spotify.com/artist/5kR9F5Fbmx5OY5NNG5Pbzk"
+        },
+        {
+          "name": "Kyvo Bouy",
+          "url": "https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147368,
+      "name": "Do You Want to Party",
+      "url": "https://open.spotify.com/track/7srUC2ZI9u5srmd6juLAOH"
     },
     {
       "album": {
@@ -2668,7 +2716,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152659,
       "name": "Local User",
       "url": "https://open.spotify.com/track/5AGCOTqQFkduMlmnnJ956F"
@@ -3641,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Nkwekwe",
+        "url": "https://open.spotify.com/album/6VE2TV96pn6x3hAv9Bu1PC"
+      },
+      "artists": [
+        {
+          "name": "Green Daddy",
+          "url": "https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171154,
+      "name": "Nkwekwe",
+      "url": "https://open.spotify.com/track/0bIJgylKORoXpq3CxBvIbG"
+    },
+    {
+      "album": {
         "name": "Nkyaliwo",
         "url": "https://open.spotify.com/album/2CGs4Pc0AtJhBoisUT1dmg"
       },
@@ -3810,6 +3876,28 @@
       "duration_ms": 165429,
       "name": "Nsudiya",
       "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+    },
+    {
+      "album": {
+        "name": "Nteesa",
+        "url": "https://open.spotify.com/album/3Uqp5YcoDFG26NlMTT2NnI"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Salongo Siraje",
+          "url": "https://open.spotify.com/artist/3eQ4darYNRBrwqfMajhRLd"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186723,
+      "name": "Nteesa",
+      "url": "https://open.spotify.com/track/5cYU1jOUJuoJIrxXGg8nnd"
     },
     {
       "album": {
@@ -4500,7 +4588,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 182500,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq"
@@ -5194,7 +5282,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 214073,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : L'Imp\u00e9ratrice",
+  "description": "The best French indie tracks right now. Cover : Kazy Lambist",
   "name": "Made in France",
   "tracks": [
     {
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 199773,
       "name": "Cin\u00e9med",
       "url": "https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k"
@@ -2063,6 +2063,32 @@
     },
     {
       "album": {
+        "name": "Down the Line",
+        "url": "https://open.spotify.com/album/2aUQUtNhw2UQjnPhI07eFS"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193053,
+      "name": "Down the Line",
+      "url": "https://open.spotify.com/track/0CCa34HlzzqL4IbV4G7uTl"
+    },
+    {
+      "album": {
         "name": "Draw The Line",
         "url": "https://open.spotify.com/album/4UJYP88mzdccx0buZsNUzM"
       },
@@ -2364,6 +2390,28 @@
       "duration_ms": 197520,
       "name": "Etoile noire",
       "url": "https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls"
+    },
+    {
+      "album": {
+        "name": "Even Now",
+        "url": "https://open.spotify.com/album/1XrUW4FChuC6EjR99b8xPh"
+      },
+      "artists": [
+        {
+          "name": "Superjava",
+          "url": "https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp"
+        },
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180913,
+      "name": "Even Now",
+      "url": "https://open.spotify.com/track/32uVxq9URcY70dGwm0EzF5"
     },
     {
       "album": {
@@ -5437,6 +5485,28 @@
     },
     {
       "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Nelly Lawson",
+          "url": "https://open.spotify.com/artist/7sRBFpHYPL981CBLDkNAWD"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
+    },
+    {
+      "album": {
         "name": "High_Life",
         "url": "https://open.spotify.com/album/36E8xRYRmVz8lOmexLq7aM"
       },
@@ -7014,7 +7084,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 190400,
       "name": "Saint-Germain",
       "url": "https://open.spotify.com/track/0xjRkSgHG8A14Z2q5TdEiy"
@@ -8135,6 +8205,24 @@
     },
     {
       "album": {
+        "name": "The Wedding Song",
+        "url": "https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN"
+      },
+      "artists": [
+        {
+          "name": "Magon",
+          "url": "https://open.spotify.com/artist/2DKfWpojFynlSO7kxt2ov0"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq"
+    },
+    {
+      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/3X05hKeB0CHnRKjhwd0nLD"
       },
@@ -8892,7 +8980,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 191866,
       "name": "We Want More",
       "url": "https://open.spotify.com/track/6VmeioPg4ky71dN3gwoIGB"
@@ -8968,7 +9056,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 198063,
       "name": "WHEN YOU'RE WITH ME",
       "url": "https://open.spotify.com/track/7DrW56pQPjh9IssRHY5jcV"

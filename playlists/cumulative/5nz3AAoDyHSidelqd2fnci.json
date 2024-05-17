@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits II (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3enuKERSauyNFVTa2n0t7S"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262253,
+      "name": "A Kind Of Magic - Remastered 2011",
+      "url": "https://open.spotify.com/track/6G5hkdh0Tijc4NhjUMNCCe"
+    },
+    {
+      "album": {
         "name": "Tracing Back Roots",
         "url": "https://open.spotify.com/album/3ySPWG4MBmIiJqDh1Kuio5"
       },
@@ -648,6 +666,24 @@
       "duration_ms": 293880,
       "name": "Am I Evil (Bonus Track)",
       "url": "https://open.spotify.com/track/3bQji1D79jL8vi99piHltp"
+    },
+    {
+      "album": {
+        "name": "Bloodrayne 2: Deliverance",
+        "url": "https://open.spotify.com/album/3sS2tGjZmYFwmWM899yxHy"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233866,
+      "name": "Amaranth",
+      "url": "https://open.spotify.com/track/6I5a0cQIBCLX8CWSbqtqGc"
     },
     {
       "album": {
@@ -1632,7 +1668,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 283404,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
@@ -2855,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/63o51nuPIguOwZ1Y5dxlUR"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187972,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1mKUt8tlpYVfKHay0ETmSh"
+    },
+    {
+      "album": {
         "name": "Antolog\u00eda: Su Historia y Sus \u00c9xitos",
         "url": "https://open.spotify.com/album/7m8AqShFcldsxokXFksDZ4"
       },
@@ -3154,7 +3208,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 124106,
       "name": "Cuento Alem\u00e1n",
       "url": "https://open.spotify.com/track/6keObJ5PY2ZUHwwB0AaI9w"
@@ -3428,7 +3482,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 189573,
       "name": "Dear Insanity",
       "url": "https://open.spotify.com/track/5jwttcPG6hynYxMs4mqOMp"
@@ -3926,7 +3980,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 201866,
       "name": "Draw the Line",
       "url": "https://open.spotify.com/track/4pd8HxU5KLuUYfRMwusxf8"
@@ -4322,7 +4376,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 238372,
       "name": "En efecto",
       "url": "https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl"
@@ -6082,7 +6136,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152181,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
@@ -7074,7 +7128,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 387893,
       "name": "In Silence Enshrined",
       "url": "https://open.spotify.com/track/6pVBQ91ffPyYWVBGirL6D6"
@@ -7280,6 +7334,24 @@
       "duration_ms": 42413,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5FWs1SriPWwFCoyzt5uiI6"
+    },
+    {
+      "album": {
+        "name": "No Remorse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NnCvI782a1lKvMAIbzzAG"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "Iron Fist",
+      "url": "https://open.spotify.com/track/27W4byu22yPKkBT5peIz2r"
     },
     {
       "album": {
@@ -7586,6 +7658,24 @@
       "duration_ms": 212826,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/5ft1GmMZA4uNX7afvQfDLn"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/34lMG72H2AkZbmWZ4JCEL8"
+      },
+      "artists": [
+        {
+          "name": "The Rembrandts",
+          "url": "https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243893,
+      "name": "Just the Way It Is, Baby",
+      "url": "https://open.spotify.com/track/4AgtVP8QGgkqYbVeLJCWDz"
     },
     {
       "album": {
@@ -8026,7 +8116,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 60693,
       "name": "Let's Beyblade (feat. Lucas Rossi) [Season 1]",
       "url": "https://open.spotify.com/track/7fqmSA96j6TrdrE68PNg6T"
@@ -8685,6 +8775,24 @@
     },
     {
       "album": {
+        "name": "Vulnerable (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6sFl5bu3LwjVXWkSu3P5wp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242093,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/0Ljoj4g1JKh7Fo4ELy5ikm"
+    },
+    {
+      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/1saYfZwr5b7Gad73hp41ue"
       },
@@ -8948,7 +9056,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 273345,
       "name": "Mechanical Animals",
       "url": "https://open.spotify.com/track/4LvjnyBTZXk7NnkQOjp6Im"
@@ -9262,6 +9370,42 @@
       "duration_ms": 288093,
       "name": "Mother Love",
       "url": "https://open.spotify.com/track/5Yy7X9QdNOv7zHHgopzcnO"
+    },
+    {
+      "album": {
+        "name": "The Final Frontier (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5YAfxU5OZKqAvE1GZPRQYY"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320040,
+      "name": "Mother of Mercy - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5FilLstzW4PnDJr4LP84SQ"
+    },
+    {
+      "album": {
+        "name": "Singles 1965-1967",
+        "url": "https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165253,
+      "name": "Mother's Little Helper",
+      "url": "https://open.spotify.com/track/1jll9dFge6iksEYvvheseY"
     },
     {
       "album": {
@@ -13645,6 +13789,24 @@
     },
     {
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
+    },
+    {
+      "album": {
         "name": "Killswitch Engage (Special Edition)",
         "url": "https://open.spotify.com/album/2VOrCcwylssybIvX8iC2BR"
       },
@@ -14265,6 +14427,24 @@
     },
     {
       "album": {
+        "name": "Diabolica",
+        "url": "https://open.spotify.com/album/0hEX9bbYRQerUe5ZFxVXYY"
+      },
+      "artists": [
+        {
+          "name": "Iron Mask",
+          "url": "https://open.spotify.com/artist/4fHO1843WfhVrQkRKO555M"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263146,
+      "name": "The First and the Last",
+      "url": "https://open.spotify.com/track/2xKM2KJWd06BMnZ21WhhpT"
+    },
+    {
+      "album": {
         "name": "The Flood (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC"
       },
@@ -14420,7 +14600,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 237853,
       "name": "The Invisible Man - Remastered 2011",
       "url": "https://open.spotify.com/track/0hvKqf1RhDOPCnowp7U0lQ"
@@ -15117,6 +15297,24 @@
     },
     {
       "album": {
+        "name": "La Espada & la Pared",
+        "url": "https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "Tirate",
+      "url": "https://open.spotify.com/track/5u6AzESv0MYzBE1ZBrY20V"
+    },
+    {
+      "album": {
         "name": "tnteen",
         "url": "https://open.spotify.com/album/73iDgH6wMxJbKUC6UPt7G4"
       },
@@ -15366,7 +15564,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 185898,
       "name": "Tu",
       "url": "https://open.spotify.com/track/1Krpw6JAsDoTc4zud3Obyq"
@@ -15774,7 +15972,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 273573,
       "name": "Var e vargen? - Remix 1995",
       "url": "https://open.spotify.com/track/0GQpHGSn14nL1SBH9z16Li"
@@ -15922,6 +16120,24 @@
       "duration_ms": 212386,
       "name": "Vide Infra - 2004 Remaster",
       "url": "https://open.spotify.com/track/4bU2ak4Wjsjn4pF783qhdJ"
+    },
+    {
+      "album": {
+        "name": "violence'66",
+        "url": "https://open.spotify.com/album/5Wr1AmrdioU5kwjdBY64ld"
+      },
+      "artists": [
+        {
+          "name": "Annie-Dog",
+          "url": "https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181504,
+      "name": "violence'66",
+      "url": "https://open.spotify.com/track/4hn32lVKaO7sL631XTQbv9"
     },
     {
       "album": {

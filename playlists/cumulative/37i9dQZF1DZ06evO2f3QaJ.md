@@ -2,7 +2,7 @@
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. Todos os maiores hits em uma só playlist.
+> This Is Zudizilla\. Les titres incontournables, réunis dans une seule et même playlist.
 
 65 songs - 4 hr 2 min
 
@@ -51,7 +51,7 @@
 | [Rua 12](https://open.spotify.com/track/0da1jFMV4cYzJ6O8nYrwpV) | [Guido Cnr](https://open.spotify.com/artist/4JgXTHTZATg8VPsqQuaJ9W), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Pepzi](https://open.spotify.com/artist/0UA5ouG9CGXcO3q1yXCOdx) | [Herdeiros R12](https://open.spotify.com/album/2z8OjtuFek85pEGbg8PEaB) | 4:09 | 2024-03-02 | 2024-03-05 |
 | [RUMOS](https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 3:03 | 2023-09-18 |  |
 | [SALVE](https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 4:08 | 2023-09-18 |  |
-| [Se A Rua Fosse Minha](https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa) | [Florence Lil Flowers](https://open.spotify.com/artist/2ZaGPYpUTu3nF9s4nivmt0), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Fp](https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC) | [POPART](https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG) | 3:13 | 2023-09-18 |  |
+| [Se A Rua Fosse Minha](https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa) | [Florence Lil Flowers](https://open.spotify.com/artist/2ZaGPYpUTu3nF9s4nivmt0), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Fp](https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC) | [POPART](https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG) | 3:13 | 2023-09-18 | 2024-05-17 |
 | [Sem Distração](https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine \#21](https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg) | 5:44 | 2023-11-10 |  |
 | [Sem Distração](https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Manoela Fortuna](https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 4:23 | 2023-09-18 |  |
 | [Sem Sono](https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:43 | 2023-10-10 |  |

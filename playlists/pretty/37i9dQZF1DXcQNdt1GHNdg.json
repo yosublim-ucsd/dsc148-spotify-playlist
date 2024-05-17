@@ -1,15 +1,35 @@
 {
   "description": "Pump up your adrenaline with Punjabi hits!",
-  "num_followers": 128408,
+  "num_followers": 128495,
   "original_name": "Punjabi Pump",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjxtMAAAAAArasGavoZMFr0jI7/jKGkM",
+  "snapshot_id": "ZkYWqAAAAABR2ipvvIhsbodpdPr0hbc3",
   "tracks": [
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
+      "album": {
+        "name": "Winning Speech",
+        "url": "https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "duration_ms": 227441,
+      "name": "Winning Speech",
+      "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
+    },
+    {
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5"
@@ -33,7 +53,7 @@
       "url": "https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Khutti",
         "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
@@ -53,7 +73,7 @@
       "url": "https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Dripster",
         "url": "https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/4l8WHDKXzN22fSIq7Vw4Wq"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "UNDISPUTED",
         "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "WE ROLLIN",
         "url": "https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
@@ -213,7 +233,7 @@
       "url": "https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Daku",
         "url": "https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR"
@@ -233,7 +253,7 @@
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Thaa",
         "url": "https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Chorni",
         "url": "https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Watch Out",
         "url": "https://open.spotify.com/album/11tfAS197RiPG4po110Tre"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Free Flow",
         "url": "https://open.spotify.com/album/16Wa5HjZJAjr0MsG1koFxC"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/1fzWamSoWOa7JDKuhj8Ph7"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Pagol",
         "url": "https://open.spotify.com/album/3P5a2FJ0k7RWBlWKWSl5T7"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/7MpfARGQRFqZxHEWLBjDkx"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "The Last Ride",
         "url": "https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Never Before",
         "url": "https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "SWITCHIN' LANES",
         "url": "https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "ELEVATED",
         "url": "https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "No Lookin' Back",
         "url": "https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "12 Bande",
         "url": "https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Small Circle",
         "url": "https://open.spotify.com/album/6vaip7iNjz4dElaxbsq9yu"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/1PrLCrX3eY1gs7Bytw71qg"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Sidhuan De Munde",
         "url": "https://open.spotify.com/album/3oTPgv4PbK4loiyz4yT2pZ"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Hathyar (From \"Sikander 2\")",
         "url": "https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Keep It Gangsta",
         "url": "https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Four You",
         "url": "https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "10 Bande",
         "url": "https://open.spotify.com/album/5zpxoPuMHZIOYBoJjl1oO7"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/6yOfrhPr40G18wPui5CXxu"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "FRIEND ZONE",
         "url": "https://open.spotify.com/album/7lMOtrXJNjngIeAJqNE4WN"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Balle Jatta",
         "url": "https://open.spotify.com/album/5TSOrVokaOvXbRXJOkJ1b5"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/3TMub7U6GmZ9RIaQpQerbZ"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Way Ahead",
         "url": "https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Step Up",
         "url": "https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Plug Talk",
         "url": "https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "No Lookin' Back",
         "url": "https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp"
@@ -805,7 +825,7 @@
       "url": "https://open.spotify.com/track/2MajsZJ85B49Rt1KWhu4P7"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Jawani",
         "url": "https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X"
@@ -849,7 +869,7 @@
       "url": "https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Droptop",
         "url": "https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Faraar",
         "url": "https://open.spotify.com/album/1HFaZl1hPmSnvdTQxshVQe"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/72H6G8v9xyuwdRBaTkoT5G"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
@@ -917,7 +937,7 @@
       "url": "https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Ykwim",
         "url": "https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V"
@@ -941,7 +961,7 @@
       "url": "https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Kikli",
         "url": "https://open.spotify.com/album/16BiNUvVT8zdnr9QitdteN"
@@ -961,7 +981,7 @@
       "url": "https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
@@ -981,7 +1001,7 @@
       "url": "https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/1t9DkDGq1ZHWt2jggPPUVm"
@@ -1005,7 +1025,7 @@
       "url": "https://open.spotify.com/track/6UeMjHhzYnidHi7I4isoGg"
     },
     {
-      "added_at": "2024-05-09 06:29:04",
+      "added_at": "2024-05-16 14:22:32",
       "album": {
         "name": "Mankirt Aulakh - Best Hits",
         "url": "https://open.spotify.com/album/1xp8NLdS2cGOKnqaNAGzgA"

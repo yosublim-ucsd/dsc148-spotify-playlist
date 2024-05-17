@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAG5whJ6u8QX1idekiiaKrlKOR6O3z1",
+  "snapshot_id": "AAAG6TTw5yNgeDWTC1cMXAMpbFbwKW4l",
   "tracks": [
     {
       "added_at": "2024-05-03 02:24:30",
@@ -23,6 +23,22 @@
       "duration_ms": 149778,
       "name": "Centrefold",
       "url": "https://open.spotify.com/track/39CUQzr2y8rluRE3ynYz6y"
+    },
+    {
+      "added_at": "2024-05-16 23:47:26",
+      "album": {
+        "name": "Summertime Voodoo",
+        "url": "https://open.spotify.com/album/0ZnQYSd99bPzYRMCKd3B6P"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 388382,
+      "name": "Summertime Voodoo",
+      "url": "https://open.spotify.com/track/5BnqgwkMSUp9gDYy9gHxYF"
     },
     {
       "added_at": "2024-04-05 04:10:33",
@@ -103,6 +119,22 @@
       "duration_ms": 238760,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/2fg490dFzlz5ohgj9X3euO"
+    },
+    {
+      "added_at": "2024-05-16 23:47:43",
+      "album": {
+        "name": "crying",
+        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "crying",
+      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
     },
     {
       "added_at": "2024-02-23 02:54:11",

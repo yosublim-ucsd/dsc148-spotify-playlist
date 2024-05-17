@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: CHANKA (Hong Kong)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Peter Cat Recording Co. (India)",
   "name": ".ORG",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 183613,
       "name": "99",
       "url": "https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 269267,
       "name": "be your friend",
       "url": "https://open.spotify.com/track/3d1xl4RJDob9zcJAi9yUE2"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 218735,
       "name": "Coming Home (feat. Chelsea Dawn & Coloura)",
       "url": "https://open.spotify.com/track/4CeQo2SvURvL9gXEF51mGm"
@@ -5521,6 +5521,24 @@
     },
     {
       "album": {
+        "name": "Sorry for Everything Goodbye Forever",
+        "url": "https://open.spotify.com/album/3bk7YFSrS1PAMIb8Lyp0dI"
+      },
+      "artists": [
+        {
+          "name": "cellosux",
+          "url": "https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265943,
+      "name": "Dont You Forget About Me",
+      "url": "https://open.spotify.com/track/1RXPiPo2mhZOdcxcOflPzL"
+    },
+    {
+      "album": {
         "name": "Where's the Exit?",
         "url": "https://open.spotify.com/album/7edAR9wZ8n7ges6F0g99RF"
       },
@@ -6342,7 +6360,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 254015,
       "name": "Fana",
       "url": "https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD"
@@ -6787,6 +6805,24 @@
     },
     {
       "album": {
+        "name": "flow",
+        "url": "https://open.spotify.com/album/12YpSGznA12Bb7ABqRiO4o"
+      },
+      "artists": [
+        {
+          "name": "sugar plant",
+          "url": "https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324797,
+      "name": "flow",
+      "url": "https://open.spotify.com/track/5UcxGKwDnSXj1zwBZZERX2"
+    },
+    {
+      "album": {
         "name": "Flower",
         "url": "https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar"
       },
@@ -6967,6 +7003,28 @@
     },
     {
       "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/1Y2i1JvNR7mXb2mAxpth65"
+      },
+      "artists": [
+        {
+          "name": "Ringgo 5",
+          "url": "https://open.spotify.com/artist/73kWDkoIKhN58ALBh7cF3t"
+        },
+        {
+          "name": "Refo Dan Fauna",
+          "url": "https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190994,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/6inMymbAB1obAUtUPVeWjU"
+    },
+    {
+      "album": {
         "name": "Forest",
         "url": "https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe"
       },
@@ -7128,7 +7186,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 143181,
       "name": "friends",
       "url": "https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P"
@@ -7790,7 +7848,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 255510,
       "name": "HANSEL AND GRETEL",
       "url": "https://open.spotify.com/track/0Ixs4wUwlHockq5iO3zrLn"
@@ -8764,7 +8822,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 218613,
       "name": "hummingbird",
       "url": "https://open.spotify.com/track/6LhXMXpIFb1cxvhBmHa4kB"
@@ -8818,7 +8876,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 192080,
       "name": "I CAN DO THIS EVERY DAY",
       "url": "https://open.spotify.com/track/3L8EUeW6h3AJzDT7u0BpbS"
@@ -11092,6 +11150,24 @@
     {
       "album": {
         "name": "Let Go",
+        "url": "https://open.spotify.com/album/71ebEmTo9ym9kEtWIOdrjb"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/0fxcvNqV40hkZB7tIWjtvT"
+    },
+    {
+      "album": {
+        "name": "Let Go",
         "url": "https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H"
       },
       "artists": [
@@ -11638,6 +11714,24 @@
       "duration_ms": 274000,
       "name": "lost",
       "url": "https://open.spotify.com/track/26niEovvgyaq9po2KubsJI"
+    },
+    {
+      "album": {
+        "name": "Louder",
+        "url": "https://open.spotify.com/album/0yx4JsRKHVe7JLgKIyebOp"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180769,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs"
     },
     {
       "album": {
@@ -14917,6 +15011,24 @@
     },
     {
       "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "People Never Change - Radio Edit",
+      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
+    },
+    {
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh"
       },
@@ -15168,6 +15280,24 @@
       "duration_ms": 244250,
       "name": "Pink",
       "url": "https://open.spotify.com/track/6Xss284HURvzRGqyIrX0bS"
+    },
+    {
+      "album": {
+        "name": "Plastic Romance",
+        "url": "https://open.spotify.com/album/2zOwVX7gdy7Ufc8BxAqKux"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293629,
+      "name": "Plastic Romance",
+      "url": "https://open.spotify.com/track/7AxZFaSZFX9QhTiWHwh06g"
     },
     {
       "album": {
@@ -15522,6 +15652,24 @@
       "duration_ms": 181399,
       "name": "Puddin'",
       "url": "https://open.spotify.com/track/72Y5fvZWYYdoFVroXNvbi4"
+    },
+    {
+      "album": {
+        "name": "Beranjak",
+        "url": "https://open.spotify.com/album/1L8ftHXjnkhrVpvQNky0lP"
+      },
+      "artists": [
+        {
+          "name": "Moongazing And Her",
+          "url": "https://open.spotify.com/artist/6Zo43jiGrri1Pq8tQNKodP"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/0iP75h7FSy1s4pOlKcZOEB"
     },
     {
       "album": {
@@ -16778,7 +16926,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 170204,
       "name": "sharp knife",
       "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
@@ -18336,7 +18484,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 210972,
       "name": "Sunday Song",
       "url": "https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r"
@@ -20732,7 +20880,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 187922,
       "name": "Wanna be my",
       "url": "https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD"

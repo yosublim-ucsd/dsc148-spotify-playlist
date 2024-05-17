@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 159056,
+  "num_followers": 159065,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAACS/JNcQABU4KcDitU+9Fwl",
+  "snapshot_id": "ZkP7AAAAAACQWMIXQ1qQp28k/TKTX4zQ",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus do Imposs\u00edvel",
         "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 286393,
       "name": "Bem Mais Que Tudo",
       "url": "https://open.spotify.com/track/0LR9dbA72J4eYW8UZSrujK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus do Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 209674,
+      "name": "Deus do Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/3JAYiqcXj2jdN1yV3ge07T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Nazareno",
         "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 339373,
       "name": "O Nazareno",
       "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus do Imposs\u00edvel",
-        "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 209674,
-      "name": "Deus do Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/3JAYiqcXj2jdN1yV3ge07T"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jehov\u00e1 Jireh",
-        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 336662,
-      "name": "Jehov\u00e1 Jireh",
-      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pai Presente",
         "url": "https://open.spotify.com/album/682eYG75UszY1zmE0yHhys"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 293684,
       "name": "Pai Presente",
       "url": "https://open.spotify.com/track/17A6kCom591jICydbChxCk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jehov\u00e1 Jireh",
+        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 336662,
+      "name": "Jehov\u00e1 Jireh",
+      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus do Imposs\u00edvel",
-        "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 261780,
-      "name": "Para Sempre Te Adorarei",
-      "url": "https://open.spotify.com/track/5wlcYHvBMBj83IT63vyIPE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 272741,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/6Vmwm73j6P6Xyr4FbPSzZx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus do Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 261780,
+      "name": "Para Sempre Te Adorarei",
+      "url": "https://open.spotify.com/track/5wlcYHvBMBj83IT63vyIPE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,938 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,976 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,7 +265,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 255 | [Oogum Boogum Song](https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 3:06 |
 | 256 | [Table For One](https://open.spotify.com/track/2hQ2Ux2pzBEd20mCyLHvx8) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Honey For Wounds](https://open.spotify.com/album/6rAjOLYMgyddMcP8LLJLcl) | 6:34 |
 | 257 | [Twerk](https://open.spotify.com/track/45NP7tDgoPsJyn47nusmM5) | [Ku\-Laid Thee Entertainer](https://open.spotify.com/artist/1yCnyMysAeeWi3q5fUGrV2), [DJ Good BOI](https://open.spotify.com/artist/2ernsKYNv5IiFiz3dUUYwi) | [R.A.W., Vol\. 13: Reckless All Winter](https://open.spotify.com/album/2RTxdGfiFqqRTQT8jF2vTI) | 2:54 |
-| 258 | [Don't Turn Your Back on Love](https://open.spotify.com/track/6uA2Qux5GoIOlTFvUu7n60) | [Ezra Furman & The Harpoons](https://open.spotify.com/artist/6mMA3DehwLwdvO6YlwUFHk) | [Mysterious Power](https://open.spotify.com/album/2UxFvYFHXR1mKurBo95GmH) | 5:48 |
+| 258 | [Don't Turn Your Back on Love](https://open.spotify.com/track/6uA2Qux5GoIOlTFvUu7n60) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY), [The Harpoons](https://open.spotify.com/artist/3vC8Bm3kEFKzmYYK5p7T89) | [Mysterious Power](https://open.spotify.com/album/2UxFvYFHXR1mKurBo95GmH) | 5:48 |
 | 259 | [Hands of the Devil](https://open.spotify.com/track/4xAe6goQLFFOKH3kS6yK4Z) | [Eerie Wanda](https://open.spotify.com/artist/0CkWsjqKOX2aFrcmFvcQr9) | [Pet Town](https://open.spotify.com/album/0lxcDZW5xfoEVQFYgJkITt) | 2:35 |
 | 260 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
 | 261 | [Milkshake](https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 3:02 |

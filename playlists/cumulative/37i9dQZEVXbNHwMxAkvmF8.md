@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,157 songs - 2 day 13 hr 10 min
+1,158 songs - 2 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [3korty \- LIVE](https://open.spotify.com/track/7GwnJvYPqVmbRdakEMwoFw) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Papp László Aréna LIVE \(2023\)](https://open.spotify.com/album/0jh4QHk8xp0mDHY2FXb3m1) | 3:16 | 2023-04-06 | 2023-05-08 |
 | [4xNem](https://open.spotify.com/track/4mGgzjRyM6PojHS0dAS8YX) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [GG VS GRASA](https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ) | 2:25 | 2023-02-18 | 2023-02-20 |
 | [A Babám Zokog Az Ágyon](https://open.spotify.com/track/6H9JIiYG6WutRc5fGRyesK) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [III\. Krúbi](https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq) | 5:09 | 2023-11-18 | 2023-12-01 |
+| [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-05-16 |  |
 | [a főteret járva](https://open.spotify.com/track/3gAnTvX4Z32RCrAEWVK0vy) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [úton](https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61) | 2:42 | 2023-01-07 | 2023-01-09 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-24 | 2023-12-30 |
 | [a ladikomban](https://open.spotify.com/track/4OYsXD87Kq5TLOy6GZ6Yu2) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [a ladikomban](https://open.spotify.com/album/2YIrEEyn2C4AAE4AZuEWDe) | 2:37 | 2022-03-26 | 2022-04-02 |
@@ -330,7 +331,7 @@
 | [Fiatal és őrült](https://open.spotify.com/track/1iRwcHRaEGQdkZDyVsQM1h) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 2:46 | 2022-06-07 | 2023-02-05 |
 | [Fiatal és őrült](https://open.spotify.com/track/3sE7DmCeV0NOU9iTuToADc) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:46 | 2023-02-04 | 2023-02-12 |
 | [Fienduló](https://open.spotify.com/track/2R26Jx9XGyA7SODZ1Fr0of) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 2:52 | 2023-03-02 | 2023-05-15 |
-| [figyelj](https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2022-08-11 |  |
+| [figyelj](https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2022-08-11 | 2024-05-17 |
 | [filter](https://open.spotify.com/track/3XcVoBCkYFn7ZMD185dcPe) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 3:30 | 2021-07-01 | 2021-07-02 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-06-08 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |

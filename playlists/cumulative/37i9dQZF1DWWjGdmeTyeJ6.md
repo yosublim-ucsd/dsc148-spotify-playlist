@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: The Kilans, Artwork: Isu Kim.
 
-6,288 songs - 14 day 5 hr 26 min
+6,289 songs - 14 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1912,7 +1912,7 @@
 | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/track/7E3gvkRgBkjsGQr2N4bjIq) | [Jake Bardin](https://open.spotify.com/artist/6au2CHviUD4hfqI9UAPLgo) | [First Date Conversations \(For the Healthy Young Professional\)](https://open.spotify.com/album/4v1cJPYanw5ODSVbsC9Oum) | 3:09 | 2022-08-03 | 2022-08-11 |
 | [First Day Out](https://open.spotify.com/track/4ugBcRZrdGnCQZ10uDCHVN) | [Lil Rae](https://open.spotify.com/artist/3mBgj6uh2YjNocaBRGJumA) | [First Day Out](https://open.spotify.com/album/7DQBlKL7Xh9iu4RBTsKrlz) | 1:46 | 2023-10-04 | 2023-10-12 |
 | [First Fall](https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [First Fall](https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5) | 4:10 | 2022-09-28 | 2022-10-06 |
-| [First Love](https://open.spotify.com/track/4Sj0AZTT8becd4aA8EzhXS) | [Aisa](https://open.spotify.com/artist/0YBEhX6xbkcMuhH3OD6D9L) | [First Love](https://open.spotify.com/album/4Q1gjFJKWaXhHyCSTBBUjX) | 3:23 | 2024-05-01 |  |
+| [First Love](https://open.spotify.com/track/4Sj0AZTT8becd4aA8EzhXS) | [Aisa](https://open.spotify.com/artist/0YBEhX6xbkcMuhH3OD6D9L) | [First Love](https://open.spotify.com/album/4Q1gjFJKWaXhHyCSTBBUjX) | 3:23 | 2024-05-01 | 2024-05-17 |
 | [First Taste of Gone](https://open.spotify.com/track/73WwVhoDuv9IuNU1i7gY1R) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/1hqieJ5qNMuT4y0L64W00L) | 2:52 | 2022-02-16 | 2022-02-24 |
 | [First Time](https://open.spotify.com/track/5paTZFpCis3pMJc2VwONuR) | [11 Roses](https://open.spotify.com/artist/51ODAATeVPRJvesdcuDYzA) | [First Time](https://open.spotify.com/album/3qXh4c3Q57EkHoAMXcDqS3) | 3:26 | 2022-07-27 | 2022-08-04 |
 | [first time](https://open.spotify.com/track/7bbDRMb1AIjb8cWztwm8MS) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [first time](https://open.spotify.com/album/5TSp9j0u2yoiX3vPQB0gIt) | 2:48 | 2023-10-19 | 2023-11-16 |
@@ -2535,6 +2535,7 @@
 | [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 | 2024-04-24 | 2024-05-09 |
 | [horny dog](https://open.spotify.com/track/1rtfJi9qilFW1JIpxX7Rvm) | [Ari Rivera](https://open.spotify.com/artist/4Vnn6VxzWl4xuVIpkxKRK7) | [horny dog](https://open.spotify.com/album/4I4kgF5LhNXCNR9VkvHRz2) | 3:27 | 2024-01-31 | 2024-02-08 |
 | [horny dog](https://open.spotify.com/track/2785k69pUIsXbtCDFrmQD2) | [Ari Rivera](https://open.spotify.com/artist/4Vnn6VxzWl4xuVIpkxKRK7) | [ari rivera ep 2](https://open.spotify.com/album/3G0gRwSgDVsZIu3HBSPiQ8) | 3:27 | 2024-04-10 | 2024-04-25 |
+| [HORSES IN HEAVEN](https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [HORSES IN HEAVEN](https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy) | 2:57 | 2024-05-16 |  |
 | [Hortus Conclusus](https://open.spotify.com/track/6xzNn12T3bqCKDD8tNjTwJ) | [Onur Ozman](https://open.spotify.com/artist/3ILz1VL32yEEaaeHY4mqcd) | [Endowment Effect](https://open.spotify.com/album/3QKrO9mL47HKo9BslN9dAt) | 4:52 | 2023-04-05 | 2023-04-13 |
 | [Hostage](https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hostage](https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G) | 3:28 | 2023-08-30 | 2023-09-14 |
 | [Hostile](https://open.spotify.com/track/0GeIW97TvjqE2TA4P6a7gB) | [Maya Kuriel](https://open.spotify.com/artist/0QdMbXjSLBS2LfjQ3lvJvP) | [Hostile](https://open.spotify.com/album/5Say74X6vOcKRdnKB6hVY2) | 2:33 | 2024-02-21 | 2024-03-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1917690,
+  "num_followers": 1918109,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
+        "name": "Day Drinks",
+        "url": "https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn"
+      },
+      "artists": [
+        {
+          "name": "Sonic",
+          "url": "https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc"
+        }
+      ],
+      "duration_ms": 137454,
+      "name": "Day Drinks",
+      "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
         "name": "Hangin Up",
         "url": "https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Day Drinks",
-        "url": "https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn"
-      },
-      "artists": [
-        {
-          "name": "Sonic",
-          "url": "https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc"
-        }
-      ],
-      "duration_ms": 137454,
-      "name": "Day Drinks",
-      "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Morning Workout",
         "url": "https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Santa Fe",
-        "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
-      },
-      "artists": [
-        {
-          "name": "Zoo Pool",
-          "url": "https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 166200,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Santa Fe",
+        "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
+      },
+      "artists": [
+        {
+          "name": "Zoo Pool",
+          "url": "https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Night Drives",
-        "url": "https://open.spotify.com/album/2hjmfQKBwgEs1E27b2JJOA"
-      },
-      "artists": [
-        {
-          "name": "HGenius",
-          "url": "https://open.spotify.com/artist/0c0IlXec4ZRHTZsYh6qoRt"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Night Drives",
-      "url": "https://open.spotify.com/track/6QXoFb7p7ze2jmZF8BNlCT"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 207549,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Night Drives",
+        "url": "https://open.spotify.com/album/2hjmfQKBwgEs1E27b2JJOA"
+      },
+      "artists": [
+        {
+          "name": "HGenius",
+          "url": "https://open.spotify.com/artist/0c0IlXec4ZRHTZsYh6qoRt"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Night Drives",
+      "url": "https://open.spotify.com/track/6QXoFb7p7ze2jmZF8BNlCT"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "AQUARIUM",
-        "url": "https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I"
-      },
-      "artists": [
-        {
-          "name": "Kharfi",
-          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
-        }
-      ],
-      "duration_ms": 187245,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Running Faster",
         "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 140263,
       "name": "Running Faster",
       "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "AQUARIUM",
+        "url": "https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I"
+      },
+      "artists": [
+        {
+          "name": "Kharfi",
+          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
+        }
+      ],
+      "duration_ms": 187245,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
+        "name": "Vibrant Presence",
+        "url": "https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL"
+      },
+      "artists": [
+        {
+          "name": "Dye O",
+          "url": "https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Vibrant Presence",
+      "url": "https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 212906,
       "name": "IOU",
       "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
-        "name": "Vibrant Presence",
-        "url": "https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL"
-      },
-      "artists": [
-        {
-          "name": "Dye O",
-          "url": "https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Vibrant Presence",
-      "url": "https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "It's all clear now",
-        "url": "https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA"
-      },
-      "artists": [
-        {
-          "name": "Sun Mirage",
-          "url": "https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4"
-        }
-      ],
-      "duration_ms": 242750,
-      "name": "White Dust",
-      "url": "https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 200710,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "It's all clear now",
+        "url": "https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA"
+      },
+      "artists": [
+        {
+          "name": "Sun Mirage",
+          "url": "https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "White Dust",
+      "url": "https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
-      },
-      "artists": [
-        {
-          "name": "Lak Host",
-          "url": "https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 151632,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
+      },
+      "artists": [
+        {
+          "name": "Lak Host",
+          "url": "https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "You and You",
-        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
-      },
-      "artists": [
-        {
-          "name": "Mute Surrender",
-          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "You and You",
-      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Sunset Serene",
         "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
       },
@@ -1343,6 +1327,38 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Balearic Dream",
+        "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
+      },
+      "artists": [
+        {
+          "name": "Gueves",
+          "url": "https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Balearic Dream",
+      "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "You and You",
+        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
+      },
+      "artists": [
+        {
+          "name": "Mute Surrender",
+          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "You and You",
+      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Balearic Dream",
-        "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
+        "name": "The right mood",
+        "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
       },
       "artists": [
         {
-          "name": "Gueves",
-          "url": "https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO"
+          "name": "Alan Devale",
+          "url": "https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Balearic Dream",
-      "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
+      "duration_ms": 192913,
+      "name": "The right mood",
+      "url": "https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1407,22 +1423,6 @@
       "duration_ms": 176052,
       "name": "flux de vibrations",
       "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
-        "name": "The right mood",
-        "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
-      },
-      "artists": [
-        {
-          "name": "Alan Devale",
-          "url": "https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY"
-        }
-      ],
-      "duration_ms": 192913,
-      "name": "The right mood",
-      "url": "https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "A Glitch",
-        "url": "https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv"
-      },
-      "artists": [
-        {
-          "name": "Miller Ford",
-          "url": "https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy"
-        }
-      ],
-      "duration_ms": 198314,
-      "name": "A Glitch",
-      "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Suen\u0303o Lu\u0301cido",
         "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 245106,
       "name": "Suen\u0303o Lu\u0301cido",
       "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "A Glitch",
+        "url": "https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv"
+      },
+      "artists": [
+        {
+          "name": "Miller Ford",
+          "url": "https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy"
+        }
+      ],
+      "duration_ms": 198314,
+      "name": "A Glitch",
+      "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4"
-      },
-      "artists": [
-        {
-          "name": "Apsa",
-          "url": "https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm"
-        }
-      ],
-      "duration_ms": 122076,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Barracudas EP",
         "url": "https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Toybox",
-        "url": "https://open.spotify.com/album/5oGhsKmDJgrgdkLI2SQV5s"
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4"
       },
       "artists": [
         {
-          "name": "Kate Paul",
-          "url": "https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx"
+          "name": "Apsa",
+          "url": "https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm"
         }
       ],
-      "duration_ms": 221217,
-      "name": "Toybox",
-      "url": "https://open.spotify.com/track/5eZp105lnwsIkLpdGfSLn7"
+      "duration_ms": 122076,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 228130,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Toybox",
+        "url": "https://open.spotify.com/album/5oGhsKmDJgrgdkLI2SQV5s"
+      },
+      "artists": [
+        {
+          "name": "Kate Paul",
+          "url": "https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Toybox",
+      "url": "https://open.spotify.com/track/5eZp105lnwsIkLpdGfSLn7"
     },
     {
       "added_at": "2023-11-27 18:00:00",

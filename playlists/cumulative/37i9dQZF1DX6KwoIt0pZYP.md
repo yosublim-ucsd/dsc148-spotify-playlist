@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-887 songs - 2 day 0 hr 38 min
+888 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Come My Way](https://open.spotify.com/track/4axh5PnrRAvhPxxrsa5BOW) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Come My Way](https://open.spotify.com/album/5vjaJfEugqmEFxItbDYiZS) | 2:57 | 2023-07-03 | 2023-07-19 |
 | [Come Over](https://open.spotify.com/track/2r3ucwEGZDSmAnkn6NKopr) | [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Come Over](https://open.spotify.com/album/3FXybInWSDFkMiHf2RxgcR) | 3:06 | 2023-06-08 | 2023-06-16 |
 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 | 2022-01-28 | 2023-03-25 |
+| [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-05-14 |  |
 | [Comme des Garçons](https://open.spotify.com/track/0i2mhiiHucVjXuywKdLniL) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Maison](https://open.spotify.com/album/7hUJWPUKJHdYF59nRjeEEy) | 4:58 | 2022-01-28 | 2022-10-15 |
 | [Complicated](https://open.spotify.com/track/1zpEXCvXPtLdnGunF612Pu) | [Thanh](https://open.spotify.com/artist/3gm1Y1GDGjh8darbC6Vfmt), [Gabe Sostre](https://open.spotify.com/artist/4uVnjRTCQIi0iXcNGegI0u) | [Complicated](https://open.spotify.com/album/0RB2cF5jXr4D16YryEq2Ad) | 2:22 | 2023-07-18 | 2023-07-29 |
 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-06-17 | 2022-07-30 |
@@ -546,7 +547,7 @@
 | [nobody but you](https://open.spotify.com/track/0c16VSncpcvshuckI2tqt9) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [nobody but you](https://open.spotify.com/album/1YDl6NLyzn5xk5IF3usKxp) | 3:29 | 2023-02-23 | 2023-03-10 |
 | [Nobody Knows](https://open.spotify.com/track/45qZ8r4atGNjdFhhBy2Cvw) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Christopher Chu](https://open.spotify.com/artist/1Qy8AVuvIVgC27FXE8Nvhl) | [Nobody Knows](https://open.spotify.com/album/6Y7fCc18cmVYNCs4wHpPpc) | 3:21 | 2022-01-28 | 2022-10-15 |
 | [None Of My Business](https://open.spotify.com/track/0FErJR0yZYjnGqgbWUTxWh) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [None Of My Business](https://open.spotify.com/album/47nlIqeRk8eWpGq31y6yX1) | 2:18 | 2023-06-08 | 2023-06-16 |
-| [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-01-28 |  |
+| [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 | 2022-01-28 | 2024-05-17 |
 | [Not For Me](https://open.spotify.com/track/6Q7gbt3fBClwFmyYaKubzy) | [Maris Racal](https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n) | [Not For Me](https://open.spotify.com/album/7sArAacrchjAciDMJ1cEkR) | 3:16 | 2022-01-28 | 2022-04-21 |
 | [not for us](https://open.spotify.com/track/1zdk2tQyjIEUcTD6mknPvP) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [not for us](https://open.spotify.com/album/4m6XD3OXhqtrwms9XUAr6r) | 4:19 | 2022-03-29 | 2022-04-20 |
 | [not good enough](https://open.spotify.com/track/0TP8ucqf1Nc8ALOaCxzMUx) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Emotions](https://open.spotify.com/album/1BzliMgMIAzl5fotON2A0T) | 2:07 | 2023-12-08 | 2024-01-13 |

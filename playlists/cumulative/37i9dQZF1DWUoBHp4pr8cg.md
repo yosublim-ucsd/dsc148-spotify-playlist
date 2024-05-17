@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from K.O & Maglera Doe Boy \(pictured\), Kendrick Lamar, and more...
+> Only the hottest Hip Hop from Ricky Tyler \(pictured\) K.O & Maglera Doe Boy, Kendrick Lamar, and more...
 
-280 songs - 15 hr 14 min
+281 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [ngivelelwe](https://open.spotify.com/track/2BNTdyCj7B403GFVM8zdvG) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [GARDENOTGOD](https://open.spotify.com/artist/385IN1Qy3c75zjSvtvoxgo) | [4LUV \(Deluxe\)](https://open.spotify.com/album/6h02u7EmmsLguvsEGburBg) | 4:24 | 2022-08-11 | 2022-10-14 |
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 | 2022-12-12 | 2023-03-07 |
 | [No More](https://open.spotify.com/track/4GVQOvxTqXPLJ1rHvP0SwZ) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 3:01 | 2023-09-22 |  |
+| [No More Discos](https://open.spotify.com/track/1CEOhntVCcqmouZq4vmeZ3) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [No More Discos](https://open.spotify.com/album/29CCIglajfMrsmv25zu8ZN) | 3:09 | 2024-05-16 |  |
 | [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 | 2024-01-04 |  |
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-03-06 | 2023-05-06 |
 | [Nomathemba](https://open.spotify.com/track/7tn8BQrBebUSW1AIES8svd) | [Duncan](https://open.spotify.com/artist/6ly70lDRQATSZLN2ptpEbL), [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Nomathemba](https://open.spotify.com/album/6kHIXB4tDBmMyBHzgBnqet) | 3:07 | 2022-09-19 | 2022-11-11 |

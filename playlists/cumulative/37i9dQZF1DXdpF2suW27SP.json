@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "LON3R JOHNY entra na zona. ",
+  "description": "Instinto 26, Ivandro entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1513,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "Black On Black",
+        "url": "https://open.spotify.com/album/7qBgbKy50UBcaQCac4QzJ0"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144772,
+      "name": "Black On Black",
+      "url": "https://open.spotify.com/track/4IxMWTKD2rB3QsU77bXAyj"
+    },
+    {
+      "album": {
         "name": "Boeing 777",
         "url": "https://open.spotify.com/album/5ntrD9TJSG9KCjpdl3vCx1"
       },
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 198967,
       "name": "Boeing 777",
       "url": "https://open.spotify.com/track/4WtOqBES1aOHogJ264Sa4X"
@@ -1616,6 +1634,28 @@
       "duration_ms": 205934,
       "name": "B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
+    },
+    {
+      "album": {
+        "name": "Ca Bu Spera (feat. Guettoroots)",
+        "url": "https://open.spotify.com/album/4fYKI2VZ66HUbEZIY2P8dV"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        },
+        {
+          "name": "Guettoroots",
+          "url": "https://open.spotify.com/artist/7IJTr5gQ3AhhVbzP4nDZMF"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "Ca Bu Spera (feat. Guettoroots)",
+      "url": "https://open.spotify.com/track/5cCuBrjJY23SZXM1RcNJRY"
     },
     {
       "album": {
@@ -2476,7 +2516,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 171612,
       "name": "COMEKI\u00c9",
       "url": "https://open.spotify.com/track/4gyWu8AItixWLu0ZeYbskJ"
@@ -8501,6 +8541,28 @@
     },
     {
       "album": {
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb"
+      },
+      "artists": [
+        {
+          "name": "Instinto 26",
+          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "Priceless",
+      "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
+    },
+    {
+      "album": {
         "name": "Primeira Vez",
         "url": "https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE"
       },
@@ -9574,7 +9636,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 182970,
       "name": "SLOWLY",
       "url": "https://open.spotify.com/track/3GiSZdYGVzZOjKN3cdCQur"
@@ -9774,7 +9836,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 150000,
       "name": "Stilo De Vida",
       "url": "https://open.spotify.com/track/0xqNKNzT8j50NesacAAjkq"
@@ -11130,6 +11192,24 @@
       "duration_ms": 202760,
       "name": "Yeye",
       "url": "https://open.spotify.com/track/0k4lqIUYVQ3aFLDqFrx2Yu"
+    },
+    {
+      "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/3uQP0b2GQjsBpM5kZoOghZ"
+      },
+      "artists": [
+        {
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/6z5v6mkzlQSwhVxWLBdPkR"
     },
     {
       "album": {

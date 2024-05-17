@@ -1,13 +1,85 @@
 {
   "description": "Techno is a state of mind. Cover: Eli Brown",
-  "num_followers": 124609,
+  "num_followers": 124653,
   "original_name": "Techno State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjEjTgAAAADeDrGpliBWQGNyPKwNm9Lz",
+  "snapshot_id": "ZkaePAAAAABLiN+w1/JvD2ux8smxuq7R",
   "tracks": [
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Sierra",
+        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Sierra",
+      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
+    },
+    {
+      "added_at": "2024-04-30 16:58:54",
+      "album": {
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Trick Daddy / I Got Money",
+        "url": "https://open.spotify.com/album/5yHdlP0VgQDJUBGyMDzh2t"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Trick Daddy",
+      "url": "https://open.spotify.com/track/3Luwyvu9z27Di8fy78sGa4"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
+    },
     {
       "added_at": "2024-04-30 16:58:54",
       "album": {
@@ -23,6 +95,30 @@
       "duration_ms": 175781,
       "name": "Control",
       "url": "https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ"
+    },
+    {
+      "added_at": "2024-04-30 16:58:54",
+      "album": {
+        "name": "Mad Move (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/1WTjhkxLJDqLMdCmBpAoYh"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        },
+        {
+          "name": "Aazar",
+          "url": "https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Mad Move (ft. Scrufizzer)",
+      "url": "https://open.spotify.com/track/3XtHyHVwkHJ1M46UXM342m"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -87,6 +183,50 @@
     {
       "added_at": "2024-04-30 16:58:54",
       "album": {
+        "name": "Solpaz / Fading",
+        "url": "https://open.spotify.com/album/5IxSaDcsIOxUQ0kaFQQQs6"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Adz",
+          "url": "https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp"
+        }
+      ],
+      "duration_ms": 195903,
+      "name": "Solpaz",
+      "url": "https://open.spotify.com/track/37zxs3TCMq5QiecCytwCga"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Last Night (Anyma x Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 256743,
+      "name": "Last Night - Anyma x Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
+    },
+    {
+      "added_at": "2024-04-30 16:58:54",
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/2FYKOfOhEXB3iUfjay4ZRl"
       },
@@ -107,22 +247,22 @@
     {
       "added_at": "2024-04-30 16:58:54",
       "album": {
-        "name": "Concentrate",
-        "url": "https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP"
+        "name": "Not Exactly (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI"
       },
       "artists": [
         {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Concentrate",
-      "url": "https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB"
+      "duration_ms": 180000,
+      "name": "Not Exactly - Reb\u016bke Remix",
+      "url": "https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -143,6 +283,26 @@
       "duration_ms": 193218,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
+    },
+    {
+      "added_at": "2024-04-30 16:58:54",
+      "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/1geFIf5KqaxEWxBcv928AG"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "HOF",
+          "url": "https://open.spotify.com/artist/6g18j6U5EYDMoIAmEAstGI"
+        }
+      ],
+      "duration_ms": 327500,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/2C5RSCwLW5EknVBkRMsakA"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -177,6 +337,30 @@
       "url": "https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt"
     },
     {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Gimme The Word",
+        "url": "https://open.spotify.com/album/1CHneZHLHZ5CfWNJT4kSBb"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 179671,
+      "name": "Gimme The Word",
+      "url": "https://open.spotify.com/track/11uG66DBgeXl3P6vqm4wYC"
+    },
+    {
       "added_at": "2024-04-30 16:58:54",
       "album": {
         "name": "Breathe",
@@ -195,6 +379,22 @@
     {
       "added_at": "2024-04-30 16:58:54",
       "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/3iffE7yucOjQQclqnpm8Gv"
+      },
+      "artists": [
+        {
+          "name": "Just_us",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/68A1vnbgyfjs8v7Qbqm6D9"
+    },
+    {
+      "added_at": "2024-04-30 16:58:54",
+      "album": {
         "name": "Bloom At Night",
         "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
       },
@@ -207,26 +407,6 @@
       "duration_ms": 199047,
       "name": "Bloom At Night",
       "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "Solpaz / Fading",
-        "url": "https://open.spotify.com/album/5IxSaDcsIOxUQ0kaFQQQs6"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Adz",
-          "url": "https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp"
-        }
-      ],
-      "duration_ms": 195903,
-      "name": "Solpaz",
-      "url": "https://open.spotify.com/track/37zxs3TCMq5QiecCytwCga"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -251,26 +431,6 @@
     {
       "added_at": "2024-04-30 16:58:54",
       "album": {
-        "name": "New Life",
-        "url": "https://open.spotify.com/album/1geFIf5KqaxEWxBcv928AG"
-      },
-      "artists": [
-        {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
-        },
-        {
-          "name": "HOF",
-          "url": "https://open.spotify.com/artist/6g18j6U5EYDMoIAmEAstGI"
-        }
-      ],
-      "duration_ms": 327500,
-      "name": "New Life",
-      "url": "https://open.spotify.com/track/2C5RSCwLW5EknVBkRMsakA"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
         "name": "Oh My",
         "url": "https://open.spotify.com/album/35IaeVYU7soMmkdDbWVUo5"
       },
@@ -287,6 +447,22 @@
       "duration_ms": 160000,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/0sgh2BTw3Rgckpu04xmJGe"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 198870,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/297in4fZqWvilokR586DlB"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -313,24 +489,40 @@
       "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     },
     {
-      "added_at": "2024-04-30 16:58:54",
+      "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
         }
       ],
-      "duration_ms": 165335,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
+      "duration_ms": 159555,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 334615,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -359,26 +551,6 @@
     {
       "added_at": "2024-04-30 16:58:54",
       "album": {
-        "name": "Not Exactly (Reb\u016bke Remix)",
-        "url": "https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Not Exactly - Reb\u016bke Remix",
-      "url": "https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
         "name": "Let's Begin",
         "url": "https://open.spotify.com/album/3G95YugyYcr8ty6fIM1P5P"
       },
@@ -393,20 +565,20 @@
       "url": "https://open.spotify.com/track/008Q1wg8oH594VO9XkolM8"
     },
     {
-      "added_at": "2024-04-30 16:58:54",
+      "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Spiritual",
-        "url": "https://open.spotify.com/album/3iffE7yucOjQQclqnpm8Gv"
+        "name": "Telepathic",
+        "url": "https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O"
       },
       "artists": [
         {
-          "name": "Just_us",
-          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/68A1vnbgyfjs8v7Qbqm6D9"
+      "duration_ms": 278522,
+      "name": "Telepathic",
+      "url": "https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -441,28 +613,20 @@
       "url": "https://open.spotify.com/track/5Y1yjmrecSxXk9dt9hwvr2"
     },
     {
-      "added_at": "2024-04-30 16:58:54",
+      "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Mad Move (feat. Scrufizzer)",
-        "url": "https://open.spotify.com/album/1WTjhkxLJDqLMdCmBpAoYh"
+        "name": "Zip It",
+        "url": "https://open.spotify.com/album/3dgd5qWAA7nJ0RCXe8ewdZ"
       },
       "artists": [
         {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        },
-        {
-          "name": "Aazar",
-          "url": "https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Van Damn",
+          "url": "https://open.spotify.com/artist/3saUCw9rxdrL4Bn7pGolNO"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Mad Move (ft. Scrufizzer)",
-      "url": "https://open.spotify.com/track/3XtHyHVwkHJ1M46UXM342m"
+      "duration_ms": 180845,
+      "name": "Zip it - Radio Edit",
+      "url": "https://open.spotify.com/track/2yp9tslinu0RiDySUJp0N7"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -501,6 +665,22 @@
       "url": "https://open.spotify.com/track/08MmPdIc2RSZ93U4Ux2RxI"
     },
     {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "SHOUTOUT 2 LDN (Orignal)",
+        "url": "https://open.spotify.com/album/5jVXiQHJImO6GcruxQRBt6"
+      },
+      "artists": [
+        {
+          "name": "IMOGEN",
+          "url": "https://open.spotify.com/artist/2zURvWoEmiwX3J9xeTMIgv"
+        }
+      ],
+      "duration_ms": 267857,
+      "name": "SHOUTOUT 2 LDN",
+      "url": "https://open.spotify.com/track/5DcXjYl9DhpycSTarLAwVI"
+    },
+    {
       "added_at": "2024-04-30 16:58:54",
       "album": {
         "name": "The Passion 2024",
@@ -521,24 +701,20 @@
       "url": "https://open.spotify.com/track/2HvaUsoO7J931uVWkUh3SP"
     },
     {
-      "added_at": "2024-04-30 16:58:54",
+      "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Aria",
-        "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/2g7IjUeuHtCkUhxV5Wcl8n"
       },
       "artists": [
         {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+          "name": "Volaris",
+          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
         }
       ],
-      "duration_ms": 236065,
-      "name": "Aria",
-      "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
+      "duration_ms": 172680,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/1juWPgaEVrP1XpuzUbTL3Q"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -693,6 +869,26 @@
       "url": "https://open.spotify.com/track/7LNiEbgn9x43HQGQywRoYC"
     },
     {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "I AM JORDAN",
+        "url": "https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "duration_ms": 277491,
+      "name": "The Countdown",
+      "url": "https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz"
+    },
+    {
       "added_at": "2024-04-30 16:58:54",
       "album": {
         "name": "Liquidator",
@@ -767,6 +963,22 @@
       "duration_ms": 236666,
       "name": "Bouncing Ball",
       "url": "https://open.spotify.com/track/6vRFwAcJORICksCg3NNSxY"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Melbourne EP",
+        "url": "https://open.spotify.com/album/3mpU7DcVm1K42iyDM8rwcj"
+      },
+      "artists": [
+        {
+          "name": "NANCY Live",
+          "url": "https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Melbourne",
+      "url": "https://open.spotify.com/track/5iNYTaFkFuzZhlEA0UASUl"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -1135,22 +1347,6 @@
     {
       "added_at": "2024-04-30 16:58:54",
       "album": {
-        "name": "Desert Queen",
-        "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        }
-      ],
-      "duration_ms": 236691,
-      "name": "Desert Queen",
-      "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
         "name": "Formulate",
         "url": "https://open.spotify.com/album/1gG1t6YSrSolqK0F6Dy03I"
       },
@@ -1307,30 +1503,6 @@
       "duration_ms": 142344,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/0mkDHueaGm3zs0QJpmSe1g"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 208601,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -1599,42 +1771,6 @@
     {
       "added_at": "2024-04-30 16:58:54",
       "album": {
-        "name": "Loam / New Symbols",
-        "url": "https://open.spotify.com/album/768T6jfNag4j21bMUTfzFb"
-      },
-      "artists": [
-        {
-          "name": "SCALER",
-          "url": "https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W"
-        },
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 252617,
-      "name": "New Symbols",
-      "url": "https://open.spotify.com/track/3dDJ9g1KRj0c4b0WEPSZwx"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
         "name": "Need Electric (2023 Redux)",
         "url": "https://open.spotify.com/album/7MmVWRGEAORaSsGSlZ3pWB"
       },
@@ -1647,26 +1783,6 @@
       "duration_ms": 212500,
       "name": "Need Electric - 2023 Redux - Edit",
       "url": "https://open.spotify.com/track/5G28Zwt1Scwr3XS8IQDtLh"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "I Talk To Water",
-        "url": "https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Perry Farrell",
-          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
-        }
-      ],
-      "duration_ms": 297191,
-      "name": "I Talk To Water (with Perry Farrell)",
-      "url": "https://open.spotify.com/track/3DfzinNKzTSYInk2FKOx1h"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -1719,30 +1835,6 @@
     {
       "added_at": "2024-04-30 16:58:54",
       "album": {
-        "name": "RIDE OR DIE",
-        "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 189855,
-      "name": "RIDE OR DIE",
-      "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
         "name": "Technodroid EP",
         "url": "https://open.spotify.com/album/1CGoimGj9pDkpfbUZ135wx"
       },
@@ -1755,38 +1847,6 @@
       "duration_ms": 364545,
       "name": "Technodroid",
       "url": "https://open.spotify.com/track/5WktV40n5IA1cyrikR69y8"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "Emergency",
-        "url": "https://open.spotify.com/album/22COEF7PICKo3aWjudtV6T"
-      },
-      "artists": [
-        {
-          "name": "Marco Faraone",
-          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/3XLrGMJnAGawXv0a1yoTQr"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "ACID TRAXXX",
-        "url": "https://open.spotify.com/album/0ZNaxa4WrvuHmyBwZY49UA"
-      },
-      "artists": [
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        }
-      ],
-      "duration_ms": 367272,
-      "name": "FILTHY ACID",
-      "url": "https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI"
     },
     {
       "added_at": "2024-04-30 16:58:54",
@@ -1807,74 +1867,6 @@
       "duration_ms": 393070,
       "name": "Raven - Mathame Remix",
       "url": "https://open.spotify.com/track/0PHWOPRYE6ze9juI91h2An"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "My Fantasy",
-        "url": "https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "My Fantasy",
-      "url": "https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "Mango (2023 Edit)",
-        "url": "https://open.spotify.com/album/62EBxGrMF56ygSQzhKqRtJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/74i6loAN8sWEGN1EblwOF0"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Mango - 2023 Edit",
-      "url": "https://open.spotify.com/track/0talaImygs93swVz15SW2H"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "Barsoom EP",
-        "url": "https://open.spotify.com/album/4aVm5eHEBs1jz8aZ2vrRl3"
-      },
-      "artists": [
-        {
-          "name": "Antss",
-          "url": "https://open.spotify.com/artist/12bHqR5ggtW3Y9C7oPmwL2"
-        }
-      ],
-      "duration_ms": 353684,
-      "name": "Barsoom",
-      "url": "https://open.spotify.com/track/6E9ANTrElNEC6NJ7FD7dYo"
-    },
-    {
-      "added_at": "2024-04-30 16:58:54",
-      "album": {
-        "name": "Radical",
-        "url": "https://open.spotify.com/album/5EFl876r4ClNKdplwwH2XP"
-      },
-      "artists": [
-        {
-          "name": "Pig&Dan",
-          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
-        }
-      ],
-      "duration_ms": 274602,
-      "name": "Heartbreak",
-      "url": "https://open.spotify.com/track/2UCncsHyNdD1vydaF7rZ1k"
     }
   ],
   "unique_name": "Techno State",

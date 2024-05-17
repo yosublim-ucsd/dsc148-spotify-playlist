@@ -4641,6 +4641,24 @@
     },
     {
       "album": {
+        "name": "Better Will Come",
+        "url": "https://open.spotify.com/album/1L01NCxCJxNFuL7OgyuvOv"
+      },
+      "artists": [
+        {
+          "name": "Flamingosis",
+          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248580,
+      "name": "Soulsearcher",
+      "url": "https://open.spotify.com/track/0ygPVwsl15vlyfAJNE28mj"
+    },
+    {
+      "album": {
         "name": "ENGELDULL EP",
         "url": "https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K"
       },
@@ -5296,7 +5314,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"

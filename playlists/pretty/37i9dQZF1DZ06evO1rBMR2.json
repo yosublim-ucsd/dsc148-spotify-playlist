@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 111381,
+  "description": "This Is Los Huracanes del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 111410,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAAtUOeMfZdvTe4Tb+BepF1P",
+  "snapshot_id": "ZkP7AAAAAACUgmzlnHvHMsllP2aSaW67",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1o 2000",
-        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
+        "name": "Mi Complemento",
+        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 163082,
-      "name": "Veinte Mujeres De Negro",
-      "url": "https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm"
+      "duration_ms": 201691,
+      "name": "Mi Complemento",
+      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Complemento",
-        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
+        "name": "Norte\u00f1o 2000",
+        "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
       },
       "artists": [
         {
@@ -100,25 +100,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 201691,
-      "name": "Mi Complemento",
-      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Experiencia Y Juventud",
-        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 161671,
-      "name": "La Hielera",
-      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
+      "duration_ms": 163082,
+      "name": "Veinte Mujeres De Negro",
+      "url": "https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm"
     },
     {
       "added_at": null,
@@ -135,6 +119,22 @@
       "duration_ms": 169216,
       "name": "Viaje Eterno",
       "url": "https://open.spotify.com/track/4ajgw37ARwrMUV9ESMVfvd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Experiencia Y Juventud",
+        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 161671,
+      "name": "La Hielera",
+      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vientos Huracanados",
+        "url": "https://open.spotify.com/album/1eBRnitNiRIR4CGDfyTrM4"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 191085,
+      "name": "Vole Muy Alto",
+      "url": "https://open.spotify.com/track/48J8zASAodks2eLyRI0SNk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Profeta",
         "url": "https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx"
       },
@@ -239,38 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Contigo",
-        "url": "https://open.spotify.com/album/56rimWaiTGwWRjYR1jnNTz"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 144448,
-      "name": "Todo Contigo",
-      "url": "https://open.spotify.com/track/1Zq6wA4IEjDo7qRZMsOcL4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vientos Huracanados",
-        "url": "https://open.spotify.com/album/1eBRnitNiRIR4CGDfyTrM4"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 191085,
-      "name": "Vole Muy Alto",
-      "url": "https://open.spotify.com/track/48J8zASAodks2eLyRI0SNk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puro Pa` Arriba",
         "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 193697,
       "name": "El Hombre De Negro",
       "url": "https://open.spotify.com/track/652n8ymCgyYGeRx6S5eLxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/56rimWaiTGwWRjYR1jnNTz"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 144448,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/1Zq6wA4IEjDo7qRZMsOcL4"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#",
-        "url": "https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Amarte Es Hermoso",
-      "url": "https://open.spotify.com/track/0vLD11y3IeOD1nlhyoVPr0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Un Hurac\u00e1n",
         "url": "https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 159164,
       "name": "Ahora Por Ley",
       "url": "https://open.spotify.com/track/67iR6hdDeR3kLWKLcgnev4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#",
+        "url": "https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Amarte Es Hermoso",
+      "url": "https://open.spotify.com/track/0vLD11y3IeOD1nlhyoVPr0"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mensaje De Oro",
-        "url": "https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy"
+        "name": "#",
+        "url": "https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 132597,
-      "name": "La Viudita",
-      "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
+      "duration_ms": 196733,
+      "name": "Como Tu No Hay Dos",
+      "url": "https://open.spotify.com/track/3xK5YyO6zaNcMl1ay6LoL7"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "#",
-        "url": "https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG"
+        "name": "Mensaje De Oro",
+        "url": "https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 196733,
-      "name": "Como Tu No Hay Dos",
-      "url": "https://open.spotify.com/track/3xK5YyO6zaNcMl1ay6LoL7"
+      "duration_ms": 132597,
+      "name": "La Viudita",
+      "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 177032,
-      "name": "Paloma Querida",
-      "url": "https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Huracanes del Norte - 40 Aniversario",
         "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 205975,
       "name": "El Corrido De Los Perez",
       "url": "https://open.spotify.com/track/4BLxjH7MYEcnf8UuI739mq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Pa` Arriba",
+        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 177032,
+      "name": "Paloma Querida",
+      "url": "https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo"
     },
     {
       "added_at": null,

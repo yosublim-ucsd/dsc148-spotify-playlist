@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-290 songs - 15 hr 9 min
+291 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Can't Talk Right Now](https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Can't Talk Right Now](https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ) | 3:19 | 2023-09-08 | 2024-03-14 |
 | [Chains \(feat\. Daya\)](https://open.spotify.com/track/7FDbfuQ1VjSuFmFl5KFcyo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Chains \(feat\. Daya\)](https://open.spotify.com/album/2BInfOuI2kMrm2FIyCvoN0) | 3:19 | 2023-12-08 |  |
 | [Cheap Tricks](https://open.spotify.com/track/5YC5DE9R2RKKrG94vGNm0u) | [Vigel](https://open.spotify.com/artist/72S5xAuE30pC3FHJHaz5CQ), [Jimmy Roqsta](https://open.spotify.com/artist/5KWFe9aFIavfEzLxd9hta0) | [Cheap Tricks](https://open.spotify.com/album/1uIfe7Yk3fz7yTKkeKfXcn) | 2:22 | 2023-07-28 | 2024-03-14 |
+| [Cheri Cheri Lady \- Tech House Version](https://open.spotify.com/track/1Du5QYYZ9yjxmtG13wYKoB) | [Wamo](https://open.spotify.com/artist/2aVcWpmF6DBOMBguB1fwFZ), [Elemer](https://open.spotify.com/artist/7KuO3mvpWbSf7o7iR8fvOn) | [Cheri Cheri Lady \(Tech House Version\)](https://open.spotify.com/album/0CKaqrOZnbV40SmsZDimtl) | 2:29 | 2024-05-16 |  |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/1O8aHcA2gPhwDIJovDetN8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Chills \(LA Hills\)](https://open.spotify.com/album/0redIUGhpUdCdlx3q7OLQK) | 3:03 | 2023-06-13 | 2024-03-14 |
 | [Clandestina \(feat\. Emma Peters\) \- Slowboy Remix](https://open.spotify.com/track/1hQzXZwVw2s5HMJUlhuIrd) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0), [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja) | [Clandestina \(feat\. Emma Peters\) \[Slowboy Remix\]](https://open.spotify.com/album/64V1aYjDxLaRNHBGSlUs42) | 2:12 | 2023-06-30 | 2024-03-14 |
 | [Close To Me](https://open.spotify.com/track/1oeSKljuCK0KcrpmG9QKE8) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Close To Me](https://open.spotify.com/album/6zqlz5x1Jgrl5LikzEVobS) | 5:30 | 2023-11-20 | 2024-03-14 |

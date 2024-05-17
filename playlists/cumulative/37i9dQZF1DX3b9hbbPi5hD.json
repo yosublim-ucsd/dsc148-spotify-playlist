@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+    },
+    {
+      "album": {
         "name": "The Best of David Bowie 1980 / 1987",
         "url": "https://open.spotify.com/album/2FUCvmW24RbDwxyFaXm7Lt"
       },
@@ -482,10 +500,28 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 189240,
       "name": "Girl You'll Be A Woman Soon (Pulp Fiction)",
       "url": "https://open.spotify.com/track/0KpYiyexP4QpETO4Kn5Ewk"
+    },
+    {
+      "album": {
+        "name": "Stull",
+        "url": "https://open.spotify.com/album/07gzuMURkIJ7Iatsz3Uqw0"
+      },
+      "artists": [
+        {
+          "name": "Urge Overkill",
+          "url": "https://open.spotify.com/artist/5LEUigTSXpwrtERRcSW1N4"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "Girl, You'll Be a Woman Soon",
+      "url": "https://open.spotify.com/track/1mSzuXVjjKC0bPh6iG6xjy"
     },
     {
       "album": {
@@ -504,6 +540,46 @@
       "duration_ms": 243777,
       "name": "Goodnight Moon",
       "url": "https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul"
+    },
+    {
+      "album": {
+        "name": "Hooked On A Feeling - 40th Anniversary Collection",
+        "url": "https://open.spotify.com/album/12UILuDVbIIjLZhcRBNcOJ"
+      },
+      "artists": [
+        {
+          "name": "Blue Swede",
+          "url": "https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp"
+        },
+        {
+          "name": "Bj\u00f6rn Skifs",
+          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"
+    },
+    {
+      "album": {
+        "name": "Deepest Purple (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4OjTMhCfhJHdUDdIT1wi6D"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253493,
+      "name": "Hush - 1998 Remix",
+      "url": "https://open.spotify.com/track/4sTUkIe8cha0RCcTKvfc2J"
     },
     {
       "album": {
@@ -615,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Pulp Fiction (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Rosrqy5gnHaKLrh2ctnVq"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/25lQDEclLoUa0dZD25VRXV"
+    },
+    {
+      "album": {
         "name": "Wild And Peaceful",
         "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
       },
@@ -644,7 +738,7 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 186533,
       "name": "Jungle Boogie",
       "url": "https://open.spotify.com/track/4qxCDr5DquZsfaK7lvnY9G"
@@ -662,7 +756,7 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
@@ -680,7 +774,7 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 199400,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
@@ -882,7 +976,7 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 89551,
       "name": "Now You're All Alone - From \"The Hateful Eight\" Soundtrack",
       "url": "https://open.spotify.com/track/3SvXeAE6Io29kxfyHjK3H2"
@@ -958,6 +1052,24 @@
       "duration_ms": 311000,
       "name": "Outshined - Remastered",
       "url": "https://open.spotify.com/track/4VwPsMcRt1HPVKIdcwY9Uj"
+    },
+    {
+      "album": {
+        "name": "Ramblin' Gamblin' Man",
+        "url": "https://open.spotify.com/album/0mnZhL4hkaGyIckwOZ6dgE"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145310,
+      "name": "Ramblin' Gamblin' Man",
+      "url": "https://open.spotify.com/track/691Wr3tOjDqic3OTPLouX3"
     },
     {
       "album": {
@@ -1080,7 +1192,7 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 146626,
       "name": "Son Of A Preacher Man",
       "url": "https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n"
@@ -1116,7 +1228,7 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
@@ -1541,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Pulp Fiction (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Rosrqy5gnHaKLrh2ctnVq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161453,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/7p6ZGUXjUe0ctAu5RNnghu"
+    },
+    {
+      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -1570,7 +1700,7 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 160866,
       "name": "You Never Can Tell - 1964 Single Version / Mono",
       "url": "https://open.spotify.com/track/2LcV5dZWN47XVCVZ1dFwfQ"

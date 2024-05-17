@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=jTSkWGyPQEyp5bSnVk6kDQ>Sio</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU?si=h_oFscVVQlWeEYlJz8QZtw>Hanna</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -144,6 +144,24 @@
       "duration_ms": 156404,
       "name": "All About You",
       "url": "https://open.spotify.com/track/4GmaFkiZ2TFVcztCeCvbQY"
+    },
+    {
+      "album": {
+        "name": "Guilt Free",
+        "url": "https://open.spotify.com/album/48VUg8Curh2m3zbmjSUf95"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154029,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/4ez5tXxdlc2N2L6KM8skxP"
     },
     {
       "album": {
@@ -811,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/5nfnp4M0TXAdqN4cFL8R7r"
+      },
+      "artists": [
+        {
+          "name": "Chante",
+          "url": "https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254834,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/1llE1R8w9ikAbGEr32u5CX"
+    },
+    {
+      "album": {
         "name": "Closer To Me",
         "url": "https://open.spotify.com/album/3CRiDFu1JxHKZ9bij10BoA"
       },
@@ -1462,6 +1498,28 @@
       "duration_ms": 204722,
       "name": "feels like",
       "url": "https://open.spotify.com/track/2TFkOtXeYj8a83uix6DjvM"
+    },
+    {
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/33eqZbHN6puprs1ccSMU3p"
+      },
+      "artists": [
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        },
+        {
+          "name": "Ayanda Jiya",
+          "url": "https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/6dc1q5UPFNE0MuNwJec15r"
     },
     {
       "album": {
@@ -2444,7 +2502,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 160227,
       "name": "Know Me",
       "url": "https://open.spotify.com/track/7vkRrTEyZZ71DAPk6ItG2M"
@@ -2993,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/2rV7c4zLraZi1iCDKnTSsW"
+      },
+      "artists": [
+        {
+          "name": "Gemma Fassie",
+          "url": "https://open.spotify.com/artist/19dvqSl1KGxLWkMSfJgZSS"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/34UMYs60QzWIxQyrPSTqAk"
+    },
+    {
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -3458,6 +3534,32 @@
       "duration_ms": 165161,
       "name": "Realign",
       "url": "https://open.spotify.com/track/0W7c81V1fyE3dXySeuKZIM"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/7nOblJNjKtScXRavdUPTkC"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "GR!",
+          "url": "https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd"
+        },
+        {
+          "name": "Hook",
+          "url": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221503,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/0YU3tKmhAAGdRErYXBTw1t"
     },
     {
       "album": {
@@ -4036,6 +4138,28 @@
       "duration_ms": 88587,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R"
+    },
+    {
+      "album": {
+        "name": "Sweetness (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251326,
+      "name": "Sweetness (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
     },
     {
       "album": {

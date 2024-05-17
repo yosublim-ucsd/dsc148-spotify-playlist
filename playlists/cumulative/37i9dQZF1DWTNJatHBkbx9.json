@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 168346,
       "name": "2020",
       "url": "https://open.spotify.com/track/126QenBxKj6sU5WbS2SCzw"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 189269,
       "name": "Hello",
       "url": "https://open.spotify.com/track/15GZYiGVvGfR2FpIQQ4TPX"
@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "JADED (TO THE GAME)",
+        "url": "https://open.spotify.com/album/6T9OSmFVLMUDvjS1b8hYX1"
+      },
+      "artists": [
+        {
+          "name": "Oshunda",
+          "url": "https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155154,
+      "name": "JADED (TO THE GAME)",
+      "url": "https://open.spotify.com/track/5dDGxh8NGe19NF1JlWnkVe"
+    },
+    {
+      "album": {
         "name": "Jolie",
         "url": "https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 165500,
       "name": "Jolie",
       "url": "https://open.spotify.com/track/2BqNhy0Fc6VZk6TfQu5DDY"
@@ -624,6 +642,24 @@
       "duration_ms": 238273,
       "name": "Lemuella (feat. $pacely, KwakuBs, RJZ, Kwesi Arthur)",
       "url": "https://open.spotify.com/track/33YJBuPUw5QN0YANYbY5LU"
+    },
+    {
+      "album": {
+        "name": "Love Hard",
+        "url": "https://open.spotify.com/album/6g7gnzgDhtzBde95DPS6Mv"
+      },
+      "artists": [
+        {
+          "name": "BuDu",
+          "url": "https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152516,
+      "name": "Love Hard",
+      "url": "https://open.spotify.com/track/0FdcLCbPJPvJRKpvCzkTvz"
     },
     {
       "album": {
@@ -714,7 +750,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152790,
       "name": "Okay",
       "url": "https://open.spotify.com/track/4sGtnz2R0QTfSpf0z4FQBx"
@@ -736,6 +772,40 @@
       "duration_ms": 146500,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
+    },
+    {
+      "album": {
+        "name": "Pain and Pleasure",
+        "url": "https://open.spotify.com/album/17tb3wkAv9Kqbu5VLWgIcJ"
+      },
+      "artists": [
+        {
+          "name": "Iyke Parker",
+          "url": "https://open.spotify.com/artist/05CCsFubGf9UpnbXp0iAWr"
+        },
+        {
+          "name": "LeonardoDDJ",
+          "url": "https://open.spotify.com/artist/25Q3IQWJ78bRWV15GOQyYV"
+        },
+        {
+          "name": "99 PHACES",
+          "url": "https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p"
+        },
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        },
+        {
+          "name": "Freddie Gambini",
+          "url": "https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Pain and Pleasure",
+      "url": "https://open.spotify.com/track/1YNcsikMzn7VnhVQCXhx2o"
     },
     {
       "album": {
@@ -904,6 +974,24 @@
       "duration_ms": 203773,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/0PH8UPKRZmmXND0eTXb2fH"
+    },
+    {
+      "album": {
+        "name": "Rhythms and Blues",
+        "url": "https://open.spotify.com/album/5gQtma9p0VO3ZShVsT9tj3"
+      },
+      "artists": [
+        {
+          "name": "Lord Paper",
+          "url": "https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132127,
+      "name": "Rhythms and Blues",
+      "url": "https://open.spotify.com/track/0a3rLv5MLUxKJjSWPsYYIy"
     },
     {
       "album": {

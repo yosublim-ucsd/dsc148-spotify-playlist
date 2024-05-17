@@ -4,7 +4,7 @@
 
 > Music I've been enjoying lately  \- <a href="https://www.instagram.com/kidnapmusic/">Instagram</a>
 
-174 songs - 15 hr 2 min
+178 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Birds That Fly](https://open.spotify.com/track/77Dy2MkgAAmuAZ6F4XOWSL) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Birds That Fly](https://open.spotify.com/album/6iuLvniGIOTsgBK4AY97ub) | 5:28 | 2018-06-18 | 2023-03-18 |
 | [Birds That Fly \- Rival Consoles Remix](https://open.spotify.com/track/6VGdEP9LhUWe56DOya6K9U) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Birds That Fly \(Rival Consoles Remix\)](https://open.spotify.com/album/5u9tdDZvuREnnCcEbHYvU8) | 4:43 | 2023-03-17 |  |
 | [Birthright](https://open.spotify.com/track/24KBMWfxD8l3z9JwfgU9oL) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Birthright](https://open.spotify.com/album/0ls1gAa8FU4CIxyWk7B25q) | 3:03 | 2019-05-31 | 2023-03-18 |
+| [Blink](https://open.spotify.com/track/1sOmPPK4cXXejksCKwws69) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:28 | 2024-05-16 |  |
 | [Blue Moon Tree](https://open.spotify.com/track/6TgA4zU87WT2qt2YTG7SEo) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 7:52 | 2019-12-13 | 2023-03-18 |
 | [Brokenhearted \- Original Mix](https://open.spotify.com/track/2S8G31WGwPQmH1qjtx4yZd) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Brokenhearted](https://open.spotify.com/album/5i3ivC0pGBNOkKdWDShGzH) | 4:50 | 2018-06-18 | 2023-03-18 |
 | [Brooklyn](https://open.spotify.com/track/3eOvqSaLvDjUUw2Aterjd2) | [Lake People](https://open.spotify.com/artist/5cX67ZYgJm8VM5iN4XnLfl) | [Uneasy Hiding Places](https://open.spotify.com/album/62dw6Ann2QA7YYIc1oPVxv) | 6:48 | 2019-01-07 | 2023-03-18 |
@@ -44,6 +45,7 @@
 | [Dancing With You](https://open.spotify.com/track/4MWXP1Lo04kLOChXmu6LbR) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Extra Time](https://open.spotify.com/album/49qaWr7XitNvgKzobKGiGg) | 4:05 | 2023-03-17 | 2024-04-13 |
 | [Dead End Thrills \- Patrice Bäumel Remix](https://open.spotify.com/track/3MEjDXwQWnDzqwRanBgFzm) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Dead End Thrills \(Patrice Bäumel Remix\)](https://open.spotify.com/album/3X57vvkIMCfKX5nX9sQNDW) | 7:23 | 2018-06-18 | 2023-03-18 |
 | [Diamonds](https://open.spotify.com/track/297ZF3Zp0VFLY21qZ4bQ6W) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Diamonds](https://open.spotify.com/album/2wz27a9CrwZf9Kgu6PgWq2) | 2:04 | 2023-03-17 |  |
+| [Digital Diva](https://open.spotify.com/track/2pqBlfahT0qcHv8zcmLaDD) | [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Digital Diva EP](https://open.spotify.com/album/3fhXpGXn9d9cvWNlIp533B) | 4:11 | 2024-05-16 |  |
 | [Do It Without You](https://open.spotify.com/track/0G4JbmcDdxERktnzz9ndrF) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Dawn Chorus](https://open.spotify.com/album/3fDOKKGXHv4CsGCOTv4W3z) | 3:32 | 2019-12-13 | 2023-03-18 |
 | [Don't Hide It](https://open.spotify.com/track/4Ok6K8NhkfqIu11tIHjj2D) | [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [Don't Hide It](https://open.spotify.com/album/1UX8m8rjl6PMm8gbD2YSBc) | 2:52 | 2024-04-12 |  |
 | [Double Space](https://open.spotify.com/track/1eDLjICaYTRthGdaWefQxS) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Untitled \(AITAOA \#2\)](https://open.spotify.com/album/0sDGeBvS663KyXZiTQTv2M) | 2:53 | 2018-06-18 | 2023-03-18 |
@@ -64,6 +66,7 @@
 | [Float On \- Original Mix](https://open.spotify.com/track/75WlyMbLjT56pcoS20kqd8) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [Elongi EP](https://open.spotify.com/album/7bm1Exc5Jf0QLUw60HeM8X) | 8:39 | 2019-12-13 | 2023-03-18 |
 | [Flug & Fall \- Edit](https://open.spotify.com/track/6ffxu4OQhpMm610PBPwsEZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Anjunadeep Explorations 04](https://open.spotify.com/album/2h9Bnw0EMavlLgjzppTwWQ) | 5:16 | 2018-06-18 | 2023-03-18 |
 | [Free Energy \- Original Mix](https://open.spotify.com/track/1oAFe4pX7o5iIb96NPguHp) | [Juan Deminicis](https://open.spotify.com/artist/7DN8Db1uGrW7eUDjKf3Bfi) | [Bugs & Blossoms](https://open.spotify.com/album/7gc7INYiV83GH367pAisSr) | 7:32 | 2019-06-11 | 2023-03-18 |
+| [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 | 2024-05-16 |  |
 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 | 2024-04-12 |  |
 | [Glue](https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Glue](https://open.spotify.com/album/5hXjtSmicQETbDf1HNfEeD) | 4:29 | 2018-06-18 | 2023-03-18 |
 | [Got To Keep On \- Midland Remix](https://open.spotify.com/track/4gFOvBBmtQcYQMQ8YxpeSu) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Got To Keep On \(Midland Remix\)](https://open.spotify.com/album/0vhKK6lncAtZWC3qkSzd1t) | 5:59 | 2019-08-02 | 2023-03-18 |
@@ -73,6 +76,7 @@
 | [I Heard](https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [TAPE TWO](https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy) | 3:42 | 2023-03-17 |  |
 | [I'm Gonna Leave You \- The Cinematic Orchestra Remix](https://open.spotify.com/track/6AsNXny8vqYyOwBiqXDsHQ) | [Melanie De Biasio](https://open.spotify.com/artist/3pGgFAbmQ22e2LWjOtv5jH) | [Gilles Peterson Presents : Melanie De Biasio – No Deal Remixed](https://open.spotify.com/album/6Lj2Pa5XgxodxPiQnUGCKT) | 8:56 | 2018-06-22 | 2023-03-18 |
 | [Insect Near Piha Beach](https://open.spotify.com/track/2pOV1do0oBMOcEy4kT3ySp) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 5:15 | 2023-03-17 |  |
+| [Interstate](https://open.spotify.com/track/2uXto29uIPwlylelzRKCbn) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Interstate](https://open.spotify.com/album/1WAtzSNaL8Wv6ORBioGx6W) | 5:20 | 2024-05-16 |  |
 | [Isha](https://open.spotify.com/track/0lDhMhGXTRzABeRWd71PSl) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Grow](https://open.spotify.com/album/2SDHfha3SMTWjBeOVE9YCh) | 4:18 | 2019-10-07 | 2023-03-18 |
 | [It's Only Real](https://open.spotify.com/track/1d8yv21IqQl580O8Nulc4W) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [It's Only Real](https://open.spotify.com/album/6wWj414Za6bcJEEDCffctz) | 6:53 | 2019-12-13 | 2023-03-18 |
 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-04-12 |  |

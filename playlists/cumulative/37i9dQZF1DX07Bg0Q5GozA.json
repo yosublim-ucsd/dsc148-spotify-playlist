@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: 49th & Main",
+  "description": "New music off the beaten track. Cover: Mulay",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 270402,
       "name": "Carry Me Higher - 7 Inch Version",
       "url": "https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9"
@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 221746,
       "name": "Don't Talk To Me",
       "url": "https://open.spotify.com/track/2Z1Lt7J11dSp42X03PWGh5"
@@ -4817,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "Ghosting You",
+        "url": "https://open.spotify.com/album/3WeBR68oYmMu5s6ITJMduo"
+      },
+      "artists": [
+        {
+          "name": "Mulay",
+          "url": "https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228410,
+      "name": "Ghosting You",
+      "url": "https://open.spotify.com/track/2qoqzLWwrGmeZvukkQ2AKW"
+    },
+    {
+      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/3fW5jXxfLXPYMCc4vJqitm"
       },
@@ -5931,6 +5949,28 @@
     },
     {
       "album": {
+        "name": "I Forget (Richard X Remixes)",
+        "url": "https://open.spotify.com/album/1FYt31PDTU0mBGnRbwIJC2"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
+        },
+        {
+          "name": "Richard x",
+          "url": "https://open.spotify.com/artist/1U3sbewNFRq4oyhUWZinMi"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346255,
+      "name": "I Forget - Richard X's Ihmisliigatyyli Remix",
+      "url": "https://open.spotify.com/track/1NaAATQvwsSdIy6CdHo8iT"
+    },
+    {
+      "album": {
         "name": "I Get Sad So Easily",
         "url": "https://open.spotify.com/album/2BZXdN9QxEXmSgvobIr2q4"
       },
@@ -6054,6 +6094,28 @@
       "duration_ms": 158086,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5SlXy3CFqdz8zGiJYB8Zni"
+    },
+    {
+      "album": {
+        "name": "YIN YANG",
+        "url": "https://open.spotify.com/album/4rki27oL9zztufmroF5imS"
+      },
+      "artists": [
+        {
+          "name": "BLVTH",
+          "url": "https://open.spotify.com/artist/4blNBKcFhLQ0rhwAe4JQ1e"
+        },
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125650,
+      "name": "I WOZ HOME",
+      "url": "https://open.spotify.com/track/3CHUA6wInWJtRStWosd0am"
     },
     {
       "album": {
@@ -7497,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "album": {
         "name": "Analog Love",
         "url": "https://open.spotify.com/album/5g9mJsxT9wg3SyBbeAPUmx"
       },
@@ -7850,7 +7930,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 277561,
       "name": "Love Will Save Me",
       "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
@@ -8540,7 +8620,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 246886,
       "name": "Moments Die",
       "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
@@ -8806,6 +8886,46 @@
       "duration_ms": 201306,
       "name": "Music Makes Me High",
       "url": "https://open.spotify.com/track/4o8ssGZ37z8S93zHTNfDlD"
+    },
+    {
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Nelly Lawson",
+          "url": "https://open.spotify.com/artist/7sRBFpHYPL981CBLDkNAWD"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
     },
     {
       "album": {
@@ -11822,7 +11942,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 225849,
       "name": "Stellar",
       "url": "https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN"
@@ -12226,7 +12346,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 303142,
       "name": "Swirl - Roosevelt Remix",
       "url": "https://open.spotify.com/track/5hwwsF2ghUGZL7VQKKV16k"

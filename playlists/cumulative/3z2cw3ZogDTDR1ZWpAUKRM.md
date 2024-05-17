@@ -4,16 +4,17 @@
 
 > 
 
-26 songs - 2 hr 4 min
+28 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Another New World](https://open.spotify.com/track/2OWfdex8Sx9e6RqUeFfUKW) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Ahoy!](https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8) | 6:30 | 2024-04-08 |  |
+| [Another New World](https://open.spotify.com/track/2OWfdex8Sx9e6RqUeFfUKW) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Ahoy!](https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8) | 6:30 | 2024-04-08 | 2024-05-17 |
 | [Bread & Wine](https://open.spotify.com/track/6CgrS3cN3hBo4uCft5uFom) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Love & War & The Sea In Between](https://open.spotify.com/album/3jrVFS6lW7HvxOKN7QPQC8) | 3:54 | 2024-05-10 |  |
 | [Can't Win For Nothing](https://open.spotify.com/track/3wTOBV4b65YjvwOYs2yCuY) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Results Take Time](https://open.spotify.com/album/2ZNgCAl9uWdJiil7vb45LP) | 3:50 | 2024-04-15 | 2024-05-03 |
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2024-04-08 | 2024-05-03 |
 | [Chasing Ghosts](https://open.spotify.com/track/5NsejBqTH83xlbKFdjScSw) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [We Go On](https://open.spotify.com/album/6R41RzrVQb0K3VCkz6JVWe) | 3:24 | 2024-04-08 |  |
-| [Crooked Ways \(feat\. Terence F\. Clark\)](https://open.spotify.com/track/3qmofcHM3aKP3OADKjAORj) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Terence F\. Clark](https://open.spotify.com/artist/1POjjGDdXoEeXv27GsMxp5) | [Crooked](https://open.spotify.com/album/3HmkL2AENDW4XO9Da0NGy9) | 6:22 | 2024-05-02 |  |
+| [Crooked Ways \(feat\. Terence F\. Clark\)](https://open.spotify.com/track/3qmofcHM3aKP3OADKjAORj) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Terence F\. Clark](https://open.spotify.com/artist/1POjjGDdXoEeXv27GsMxp5) | [Crooked](https://open.spotify.com/album/3HmkL2AENDW4XO9Da0NGy9) | 6:22 | 2024-05-02 | 2024-05-17 |
+| [Darkness And Trees \- Reprise](https://open.spotify.com/track/45kgznK2dCoCfhIXhanR1y) | ['Come From Away' Company](https://open.spotify.com/artist/3yVB4N2PhQy60dAxzCoNdQ) | [Come From Away \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6SisHkIpxo4JN5kRcBEv9Z) | 1:44 | 2024-05-16 |  |
 | [Dear Me](https://open.spotify.com/track/1mBqbGYfsVJH1z2DHPNSbT) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [Every Mile Mattered](https://open.spotify.com/album/51HWO4nZXpw3nRosU2Nwsz) | 5:27 | 2024-04-08 | 2024-05-11 |
 | [Deep Magic](https://open.spotify.com/track/3dNOUOwnIKlPnlDrQLX5Ut) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [DEEP MAGIC](https://open.spotify.com/album/6azWJbjlgtEJWpPgdi2H6g) | 3:51 | 2024-04-08 | 2024-04-26 |
 | [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-04-08 | 2024-04-24 |
@@ -30,6 +31,7 @@
 | [Run Away With Me](https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 4:11 | 2024-04-08 | 2024-05-11 |
 | [The Dead Flag Blues](https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 16:27 | 2024-04-08 | 2024-05-03 |
 | [The Hops of Guldenberg](https://open.spotify.com/track/1BPs92wyDoD7oM1VDRQh9E) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Wireless](https://open.spotify.com/album/787N3qYer0QERjjoWlXJx0) | 4:52 | 2024-05-10 |  |
+| [The Mariner's Revenge Song](https://open.spotify.com/track/3GDIZO71jiE1FEcHEJh3RH) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y) | 8:45 | 2024-05-16 |  |
 | [The Mighty Rio Grande](https://open.spotify.com/track/37HI0imp0t6a0MBS00lPkS) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 11:16 | 2024-05-02 |  |
 | [Turn Me Up](https://open.spotify.com/track/0i6MFSVoW9FRPwEau74Wrq) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:44 | 2024-05-10 |  |
 | [Universal Sound](https://open.spotify.com/track/48nZLOpJOINkICPWpUuhaN) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:41 | 2024-04-08 | 2024-04-16 |

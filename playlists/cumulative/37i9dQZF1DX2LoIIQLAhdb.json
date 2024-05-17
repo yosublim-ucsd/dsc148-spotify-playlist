@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Merveille",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Leila AD",
   "name": "R&Bae",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 172120,
       "name": "Beau parleur",
       "url": "https://open.spotify.com/track/1dxLarvU0YHWPH0PuwQWUN"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152813,
       "name": "Coco & Chanel",
       "url": "https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 151500,
       "name": "Drunk & Luv",
       "url": "https://open.spotify.com/track/0BI4i1Cj46datq4HLf7g7b"
@@ -2437,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "K.O",
+        "url": "https://open.spotify.com/album/7cVTdwkr4PeYSn7d9C0W8R"
+      },
+      "artists": [
+        {
+          "name": "Meesyz",
+          "url": "https://open.spotify.com/artist/3ygeE9AJfIQ1QmhdSHM9ZK"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "K.O",
+      "url": "https://open.spotify.com/track/64c1P5g078UvNaIxLNlt34"
+    },
+    {
+      "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/6ON6G3oNKLuDYfJOshwuK6"
       },
@@ -2826,6 +2844,28 @@
       "duration_ms": 167293,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0H5UXo3J6LWUtsNwIgdQr8"
+    },
+    {
+      "album": {
+        "name": "Miroir, pt. I",
+        "url": "https://open.spotify.com/album/1tHeVzmHtMVovtLrWmpUIn"
+      },
+      "artists": [
+        {
+          "name": "Curtis Kane",
+          "url": "https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130850,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/2fH3bgJzaHjbqlEFCC5ti4"
     },
     {
       "album": {
@@ -3432,7 +3472,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 168724,
       "name": "Mon ex",
       "url": "https://open.spotify.com/track/7pM3eIlp7hqdjDfF7w1YxR"
@@ -3526,6 +3566,24 @@
       "duration_ms": 176808,
       "name": "NDENGE NINI",
       "url": "https://open.spotify.com/track/3gOZ4SiL6sfrdU2CDm7A74"
+    },
+    {
+      "album": {
+        "name": "Ne doute pas",
+        "url": "https://open.spotify.com/album/7L3GB3sojKXCcMZtGtPKaO"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185191,
+      "name": "Ne doute pas",
+      "url": "https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc"
     },
     {
       "album": {
@@ -4637,6 +4695,28 @@
     },
     {
       "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/2RF2jT1Uuyyo9b65GQzJ6y"
+      },
+      "artists": [
+        {
+          "name": "Leila AD",
+          "url": "https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170783,
+      "name": "Sans se retourner (feat. Leto)",
+      "url": "https://open.spotify.com/track/2uwU4OSLfYn1uMchldn0eP"
+    },
+    {
+      "album": {
         "name": "En attendant PM",
         "url": "https://open.spotify.com/album/62FGudHITMLyLr0dZFV8Xa"
       },
@@ -5312,7 +5392,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 162453,
       "name": "TPMP",
       "url": "https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb"

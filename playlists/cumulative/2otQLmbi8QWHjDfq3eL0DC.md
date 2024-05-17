@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week.\. All the biggest summer dance, house and electronic music to vibe to in 2024!
 
-187 songs - 8 hr 53 min
+189 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2023-11-03 | 2023-12-16 |
 | [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 | 2023-11-03 |  |
 | [Catchin' Fire](https://open.spotify.com/track/05bAjwIoHLUiIBpjpQVCkq) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Catchin' Fire](https://open.spotify.com/album/0uI0SVmStSPBpulbuoXftT) | 2:51 | 2023-11-03 | 2023-12-02 |
+| [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-05-17 |  |
 | [Chemistry](https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C), [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Chemistry](https://open.spotify.com/album/7M2PgMJyOQ2Pc3FTwNkPBz) | 2:46 | 2023-11-03 |  |
 | [Clingfilm](https://open.spotify.com/track/6rsnckYl9OQbXi6DPuKkCY) | [Tommy Gold](https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR) | [Clingfilm](https://open.spotify.com/album/5DhVVtUeqOLGvoc2MowgoI) | 3:35 | 2024-02-02 |  |
 | [Colourblind](https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Colourblind](https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy) | 3:05 | 2023-11-03 |  |
@@ -146,6 +147,7 @@
 | [Silence](https://open.spotify.com/track/3JvijFDDd3fUj4DZxcGw0l) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Sylvie](https://open.spotify.com/artist/65ZxzibB1frczfKSahNg5R) | [Silence](https://open.spotify.com/album/0ZWIMOsnBMBlTihsaKpfn4) | 3:42 | 2024-02-16 |  |
 | [Sinceramente](https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Sinceramente](https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse) | 3:35 | 2024-02-14 |  |
 | [Sinner](https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Sinner](https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW) | 3:11 | 2023-11-03 |  |
+| [Sky \(Shining Bright\)](https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky \(Shining Bright\)](https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7) | 2:50 | 2024-05-17 |  |
 | [Skywalking](https://open.spotify.com/track/01IC4KFPDVi1yJ7WTHUrfJ) | [CLIK3D](https://open.spotify.com/artist/054AWr3ShpT8e6JVHMC0Gs), [Pillows](https://open.spotify.com/artist/27GP9LCyNesCWiTi2S3bqc) | [Skywalking](https://open.spotify.com/album/4KJMcd1Zqir7xsXyatKxev) | 2:47 | 2023-11-03 |  |
 | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/track/160BnJrlHjlswLWBmi8mOz) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/album/0bkRVje5m0kIefrwE4eY7M) | 2:58 | 2024-02-23 | 2024-04-10 |
 | [Slow Motion](https://open.spotify.com/track/74zgUHiAs8U4t8Yy2lVO63) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Slow Motion](https://open.spotify.com/album/6wO58tdQbSRH4S9AX1Trd4) | 2:53 | 2023-11-03 |  |

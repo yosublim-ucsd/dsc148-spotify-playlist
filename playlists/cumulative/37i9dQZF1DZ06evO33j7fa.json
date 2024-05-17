@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Nick Drake. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Nick Drake. The essential tracks, all in one playlist.",
   "name": "This Is Nick Drake",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 200666,
       "name": "Bryter Layter",
       "url": "https://open.spotify.com/track/4ZYVAWHjnGFEuGGNrlHk4Y"
@@ -548,6 +548,24 @@
     {
       "album": {
         "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268354,
+      "name": "Hazey Jane I",
+      "url": "https://open.spotify.com/track/0HheBKrZSsUVyjhUbA3Viu"
+    },
+    {
+      "album": {
+        "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
       "artists": [
@@ -558,7 +576,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 269346,
       "name": "Hazey Jane I",
       "url": "https://open.spotify.com/track/0l2MlJk8MAvKfYDvJ4nv6l"
@@ -648,7 +666,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 231906,
       "name": "Man In A Shed",
       "url": "https://open.spotify.com/track/7rDJymAeuDbAKmRO07dGHS"
@@ -756,7 +774,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 224013,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
@@ -900,7 +918,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 245013,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R"

@@ -4,7 +4,7 @@
 
 > "the realization that each random passerby is living a life as vivid and complex as your own."
 
-82 songs - 3 hr 34 min
+83 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [blurred moon](https://open.spotify.com/track/1M9Ggvu2gYRB37UBJ4letX) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [blurred moon](https://open.spotify.com/album/2YQYY4ppF7KKozYBEE2Ees) | 1:22 | 2023-09-28 |  |
 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 | 2024-03-19 |  |
 | [Cloud Memory](https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Cloud Memory](https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU) | 1:57 | 2023-08-30 |  |
+| [Cold](https://open.spotify.com/track/3htYFunt7YtsGChtMlHmkc) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Cold](https://open.spotify.com/album/6elmTOi3sOIcpmBNAGfbAV) | 3:21 | 2024-05-16 |  |
 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 | 2024-04-01 |  |
 | [Does It Exist](https://open.spotify.com/track/0a1FILtXRqgstXURmhACKc) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 0:54 | 2023-08-29 |  |
 | [Escape](https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS) | [Kilgore Doubtfire](https://open.spotify.com/artist/6ACjuZLY6r7l5DYetnFOlr) | [Escape](https://open.spotify.com/album/6stqw16mycyRmbGf4iJvEZ) | 4:40 | 2023-12-06 | 2024-04-19 |

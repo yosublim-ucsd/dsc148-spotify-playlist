@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6jZSXmTCxZhFfYELtp78Ci">Fatima Hajji</a>'s favorite tracks\. Updated regularly\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-126 songs - 11 hr 17 min
+128 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Hybrid Boom](https://open.spotify.com/track/01Uf0wEBvU5trPVFauh5wh) | [PISAPIA \(IT\)](https://open.spotify.com/artist/6wBqeigBUFAIAnPuBQl071) | [Bomb Ass Bass](https://open.spotify.com/album/4xwpZVzialmHn12IeOnZtw) | 4:44 | 2023-06-29 |  |
 | [INDIGO](https://open.spotify.com/track/3gpAKcMVk1Z7txxyQGrbcx) | [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [INDIGO](https://open.spotify.com/album/17zo1ArKTZjMTYKN9tlIbk) | 5:26 | 2024-04-24 |  |
 | [Investigation](https://open.spotify.com/track/6GP1EQ7bXV8rrVDUCcg6R8) | [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [Investigation](https://open.spotify.com/album/1vU29dUN86SZFvm1sxX49F) | 6:06 | 2023-12-15 | 2024-03-12 |
-| [Istanbul's Night \- Intro](https://open.spotify.com/track/5iokwRcCp8qdkQpFO4jlWg) | [Onlynumbers](https://open.spotify.com/artist/14lZi2xEonJg9DyYk9JBak) | [My Heart Is Raging](https://open.spotify.com/album/1BOFVsggGoJ8Y9AJPF4hS6) | 2:56 | 2024-04-24 |  |
+| [Istanbul's Night \- Intro](https://open.spotify.com/track/5iokwRcCp8qdkQpFO4jlWg) | [Onlynumbers](https://open.spotify.com/artist/14lZi2xEonJg9DyYk9JBak) | [My Heart Is Raging](https://open.spotify.com/album/1BOFVsggGoJ8Y9AJPF4hS6) | 2:56 | 2024-04-24 | 2024-05-17 |
 | [It's My Beat](https://open.spotify.com/track/5Q70EWz2ZBoxMbaPRe7jvV) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [NYCO](https://open.spotify.com/artist/6qGPRvyYVYsn8CuD9kX2jP), [JSTN](https://open.spotify.com/artist/6eGp2AIQ3TjdRZ7uxdbaY2) | [It's My Beat](https://open.spotify.com/album/4JWIOoyDyAkeJ3py0ySleT) | 5:19 | 2023-06-29 |  |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2024-03-11 |  |
 | [Just A Dream](https://open.spotify.com/track/1WQv1xIQwuXmtgrOUftnKF) | [F I I S H I R](https://open.spotify.com/artist/2Cl6A70X4bUBdw6s1vMDAe) | [The Drug EP](https://open.spotify.com/album/0RmNKtCORPpwyaiq1zCzIF) | 6:21 | 2023-09-22 | 2024-04-19 |
@@ -81,6 +81,7 @@
 | [LSD \- Original Mix](https://open.spotify.com/track/7MnAFGsd5Ddk2yGY7EQkEI) | [Sancer](https://open.spotify.com/artist/4ar0DskzXYsTpxqb78W48y) | [Fresh Blood : Tome 3](https://open.spotify.com/album/69j4gGZAsXru7YlPHF4Ir7) | 4:20 | 2023-12-15 | 2024-03-12 |
 | [Lunar](https://open.spotify.com/track/0clhrrVpyYs9aHVckh20V1) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk), [Onlynumbers](https://open.spotify.com/artist/14lZi2xEonJg9DyYk9JBak) | [Lunar](https://open.spotify.com/album/6oZleqlQch4NIKtMtZ1PFn) | 3:38 | 2023-09-22 | 2023-12-16 |
 | [Mad Max](https://open.spotify.com/track/4bwOSTD7ujDm6pr6JSmTle) | [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [Techno Germany \- Various Artists EP](https://open.spotify.com/album/1xyzLqdM8KGm6HyzlVVWRG) | 5:19 | 2023-12-15 |  |
+| [Make Sacrifices For Glory](https://open.spotify.com/track/6UL8kegWViNO7sOM0hH64L) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [You Can't Stop The Movement](https://open.spotify.com/album/7axSOVM8XiPrr2qGqBMLCV) | 4:55 | 2024-05-16 |  |
 | [Man Feel Alive](https://open.spotify.com/track/74u62IxGepJQYICXH7o5fc) | [STORM](https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP) | [D.U.R.V.A.0.0.7](https://open.spotify.com/album/4K9pjzRIXEOrCNPGtrF7u4) | 5:00 | 2023-09-22 | 2023-12-16 |
 | [Maxillary](https://open.spotify.com/track/5AmuUxZMohX4OID3qErMhM) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I) | [Maxillary Marble](https://open.spotify.com/album/3Hn6c5CEHBiaWbeGQ75xuX) | 4:08 | 2024-03-11 |  |
 | [Mercenary](https://open.spotify.com/track/6hXvAW44t2aMHgXZqoPkkF) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4), [KSMS](https://open.spotify.com/artist/0BMlmXmFVNm7ytMmFtWTpp) | [Mercenary](https://open.spotify.com/album/4W9vx9NvpeGtzI6z5uNHmV) | 5:22 | 2023-12-15 | 2024-04-25 |
@@ -109,6 +110,7 @@
 | [Rotterdam](https://open.spotify.com/track/5vdaItb7tjuhs4IiXcxMXn) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Rotterdam](https://open.spotify.com/album/09bjCMeFNP34uhVccL6XsX) | 3:28 | 2023-06-29 | 2023-11-11 |
 | [Rotterdam](https://open.spotify.com/track/659MVEaPSSU0NwVm5ecO6n) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Rotterdam](https://open.spotify.com/album/5UFsq5Is76kvfKeLvBkTMf) | 3:28 | 2023-09-22 | 2024-04-25 |
 | [Say My Name](https://open.spotify.com/track/3ilMTmdIAhvj0JhGhQXQTO) | [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [Say My Name EP](https://open.spotify.com/album/74wRxPjl4EkXCsm84VYND8) | 6:10 | 2023-12-15 |  |
+| [Shadow Of Tears](https://open.spotify.com/track/5NagG9mPJeTrO0ut3lZZhW) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Shadow Of Tears](https://open.spotify.com/album/0joiyo2pC9Ad2CmIZsgBq0) | 7:38 | 2024-05-16 |  |
 | [Sky Walker](https://open.spotify.com/track/16qJHC1EXtLvEh3I1Oqw8O) | [PISAPIA \(IT\)](https://open.spotify.com/artist/6wBqeigBUFAIAnPuBQl071) | [Sky Walker](https://open.spotify.com/album/7MXRxfBiojCjoIsMzAFvoP) | 5:30 | 2023-09-22 | 2023-12-16 |
 | [Smashes Head \- Original Mix](https://open.spotify.com/track/5emONcgLPCKlrvM6Mkclal) | [RBX](https://open.spotify.com/artist/2G4dTLD07Q52jBjkO8kHST) | [COLOR VA02](https://open.spotify.com/album/0RAjMOPtojZXPT55BxH3p2) | 5:47 | 2024-03-11 |  |
 | [Smashes Heads \- Original Mix](https://open.spotify.com/track/7BqsluVhEFzQiGpxjMRlSx) | [RBX](https://open.spotify.com/artist/2G4dTLD07Q52jBjkO8kHST) | [COLOR VA02](https://open.spotify.com/album/5hprpC8cms818kVtMFFZJv) | 5:47 | 2023-06-29 | 2024-04-19 |
@@ -123,7 +125,7 @@
 | [The Aftermath](https://open.spotify.com/track/1eRVsFpFd4NfHG2ll5QneP) | [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [The Aftermath](https://open.spotify.com/album/44YoEUJNCcfuWE4djjgf2v) | 7:06 | 2023-06-29 | 2023-12-16 |
 | [THE NARCISSIST](https://open.spotify.com/track/65BLNYgVZuIdWOLrceH3pI) | [ARTLUS](https://open.spotify.com/artist/1aKmz7t8yGslHv54yYIHdg) | [THE NARCISSIST](https://open.spotify.com/album/0rMfH4mXt0azfYcLAYINvC) | 3:40 | 2023-06-29 | 2023-09-23 |
 | [The Number Of The Girl \- Svetec Remix](https://open.spotify.com/track/5D7AXgH2awm86okXZRqFyN) | [Buchecha](https://open.spotify.com/artist/2Z1NLvqe2wDzApSVsb4GA0) | [Hard Techno Engines EP](https://open.spotify.com/album/3fJtUwQhYOokjpfu6wjC2H) | 6:04 | 2023-12-15 | 2024-04-25 |
-| [This Is Hell](https://open.spotify.com/track/4TnVo9duMipsXYgpVSwn9L) | [ULTIMO](https://open.spotify.com/artist/4ck1IAQQucJ8QcEwI8fje4) | [This Is Hell](https://open.spotify.com/album/0mE8eI6wuAG7oRZIwV04tn) | 4:33 | 2023-06-29 |  |
+| [This Is Hell](https://open.spotify.com/track/4TnVo9duMipsXYgpVSwn9L) | [ULTIMO](https://open.spotify.com/artist/4ck1IAQQucJ8QcEwI8fje4) | [This Is Hell](https://open.spotify.com/album/0mE8eI6wuAG7oRZIwV04tn) | 4:33 | 2023-06-29 | 2024-05-17 |
 | [Too Hot](https://open.spotify.com/track/0amia3Ptk21pqJXohPwNuQ) | [BAIRD](https://open.spotify.com/artist/4f1He8bxNYKr00NVwjtiWG) | [Too Hot](https://open.spotify.com/album/6KvtZhKnxqtBY0xAuTHKa4) | 5:16 | 2023-09-22 | 2023-12-16 |
 | [Tough \- Greg Denbosa & L4NDR Remix](https://open.spotify.com/track/6j4PPJvQhzsBm09Hg6Knlh) | [K3RSEL](https://open.spotify.com/artist/61qiMyAuJn4C7nhqBUbsBs), [Greg Denbosa](https://open.spotify.com/artist/5dtfARWCpPG5xwzIPlhJlO), [L4NDR](https://open.spotify.com/artist/4X6s3NOh7uh36FilMwVEmd) | [K3RSEL \- Tough](https://open.spotify.com/album/4UmyiTAJLB5S7aGfcIDPhG) | 6:00 | 2023-06-29 | 2023-09-23 |
 | [Unchanged](https://open.spotify.com/track/5X88Dzc8T01NmYrbsiIPoh) | [Niereich](https://open.spotify.com/artist/1qwho0JFtd5Pn2ixKKE389) | [Untamed Frequencies](https://open.spotify.com/album/6bC69XhsiFtiWgONahsMap) | 7:03 | 2023-09-22 | 2023-12-16 |

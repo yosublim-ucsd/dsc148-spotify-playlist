@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: CHANMIN(\ucc2c\ubbfc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: SURL) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Begins youth (Original Xclusive Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL"
+      },
+      "artists": [
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248981,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2"
+    },
+    {
+      "album": {
         "name": "Bruised Cloud",
         "url": "https://open.spotify.com/album/3gUHZCAPR0m2vogn5cmZVm"
       },
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 233386,
       "name": "CINEMA",
       "url": "https://open.spotify.com/track/5oyTzFXDUIPeIaLUsvk01d"
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 167280,
       "name": "E-Girl (Feat. So!YoON!)",
       "url": "https://open.spotify.com/track/3NnTjY5oUN3rg5rEBLm6At"
@@ -4738,6 +4756,24 @@
       "duration_ms": 203031,
       "name": "How Can I (feat. Zoe Carovano)",
       "url": "https://open.spotify.com/track/3L8NV1XmWMUdlSAttlJ5h5"
+    },
+    {
+      "album": {
+        "name": "How To Go On",
+        "url": "https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "How To Go On",
+      "url": "https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w"
     },
     {
       "album": {
@@ -9237,6 +9273,24 @@
     },
     {
       "album": {
+        "name": "ringringring",
+        "url": "https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH"
+      },
+      "artists": [
+        {
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "ringringring",
+      "url": "https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac"
+    },
+    {
+      "album": {
         "name": "Rocket",
         "url": "https://open.spotify.com/album/2ZoEBlx7O98lArGmUgfNof"
       },
@@ -12136,7 +12190,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 206970,
       "name": "We Sink",
       "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"

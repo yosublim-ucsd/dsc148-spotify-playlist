@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Noventa, Vk Mac",
-  "num_followers": 167958,
+  "num_followers": 168001,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,26 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "100 Versos",
-        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
+        "name": "Quando Eu Oro",
+        "url": "https://open.spotify.com/album/72K8kXBI35lTVyf5TcVw2S"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
+        },
+        {
+          "name": "Izza D",
+          "url": "https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
         }
       ],
-      "duration_ms": 158663,
-      "name": "100 Versos",
-      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
+      "duration_ms": 158040,
+      "name": "Quando Eu Oro",
+      "url": "https://open.spotify.com/track/7G5Fm1W2Dff5Yxh479fLoG"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -507,32 +515,24 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Quando Eu Oro",
-        "url": "https://open.spotify.com/album/72K8kXBI35lTVyf5TcVw2S"
+        "name": "100 Versos",
+        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
       },
       "artists": [
         {
-          "name": "Educky",
-          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
-        },
-        {
-          "name": "Izza D",
-          "url": "https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1"
-        },
-        {
-          "name": "Todah Urban",
-          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Quando Eu Oro",
-      "url": "https://open.spotify.com/track/7G5Fm1W2Dff5Yxh479fLoG"
+      "duration_ms": 158663,
+      "name": "100 Versos",
+      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
     },
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Chove Cedo",
-        "url": "https://open.spotify.com/album/2HzZCISe25bdH1UMULbjuR"
+        "name": "Cora\u00e7\u00e3o Cansado",
+        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
       },
       "artists": [
         {
@@ -540,17 +540,13 @@
           "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         },
         {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        },
-        {
-          "name": "BIG THE KIID",
-          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Chove Cedo",
-      "url": "https://open.spotify.com/track/2XFkZKC26RhXF3yzkg0ykW"
+      "duration_ms": 160000,
+      "name": "Cora\u00e7\u00e3o Cansado",
+      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -679,8 +675,8 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado",
-        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
+        "name": "Chove Cedo",
+        "url": "https://open.spotify.com/album/2HzZCISe25bdH1UMULbjuR"
       },
       "artists": [
         {
@@ -688,13 +684,17 @@
           "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         },
         {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Cora\u00e7\u00e3o Cansado",
-      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
+      "duration_ms": 192000,
+      "name": "Chove Cedo",
+      "url": "https://open.spotify.com/track/2XFkZKC26RhXF3yzkg0ykW"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Romanos 12:2",
+        "url": "https://open.spotify.com/album/3C6M4QbrfuYzzJnCeddof8"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "Romanos 12:2",
+      "url": "https://open.spotify.com/track/1SiitLjEE4RIB5DvPe0PUV"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "Deixa Ele Entrar",
         "url": "https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T"
       },
@@ -807,18 +823,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Romanos 12:2",
-        "url": "https://open.spotify.com/album/3C6M4QbrfuYzzJnCeddof8"
+        "name": "Nemo",
+        "url": "https://open.spotify.com/album/4l3o6tjbPzEeOpxmBDs55i"
       },
       "artists": [
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
         }
       ],
-      "duration_ms": 172965,
-      "name": "Romanos 12:2",
-      "url": "https://open.spotify.com/track/1SiitLjEE4RIB5DvPe0PUV"
+      "duration_ms": 115140,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/4jfDVP8MynmWbMkzFAyKRc"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -847,22 +867,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Sonhei um Dia",
-        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
-      },
-      "artists": [
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Sonhei um Dia",
-      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
       },
@@ -879,38 +883,18 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Nemo",
-        "url": "https://open.spotify.com/album/4l3o6tjbPzEeOpxmBDs55i"
+        "name": "Sonhei um Dia",
+        "url": "https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv"
       },
       "artists": [
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Novidade Urbana",
-          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
         }
       ],
-      "duration_ms": 115140,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/4jfDVP8MynmWbMkzFAyKRc"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Salmos 33:3",
-        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
-      },
-      "artists": [
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Salmos 33:3",
-      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
+      "duration_ms": 181134,
+      "name": "Sonhei um Dia",
+      "url": "https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -935,6 +919,22 @@
       "duration_ms": 161344,
       "name": "Ren\u00fancia",
       "url": "https://open.spotify.com/track/70osJyLLdz5XgDcDuxgjbm"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "Salmos 33:3",
+        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Salmos 33:3",
+      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Amor \u00c1gape",
-        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 326028,
-      "name": "Amor \u00c1gape",
-      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "Trap Gospel Existe",
         "url": "https://open.spotify.com/album/45y3zKT3swOm8ZKdbftDvl"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 256285,
       "name": "Trap Gospel Existe",
       "url": "https://open.spotify.com/track/00nGa6T0InHfVSky5nDYrw"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "Amor \u00c1gape",
+        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 326028,
+      "name": "Amor \u00c1gape",
+      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -1267,26 +1267,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Paulo & Silas",
-        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
+        "name": "Arca de No\u00e9",
+        "url": "https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX"
       },
       "artists": [
         {
-          "name": "Tutuzin",
-          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
+          "name": "Lz Lipe",
+          "url": "https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb"
         },
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+          "name": "You Music",
+          "url": "https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171"
         }
       ],
-      "duration_ms": 173222,
-      "name": "Paulo & Silas",
-      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
+      "duration_ms": 176425,
+      "name": "Arca de No\u00e9",
+      "url": "https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -1307,22 +1303,26 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Arca de No\u00e9",
-        "url": "https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX"
+        "name": "Paulo & Silas",
+        "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
       },
       "artists": [
         {
-          "name": "Lz Lipe",
-          "url": "https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb"
+          "name": "Tutuzin",
+          "url": "https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN"
         },
         {
-          "name": "You Music",
-          "url": "https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171"
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
         }
       ],
-      "duration_ms": 176425,
-      "name": "Arca de No\u00e9",
-      "url": "https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF"
+      "duration_ms": 173222,
+      "name": "Paulo & Silas",
+      "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
     },
     {
       "added_at": "2024-05-10 03:01:00",

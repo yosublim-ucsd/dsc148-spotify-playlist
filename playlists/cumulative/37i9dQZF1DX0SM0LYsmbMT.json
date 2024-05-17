@@ -4717,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "Autotronic",
+        "url": "https://open.spotify.com/album/3gIAvArG75Fk60QV1LGv9F"
+      },
+      "artists": [
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133942,
+      "name": "Autotronic",
+      "url": "https://open.spotify.com/track/3jYhi2A2CzlmB0KQLk63yA"
+    },
+    {
+      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/1SDTaoCqCHdwr85Oon989M"
       },
@@ -7368,7 +7386,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 121729,
       "name": "Black Lotus",
       "url": "https://open.spotify.com/track/7EEFWcH5r3FN33LbOGEJ8U"
@@ -14368,7 +14386,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 69695,
       "name": "Come On Feet",
       "url": "https://open.spotify.com/track/26taiZkHApa2uZxyhdkzvB"
@@ -25568,7 +25586,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 98602,
       "name": "Funky",
       "url": "https://open.spotify.com/track/2D6J3k6GTE9CXJE0HfFxAb"
@@ -35678,7 +35696,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 89610,
       "name": "Jugallo",
       "url": "https://open.spotify.com/track/7MVJfTdUVlJFANqedc2ExD"
@@ -51338,7 +51356,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 132000,
       "name": "Olinda",
       "url": "https://open.spotify.com/track/1yFR64Bq9V0mGo7hpinmj1"
@@ -54562,6 +54580,32 @@
       "duration_ms": 136551,
       "name": "Perpetual",
       "url": "https://open.spotify.com/track/1V7S0owBfvZjpQcwkKukIA"
+    },
+    {
+      "album": {
+        "name": "Frameworks",
+        "url": "https://open.spotify.com/album/5yoMLqQhCNenP58Jj47JIp"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Viktor Minsky",
+          "url": "https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH"
+        },
+        {
+          "name": "Myr\u00edad",
+          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Perpetual Reverie",
+      "url": "https://open.spotify.com/track/015iuoU86aC7WUYCH6rZTD"
     },
     {
       "album": {
@@ -62823,6 +62867,24 @@
     },
     {
       "album": {
+        "name": "Silk Road",
+        "url": "https://open.spotify.com/album/3RFETcpnwLnZPnUNoj6BQM"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91602,
+      "name": "Silk Road",
+      "url": "https://open.spotify.com/track/3KALn61dWjJp7Acazw0Ccf"
+    },
+    {
+      "album": {
         "name": "Silky Wine",
         "url": "https://open.spotify.com/album/78yJIySXbEZ3nxLkLMKGT9"
       },
@@ -65702,7 +65764,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 145764,
       "name": "so\u00f1ador",
       "url": "https://open.spotify.com/track/7KZpD3r8oOxzPr6uNMfJdB"
@@ -70751,6 +70813,24 @@
     },
     {
       "album": {
+        "name": "Swung",
+        "url": "https://open.spotify.com/album/5vMuKWhcNfDDVhVf5bnlQw"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95294,
+      "name": "Swung",
+      "url": "https://open.spotify.com/track/5BBbJy0o870nkKvXGVVqrI"
+    },
+    {
+      "album": {
         "name": "Sylva",
         "url": "https://open.spotify.com/album/2GocLONbJRhobvV8PMcrSQ"
       },
@@ -75372,7 +75452,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 117142,
       "name": "Trouvaille",
       "url": "https://open.spotify.com/track/70rTwrjZbM9QUOuS70rZ2k"
@@ -77425,6 +77505,24 @@
     },
     {
       "album": {
+        "name": "Believe in Gerda (Instrumentals) [instrumental]",
+        "url": "https://open.spotify.com/album/1UHFY9olzmbQUPRCPWmsvN"
+      },
+      "artists": [
+        {
+          "name": "GERDA",
+          "url": "https://open.spotify.com/artist/2R8vGXr6HRz8x5Mi7VaEuB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132039,
+      "name": "Vibert - instrumental",
+      "url": "https://open.spotify.com/track/0YS1jdj5CkwqynNU0SOdnd"
+    },
+    {
+      "album": {
         "name": "Vibez Only",
         "url": "https://open.spotify.com/album/2tKxvCqHRXo1AhbRMv3yz3"
       },
@@ -78020,7 +78118,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 109175,
       "name": "Vocholandia",
       "url": "https://open.spotify.com/track/6f7vxKg2leAZxuFCo2tIry"
@@ -80856,7 +80954,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 157767,
       "name": "Whoo!",
       "url": "https://open.spotify.com/track/14kO9fxCfz4K5PXSMiOxJe"

@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/4sKh0lvHz8RmO3BOpETpZS"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn"
+    },
+    {
+      "album": {
         "name": "Lion of Judah",
         "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
       },
@@ -994,6 +1012,24 @@
       "duration_ms": 279066,
       "name": "You Are Yahweh",
       "url": "https://open.spotify.com/track/5SNw8bfADobJB1peaEUWcU"
+    },
+    {
+      "album": {
+        "name": "\u00c0\u00c1NU RE (Live)",
+        "url": "https://open.spotify.com/album/58f0lm4ufYoihz27JA9Rrv"
+      },
+      "artists": [
+        {
+          "name": "Tee Worship",
+          "url": "https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "\u00c0\u00c1NU RE - Live",
+      "url": "https://open.spotify.com/track/7cis87CPYVitN0xfV8XCum"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1PgTwYgvl4t"

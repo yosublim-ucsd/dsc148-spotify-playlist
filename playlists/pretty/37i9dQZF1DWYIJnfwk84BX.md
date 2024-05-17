@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 
 > Trilhas sonoras e grandes clássicos para te ajudar a relaxar durante a leitura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,278 likes - 117 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,281 likes - 117 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 | 106 | [Steep Hills of Vicodin Tears](https://open.spotify.com/track/6Yv5DNJlyW0e6Iy8zrh9Xy) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [A Winged Victory for the Sullen](https://open.spotify.com/album/2spBndYI1ujMciJOh0C2nQ) | 4:29 |
 | 107 | [Ave](https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [All I Need](https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51) | 4:07 |
 | 108 | [Farewell](https://open.spotify.com/track/2vlafA2ljFvjZmBkn4VYac) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 3:32 |
-| 109 | [Debussy: Piano Trio in G Major, CD 5, L\. 3: III\. Andante espressivo](https://open.spotify.com/track/7ipHx0jgei0eK8xn3xoKIL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L) | [Debussy: Sonatas and Piano Trio](https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ) | 3:47 |
+| 109 | [Debussy: Piano Trio in G Major, CD 5, L\. 5: III\. Andante espressivo](https://open.spotify.com/track/7ipHx0jgei0eK8xn3xoKIL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Debussy: Sonates & Trios](https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ) | 3:47 |
 | 110 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 111 | [String Quartet No\. 1 in D Major, Op\. 11, TH 111: II\. Andante cantabile](https://open.spotify.com/track/0bsfVvHZyPpLNFKW1RmZSW) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [New Haydn Quartet](https://open.spotify.com/artist/7wp6BctZqShWMtTzA5Bati) | [Tchaikovsky: String Quartets, Vol\. 1](https://open.spotify.com/album/62c5DxQhbkFpbH37PYNKzL) | 6:35 |
 | 112 | [Pilgrims on a Long Journey](https://open.spotify.com/track/3ZuXIVoa0q3D21CJY4ZLjd) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Child of Light](https://open.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r) | 3:31 |

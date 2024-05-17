@@ -2,7 +2,7 @@
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This is Nívea Soares\. Todos os maiores hits em uma só playlist.
+> This Is Nívea Soares\. Los temas esenciales, todos en una lista.
 
 63 songs - 7 hr 16 min
 

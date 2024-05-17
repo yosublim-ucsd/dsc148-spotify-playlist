@@ -1,13 +1,29 @@
 {
-  "description": "The cream of today's Country crop. Cover: Post Malone, Morgan Wallen",
-  "num_followers": 387260,
+  "description": "The cream of today's Country crop. Cover: Luke Combs",
+  "num_followers": 387542,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP9gAAAAAByM3+KAVoey+DwMbgDlx6b",
+  "snapshot_id": "ZkYRYAAAAAAkoS7aDcL7K3Bkq+0+HMVC",
   "tracks": [
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
@@ -45,6 +61,38 @@
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "Hang Tight Honey",
+        "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Hang Tight Honey",
+      "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
+    },
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "Betrayal",
+        "url": "https://open.spotify.com/album/3Q6tNsnuWm0bpYS5RAJlYc"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 180282,
+      "name": "Betrayal",
+      "url": "https://open.spotify.com/track/7uWM2ITKJdXGA6jjv50N0V"
+    },
+    {
       "added_at": "2024-05-15 00:10:40",
       "album": {
         "name": "Through the Smoke",
@@ -61,20 +109,20 @@
       "url": "https://open.spotify.com/track/5Rhs0uawH5KuifdWtphGN2"
     },
     {
-      "added_at": "2024-05-15 00:10:40",
+      "added_at": "2024-05-16 14:00:00",
       "album": {
-        "name": "Locked Up",
-        "url": "https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv"
+        "name": "Me Again",
+        "url": "https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 214293,
-      "name": "Country House",
-      "url": "https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X"
+      "duration_ms": 192000,
+      "name": "Cowboys Cry",
+      "url": "https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -95,18 +143,18 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "Devil You Know",
-        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+        "name": "Locked Up",
+        "url": "https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv"
       },
       "artists": [
         {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Devil You Know",
-      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+      "duration_ms": 214293,
+      "name": "Country House",
+      "url": "https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -127,18 +175,18 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "Fiddle in the Band",
-        "url": "https://open.spotify.com/album/449F70NfANoQxARzdu8EaD"
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 172551,
-      "name": "Fiddle in the Band",
-      "url": "https://open.spotify.com/track/5hkViySAjn0tMhLocH7ukQ"
+      "duration_ms": 163894,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -163,6 +211,22 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
+      "added_at": "2024-05-15 00:10:40",
+      "album": {
         "name": "Had To Be There",
         "url": "https://open.spotify.com/album/1hfo3fHdWWQ2UWlsJj3SoF"
       },
@@ -175,6 +239,38 @@
       "duration_ms": 183556,
       "name": "Had To Be There",
       "url": "https://open.spotify.com/track/3AibB8ZzNrqLeXuLYj6oql"
+    },
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "The Avett Brothers",
+        "url": "https://open.spotify.com/album/3Z7vd5JXLArFxYz8PxT6Py"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Orion's Belt",
+      "url": "https://open.spotify.com/track/2k6rccSqgz95TpE7gaZuVj"
+    },
+    {
+      "added_at": "2024-05-15 00:10:40",
+      "album": {
+        "name": "Fiddle in the Band",
+        "url": "https://open.spotify.com/album/449F70NfANoQxARzdu8EaD"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 172551,
+      "name": "Fiddle in the Band",
+      "url": "https://open.spotify.com/track/5hkViySAjn0tMhLocH7ukQ"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -211,18 +307,18 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "Beautiful As You",
-        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
+        "name": "Tear You Apart",
+        "url": "https://open.spotify.com/album/1H0Z6MMprrHNqQjQL3okDA"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
         }
       ],
-      "duration_ms": 163894,
-      "name": "Beautiful As You",
-      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+      "duration_ms": 211742,
+      "name": "Tear You Apart",
+      "url": "https://open.spotify.com/track/1TGW9R0hY4sMqMF0Spxkt5"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -241,20 +337,20 @@
       "url": "https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr"
     },
     {
-      "added_at": "2024-05-15 00:10:40",
+      "added_at": "2024-05-16 14:00:00",
       "album": {
-        "name": "Tear You Apart",
-        "url": "https://open.spotify.com/album/1H0Z6MMprrHNqQjQL3okDA"
+        "name": "Off The Drugs",
+        "url": "https://open.spotify.com/album/302f8lhyGcGhtPWY3Rl9RY"
       },
       "artists": [
         {
-          "name": "Sara Berki",
-          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
         }
       ],
-      "duration_ms": 211742,
-      "name": "Tear You Apart",
-      "url": "https://open.spotify.com/track/1TGW9R0hY4sMqMF0Spxkt5"
+      "duration_ms": 241339,
+      "name": "Off The Drugs",
+      "url": "https://open.spotify.com/track/2M47S4VTFtAavs7YD1lWGS"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -403,22 +499,6 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "Between the Fires",
-        "url": "https://open.spotify.com/album/3bAlMKpFRe4pvzhbKXwagd"
-      },
-      "artists": [
-        {
-          "name": "Troy Cassar-Daley",
-          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "Windradyne",
-      "url": "https://open.spotify.com/track/6TI9ThurvgHRkVGCljD4ks"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -431,6 +511,22 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2024-05-15 00:10:40",
+      "album": {
+        "name": "Between the Fires",
+        "url": "https://open.spotify.com/album/3bAlMKpFRe4pvzhbKXwagd"
+      },
+      "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "Windradyne",
+      "url": "https://open.spotify.com/track/6TI9ThurvgHRkVGCljD4ks"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -571,8 +667,8 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "This Ol' Rodeo",
-        "url": "https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl"
+        "name": "Songs From Bad For Me",
+        "url": "https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1"
       },
       "artists": [
         {
@@ -580,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
         }
       ],
-      "duration_ms": 258680,
-      "name": "This Ol' Rodeo",
-      "url": "https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF"
+      "duration_ms": 200102,
+      "name": "Waylon In '75",
+      "url": "https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -617,6 +713,42 @@
       "url": "https://open.spotify.com/track/5Cwy5VbPoYIwc5NSFWP91C"
     },
     {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "Ghosts In The Walls",
+        "url": "https://open.spotify.com/album/5EEk1ttS5mcthLuLk0caVP"
+      },
+      "artists": [
+        {
+          "name": "Hudson Rose",
+          "url": "https://open.spotify.com/artist/2OVd5jsVZnxyb1jI35yDEX"
+        }
+      ],
+      "duration_ms": 185827,
+      "name": "Ghosts In The Walls",
+      "url": "https://open.spotify.com/track/6MyzmUBqzp5a4afjF66ILZ"
+    },
+    {
+      "added_at": "2024-05-15 00:10:40",
+      "album": {
+        "name": "Stay in Your Lane",
+        "url": "https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z"
+      },
+      "artists": [
+        {
+          "name": "Bronson Diamond",
+          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
+        },
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 209417,
+      "name": "Stay in Your Lane",
+      "url": "https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid"
+    },
+    {
       "added_at": "2024-05-15 00:10:40",
       "album": {
         "name": "Stomping Ground",
@@ -631,22 +763,6 @@
       "duration_ms": 159953,
       "name": "Stomping Ground",
       "url": "https://open.spotify.com/track/0AQ1K437FArZ9LZL1JrLfU"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
-        "name": "Songs From Bad For Me",
-        "url": "https://open.spotify.com/album/0tT7h6ro2DYhKRa569BjY1"
-      },
-      "artists": [
-        {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
-        }
-      ],
-      "duration_ms": 200102,
-      "name": "Waylon In '75",
-      "url": "https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -667,22 +783,6 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -695,6 +795,22 @@
       "duration_ms": 171426,
       "name": "Fear and Friday's",
       "url": "https://open.spotify.com/track/0GMiRrUnQuoGddKMsxGPIZ"
+    },
+    {
+      "added_at": "2024-05-15 00:10:40",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -715,22 +831,6 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "Sin So Sweet",
-        "url": "https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Sin So Sweet",
-      "url": "https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
         "name": "Wranglers",
         "url": "https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN"
       },
@@ -743,22 +843,6 @@
       "duration_ms": 178196,
       "name": "Wranglers",
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
-        "name": "I Should Have Known It",
-        "url": "https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 236381,
-      "name": "I Should Have Known It",
-      "url": "https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -799,38 +883,18 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "Stay in Your Lane",
-        "url": "https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z"
+        "name": "This Ol' Rodeo",
+        "url": "https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl"
       },
       "artists": [
         {
-          "name": "Bronson Diamond",
-          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
-        },
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
         }
       ],
-      "duration_ms": 209417,
-      "name": "Stay in Your Lane",
-      "url": "https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
-        "name": "$10 Cowboy",
-        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 203295,
-      "name": "America",
-      "url": "https://open.spotify.com/track/63LVOsdT7bB52kCzNLsEPn"
+      "duration_ms": 258680,
+      "name": "This Ol' Rodeo",
+      "url": "https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -883,6 +947,22 @@
       "duration_ms": 233960,
       "name": "Some Days",
       "url": "https://open.spotify.com/track/1UGnoaLUkJfPFMgou67ER9"
+    },
+    {
+      "added_at": "2024-05-15 00:10:40",
+      "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 203295,
+      "name": "America",
+      "url": "https://open.spotify.com/track/63LVOsdT7bB52kCzNLsEPn"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -951,6 +1031,22 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
+        "name": "I Should Have Known It",
+        "url": "https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 236381,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U"
+    },
+    {
+      "added_at": "2024-05-15 00:10:40",
+      "album": {
         "name": "Baby Daddy's Weekend",
         "url": "https://open.spotify.com/album/7uwBOtieYh0NBjJco1GsuH"
       },
@@ -979,22 +1075,6 @@
       "duration_ms": 193986,
       "name": "Leather",
       "url": "https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -1031,22 +1111,18 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "Wild Ones (feat. Jelly Roll)",
-        "url": "https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g"
+        "name": "Matching Tattoos",
+        "url": "https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 141367,
-      "name": "Wild Ones (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz"
+      "duration_ms": 180181,
+      "name": "Matching Tattoos",
+      "url": "https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -1067,22 +1143,6 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
-        "name": "Matching Tattoos",
-        "url": "https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 180181,
-      "name": "Matching Tattoos",
-      "url": "https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd"
     },
     {
       "added_at": "2024-05-15 00:10:40",
@@ -1251,22 +1311,6 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "Born",
-        "url": "https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Thinkin\u2019 Bout",
-      "url": "https://open.spotify.com/track/1xBdR6G3ChZFJSyuyWicb5"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/0inaA4ttyipWBUij1V6Zq0"
       },
@@ -1319,22 +1363,6 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "28th of June",
-        "url": "https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 225363,
-      "name": "28th of June",
-      "url": "https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
         "name": "Rich Men North of Richmond",
         "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
       },
@@ -1367,26 +1395,6 @@
     {
       "added_at": "2024-05-15 00:10:40",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/6QMgGMYh0z0NWkEPWb769g"
-      },
-      "artists": [
-        {
-          "name": "FIREROSE",
-          "url": "https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 216791,
-      "name": "After The Storm",
-      "url": "https://open.spotify.com/track/10i4wnz3CyvAJ8LZxjGEMV"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
         "name": "Bitter Winds",
         "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
       },
@@ -1399,26 +1407,6 @@
       "duration_ms": 261294,
       "name": "Bitter Winds",
       "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
-    },
-    {
-      "added_at": "2024-05-15 00:10:40",
-      "album": {
-        "name": "She Fell in Love",
-        "url": "https://open.spotify.com/album/7pofaNDz7zTwCqiGge13HD"
-      },
-      "artists": [
-        {
-          "name": "Alex Mather",
-          "url": "https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw"
-        },
-        {
-          "name": "Richie Allen",
-          "url": "https://open.spotify.com/artist/2QycgFiuMbf6EiyqH9jeyY"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "She Fell in Love",
-      "url": "https://open.spotify.com/track/3J2VvjaVqkPsyya4ga99dW"
     }
   ],
   "unique_name": "Fresh Country",

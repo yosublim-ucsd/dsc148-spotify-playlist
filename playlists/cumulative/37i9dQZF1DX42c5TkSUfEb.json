@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Heroin",
+        "url": "https://open.spotify.com/album/6WYaDydNQGmWqs9zPBAwUO"
+      },
+      "artists": [
+        {
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357920,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/1azrJGZkTEy0JhcWCDFDO6"
+    },
+    {
+      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU"
       },
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 180619,
       "name": "I Know, I Know",
       "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"

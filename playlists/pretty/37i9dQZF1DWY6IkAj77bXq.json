@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 71316,
+  "num_followers": 71341,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
+        "name": "Restful Whispers",
+        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
+      },
+      "artists": [
+        {
+          "name": "Joa Abbot",
+          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
+        }
+      ],
+      "duration_ms": 218239,
+      "name": "Restful Whispers",
+      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
         "name": "Unfolding",
         "url": "https://open.spotify.com/album/0yOaKPEteOBVPdhpHs0Xs7"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 144766,
       "name": "Huma",
       "url": "https://open.spotify.com/track/4sUDVt3gP4omAmrt6UzI4g"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
-        "name": "Restful Whispers",
-        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
-      },
-      "artists": [
-        {
-          "name": "Joa Abbot",
-          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
-        }
-      ],
-      "duration_ms": 218239,
-      "name": "Restful Whispers",
-      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "The Sun Will Rise Again",
-        "url": "https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn"
-      },
-      "artists": [
-        {
-          "name": "Remi Asana",
-          "url": "https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc"
-        }
-      ],
-      "duration_ms": 142595,
-      "name": "The Sun Will Rise Again",
-      "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Easy Mind",
         "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 160000,
       "name": "Easy Mind",
       "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "The Sun Will Rise Again",
+        "url": "https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn"
+      },
+      "artists": [
+        {
+          "name": "Remi Asana",
+          "url": "https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc"
+        }
+      ],
+      "duration_ms": 142595,
+      "name": "The Sun Will Rise Again",
+      "url": "https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
-      },
-      "artists": [
-        {
-          "name": "Silent Movement",
-          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Paracosm",
-      "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Free Of Hesitation",
         "url": "https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 160427,
       "name": "Free Of Hesitation",
       "url": "https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
+      },
+      "artists": [
+        {
+          "name": "Silent Movement",
+          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Paracosm",
+      "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "A Silent Moon",
-        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
-      },
-      "artists": [
-        {
-          "name": "Atmosferion",
-          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "A Silent Moon",
-      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Mare Silentis",
         "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 168510,
       "name": "Mare Silentis",
       "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "A Silent Moon",
+        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
+      },
+      "artists": [
+        {
+          "name": "Atmosferion",
+          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "A Silent Moon",
+      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Orphic",
-        "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
-      },
-      "artists": [
-        {
-          "name": "The Nowhows",
-          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
-        }
-      ],
-      "duration_ms": 180909,
-      "name": "Orphic",
-      "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Solfeggio Frequencies & Meditation Music",
         "url": "https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 409616,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Orphic",
+        "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
+      },
+      "artists": [
+        {
+          "name": "The Nowhows",
+          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
+        }
+      ],
+      "duration_ms": 180909,
+      "name": "Orphic",
+      "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
-      },
-      "artists": [
-        {
-          "name": "Xiaoming Chu",
-          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 190666,
       "name": "Oh so Quiet",
       "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
+      },
+      "artists": [
+        {
+          "name": "Xiaoming Chu",
+          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Structure",
-        "url": "https://open.spotify.com/album/396r7PoiVVsRKXg8jlD3GX"
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
       },
       "artists": [
         {
-          "name": "Matter and Energy",
-          "url": "https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0"
+          "name": "Armand DeLuca",
+          "url": "https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu"
         }
       ],
-      "duration_ms": 185626,
-      "name": "Structure",
-      "url": "https://open.spotify.com/track/4mxKceI65QluBw8XSJpXiN"
+      "duration_ms": 154726,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Desiderio",
-        "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
+        "name": "Structure",
+        "url": "https://open.spotify.com/album/396r7PoiVVsRKXg8jlD3GX"
       },
       "artists": [
         {
-          "name": "Armand DeLuca",
-          "url": "https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu"
+          "name": "Matter and Energy",
+          "url": "https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0"
         }
       ],
-      "duration_ms": 154726,
-      "name": "Desiderio",
-      "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
+      "duration_ms": 185626,
+      "name": "Structure",
+      "url": "https://open.spotify.com/track/4mxKceI65QluBw8XSJpXiN"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Tensions",
-        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
+        "name": "Everlasting Lights",
+        "url": "https://open.spotify.com/album/3rxpTB5ABi00AJal0SE7WO"
       },
       "artists": [
         {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+          "name": "Priy",
+          "url": "https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Tensions",
-      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
+      "duration_ms": 199124,
+      "name": "Everlasting Lights",
+      "url": "https://open.spotify.com/track/7MTvwNVOEkpfDBQAu23vFG"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Everlasting Lights",
-        "url": "https://open.spotify.com/album/3rxpTB5ABi00AJal0SE7WO"
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
       },
       "artists": [
         {
-          "name": "Priy",
-          "url": "https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer"
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
         }
       ],
-      "duration_ms": 199124,
-      "name": "Everlasting Lights",
-      "url": "https://open.spotify.com/track/7MTvwNVOEkpfDBQAu23vFG"
+      "duration_ms": 156428,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Mystic Reverberations",
-        "url": "https://open.spotify.com/album/1TmnmvyZ3tZJnRK1mMc2Wd"
-      },
-      "artists": [
-        {
-          "name": "Spatia Sonica",
-          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Mystic Reverberations",
-      "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
+        "name": "Mystic Reverberations",
+        "url": "https://open.spotify.com/album/1TmnmvyZ3tZJnRK1mMc2Wd"
       },
       "artists": [
         {
-          "name": "LUVT",
-          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
         }
       ],
-      "duration_ms": 304952,
-      "name": "Solace - Meditation",
-      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
+      "duration_ms": 149250,
+      "name": "Mystic Reverberations",
+      "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1655,6 +1639,22 @@
       "duration_ms": 236521,
       "name": "Somnolent",
       "url": "https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "duration_ms": 304952,
+      "name": "Solace - Meditation",
+      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Shimmering Skies",
-        "url": "https://open.spotify.com/album/2OX9kxWj8XmANZvmnVKZAK"
-      },
-      "artists": [
-        {
-          "name": "Jon Stefans",
-          "url": "https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa"
-        }
-      ],
-      "duration_ms": 158942,
-      "name": "Shimmering Skies",
-      "url": "https://open.spotify.com/track/2RmSZhe8tR1XiyG9YxpnKM"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
       },
@@ -1755,22 +1739,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Sweet Slumber",
-        "url": "https://open.spotify.com/album/1wku6ChN7IUzLY6pR4bKjW"
-      },
-      "artists": [
-        {
-          "name": "Glow Crow",
-          "url": "https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Sweet Slumber",
-      "url": "https://open.spotify.com/track/2lDzCZM7VDRjzfpvkXXtow"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Sapphire Dunes",
         "url": "https://open.spotify.com/album/7FhbGL1VLeOHkwo3dSgZBj"
       },
@@ -1783,6 +1751,38 @@
       "duration_ms": 220540,
       "name": "Sapphire Dunes",
       "url": "https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Shimmering Skies",
+        "url": "https://open.spotify.com/album/2OX9kxWj8XmANZvmnVKZAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Stefans",
+          "url": "https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa"
+        }
+      ],
+      "duration_ms": 158942,
+      "name": "Shimmering Skies",
+      "url": "https://open.spotify.com/track/2RmSZhe8tR1XiyG9YxpnKM"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Sweet Slumber",
+        "url": "https://open.spotify.com/album/1wku6ChN7IUzLY6pR4bKjW"
+      },
+      "artists": [
+        {
+          "name": "Glow Crow",
+          "url": "https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Sweet Slumber",
+      "url": "https://open.spotify.com/track/2lDzCZM7VDRjzfpvkXXtow"
     },
     {
       "added_at": "2024-05-10 18:15:09",

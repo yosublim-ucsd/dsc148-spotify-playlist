@@ -25163,6 +25163,24 @@
     },
     {
       "album": {
+        "name": "The Beach (Instrumental Sped Up)",
+        "url": "https://open.spotify.com/album/0NIZJY2STBo20DuK8oN9mS"
+      },
+      "artists": [
+        {
+          "name": "mxpheebz",
+          "url": "https://open.spotify.com/artist/2WU2zdyBSJwYeG8GPH17Rl"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193909,
+      "name": "The Beach (Instrumental Sped Up)",
+      "url": "https://open.spotify.com/track/5QULCdTzKQY46QNNMXMWa6"
+    },
+    {
+      "album": {
         "name": "The Beauty",
         "url": "https://open.spotify.com/album/5BQiDI79H5ChnsmAwTfrSl"
       },

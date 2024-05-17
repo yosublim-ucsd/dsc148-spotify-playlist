@@ -1,12 +1,12 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: NTG",
-  "num_followers": 235250,
+  "num_followers": 235367,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2bwAAAAABeq6ryz10Q1g/KApbqj0W0",
+  "snapshot_id": "ZkY+bgAAAABbflFWHp8I2j4ou4DC4kvq",
   "tracks": [
     {
       "added_at": "2024-04-01 19:33:45",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
     },
     {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/6DAidc3PnHFfZRcNDCpILu"
+      },
+      "artists": [
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "duration_ms": 163514,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Mejor",
@@ -85,6 +101,30 @@
       "url": "https://open.spotify.com/track/2VyQdvvOsNifCt5DrT0NS1"
     },
     {
+      "added_at": "2024-05-16 17:12:14",
+      "album": {
+        "name": "Atras Del Peso",
+        "url": "https://open.spotify.com/album/6znwRtX2Gqvo5xaf58Jhvg"
+      },
+      "artists": [
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Black Jonas Point",
+          "url": "https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12"
+        },
+        {
+          "name": "Nitido Nintendo",
+          "url": "https://open.spotify.com/artist/0W1sucg7Pw2nSfRZCKlnIB"
+        }
+      ],
+      "duration_ms": 175428,
+      "name": "Atras Del Peso",
+      "url": "https://open.spotify.com/track/37TtBEQkCrBezZCGKoIW7X"
+    },
+    {
       "added_at": "2024-02-15 16:52:33",
       "album": {
         "name": "Tiki Tiki",
@@ -103,42 +143,6 @@
       "duration_ms": 121344,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/1JnRfqRvQN2sjQJlINz6cl"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Mami tu te pasas",
-        "url": "https://open.spotify.com/album/6AJqlG2du6OSrCNTnMQ4YS"
-      },
-      "artists": [
-        {
-          "name": "Dehry",
-          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        }
-      ],
-      "duration_ms": 185795,
-      "name": "Mami tu te pasas",
-      "url": "https://open.spotify.com/track/4pTRYHAJTRwfSXekgVYzj6"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Divino",
-        "url": "https://open.spotify.com/album/6DAidc3PnHFfZRcNDCpILu"
-      },
-      "artists": [
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        }
-      ],
-      "duration_ms": 163514,
-      "name": "Divino",
-      "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
     },
     {
       "added_at": "2024-01-12 21:24:53",
@@ -163,6 +167,46 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Mami tu te pasas",
+        "url": "https://open.spotify.com/album/6AJqlG2du6OSrCNTnMQ4YS"
+      },
+      "artists": [
+        {
+          "name": "Dehry",
+          "url": "https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 185795,
+      "name": "Mami tu te pasas",
+      "url": "https://open.spotify.com/track/4pTRYHAJTRwfSXekgVYzj6"
+    },
+    {
+      "added_at": "2024-05-16 17:12:14",
+      "album": {
+        "name": "Glock Freestyle",
+        "url": "https://open.spotify.com/album/7Gp3aGiWIVpZ1Im02lR6Of"
+      },
+      "artists": [
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        },
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        }
+      ],
+      "duration_ms": 439788,
+      "name": "Glock Freestyle",
+      "url": "https://open.spotify.com/track/4RRaw36EHRM7siNXgnS8Or"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Bichiyal",
         "url": "https://open.spotify.com/album/5voeKlzO0rCFsqYrGin4Dd"
       },
@@ -181,6 +225,22 @@
       "url": "https://open.spotify.com/track/0sNSYkBGiWI2co8xeMFWpp"
     },
     {
+      "added_at": "2024-03-27 20:37:44",
+      "album": {
+        "name": "Ante",
+        "url": "https://open.spotify.com/album/5nwY2q23E9tzoONdq8x0La"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 125087,
+      "name": "Ante",
+      "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Es Mejor Estar Chilling",
@@ -195,6 +255,22 @@
       "duration_ms": 145538,
       "name": "Es Mejor Estar Chilling",
       "url": "https://open.spotify.com/track/5ck7unLMqaLGEtpOUKMltP"
+    },
+    {
+      "added_at": "2024-05-16 17:12:14",
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/5YATUkB47595a4WeOvYedT"
+      },
+      "artists": [
+        {
+          "name": "I Am El Negro",
+          "url": "https://open.spotify.com/artist/0DN2PEOhfbZF1GdxqjILyK"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/6t07n5tcIJfrpddmnXzjJS"
     },
     {
       "added_at": "2024-04-25 22:06:48",
@@ -231,22 +307,6 @@
       "duration_ms": 140869,
       "name": "La Hoja Se Volteo",
       "url": "https://open.spotify.com/track/6DfjMgGhJV1Ny6wYBCUaRZ"
-    },
-    {
-      "added_at": "2024-03-27 20:37:44",
-      "album": {
-        "name": "Ante",
-        "url": "https://open.spotify.com/album/5nwY2q23E9tzoONdq8x0La"
-      },
-      "artists": [
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        }
-      ],
-      "duration_ms": 125087,
-      "name": "Ante",
-      "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -417,30 +477,6 @@
       "url": "https://open.spotify.com/track/0XKqFNGb80dIVeVKVyAitY"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "TE LLAMO",
-        "url": "https://open.spotify.com/album/79MsE4GtyEic7VadJ6gQLN"
-      },
-      "artists": [
-        {
-          "name": "La Melma Music",
-          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
-        },
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        },
-        {
-          "name": "Dowel King",
-          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
-        }
-      ],
-      "duration_ms": 169611,
-      "name": "TE LLAMO",
-      "url": "https://open.spotify.com/track/6PX4bwAK0bgKrpG6UJgxeH"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Endiablada",
@@ -459,26 +495,6 @@
       "duration_ms": 151916,
       "name": "Endiablada",
       "url": "https://open.spotify.com/track/5vjUBnAZsE422WOT0EBbaf"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Novio Nuevo",
-        "url": "https://open.spotify.com/album/38SWvAYSn4FvC31D5hjpfD"
-      },
-      "artists": [
-        {
-          "name": "La Pareta",
-          "url": "https://open.spotify.com/artist/4zIsGs03b7niRptRGr63MK"
-        },
-        {
-          "name": "Mark B.",
-          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "Novio Nuevo",
-      "url": "https://open.spotify.com/track/01k5np4XcbJtocWAgHtLuP"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -655,22 +671,6 @@
       "duration_ms": 192000,
       "name": "Pila de Cotorra",
       "url": "https://open.spotify.com/track/61tBJiWjeYJlfPokUcVJSb"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Llego El Control",
-        "url": "https://open.spotify.com/album/6gxafJAF317uiPtetd2NnU"
-      },
-      "artists": [
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        }
-      ],
-      "duration_ms": 245434,
-      "name": "Llego El Control",
-      "url": "https://open.spotify.com/track/7Bb6ALvmGdlZLxjjxtaM1x"
     },
     {
       "added_at": "2023-07-18 04:00:00",

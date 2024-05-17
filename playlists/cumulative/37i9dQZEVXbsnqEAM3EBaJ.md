@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,401 songs - 4 day 2 hr 41 min
+1,402 songs - 4 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1007,6 +1007,7 @@
 | [Save Face](https://open.spotify.com/track/6bo9WfTpX4pSsd0HZO8neM) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Save Face](https://open.spotify.com/album/0LV8a81HrP6fPxEPXvVjS7) | 6:23 | 2023-03-24 | 2023-04-01 |
 | [Save Me \(Feat\. Sanne Mieloo & Charlotte Wessels\)](https://open.spotify.com/track/2jU82yk8trZmHit4jn4zK1) | [Nemesea](https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD), [Sanne Mieloo](https://open.spotify.com/artist/5eGYKbeLvSI0bpEzpNgRe3), [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Save Me \(Feat\. Sanne Mieloo & Charlotte Wessels\)](https://open.spotify.com/album/6fSrFALcpi6N6kvhebSKaA) | 3:52 | 2024-03-29 | 2024-04-28 |
 | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT) | 2:55 | 2023-03-31 | 2023-04-22 |
+| [Scared Of Fear](https://open.spotify.com/track/3Zhf5rGA0fHo4dOYRlTIfX) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/12a47fBQQvcKqEQ9Nz3fBp) | 4:24 | 2024-05-10 |  |
 | [Scars \(feat\. Chris Daughtry of Daughtry\) \- Live](https://open.spotify.com/track/4TRMhy5HsTMiI7L949di3z) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Chris Daughtry](https://open.spotify.com/artist/6UEvetDZ4veYVgjA7RYrdI), [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/album/4zrKH7zJOfFevbpP2rqC4B) | 3:51 | 2024-02-16 | 2024-02-18 |
 | [Schakal 2024](https://open.spotify.com/track/2wPHfvoSX2jJFSecj7J9c0) | [Lacrimosa](https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp) | [Schakal 2024](https://open.spotify.com/album/7mH1TrpboegMnI25ILBzdc) | 8:12 | 2024-04-12 | 2024-05-12 |
 | [School's Out \- Live](https://open.spotify.com/track/3hKo142ynCDNTi0dXj0Jbx) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Live In El Paso 1980](https://open.spotify.com/album/7zJYbLiclgvuYGobyv6ZeW) | 2:27 | 2023-09-08 | 2023-09-18 |
@@ -1379,7 +1380,7 @@
 | [Wolf Unchained \- Alternative Mix](https://open.spotify.com/track/79ZzFRDXRNaOL3qGn7pffa) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [RökFlöte \(Alternative Mixes\)](https://open.spotify.com/album/3uXkihtnfUMEe8zsP2RpFU) | 4:58 | 2023-09-29 | 2023-10-29 |
 | [Wolves From The Fog \- 1993 Remastered](https://open.spotify.com/track/1xXXI8Or7yd63WeR6niRSv) | [Moonspell](https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6) | [Wolves From The Fog \(1993 Remastered\)](https://open.spotify.com/album/3HBx8I35JmlRWg6jCl6pum) | 6:09 | 2024-03-15 | 2024-03-30 |
 | [Wrath of Thunder](https://open.spotify.com/track/165NgQl24KfXV4qNdL6pzz) | [Versailles](https://open.spotify.com/artist/3suWpKrodV4J0ozhubrmir) | [VOGUE](https://open.spotify.com/album/78qNHjNv7E9TjyihxT8XbI) | 4:45 | 2023-06-23 | 2023-07-16 |
-| [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 | 2024-04-19 |  |
+| [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 | 2024-04-19 | 2024-05-17 |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-26 | 2024-05-03 |
 | [Y ahora soy feliz](https://open.spotify.com/track/1EbtCOI51Bdo2hVLvuCU37) | [Maxi Banegas](https://open.spotify.com/artist/3Luys0WRFHjGxsi3vkoB1n), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Destellos Del Folklore](https://open.spotify.com/album/5R4Bzjf6rdaMJ0wWxyTB2p) | 3:24 | 2023-04-14 | 2023-04-22 |
 | [Ya No Te Esperaré](https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Ya No Te Esperaré](https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy) | 3:28 | 2023-09-29 | 2023-10-07 |

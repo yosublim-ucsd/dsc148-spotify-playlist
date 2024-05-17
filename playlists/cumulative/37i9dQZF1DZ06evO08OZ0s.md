@@ -2,7 +2,7 @@
 
 ### [This Is Kelli\-Leigh](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08OZ0s)
 
-> This is Kelli\-Leigh\. Todos os maiores hits em uma só playlist.
+> This Is Kelli\-Leigh\. Los temas esenciales, todos en una lista.
 
 52 songs - 2 hr 39 min
 
@@ -31,7 +31,7 @@
 | [Kill The Lights](https://open.spotify.com/track/5B8d6CO6dbfxPOTf7f1XiL) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Kill The Lights](https://open.spotify.com/album/1iK3k25i2YYQZ5zCxpZx3x) | 2:58 | 2024-05-14 |  |
 | [Love & Devotion](https://open.spotify.com/track/3R60MeWYg7kRr5hNA8mlu9) | [Jenaux](https://open.spotify.com/artist/4pWvD2wQ6paqieVN9bE8yv), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Love & Devotion](https://open.spotify.com/album/3JrJsej825b2dqp0qtJGlY) | 4:10 | 2024-05-14 |  |
 | [Miracle](https://open.spotify.com/track/2leDTOLDDfcZe7wTcwEBB1) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Candy Cane Lane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qkGM0bKCxCyX1u67xMBkm) | 3:24 | 2024-05-14 |  |
-| [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2024-05-14 | 2024-05-15 |
+| [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2024-05-14 |  |
 | [Motherland \(Women's Six Nations Anthem\)](https://open.spotify.com/track/2qCpOVndPKJNyxA1162ztO) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Motherland \(Women's Six Nations Anthem\)](https://open.spotify.com/album/0nhc9acyraBcrWvNq3ICyo) | 2:55 | 2024-05-14 |  |
 | [Never Be](https://open.spotify.com/track/7JJGKSAOyyewFxFnqvrX7D) | [Tim Mason](https://open.spotify.com/artist/5GehdPjguGOCZifnKNrXi9), [Capa \(Official\)](https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Be](https://open.spotify.com/album/0dKWkIUNQvqI3KOT0D8PcA) | 3:45 | 2024-05-14 |  |
 | [Never Dance Again](https://open.spotify.com/track/3EcT70jEwuYlpKIFbncIoR) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3KcKrqVnhRUsdN1EVt1BNh) | 3:12 | 2024-05-14 |  |
@@ -58,7 +58,7 @@
 | [Unconditional \- Club Edit](https://open.spotify.com/track/4xcwaflj6AZnR3s6d9a3fR) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/2TkKDcE0X9qWjqDtddsZD7) | 3:28 | 2024-05-14 |  |
 | [Waiting \- VIP](https://open.spotify.com/track/4bvZRlHlgBt5fgYbEqtlj0) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Waiting \(VIP\)](https://open.spotify.com/album/06jgxM51n1uKPRnV0pFHBm) | 4:13 | 2024-05-14 |  |
 | [What They Call Love](https://open.spotify.com/track/2OIlhBByIefCdKGWq3gdiq) | [Ferdinand Weber](https://open.spotify.com/artist/5DSfdm9JanV5cqM2nzzJsN), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [What They Call Love](https://open.spotify.com/album/5MSCZrua4VIR192YmRRXDT) | 2:47 | 2024-05-14 |  |
-| [Without You \- Dissent Remix](https://open.spotify.com/track/0Wa9QbZRhwGPVAqYdJMzLD) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [DISSENT](https://open.spotify.com/artist/7EiqGw3DQxecvZLIK8QFSO) | [Without You \(Remixes\)](https://open.spotify.com/album/6jUfQTKKkB3Ta5YL5UCGYs) | 3:27 | 2024-05-15 |  |
+| [Without You \- Dissent Remix](https://open.spotify.com/track/0Wa9QbZRhwGPVAqYdJMzLD) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [DISSENT](https://open.spotify.com/artist/7EiqGw3DQxecvZLIK8QFSO) | [Without You \(Remixes\)](https://open.spotify.com/album/6jUfQTKKkB3Ta5YL5UCGYs) | 3:27 | 2024-05-15 | 2024-05-17 |
 | [Won't Stop \(feat\. Kelli\-Leigh\) \- Bob Sinclar & The Cube Guys Remix](https://open.spotify.com/track/3aR4fjqT4g2krC6zmLxwqm) | [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [Won't Stop \(feat\. Kelli\-Leigh\) \[Bob Sinclar & The Cube Guys Remix\]](https://open.spotify.com/album/5pj7u7cRPDaJJNliBXSZLv) | 3:08 | 2024-05-14 |  |
 
 \*This playlist was first scraped on 2024-05-14. Prior content cannot be recovered.

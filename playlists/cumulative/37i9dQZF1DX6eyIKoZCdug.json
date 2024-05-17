@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Roots",
+        "url": "https://open.spotify.com/album/1eT3yt0QMBaM8GT6N8e3Wp"
+      },
+      "artists": [
+        {
+          "name": "Walid Martinez",
+          "url": "https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409756,
+      "name": "2 Roots",
+      "url": "https://open.spotify.com/track/2rixeRSqKJP98HHOsLnHhr"
+    },
+    {
+      "album": {
         "name": "24Seven Remixes",
         "url": "https://open.spotify.com/album/4XppKFrcjhme8obIrdPImQ"
       },
@@ -156,7 +174,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 375495,
       "name": "Absurdity",
       "url": "https://open.spotify.com/track/7zf5PtZ6ehnbz8gvXXb5GC"
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 455986,
       "name": "Kare Kare",
       "url": "https://open.spotify.com/track/0NXZXOULYHtEQ8lO6wKAVD"
@@ -3095,6 +3113,32 @@
     },
     {
       "album": {
+        "name": "Sandcastle (Remixes)",
+        "url": "https://open.spotify.com/album/0OMsO7ck4mM05y1joUjI4k"
+      },
+      "artists": [
+        {
+          "name": "Sir LSG",
+          "url": "https://open.spotify.com/artist/2Uy7rPXDCqkd90ksG3sgt0"
+        },
+        {
+          "name": "Ayanda Jiya",
+          "url": "https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl"
+        },
+        {
+          "name": "The Bless",
+          "url": "https://open.spotify.com/artist/3CZx6i6bJbM2D05iXOMnL5"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262564,
+      "name": "Sandcastle - Sir LSG & The Bless Radio Edit",
+      "url": "https://open.spotify.com/track/7wkPyS0jyJUEqxuxfuppFh"
+    },
+    {
+      "album": {
         "name": "Sbindi Uyabulala",
         "url": "https://open.spotify.com/album/3FRElwwVzIzsKRcl9RXcqC"
       },
@@ -3278,7 +3322,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 379387,
       "name": "Suka",
       "url": "https://open.spotify.com/track/4ETqxUieEXrUru8B1fiXKk"
@@ -3548,7 +3592,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 351124,
       "name": "Thonga Lami - Gaudi Remix",
       "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
@@ -3845,6 +3889,36 @@
     },
     {
       "album": {
+        "name": "Umqhumo Wethu",
+        "url": "https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        },
+        {
+          "name": "The Ascension",
+          "url": "https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF"
+        },
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325176,
+      "name": "uZosala",
+      "url": "https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf"
+    },
+    {
+      "album": {
         "name": "uZuma Yi Star",
         "url": "https://open.spotify.com/album/7EECsOk0jkqwqkHi8B3Im1"
       },
@@ -4092,6 +4166,28 @@
       "duration_ms": 177000,
       "name": "Winyo Nungo",
       "url": "https://open.spotify.com/track/0EUOQmN7T9RdEBSAycGKPf"
+    },
+    {
+      "album": {
+        "name": "Within Me",
+        "url": "https://open.spotify.com/album/1JekMRrpYZUdqHypLHcMxj"
+      },
+      "artists": [
+        {
+          "name": "TAPIWA",
+          "url": "https://open.spotify.com/artist/18fxzBELWLV9RCCOqqjyEd"
+        },
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235530,
+      "name": "Within Me",
+      "url": "https://open.spotify.com/track/7DtWK3lSms04714HDzUm9n"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Harmonize",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -744,7 +744,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 184680,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/0I5lFzbgE9kwcZUeXmUZPn"
@@ -1184,6 +1184,28 @@
       "duration_ms": 212155,
       "name": "Dharau",
       "url": "https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX"
+    },
+    {
+      "album": {
+        "name": "Disconnect (feat. Marioo)",
+        "url": "https://open.spotify.com/album/5mMzFbsinhdB2lCXOwKc1j"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Disconnect (feat. Marioo)",
+      "url": "https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4"
     },
     {
       "album": {
@@ -2928,6 +2950,24 @@
       "duration_ms": 263799,
       "name": "Kufuli",
       "url": "https://open.spotify.com/track/4TKXEFQdDJop18ViF8uXvM"
+    },
+    {
+      "album": {
+        "name": "Kunguru",
+        "url": "https://open.spotify.com/album/2fNGt6yWdGfGKStXpkW0Mk"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250619,
+      "name": "Kunguru",
+      "url": "https://open.spotify.com/track/7CrKROpJ7yEwPkimUHkM7b"
     },
     {
       "album": {
@@ -8034,7 +8074,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 164210,
       "name": "You - E.A Remix",
       "url": "https://open.spotify.com/track/19fK3nUPSN9vHNy63zPDR5"

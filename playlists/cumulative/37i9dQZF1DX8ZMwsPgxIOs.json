@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 349000,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/4jDTMcSXDCBbwUoU2BnzzP"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 353684,
       "name": "Barsoom",
       "url": "https://open.spotify.com/track/6E9ANTrElNEC6NJ7FD7dYo"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 236691,
       "name": "Desert Queen",
       "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 227973,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/3XLrGMJnAGawXv0a1yoTQr"
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 367272,
       "name": "FILTHY ACID",
       "url": "https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI"
@@ -2397,6 +2397,32 @@
     },
     {
       "album": {
+        "name": "Gimme The Word",
+        "url": "https://open.spotify.com/album/1CHneZHLHZ5CfWNJT4kSBb"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179671,
+      "name": "Gimme The Word",
+      "url": "https://open.spotify.com/track/11uG66DBgeXl3P6vqm4wYC"
+    },
+    {
+      "album": {
         "name": "Gintare",
         "url": "https://open.spotify.com/album/02PIMfILWDKxSqvvut6D9F"
       },
@@ -2528,7 +2554,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 274602,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/2UCncsHyNdD1vydaF7rZ1k"
@@ -2652,7 +2678,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 208601,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
@@ -2717,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/2g7IjUeuHtCkUhxV5Wcl8n"
+      },
+      "artists": [
+        {
+          "name": "Volaris",
+          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172680,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/1juWPgaEVrP1XpuzUbTL3Q"
+    },
+    {
+      "album": {
         "name": "I Haven't Felt This Way",
         "url": "https://open.spotify.com/album/4P14zpfO2KopKDqxHAsr6S"
       },
@@ -2754,7 +2798,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 297191,
       "name": "I Talk To Water (with Perry Farrell)",
       "url": "https://open.spotify.com/track/3DfzinNKzTSYInk2FKOx1h"
@@ -3052,6 +3096,54 @@
       "duration_ms": 249756,
       "name": "Kettle's Up (feat. Botan)",
       "url": "https://open.spotify.com/track/7JKuWO9JtGIX5dpUWSJgVj"
+    },
+    {
+      "album": {
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334615,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9"
+    },
+    {
+      "album": {
+        "name": "Last Night (Anyma x Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256743,
+      "name": "Last Night - Anyma x Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
     },
     {
       "album": {
@@ -3354,7 +3446,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 165335,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
@@ -3496,7 +3588,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 215238,
       "name": "Mango - 2023 Edit",
       "url": "https://open.spotify.com/track/0talaImygs93swVz15SW2H"
@@ -3518,6 +3610,24 @@
       "duration_ms": 397996,
       "name": "Mare's Nest",
       "url": "https://open.spotify.com/track/0irFHzbR7gMo1WpAp9FKRh"
+    },
+    {
+      "album": {
+        "name": "Melbourne EP",
+        "url": "https://open.spotify.com/album/3mpU7DcVm1K42iyDM8rwcj"
+      },
+      "artists": [
+        {
+          "name": "NANCY Live",
+          "url": "https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186514,
+      "name": "Melbourne",
+      "url": "https://open.spotify.com/track/5iNYTaFkFuzZhlEA0UASUl"
     },
     {
       "album": {
@@ -3774,7 +3884,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 179133,
       "name": "My Fantasy",
       "url": "https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ"
@@ -3916,6 +4026,24 @@
     {
       "album": {
         "name": "New Generation",
+        "url": "https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198870,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/297in4fZqWvilokR586DlB"
+    },
+    {
+      "album": {
+        "name": "New Generation",
         "url": "https://open.spotify.com/album/1p5FZDd1nk6CqiL6Cpc26P"
       },
       "artists": [
@@ -3970,7 +4098,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 252617,
       "name": "New Symbols",
       "url": "https://open.spotify.com/track/3dDJ9g1KRj0c4b0WEPSZwx"
@@ -4880,7 +5008,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 189855,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
@@ -4920,6 +5048,24 @@
       "duration_ms": 203155,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
+    },
+    {
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
       "album": {
@@ -5267,6 +5413,24 @@
     },
     {
       "album": {
+        "name": "SHOUTOUT 2 LDN (Orignal)",
+        "url": "https://open.spotify.com/album/5jVXiQHJImO6GcruxQRBt6"
+      },
+      "artists": [
+        {
+          "name": "IMOGEN",
+          "url": "https://open.spotify.com/artist/2zURvWoEmiwX3J9xeTMIgv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267857,
+      "name": "SHOUTOUT 2 LDN",
+      "url": "https://open.spotify.com/track/5DcXjYl9DhpycSTarLAwVI"
+    },
+    {
+      "album": {
         "name": "Show You A Feeling",
         "url": "https://open.spotify.com/album/30R40bBxlNeMhF6A7Wqhkc"
       },
@@ -5282,6 +5446,28 @@
       "duration_ms": 159651,
       "name": "Show You A Feeling",
       "url": "https://open.spotify.com/track/0tYCZ69L3jc00o3GmNO0SV"
+    },
+    {
+      "album": {
+        "name": "Sierra",
+        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Sierra",
+      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
     },
     {
       "album": {
@@ -5877,6 +6063,24 @@
     },
     {
       "album": {
+        "name": "Telepathic",
+        "url": "https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278522,
+      "name": "Telepathic",
+      "url": "https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB"
+    },
+    {
+      "album": {
         "name": "The Afterparty (Loco & Jam Remix)",
         "url": "https://open.spotify.com/album/4emXTiKX7G6CtnK90bCNAI"
       },
@@ -5914,6 +6118,28 @@
       "duration_ms": 368823,
       "name": "The Age Of Ent",
       "url": "https://open.spotify.com/track/7imdBBUwjlvYwsHwE0YIsK"
+    },
+    {
+      "album": {
+        "name": "I AM JORDAN",
+        "url": "https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277491,
+      "name": "The Countdown",
+      "url": "https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz"
     },
     {
       "album": {
@@ -6085,6 +6311,24 @@
     },
     {
       "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159555,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s"
       },
@@ -6166,6 +6410,24 @@
       "duration_ms": 210461,
       "name": "Transit - Kevin Saunderson Remix",
       "url": "https://open.spotify.com/track/2NXe89CbqXHJvbdDWjPPfx"
+    },
+    {
+      "album": {
+        "name": "Trick Daddy / I Got Money",
+        "url": "https://open.spotify.com/album/5yHdlP0VgQDJUBGyMDzh2t"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180434,
+      "name": "Trick Daddy",
+      "url": "https://open.spotify.com/track/3Luwyvu9z27Di8fy78sGa4"
     },
     {
       "album": {
@@ -6948,6 +7210,24 @@
       "duration_ms": 354647,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
+    },
+    {
+      "album": {
+        "name": "Zip It",
+        "url": "https://open.spotify.com/album/3dgd5qWAA7nJ0RCXe8ewdZ"
+      },
+      "artists": [
+        {
+          "name": "Van Damn",
+          "url": "https://open.spotify.com/artist/3saUCw9rxdrL4Bn7pGolNO"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180845,
+      "name": "Zip it - Radio Edit",
+      "url": "https://open.spotify.com/track/2yp9tslinu0RiDySUJp0N7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs"

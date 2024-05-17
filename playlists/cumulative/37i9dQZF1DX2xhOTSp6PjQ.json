@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=q6P6fyMqR3mluO5n9Q8CVg\">Big Zulu</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=bxHBIxCoS7qHxrs-XtXUYQ\">Zwide</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 269860,
       "name": "Ngomthetho Omdala - Remake",
       "url": "https://open.spotify.com/track/3QHCcH3mQ7kVT7RgFWSIsI"
@@ -2614,6 +2614,24 @@
       "duration_ms": 297146,
       "name": "Please Call Me (feat. Oliver Mtukudzi & DJ Tira)",
       "url": "https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI"
+    },
+    {
+      "album": {
+        "name": "Ngingohlakaniphile",
+        "url": "https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK"
+      },
+      "artists": [
+        {
+          "name": "uZondi",
+          "url": "https://open.spotify.com/artist/7v8F0d0XcsoPFgCzde2dQN"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208927,
+      "name": "Rihanna",
+      "url": "https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV"
     },
     {
       "album": {

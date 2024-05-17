@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Fredo",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Clavish",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "ATM",
+        "url": "https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf"
+    },
+    {
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/4WdTj6XgugduzjfhFcI5Ew"
       },
@@ -4714,7 +4732,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 233406,
       "name": "Black Joy",
       "url": "https://open.spotify.com/track/730EN7hE2PKSnYsvD22Dje"
@@ -9335,6 +9353,28 @@
     },
     {
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/596jKXysp9NH8BNS30Lnw1"
+      },
+      "artists": [
+        {
+          "name": "BERNA",
+          "url": "https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed"
+        },
+        {
+          "name": "Glizz",
+          "url": "https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/55lXPhDmmXp0GwhzJL32VS"
+    },
+    {
+      "album": {
         "name": "Big Pakachino",
         "url": "https://open.spotify.com/album/5vmWLEI62f4E5QdGmdiGFm"
       },
@@ -11472,7 +11512,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 193985,
       "name": "Estelle",
       "url": "https://open.spotify.com/track/4pBMyDlaR7QvpgiY8i2pwg"
@@ -15296,7 +15336,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152571,
       "name": "Holman Road",
       "url": "https://open.spotify.com/track/7wfsK4poDPV4Zid5UoAEF6"
@@ -15654,7 +15694,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 154000,
       "name": "How You Feeling?",
       "url": "https://open.spotify.com/track/76i9UMCv33W5yX9U0n160A"
@@ -15980,7 +16020,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 177959,
       "name": "I KNOW YOU CARE (feat. Headie One)",
       "url": "https://open.spotify.com/track/3KAkDCkduuYArFXzN8nGoE"
@@ -16352,6 +16392,28 @@
       "duration_ms": 207428,
       "name": "Impressed",
       "url": "https://open.spotify.com/track/7btD01Fwbxgj6twkIqYofx"
+    },
+    {
+      "album": {
+        "name": "IMR",
+        "url": "https://open.spotify.com/album/4l9E5f9NfM0ppjlPDROyVB"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203198,
+      "name": "IMR",
+      "url": "https://open.spotify.com/track/2xbQgnahiVWgO9rbMZLleU"
     },
     {
       "album": {
@@ -17364,6 +17426,28 @@
       "duration_ms": 177714,
       "name": "Juice",
       "url": "https://open.spotify.com/track/5RV43RXGAhDNOiXbrTNCGs"
+    },
+    {
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/1DWWezFubs1rV18mrg4F4F"
+      },
+      "artists": [
+        {
+          "name": "Young LS",
+          "url": "https://open.spotify.com/artist/0ZErOUYhX8mr0KT0SA8zOE"
+        },
+        {
+          "name": "Blazer Boccle",
+          "url": "https://open.spotify.com/artist/2YmC1eRlfWVHvrLFyxAyAn"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104014,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/4dH09bj0ghw3CpJbvCwsoi"
     },
     {
       "album": {
@@ -19217,6 +19301,36 @@
     },
     {
       "album": {
+        "name": "Lively Linkup",
+        "url": "https://open.spotify.com/album/6cQK2VCshrDPl2p8ySP0Lc"
+      },
+      "artists": [
+        {
+          "name": "namesbliss",
+          "url": "https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM"
+        },
+        {
+          "name": "DeeRiginal",
+          "url": "https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p"
+        },
+        {
+          "name": "t.o",
+          "url": "https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68"
+        },
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137143,
+      "name": "Lively Linkup",
+      "url": "https://open.spotify.com/track/27RdqFu52cuz595j2ZMBfJ"
+    },
+    {
+      "album": {
         "name": "Loading",
         "url": "https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q"
       },
@@ -19856,7 +19970,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 215481,
       "name": "Lyrics Galore",
       "url": "https://open.spotify.com/track/2AhMDVUcUv2cNBEe5XuBkF"
@@ -20466,6 +20580,28 @@
       "duration_ms": 123472,
       "name": "Marathon",
       "url": "https://open.spotify.com/track/5cwrQTTQ08JwwF8qZV5i3M"
+    },
+    {
+      "album": {
+        "name": "Marathon Continues",
+        "url": "https://open.spotify.com/album/5SZFzpbghIe9iLqrZO2Rkd"
+      },
+      "artists": [
+        {
+          "name": "Skrapz",
+          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
+        },
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Marathon Continues",
+      "url": "https://open.spotify.com/track/4AiMQcJD1lTaowia5FIUMB"
     },
     {
       "album": {
@@ -31409,6 +31545,32 @@
     },
     {
       "album": {
+        "name": "The Cost of Being",
+        "url": "https://open.spotify.com/album/1NHAoAwuN2OwtfJUPeY75d"
+      },
+      "artists": [
+        {
+          "name": "BlazeYL",
+          "url": "https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "NSJ Mali",
+          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "Str8 Outta Kennington (feat. Blanco & NSJ Mali)",
+      "url": "https://open.spotify.com/track/2ivzkozfHlHCabNGJOr5Qe"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp"
       },
@@ -31763,6 +31925,24 @@
     },
     {
       "album": {
+        "name": "Sunset Blvd",
+        "url": "https://open.spotify.com/album/11RX2c8Jw3lUFGeRTmEH6B"
+      },
+      "artists": [
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139231,
+      "name": "Sunset Blvd",
+      "url": "https://open.spotify.com/track/3yz82DYnAtRu1Y3avZa0iS"
+    },
+    {
+      "album": {
         "name": "Super Trapper",
         "url": "https://open.spotify.com/album/4tGpKsurHbPtZ2pKzk2uLL"
       },
@@ -31922,7 +32102,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 192847,
       "name": "Sweet Boys Turned Sour",
       "url": "https://open.spotify.com/track/31QmFXYklf0s872nAp3GUg"
@@ -34572,7 +34752,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 253760,
       "name": "Uh Uh",
       "url": "https://open.spotify.com/track/4kAWMOXjrPIGYJFW5CEfxo"
@@ -34956,6 +35136,24 @@
       "duration_ms": 208500,
       "name": "Variation",
       "url": "https://open.spotify.com/track/7mO3Z8L3iWzXD4CcWla4nS"
+    },
+    {
+      "album": {
+        "name": "Chapter 16",
+        "url": "https://open.spotify.com/album/5RGiv2z7Xw3BFZNUBVEc5T"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196417,
+      "name": "Vartry Road",
+      "url": "https://open.spotify.com/track/6fCB3MxVEWjaQwASpBliNb"
     },
     {
       "album": {
@@ -36927,6 +37125,24 @@
     },
     {
       "album": {
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/7GkZ6kUXHyYVa4npDZYwK8"
+      },
+      "artists": [
+        {
+          "name": "Tskinz",
+          "url": "https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115169,
+      "name": "Writer's Block",
+      "url": "https://open.spotify.com/track/6qwvEY4USRrNbOLjN7KHuG"
+    },
+    {
+      "album": {
         "name": "Writers Block",
         "url": "https://open.spotify.com/album/52T2kYL27LnT541KG46plN"
       },
@@ -37094,7 +37310,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 122142,
       "name": "Yardstyle",
       "url": "https://open.spotify.com/track/2NmsUZBB19eCcxUpKBN1qa"

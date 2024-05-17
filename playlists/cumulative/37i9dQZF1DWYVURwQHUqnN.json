@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Naza x Ninho",
+  "description": "Photo : Heuss L'enfoir\u00e9 x Werenoi",
   "name": "Best Life",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 180515,
       "name": "760",
       "url": "https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 128640,
       "name": "BEST LIFE",
       "url": "https://open.spotify.com/track/7zjsolz1zSuSldI0nzS1Cf"
@@ -338,6 +338,32 @@
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "album": {
+        "name": "Cette vie l\u00e0",
+        "url": "https://open.spotify.com/album/1ePdvUoIltq2oGKz1OYobP"
+      },
+      "artists": [
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        },
+        {
+          "name": "Zedka",
+          "url": "https://open.spotify.com/artist/3rWPNJDCrhmz2WupEdgJV9"
+        },
+        {
+          "name": "Vybe",
+          "url": "https://open.spotify.com/artist/7qCwAUaOS16iq8jiZurfvl"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164832,
+      "name": "Cette vie l\u00e0",
+      "url": "https://open.spotify.com/track/59qFAzJ0AIfgM1MOg3F2pN"
     },
     {
       "album": {
@@ -582,7 +608,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 144033,
       "name": "DXB",
       "url": "https://open.spotify.com/track/1MWOBTcuQwLvK3lAhkOvtU"
@@ -1355,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Darvaza",
+        "url": "https://open.spotify.com/album/5Qschmq4Bg6DGahK5Zm4xU"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Ounahi",
+      "url": "https://open.spotify.com/track/10RVRLULhVViUii6tFjIcm"
+    },
+    {
+      "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
       },
@@ -1626,6 +1670,28 @@
       "duration_ms": 199782,
       "name": "Reste Trankil",
       "url": "https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9"
+    },
+    {
+      "album": {
+        "name": "Sous contr\u00f4le",
+        "url": "https://open.spotify.com/album/4giZXCK1xBPgdea8UmTIpU"
+      },
+      "artists": [
+        {
+          "name": "DJ Flash",
+          "url": "https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW"
+        },
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156146,
+      "name": "Risqu\u00e9",
+      "url": "https://open.spotify.com/track/6HCVioNcqAhwl3dkVLBhjE"
     },
     {
       "album": {
@@ -1932,7 +1998,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 164702,
       "name": "SQB",
       "url": "https://open.spotify.com/track/0aTEVqOJYf9TlstFHuthn0"
@@ -1958,6 +2024,24 @@
       "duration_ms": 171741,
       "name": "T'as capt\u00e9 (feat. Bryan Mg)",
       "url": "https://open.spotify.com/track/1qStFguolAbU8pPFoZu8xy"
+    },
+    {
+      "album": {
+        "name": "Te m\u00eale pas",
+        "url": "https://open.spotify.com/album/3tTyC1tooe8HLLmHop2KTN"
+      },
+      "artists": [
+        {
+          "name": "Emkal",
+          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128291,
+      "name": "Te m\u00eale pas",
+      "url": "https://open.spotify.com/track/144tzmvVmTJ53WHA5UvBKQ"
     },
     {
       "album": {

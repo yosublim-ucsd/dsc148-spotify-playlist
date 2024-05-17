@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-284 songs - 16 hr 21 min
+285 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Hira](https://open.spotify.com/track/6p86AjnKC7OKAbby5d2WlL) | [Sirokshan](https://open.spotify.com/artist/4gvX7j0D2LACF9lZWqMJmN), [Sriram Aravindh](https://open.spotify.com/artist/3UOQqJd6piOEm9QOk4dHV8) | [Hira](https://open.spotify.com/album/6H9Ebmu1KY48Rruyr0wPu1) | 4:09 | 2023-07-17 | 2024-01-06 |
 | [i Aval](https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ) | 2:49 | 2023-04-06 | 2023-10-07 |
 | [I Dont Know How I Feel](https://open.spotify.com/track/7to9BxAFZuACql3MzwJrkW) | [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [I Dont Know How I Feel](https://open.spotify.com/album/0PJeYQQnTBLlMxVfQsXBQe) | 3:21 | 2024-01-31 | 2024-02-22 |
+| [I Love You \- From "Think Indie"](https://open.spotify.com/track/6qLhGqkpNeCScdqW1vaXDK) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [A\-Gan](https://open.spotify.com/artist/3Npa3oPCYQ8BXQ9QzZsseH) | [I Love You \(From "Think Indie"\)](https://open.spotify.com/album/5yVaHl3QMFTJQelPDxhAbf) | 3:29 | 2024-05-16 |  |
 | [I SEE / LIGHT](https://open.spotify.com/track/3RmQl1DaiK7Tfkpqv8sQX9) | [Akroniim](https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4), [JBE](https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ) | [I SEE / LIGHT](https://open.spotify.com/album/5j9W2g8zxIvWEquGIXWPsi) | 3:41 | 2023-08-29 | 2024-02-10 |
 | [Idhai Yaar Solvaaro \- Deaffrogs Records](https://open.spotify.com/track/4OfLGsdYdU2MgWAXyErZ2A) | [KENEESHAA](https://open.spotify.com/artist/4zZsaegDxBfhj2UbGqDIDe), [Stony Psyko](https://open.spotify.com/artist/39cUrSwXh9awPD0itfevhV) | [Idhai Yaar Solvaaro \(Deaffrogs Records\)](https://open.spotify.com/album/2RxNgx7KUCHj5o3c1f0luA) | 3:37 | 2024-02-09 |  |
 | [Idhan da Life\-u](https://open.spotify.com/track/24G2oiRwA28lHKPte7z9qp) | [Shridhar Ramesh](https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y) | [Idhan da Life\-u](https://open.spotify.com/album/4wjpUrReORkoVTriAQbRNq) | 2:58 | 2023-03-21 | 2023-08-17 |

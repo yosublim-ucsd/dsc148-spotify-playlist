@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. cassyette",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. static dress ",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -784,7 +784,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 159200,
       "name": "ask nicely",
       "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 123005,
       "name": "Be With Me",
       "url": "https://open.spotify.com/track/4iBBoNJKbayT7kko0cquWf"
@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 148754,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2WH3mS1wEQVOnqM3MrtgrA"
@@ -2900,6 +2900,24 @@
       "duration_ms": 190344,
       "name": "Crumbled",
       "url": "https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA"
+    },
+    {
+      "album": {
+        "name": "crying",
+        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187234,
+      "name": "crying",
+      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
     },
     {
       "album": {
@@ -4223,6 +4241,24 @@
     },
     {
       "album": {
+        "name": "Evil, Hate Filled Female",
+        "url": "https://open.spotify.com/album/5XbrzbSYTZ0flygB6Pf7A9"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213261,
+      "name": "Evil, Hate Filled Female",
+      "url": "https://open.spotify.com/track/0vrsA8AV83kBmIxeHk2XaY"
+    },
+    {
+      "album": {
         "name": "Expensive City",
         "url": "https://open.spotify.com/album/7KikWHJJfV5OtaFOU1RY7f"
       },
@@ -4614,7 +4650,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 210877,
       "name": "Finally See Me",
       "url": "https://open.spotify.com/track/5JW3HX2c3H4FlOJERs52To"
@@ -5380,6 +5416,28 @@
       "duration_ms": 211643,
       "name": "Gladiator",
       "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
+    },
+    {
+      "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/7lnf3Q4p9c7wytuft17js7"
+      },
+      "artists": [
+        {
+          "name": "D1VA",
+          "url": "https://open.spotify.com/artist/5TyOhXk3vDyBXSLIKVCIJY"
+        },
+        {
+          "name": "XIU",
+          "url": "https://open.spotify.com/artist/71wMLgrCzyWyrlU3e4A2xY"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101760,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/4AxHnAcF7NNUIddf4qDTPu"
     },
     {
       "album": {
@@ -7769,6 +7827,28 @@
     },
     {
       "album": {
+        "name": "K9",
+        "url": "https://open.spotify.com/album/4yBjOCopyDn9TDoJHm59kf"
+      },
+      "artists": [
+        {
+          "name": "Humane The Moon",
+          "url": "https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m"
+        },
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175771,
+      "name": "K9",
+      "url": "https://open.spotify.com/track/5nnhETVQeAoJEnGJDuB6fC"
+    },
+    {
+      "album": {
         "name": "Kawasaki (I Love It)",
         "url": "https://open.spotify.com/album/31SchVDFY93wxiw59fHdyY"
       },
@@ -8429,6 +8509,24 @@
     },
     {
       "album": {
+        "name": "Matriarchy",
+        "url": "https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129078,
+      "name": "Lose My Cool",
+      "url": "https://open.spotify.com/track/1UEbyNXgbFfJHNUTkCxOiS"
+    },
+    {
+      "album": {
         "name": "Loser Deadbeat",
         "url": "https://open.spotify.com/album/7fHqMXilgXLPBIj2XbK59g"
       },
@@ -8836,7 +8934,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 133387,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/6DvJYM8BaFEUfFEHpGVZYd"
@@ -11119,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "quite like love",
+        "url": "https://open.spotify.com/album/36pGJan0ZnSj8myUNY4pC4"
+      },
+      "artists": [
+        {
+          "name": "cumgirl8",
+          "url": "https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198404,
+      "name": "quite like love",
+      "url": "https://open.spotify.com/track/4XvUEZrVB1cqc5ncbDUu8F"
+    },
+    {
+      "album": {
         "name": "REAL EYES REALIZE REAL LIES",
         "url": "https://open.spotify.com/album/0zJ3MbyZ0wdicmPB6fXfjA"
       },
@@ -11562,7 +11678,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 181835,
       "name": "Run",
       "url": "https://open.spotify.com/track/2DZ45B4hVwD6XoQ7gJE8ag"
@@ -12270,6 +12386,24 @@
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"
+    },
+    {
+      "album": {
+        "name": "smile",
+        "url": "https://open.spotify.com/album/0vBpPNstLWsQCeAbAPuHHY"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188310,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7tu9g2cQxMFD6F9fBDvjga"
     },
     {
       "album": {
@@ -14145,6 +14279,24 @@
     },
     {
       "album": {
+        "name": "VULTURES.",
+        "url": "https://open.spotify.com/album/6sMu1eI4V6yEeYbtSNfXuT"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203007,
+      "name": "VULTURES.",
+      "url": "https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD"
+    },
+    {
+      "album": {
         "name": "wanna luv u",
         "url": "https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno"
       },
@@ -14528,7 +14680,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 152822,
       "name": "where's my head at _",
       "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
@@ -14608,7 +14760,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 146080,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"

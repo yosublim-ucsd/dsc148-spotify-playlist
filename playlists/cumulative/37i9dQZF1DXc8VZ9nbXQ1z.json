@@ -2045,6 +2045,28 @@
     },
     {
       "album": {
+        "name": "Digane",
+        "url": "https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162701,
+      "name": "Digane",
+      "url": "https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe"
+    },
+    {
+      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/6ZawLbHsH4vXcrdLhGSGES"
       },
@@ -3108,6 +3130,32 @@
       "duration_ms": 385573,
       "name": "Gold & Green",
       "url": "https://open.spotify.com/track/0Vzjy2tT7KkwScyJ4efjSV"
+    },
+    {
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/31P59gRrOBDO8zRbhEmRRk"
+      },
+      "artists": [
+        {
+          "name": "Floyd Lavine",
+          "url": "https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw"
+        },
+        {
+          "name": "Coflo",
+          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
+        },
+        {
+          "name": "Rawb Boss",
+          "url": "https://open.spotify.com/artist/1CGgLRMyrQ5POtzYjeLKcC"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445440,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/2qZxw6wK5e4AiKDwRVpuVX"
     },
     {
       "album": {
@@ -7458,6 +7506,28 @@
       "duration_ms": 437031,
       "name": "Part of Me - Dub Mix",
       "url": "https://open.spotify.com/track/6aSLHnjmPHJ4SuOpoFj6No"
+    },
+    {
+      "album": {
+        "name": "Program and Control Man, Vol.3",
+        "url": "https://open.spotify.com/album/2E60lpYMqlc622UHQXiaJm"
+      },
+      "artists": [
+        {
+          "name": "104 BPM",
+          "url": "https://open.spotify.com/artist/2EK50Q6gOwRcZgfvlv3tVi"
+        },
+        {
+          "name": "Marco Pex",
+          "url": "https://open.spotify.com/artist/0kJmBPLjuqYEXcq9JT1O1n"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528527,
+      "name": "Passive Aggression",
+      "url": "https://open.spotify.com/track/6vfzv7W3KfWSEFP7j6XYlf"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=HygMrlfuRFKm5a-fVJpa9w\">Internet Girl</a> ",
-  "num_followers": 11556,
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH?si=zR0S6l00StOt0_QKVI4syQ\">Yoav</a> & <a href=\"https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=6sFlRiF0RPGbjOzsDZibMA\">Jabulile Majola</a>",
+  "num_followers": 11555,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj1HYAAAAADeSgrj90RcY0gNj/co1GSQ",
+  "snapshot_id": "ZkaB4AAAAAARBtIttcqvbP8bX1vSp242",
   "tracks": [
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Egomania",
+        "url": "https://open.spotify.com/album/66C8dZd7FQzC2RTE8GY1Pi"
+      },
+      "artists": [
+        {
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+        },
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        }
+      ],
+      "duration_ms": 226915,
+      "name": "Egomania",
+      "url": "https://open.spotify.com/track/6iEdNGb2vl8IMy7OUcPhEg"
+    },
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
@@ -23,74 +43,6 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "ROLE MODEL",
-        "url": "https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 118603,
-      "name": "ROLE MODEL",
-      "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "Enjoy Yourself",
-        "url": "https://open.spotify.com/album/41pouTN0IXwAy07c5bLmpX"
-      },
-      "artists": [
-        {
-          "name": "Desmond and the Tutus",
-          "url": "https://open.spotify.com/artist/2Fe88RexUZSpwGxgpaR5uz"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Pretoria Girls",
-      "url": "https://open.spotify.com/track/6zkVSIgcGnqromeMTYmXv4"
-    },
-    {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -111,18 +63,18 @@
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
-        "name": "Good Morning, Sunshine",
-        "url": "https://open.spotify.com/album/5dVPRn2HblUVCUrexq7UBr"
+        "name": "Enjoy Yourself",
+        "url": "https://open.spotify.com/album/41pouTN0IXwAy07c5bLmpX"
       },
       "artists": [
         {
-          "name": "Shortstraw",
-          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+          "name": "Desmond and the Tutus",
+          "url": "https://open.spotify.com/artist/2Fe88RexUZSpwGxgpaR5uz"
         }
       ],
-      "duration_ms": 213946,
-      "name": "Couch Potato",
-      "url": "https://open.spotify.com/track/5BsYcBRgqetNrAKpQzpHrK"
+      "duration_ms": 262706,
+      "name": "Pretoria Girls",
+      "url": "https://open.spotify.com/track/6zkVSIgcGnqromeMTYmXv4"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -139,6 +91,26 @@
       "duration_ms": 241688,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Boom Boom Back",
+        "url": "https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 204469,
+      "name": "Boom Boom Back",
+      "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -159,18 +131,18 @@
     {
       "added_at": "2024-02-09 03:53:38",
       "album": {
-        "name": "Critical as Water",
-        "url": "https://open.spotify.com/album/2fnLBRgQNQaT7Rx8GMH6kk"
+        "name": "Good Morning, Sunshine",
+        "url": "https://open.spotify.com/album/5dVPRn2HblUVCUrexq7UBr"
       },
       "artists": [
         {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/4vd9eTTUijWgDjbChqntBs"
+      "duration_ms": 213946,
+      "name": "Couch Potato",
+      "url": "https://open.spotify.com/track/5BsYcBRgqetNrAKpQzpHrK"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -187,6 +159,38 @@
       "duration_ms": 261000,
       "name": "Time to Pretend",
       "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "Critical as Water",
+        "url": "https://open.spotify.com/album/2fnLBRgQNQaT7Rx8GMH6kk"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/4vd9eTTUijWgDjbChqntBs"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -221,22 +225,6 @@
       "url": "https://open.spotify.com/track/7EGi0qRExGCKt76HRmCoBr"
     },
     {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
-    },
-    {
       "added_at": "2024-03-08 05:56:00",
       "album": {
         "name": "Run Your Mouth",
@@ -251,6 +239,22 @@
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "added_at": "2024-04-12 09:24:34",
+      "album": {
+        "name": "lucy~",
+        "url": "https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "lucy~",
+      "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
     },
     {
       "added_at": "2024-03-29 05:15:05",
@@ -287,22 +291,6 @@
       "duration_ms": 173800,
       "name": "Shortcuts",
       "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
-    },
-    {
-      "added_at": "2024-04-12 09:24:34",
-      "album": {
-        "name": "lucy~",
-        "url": "https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq"
-      },
-      "artists": [
-        {
-          "name": "Corbon Amodio",
-          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "lucy~",
-      "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
     },
     {
       "added_at": "2024-04-12 09:24:34",
@@ -437,22 +425,6 @@
       "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
     },
     {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
-    },
-    {
       "added_at": "2024-04-12 09:24:34",
       "album": {
         "name": "magic",
@@ -467,6 +439,22 @@
       "duration_ms": 253312,
       "name": "magic",
       "url": "https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS"
+    },
+    {
+      "added_at": "2024-02-09 03:53:38",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
       "added_at": "2024-03-15 04:56:50",
@@ -485,28 +473,24 @@
       "url": "https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v"
     },
     {
-      "added_at": "2024-02-09 03:53:38",
+      "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/0KK4ePbsPoLS2bagH6pv5T"
+        "name": "ROLE MODEL",
+        "url": "https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG"
       },
       "artists": [
         {
-          "name": "ZUBIN",
-          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
         },
         {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        },
-        {
-          "name": "Paul Timitch",
-          "url": "https://open.spotify.com/artist/48oyFLkOdjRGiVDSf6q5MS"
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
         }
       ],
-      "duration_ms": 140190,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/09VP3MkHbI4TvJUMxB03Z4"
+      "duration_ms": 118603,
+      "name": "ROLE MODEL",
+      "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
     },
     {
       "added_at": "2024-03-08 05:56:00",
@@ -543,22 +527,6 @@
     {
       "added_at": "2024-05-03 07:06:59",
       "album": {
-        "name": "Old Kid",
-        "url": "https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 209353,
-      "name": "Old Kid",
-      "url": "https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP"
-    },
-    {
-      "added_at": "2024-05-03 07:06:59",
-      "album": {
         "name": "Motorola Money",
         "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 110738,
       "name": "Motorola Money",
       "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
+    },
+    {
+      "added_at": "2024-05-03 07:06:59",
+      "album": {
+        "name": "Old Kid",
+        "url": "https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 209353,
+      "name": "Old Kid",
+      "url": "https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -621,22 +605,6 @@
       "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
-      "added_at": "2024-02-09 03:53:38",
-      "album": {
-        "name": "Dutch Courage",
-        "url": "https://open.spotify.com/album/1ZYFqxbE36mIM4wmvJcJXz"
-      },
-      "artists": [
-        {
-          "name": "aKING",
-          "url": "https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Safe As House",
-      "url": "https://open.spotify.com/track/5zy8dzGWyT64Fp8A2QSGMc"
-    },
-    {
       "added_at": "2024-03-22 05:26:24",
       "album": {
         "name": "Miss You",
@@ -671,22 +639,6 @@
     {
       "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "See You Shine",
-        "url": "https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "See You Shine",
-      "url": "https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk"
-    },
-    {
-      "added_at": "2024-02-22 22:00:00",
-      "album": {
         "name": "Setting Suns",
         "url": "https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y"
       },
@@ -699,6 +651,22 @@
       "duration_ms": 199960,
       "name": "Setting Suns",
       "url": "https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "See You Shine",
+        "url": "https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "See You Shine",
+      "url": "https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk"
     },
     {
       "added_at": "2024-02-22 22:00:00",
@@ -753,22 +721,6 @@
       "url": "https://open.spotify.com/track/0WAmA2PBpBgb6SR9iXI02C"
     },
     {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "Holding On To You",
-        "url": "https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 154793,
-      "name": "Holding On To You",
-      "url": "https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS"
-    },
-    {
       "added_at": "2024-03-15 07:27:54",
       "album": {
         "name": "Your Company",
@@ -785,20 +737,20 @@
       "url": "https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr"
     },
     {
-      "added_at": "2024-02-22 22:00:00",
+      "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4OYcrztrz0ctkJUDJ105u1"
+        "name": "Holding On To You",
+        "url": "https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo"
       },
       "artists": [
         {
-          "name": "Joe Preyer",
-          "url": "https://open.spotify.com/artist/2sKYeAvwqwJcGEJD01ccnt"
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/15qHVTy7SsvYDqc1YlKpbi"
+      "duration_ms": 154793,
+      "name": "Holding On To You",
+      "url": "https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS"
     },
     {
       "added_at": "2024-02-09 03:53:38",
@@ -835,6 +787,54 @@
       "duration_ms": 248500,
       "name": "White Shadow",
       "url": "https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov"
+    },
+    {
+      "added_at": "2024-03-15 04:56:50",
+      "album": {
+        "name": "Written In The Stars",
+        "url": "https://open.spotify.com/album/75tepfildppNN5jqkBcEBc"
+      },
+      "artists": [
+        {
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
+        }
+      ],
+      "duration_ms": 218076,
+      "name": "Written In The Stars",
+      "url": "https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Night Bus",
+        "url": "https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak"
+      },
+      "artists": [
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 153961,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 201467,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT"
     }
   ],
   "unique_name": "Indie GO",

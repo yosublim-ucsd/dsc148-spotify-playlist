@@ -4,7 +4,7 @@
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-1,396 songs - 2 day 2 hr 10 min
+1,397 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1219,6 +1219,7 @@
 | [Tender Farewell](https://open.spotify.com/track/7ui9EVpWE23SdS3CmfeuJY) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Tender Farewell](https://open.spotify.com/album/1FisMGcd7W6Yvsce6hNbyM) | 2:18 | 2023-12-15 | 2024-02-22 |
 | [tertulia](https://open.spotify.com/track/056pbPqvviBw2PZMAmTxR9) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [tertulia](https://open.spotify.com/album/1YugAMaFPECeC1szm0ZYZ0) | 2:48 | 2023-12-07 | 2024-03-12 |
 | [The Afterglow](https://open.spotify.com/track/6i6CILsePRYHfZ6Ns8GwfL) | [Cygnet](https://open.spotify.com/artist/1D7pmmDhzgJqD7OtrpiVnh), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [The Afterglow](https://open.spotify.com/album/5lsks3BsycY3szp1PjTBkh) | 2:21 | 2023-12-15 | 2024-01-22 |
+| [The Beach \(Instrumental Sped Up\)](https://open.spotify.com/track/5QULCdTzKQY46QNNMXMWa6) | [mxpheebz](https://open.spotify.com/artist/2WU2zdyBSJwYeG8GPH17Rl) | [The Beach \(Instrumental Sped Up\)](https://open.spotify.com/album/0NIZJY2STBo20DuK8oN9mS) | 3:13 | 2024-05-16 |  |
 | [The Beauty](https://open.spotify.com/track/20e6ZId9FXxhZTuogqSyQS) | [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY), [Beatmology](https://open.spotify.com/artist/371X0EF8wqSvR4g8bZf0p9) | [The Beauty](https://open.spotify.com/album/5BQiDI79H5ChnsmAwTfrSl) | 1:54 | 2023-12-15 | 2024-01-29 |
 | [The Blue Rider](https://open.spotify.com/track/2Lo1yM9lABIQZZ1YMXPrOm) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [The Blue Rider](https://open.spotify.com/album/0feauv3OzDgwj63p9t3sqQ) | 2:09 | 2024-04-17 |  |
 | [The Comet Chase](https://open.spotify.com/track/3DpoVZdHuL9kXn4vOVlF5z) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Smokers Lounge](https://open.spotify.com/album/2VPWW4JkUeijYReb6Ee3kJ) | 2:18 | 2024-03-28 | 2024-05-11 |

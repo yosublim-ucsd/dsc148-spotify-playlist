@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,336 likes - 300 songs - 10 hr 46 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,331 likes - 301 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,5 +308,6 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 298 | [On My Way To Frankfurt](https://open.spotify.com/track/4apBumhiNKB3pW4xWGgty8) | [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [Serotonin Sickness](https://open.spotify.com/album/0xZ3M8NDhSAW28NENmPQdS) | 1:40 |
 | 299 | [Peach](https://open.spotify.com/track/3GkSDGupydidufnOGZn2FE) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Peach](https://open.spotify.com/album/4RXwLRCGekAGFem4o3EuYS) | 2:16 |
 | 300 | [Letter for Rod](https://open.spotify.com/track/2hOiKEe46CiFlHaSPRro0K) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [Summer](https://open.spotify.com/album/6ydRwauwNu1Rp3csgxskeb) | 1:44 |
+| 301 | [The Beach \(Instrumental Sped Up\)](https://open.spotify.com/track/5QULCdTzKQY46QNNMXMWa6) | [mxpheebz](https://open.spotify.com/artist/2WU2zdyBSJwYeG8GPH17Rl) | [The Beach \(Instrumental Sped Up\)](https://open.spotify.com/album/0NIZJY2STBo20DuK8oN9mS) | 3:13 |
 
-Snapshot ID: `AAAHi90o43qPrrfu70rLFVG36TQxUrbo`
+Snapshot ID: `AAAHjCcW+pETGkJUJZ0W666/9rZqBfP6`

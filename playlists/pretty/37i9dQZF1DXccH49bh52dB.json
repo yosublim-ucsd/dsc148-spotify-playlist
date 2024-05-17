@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 572184,
+  "num_followers": 572427,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "No Place",
+      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "No Place",
-      "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1651,26 +1651,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "This Mixtape is Fire.",
-        "url": "https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed"
+        "name": "I Was Wrong (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         },
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "James Hersey",
-          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Coming Over (feat. James Hersey)",
-      "url": "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
+      "duration_ms": 220677,
+      "name": "I Was Wrong - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1695,22 +1691,26 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "I Was Wrong (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/1jyWfFpqX77KFi32DtAIbT"
+        "name": "This Mixtape is Fire.",
+        "url": "https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
         }
       ],
-      "duration_ms": 220677,
-      "name": "I Was Wrong - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI"
+      "duration_ms": 178333,
+      "name": "Coming Over (feat. James Hersey)",
+      "url": "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
     },
     {
       "added_at": "2024-03-19 13:37:55",

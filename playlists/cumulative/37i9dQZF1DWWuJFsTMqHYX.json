@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Azawad",
+        "url": "https://open.spotify.com/album/2iekjB8IlqYlwXs8now72Y"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252633,
+      "name": "Azawad",
+      "url": "https://open.spotify.com/track/5qXNi29uI1RWLhMx2DHiHk"
+    },
+    {
+      "album": {
         "name": "The Tel Aviv Session",
         "url": "https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH"
       },
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 225651,
       "name": "Zalina",
       "url": "https://open.spotify.com/track/7LFTVgFCNdNghawWIfN3OX"

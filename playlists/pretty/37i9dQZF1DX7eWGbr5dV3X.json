@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8775,
+  "num_followers": 8774,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Cry, Baby",
-        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 235630,
-      "name": "Could I Break Your Heart",
-      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "out!",
         "url": "https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 160226,
       "name": "out!",
       "url": "https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Cry, Baby",
+        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 235630,
+      "name": "Could I Break Your Heart",
+      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Boys Aside",
+        "url": "https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq"
+      },
+      "artists": [
+        {
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Boys Aside",
+      "url": "https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Kaitlin",
         "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 205291,
       "name": "Fix Me",
       "url": "https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Boys Aside",
-        "url": "https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq"
-      },
-      "artists": [
-        {
-          "name": "Sofya Wang",
-          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Boys Aside",
-      "url": "https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s"
     },
     {
       "added_at": "2023-06-30 23:59:00",

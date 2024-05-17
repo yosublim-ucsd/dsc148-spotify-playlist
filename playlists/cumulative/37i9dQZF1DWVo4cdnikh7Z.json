@@ -2093,6 +2093,32 @@
     },
     {
       "album": {
+        "name": "Music Shop Murthy (Tamil)",
+        "url": "https://open.spotify.com/album/3aj3ExTwSbhIxFDYlQKm1e"
+      },
+      "artists": [
+        {
+          "name": "Pavan",
+          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
+        },
+        {
+          "name": "Raazi",
+          "url": "https://open.spotify.com/artist/0VKALXldkVaRzYcx7SkKHi"
+        },
+        {
+          "name": "Abhilash Britto",
+          "url": "https://open.spotify.com/artist/2s5XAsIm0UsRwM670fsHFb"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233168,
+      "name": "Angrezi Beat",
+      "url": "https://open.spotify.com/track/3WUF7wTGZP9F3LjundPHti"
+    },
+    {
+      "album": {
         "name": "Harkara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/72dMZ8Snl77L6TxLuBYNoK"
       },
@@ -3038,6 +3064,32 @@
       "duration_ms": 267337,
       "name": "Ayalaa Ayalaa (From \"Ayalaan\")",
       "url": "https://open.spotify.com/track/4hzFvF1WRHRxuisrJ98LZT"
+    },
+    {
+      "album": {
+        "name": "Ayalpirai (From \"Laandhar\")",
+        "url": "https://open.spotify.com/album/0V5qy4oeFjUATsrBfVvfxR"
+      },
+      "artists": [
+        {
+          "name": "M.S.Prraveen",
+          "url": "https://open.spotify.com/artist/66m0abZi6PMjIE4LVzoCRP"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Uma Devi",
+          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220250,
+      "name": "Ayalpirai (From \"Laandhar\")",
+      "url": "https://open.spotify.com/track/3o9vmyfv18q0TRAIhzJFSU"
     },
     {
       "album": {
@@ -8580,7 +8632,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 150825,
       "name": "I Am The Danger - From \"Hit List\"",
       "url": "https://open.spotify.com/track/5M0TmVj1xJL0ViRQnNwIlw"
@@ -9838,7 +9890,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 186000,
       "name": "Jimikky's Ghazal (From \"Star\")",
       "url": "https://open.spotify.com/track/4H5hZAzieGJtVACx9zmRyK"
@@ -19712,7 +19764,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 158019,
       "name": "Oyile Oyile",
       "url": "https://open.spotify.com/track/4skCqDplC4j9uBamaVQUnh"
@@ -29982,7 +30034,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 230243,
       "name": "Velvet Vennila (From \"Double Tuckerr\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/50qsNLZ01ehupt20e6K6yf"

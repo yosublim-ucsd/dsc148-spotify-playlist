@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,537 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,627 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 14 | [In the Morning](https://open.spotify.com/track/1U7lTpzMzmhspBP3892Gmy) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [On God \(Deluxe\)](https://open.spotify.com/album/3Vs240nBf77WCUiuEt4uHg) | 2:33 |
 | 15 | [God Loves You](https://open.spotify.com/track/2hCJjpQzJhHgc4j7kIUsYK) | [Marcus Jordan](https://open.spotify.com/artist/27Xu3PU0agWqCrDuhHtQva), [Rhonda Mclemore](https://open.spotify.com/artist/4ni8VBwhzpbH1zUtXurV9E) | [God Loves You](https://open.spotify.com/album/1pH8ofguf363tpw6muYuqn) | 4:03 |
 | 16 | [Someday](https://open.spotify.com/track/2WS7AJ9C5YVvaBRP9VFdDc) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Gospel Music Changed My Life](https://open.spotify.com/album/2Wzln30Vd0PbmmLawqof8u) | 4:02 |
-| 17 | [Revival Medley](https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [Revival Medley](https://open.spotify.com/album/5RJ8JGMlLr5JSbO35MKXpt) | 7:33 |
+| 17 | [Revival Medley \- Live](https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [Revival Medley](https://open.spotify.com/album/5RJ8JGMlLr5JSbO35MKXpt) | 7:33 |
 | 18 | [Rise Up](https://open.spotify.com/track/4QoUYZt5lWoIpWqP9owp2n) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Jonni Mae](https://open.spotify.com/artist/530VpfY3yZBmxkNCDbwsrt), [Ben Hardesty](https://open.spotify.com/artist/60cMh98R5yqdUQg1wLnHec) | [Rise Up](https://open.spotify.com/album/5DPXkNdvyNLF1DKxJxAQ3E) | 3:27 |
 | 19 | [I See Good](https://open.spotify.com/track/7ICspKZzvN08ubrSticzeo) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [He Loves Me](https://open.spotify.com/album/3VTK913Y9CKv37VLjpPJq2) | 6:07 |
 | 20 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God \(Live\)](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 |

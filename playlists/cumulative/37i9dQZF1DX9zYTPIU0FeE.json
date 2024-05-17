@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB?si=CD-0PtcBRSKfmvNyKerzaA\">Zo\u00eb Modiga</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft?si=4y68LHw9Syey8Y9HwzPt5w\">Nduduzo Makhathini</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 461757,
       "name": "African Ontology",
       "url": "https://open.spotify.com/track/56Se3mc2uBst7dLCe3qiwX"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 426990,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 186744,
       "name": "amen",
       "url": "https://open.spotify.com/track/0pVZIfRcoJdxOOrNfEAV6Z"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 301106,
       "name": "Change",
       "url": "https://open.spotify.com/track/7cahHOmO7sCFEPDHUoxxyU"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 146320,
       "name": "Forgive Yourself",
       "url": "https://open.spotify.com/track/4THmWISkZ1GAnAtLLEiT82"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 323976,
       "name": "Four Women",
       "url": "https://open.spotify.com/track/5AXqTvyOjkZ6lJgygsUEdi"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 346863,
       "name": "Free",
       "url": "https://open.spotify.com/track/2edZuzKyK5d0o9YLH9JfRn"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 632326,
       "name": "Gijima",
       "url": "https://open.spotify.com/track/5I8Psd9E1pGHkGbRN3afav"
@@ -1204,6 +1204,24 @@
       "duration_ms": 436017,
       "name": "Good Are Good",
       "url": "https://open.spotify.com/track/6CbwRNWnQArkcMvDeDNUBA"
+    },
+    {
+      "album": {
+        "name": "Hamba No Malume",
+        "url": "https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298346,
+      "name": "Hamba No Malume",
+      "url": "https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps"
     },
     {
       "album": {
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 398211,
       "name": "I Remember Somagwaza",
       "url": "https://open.spotify.com/track/2ZHk1ywkE3GN9YkUKrWIRn"
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 236253,
       "name": "Joburg Poem",
       "url": "https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL"
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 560000,
       "name": "Klops Jol",
       "url": "https://open.spotify.com/track/7E0Rle0rkoHmTRuAUT39lA"
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 326229,
       "name": "Kwetu",
       "url": "https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh"
@@ -3916,7 +3934,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 103120,
       "name": "Umbhedesho",
       "url": "https://open.spotify.com/track/1Wd1DmQuO4qWDrPs04mEZJ"
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 285026,
       "name": "Wadada",
       "url": "https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 567240,
       "name": "Wynter Time",
       "url": "https://open.spotify.com/track/5KEYBBic34INiT0Ph4MYb1"

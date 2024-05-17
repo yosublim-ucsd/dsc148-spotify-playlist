@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,814 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,865 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 5 | [7 May](https://open.spotify.com/track/6KLFIY2LIzzFQ6TQDn0Ioo) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq) | [7 May](https://open.spotify.com/album/027yRLY4A2lxMCkWcpnGO7) | 4:19 |
 | 6 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 |
 | 7 | [Maula Mere](https://open.spotify.com/track/78F8mvqlYWrA2f8tYhdV8c) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Loka Yaha Hai](https://open.spotify.com/album/0SOdtFMbmVADfBZZY8cqTc) | 3:00 |
-| 8 | [Fuck The Feelings](https://open.spotify.com/track/0dGdfiC8QJXiuCx3Sf3oQv) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf) | [Fuck The Feelings](https://open.spotify.com/album/1tGrBa6noqhUyASTNQEubp) | 3:49 |
-| 9 | [Ladki Scheme Hai](https://open.spotify.com/track/4PQ77n0G4SR8FPFf5uCI2p) | [Mirage 2.0](https://open.spotify.com/artist/6qkBTYjV48Mt8NSW4t54V2), [Nonchi](https://open.spotify.com/artist/57hC7DGsnOtvGTHMAce1i4), [Young Seaz](https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK) | [Ladki Scheme Hai](https://open.spotify.com/album/1xSXJzntDOVykzNm9Jtzw4) | 2:18 |
+| 8 | [Drame](https://open.spotify.com/track/2qKkU1B8d5sKYGlkhUGTpP) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [ATHRV](https://open.spotify.com/artist/1Qdg9IrqdbU1J2TG7ORCHx) | [Drame](https://open.spotify.com/album/5v9aI0o7wpy7wGVQjWJxKq) | 2:51 |
+| 9 | [Fuck The Feelings](https://open.spotify.com/track/0dGdfiC8QJXiuCx3Sf3oQv) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf) | [Fuck The Feelings](https://open.spotify.com/album/1tGrBa6noqhUyASTNQEubp) | 3:49 |
 | 10 | [MANKA](https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [MANKA](https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV) | 4:21 |
 | 11 | [WHAT CAN I SAY?](https://open.spotify.com/track/0r9Gq7KS7AinpipgbXHaxJ) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9) | [WHAT CAN I SAY?](https://open.spotify.com/album/6On6FimkWSqtpv5Qaa3Vuf) | 2:41 |
 | 12 | [BROKE FLEX \(feat\. AHSAN & Ab 17\)](https://open.spotify.com/track/4sOEWzDRzVdZaTvVc3T7dO) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR), [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 |
 | 75 | [Boyfriend](https://open.spotify.com/track/79L4Ilf14zlMlwosjVWWyG) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Boyfriend](https://open.spotify.com/album/5iygFlfiQ410htPcHY6w0S) | 5:30 |
 
-Snapshot ID: `ZkSxkgAAAAAbBTe1ex2n44KwNFFKZ6We`
+Snapshot ID: `ZkXF9AAAAAAQNbpUp+RcZUyJljpVqseU`

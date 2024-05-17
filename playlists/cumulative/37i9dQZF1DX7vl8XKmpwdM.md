@@ -2,7 +2,7 @@
 
 ### [Latest Dance Tamil](https://open.spotify.com/playlist/37i9dQZF1DX7vl8XKmpwdM)
 
-> Dance Machi Dance<br/>Cover : Jigarthanda DoubleX
+> Dance Machi Dance<br/>Cover : GOAT
 
 136 songs - 8 hr 10 min
 

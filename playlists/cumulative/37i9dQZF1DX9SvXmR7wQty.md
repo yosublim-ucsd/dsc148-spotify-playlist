@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Les Hay Babies
 
-2,525 songs - 5 day 14 hr 53 min
+2,526 songs - 5 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [F.I.N.I](https://open.spotify.com/track/2iSviSdZmZGXDS3SND8Sbf) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [F.I.N.I](https://open.spotify.com/album/1bPPwRE3sv1KNsbXF5b2Qq) | 3:07 | 2023-06-09 | 2023-06-17 |
 | [Face ou pile](https://open.spotify.com/track/1NQklHMEA7SjJCd1QYPKSl) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Face ou pile](https://open.spotify.com/album/4Y5iFanQbHg5NAqeiNrJJE) | 3:09 | 2022-02-11 | 2022-02-26 |
 | [Facile](https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [BOYZ](https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0) | 3:01 | 2024-03-29 | 2024-04-06 |
+| [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 | 2024-05-10 |  |
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-06-24 | 2022-07-09 |
 | [Faire le bien](https://open.spotify.com/track/2J0rXl0ku1QJ6pwV4KfqBw) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Jeune The Doug](https://open.spotify.com/album/5XXx9jvwEc4r3C9yXciIEo) | 3:02 | 2022-05-06 | 2022-05-14 |
 | [Fais d'ton mieux](https://open.spotify.com/track/1hT3zbFnBBsBePb9L88rvS) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Coup d'main](https://open.spotify.com/album/6saFvgXeJMn2MNUUTYNOnL) | 2:53 | 2022-11-25 | 2022-12-17 |
@@ -1768,7 +1769,7 @@
 | [Pauline à la ferme](https://open.spotify.com/track/4toSZdP0xjSUiilPk93dsP) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Pauline à la ferme](https://open.spotify.com/album/2oZWLCRMIaGP6DlA9iXCVr) | 3:39 | 2023-04-07 | 2023-04-20 |
 | [Pays des merveilles](https://open.spotify.com/track/22njDKdHltO0wuli4lcb94) | [MORDiCUS](https://open.spotify.com/artist/46zoLDd3UP6iO6R7gKz6DO) | [Pays des merveilles](https://open.spotify.com/album/4aMPkWZNmjI0zJDuFS9GRA) | 3:53 | 2022-06-03 | 2022-06-11 |
 | [Paysage \(Radio Edit\)](https://open.spotify.com/track/2v3VGhnuEOZMzTzNAOtjgT) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Paysage \(Radio Edit\)](https://open.spotify.com/album/5wRtJMmrkolt7LJS2T7VTT) | 2:42 | 2023-01-27 | 2023-02-11 |
-| [PCC](https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [PCC](https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr) | 2:32 | 2024-05-03 |  |
+| [PCC](https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [PCC](https://open.spotify.com/album/55PrfWXIgP0ppjgbMbKFnr) | 2:32 | 2024-05-03 | 2024-05-17 |
 | [Peine de mort](https://open.spotify.com/track/2g0osIjutJLlV9BjTvFJXF) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [Peine de mort](https://open.spotify.com/album/7LVUAZKwM11POQT7LkjGTj) | 3:28 | 2022-05-27 | 2022-06-11 |
 | [Pena Duro](https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Pena Duro](https://open.spotify.com/album/4QRHa49lkmVPuah27l2jaJ) | 2:37 | 2023-05-05 | 2023-06-24 |
 | [Penchant](https://open.spotify.com/track/0fXwyARl8s52pZZPeYArNj) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:33 | 2024-02-02 | 2024-02-10 |

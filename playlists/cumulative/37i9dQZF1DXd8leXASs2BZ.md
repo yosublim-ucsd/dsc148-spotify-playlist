@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> 【POPYOURSまであと2日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: L.O.S.T
+> 【POPYOURSまであと1日】Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: lil soft tennis
 
-447 songs - 20 hr 46 min
+448 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Map](https://open.spotify.com/track/0fp0f5ZA3gUdzwB5Vlm6Wg) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [SCRAP](https://open.spotify.com/album/2RwjAlkI4DCQYd1a1R1vuh) | 2:22 | 2023-12-07 | 2024-03-06 |
 | [Marmot](https://open.spotify.com/track/5BE8nmeeVfLv3TmRMTilIl) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Marmot](https://open.spotify.com/album/4nFJGNzMaehMhLng7f1P4F) | 2:49 | 2023-12-12 | 2024-02-14 |
 | [Mercedes](https://open.spotify.com/track/6QbkxleLB8BunQkNDdMi5w) | [Noconoco](https://open.spotify.com/artist/7mqeh0ppveN8XEZLXo8PkS), [Pune](https://open.spotify.com/artist/3CtPr0raLgCRsI9sFz2ceq) | [Mercedes](https://open.spotify.com/album/2UHTpewKp5jfX8kM8YMs7a) | 1:47 | 2024-05-15 |  |
+| [Mirror feat\. JJJ](https://open.spotify.com/track/4Lr07uoYjnqSuKkYfEzceC) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Mirror feat\. JJJ](https://open.spotify.com/album/5zfe2KcqmYnUgB9nE7skjN) | 3:04 | 2024-05-16 |  |
 | [Moncler](https://open.spotify.com/track/6PT8F7NTngaBYmXSM2Jf4F) | [j white](https://open.spotify.com/artist/5vZDs9IHyAjQ1AAEMPAI3O) | [Moncler](https://open.spotify.com/album/1nMcqwqkUEZKGP3U2QEMwj) | 3:23 | 2023-12-07 | 2024-01-12 |
 | [Motion](https://open.spotify.com/track/187nA3OPZ0PQz2Z1b8NbJU) | [BFN TOKYOTRILL](https://open.spotify.com/artist/1VuOxzoNAxcI7c2QROGWM2), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [Maple.Maple.Maple](https://open.spotify.com/artist/63KWo0zGBDnDivb9LirzTA) | [Motion](https://open.spotify.com/album/71qr6MJGkwMw9RmNV63kte) | 4:21 | 2024-04-24 |  |
 | [mp3](https://open.spotify.com/track/1XEWKJUASRAp5GZLXKxi0a) | [XENO](https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA) | [mp3](https://open.spotify.com/album/4UxQg8IloG4oJTQldHREHf) | 2:35 | 2024-04-16 | 2024-04-24 |

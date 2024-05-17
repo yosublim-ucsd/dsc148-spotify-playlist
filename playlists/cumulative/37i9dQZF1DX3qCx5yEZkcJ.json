@@ -163,6 +163,24 @@
     },
     {
       "album": {
+        "name": "SONORAS Instrumentals",
+        "url": "https://open.spotify.com/album/47x5x1c3UId7Ey6rvdmh4c"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245862,
+      "name": "4 Reasons",
+      "url": "https://open.spotify.com/track/1DMmTmuLI18xkNBlU9mlgW"
+    },
+    {
+      "album": {
         "name": "edbl & friends - JPRK",
         "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
       },
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 101673,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/4V2KZnlTHXwNdLxzf1GUUB"
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 132187,
       "name": "Love Vibe and Learn",
       "url": "https://open.spotify.com/track/13ErCwuebmVrM0kEyiTmoG"
@@ -5544,7 +5562,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 106837,
       "name": "Meditations on Guitar",
       "url": "https://open.spotify.com/track/2vzAM5zjTyfH4Gfqo3p5Vv"

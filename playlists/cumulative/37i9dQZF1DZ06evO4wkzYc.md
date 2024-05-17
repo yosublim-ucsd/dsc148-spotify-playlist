@@ -2,7 +2,7 @@
 
 ### [This Is Edicion Especial](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wkzYc)
 
-> This is Edicion Especial\. Tutti i brani in un'unica playlist.
+> This Is Edicion Especial\. Los temas esenciales, todos en una lista.
 
 51 songs - 3 hr 10 min
 

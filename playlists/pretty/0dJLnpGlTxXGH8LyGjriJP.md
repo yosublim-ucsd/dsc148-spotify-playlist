@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 779 songs - 1 day 15 hr 50 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 780 songs - 1 day 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -787,5 +787,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 777 | [Stickin And Movin](https://open.spotify.com/track/0LFytFdnyYnyjKQjFhz2XJ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Stickin And Movin](https://open.spotify.com/album/50yCR96sx5poUVluZCgH6O) | 2:47 |
 | 778 | [SLUT ME OUT 2](https://open.spotify.com/track/22yRHdYBLZMi7xnvBioqkP) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT 2](https://open.spotify.com/album/5BEgYBYUzfvGoU1uLHvGRA) | 2:15 |
 | 779 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
+| 780 | [Everything Lit](https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Everything Lit](https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx) | 2:25 |
 
-Snapshot ID: `AAADtHSZ0Q139H8W5moIt+5Aln4xaGSk`
+Snapshot ID: `AAADtYJxWESE2Vl0Z7u6giXVztO84U8d`

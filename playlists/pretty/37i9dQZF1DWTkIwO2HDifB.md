@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Não Vou Namorar e os funks mais 🔑 do Brasil\. Foto: DJ Ws da Igrejinha, DJ JOÃO PEREIRA, Mc Dudu Sk, MC TH DA SERRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,272,933 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,273,681 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

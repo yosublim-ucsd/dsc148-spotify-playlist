@@ -1,6 +1,6 @@
 {
   "description": "Finish together. Listen to the official playlist for Sex Education, now streaming on Netflix. ",
-  "num_followers": 108938,
+  "num_followers": 108976,
   "original_name": "Sex Education Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -4220,8 +4220,12 @@
       },
       "artists": [
         {
-          "name": "Ezra Furman & The Harpoons",
-          "url": "https://open.spotify.com/artist/6mMA3DehwLwdvO6YlwUFHk"
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        },
+        {
+          "name": "The Harpoons",
+          "url": "https://open.spotify.com/artist/3vC8Bm3kEFKzmYYK5p7T89"
         }
       ],
       "duration_ms": 348933,

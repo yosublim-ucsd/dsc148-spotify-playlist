@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Em Ellata
 
-1,618 songs - 3 day 22 hr 41 min
+1,619 songs - 3 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1160,6 +1160,7 @@
 | [STAR](https://open.spotify.com/track/5OP3g7opaZvWn6fvypHrT6) | [TRIPPIN](https://open.spotify.com/artist/29gGnHwbjDNaXuq7HxWlHK), [KAZY](https://open.spotify.com/artist/1vYc2mJI4VdQVA9st0JwVz) | [STAR](https://open.spotify.com/album/4JxOTjVd6Z063F3Fkih3xX) | 2:42 | 2023-09-13 | 2023-09-26 |
 | [Stay](https://open.spotify.com/track/4qaQQQHtHokY2lv7YB8XeW) | [Phi Zi](https://open.spotify.com/artist/6ko1Rytv1xKlLZhMaKsrtV) | [Stay](https://open.spotify.com/album/5FhoKg0MbIP00y1iS7Th8w) | 3:09 | 2022-02-10 | 2022-02-19 |
 | [Still Loving You](https://open.spotify.com/track/3K0YVjY3v4LyGaLr54A5Qd) | [Bảo Uyên](https://open.spotify.com/artist/7AjrzSwNXDH9bZjjCKR8kA) | [Still Loving You](https://open.spotify.com/album/4irg1O2R8zhQHgI4yrRroT) | 4:34 | 2022-05-05 | 2022-06-10 |
+| [STORY](https://open.spotify.com/track/4mgkU2RnSWSknPLSgHhEGj) | [RPT JasonDilla](https://open.spotify.com/artist/2UHHfc0InrWSmUkiuss6f4) | [STORY](https://open.spotify.com/album/2Vur4c1yj2x87W7XcYa3m6) | 2:28 | 2024-05-17 |  |
 | [Story Of The Heart](https://open.spotify.com/track/27zcEmTdgUGjsDe6gqSWIn) | [Thái Hoàng Thiện](https://open.spotify.com/artist/02RqzrtQtK9W9fOxDdNwvo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Story Of The Heart](https://open.spotify.com/album/5CUMPhGxHTmE79uaQEdYTX) | 2:51 | 2024-04-04 | 2024-05-08 |
 | [Str4wb3rry shortc4k3](https://open.spotify.com/track/2rCDl6Laf9blXgGhc2e1KD) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ) | [Love Plugg](https://open.spotify.com/album/1d07CUNxKAKDHZBWmrWIbO) | 3:36 | 2022-06-30 | 2022-07-13 |
 | [STRAWBERRY](https://open.spotify.com/track/68hg9ggHyucPmQIDM7M4GI) | [CM1X](https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw), [Nalo](https://open.spotify.com/artist/0HjkKeV3UUyV0zs7KI4iTi), [Cammie](https://open.spotify.com/artist/24M2trTkK8qpaNZx2lUJrk) | [STRAWBERRY](https://open.spotify.com/album/15bkFCsfwcoQrcCSoXQify) | 3:21 | 2022-09-13 | 2022-09-21 |

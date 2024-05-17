@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring ODESZA",
   "name": "creamy",
   "tracks": [
     {
@@ -5290,7 +5290,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 167990,
       "name": "gimmi it",
       "url": "https://open.spotify.com/track/4TfFYHETOnTpdojoy7Up3H"
@@ -6304,6 +6304,24 @@
       "duration_ms": 192834,
       "name": "How High",
       "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
+    },
+    {
+      "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/42f5IWubZit8UWi9dMUA9H"
+      },
+      "artists": [
+        {
+          "name": "1-800 GIRLS",
+          "url": "https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323000,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF"
     },
     {
       "album": {
@@ -8540,7 +8558,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 428555,
       "name": "Mio",
       "url": "https://open.spotify.com/track/30mf2jx7lqNfSFoHXMJjn5"
@@ -8598,7 +8616,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 369954,
       "name": "Moma",
       "url": "https://open.spotify.com/track/4TF3fCWvcpkVsdrAymWTf8"
@@ -11009,6 +11027,32 @@
     },
     {
       "album": {
+        "name": "Spinback Remixes",
+        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        },
+        {
+          "name": "Zyra",
+          "url": "https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172038,
+      "name": "Say My Name - Darby Remix",
+      "url": "https://open.spotify.com/track/11AcRxwmwJOweiDffcvVo8"
+    },
+    {
+      "album": {
         "name": "Say No More",
         "url": "https://open.spotify.com/album/2w9zybMMHYpsk6K5TAxKgW"
       },
@@ -12098,7 +12142,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 200000,
       "name": "SPINNING",
       "url": "https://open.spotify.com/track/3VfDRpoNoJia2Gmu7BnqjY"
@@ -13004,6 +13048,32 @@
       "duration_ms": 210266,
       "name": "The Gallery",
       "url": "https://open.spotify.com/track/709Id9rqQlqUKubz0dCN7S"
+    },
+    {
+      "album": {
+        "name": "Spinback Remixes",
+        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247022,
+      "name": "The Last Goodbye - Koven Remix",
+      "url": "https://open.spotify.com/track/0PzfQHQEYVjhxsZZPtjScw"
     },
     {
       "album": {
@@ -14258,6 +14328,24 @@
       "duration_ms": 194285,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/1g2q4DStDT1N6LRRUX0o6e"
+    },
+    {
+      "album": {
+        "name": "We Got This",
+        "url": "https://open.spotify.com/album/6cOUXAvS2le4C9kJclZwTe"
+      },
+      "artists": [
+        {
+          "name": "\u232d IceMorph \u232c",
+          "url": "https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "We Got This",
+      "url": "https://open.spotify.com/track/3t0ZToA8zfqVD2vDIbmiKm"
     },
     {
       "album": {

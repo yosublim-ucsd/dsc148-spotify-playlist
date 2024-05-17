@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 5217,
+  "num_followers": 5228,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "Comme Avant",
-        "url": "https://open.spotify.com/album/4GapYXkrjk7Zur6AX4Lr3w"
-      },
-      "artists": [
-        {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
-        }
-      ],
-      "duration_ms": 146752,
-      "name": "Comme Avant",
-      "url": "https://open.spotify.com/track/2kGflndOtz5UCBflZIT4eQ"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
         "name": "Giscard d'Estaing",
         "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 232800,
       "name": "Giscard d'Estaing",
       "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
+        "name": "Comme Avant",
+        "url": "https://open.spotify.com/album/4GapYXkrjk7Zur6AX4Lr3w"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "duration_ms": 146752,
+      "name": "Comme Avant",
+      "url": "https://open.spotify.com/track/2kGflndOtz5UCBflZIT4eQ"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
+        "name": "TPL",
+        "url": "https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "duration_ms": 168507,
+      "name": "GONE!",
+      "url": "https://open.spotify.com/track/1f6faWBcD3XnsF7ugFPhuk"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
         "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
         "url": "https://open.spotify.com/album/41oaIEobQQ0fodC8e0DK1q"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 171750,
       "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/71VXltT0nT6itsGMNNwpKv"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
-        "name": "TPL",
-        "url": "https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ"
-      },
-      "artists": [
-        {
-          "name": "GreenWoodz",
-          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
-        }
-      ],
-      "duration_ms": 168507,
-      "name": "GONE!",
-      "url": "https://open.spotify.com/track/1f6faWBcD3XnsF7ugFPhuk"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "Suite pour personne",
-        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
-      },
-      "artists": [
-        {
-          "name": "Jeanne C\u00f4t\u00e9",
-          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
-        }
-      ],
-      "duration_ms": 276662,
-      "name": "Y peut mouiller",
-      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
         "name": "Oniromancie",
         "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
+        "name": "Suite pour personne",
+        "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
+      },
+      "artists": [
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        }
+      ],
+      "duration_ms": 276662,
+      "name": "Y peut mouiller",
+      "url": "https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
         "name": "Traits d'union",
         "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
       },
@@ -1431,6 +1431,26 @@
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
+        "name": "Utenat",
+        "url": "https://open.spotify.com/album/5Rjt8pAtA42H4wivAO7qFZ"
+      },
+      "artists": [
+        {
+          "name": "Maten",
+          "url": "https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9"
+        },
+        {
+          "name": "Black Bear",
+          "url": "https://open.spotify.com/artist/6QX3MVXjxAWunnsH7NjTri"
+        }
+      ],
+      "duration_ms": 216926,
+      "name": "Nitepuatauat",
+      "url": "https://open.spotify.com/track/3GkSeLkX4pIpoKg6n50Ix2"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "Utenat",
-        "url": "https://open.spotify.com/album/5Rjt8pAtA42H4wivAO7qFZ"
-      },
-      "artists": [
-        {
-          "name": "Maten",
-          "url": "https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9"
-        },
-        {
-          "name": "Black Bear",
-          "url": "https://open.spotify.com/artist/6QX3MVXjxAWunnsH7NjTri"
-        }
-      ],
-      "duration_ms": 216926,
-      "name": "Nitepuatauat",
-      "url": "https://open.spotify.com/track/3GkSeLkX4pIpoKg6n50Ix2"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
         "name": "Mort de rire",
         "url": "https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "Salut Cowboy",
-        "url": "https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a"
-      },
-      "artists": [
-        {
-          "name": "Guylaine Tanguay",
-          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
-        }
-      ],
-      "duration_ms": 216209,
-      "name": "Salut Cowboy",
-      "url": "https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy"
-    },
-    {
-      "added_at": "2024-05-06 14:16:02",
-      "album": {
         "name": "En roulant vers Perc\u00e9",
         "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2024-05-06 14:16:02",
       "album": {
-        "name": "Pour l'amour du geste II",
-        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
+        "name": "Salut Cowboy",
+        "url": "https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a"
       },
       "artists": [
         {
-          "name": "20Some",
-          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+          "name": "Guylaine Tanguay",
+          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
         }
       ],
-      "duration_ms": 126179,
-      "name": "Pour l'amour du geste II",
-      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
+      "duration_ms": 216209,
+      "name": "Salut Cowboy",
+      "url": "https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy"
     },
     {
       "added_at": "2024-05-06 14:16:02",
@@ -1595,6 +1579,22 @@
       "duration_ms": 247687,
       "name": "Don't Lose The Funk",
       "url": "https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg"
+    },
+    {
+      "added_at": "2024-05-06 14:16:02",
+      "album": {
+        "name": "Pour l'amour du geste II",
+        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "duration_ms": 126179,
+      "name": "Pour l'amour du geste II",
+      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
     },
     {
       "added_at": "2024-05-06 14:16:02",

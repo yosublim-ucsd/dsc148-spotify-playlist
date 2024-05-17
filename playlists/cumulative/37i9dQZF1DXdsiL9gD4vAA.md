@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-163 songs - 14 hr 51 min
+164 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Rehna Chai Da](https://open.spotify.com/track/1fXEiq31msWJIXLd2227HD) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 4:49 | 2021-12-01 | 2023-04-06 |
 | [Rooh Dekhi Hai Kabhi](https://open.spotify.com/track/1cQz7rs68trlKqWp7YeeYY) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 1:41 | 2023-09-14 | 2024-04-19 |
 | [Rooh Dekhi Hai Kabhi](https://open.spotify.com/track/6iav7ommATFG8HxvhF4pf6) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.1](https://open.spotify.com/album/5EaGDGV9pZhrduNvpxLUoy) | 1:41 | 2024-04-18 |  |
+| [Saiyaan Hatto Jaao](https://open.spotify.com/track/647uP7tkpOUIdaDNz0YX1Q) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Barnali Chattopadhyay](https://open.spotify.com/artist/0PuNZqpWjKq5qMLueUM2UF), [A M Turaz](https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 5:13 | 2024-05-16 |  |
 | [Salona Sa Sajan Hai Aur Main Hoon](https://open.spotify.com/track/1jsAS4KWjFvMIpj50byZuT) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Meraj\-E\-Ghazal](https://open.spotify.com/album/3AsraRscaaYpwskp9Wrici) | 4:48 | 2024-04-18 |  |
 | [Salona Sa Sajan Hai Aur Main Hoon](https://open.spotify.com/track/5nRwU6IYLkAnMdqCB8OhR8) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [The Golden Collection Memorable Ghazals and Geets](https://open.spotify.com/album/2zpryxUSTtE9C8HfGDwBKR) | 4:48 | 2024-03-19 | 2024-04-19 |
 | [Sham Ye Dhalte Dhalte](https://open.spotify.com/track/4zXjNS4xY2UGEw6QKcrhuq) | [Swarit Nigam](https://open.spotify.com/artist/2AI1W8IwzHBX52QMOA5I93) | [Sham Ye Dhalte Dhalte](https://open.spotify.com/album/5esJl9CSFXUGkv4G6brye9) | 5:29 | 2023-02-17 | 2023-07-01 |

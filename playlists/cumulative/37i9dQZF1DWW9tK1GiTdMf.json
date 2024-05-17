@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b IRBIS in cover",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b Cover: Finley",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -759,6 +759,32 @@
     },
     {
       "album": {
+        "name": "ACQUAMARA",
+        "url": "https://open.spotify.com/album/2bt6TWExb29uNBI8Y5t94g"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        },
+        {
+          "name": "yuks",
+          "url": "https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd"
+        },
+        {
+          "name": "Bedini",
+          "url": "https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134711,
+      "name": "ACQUAMARA",
+      "url": "https://open.spotify.com/track/2iofxGL2ZLRZ73BvTfNwhe"
+    },
+    {
+      "album": {
         "name": "acqueprofonde",
         "url": "https://open.spotify.com/album/6rvtAnNNU9HlEJlmVdun7H"
       },
@@ -938,7 +964,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 157797,
       "name": "ALESSIA (INCAZZATI)",
       "url": "https://open.spotify.com/track/0kC5Tvmwf4A2OdXievXpVa"
@@ -1075,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Altrove",
+        "url": "https://open.spotify.com/album/66kLvkhKLCosSYHpN5lVLV"
+      },
+      "artists": [
+        {
+          "name": "Anfysia",
+          "url": "https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150995,
+      "name": "Altrove",
+      "url": "https://open.spotify.com/track/71OyGVOTujYt0AI4AiP7lG"
+    },
+    {
+      "album": {
         "name": "Amare o cambiare",
         "url": "https://open.spotify.com/album/1CefCOIxekWVwogZgcwbO2"
       },
@@ -1134,7 +1178,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 161949,
       "name": "amarsi non \u00e8 facile",
       "url": "https://open.spotify.com/track/7IQv2Ir8MnnPzJMunxNbBB"
@@ -4596,7 +4640,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 192972,
       "name": "DEMONIA (feat. Peri)",
       "url": "https://open.spotify.com/track/2coq863WG80UUDYsrhD5FM"
@@ -4899,6 +4943,24 @@
     },
     {
       "album": {
+        "name": "Tutto \u00e8 possibile",
+        "url": "https://open.spotify.com/album/7hGyjtgmaEuMLlKCsfPCGW"
+      },
+      "artists": [
+        {
+          "name": "Finley",
+          "url": "https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188480,
+      "name": "Diventerai una star",
+      "url": "https://open.spotify.com/track/6CCbKMOTlcYvHd9f8Sm3qm"
+    },
+    {
+      "album": {
         "name": "Bart Forever",
         "url": "https://open.spotify.com/album/3ev1xSnhoKNPS45C7LL1pc"
       },
@@ -5160,7 +5222,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 173858,
       "name": "dont let me go",
       "url": "https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W"
@@ -5564,7 +5626,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 248000,
       "name": "edera",
       "url": "https://open.spotify.com/track/3dLKolGQaxqVEdtWFEm4GQ"
@@ -6210,7 +6272,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 186666,
       "name": "fatti male",
       "url": "https://open.spotify.com/track/1EYdy8x6FJ0CKxV4SBkb2n"
@@ -8651,6 +8713,28 @@
     },
     {
       "album": {
+        "name": "POGO MIXTAPE VOL.1",
+        "url": "https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS"
+      },
+      "artists": [
+        {
+          "name": "Finley",
+          "url": "https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157061,
+      "name": "KILLER (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/33DOYNnargf2vYuMEfDd6E"
+    },
+    {
+      "album": {
         "name": "Kipsta",
         "url": "https://open.spotify.com/album/4lDuFUV1vGfSpLsZIPCH5O"
       },
@@ -9870,7 +9954,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 200500,
       "name": "LSDP",
       "url": "https://open.spotify.com/track/2sEwVYdTC73SC8U7S2tuA9"
@@ -9974,6 +10058,24 @@
       "duration_ms": 126171,
       "name": "LUNA STORTA",
       "url": "https://open.spotify.com/track/0zB6zl9jFhFnpxEavLip0V"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "album": {
@@ -10288,7 +10390,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 195926,
       "name": "Marta",
       "url": "https://open.spotify.com/track/4jZQFDIlY5FGY42Q5fMQeb"
@@ -12446,7 +12548,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 166153,
       "name": "paura fottuta",
       "url": "https://open.spotify.com/track/77zlroHqI96ZKLdrOi8ngP"
@@ -12631,6 +12733,28 @@
     },
     {
       "album": {
+        "name": "POGO MIXTAPE VOL.1",
+        "url": "https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS"
+      },
+      "artists": [
+        {
+          "name": "Finley",
+          "url": "https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc"
+        },
+        {
+          "name": "Dari",
+          "url": "https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182241,
+      "name": "PERDONACI (feat. Dari)",
+      "url": "https://open.spotify.com/track/0IeSw9pH0oLrHjJfyxnwyv"
+    },
+    {
+      "album": {
         "name": "Perdonami Lacie",
         "url": "https://open.spotify.com/album/5hV9INuNkuC9BMXef78I4O"
       },
@@ -12740,7 +12864,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 140000,
       "name": "PHOTOBOMB",
       "url": "https://open.spotify.com/track/01yBvg15cFgFlQ0N5ciQt7"
@@ -13024,7 +13148,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 161094,
       "name": "polaroid",
       "url": "https://open.spotify.com/track/1rpL10Z5s5oZbQQcHzaGDj"
@@ -17940,7 +18064,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 176769,
       "name": "Va Bene Lo Stesso",
       "url": "https://open.spotify.com/track/46TvMoOTuSVN2D85sSymYR"
@@ -17998,6 +18122,28 @@
       "duration_ms": 190093,
       "name": "Vaffanculo",
       "url": "https://open.spotify.com/track/548LyUc3pWyFwzc65W8iOS"
+    },
+    {
+      "album": {
+        "name": "vandalizzami il cuore",
+        "url": "https://open.spotify.com/album/2KvXbRuwfZgWns3OzggCQR"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "vandalizzami il cuore",
+      "url": "https://open.spotify.com/track/6fvBMWqPiLRSCgdhu6KPwg"
     },
     {
       "album": {
@@ -18624,10 +18770,32 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 300213,
       "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
+    },
+    {
+      "album": {
+        "name": "Whiskey",
+        "url": "https://open.spotify.com/album/4zCeZz1cdAfUEflZx36o9c"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144932,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/018XsWc7zZ1GoxBySesKjV"
     },
     {
       "album": {

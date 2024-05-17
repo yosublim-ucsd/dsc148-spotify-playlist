@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: BIG SPECIAL",
+  "description": "The best new music from the wide world of punk. Cover: The Anti-Queens",
   "name": "All New Punk",
   "tracks": [
     {
@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 178120,
       "name": "Can EU Hear Me?",
       "url": "https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs"
@@ -7794,7 +7794,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 211558,
       "name": "Des Goblin - Edit",
       "url": "https://open.spotify.com/track/5hgoMYZSEvTMX2ZhtUIi6m"
@@ -8281,6 +8281,24 @@
     },
     {
       "album": {
+        "name": "Dogear",
+        "url": "https://open.spotify.com/album/16BjbpK5u6IOKJPhsR0UOD"
+      },
+      "artists": [
+        {
+          "name": "J.R.C.G.",
+          "url": "https://open.spotify.com/artist/4aNwMw5llWDwwA67i4sO7J"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323479,
+      "name": "Dogear",
+      "url": "https://open.spotify.com/track/3CR95abHmSMKF1V7SXiXj3"
+    },
+    {
+      "album": {
         "name": "Don't Cut Your Hair",
         "url": "https://open.spotify.com/album/4AesOaNA7EgCBV8pIbBa01"
       },
@@ -8466,7 +8484,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 172069,
       "name": "Doomed Again",
       "url": "https://open.spotify.com/track/2rgdKYlg5B2ZncZ0pb8uYN"
@@ -9852,7 +9870,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 202048,
       "name": "Father",
       "url": "https://open.spotify.com/track/2CYR67tm1LxzhlS957puPp"
@@ -10216,7 +10234,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 185962,
       "name": "Five Times",
       "url": "https://open.spotify.com/track/37G0bPKqUlVZpS9AFcSvfJ"
@@ -11350,6 +11368,28 @@
       "duration_ms": 188328,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP"
+    },
+    {
+      "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/7lnf3Q4p9c7wytuft17js7"
+      },
+      "artists": [
+        {
+          "name": "D1VA",
+          "url": "https://open.spotify.com/artist/5TyOhXk3vDyBXSLIKVCIJY"
+        },
+        {
+          "name": "XIU",
+          "url": "https://open.spotify.com/artist/71wMLgrCzyWyrlU3e4A2xY"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101760,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/4AxHnAcF7NNUIddf4qDTPu"
     },
     {
       "album": {
@@ -13039,6 +13079,24 @@
     },
     {
       "album": {
+        "name": "High Horse",
+        "url": "https://open.spotify.com/album/3y0INhq3ovW4ZcAlyQqHk9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160867,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/7ce4Ho6nWrEqnL2m4LxxuF"
+    },
+    {
+      "album": {
         "name": "Invite me, kindly",
         "url": "https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal"
       },
@@ -14528,6 +14586,24 @@
       "duration_ms": 142750,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/3OcUXeWXI3dStj4EQotJoB"
+    },
+    {
+      "album": {
+        "name": "Id\u00e9es Noires",
+        "url": "https://open.spotify.com/album/4l8t2j4irO0cxPzeeOg1UK"
+      },
+      "artists": [
+        {
+          "name": "Lion's Law",
+          "url": "https://open.spotify.com/artist/7JVEe7dW62EeMOrMwmwG68"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175488,
+      "name": "Id\u00e9es Noires",
+      "url": "https://open.spotify.com/track/4ZPWZZdsaRFDDAForKJEO4"
     },
     {
       "album": {
@@ -18242,7 +18318,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 146301,
       "name": "Merch Girl",
       "url": "https://open.spotify.com/track/4HbPzpCg58K7YvGNCzJDNs"
@@ -18520,7 +18596,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 163257,
       "name": "Mirror Muscles",
       "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
@@ -21139,6 +21215,24 @@
     },
     {
       "album": {
+        "name": "Disenchanted",
+        "url": "https://open.spotify.com/album/3iLVA7v1iKHY2SC62DnIOF"
+      },
+      "artists": [
+        {
+          "name": "The Anti-Queens",
+          "url": "https://open.spotify.com/artist/1CX0fdiDs9n9HSJs1PRSy3"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197319,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/3nMPhjxLBiodhLgfpMQ3UN"
+    },
+    {
+      "album": {
         "name": "told ya.",
         "url": "https://open.spotify.com/album/3ANkgNrOZQLbZjvVr2mf9P"
       },
@@ -21836,7 +21930,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 191322,
       "name": "Plucked",
       "url": "https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh"
@@ -24930,6 +25024,28 @@
       "duration_ms": 164546,
       "name": "Shhhh! Golf is On",
       "url": "https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P"
+    },
+    {
+      "album": {
+        "name": "White Reaper / Spiritual Cramp Split",
+        "url": "https://open.spotify.com/album/1aRctwqK98oWkrooXcUghR"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        },
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156830,
+      "name": "Shimmy (feat. Spiritual Cramp)",
+      "url": "https://open.spotify.com/track/2gOBCPYzHmpaMJ6NDpDhIg"
     },
     {
       "album": {
@@ -29529,6 +29645,24 @@
     },
     {
       "album": {
+        "name": "TENDOUJI",
+        "url": "https://open.spotify.com/album/0vfzJ1M6LLhqzx6MLmvnjY"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162322,
+      "name": "TOKYO ASH",
+      "url": "https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz"
+    },
+    {
+      "album": {
         "name": "Tom in 03",
         "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
       },
@@ -30278,6 +30412,28 @@
       "duration_ms": 198542,
       "name": "UK GRIM",
       "url": "https://open.spotify.com/track/42ai7rZ6KEHztOYSVp2z58"
+    },
+    {
+      "album": {
+        "name": "Ultimatum",
+        "url": "https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        },
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206040,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
     },
     {
       "album": {

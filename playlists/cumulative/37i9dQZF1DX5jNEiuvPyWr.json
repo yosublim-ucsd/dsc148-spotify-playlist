@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : J9ueve",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : USKY",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -288,6 +288,28 @@
       "duration_ms": 161906,
       "name": "A7",
       "url": "https://open.spotify.com/track/2wYqPFq90ncbRAuQdqzaZM"
+    },
+    {
+      "album": {
+        "name": "Anh\u00e9donie",
+        "url": "https://open.spotify.com/album/3GlInzLWZqAf3dkxO5CzEE"
+      },
+      "artists": [
+        {
+          "name": "USKY",
+          "url": "https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466"
+        },
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162750,
+      "name": "Aaliyah",
+      "url": "https://open.spotify.com/track/0nR4wEOdxieaU7gX5W4zxj"
     },
     {
       "album": {
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 169746,
       "name": "Boboalam",
       "url": "https://open.spotify.com/track/03Dt6KdZz1QrL898QxEdmb"
@@ -2076,7 +2098,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 167774,
       "name": "D\u00e9coller",
       "url": "https://open.spotify.com/track/4FNp7K8k1WXNIfMZL4sV6r"
@@ -2278,6 +2300,24 @@
       "duration_ms": 203557,
       "name": "Exit #04 - Stamina",
       "url": "https://open.spotify.com/track/12ToBtXfEzb2rynwmEF7qF"
+    },
+    {
+      "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/3GBSnGKfQQ2QIDLXhyEZP7"
+      },
+      "artists": [
+        {
+          "name": "Saan",
+          "url": "https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168186,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/2oTV3Qc22CRhI3iaonpxPX"
     },
     {
       "album": {
@@ -2752,6 +2792,24 @@
       "duration_ms": 185760,
       "name": "G\u00e9 le plan (Noxious x Genezio) - COOTB vol.2",
       "url": "https://open.spotify.com/track/15hAA35V7YgpNd5xEyQxbU"
+    },
+    {
+      "album": {
+        "name": "Habitu\u00e9",
+        "url": "https://open.spotify.com/album/1ncDcndrK5NcNfdMOeoCqH"
+      },
+      "artists": [
+        {
+          "name": "Good Bana",
+          "url": "https://open.spotify.com/artist/2dIWl0tmExUMJc3AjTOLCH"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168537,
+      "name": "Habitu\u00e9",
+      "url": "https://open.spotify.com/track/3Bxvm3fviWQdqPToOpng6n"
     },
     {
       "album": {
@@ -3778,7 +3836,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 133320,
       "name": "Le jour se l\u00e8ve",
       "url": "https://open.spotify.com/track/6qwe1TVcoWQ5oCVMmDKvV8"
@@ -4020,7 +4078,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 174953,
       "name": "Lui ou rien",
       "url": "https://open.spotify.com/track/1trsW3AHnYWeq94DVByGy6"
@@ -4763,6 +4821,28 @@
     },
     {
       "album": {
+        "name": "Noum",
+        "url": "https://open.spotify.com/album/3unn5HfOzp1U74E10ESWTk"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Noum",
+      "url": "https://open.spotify.com/track/6t9NUy0fxDCoctPzGJB2bf"
+    },
+    {
+      "album": {
         "name": "Enfant2LaRue Vol.3",
         "url": "https://open.spotify.com/album/35rQ31nB2TM6sZLDvfIvtH"
       },
@@ -5070,7 +5150,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 164034,
       "name": "Paro",
       "url": "https://open.spotify.com/track/3aOP50V0Wey9WpFrpYjfGO"
@@ -5328,6 +5408,24 @@
       "duration_ms": 195720,
       "name": "Pi\u00e8ces manquantes",
       "url": "https://open.spotify.com/track/5qo6jFaycYDFdMxoSz5NWA"
+    },
+    {
+      "album": {
+        "name": "PLEURE PLEURE PLEURE",
+        "url": "https://open.spotify.com/album/0h6ymbMfKM89ZiuRdjzFPp"
+      },
+      "artists": [
+        {
+          "name": "Sovajon",
+          "url": "https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211452,
+      "name": "PLEURE PLEURE PLEURE",
+      "url": "https://open.spotify.com/track/0z9Pjd0DJMvvh8x159hGLN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,096 likes - 544 songs - 1 day 8 hr 44 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,093 likes - 544 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 47 | [Butterfly](https://open.spotify.com/track/3CisGh5CyKBDnGtjmsszSo) | [SMiLE.dk](https://open.spotify.com/artist/0Khn06ciCEk0SvcdZty81P) | [Smile](https://open.spotify.com/album/3LLfLyAOfhYBSmDyuoaSFo) | 2:57 |
 | 48 | [Caramelldansen](https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R) | [Caramella Girls](https://open.spotify.com/artist/73r19TWxqEnnFf6O1u1e92) | [Supergott \(Speedy Mixes\)](https://open.spotify.com/album/5zvb76rGpvP8oDE2n3tytx) | 2:55 |
 | 49 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 |
-| 50 | [Interdimensional Chocobo](https://open.spotify.com/track/53gyk1hW2ecJWXoy2WpvsQ) | [GOLDEN LIVING ROOM](https://open.spotify.com/artist/2HrvfucjJcyvbBBU33i7EL) | [Post\-Internet](https://open.spotify.com/album/4KHYr2C5MPHXMwZljGauaF) | 2:57 |
+| 50 | [Interdimensional Chocobo](https://open.spotify.com/track/53gyk1hW2ecJWXoy2WpvsQ) | [Golden Living Room](https://open.spotify.com/artist/2HrvfucjJcyvbBBU33i7EL) | [Post\-Internet](https://open.spotify.com/album/4KHYr2C5MPHXMwZljGauaF) | 2:57 |
 | 51 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 |
 | 52 | [Around the World \(La La La La La\) \- Radio Version](https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB) | [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Pete Konemann](https://open.spotify.com/artist/0PEfbjTw85CAN5G0lz9n3p) | [Planet Pop](https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3) | 3:34 |
 | 53 | [Pocket Crocodile](https://open.spotify.com/track/4S4zAz91PBXtnTLrBHioHQ) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3RNP9iHMJpFkGbMB2OAnJn) | 1:55 |

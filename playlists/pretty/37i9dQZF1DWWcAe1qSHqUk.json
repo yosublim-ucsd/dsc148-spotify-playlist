@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 59355,
+  "num_followers": 59360,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-05-13 04:39:06",
       "album": {
+        "name": "Bossa Lounge en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A"
+      },
+      "artists": [
+        {
+          "name": "Valeria",
+          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
+        }
+      ],
+      "duration_ms": 209492,
+      "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl"
+    },
+    {
+      "added_at": "2024-05-13 04:39:06",
+      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 121385,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
-    },
-    {
-      "added_at": "2024-05-13 04:39:06",
-      "album": {
-        "name": "Bossa Lounge en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A"
-      },
-      "artists": [
-        {
-          "name": "Valeria",
-          "url": "https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt"
-        }
-      ],
-      "duration_ms": 209492,
-      "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl"
     },
     {
       "added_at": "2024-05-13 04:39:06",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-05-13 04:39:06",
       "album": {
-        "name": "Take To The Sky",
-        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 312293,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
-    },
-    {
-      "added_at": "2024-05-13 04:39:06",
-      "album": {
         "name": "Relaxing Bossa Lounge",
         "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 158931,
       "name": "A Hard Day\u00b4s Night (Bossa Version)",
       "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
+    },
+    {
+      "added_at": "2024-05-13 04:39:06",
+      "album": {
+        "name": "Take To The Sky",
+        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 312293,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
     },
     {
       "added_at": "2024-05-13 04:39:06",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-13 04:39:06",
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
-      },
-      "artists": [
-        {
-          "name": "Kari Kirkland",
-          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
-        }
-      ],
-      "duration_ms": 343055,
-      "name": "Wild Is The Wind",
-      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
-    },
-    {
-      "added_at": "2024-05-13 04:39:06",
-      "album": {
         "name": "Memories of You: A Tribute to Benny Goodman",
         "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 290653,
       "name": "Memories of You",
       "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
+    },
+    {
+      "added_at": "2024-05-13 04:39:06",
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
+      },
+      "artists": [
+        {
+          "name": "Kari Kirkland",
+          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
+        }
+      ],
+      "duration_ms": 343055,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
     },
     {
       "added_at": "2024-05-13 04:39:06",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-13 04:39:06",
       "album": {
-        "name": "Voices Of Love",
-        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
-      },
-      "artists": [
-        {
-          "name": "Ann Sally",
-          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
-        }
-      ],
-      "duration_ms": 258346,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
-    },
-    {
-      "added_at": "2024-05-13 04:39:06",
-      "album": {
         "name": "Al Pr\u00edncipe Bossa",
         "url": "https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 205800,
       "name": "Si Me Dejas Ahora",
       "url": "https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth"
+    },
+    {
+      "added_at": "2024-05-13 04:39:06",
+      "album": {
+        "name": "Voices Of Love",
+        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
+      },
+      "artists": [
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        }
+      ],
+      "duration_ms": 258346,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
     },
     {
       "added_at": "2024-05-13 04:39:06",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-05-13 04:39:06",
       "album": {
+        "name": "Bossa & Co.",
+        "url": "https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nostra",
+          "url": "https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv"
+        }
+      ],
+      "duration_ms": 260874,
+      "name": "Me Dediqu\u00e9 a Perderte",
+      "url": "https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn"
+    },
+    {
+      "added_at": "2024-05-13 04:39:06",
+      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2024-05-13 04:39:06",
       "album": {
-        "name": "Bossa & Co.",
-        "url": "https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl"
+        "name": "Marshall (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
       },
       "artists": [
         {
-          "name": "Bossa Nostra",
-          "url": "https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv"
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
         }
       ],
-      "duration_ms": 260874,
-      "name": "Me Dediqu\u00e9 a Perderte",
-      "url": "https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn"
+      "duration_ms": 152106,
+      "name": "For the Love of Freedom",
+      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
     },
     {
       "added_at": "2024-05-13 04:39:06",
@@ -999,22 +1015,6 @@
       "duration_ms": 237106,
       "name": "Pretty Blue",
       "url": "https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG"
-    },
-    {
-      "added_at": "2024-05-13 04:39:06",
-      "album": {
-        "name": "Marshall (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "For the Love of Freedom",
-      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
     },
     {
       "added_at": "2024-05-13 04:39:06",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-05-13 04:39:06",
       "album": {
-        "name": "LANGUAGE OF LOVE",
-        "url": "https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS"
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Jamie Lancaster",
+          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
         }
       ],
-      "duration_ms": 213476,
-      "name": "THERE YOU ARE (SECOND CHANCE)",
-      "url": "https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC"
+      "duration_ms": 181826,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
     },
     {
       "added_at": "2024-05-13 04:39:06",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-05-13 04:39:06",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
+        "name": "LANGUAGE OF LOVE",
+        "url": "https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS"
       },
       "artists": [
         {
-          "name": "Jamie Lancaster",
-          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
         }
       ],
-      "duration_ms": 181826,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
+      "duration_ms": 213476,
+      "name": "THERE YOU ARE (SECOND CHANCE)",
+      "url": "https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC"
     },
     {
       "added_at": "2024-05-13 04:39:06",
@@ -1175,6 +1175,26 @@
       "duration_ms": 265746,
       "name": "Like Someone in Love",
       "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
+    },
+    {
+      "added_at": "2024-05-13 04:39:06",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lancaster",
+          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+        },
+        {
+          "name": "Lizette",
+          "url": "https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT"
+        }
+      ],
+      "duration_ms": 157786,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6"
     },
     {
       "added_at": "2024-05-13 04:39:06",
@@ -1223,26 +1243,6 @@
       "duration_ms": 338822,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
-    },
-    {
-      "added_at": "2024-05-13 04:39:06",
-      "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lancaster",
-          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
-        },
-        {
-          "name": "Lizette",
-          "url": "https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT"
-        }
-      ],
-      "duration_ms": 157786,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6"
     },
     {
       "added_at": "2024-05-13 04:39:06",

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Emei",
-  "num_followers": 58006,
+  "num_followers": 58004,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-05-02 14:43:42",
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
+    },
+    {
+      "added_at": "2024-05-02 14:43:42",
+      "album": {
         "name": "Younger and Wiser",
         "url": "https://open.spotify.com/album/0IGeQTiKG3nfFihluikCOS"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2024-05-02 14:43:42",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
+        "name": "Scary Love",
+        "url": "https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN"
       },
       "artists": [
         {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
+      "duration_ms": 180603,
+      "name": "Scary Love",
+      "url": "https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2"
     },
     {
       "added_at": "2024-05-02 14:43:42",
@@ -547,22 +563,6 @@
       "duration_ms": 177808,
       "name": "DO YOU LIKE ME?",
       "url": "https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY"
-    },
-    {
-      "added_at": "2024-05-02 14:43:42",
-      "album": {
-        "name": "Scary Love",
-        "url": "https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 180603,
-      "name": "Scary Love",
-      "url": "https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2"
     },
     {
       "added_at": "2024-05-02 14:43:42",

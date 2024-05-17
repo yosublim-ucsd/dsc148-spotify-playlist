@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw?si=HX5WGU7EReuPUGVluT3-Vg>Ayanda Ntanzi</a>",
+  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O?si=9ekddFvAQ16ZB-bvtUzxLg>SbuNoah</a>",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -692,6 +692,24 @@
       "duration_ms": 331493,
       "name": "Ekugcineni - Live",
       "url": "https://open.spotify.com/track/3qvS5d00o5xkhAe1xUT3tg"
+    },
+    {
+      "album": {
+        "name": "Heavenly Psalms - Level 1 (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/00uO5FuLCGQsuA2ZKJLK1C"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 635240,
+      "name": "Ekujuleni (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/639batqvLenaQp4sh5Jov7"
     },
     {
       "album": {
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 145714,
       "name": "Ingoma (Acoustic)",
       "url": "https://open.spotify.com/track/1vqA053vOtu91bV9iVaHdv"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 305783,
       "name": "Izandla Zethu Ziyakubanjwa",
       "url": "https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2"
@@ -2711,6 +2729,36 @@
     },
     {
       "album": {
+        "name": "Ndincedeni (Revisit)",
+        "url": "https://open.spotify.com/album/0KLqMnVd4DLDOPhrpCY5nA"
+      },
+      "artists": [
+        {
+          "name": "Dalom Kids",
+          "url": "https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg"
+        },
+        {
+          "name": "King Khustah",
+          "url": "https://open.spotify.com/artist/2OeJAwEHcmTrY8hN8KaY7E"
+        },
+        {
+          "name": "Myy Gerald",
+          "url": "https://open.spotify.com/artist/4e7JCY44Wr1TDHPK3KVzhl"
+        },
+        {
+          "name": "Gash Beats",
+          "url": "https://open.spotify.com/artist/5KuOKkfVLTYxjLLpglBUpE"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280436,
+      "name": "Ndincedeni - Revisit",
+      "url": "https://open.spotify.com/track/0zQwnZkXQJzhSQlrncqcaF"
+    },
+    {
+      "album": {
         "name": "Ngeke Ng'suke Kuwe",
         "url": "https://open.spotify.com/album/6VSBeHUCkZslvEBS4tbZOO"
       },
@@ -3506,7 +3554,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 303647,
       "name": "Silifuze Elobandla(Acts 2:42-47)",
       "url": "https://open.spotify.com/track/0Fyt8lAORpZJqPRciHHa0Y"
@@ -4012,6 +4060,28 @@
       "duration_ms": 445988,
       "name": "Uhlaleleni Kusizani",
       "url": "https://open.spotify.com/track/06xNSNCV9X5fRm0n5wqVAE"
+    },
+    {
+      "album": {
+        "name": "Uhlal\u2019 anjalo",
+        "url": "https://open.spotify.com/album/4f5vCgYK6tjtpfZ0Cd2z7m"
+      },
+      "artists": [
+        {
+          "name": "Dalimark",
+          "url": "https://open.spotify.com/artist/0GbOuh2PSFEDTEHtEtpaIX"
+        },
+        {
+          "name": "Ab Central",
+          "url": "https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304444,
+      "name": "Uhlal\u2019 anjalo",
+      "url": "https://open.spotify.com/track/4jhB3YYGR9QNc1vk88nztf"
     },
     {
       "album": {

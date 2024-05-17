@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406680,
+      "name": "Defe Defe",
+      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
+    },
+    {
+      "album": {
         "name": "Do to Me What You Want",
         "url": "https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c"
       },
@@ -326,6 +344,24 @@
       "duration_ms": 511197,
       "name": "Ebenezer - Live",
       "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
+    },
+    {
+      "album": {
+        "name": "Heavenly Psalms - Level 1 (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/00uO5FuLCGQsuA2ZKJLK1C"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 635240,
+      "name": "Ekujuleni (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/639batqvLenaQp4sh5Jov7"
     },
     {
       "album": {
@@ -1420,6 +1456,28 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+    },
+    {
+      "album": {
+        "name": "YESHUA (He's Here)",
+        "url": "https://open.spotify.com/album/3KkO7K3l4bZXOER18E9LLz"
+      },
+      "artists": [
+        {
+          "name": "Femi Matthew",
+          "url": "https://open.spotify.com/artist/7qbbVep7mQeoDhYGAx8XsM"
+        },
+        {
+          "name": "AJIRI",
+          "url": "https://open.spotify.com/artist/5QmzNWdaaqL5m9DDRIko0y"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497104,
+      "name": "YESHUA (He's Here)",
+      "url": "https://open.spotify.com/track/3PffWaqQ97gxU14p11gEGQ"
     },
     {
       "album": {

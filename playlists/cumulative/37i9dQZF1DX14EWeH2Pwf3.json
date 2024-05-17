@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Capo Plaza",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Salmo, Noyz Narcos, Lazza",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 191286,
       "name": "07:34",
       "url": "https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz"
+    },
+    {
+      "album": {
+        "name": "1 2 3",
+        "url": "https://open.spotify.com/album/7pb7dJSRRyRGFHTiQEF7yl"
+      },
+      "artists": [
+        {
+          "name": "Beba",
+          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118453,
+      "name": "1 2 3",
+      "url": "https://open.spotify.com/track/62UBKdRBsHmvGxH1nrLMai"
     },
     {
       "album": {
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 165440,
       "name": "Bee",
       "url": "https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 195305,
       "name": "Bimbo in quartiere",
       "url": "https://open.spotify.com/track/3LUz9MAlrMJ4paLLFgHrB3"
@@ -4773,6 +4791,36 @@
     },
     {
       "album": {
+        "name": "CVLT - HELLRAISERS",
+        "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215817,
+      "name": "HOTLINE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/49N85PUVUKNxPCgE9EgQ3N"
+    },
+    {
+      "album": {
         "name": "I CAN FLY",
         "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
       },
@@ -4838,7 +4886,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
@@ -4968,7 +5016,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 216685,
       "name": "Il Doc 4 (feat. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker)",
       "url": "https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3"
@@ -7240,7 +7288,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 226732,
       "name": "Nato Per Questo (feat. Marracash)",
       "url": "https://open.spotify.com/track/2orGI5VXRF4uplYVuvdRyU"
@@ -7800,6 +7848,46 @@
       "duration_ms": 213144,
       "name": "OCCHI COLTELLO (feat. Gemitaiz, Giorgio Poi, Lil Kvneki & Massimo Pericolo)",
       "url": "https://open.spotify.com/track/5Y5e87SEZbHZbXyGeCPZV5"
+    },
+    {
+      "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127857,
+      "name": "Oceano (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/6t2gXEBqVWbTQ08lC4KYEK"
+    },
+    {
+      "album": {
+        "name": "ODISSEA",
+        "url": "https://open.spotify.com/album/1uqFZjEIJ0EJHZpENyAQgG"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "ODISSEA",
+      "url": "https://open.spotify.com/track/3Qqya54XiHvfRFcOz2LXVc"
     },
     {
       "album": {
@@ -9274,6 +9362,40 @@
       "duration_ms": 198516,
       "name": "Regina del Block",
       "url": "https://open.spotify.com/track/4YBbmdQGEgshWH71LfbFEB"
+    },
+    {
+      "album": {
+        "name": "REPLAY (feat. Yung Snapp, MV Killa, Vale Lambo, Lele Blade)",
+        "url": "https://open.spotify.com/album/19xqnKvk2U4tRVKJ7d70yY"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214776,
+      "name": "REPLAY (feat. Yung Snapp, MV Killa, Vale Lambo, Lele Blade)",
+      "url": "https://open.spotify.com/track/1GQbYcdWWEmC9bV7BRfSQQ"
     },
     {
       "album": {

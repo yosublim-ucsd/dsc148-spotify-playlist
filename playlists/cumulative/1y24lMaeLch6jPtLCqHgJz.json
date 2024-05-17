@@ -3741,6 +3741,28 @@
     },
     {
       "album": {
+        "name": "Let's Get Fucked",
+        "url": "https://open.spotify.com/album/1oteUigszquypA0bBnafbM"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171354,
+      "name": "Let's Get Fucked",
+      "url": "https://open.spotify.com/track/4WBAgmcr4i1FXCl1T8fNaC"
+    },
+    {
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
       },

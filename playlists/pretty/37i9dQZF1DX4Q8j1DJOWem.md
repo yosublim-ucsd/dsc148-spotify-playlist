@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: MXFRUIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,393 likes - 28 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,394 likes - 28 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

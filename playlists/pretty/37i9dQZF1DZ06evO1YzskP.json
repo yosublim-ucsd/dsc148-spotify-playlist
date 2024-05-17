@@ -1,12 +1,12 @@
 {
-  "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 23662,
+  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
+  "num_followers": 23695,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAAAyEuHvN+3jrMHeyg7ZeKwS",
+  "snapshot_id": "ZkP7AAAAAADZ4UDftFw4Ruv3iz6B2J3E",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fuerte",
-        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "El Fuerte",
-      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Alguien Me Amaba",
         "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 144514,
       "name": "Cuando Alguien Me Amaba",
       "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Fuerte",
+        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "El Fuerte",
+      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
     },
     {
       "added_at": null,
@@ -295,22 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHV FLX",
-        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
+        "name": "Yo Mir\u00e9 Un Sombrero",
+        "url": "https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
         },
         {
-          "name": "Estilo Sencillo",
-          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 144426,
-      "name": "CHV FLX",
-      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
+      "duration_ms": 155185,
+      "name": "Yo Mir\u00e9 Un Sombrero",
+      "url": "https://open.spotify.com/track/7mVFcEeHc14QekO81qEGPN"
     },
     {
       "added_at": null,
@@ -347,28 +347,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Mir\u00e9 Un Sombrero",
-        "url": "https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U"
+        "name": "CHV FLX",
+        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
       },
       "artists": [
         {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        },
-        {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Estilo Sencillo",
+          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 155185,
-      "name": "Yo Mir\u00e9 Un Sombrero",
-      "url": "https://open.spotify.com/track/7mVFcEeHc14QekO81qEGPN"
+      "duration_ms": 144426,
+      "name": "CHV FLX",
+      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fotos Hot",
-        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 177786,
-      "name": "Fotos Hot",
-      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
+      "duration_ms": 209706,
+      "name": "Prometiste",
+      "url": "https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+        "name": "Fotos Hot",
+        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 209706,
-      "name": "Prometiste",
-      "url": "https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa"
+      "duration_ms": 177786,
+      "name": "Fotos Hot",
+      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
     },
     {
       "added_at": null,
@@ -623,38 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Simi",
-        "url": "https://open.spotify.com/album/7bHkoBBlKnFICfnYfvdwsa"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Dr. Simi",
-      "url": "https://open.spotify.com/track/3OtTpxvwKrP4svo22XHJMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "Casi Se Les Hizo",
-      "url": "https://open.spotify.com/track/4zdbK07qXLkj1T07ezVAVH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sombrero De Lado",
         "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
@@ -671,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listos Pal\u00b4 Top\u00f3n",
-        "url": "https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn"
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Johan Bastidas",
-          "url": "https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u"
         }
       ],
-      "duration_ms": 136973,
-      "name": "Listos Pal\u00b4 Top\u00f3n",
-      "url": "https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s"
+      "duration_ms": 150333,
+      "name": "Casi Se Les Hizo",
+      "url": "https://open.spotify.com/track/4zdbK07qXLkj1T07ezVAVH"
     },
     {
       "added_at": null,
@@ -711,6 +675,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dr. Simi",
+        "url": "https://open.spotify.com/album/7bHkoBBlKnFICfnYfvdwsa"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Dr. Simi",
+      "url": "https://open.spotify.com/track/3OtTpxvwKrP4svo22XHJMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listos Pal\u00b4 Top\u00f3n",
+        "url": "https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Johan Bastidas",
+          "url": "https://open.spotify.com/artist/6WPJr4bXdrSAZ4Tyh1JC3u"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "Listos Pal\u00b4 Top\u00f3n",
+      "url": "https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Pizza Est\u00e1 En El Horno",
         "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
       },
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 154453,
-      "name": "Los Placeres De Archivaldo",
-      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
+      "duration_ms": 167133,
+      "name": "El Ni\u00f1o De La Tuna",
+      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 167133,
-      "name": "El Ni\u00f1o De La Tuna",
-      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
     },
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Modo Culiac\u00e1n",
-        "url": "https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk"
+        "name": "Finta De Fresitas",
+        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "La Instruxion",
-          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
         }
       ],
-      "duration_ms": 111666,
-      "name": "Al Modo Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx"
+      "duration_ms": 175866,
+      "name": "Finta De Fresitas",
+      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
     },
     {
       "added_at": null,
@@ -871,18 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finta De Fresitas",
-        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
+        "name": "Al Modo Culiac\u00e1n",
+        "url": "https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Instruxion",
+          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Finta De Fresitas",
-      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
+      "duration_ms": 111666,
+      "name": "Al Modo Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx"
     },
     {
       "added_at": null,

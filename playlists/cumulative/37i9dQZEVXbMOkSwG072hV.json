@@ -4025,6 +4025,28 @@
     },
     {
       "album": {
+        "name": "AUTOMOTIVO PA PA PAPAI",
+        "url": "https://open.spotify.com/album/6jQlknQwPszOU2pYBkNmO5"
+      },
+      "artists": [
+        {
+          "name": "DJ RIO",
+          "url": "https://open.spotify.com/artist/0ayuHZiwRQ5jXBaGGSEjBv"
+        },
+        {
+          "name": "0to8",
+          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70704,
+      "name": "AUTOMOTIVO PA PA PAPAI - Slowed",
+      "url": "https://open.spotify.com/track/1I7Pdx7hEYo3E30efYHO6x"
+    },
+    {
+      "album": {
         "name": "Automotivo Psicod\u00e9lico",
         "url": "https://open.spotify.com/album/57DTtEecsPTaWkwPgHsCXS"
       },
@@ -29470,7 +29492,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
@@ -31118,7 +31140,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 267345,
       "name": "Nothing Really Matters",
       "url": "https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X"
@@ -37368,7 +37390,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 184796,
       "name": "Quer Masoquista Toma S\u00f3 Tapa",
       "url": "https://open.spotify.com/track/1sQGw7uCjCeXDZ7MOmg5Aa"

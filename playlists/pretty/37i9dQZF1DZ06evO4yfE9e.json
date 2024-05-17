@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 1084,
+  "num_followers": 1088,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAACTv7NZe+0ZAPStVnApQYZf",
+  "snapshot_id": "ZkP7AAAAAADw7fTWbDh3XoZgsXDIuecj",
   "tracks": [
     {
       "added_at": null,
@@ -143,30 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACE",
-        "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 224541,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grim Reaper",
         "url": "https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y"
       },
@@ -195,6 +171,30 @@
       "duration_ms": 97272,
       "name": "Mozart",
       "url": "https://open.spotify.com/track/3MMDi1qBwOB8Zq6l5Hbhdh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACE",
+        "url": "https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 224541,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK"
     },
     {
       "added_at": null,

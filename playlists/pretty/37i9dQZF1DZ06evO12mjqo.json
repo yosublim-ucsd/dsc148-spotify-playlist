@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 401862,
+  "num_followers": 402007,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkFYAAAAAACTUgJklHQsG0mqxexParUw",
+  "snapshot_id": "ZkP7AAAAAADxGkmsgY8dsp2g1ix9y94g",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
+      "duration_ms": 239293,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "See The Light",
-      "url": "https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absolution (Live at the Forum / 2023)",
         "url": "https://open.spotify.com/album/5YOmO8pYe4AD3KKBtZAz89"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 308127,
       "name": "Absolution - Live at the Forum / 2023",
       "url": "https://open.spotify.com/track/5AvtHfUUjQ8tAgd26ZgR7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
       "duration_ms": 313693,
       "name": "Nocturnal Me",
       "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 317800,
+      "name": "Miasma",
+      "url": "https://open.spotify.com/track/2YQtAJisZ4oXd3qVK6CyEA"
     },
     {
       "added_at": null,

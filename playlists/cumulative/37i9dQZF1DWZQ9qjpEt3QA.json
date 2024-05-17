@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Primadona",
+        "url": "https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS"
+      },
+      "artists": [
+        {
+          "name": "Adikara",
+          "url": "https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247250,
+      "name": "Primadona",
+      "url": "https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI"
+    },
+    {
+      "album": {
         "name": "Pop diKota (SRM 10th Anniversary)",
         "url": "https://open.spotify.com/album/200pEAgk87ajUpHGty4MDJ"
       },

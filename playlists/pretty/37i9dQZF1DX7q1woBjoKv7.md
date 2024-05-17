@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:47TMF0JlFsz01KilGzc5Ly">Kalan.FrFr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,815 likes - 56 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,818 likes - 56 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 9 | [Put It Down](https://open.spotify.com/track/2Q5lu2KbEkBuAqqPFRvRla) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Put It Down](https://open.spotify.com/album/2jnGkkqnf1mLtFGFl3DACW) | 2:45 |
 | 10 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 |
 | 11 | [Old Me](https://open.spotify.com/track/2t6qn1HFpnxriCJcXzYG43) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz) | [Gift Of Gab](https://open.spotify.com/album/5JADDdJIATLB6YydiYr3Dh) | 2:33 |
-| 12 | [CUHMUNNITY MONEY 2009 \(feat\. AD\)](https://open.spotify.com/track/5oTZvnzeM9LzTPpwcPB2Us) | [JasonMartin](https://open.spotify.com/artist/3exvmJjpMVsuvzYN7HVGfZ), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [AD](https://open.spotify.com/artist/4Maf38TSoYT83qXqsO20JI) | [A Compton Story](https://open.spotify.com/album/5f3ar4qWYfif5VySZZbkSc) | 0:55 |
+| 12 | [CUHMUNNITY MONEY 2009 \(feat\. AD\)](https://open.spotify.com/track/5oTZvnzeM9LzTPpwcPB2Us) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [AD](https://open.spotify.com/artist/4Maf38TSoYT83qXqsO20JI) | [A Compton Story](https://open.spotify.com/album/5f3ar4qWYfif5VySZZbkSc) | 0:55 |
 | 13 | [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 |
 | 14 | [U SEE](https://open.spotify.com/track/3IKdznh5DNwXRDah13mYQt) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [U SEE](https://open.spotify.com/album/4uKIoyBlh9Fz8t6YQc8BmK) | 2:42 |
 | 15 | [Living Off The Land](https://open.spotify.com/track/0aqXHeEGEqLSdcnMNlFM45) | [Huey Briss](https://open.spotify.com/artist/1G6Gq9pcDT5OwZjEdKXBZm) | [Living Off The Land](https://open.spotify.com/album/1HN3xcIHIVgsQl76wXyEv2) | 2:08 |

@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Memory Morning",
+        "url": "https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208982,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/1sOmPPK4cXXejksCKwws69"
+    },
+    {
+      "album": {
         "name": "Ambivert Tools, Vol. 4",
         "url": "https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw"
       },
@@ -682,6 +700,24 @@
       "duration_ms": 124451,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/297ZF3Zp0VFLY21qZ4bQ6W"
+    },
+    {
+      "album": {
+        "name": "Digital Diva EP",
+        "url": "https://open.spotify.com/album/3fhXpGXn9d9cvWNlIp533B"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251711,
+      "name": "Digital Diva",
+      "url": "https://open.spotify.com/track/2pqBlfahT0qcHv8zcmLaDD"
     },
     {
       "album": {
@@ -1069,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Summer Someday",
+        "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
       },
@@ -1244,6 +1298,24 @@
       "duration_ms": 315732,
       "name": "Insect Near Piha Beach",
       "url": "https://open.spotify.com/track/2pOV1do0oBMOcEy4kT3ySp"
+    },
+    {
+      "album": {
+        "name": "Interstate",
+        "url": "https://open.spotify.com/album/1WAtzSNaL8Wv6ORBioGx6W"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320187,
+      "name": "Interstate",
+      "url": "https://open.spotify.com/track/2uXto29uIPwlylelzRKCbn"
     },
     {
       "album": {

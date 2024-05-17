@@ -2,7 +2,7 @@
 
 ### [This Is Banda Los Recoditos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rRImQ)
 
-> This is Banda Los Recoditos\. The essential tracks, all in one playlist.
+> This is Banda Los Recoditos\. Track\-track unggulan, semuanya dalam satu playlist.
 
 79 songs - 3 hr 49 min
 

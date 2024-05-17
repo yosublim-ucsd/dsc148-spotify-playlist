@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 
 > Kembali ke sekolah lebih percaya diri ditemani musik terkini
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,068 likes - 92 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,107 likes - 92 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

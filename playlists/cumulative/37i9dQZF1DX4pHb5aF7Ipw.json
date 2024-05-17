@@ -209,6 +209,36 @@
     },
     {
       "album": {
+        "name": "Welcome To Punjab",
+        "url": "https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        },
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        },
+        {
+          "name": "Nabjot",
+          "url": "https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Albatta",
+      "url": "https://open.spotify.com/track/3XAcx54wxdHMZVfb5EGHaD"
+    },
+    {
+      "album": {
         "name": "GLOBAL WARNING",
         "url": "https://open.spotify.com/album/2mMcWfQX3I83kRaT4psGLg"
       },
@@ -398,7 +428,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 146424,
       "name": "Billo (feat. Natania)",
       "url": "https://open.spotify.com/track/4PDCjwOGSwQkD4QRxih4zC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Sonny Rave",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : aupinard",
   "name": "le miel",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 185783,
       "name": "Entre nous (ft. Cinco)",
       "url": "https://open.spotify.com/track/5VbARAAqegErQsxjwhzqrf"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 142668,
       "name": "Est-ce que c'est par l\u00e0 qu'on pleure?",
       "url": "https://open.spotify.com/track/446noPVjJUgf4s9h43mbgE"
@@ -934,6 +934,24 @@
       "duration_ms": 202720,
       "name": "GOLDEN WAY!",
       "url": "https://open.spotify.com/track/6ZCoczOfIDZdtnYOhAZ1CL"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Hotel",
+        "url": "https://open.spotify.com/album/0V2q0YRGAOMIRIsG36UtBm"
+      },
+      "artists": [
+        {
+          "name": "Nu Linh",
+          "url": "https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/1BfZIxLgUMmy7LPIZyEENw"
     },
     {
       "album": {
@@ -1331,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "L.O.V.E",
+        "url": "https://open.spotify.com/album/6ZAqh9t4bxKbhCywbbtCVh"
+      },
+      "artists": [
+        {
+          "name": "Macy Lu",
+          "url": "https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184487,
+      "name": "La Maison De Lise",
+      "url": "https://open.spotify.com/track/2N0yamJDAkgjlzYjCji0Ou"
+    },
+    {
+      "album": {
         "name": "Daddy 9",
         "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
       },
@@ -1466,7 +1502,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 193976,
       "name": "LONG LIVE LOVE",
       "url": "https://open.spotify.com/track/24KilG16jjFWArvhW1Wply"
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 132967,
       "name": "L\u00e0 o\u00f9 on dort heureux",
       "url": "https://open.spotify.com/track/5BalWculrB3c08qX6wN4pb"
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 144186,
       "name": "Photoshop",
       "url": "https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO"
@@ -2283,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2NcASf3B3ItrZReSbIz74N"
+      },
+      "artists": [
+        {
+          "name": "Douda",
+          "url": "https://open.spotify.com/artist/6y1aLMxP9vgLQzPuNwiSam"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186334,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/10H2reZGuAG8YBly3kN447"
+    },
+    {
+      "album": {
         "name": "Room 69 (Acoustic version)",
         "url": "https://open.spotify.com/album/1TXY709t3Wr10BWHiu9Yem"
       },
@@ -2490,6 +2544,24 @@
       "duration_ms": 160558,
       "name": "Si seulement",
       "url": "https://open.spotify.com/track/7dfIxgOs8OObrkQ9MBWpVD"
+    },
+    {
+      "album": {
+        "name": "Si tu pars",
+        "url": "https://open.spotify.com/album/5czivpS2nr9ZpNeIsklBjl"
+      },
+      "artists": [
+        {
+          "name": "Sev7en",
+          "url": "https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Si tu pars",
+      "url": "https://open.spotify.com/track/5EYatzs16w3eKXKOpu2JXZ"
     },
     {
       "album": {
@@ -3014,6 +3086,28 @@
       "duration_ms": 185300,
       "name": "Yonc\u00e9",
       "url": "https://open.spotify.com/track/14kKddVV5x6y9sipuT39EW"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la Hauteur",
+        "url": "https://open.spotify.com/album/5uvkYiiMMRpFE5DjoJC41t"
+      },
+      "artists": [
+        {
+          "name": "Pbl",
+          "url": "https://open.spotify.com/artist/2ErtP3QGjQ4j7qQk3ORl3j"
+        },
+        {
+          "name": "Jewel Usain",
+          "url": "https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164850,
+      "name": "\u00c0 la Hauteur",
+      "url": "https://open.spotify.com/track/5m5CDDkDfHWSKdYnFUN5LR"
     },
     {
       "album": {

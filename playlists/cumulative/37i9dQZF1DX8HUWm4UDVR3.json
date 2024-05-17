@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Ana\u00efs MVA",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : The Doug",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 188880,
       "name": "8h sonne",
       "url": "https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 177600,
       "name": "Belle et douce",
       "url": "https://open.spotify.com/track/62EIK97xEvRVHCPMluN8bR"
@@ -848,6 +848,24 @@
       "duration_ms": 186885,
       "name": "De passage",
       "url": "https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF"
+    },
+    {
+      "album": {
+        "name": "Des Histoires",
+        "url": "https://open.spotify.com/album/4tCoXW3fESM9myCDX6cSD2"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9t\u00e9o Mirage",
+          "url": "https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196839,
+      "name": "Des Histoires",
+      "url": "https://open.spotify.com/track/2hvfaFWZHErqc3FyDfeXQe"
     },
     {
       "album": {
@@ -1331,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "J'entends battre ton c\u0153ur",
+        "url": "https://open.spotify.com/album/5LrJdOM0v6xxdOwosmKqZz"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211948,
+      "name": "J'entends battre ton c\u0153ur",
+      "url": "https://open.spotify.com/track/7Jhv1m9tqa3bkRhMXXjvIx"
+    },
+    {
+      "album": {
         "name": "J'me barre",
         "url": "https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT"
       },
@@ -1678,7 +1714,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 156050,
       "name": "Le Pas",
       "url": "https://open.spotify.com/track/52N5YwXgVCV9dHWAOegiPr"
@@ -1744,6 +1780,24 @@
       "duration_ms": 187000,
       "name": "Les Armes",
       "url": "https://open.spotify.com/track/2WEexWKjumCknzB41qU2UV"
+    },
+    {
+      "album": {
+        "name": "Les bonbons",
+        "url": "https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171960,
+      "name": "Les bonbons",
+      "url": "https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe"
     },
     {
       "album": {
@@ -1816,6 +1870,24 @@
       "duration_ms": 166358,
       "name": "Loin de moi",
       "url": "https://open.spotify.com/track/39n7S9oaAPZ9JyVYaadset"
+    },
+    {
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/4v8CMaH9wc0c47jev8WYEp"
+      },
+      "artists": [
+        {
+          "name": "RORI",
+          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5Dj8pFjDCm6Pm4aaOqfgkj"
     },
     {
       "album": {
@@ -2098,7 +2170,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 145658,
       "name": "Normandie",
       "url": "https://open.spotify.com/track/304a160jxpVs2JYVWtoR4N"
@@ -2195,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "on savait s'amuser",
+        "url": "https://open.spotify.com/album/7Fw7PqOs3qm6tUDbHz1a5K"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "on savait s\u2019amuser",
+      "url": "https://open.spotify.com/track/1gi9m5LUB3iNVk258TUnvv"
+    },
+    {
+      "album": {
         "name": "Oublier",
         "url": "https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP"
       },
@@ -2282,7 +2372,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-17",
       "duration_ms": 253910,
       "name": "Partie en voyage",
       "url": "https://open.spotify.com/track/0siMTfHv3BiAm7w1RYL80K"
