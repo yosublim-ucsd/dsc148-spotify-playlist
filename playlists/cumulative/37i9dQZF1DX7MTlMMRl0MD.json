@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Aventura",
+  "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Luis Miguel Del Amargue ",
   "name": "Bachata Lovers",
   "tracks": [
     {
@@ -200,6 +200,28 @@
       "duration_ms": 185333,
       "name": "Ad\u00f3nde Se Fue ?",
       "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
+    },
+    {
+      "album": {
+        "name": "Aficiao de ti",
+        "url": "https://open.spotify.com/album/09XHySkNog3Ak20vUGXAFH"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Evidence",
+          "url": "https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213645,
+      "name": "Aficiao de ti",
+      "url": "https://open.spotify.com/track/4DbsH0NFP8Ci0nyULxevxu"
     },
     {
       "album": {
@@ -1893,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Di Que S\u00ed",
+        "url": "https://open.spotify.com/album/3nqE0CkDhzUuvWV5D3uPRg"
+      },
+      "artists": [
+        {
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Di Que S\u00ed",
+      "url": "https://open.spotify.com/track/3SwU6NpaZ257IYLkOINHuM"
+    },
+    {
+      "album": {
         "name": "Dile",
         "url": "https://open.spotify.com/album/0gwDKRO0kdXe8digRzZqFs"
       },
@@ -1958,7 +1998,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 160163,
       "name": "Dime C\u00f3mo Se Siente",
       "url": "https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r"
@@ -4338,7 +4378,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
@@ -4650,7 +4690,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
@@ -4860,7 +4900,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 193333,
       "name": "Perdon",
       "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
@@ -5218,6 +5258,24 @@
       "duration_ms": 271066,
       "name": "Que Sera de Mi",
       "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
+    },
+    {
+      "album": {
+        "name": "De Azua Pal\u00b4mundo, Vol. 2",
+        "url": "https://open.spotify.com/album/0BhAPJv3CwI0LbXes1HJHL"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Que Voy a Hacer",
+      "url": "https://open.spotify.com/track/5PeTkjViSGyv9Zo8Gq9QjQ"
     },
     {
       "album": {
@@ -6594,6 +6652,28 @@
       "duration_ms": 234899,
       "name": "Traiganme Alcohol",
       "url": "https://open.spotify.com/track/7bWXvDVdp8CsNozvQ4lD9X"
+    },
+    {
+      "album": {
+        "name": "Tres Veces",
+        "url": "https://open.spotify.com/album/4uzfousUQ1sZZltZU9kH5q"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        },
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212774,
+      "name": "Tres Veces",
+      "url": "https://open.spotify.com/track/5pttj3qDA5F4YRHiwNDxAO"
     },
     {
       "album": {

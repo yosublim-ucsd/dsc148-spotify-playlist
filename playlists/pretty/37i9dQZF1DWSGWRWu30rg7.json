@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover:  Peter Holly ",
-  "num_followers": 63264,
+  "num_followers": 63288,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaYZAAAAAACjwL5mzDgVmvu/dYzoo3e",
+  "snapshot_id": "Zkbe/AAAAABgDeOrXV4veuk0dlYxtq4Q",
   "tracks": [
     {
       "added_at": "2024-05-16 23:08:08",
@@ -55,6 +55,22 @@
       "duration_ms": 262500,
       "name": "Hidup & Matiku",
       "url": "https://open.spotify.com/track/1z8bHTEvibPtxhFUVQtfjf"
+    },
+    {
+      "added_at": "2024-05-16 23:36:04",
+      "album": {
+        "name": "1LLUSION",
+        "url": "https://open.spotify.com/album/5coBSzmfMsoiOEIgJolJYF"
+      },
+      "artists": [
+        {
+          "name": "sstr1ke",
+          "url": "https://open.spotify.com/artist/3i1ImPXC2gCPJUicoTSCft"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "1LLUSION",
+      "url": "https://open.spotify.com/track/1XMwjIKGXFp739sGDHH7JO"
     },
     {
       "added_at": "2024-05-16 23:08:08",
@@ -253,6 +269,22 @@
       "url": "https://open.spotify.com/track/4qgtpCjOWRVmhF175sZlwD"
     },
     {
+      "added_at": "2024-05-17 04:15:45",
+      "album": {
+        "name": "JUWITA",
+        "url": "https://open.spotify.com/album/2NeEjAvuxDaEciHJ7DTX3m"
+      },
+      "artists": [
+        {
+          "name": "De Brothers",
+          "url": "https://open.spotify.com/artist/4Zn6hWvhssEGxhP6hXDAOK"
+        }
+      ],
+      "duration_ms": 262043,
+      "name": "JUWITA",
+      "url": "https://open.spotify.com/track/5a5vPpUOy1o9YKFMNjxtOx"
+    },
+    {
       "added_at": "2024-05-16 23:08:08",
       "album": {
         "name": "Kau Pilih Dia",
@@ -291,6 +323,22 @@
       "duration_ms": 185202,
       "name": "Benalu",
       "url": "https://open.spotify.com/track/5L6w6OIlmODLeHgsMMdl8O"
+    },
+    {
+      "added_at": "2024-05-17 04:15:45",
+      "album": {
+        "name": "Moody EP",
+        "url": "https://open.spotify.com/album/23ELB0XxCr6VhtDh2vVUdx"
+      },
+      "artists": [
+        {
+          "name": "Batara",
+          "url": "https://open.spotify.com/artist/03nRVx8gYfikA1yjpRmtx6"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/0KTUhrjggIIrvtBGypBYrl"
     },
     {
       "added_at": "2024-05-16 23:36:04",
@@ -361,6 +409,70 @@
       "url": "https://open.spotify.com/track/0hvSqtpORLD4vs2vNsYkud"
     },
     {
+      "added_at": "2024-05-17 04:15:45",
+      "album": {
+        "name": "Tak Seperti Dulu",
+        "url": "https://open.spotify.com/album/2ZlJGU2HdygZBYIImgSDnd"
+      },
+      "artists": [
+        {
+          "name": "Opix Jiva",
+          "url": "https://open.spotify.com/artist/4xiozh9nd6ZzpmHv8qbouD"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Tak Seperti Dulu",
+      "url": "https://open.spotify.com/track/6l9ixKkM6LnsfWhnb8aRId"
+    },
+    {
+      "added_at": "2024-05-17 04:37:16",
+      "album": {
+        "name": "Lelah Menghadapimu",
+        "url": "https://open.spotify.com/album/6hA4drCs0nuiZolcflNbUS"
+      },
+      "artists": [
+        {
+          "name": "Adjji Alvarendra",
+          "url": "https://open.spotify.com/artist/5FiJms6HIQkflal1Df8lrn"
+        }
+      ],
+      "duration_ms": 247927,
+      "name": "Lelah Menghadapimu",
+      "url": "https://open.spotify.com/track/55LQSHgmQ7gSIiEsSq7cCN"
+    },
+    {
+      "added_at": "2024-05-17 04:15:45",
+      "album": {
+        "name": "Bersama",
+        "url": "https://open.spotify.com/album/4PsaayILgtq2fqCVXNsd9l"
+      },
+      "artists": [
+        {
+          "name": "Kalyana Project",
+          "url": "https://open.spotify.com/artist/64POA7FwnlbCDic2SAsxya"
+        }
+      ],
+      "duration_ms": 224722,
+      "name": "Bersama",
+      "url": "https://open.spotify.com/track/04S4JCUbeErMr0EOvszdPc"
+    },
+    {
+      "added_at": "2024-05-17 04:15:45",
+      "album": {
+        "name": "99 PROBLEMS",
+        "url": "https://open.spotify.com/album/7GJ8aR2ywfSw8K4QOGIUaV"
+      },
+      "artists": [
+        {
+          "name": "GEZ GOZ",
+          "url": "https://open.spotify.com/artist/7pYCdFdYQFkvYEcDwEUchm"
+        }
+      ],
+      "duration_ms": 198346,
+      "name": "99 PROBLEMS",
+      "url": "https://open.spotify.com/track/7zWZeM2QxedvkPWQdbYoYW"
+    },
+    {
       "added_at": "2024-05-16 23:08:08",
       "album": {
         "name": "Cold Hearts",
@@ -395,6 +507,38 @@
       "duration_ms": 266382,
       "name": "The Lady With The Sapphire in Her Eyes",
       "url": "https://open.spotify.com/track/3NLOvyOrCc1AxtXVBILHiJ"
+    },
+    {
+      "added_at": "2024-05-17 04:15:45",
+      "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/7lX1XbAZeIPSl2drvNP4mR"
+      },
+      "artists": [
+        {
+          "name": "The AYAMI",
+          "url": "https://open.spotify.com/artist/1Eg7iEDq156YidipxjThHq"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/7pJ4buiHLTQXZvNrYd3ySF"
+    },
+    {
+      "added_at": "2024-05-17 04:15:45",
+      "album": {
+        "name": "never within an end",
+        "url": "https://open.spotify.com/album/2BstfvLgt2LyhIUuSE1jxN"
+      },
+      "artists": [
+        {
+          "name": "jntn",
+          "url": "https://open.spotify.com/artist/07775meEP3T7LNBgMyvfgB"
+        }
+      ],
+      "duration_ms": 111780,
+      "name": "end of the world",
+      "url": "https://open.spotify.com/track/188wl5h8VSeI5o3zd3U4RB"
     },
     {
       "added_at": "2024-05-16 23:36:04",
@@ -451,6 +595,38 @@
       "duration_ms": 264576,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7k0LZfYuqSaK8NP4sQsZkK"
+    },
+    {
+      "added_at": "2024-05-17 04:15:45",
+      "album": {
+        "name": "I'll Be Over You",
+        "url": "https://open.spotify.com/album/3EzjEuAvRs2M6Ey89eZG6f"
+      },
+      "artists": [
+        {
+          "name": "The 90s Kids From The Block",
+          "url": "https://open.spotify.com/artist/5awFgZVbNiNYjT1p76zqL3"
+        }
+      ],
+      "duration_ms": 232490,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/5f1YGd2aYKwwp4HnvCBc5Q"
+    },
+    {
+      "added_at": "2024-05-17 04:15:45",
+      "album": {
+        "name": "You Want More",
+        "url": "https://open.spotify.com/album/5Cq1CouI0g1Zoo7k90kij0"
+      },
+      "artists": [
+        {
+          "name": "Axel Farden",
+          "url": "https://open.spotify.com/artist/3zHN9rvZ75jIZyXircCo2e"
+        }
+      ],
+      "duration_ms": 206076,
+      "name": "You Want More",
+      "url": "https://open.spotify.com/track/3DFhQ2zyZJ0G4gYxinPgDs"
     },
     {
       "added_at": "2024-05-16 23:08:08",

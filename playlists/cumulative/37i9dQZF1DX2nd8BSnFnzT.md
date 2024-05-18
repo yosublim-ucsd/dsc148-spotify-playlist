@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Black Pantera
 
-464 songs - 1 day 1 hr 55 min
+465 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Mais um Sábado Perdido](https://open.spotify.com/track/0aTRGWsVtazREkGaIR9EdW) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Mais um Sábado Perdido](https://open.spotify.com/album/2RnAXXsGewXhBgdqeiFf99) | 2:03 | 2022-02-18 | 2022-03-18 |
 | [Manifesto!](https://open.spotify.com/track/22avKr5ZtQYEmW12bpY2Zf) | [Banda Go Home](https://open.spotify.com/artist/55xvUppAG19F1CErLfAvZI), [Bloco do Caos](https://open.spotify.com/artist/44nuOAoL0OIc2QmKfO0nnl) | [Manifesto!](https://open.spotify.com/album/0uct3MaZximvUmUiEtqU0h) | 3:51 | 2022-04-15 | 2022-05-14 |
 | [Maremotos \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/6PuDWQvcwl55r3yVJRjgMF) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Maremotos \(Ao Vivo Quando A Terra Era Redonda\)](https://open.spotify.com/album/4iK4k80Au5YG4NIEHPZs43) | 3:28 | 2022-01-14 | 2022-02-05 |
+| [Marte](https://open.spotify.com/track/7vt1i1MX517hwX58FRJ34c) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Marte](https://open.spotify.com/album/7LsdId0PlRzRoA1QeDBvTg) | 2:40 | 2024-05-17 |  |
 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 | 2022-02-18 | 2023-07-01 |
 | [Me Acostumei](https://open.spotify.com/track/35ygjxl5CfGGK1mwLeoavC) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [IMUNE](https://open.spotify.com/artist/6w4ghJ9ppw3VdusbNWsSmc) | [Me Acostumei](https://open.spotify.com/album/5zRgNpF0eJ0J4hQ2Mwfa3n) | 4:05 | 2023-02-24 | 2023-07-22 |
 | [Me Ajude a Viver](https://open.spotify.com/track/7L6QuFxG9TlYxHpPHuMQ8x) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Invencível](https://open.spotify.com/album/189MgpvZ73UEJ7jHxtIYRM) | 3:36 | 2023-09-29 | 2024-04-06 |
@@ -424,7 +425,7 @@
 | [They Wanna Turn Me into a Politician](https://open.spotify.com/track/2GZOCsPD74NaqNOnfMLjfk) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [They Wanna Turn Me into a Politician](https://open.spotify.com/album/00norKuCaNr7z3yNLDS2Ln) | 1:56 | 2022-05-20 | 2022-05-28 |
 | [Toca Raul](https://open.spotify.com/track/5J0ewKoDHCVbmJxS9ZkHwK) | [Ventania](https://open.spotify.com/artist/0TRaSC8tccqoIVYYBPcI5b) | [Toca Raul](https://open.spotify.com/album/7682GyJz64HsNN8T3Va1bU) | 2:48 | 2023-07-21 |  |
 | [Todo Dia é Dia de Comemorar \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/2FgMoBbrgy2hzetNNrbbXz) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/album/7mf53NHZ8LnRVDy0qFwdOH) | 3:40 | 2022-02-18 | 2022-05-14 |
-| [Todo Esse Querer \- Ao Vivo](https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Todo Esse Querer \(Ao Vivo\)](https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2) | 3:19 | 2024-03-08 |  |
+| [Todo Esse Querer \- Ao Vivo](https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Todo Esse Querer \(Ao Vivo\)](https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2) | 3:19 | 2024-03-08 | 2024-05-18 |
 | [Todo Mundo Quer Pirar](https://open.spotify.com/track/1XW7bclMViizNKpTaCEN8V) | [Sem Hora NA GO](https://open.spotify.com/artist/1qR9fwjTlE4Sn29AJaLbFZ) | [Todo Mundo Quer Pirar](https://open.spotify.com/album/7nxU4nxZPodejcGUCUsAcd) | 3:12 | 2022-03-18 | 2022-05-20 |
 | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB) | 2:11 | 2023-11-24 |  |
 | [Transa Amarrada](https://open.spotify.com/track/0qUF7pBT4G2KU9OmUgbBWV) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla e os Punks de Boutique](https://open.spotify.com/album/655eN18FDXJhTEghMeVFZP) | 2:30 | 2023-06-30 | 2023-07-29 |

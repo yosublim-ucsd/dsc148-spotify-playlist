@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Knocked Loose
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Body Count
 
-686 songs - 1 day 19 hr 39 min
+692 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-03 | 2024-02-03 |
 | [A Love Letter](https://open.spotify.com/track/00tjbl5vqZ1STRSkj0PJ6R) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [A Love Letter](https://open.spotify.com/album/0I8Yv6gRPKHeRZzBIB2mXf) | 5:47 | 2022-06-10 | 2023-07-15 |
 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 | 2022-04-08 | 2023-07-15 |
+| [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 |  |
 | [A6 \- Meteora\|20 Demo](https://open.spotify.com/track/6xOULyOGGvUDqSNgi73CRe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:54 | 2023-04-07 | 2024-02-03 |
 | [Acid Black Mass](https://open.spotify.com/track/03kl2tU3JM4MOqpyYjm3xF) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Acid Black Mass](https://open.spotify.com/album/5KUi9nDTrL8nLH3xoE413z) | 4:23 | 2022-03-11 | 2023-07-15 |
 | [Acres Of Love](https://open.spotify.com/track/6B43mtMINuEDxR0bLdgB0B) | [Bastions](https://open.spotify.com/artist/28I7fJRc6dm6a4Cq7kNSS6) | [Acres Of Love](https://open.spotify.com/album/6ucVxV2U0gR91H5z7M80HH) | 3:39 | 2022-05-06 | 2023-07-15 |
@@ -445,6 +446,7 @@
 | [Proper One](https://open.spotify.com/track/6rF9bJvHRjmOmOwaQUVn3V) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Proper One](https://open.spotify.com/album/0tyWu8ihBN9bdwO3YfpsF8) | 2:45 | 2022-08-19 | 2023-07-15 |
 | [Psalm of Agony](https://open.spotify.com/track/5uQadwUb80JnombUNJ3aJ1) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Psalm of Agony](https://open.spotify.com/album/4T9StwfDCVyX6C9B0XYQqe) | 6:52 | 2022-06-17 | 2023-07-15 |
 | [Psychopath](https://open.spotify.com/track/134Enu11pXxLWWPwadoq2f) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Psychopath](https://open.spotify.com/album/5FfQVGAscDySGRgP799p4Y) | 3:00 | 2023-10-27 | 2024-02-03 |
+| [Psychopath \(feat\. Joe Bad\)](https://open.spotify.com/track/0xbDLHfn1F4FGNExKmNEpR) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Psychopath \(feat\. Joe Bad\)](https://open.spotify.com/album/5qrhkfZ4OYytIfpglXgihZ) | 3:19 | 2024-05-17 |  |
 | [PULSE](https://open.spotify.com/track/5vCM9Qp6iLSORqHXihDx4P) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [PULSE](https://open.spotify.com/album/7vJJxl2wVlT1YEh3qZan4O) | 3:20 | 2023-10-27 | 2024-02-03 |
 | [Punishment Existence](https://open.spotify.com/track/3qcvJm4YIazQkccz5n7eFZ) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Punishment Existence](https://open.spotify.com/album/6diHtrU9U8XN0t2li2Fg8N) | 4:07 | 2022-01-28 | 2023-07-15 |
 | [Purge](https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Purge](https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF) | 4:42 | 2023-12-15 | 2024-02-03 |
@@ -540,6 +542,7 @@
 | [Sun//Eater](https://open.spotify.com/track/1QeQ1bq6jitMzdgNu8nK1L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Sun//Eater](https://open.spotify.com/album/2lJtDqPcOAXkNLgh18YTFB) | 6:10 | 2022-05-13 | 2023-07-15 |
 | [Sunset over the Empire](https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Sunset over the Empire](https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9) | 4:03 | 2022-05-20 | 2023-07-15 |
 | [Supernatural](https://open.spotify.com/track/2CJo2Yy3sipDQ3XyiL3Vha) | [Julie Christmas](https://open.spotify.com/artist/4rHZDNrVu2XkdO7eysOHei) | [Supernatural](https://open.spotify.com/album/2SVkD5ABH9AXwPhn5awnVn) | 3:35 | 2024-04-19 |  |
+| [Superstitious Vision](https://open.spotify.com/track/3VPS0fDgL5dJunXVUZAn7N) | [Gatecreeper](https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N) | [Dark Superstition](https://open.spotify.com/album/7BhpoTy951vKzT7xeQJg9e) | 3:52 | 2024-05-17 |  |
 | [Survival Is Vengeance](https://open.spotify.com/track/5p61JWK78nkyZO9JLUhhDf) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Survival Is Vengeance](https://open.spotify.com/album/6N1U0MdbQfOx98lWV3Xjgh) | 1:45 | 2022-07-22 | 2023-07-15 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2023-07-15 |
 | [Sweet Jesus Wept Shit](https://open.spotify.com/track/6LFtB65EHqd7U85PhBEUjo) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Sweet Jesus Wept Shit](https://open.spotify.com/album/7gYrrE3z5TFefKMmFzs9Gd) | 3:12 | 2022-07-01 | 2023-07-15 |
@@ -606,9 +609,11 @@
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 | 2023-07-15 |
 | [Time Is Coming For Us All](https://open.spotify.com/track/4k8W2lveY4GzNADWNQNGmO) | [Street Power](https://open.spotify.com/artist/0MRYZGQXTt3HN6u34YtEYr) | [Promo 2024](https://open.spotify.com/album/4kyPh860ld5waGNs5TnkfZ) | 1:51 | 2024-03-01 |  |
 | [To The Dance Floor For Shelter](https://open.spotify.com/track/56Vtx5Pdhg0sgmbczxJ5b5) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [To The Dance Floor For Shelter \(feat\. Courtney LaPlante\)](https://open.spotify.com/album/5S9zh1BaFjgNq1TdDNH1Se) | 4:19 | 2024-03-29 |  |
+| [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 | 2024-05-17 |  |
 | [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-07 | 2024-02-03 |
 | [Tote](https://open.spotify.com/track/51rKTcFDLxU0YJyP5eH6b5) | [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [Tote](https://open.spotify.com/album/4mOdpOvQV5XOqosMWsvy7s) | 2:07 | 2023-05-26 | 2024-02-03 |
 | [Tower Has Fallen](https://open.spotify.com/track/6LI5dpKCc3Z157MFsxcPDw) | [Ephemeral](https://open.spotify.com/artist/07bVX0mFSx79Nd6250qVCa) | [Tower Has Fallen](https://open.spotify.com/album/0dBLFferJ65QLYw5ZVmKIU) | 2:56 | 2023-04-28 | 2024-02-03 |
+| [Toxic](https://open.spotify.com/track/0xAXV7X5Gl7GPNTVmLNWhT) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [From Hell I Rise](https://open.spotify.com/album/4ckLWU4gnRz63E4raWVEFF) | 3:54 | 2024-05-17 |  |
 | [Transcend to Wet](https://open.spotify.com/track/5Hr6hBX1TkiQ892YhTdqO4) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Transcend to Wet](https://open.spotify.com/album/3SyLGYfzoslxD8Ri6saEF1) | 1:50 | 2022-05-27 | 2023-07-15 |
 | [Treacle & Revenge](https://open.spotify.com/track/5HsdXoHYE7z1WZWlUnm7FX) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Treacle & Revenge](https://open.spotify.com/album/0AaHmJ9VQx66VztOV5k94s) | 3:52 | 2022-05-27 | 2023-07-15 |
 | [Trepanation](https://open.spotify.com/track/2qohTQsfJbWHdXDsj2SaY8) | [Wristmeetrazor](https://open.spotify.com/artist/2d75DTub8rPPrm6veUsyf6) | [Trepanation](https://open.spotify.com/album/7C9jZu04hoVqLeUMlHJbE3) | 2:28 | 2024-02-16 |  |
@@ -658,6 +663,7 @@
 | [We Don’t Need Another Hero](https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:10 | 2023-05-19 | 2024-02-03 |
 | [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 | 2024-02-03 |
 | [We Share Blood \(Not Love\)](https://open.spotify.com/track/5GaBRiiXjAGvhfiVCs1U5W) | [Splitknuckle](https://open.spotify.com/artist/4IEv1LeXgymlFLG41BS4Kk), [Pest Control](https://open.spotify.com/artist/06NrwSBss5Imv1Se0Hlv5Y) | [Breathing Through The Wound](https://open.spotify.com/album/4N1QBT0JUgvZLEHQ5foSqQ) | 6:22 | 2024-01-12 |  |
+| [We Won't Sleep](https://open.spotify.com/track/4JQHxicFrjTMTfI6UQwtfw) | [Polar](https://open.spotify.com/artist/6eby39yemH7FjGVwJID1Tw) | [We Won't Sleep](https://open.spotify.com/album/1YxPve8eDSgqlXqyDaOTz7) | 3:33 | 2024-05-17 |  |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 | 2023-07-15 |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2023-07-15 |
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-06-03 | 2023-07-15 |

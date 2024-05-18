@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 208500,
       "name": "All The Same",
       "url": "https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85"
@@ -3740,6 +3740,24 @@
       "duration_ms": 267522,
       "name": "Far From Here",
       "url": "https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9"
+    },
+    {
+      "album": {
+        "name": "feel / i don't know why",
+        "url": "https://open.spotify.com/album/54DPVTO675Qnb60v5tmLg0"
+      },
+      "artists": [
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130912,
+      "name": "feel",
+      "url": "https://open.spotify.com/track/0FpWFfW0yqpCIfgw4QCuuL"
     },
     {
       "album": {

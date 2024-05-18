@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Bosudongcooler(\ubcf4\uc218\ub3d9\ucfe8\ub7ec)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Gila(\uae38\ub77c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -3404,6 +3404,24 @@
       "duration_ms": 276057,
       "name": "Girls",
       "url": "https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC"
+    },
+    {
+      "album": {
+        "name": "Glad you liked it",
+        "url": "https://open.spotify.com/album/1VGfwHjQcjEozpi6o9hE2H"
+      },
+      "artists": [
+        {
+          "name": "Gila",
+          "url": "https://open.spotify.com/artist/1DYmaars5bAW3OfddN9WjY"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Glad you liked it",
+      "url": "https://open.spotify.com/track/7ILyMlB2UVceqKAqfko1zo"
     },
     {
       "album": {
@@ -9010,7 +9028,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 221946,
       "name": "Sitting on a chair",
       "url": "https://open.spotify.com/track/2WCTjz29wiRtxAprTetQx4"

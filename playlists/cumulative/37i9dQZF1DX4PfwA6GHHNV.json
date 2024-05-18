@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 140000,
       "name": "Patipapa",
       "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
@@ -2452,6 +2452,28 @@
       "duration_ms": 195404,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/2ZcrhiCDuEfYZRZTae4dNi"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1khbyrHruJLXl5uFftk3ZP"
     },
     {
       "album": {

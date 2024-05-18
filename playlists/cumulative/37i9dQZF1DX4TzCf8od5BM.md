@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4TzCf8od5BM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4TzCf8od5BM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4TzCf8od5BM)
 
-### [Disney Junior Hits](https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM)
+### [Disney Junior Music](https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM)
 
-> Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
+> Sing\-along with your favorite songs from Disney Junior shows including new music from Ariel.
 
 204 songs - 5 hr 13 min
 

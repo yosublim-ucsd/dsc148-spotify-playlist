@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: fyne, Artwork: Isu Kim.\n",
-  "num_followers": 29212,
+  "num_followers": 29262,
   "original_name": "Fresh Finds GSA",
   "owner": {
     "name": "Spotify",
@@ -236,12 +236,12 @@
       },
       "artists": [
         {
-          "name": "Josh Kye",
-          "url": "https://open.spotify.com/artist/0qtgGtFrIG8RnZIWjsD53h"
-        },
-        {
           "name": "qu",
           "url": "https://open.spotify.com/artist/3Ci56b91PyFRKz2fpk211A"
+        },
+        {
+          "name": "Josh Kye",
+          "url": "https://open.spotify.com/artist/0qtgGtFrIG8RnZIWjsD53h"
         }
       ],
       "duration_ms": 226847,

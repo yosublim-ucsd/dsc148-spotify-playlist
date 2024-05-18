@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Ambient with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,322 likes - 83 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,420 likes - 83 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "El Amor Es un Juego de Perdedores",
+        "url": "https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208839,
+      "name": "El Amor Es un Juego de Perdedores",
+      "url": "https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA"
+    },
+    {
+      "album": {
         "name": "El Amor Se Fue de Repente",
         "url": "https://open.spotify.com/album/3BR6BEzOxK1ukJo8RkHSsL"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 259250,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0"
@@ -1058,6 +1076,24 @@
       "duration_ms": 196034,
       "name": "Hace rato",
       "url": "https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj"
+    },
+    {
+      "album": {
+        "name": "He Venido al Mar",
+        "url": "https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340934,
+      "name": "He Venido al Mar - short mix",
+      "url": "https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8"
     },
     {
       "album": {
@@ -1778,7 +1814,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 180086,
       "name": "Pa' M\u00ed No Vales Nada",
       "url": "https://open.spotify.com/track/4Ixm2dFSYn8zELPXlUQAwU"

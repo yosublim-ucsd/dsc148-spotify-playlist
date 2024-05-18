@@ -2,7 +2,7 @@
 
 ### [Twisters Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWUPPdrlg41gp)
 
-> Chase\. Ride\. Survive\. Listen to the music from Twister and Twister<i>s</i>, coming soon to theaters.
+> Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters, coming soon to theaters.
 
 15 songs - 1 hr 2 min
 

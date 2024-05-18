@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel My Heart",
+        "url": "https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152093,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S"
+    },
+    {
+      "album": {
         "name": "Cannibal (Radical Redemption Remix)",
         "url": "https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq"
       },
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 132846,
       "name": "Raver",
       "url": "https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz"

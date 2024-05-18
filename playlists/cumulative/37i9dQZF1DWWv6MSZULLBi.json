@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Mikayla Geier",
+  "description": "A laid-back trip in the folk scene. Cover: Charlotte Cardin",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 244322,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/6EWVIxPbH2i5sdzYkAvpp6"
+    },
+    {
+      "album": {
+        "name": "After a While",
+        "url": "https://open.spotify.com/album/7l49o80bqAzmIiZDmC6psZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Bernard Fitzgerald",
+          "url": "https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184648,
+      "name": "After a While",
+      "url": "https://open.spotify.com/track/0JYGgU278Yz2b3jx0Pzobq"
     },
     {
       "album": {
@@ -784,7 +802,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 182720,
       "name": "another sublet",
       "url": "https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb"
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 177852,
       "name": "Blood Milk Moon",
       "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 230531,
       "name": "Cat's Cradle",
       "url": "https://open.spotify.com/track/2uTX6lmVcYJLQ2lvcKrBC3"
@@ -2938,6 +2956,24 @@
       "duration_ms": 149317,
       "name": "Delaney's Dad",
       "url": "https://open.spotify.com/track/0XGVEHblDAz53ZsEgXswjG"
+    },
+    {
+      "album": {
+        "name": "Delphinium Blue",
+        "url": "https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "Delphinium Blue",
+      "url": "https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR"
     },
     {
       "album": {
@@ -5155,6 +5191,24 @@
     },
     {
       "album": {
+        "name": "Green Morning",
+        "url": "https://open.spotify.com/album/608J5tNM6Lt827kWtBRaMw"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250560,
+      "name": "Green Morning",
+      "url": "https://open.spotify.com/track/42VWxciaW70cNreVvpx368"
+    },
+    {
+      "album": {
         "name": "Greyhound",
         "url": "https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5"
       },
@@ -5524,7 +5578,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 189811,
       "name": "Heart Shaped Locket",
       "url": "https://open.spotify.com/track/5oaThEaulai5NDF9I0kz1T"
@@ -5966,7 +6020,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 204453,
       "name": "Hometown (Take me to)",
       "url": "https://open.spotify.com/track/5oax6atZMJIeFEXwgQsqVw"
@@ -6158,6 +6212,24 @@
       "duration_ms": 181111,
       "name": "I Believe in Something More",
       "url": "https://open.spotify.com/track/7eOYNPtD0tq3Q0JJ7JxwjQ"
+    },
+    {
+      "album": {
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "I Came Here to Leave You",
+      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
     },
     {
       "album": {
@@ -8291,6 +8363,24 @@
     },
     {
       "album": {
+        "name": "Strange Medicine",
+        "url": "https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219910,
+      "name": "Maker Taker",
+      "url": "https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw"
+    },
+    {
+      "album": {
         "name": "Those Years",
         "url": "https://open.spotify.com/album/3I7HtpecHef8cSTQwXOR9o"
       },
@@ -8302,7 +8392,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 291442,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/5EphqHUo5K7fgkZ7xYn3bK"
@@ -9074,6 +9164,24 @@
       "duration_ms": 271533,
       "name": "Nightjar And The Nightingale",
       "url": "https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli"
+    },
+    {
+      "album": {
+        "name": "Nightvisions",
+        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236320,
+      "name": "Nightvisions",
+      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
     },
     {
       "album": {
@@ -9932,7 +10040,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 216661,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/4LWrnnStSFx4dsiVLsgPun"
@@ -10102,7 +10210,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 208702,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/6Rc8Z7D778SVkwuoFSJvxQ"
@@ -13385,6 +13493,24 @@
     },
     {
       "album": {
+        "name": "Timeline",
+        "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332585,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
+    },
+    {
+      "album": {
         "name": "To Hell With You",
         "url": "https://open.spotify.com/album/5UnKpDB9duylUpCRrHTACe"
       },
@@ -13396,7 +13522,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 231333,
       "name": "To Hell With You",
       "url": "https://open.spotify.com/track/6x4MmOfqPZ3u0OZTtDzHk7"
@@ -13899,6 +14025,24 @@
     },
     {
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/0cvRzBCz5Bxb2zruVPfJ8W"
+      },
+      "artists": [
+        {
+          "name": "Flower Face",
+          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274647,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/2ZXwbxcnIsB7rxbPj5mEMk"
+    },
+    {
+      "album": {
         "name": "Valhalla Dancer",
         "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
       },
@@ -14166,6 +14310,24 @@
       "duration_ms": 211781,
       "name": "Wet Sock",
       "url": "https://open.spotify.com/track/7gQxHnz1Clsa1AWj7dABAT"
+    },
+    {
+      "album": {
+        "name": "whac-a-mole",
+        "url": "https://open.spotify.com/album/1e3GuV99ivQuOvz6SUEosT"
+      },
+      "artists": [
+        {
+          "name": "Hayley Gene Penner",
+          "url": "https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263733,
+      "name": "whac-a-mole",
+      "url": "https://open.spotify.com/track/2sETOrToyH8ROn9Ip2CQUp"
     },
     {
       "album": {

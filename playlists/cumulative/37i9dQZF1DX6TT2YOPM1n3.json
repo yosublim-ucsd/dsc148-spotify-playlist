@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 234125,
       "name": "FELONY (feat. Talhah Yunus, Calm & Faris Shafi)",
       "url": "https://open.spotify.com/track/6ObdA7xmpxSmDCJ7zDmMH7"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 227166,
       "name": "Harkalay",
       "url": "https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK"
@@ -2884,6 +2884,32 @@
       "duration_ms": 397546,
       "name": "Tu Jhoom",
       "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
+    },
+    {
+      "album": {
+        "name": "Tumhari Chup (From \"Gentleman\")",
+        "url": "https://open.spotify.com/album/2zCGD9eZmf9yskcrY5abV5"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Naveed Nashad",
+          "url": "https://open.spotify.com/artist/22fO3UH96rJbcBGI0YN7Ue"
+        },
+        {
+          "name": "Khalil Ul Rehman Qamar",
+          "url": "https://open.spotify.com/artist/4Y92LGBbANCGDqOLV9myXV"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326236,
+      "name": "Tumhari Chup - From \"Gentleman\"",
+      "url": "https://open.spotify.com/track/3Tl6WAOMZKkMpYrlZLBVw2"
     },
     {
       "album": {

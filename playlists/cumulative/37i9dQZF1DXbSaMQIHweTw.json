@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Daae / Baae",
+        "url": "https://open.spotify.com/album/7946Gev1ctUBANzL1tMVX0"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Dropped Out",
+          "url": "https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236181,
+      "name": "Daae / Baae",
+      "url": "https://open.spotify.com/track/7ivAQyb7IBhsv5JE2C25Ab"
+    },
+    {
+      "album": {
         "name": "Toofaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5qdjovodFjQoQHMtj3to7e"
       },
@@ -1248,7 +1270,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 159130,
       "name": "ISLAH",
       "url": "https://open.spotify.com/track/287Hq0mwGrCWVfBjugfKIK"

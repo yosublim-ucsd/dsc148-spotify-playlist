@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-254 songs - 14 hr 0 min
+255 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Never Seen The Rain \- Alternate Version](https://open.spotify.com/track/6MYNfMiLwCmA3bRdfzvfcs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Never Seen The Rain \(Alternate Version\)](https://open.spotify.com/album/7oVHtPdIA5kcxLLiCu2t7N) | 5:00 | 2022-07-15 | 2022-10-09 |
 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 | 2022-01-28 |  |
 | [Nicer \- Acoustic](https://open.spotify.com/track/5MfFCOVMkXkDC9NWklqPZ9) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Nicer \(Acoustic\)](https://open.spotify.com/album/78SoTgcb3GmcIqa46vl28P) | 2:47 | 2023-02-24 |  |
+| [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 | 2024-05-17 |  |
 | [No One Dies From Love \(Stripped in France\)](https://open.spotify.com/track/27xRPKb5q7YmDIzOUSHOa9) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love \(Stripped in France\)](https://open.spotify.com/album/4Pi43llgQL8fFh3a6uYB8E) | 3:42 | 2023-05-09 | 2023-12-09 |
 | [Nobody Loves Me](https://open.spotify.com/track/1SYqnlqZyI7dVYDEvdkBau) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Nobody Loves Me](https://open.spotify.com/album/1ahGUWtnA8tqb4zaKGzCTi) | 3:35 | 2023-06-30 | 2023-09-30 |
 | [Nobody's You](https://open.spotify.com/track/2ZIyBv5RsM12HZkCGEzFKh) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Nobody's You](https://open.spotify.com/album/09dtrFg01EKpw6oVMw6MI1) | 2:36 | 2023-06-30 |  |
@@ -201,7 +202,7 @@
 | [Safe Inside \- Acoustic](https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Safe Inside \(Acoustic\)](https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0) | 3:52 | 2022-01-28 | 2023-05-10 |
 | [Safe With Me \(with Audrey Mika\) \- Acoustic](https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Safe With Me \(with Audrey Mika\) \[Acoustic\]](https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv) | 3:23 | 2022-01-28 |  |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-09-22 | 2024-03-16 |
-| [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 | 2024-04-26 |  |
+| [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 | 2024-04-26 | 2024-05-18 |
 | [Share That Love \- Acoustic](https://open.spotify.com/track/31BOrBVgxuqUFOQwaa4s40) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Share That Love \(Acoustic\)](https://open.spotify.com/album/49WG3joqPsDgkN5rmAgCBG) | 2:37 | 2022-01-28 | 2022-03-18 |
 | [she's all i wanna be \- Acoustic](https://open.spotify.com/track/3iJVCCW5equhyyZcxrMABz) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be \(Acoustic\)](https://open.spotify.com/album/249BQ5FeDE1TqBLFlUt9uZ) | 3:18 | 2022-03-18 |  |
 | [Shivers \- Acoustic Version](https://open.spotify.com/track/7BiRw4sgXQMyNx8nPltnQr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers \(Acoustic Version\)](https://open.spotify.com/album/1CM3OBIxS9yzSiIAOW0gIF) | 3:26 | 2022-01-28 | 2023-09-02 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Os Garotin e novos talentos do Brasil\. Dê play no futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,033 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,026 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [curva escura](https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [curva escura](https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m) | 3:40 |
-| 2 | [Mexeu Com a Mente](https://open.spotify.com/track/7wPAbSK3JRirnVyyyceSS0) | [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Maori](https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg) | [Mexeu Com a Mente](https://open.spotify.com/album/2VaAUj6JQPOrrWPVonj3Sb) | 2:49 |
+| 2 | [Mexeu Com a Mente](https://open.spotify.com/track/7wPAbSK3JRirnVyyyceSS0) | [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Mexeu Com a Mente](https://open.spotify.com/album/2VaAUj6JQPOrrWPVonj3Sb) | 2:49 |
 | 3 | [Mortal pra trás!](https://open.spotify.com/track/3Hk0otwsBfoQ3kIZcOJCfW) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Mortal pra trás!](https://open.spotify.com/album/0MxPITt7zk0AVwf3iXyLQz) | 2:41 |
 | 4 | [Queda Livre](https://open.spotify.com/track/4gxR8elPIxIegmlAQKcBci) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Queda Livre](https://open.spotify.com/album/3qmu7j8xRnQJEfnjPYtRGz) | 3:38 |
 | 5 | [Bandida Perversa](https://open.spotify.com/track/3PKuWhiebOVLFRBwn9gqEF) | [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS), [Mc Lina](https://open.spotify.com/artist/6V9TYyxua6RS2GXbt4E55Q), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [DJ RC](https://open.spotify.com/artist/7gbxPcZ5qqE53k6a5zUSFk) | [Bandida Perversa](https://open.spotify.com/album/4t6q079qY2YAosMUqoblFq) | 1:58 |

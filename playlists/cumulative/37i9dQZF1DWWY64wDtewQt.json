@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 131555,
       "name": "Automotivo XM, Taka Taka Taka T\u00e1",
       "url": "https://open.spotify.com/track/4rKg1ll9sfAvDa3sqeaL9C"
@@ -4041,6 +4041,24 @@
     },
     {
       "album": {
+        "name": "DRESS!",
+        "url": "https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90461,
+      "name": "DRESS!",
+      "url": "https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE"
+    },
+    {
+      "album": {
         "name": "DRIFT-ZOKU",
         "url": "https://open.spotify.com/album/4M3cQGh2xFmvkObOyUJIBp"
       },
@@ -4474,6 +4492,24 @@
       "duration_ms": 118053,
       "name": "ETERNAL NIGHT",
       "url": "https://open.spotify.com/track/1yAZgqemZMdzkxFsETP2Wr"
+    },
+    {
+      "album": {
+        "name": "Eu Sento Gabu!",
+        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+      },
+      "artists": [
+        {
+          "name": "PXLWYSE",
+          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83754,
+      "name": "Eu Sento Gabu!",
+      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
     },
     {
       "album": {
@@ -6388,7 +6424,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 121846,
       "name": "JUJALARIM FUNK",
       "url": "https://open.spotify.com/track/7A9G0xZfgNVM17TvBysVzl"

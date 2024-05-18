@@ -22107,6 +22107,24 @@
     },
     {
       "album": {
+        "name": "Life for Two",
+        "url": "https://open.spotify.com/album/6Ln3kCCmtJuPcaODk3q7CX"
+      },
+      "artists": [
+        {
+          "name": "Noah Pelty",
+          "url": "https://open.spotify.com/artist/0NjCkdbiPfOK658VPVoePP"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188226,
+      "name": "Life for Two",
+      "url": "https://open.spotify.com/track/41cXTIEfikZ8ms6Gof397k"
+    },
+    {
+      "album": {
         "name": "Life of the After Party",
         "url": "https://open.spotify.com/album/0HHBYlWchMCMd5K9VuEfV8"
       },

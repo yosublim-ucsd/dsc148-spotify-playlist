@@ -4,7 +4,7 @@
 
 > Gratulerer med dagen! 🇳🇴 🎵
 
-427 songs - 22 hr 7 min
+428 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Make Your Own Kind Of Music](https://open.spotify.com/track/2kExqEH5ZrimFZ6WnDZqxC) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Make Your Own Kind Of Music](https://open.spotify.com/album/37VW09AIS2BIH17vEiRIuf) | 4:03 | 2024-05-16 |  |
 | [Making the most of you](https://open.spotify.com/track/3lyAk2N8hyY9sD7OsOPJPV) | [Una Sand](https://open.spotify.com/artist/6cJpWvPKsxobnfMLM6Nr60) | [Making the most of you](https://open.spotify.com/album/4g0tNVVyh6gUXSKRaI0B3A) | 3:11 | 2024-05-09 | 2024-05-17 |
 | [Mama’s House](https://open.spotify.com/track/0s7SD8mzw7jw4N2QbrcNfq) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [The Kids Are Still Awake](https://open.spotify.com/album/6JbCONWYhKKmpIjREglYIF) | 3:05 | 2024-05-02 | 2024-05-10 |
-| [Man In Finance \(Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-05-16 |  |
+| [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-05-16 |  |
 | [Maybe You Should Run Away](https://open.spotify.com/track/4sT0JXWpZJkGngErJ3gbsj) | [CarlloYABOY](https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie) | [Maybe You Should Run Away](https://open.spotify.com/album/74q0CR1ksNWOE2sZvJ2E4p) | 2:53 | 2024-04-26 | 2024-05-03 |
 | [Me & Ms\. Ray](https://open.spotify.com/track/4ghAjJTWL5YGCMABrpRytI) | [New Ro](https://open.spotify.com/artist/2jiSoFLrMAKlWl6bAc2kfu) | [Me & Ms\. Ray](https://open.spotify.com/album/12jmAJW0N0P2jtei6F9S74) | 3:45 | 2024-04-26 | 2024-05-03 |
 | [megaman](https://open.spotify.com/track/7rbt19kiQ2k7XjYKUcIhkY) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:17 | 2024-05-03 | 2024-05-10 |
@@ -269,6 +269,7 @@
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-16 |  |
 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 | 2024-05-16 |  |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-02 | 2024-05-10 |
+| [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 |  |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-04-26 | 2024-05-03 |
 | [New Beginnings](https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [New Beginnings](https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL) | 3:04 | 2024-04-26 | 2024-05-03 |
 | [Nirvana](https://open.spotify.com/track/3a8XeqWHA1SX0iBF6VhD8r) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Got Shit On My Pants Act I](https://open.spotify.com/album/6BqQy6p5fvnECZqKnJXXbA) | 2:48 | 2024-05-02 | 2024-05-10 |

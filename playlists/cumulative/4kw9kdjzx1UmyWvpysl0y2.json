@@ -6019,6 +6019,24 @@
     },
     {
       "album": {
+        "name": "HOT SHOT",
+        "url": "https://open.spotify.com/album/3RK2td9YkPkFCiFvKHmXwQ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227343,
+      "name": "HOT SHOT",
+      "url": "https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2"
+    },
+    {
+      "album": {
         "name": "Hypnosis",
         "url": "https://open.spotify.com/album/0i4UodNeG7dNTr0QfjoDPE"
       },

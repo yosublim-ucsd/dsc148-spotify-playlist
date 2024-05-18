@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Marta Movidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,509 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,514 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 67 | [Meteosad](https://open.spotify.com/track/40hMAclykqCAo7ercratKF) | [Nuevo Fichaje](https://open.spotify.com/artist/5dBCLQ1oYVeex7RaO16GPa) | [Nuevo Fichaje](https://open.spotify.com/album/2Mx3fxYhwEyOnDuW7Jqwvr) | 4:07 |
 | 68 | [Carabanchel \(Bajando\)](https://open.spotify.com/track/1Z5mMnZP6x0c68dcwlyFUz) | [Rojo Cardinal](https://open.spotify.com/artist/6JEesQzirzVJ0DSdJUE8LY) | [Carabanchel \(Bajando\)](https://open.spotify.com/album/4B31zaEF2iLlVHtpDDYXlP) | 3:57 |
 | 69 | [Perfect Dream](https://open.spotify.com/track/5e29TePXAPUNTpZns4GOab) | [Sofi.Peries](https://open.spotify.com/artist/5k7Mh3Z9diekiauxT5YHFu), [Bronson Produce](https://open.spotify.com/artist/41S6UisGyxw6I7ZaywqaJ8) | [Perfect Dream](https://open.spotify.com/album/3Cy2HCT9vLLLuhMm4xUcuf) | 2:52 |
-| 70 | [Fotopollas a traición](https://open.spotify.com/track/7yyTltI4IPUXnlZLKZPuYJ) | [Bigote de Mujer](https://open.spotify.com/artist/3v4XdT5mIJ6dDOlA9Gt1gp), [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Otro éxito de la democracia](https://open.spotify.com/album/5zhpjzNuW9ON9d6ldqS8XC) | 3:38 |
+| 70 | [Fotopollas a traición](https://open.spotify.com/track/7yyTltI4IPUXnlZLKZPuYJ) | [Bigote de Mujer](https://open.spotify.com/artist/3v4XdT5mIJ6dDOlA9Gt1gp), [delagua](https://open.spotify.com/artist/5VxPK15DcQycmGxMB1EgAz), [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Otro éxito de la democracia](https://open.spotify.com/album/5zhpjzNuW9ON9d6ldqS8XC) | 3:38 |
 
 Snapshot ID: `ZkPe4AAAAAAFfvX0L9O4KnQiiYSlZ38t`

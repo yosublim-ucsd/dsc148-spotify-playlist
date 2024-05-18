@@ -1,13 +1,53 @@
 {
   "description": "music from the underworld\n",
-  "num_followers": 442386,
+  "num_followers": 443259,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjqwNgAAAABmfroSO1+qASYqeNVpgvMx",
+  "snapshot_id": "Zkds8QAAAACB/ykGBxWdR/3T3I1GoOyf",
   "tracks": [
+    {
+      "added_at": "2024-05-17 14:42:57",
+      "album": {
+        "name": "Party Like The 80s (w/ asteria & kets4eki)",
+        "url": "https://open.spotify.com/album/4344P6IpfJORVbqtsn6axP"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "duration_ms": 166438,
+      "name": "Party Like The 80s (w/ asteria & kets4eki)",
+      "url": "https://open.spotify.com/track/3XOXq8XRUukhuLmRBVKhi1"
+    },
+    {
+      "added_at": "2024-03-13 04:00:00",
+      "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 116643,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
+    },
     {
       "added_at": "2024-04-19 05:00:00",
       "album": {
@@ -45,10 +85,26 @@
       "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
-      "added_at": "2024-03-13 04:00:00",
+      "added_at": "2024-03-21 23:05:36",
       "album": {
-        "name": "EYES ON ME",
-        "url": "https://open.spotify.com/album/4wnuFlOfdXNSEsHt7V65wq"
+        "name": "DICE AND ROLL",
+        "url": "https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 120165,
+      "name": "DICE AND ROLL",
+      "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "WHAT YOU WANT!",
+        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
       },
       "artists": [
         {
@@ -56,9 +112,45 @@
           "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
         }
       ],
-      "duration_ms": 116643,
-      "name": "EYES ON ME",
-      "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
+      "duration_ms": 122414,
+      "name": "WHAT YOU WANT!",
+      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
+    },
+    {
+      "added_at": "2024-05-17 14:42:57",
+      "album": {
+        "name": "VULTURES.",
+        "url": "https://open.spotify.com/album/6sMu1eI4V6yEeYbtSNfXuT"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 203007,
+      "name": "VULTURES.",
+      "url": "https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD"
+    },
+    {
+      "added_at": "2024-01-25 17:08:18",
+      "album": {
+        "name": "FUNKED UP",
+        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "duration_ms": 115348,
+      "name": "FUNKED UP - SLOWED",
+      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
       "added_at": "2024-04-26 05:00:00",
@@ -75,6 +167,22 @@
       "duration_ms": 158117,
       "name": "KATAMARI",
       "url": "https://open.spotify.com/track/5iAE3uBqaZm9aHUx9yy6a0"
+    },
+    {
+      "added_at": "2024-04-12 04:50:36",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2024-04-19 05:00:00",
@@ -137,24 +245,24 @@
       "url": "https://open.spotify.com/track/3UXCy97AkTZ3LpthG82uXz"
     },
     {
-      "added_at": "2024-01-25 17:08:18",
+      "added_at": "2024-05-17 14:42:57",
       "album": {
-        "name": "FUNKED UP",
-        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/6fN1ijjm75vtLaetlir1qE"
       },
       "artists": [
         {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+          "name": "pluto",
+          "url": "https://open.spotify.com/artist/3uFkM20bHYbCDR5E1u0yGX"
         },
         {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+          "name": "Clover!",
+          "url": "https://open.spotify.com/artist/32cxkkzCHntC7KY72NOyHD"
         }
       ],
-      "duration_ms": 115348,
-      "name": "FUNKED UP - SLOWED",
-      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+      "duration_ms": 110058,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/32al0E3UafdMmOytlHwOK4"
     },
     {
       "added_at": "2024-03-08 16:57:59",
@@ -175,38 +283,6 @@
       "duration_ms": 133361,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1LKk576aw3RM47MNytUtrD"
-    },
-    {
-      "added_at": "2024-04-12 04:50:36",
-      "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "WHAT YOU WANT!",
-        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        }
-      ],
-      "duration_ms": 122414,
-      "name": "WHAT YOU WANT!",
-      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -247,22 +323,6 @@
       "duration_ms": 122601,
       "name": "reclaimer (feat. Nuvfr)",
       "url": "https://open.spotify.com/track/1Qp2NeiBQRoHEHY1SwsH9E"
-    },
-    {
-      "added_at": "2024-03-21 23:05:36",
-      "album": {
-        "name": "DICE AND ROLL",
-        "url": "https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 120165,
-      "name": "DICE AND ROLL",
-      "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1795,62 +1855,6 @@
       "duration_ms": 150965,
       "name": "Blow Up!",
       "url": "https://open.spotify.com/track/2zzZeb9Ak6Dg4ApitspENL"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Disturbia",
-        "url": "https://open.spotify.com/album/7oWfvwnsulIkd4Vsz186mA"
-      },
-      "artists": [
-        {
-          "name": "Xanahxlic",
-          "url": "https://open.spotify.com/artist/4zub1IAca1K3f0c3rnvuo4"
-        }
-      ],
-      "duration_ms": 148118,
-      "name": "Disturbia",
-      "url": "https://open.spotify.com/track/7q44fdiZgGQpALVU1bFvog"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "PARTY!",
-        "url": "https://open.spotify.com/album/7Fs2cOXsv97ZlKYgw7R2r2"
-      },
-      "artists": [
-        {
-          "name": "cade clair",
-          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
-        },
-        {
-          "name": "cW",
-          "url": "https://open.spotify.com/artist/2RWEvEloRDEO2tiOL6JEjh"
-        }
-      ],
-      "duration_ms": 113985,
-      "name": "PARTY!",
-      "url": "https://open.spotify.com/track/7MrFdGOmZB33NZRQUnMYKn"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Myspace Addiction",
-        "url": "https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "Pr\u00f6z",
-          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Won't Last Long",
-      "url": "https://open.spotify.com/track/5yeNAyTWcAXGlRUinVjmjQ"
     }
   ],
   "unique_name": "hexxed",

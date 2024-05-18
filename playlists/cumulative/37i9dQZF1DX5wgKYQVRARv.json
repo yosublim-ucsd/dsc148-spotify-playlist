@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Every Sound Has A Color In The Valley Of Night",
+        "url": "https://open.spotify.com/album/6vcoKJhkNPj3HeTOudcRLO"
+      },
+      "artists": [
+        {
+          "name": "Night Verses",
+          "url": "https://open.spotify.com/artist/55GUoQ2E2hze3842bFs4bb"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228440,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/06Vnpa8wqFpQFJaRAA4oVC"
+    },
+    {
+      "album": {
         "name": "Songs in the Key of D",
         "url": "https://open.spotify.com/album/5Q6P6hVIPRyX2K6ha1Npqj"
       },
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 358120,
       "name": "Blood Eagle",
       "url": "https://open.spotify.com/track/77Dj9s0W077FDWgEUpzQhu"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 362738,
       "name": "Blood of Angels",
       "url": "https://open.spotify.com/track/6hKpPCq992G94P4YZYf7M0"
@@ -1424,6 +1442,24 @@
       "duration_ms": 263395,
       "name": "Blood, Sweat, & Beers",
       "url": "https://open.spotify.com/track/1rO5KJFbnSU2CiIKASBQ4e"
+    },
+    {
+      "album": {
+        "name": "Hijacking The Zeitgeist",
+        "url": "https://open.spotify.com/album/0rQ87gtSayMvjTk0AIlWWJ"
+      },
+      "artists": [
+        {
+          "name": "Exist",
+          "url": "https://open.spotify.com/artist/2z0pRXU8nuyrYba419FB6I"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232250,
+      "name": "Blue Light Infinite",
+      "url": "https://open.spotify.com/track/7ktvJx6PCExZaAXqfQWZeN"
     },
     {
       "album": {
@@ -1964,7 +2000,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 385708,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/7zFcWdYvXTSO95T4ixAIN0"
@@ -2454,7 +2490,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 296386,
       "name": "Diabolical Majesty",
       "url": "https://open.spotify.com/track/7LpG7xh1lmyS2hfE10JlKN"
@@ -3310,10 +3346,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 260859,
       "name": "Empire",
       "url": "https://open.spotify.com/track/0kbdnyL1f91rMM0eSyjqMm"
+    },
+    {
+      "album": {
+        "name": "Charismatic Leaders",
+        "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
+      },
+      "artists": [
+        {
+          "name": "Wheel",
+          "url": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260859,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/16nbE9hcJZ8OIYxmtAFOio"
     },
     {
       "album": {
@@ -3573,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "F.E.A.R",
+        "url": "https://open.spotify.com/album/2C2Cujma0J0umxQqBJx9NE"
+      },
+      "artists": [
+        {
+          "name": "Dream on Dreamer",
+          "url": "https://open.spotify.com/artist/1dgKyJ17rujJe8wpFaX67v"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229636,
+      "name": "F.E.A.R",
+      "url": "https://open.spotify.com/track/58N2OB2JLsniHxVpfMagzW"
+    },
+    {
+      "album": {
         "name": "Faces of Janus",
         "url": "https://open.spotify.com/album/4zrXSit7DNw87l3Spko8Lw"
       },
@@ -3624,6 +3696,24 @@
       "duration_ms": 306613,
       "name": "Fall to Ascend",
       "url": "https://open.spotify.com/track/0upqZcB5Dq5xeIgYWol8Z4"
+    },
+    {
+      "album": {
+        "name": "Falling From The Sun",
+        "url": "https://open.spotify.com/album/40ntvNTAvm28t3HpgTAVSY"
+      },
+      "artists": [
+        {
+          "name": "Evergrey",
+          "url": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255200,
+      "name": "Falling From The Sun",
+      "url": "https://open.spotify.com/track/5H4zeB1OS7tbkY53W6Ftcs"
     },
     {
       "album": {
@@ -3906,6 +3996,42 @@
       "duration_ms": 338010,
       "name": "Finding the Paragon",
       "url": "https://open.spotify.com/track/4ODvTpn9Dddu8rZyHD7WX8"
+    },
+    {
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/5gxa1RvQJDMc6l3snNeYGq"
+      },
+      "artists": [
+        {
+          "name": "Esoterica",
+          "url": "https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237813,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/6X0kZUNcqKYvYBwxXpU417"
+    },
+    {
+      "album": {
+        "name": "Eviscerate",
+        "url": "https://open.spotify.com/album/3kHbS4bxYGpxAn3a2bnGsB"
+      },
+      "artists": [
+        {
+          "name": "Eidola",
+          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154483,
+      "name": "Fistful Of Hornets",
+      "url": "https://open.spotify.com/track/6XyB7AnLpgZaQYea4vRPdC"
     },
     {
       "album": {
@@ -6930,7 +7056,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 417298,
       "name": "Morningstar",
       "url": "https://open.spotify.com/track/2wdamT36OgmNZZorSxKlG0"
@@ -7374,7 +7500,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 308359,
       "name": "Not Surprised",
       "url": "https://open.spotify.com/track/3JBlEGmxjEHuqzdEc6Htf8"
@@ -9546,7 +9672,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 295840,
       "name": "Spaced Out - alternative version",
       "url": "https://open.spotify.com/track/0DJCA40g0wlTfcnp8dcAx3"
@@ -10321,6 +10447,24 @@
     },
     {
       "album": {
+        "name": "Insanium",
+        "url": "https://open.spotify.com/album/4BZUFFuZsZ5F4prX6GWOxv"
+      },
+      "artists": [
+        {
+          "name": "Whom Gods Destroy",
+          "url": "https://open.spotify.com/artist/6CPRNvNZxQq4thYYQVijUH"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428399,
+      "name": "The Decision",
+      "url": "https://open.spotify.com/track/3HkUktpquvRsPHskpCFRke"
+    },
+    {
+      "album": {
         "name": "Binary Garden",
         "url": "https://open.spotify.com/album/1jaZVrhUbwpfINxfZH4UV6"
       },
@@ -10606,7 +10750,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 152146,
       "name": "The Killing Womb",
       "url": "https://open.spotify.com/track/5gb2BesEN6FrtuApkKPPW2"
@@ -13006,6 +13150,24 @@
       "duration_ms": 119076,
       "name": "Zoro Kokonotsu No Yaiba - From \"One Piece\"",
       "url": "https://open.spotify.com/track/32P1WGuqcMRjYwafyuWJnS"
+    },
+    {
+      "album": {
+        "name": "\u8607\u9192 II: Frailty",
+        "url": "https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH"
+      },
+      "artists": [
+        {
+          "name": "OU",
+          "url": "https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306145,
+      "name": "\u6b6a\u6b6a\u5730\u611b yyds",
+      "url": "https://open.spotify.com/track/4odk2tyUd9ffdGDofPqP93"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv"

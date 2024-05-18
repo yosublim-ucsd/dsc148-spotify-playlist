@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 01099
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,763 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,791 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 47 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
 | 48 | [Du hältst mich wach](https://open.spotify.com/track/75OEPCpx2UCkSWNAmmDsFx) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Du hältst mich wach](https://open.spotify.com/album/7wS7nGiW7h72rqubI37MZV) | 2:15 |
 | 49 | [Est\-ce que tu m'aimes ? \- Pilule bleue](https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:57 |
-| 50 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
+| 50 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
 | 51 | [Weißt du](https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Weißt du](https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH) | 2:04 |
 | 52 | [Goodbye](https://open.spotify.com/track/60QGfl0L7EP7R538DGGTUw) | [AyVe](https://open.spotify.com/artist/7v5NBcbJPldtdx1S2zQRtZ), [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB) | [Goodbye](https://open.spotify.com/album/61SSZc0dtY9yUAT5XGZ4Y5) | 2:34 |
 | 53 | [Weinbrand](https://open.spotify.com/track/50Ap2wslYhEhIdoAp6jwQz) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz) | [Weinbrand](https://open.spotify.com/album/0eJLi050vR9nC4WpGnWiSP) | 2:21 |

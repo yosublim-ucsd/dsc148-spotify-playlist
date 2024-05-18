@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-192 songs - 17 hr 58 min
+194 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 | 2022-06-23 |  |
 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 | 2022-06-23 | 2023-04-22 |
 | [Fate](https://open.spotify.com/track/21wWMrhOMhSGwU2iRB2kYv) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp) | 6:29 | 2023-06-16 | 2024-04-19 |
-| [Fate](https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU) | 6:29 | 2023-06-16 |  |
+| [Fate](https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU) | 6:29 | 2023-06-16 | 2024-05-18 |
 | [Feel It](https://open.spotify.com/track/2G63qYWsCvGMF8Lm4QBf01) | [The Sun Champs](https://open.spotify.com/artist/2q9oyqpb4XYVqlGXXjbKhZ) | [Feel It](https://open.spotify.com/album/2PU7HeRdXagOWesWbVvXat) | 4:38 | 2023-07-14 |  |
 | [Feelin' Fine](https://open.spotify.com/track/4BDxJjCg1ETWK9hxcM4Fu4) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl) | [Feelin' Fine](https://open.spotify.com/album/6sXG4V3wpbhx54O48PfIFg) | 4:05 | 2024-03-01 |  |
 | [Figure It Out](https://open.spotify.com/track/4z64nIlAoBSrZ60M8FbgnE) | [Eggy](https://open.spotify.com/artist/3gcJMFyZwSnYr9ChgnPpYj) | [Watercolor Days](https://open.spotify.com/album/60pMnmVxIovDVR03otDSfV) | 5:38 | 2022-06-23 | 2023-07-01 |
@@ -100,6 +100,7 @@
 | [Keep Your Hands to Yourself](https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Best Kept Secrets](https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s) | 4:19 | 2022-06-23 | 2023-06-24 |
 | [Kinetic Bump](https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt) | [The Mantras](https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji) | [Jambands Ruined My Life](https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU) | 6:15 | 2022-06-23 |  |
 | [Kitty Chaser \(Explosions\)](https://open.spotify.com/track/31prZotiPV46jh06xCTop4) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Cycles](https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1) | 9:39 | 2022-06-23 | 2023-06-24 |
+| [Knowledge or Wisdom](https://open.spotify.com/track/0oIbvgSpbzZtX3ovD14Z27) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Improvisations with Ram Dass](https://open.spotify.com/album/09OgnSuSxMsE29yUUoHoO8) | 6:56 | 2024-05-17 |  |
 | [Lakesong](https://open.spotify.com/track/0S5bcsLFrtN4cM3jzgpWNa) | [Fitzkee Brothers](https://open.spotify.com/artist/7CUd58kShwbwTCmMtnBebG) | [Lakesong](https://open.spotify.com/album/5m2b2mDjvnxkgWALlHDbUV) | 4:34 | 2024-03-01 |  |
 | [Lap Mule](https://open.spotify.com/track/2qJzXsTqPTsnE4ocGMZRa1) | [Andreas Rydman](https://open.spotify.com/artist/2cPRL66TE5ukYhnokSkzPg), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Lap Mule](https://open.spotify.com/album/2Mf5kcese7yHo1lyypZFjf) | 5:02 | 2024-02-09 |  |
 | [Left Behind](https://open.spotify.com/track/160RJAfQ71LcES9hN06z3b) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Remain](https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj) | 5:54 | 2022-09-02 |  |
@@ -155,6 +156,7 @@
 | [Staircase](https://open.spotify.com/track/4L5BJVlGVFCnd79kRxo2lH) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Staircase](https://open.spotify.com/album/1kTFnkAx4RVkjuh1rNtWFD) | 4:30 | 2023-02-17 |  |
 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 | 2023-04-21 |  |
 | [Stuck On You](https://open.spotify.com/track/2eqVjqpmCjB904Cw2cUPLe) | [The Moon City Masters](https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr) | [Stuck On You](https://open.spotify.com/album/5piDzyf0KFonTHK3vrl8k5) | 3:33 | 2024-02-02 | 2024-04-27 |
+| [Sum'n Boutchu](https://open.spotify.com/track/4THWSAfTsDC6W7rzgLeYpZ) | [Hot Like Mars](https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh) | [Sum'n Boutchu](https://open.spotify.com/album/6zaZBgMflZM7MMOEnFj0GA) | 5:05 | 2024-05-17 |  |
 | [Sweater Weather](https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k) | [Desmond Jones](https://open.spotify.com/artist/0UU2zglZ7Rk4v2FIY9OMOv) | [Rays of Light and Stardust](https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S) | 3:49 | 2022-09-09 |  |
 | [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 | 2022-06-23 | 2023-06-10 |
 | [Swim](https://open.spotify.com/track/4llsHJDnZvnzi9OLUcPIJV) | [Tand](https://open.spotify.com/artist/6VC6mZuswk6M1p7AJKFdh6) | [Swim](https://open.spotify.com/album/12zUy7CLj75dH3hk8WHXKj) | 7:27 | 2023-06-16 |  |
@@ -163,7 +165,7 @@
 | [The $1000 Question](https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The $1000 Question](https://open.spotify.com/album/0997PFcgH2xVoUO4Ez3WIY) | 6:54 | 2023-03-17 |  |
 | [The $1000 Question](https://open.spotify.com/track/5ZtQFLmOlYAd16NgGZDACL) | [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Raymond Paczkowski](https://open.spotify.com/artist/4qUkl3o89oPUOpFxm3NPDg), [Russell Lawton](https://open.spotify.com/artist/1yb00XX9NeNeVGXrOUQZP8), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The $1000 Question](https://open.spotify.com/album/7sblF3Uewbjd1cal6qUOa1) | 6:54 | 2023-03-17 | 2024-04-19 |
 | [The Freeman Massacre](https://open.spotify.com/track/5MmG7mZHhwHVRFsupNjACT) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [The Freeman Massacre](https://open.spotify.com/album/5uab2WSyu9MVOz23LkHk9B) | 7:51 | 2022-09-30 |  |
-| [The Funk](https://open.spotify.com/track/0WeCFdC599NfSLEYF4DhIK) | [Hot Like Mars](https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh) | [The Funk](https://open.spotify.com/album/3xJCoX4DmruRsiDK1E8r8k) | 8:49 | 2024-04-05 |  |
+| [The Funk](https://open.spotify.com/track/0WeCFdC599NfSLEYF4DhIK) | [Hot Like Mars](https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh) | [The Funk](https://open.spotify.com/album/3xJCoX4DmruRsiDK1E8r8k) | 8:49 | 2024-04-05 | 2024-05-18 |
 | [The Onion](https://open.spotify.com/track/2qJMjmoAC1vkxtGZvlqt0t) | [Round Trip](https://open.spotify.com/artist/2rodETz9HNnBiH0AZqhvQt) | [Brake Failure](https://open.spotify.com/album/76Toi6pTrIvKwJQLpUqMGm) | 4:13 | 2022-09-23 |  |
 | [The Only Thing](https://open.spotify.com/track/4nzCwV6pz7bvDBg9jlVtEM) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:42 | 2023-05-19 | 2023-07-08 |
 | [The Road](https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 7:13 | 2022-06-23 |  |

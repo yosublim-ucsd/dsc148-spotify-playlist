@@ -925,6 +925,32 @@
     },
     {
       "album": {
+        "name": "B\u00edblia no Jeans",
+        "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
+      },
+      "artists": [
+        {
+          "name": "Kinho",
+          "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "B\u00edblia no Jeans",
+      "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
+    },
+    {
+      "album": {
         "name": "Cada um Com uma Hist\u00f3ria",
         "url": "https://open.spotify.com/album/2Laqz2edRxTXe4rH0tlcbv"
       },
@@ -8120,7 +8146,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 171340,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/2MNx8isTSanZlqMMbto0SX"

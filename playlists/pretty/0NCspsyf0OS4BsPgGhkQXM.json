@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2016499,
+  "num_followers": 2016555,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5PEBrVJ8OKc4AAf/O11wgsl3BIhwZ",
+  "snapshot_id": "AAA5QwdMHksClsWDmR6yjwaigLmCqcwq",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1869,6 +1869,206 @@
       "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
     },
     {
+      "added_at": "2024-05-14 18:14:40",
+      "album": {
+        "name": "WYM!",
+        "url": "https://open.spotify.com/album/4YQujOzblBgteIsPIKCMay"
+      },
+      "artists": [
+        {
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
+        },
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "duration_ms": 101745,
+      "name": "WYM!",
+      "url": "https://open.spotify.com/track/3iSNtpcu9HNwdSVsIztE31"
+    },
+    {
+      "added_at": "2024-05-14 18:14:40",
+      "album": {
+        "name": "HEY HEY",
+        "url": "https://open.spotify.com/album/2PCeDB701jViNYJIV5dSvP"
+      },
+      "artists": [
+        {
+          "name": "WZ Beat",
+          "url": "https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9"
+        },
+        {
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+        }
+      ],
+      "duration_ms": 92769,
+      "name": "HEY HEY",
+      "url": "https://open.spotify.com/track/2ogjIP2yhAgRpFVlolez0Z"
+    },
+    {
+      "added_at": "2024-05-14 18:14:40",
+      "album": {
+        "name": "7 Seas",
+        "url": "https://open.spotify.com/album/2nEPONY9Pmmpcuo923AIm1"
+      },
+      "artists": [
+        {
+          "name": "LOSTOV",
+          "url": "https://open.spotify.com/artist/4iA6lkctWaj1qoPJ65veHb"
+        }
+      ],
+      "duration_ms": 147604,
+      "name": "7 Seas",
+      "url": "https://open.spotify.com/track/2yCO2rCXSiEv8QypzeMecy"
+    },
+    {
+      "added_at": "2024-05-14 18:14:40",
+      "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/0Oc07579Big4BUEMU7n8BH"
+      },
+      "artists": [
+        {
+          "name": "Nulteex",
+          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
+        }
+      ],
+      "duration_ms": 76620,
+      "name": "ERA",
+      "url": "https://open.spotify.com/track/0ylefvjDVKqGEsMUwMrwTi"
+    },
+    {
+      "added_at": "2024-05-15 18:56:14",
+      "album": {
+        "name": "X-SLIDE",
+        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
+      },
+      "artists": [
+        {
+          "name": "808iuli",
+          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
+        },
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        }
+      ],
+      "duration_ms": 79452,
+      "name": "X-SLIDE",
+      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
+    },
+    {
+      "added_at": "2024-05-15 18:56:35",
+      "album": {
+        "name": "digiphunk",
+        "url": "https://open.spotify.com/album/6QTs9TrzSqQwr5opTboF4w"
+      },
+      "artists": [
+        {
+          "name": "dashie",
+          "url": "https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl"
+        }
+      ],
+      "duration_ms": 94938,
+      "name": "digiphunk",
+      "url": "https://open.spotify.com/track/2QtZI9AahQIZ3B9UY9Q7Xd"
+    },
+    {
+      "added_at": "2024-05-17 22:38:33",
+      "album": {
+        "name": "twilight",
+        "url": "https://open.spotify.com/album/0OmHq8R5hJWBb06CdFYBoY"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA"
+        },
+        {
+          "name": "Silent Boy",
+          "url": "https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu"
+        }
+      ],
+      "duration_ms": 131031,
+      "name": "twilight",
+      "url": "https://open.spotify.com/track/1pr7gWtTcQgUi7i5WKV96K"
+    },
+    {
+      "added_at": "2024-05-17 22:38:46",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/3tO2baNThlVGgdXPeocASu"
+      },
+      "artists": [
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/76XijXDDDUZI5P8PKQ0uUy"
+    },
+    {
+      "added_at": "2024-05-17 22:41:03",
+      "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/7EVwhyyQs7f9OXBYtbiGTl"
+      },
+      "artists": [
+        {
+          "name": "Willix",
+          "url": "https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/4UYM68d2hlJjsP1QehivYi"
+    },
+    {
+      "added_at": "2024-05-17 22:42:14",
+      "album": {
+        "name": "RAMPAGE",
+        "url": "https://open.spotify.com/album/4SIEhp8ayWK5TC2shQuWKi"
+      },
+      "artists": [
+        {
+          "name": "escorte",
+          "url": "https://open.spotify.com/artist/6htZUGxk56Gn1wqc0fKZV1"
+        }
+      ],
+      "duration_ms": 117750,
+      "name": "RAMPAGE",
+      "url": "https://open.spotify.com/track/0HumgZbyZFJIIbyI7dZzCn"
+    },
+    {
+      "added_at": "2024-05-17 22:42:35",
+      "album": {
+        "name": "KAB",
+        "url": "https://open.spotify.com/album/0rj867XnV1xTCger7ujGG4"
+      },
+      "artists": [
+        {
+          "name": "Bloody Pierro",
+          "url": "https://open.spotify.com/artist/3X5IoWsoVLqaRxBSy1IhXQ"
+        }
+      ],
+      "duration_ms": 138415,
+      "name": "KAB",
+      "url": "https://open.spotify.com/track/1P8mVykZ69jxsydZYwUjmI"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "tokyo krush",
@@ -2873,116 +3073,20 @@
       "url": "https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4"
     },
     {
-      "added_at": "2024-05-14 18:14:40",
+      "added_at": "2024-05-17 22:57:12",
       "album": {
-        "name": "WYM!",
-        "url": "https://open.spotify.com/album/4YQujOzblBgteIsPIKCMay"
+        "name": "Lets Go Crazy",
+        "url": "https://open.spotify.com/album/1b6Rmgv2JpHTNAwFudVtWB"
       },
       "artists": [
         {
-          "name": "Yb Wasg'ood",
-          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
-        },
-        {
-          "name": "SXCREDMANE",
-          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
-        },
-        {
-          "name": "fkbambam",
-          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
         }
       ],
-      "duration_ms": 101745,
-      "name": "WYM!",
-      "url": "https://open.spotify.com/track/3iSNtpcu9HNwdSVsIztE31"
-    },
-    {
-      "added_at": "2024-05-14 18:14:40",
-      "album": {
-        "name": "HEY HEY",
-        "url": "https://open.spotify.com/album/2PCeDB701jViNYJIV5dSvP"
-      },
-      "artists": [
-        {
-          "name": "WZ Beat",
-          "url": "https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9"
-        },
-        {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
-        }
-      ],
-      "duration_ms": 92769,
-      "name": "HEY HEY",
-      "url": "https://open.spotify.com/track/2ogjIP2yhAgRpFVlolez0Z"
-    },
-    {
-      "added_at": "2024-05-14 18:14:40",
-      "album": {
-        "name": "7 Seas",
-        "url": "https://open.spotify.com/album/2nEPONY9Pmmpcuo923AIm1"
-      },
-      "artists": [
-        {
-          "name": "LOSTOV",
-          "url": "https://open.spotify.com/artist/4iA6lkctWaj1qoPJ65veHb"
-        }
-      ],
-      "duration_ms": 147604,
-      "name": "7 Seas",
-      "url": "https://open.spotify.com/track/2yCO2rCXSiEv8QypzeMecy"
-    },
-    {
-      "added_at": "2024-05-14 18:14:40",
-      "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/0Oc07579Big4BUEMU7n8BH"
-      },
-      "artists": [
-        {
-          "name": "Nulteex",
-          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
-        }
-      ],
-      "duration_ms": 76620,
-      "name": "ERA",
-      "url": "https://open.spotify.com/track/0ylefvjDVKqGEsMUwMrwTi"
-    },
-    {
-      "added_at": "2024-05-15 18:56:14",
-      "album": {
-        "name": "X-SLIDE",
-        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
-      },
-      "artists": [
-        {
-          "name": "808iuli",
-          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
-        },
-        {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
-        }
-      ],
-      "duration_ms": 79452,
-      "name": "X-SLIDE",
-      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
-    },
-    {
-      "added_at": "2024-05-15 18:56:35",
-      "album": {
-        "name": "digiphunk",
-        "url": "https://open.spotify.com/album/6QTs9TrzSqQwr5opTboF4w"
-      },
-      "artists": [
-        {
-          "name": "dashie",
-          "url": "https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl"
-        }
-      ],
-      "duration_ms": 94938,
-      "name": "digiphunk",
-      "url": "https://open.spotify.com/track/2QtZI9AahQIZ3B9UY9Q7Xd"
+      "duration_ms": 103836,
+      "name": "Lets Go Crazy",
+      "url": "https://open.spotify.com/track/2obmNTgEVv9V26rz3yu9ia"
     }
   ],
   "unique_name": "Trap Nation",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,142 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,170 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HR Alee](https://open.spotify.com/track/7dvIesoeetHINXgjqGJNXD) | [Deepak Sharma](https://open.spotify.com/artist/0M565MVvfhHMAdcAMwyluS) | [HR Alee](https://open.spotify.com/album/1uCXOyeJUEJ6mYLOZsUau0) | 2:57 |
+| 1 | [HR Alee](https://open.spotify.com/track/7dvIesoeetHINXgjqGJNXD) | [Deepak Sharma](https://open.spotify.com/artist/1rAdtSzr09FZquUOXkEMNQ) | [HR Alee](https://open.spotify.com/album/1uCXOyeJUEJ6mYLOZsUau0) | 2:57 |
 | 2 | [Things We Do](https://open.spotify.com/track/7yHpwPG691Bi52Lta0HtFj) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Things We Do](https://open.spotify.com/album/4PmrsxOsKa6wgwXK07Nz4k) | 2:50 |
 | 3 | [Ha Ha Ha](https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ha Ha Ha](https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV) | 3:09 |
 | 4 | [Gurjar Gang](https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Gurjar Gang](https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe) | 2:28 |

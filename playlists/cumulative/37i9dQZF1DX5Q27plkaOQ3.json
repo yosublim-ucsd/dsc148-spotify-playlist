@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 220800,
       "name": "Break Sh*t",
       "url": "https://open.spotify.com/track/5f2biYeIAqyEFdgH5jXJJt"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 205241,
       "name": "Brunt",
       "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
@@ -2293,6 +2293,28 @@
     },
     {
       "album": {
+        "name": "Claw and Fang",
+        "url": "https://open.spotify.com/album/1FAnLw956JpFAEvTRpubrm"
+      },
+      "artists": [
+        {
+          "name": "Ann!hilate",
+          "url": "https://open.spotify.com/artist/4CQSsq2HQaRa66hoQ37ky9"
+        },
+        {
+          "name": "Outertone",
+          "url": "https://open.spotify.com/artist/76EQ6xxFd24ZJ4GKq8FOEX"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172324,
+      "name": "Claw and Fang",
+      "url": "https://open.spotify.com/track/2ajJaUb1OevO13NGdc399b"
+    },
+    {
+      "album": {
         "name": "DOA EP",
         "url": "https://open.spotify.com/album/5U1oEWeGULp7PAxb1m6ima"
       },
@@ -2681,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Dawn of Redemption",
+        "url": "https://open.spotify.com/album/0aqsWVQhlcItl83qmo5kQ5"
+      },
+      "artists": [
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278601,
+      "name": "Dawn of Redemption",
+      "url": "https://open.spotify.com/track/4BBU8HdsVCAHkWle8IYJ1M"
+    },
+    {
+      "album": {
         "name": "Dawn Of The Dead",
         "url": "https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV"
       },
@@ -2863,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Delusional",
+        "url": "https://open.spotify.com/album/0mTgHGtaN63xXRd9PTFjed"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/4f2a45202MGqyp7ZkC1Qu8"
+    },
+    {
+      "album": {
         "name": "Demisaur",
         "url": "https://open.spotify.com/album/1QEheTpJtOjBk1AO7yevtF"
       },
@@ -2896,7 +2954,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 144000,
       "name": "Demise",
       "url": "https://open.spotify.com/track/0j055WaD6Tdt0sCO7yT1f8"
@@ -3438,7 +3496,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 217600,
       "name": "Doorman",
       "url": "https://open.spotify.com/track/2Jb8KZOgoSCzbZ8oVKuOcV"
@@ -3638,7 +3696,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 125793,
       "name": "DUH",
       "url": "https://open.spotify.com/track/0bwJbGEvhBfXnzcDyTUzKU"
@@ -4085,6 +4143,32 @@
     },
     {
       "album": {
+        "name": "Face Lift",
+        "url": "https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok"
+      },
+      "artists": [
+        {
+          "name": "Codd Dubz",
+          "url": "https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5"
+        },
+        {
+          "name": "Decimate",
+          "url": "https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz"
+        },
+        {
+          "name": "XAE",
+          "url": "https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204370,
+      "name": "Face Lift",
+      "url": "https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod"
       },
@@ -4232,7 +4316,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 260004,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/2ECMO2A2qQh6CMdxT8fHGO"
@@ -4610,7 +4694,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 248275,
       "name": "FRONT SEAT",
       "url": "https://open.spotify.com/track/0rbfl4w2wcGXpPTlDVxO5N"
@@ -5036,6 +5120,36 @@
       "duration_ms": 254400,
       "name": "Go Off",
       "url": "https://open.spotify.com/track/1bAd9fX3dh6qtWaBC0Rw0u"
+    },
+    {
+      "album": {
+        "name": "PERIPHERY (Remix LP)",
+        "url": "https://open.spotify.com/album/0UUCwVDcLMXeh40CoFZkk5"
+      },
+      "artists": [
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        },
+        {
+          "name": "Al Kapone",
+          "url": "https://open.spotify.com/artist/56LhGRiEVAKCOT162NIQIs"
+        },
+        {
+          "name": "Stratus",
+          "url": "https://open.spotify.com/artist/1StpDeeRA4A5BC00GAP8Ka"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229448,
+      "name": "Go! - Stratus Remix",
+      "url": "https://open.spotify.com/track/6vWK3qWuPdW2SdqK3JPljV"
     },
     {
       "album": {
@@ -6822,7 +6936,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 192732,
       "name": "Like That",
       "url": "https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0"
@@ -7568,7 +7682,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 230400,
       "name": "Mutant Scum",
       "url": "https://open.spotify.com/track/3MnEHgaesBN2fDz5iARb0u"
@@ -7651,6 +7765,24 @@
     },
     {
       "album": {
+        "name": "Native Curse",
+        "url": "https://open.spotify.com/album/16Jqck10W8Ba0GTggCQa2s"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Native Curse",
+      "url": "https://open.spotify.com/track/3f93sYaZnHwVjNBt0RPO0W"
+    },
+    {
+      "album": {
         "name": "NECROMANCER EP",
         "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
       },
@@ -7670,6 +7802,24 @@
       "duration_ms": 228413,
       "name": "NECROMANCER",
       "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
+    },
+    {
+      "album": {
+        "name": "Need Ur Love",
+        "url": "https://open.spotify.com/album/7EDw4BnBIj2WLbiRrXXb6u"
+      },
+      "artists": [
+        {
+          "name": "AFK",
+          "url": "https://open.spotify.com/artist/3eIM4tCQTGJXb0RDPfF2wL"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Need Ur Love",
+      "url": "https://open.spotify.com/track/7EH1CBUhjoJoQAczB5LpCj"
     },
     {
       "album": {
@@ -8263,6 +8413,32 @@
     },
     {
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/3hSxdXLOtRsTJ6buJHWSvx"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244965,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/4a83gGp7WNs0UzwzKPCY4C"
+    },
+    {
+      "album": {
         "name": "On The Rocks",
         "url": "https://open.spotify.com/album/6GgVFimVPQwycH7VTdtM5B"
       },
@@ -8350,7 +8526,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 192000,
       "name": "OTT",
       "url": "https://open.spotify.com/track/7rFVa6HCBEZvp7k5398fbA"
@@ -10253,6 +10429,24 @@
     },
     {
       "album": {
+        "name": "Shadows of Deceit",
+        "url": "https://open.spotify.com/album/5Kwwwq1rtbhV8iKIRkss7M"
+      },
+      "artists": [
+        {
+          "name": "Austeria",
+          "url": "https://open.spotify.com/artist/15VvV8dnWKZBNufin6LzzS"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Shadows of Deceit",
+      "url": "https://open.spotify.com/track/2saEmcdCaClJHTxadK9ZOp"
+    },
+    {
+      "album": {
         "name": "Shank",
         "url": "https://open.spotify.com/album/4AvIrAAt7HreJ1EFTpnKkc"
       },
@@ -10986,7 +11180,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 266081,
       "name": "SPIN",
       "url": "https://open.spotify.com/track/1xCmF0QarzX3sFvTzQgOPg"
@@ -11934,7 +12128,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 194685,
       "name": "THE DRIFTER",
       "url": "https://open.spotify.com/track/6ziO7ZwGmUCjnUTDru2Ioq"
@@ -13236,7 +13430,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 216888,
       "name": "Won't Back Down",
       "url": "https://open.spotify.com/track/51CvI6GzSkPpeInPgjs998"

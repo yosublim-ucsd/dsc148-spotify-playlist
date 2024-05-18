@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring BLOND:ISH
 
-878 songs - 2 day 4 hr 11 min
+879 songs - 2 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Frikitona](https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl) | 2:54 | 2023-08-11 | 2023-12-17 |
 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 | 2023-12-15 | 2024-04-19 |
 | [Fuck what u heard](https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Fuck what u heard](https://open.spotify.com/album/31kvCru828NJSvrG2FymOR) | 3:40 | 2023-05-19 | 2023-07-22 |
+| [FUKINASTY](https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 2:57 | 2024-05-17 |  |
 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 | 2022-01-14 | 2022-07-25 |
 | [Gas Pedal \- Kyle Watson Remix](https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Gas Pedal \(Kyle Watson Remix\)](https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg) | 3:03 | 2023-05-26 | 2024-05-03 |
 | [German Fall](https://open.spotify.com/track/6ja7vQ6mi5B4ino7LucXKk) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Seasons](https://open.spotify.com/album/4nTMSRO2Ioe0sn7ETzfrxo) | 7:12 | 2021-12-17 | 2022-06-19 |
@@ -512,7 +513,7 @@
 | [Make Me Feel](https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/37IWL3cLKAFT5EkQiFkDAI) | 3:21 | 2023-03-17 | 2023-07-08 |
 | [Make Me Feel](https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI) | 3:21 | 2021-03-27\* | 2023-02-26 |
 | [Make Me Happy \(feat\. Might Delete Later\)](https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Make Me Happy \(feat\. Might Delete Later\)](https://open.spotify.com/album/6weN60IhSCAWjhlt6jjaKs) | 3:24 | 2023-05-19 | 2023-10-30 |
-| [Make My Body Move](https://open.spotify.com/track/3RftcZWMId2TQt95YRXKTQ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Make My Body Move \(Radio Edit\)](https://open.spotify.com/album/4v8ciFogaelHyb8jm1hGEZ) | 3:19 | 2024-05-03 |  |
+| [Make My Body Move](https://open.spotify.com/track/3RftcZWMId2TQt95YRXKTQ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Make My Body Move \(Radio Edit\)](https://open.spotify.com/album/4v8ciFogaelHyb8jm1hGEZ) | 3:19 | 2024-05-03 | 2024-05-18 |
 | [Make U Sweat](https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Make U Sweat](https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o) | 2:28 | 2023-12-22 |  |
 | [Mamacita](https://open.spotify.com/track/6HWy1YDfSdPvJJ7DTDp8AP) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [NO GUEST LIST](https://open.spotify.com/album/6bIbXBJvayhVzwRiCYDgSx) | 2:42 | 2023-06-02 | 2023-10-07 |
 | [Manizer](https://open.spotify.com/track/32MHis9ga5UmCo2hivlkEs) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Manizer](https://open.spotify.com/album/0OY87u7mQKYk8nJ96Br0QM) | 4:04 | 2022-05-27 | 2022-07-09 |

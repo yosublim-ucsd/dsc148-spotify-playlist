@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: Tasha Cobbs Leonard",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: Deitrick Haddon",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -1782,6 +1782,24 @@
       "duration_ms": 384973,
       "name": "Do It Now (feat. Dominique Thompson)",
       "url": "https://open.spotify.com/track/7nWkd4MCZS89qDOc5zGfbf"
+    },
+    {
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/0plhRdcKA0CP5zc65dMskW"
+      },
+      "artists": [
+        {
+          "name": "Earnest Pugh",
+          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206597,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2jp8VZkAEmuD4xYdhK9tMV"
     },
     {
       "album": {
@@ -4525,6 +4543,36 @@
     },
     {
       "album": {
+        "name": "Overflow (Live)",
+        "url": "https://open.spotify.com/album/2eerI0rvrDjj8KZ0L5ByDt"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Josiah Bassey",
+          "url": "https://open.spotify.com/artist/4ISCJlLvYQX5i7oRGDfArh"
+        },
+        {
+          "name": "Michael A Todd",
+          "url": "https://open.spotify.com/artist/4pGdyeN85p10zwCXKomDuK"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541317,
+      "name": "Impossible? (Nothing At All) - Live",
+      "url": "https://open.spotify.com/track/51nzYcKaSDTgJS4u1HPzCZ"
+    },
+    {
+      "album": {
         "name": "In Him There Is No Sorrow",
         "url": "https://open.spotify.com/album/5KRqIJnf4RZzdn1torzeZa"
       },
@@ -5252,7 +5300,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 228280,
       "name": "Keeper Of My Soul",
       "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
@@ -6863,6 +6911,24 @@
     },
     {
       "album": {
+        "name": "One Night in California",
+        "url": "https://open.spotify.com/album/6C4PxEzFkVmt49P1O7it0K"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "One Night in California",
+      "url": "https://open.spotify.com/track/3BL4q6LEd4JxBKKfRx3NaW"
+    },
+    {
+      "album": {
         "name": "One Of These Days",
         "url": "https://open.spotify.com/album/3Md0ysEeu69XhqtvUfVAzN"
       },
@@ -7034,7 +7100,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 372736,
       "name": "Overflow - Live",
       "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
@@ -9972,7 +10038,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 236500,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2qOzpErfsV8kpp72Dc2uim"

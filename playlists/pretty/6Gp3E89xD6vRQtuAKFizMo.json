@@ -1,13 +1,81 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44219,
+  "num_followers": 44221,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZVb3Y5+il6O1NYmYh9P3SFPN9Qd2K",
+  "snapshot_id": "AAAZWIM4XG+Ko6CnkzVaLeTLCr1Vnw1y",
   "tracks": [
+    {
+      "added_at": "2024-05-17 15:24:06",
+      "album": {
+        "name": "Save My Soul (feat. Jordan Grace)",
+        "url": "https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh"
+      },
+      "artists": [
+        {
+          "name": "Afroki",
+          "url": "https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 208027,
+      "name": "Save My Soul (feat. Jordan Grace)",
+      "url": "https://open.spotify.com/track/52IUYgumUJN31TVeyfjv9t"
+    },
+    {
+      "added_at": "2024-05-17 15:24:11",
+      "album": {
+        "name": "Save My Soul (feat. Jordan Grace)",
+        "url": "https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh"
+      },
+      "artists": [
+        {
+          "name": "Afroki",
+          "url": "https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 125167,
+      "name": "Diss You",
+      "url": "https://open.spotify.com/track/7zQhHRCbfA5z3rY56O9REd"
+    },
+    {
+      "added_at": "2024-05-17 15:23:23",
+      "album": {
+        "name": "Bandra",
+        "url": "https://open.spotify.com/album/15YzlYwz6AubkRMlAq1Zu7"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Bandra",
+      "url": "https://open.spotify.com/track/2e6Ev7IkvZypybbOm7gJzB"
+    },
     {
       "added_at": "2024-05-10 13:27:13",
       "album": {

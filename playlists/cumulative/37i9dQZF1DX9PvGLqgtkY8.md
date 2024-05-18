@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Frankly Speaking\. \(비밀은 없어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-27 songs - 1 hr 22 min
+29 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,8 @@
 | [Curated by Kang Hanna](https://open.spotify.com/track/5mG8Vlpo4OL8Ww5DJ5Opfl) | [Frankly Speaking](https://open.spotify.com/artist/6GkGAIzXHBNz1721PLvXgN) | [Frankly Speaking audio liners](https://open.spotify.com/album/25uxWXe6B7TYWrskiQOIQC) | 0:33 | 2024-05-13 |  |
 | [Curated by Ko Kyungpyo](https://open.spotify.com/track/4LjhW717z0JEbWmiANRowQ) | [Frankly Speaking](https://open.spotify.com/artist/6GkGAIzXHBNz1721PLvXgN) | [Frankly Speaking audio liners](https://open.spotify.com/album/25uxWXe6B7TYWrskiQOIQC) | 0:27 | 2024-05-13 |  |
 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 | 2024-05-13 |  |
+| [Frankly Speaking](https://open.spotify.com/track/6qVOc7IG3cbSv1WJZNySrS) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6lzuaZYLkfViHxOypwKZbg) | 3:15 | 2024-05-17 |  |
+| [Frankly Speaking \- Instrumental](https://open.spotify.com/track/6aWJg59jDm6FA5EgMprTul) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6lzuaZYLkfViHxOypwKZbg) | 3:15 | 2024-05-17 |  |
 | [Freeze!](https://open.spotify.com/track/2MIgj5hqJNimIxrwXZwN5z) | [SEO HO](https://open.spotify.com/artist/0H0QZpyLzGxHzPKj5wO0pV), [LEE DO](https://open.spotify.com/artist/0vk4sQbPHoawGCfhj0RnCe) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1M18eNtuc8l3I5AxFOWJhL) | 3:13 | 2024-05-13 |  |
 | [Freeze! \- Instrumental](https://open.spotify.com/track/1fHqVLVSFv5ByEhkAfeGQk) | [SEO HO](https://open.spotify.com/artist/0H0QZpyLzGxHzPKj5wO0pV), [LEE DO](https://open.spotify.com/artist/0vk4sQbPHoawGCfhj0RnCe) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1M18eNtuc8l3I5AxFOWJhL) | 3:13 | 2024-05-13 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2024-05-13 |  |

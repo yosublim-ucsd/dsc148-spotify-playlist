@@ -2993,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Everything Lit",
+        "url": "https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145770,
+      "name": "Everything Lit",
+      "url": "https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff"
+    },
+    {
+      "album": {
         "name": "existential hymns for the average sigma [vol. 9]",
         "url": "https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU"
       },
@@ -6184,6 +6202,24 @@
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "album": {
+        "name": "Valedictorian",
+        "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127872,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP"
     },
     {
       "album": {

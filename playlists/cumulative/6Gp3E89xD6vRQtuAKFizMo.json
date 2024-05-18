@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Bandra",
+        "url": "https://open.spotify.com/album/15YzlYwz6AubkRMlAq1Zu7"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Bandra",
+      "url": "https://open.spotify.com/track/2e6Ev7IkvZypybbOm7gJzB"
+    },
+    {
+      "album": {
         "name": "Barbie (feat. Melissa Brooks)",
         "url": "https://open.spotify.com/album/44ksgbVSEp80E8K94zwDvH"
       },
@@ -1452,6 +1470,32 @@
       "duration_ms": 197418,
       "name": "Disengage",
       "url": "https://open.spotify.com/track/5NGLGbbClZvq7n8L4VRnfy"
+    },
+    {
+      "album": {
+        "name": "Save My Soul (feat. Jordan Grace)",
+        "url": "https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh"
+      },
+      "artists": [
+        {
+          "name": "Afroki",
+          "url": "https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125167,
+      "name": "Diss You",
+      "url": "https://open.spotify.com/track/7zQhHRCbfA5z3rY56O9REd"
     },
     {
       "album": {
@@ -4786,6 +4830,36 @@
       "duration_ms": 146776,
       "name": "Sangre Poderosa",
       "url": "https://open.spotify.com/track/6XlTWSJ9MiCsE9zV05TeLM"
+    },
+    {
+      "album": {
+        "name": "Save My Soul (feat. Jordan Grace)",
+        "url": "https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh"
+      },
+      "artists": [
+        {
+          "name": "Afroki",
+          "url": "https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208027,
+      "name": "Save My Soul (feat. Jordan Grace)",
+      "url": "https://open.spotify.com/track/52IUYgumUJN31TVeyfjv9t"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126012,
+  "num_followers": 126008,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASYd8yGEhOexR1+ulaho9p1nAatJHU",
+  "snapshot_id": "AAASYogQAv75BkcpoOuTf9o78zlIya83",
   "tracks": [
+    {
+      "added_at": "2024-05-17 13:56:33",
+      "album": {
+        "name": "HOT SHOT",
+        "url": "https://open.spotify.com/album/3RK2td9YkPkFCiFvKHmXwQ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 227343,
+      "name": "HOT SHOT",
+      "url": "https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2"
+    },
     {
       "added_at": "2024-05-16 16:32:24",
       "album": {

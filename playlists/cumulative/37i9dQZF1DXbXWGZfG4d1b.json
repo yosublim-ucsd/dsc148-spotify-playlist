@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 191078,
       "name": "14:14",
       "url": "https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho"
@@ -5153,6 +5153,28 @@
     },
     {
       "album": {
+        "name": "La Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2T8fDtbcTS9A93AjmkB0dP"
+      },
+      "artists": [
+        {
+          "name": "Mostruo!",
+          "url": "https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE"
+        },
+        {
+          "name": "Richard Coleman",
+          "url": "https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230250,
+      "name": "La Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4OEX1eyHwC6GTJCxc5j9j8"
+    },
+    {
+      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/1kJEPy20AkL9lccVH8oTpC"
       },
@@ -5714,6 +5736,28 @@
       "duration_ms": 239026,
       "name": "Lo Quiero Mucho a Ese Muchacho",
       "url": "https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw"
+    },
+    {
+      "album": {
+        "name": "Los Aires de Buenos Aires",
+        "url": "https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q"
+      },
+      "artists": [
+        {
+          "name": "Todos los Martes",
+          "url": "https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277882,
+      "name": "Los Aires de Buenos Aires",
+      "url": "https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc"
     },
     {
       "album": {
@@ -6330,7 +6374,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 324155,
       "name": "Mi Conexi\u00f3n",
       "url": "https://open.spotify.com/track/5u1fbnjaJc0rCQPnQ1xUqJ"

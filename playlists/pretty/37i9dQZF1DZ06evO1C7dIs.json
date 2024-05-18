@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 243808,
+  "num_followers": 243855,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAABJVDPPpdHLzGHEsDKEWQ6n",
+  "snapshot_id": "ZkVMgAAAAACFrKAQM1KLfX4tIftTr/Ey",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 236016,
+      "name": "For the Heart I Once Had",
+      "url": "https://open.spotify.com/track/2FPkCIeZJ9SO3g606XLJA4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "End of an Era (Live)",
         "url": "https://open.spotify.com/album/0vAgv1fFn8zW2hbpWJfgPX"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 211306,
       "name": "Moondance",
       "url": "https://open.spotify.com/track/1IzlSeZQE4PwIPSaUsv0AV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Passion Play",
-        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 236016,
-      "name": "For the Heart I Once Had",
-      "url": "https://open.spotify.com/track/2FPkCIeZJ9SO3g606XLJA4"
     },
     {
       "added_at": null,

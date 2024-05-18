@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.
 
-386 songs - 19 hr 54 min
+387 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Red Letter Blueprint](https://open.spotify.com/track/1jTUo8zxmyiLwkaDjkj45w) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Red Letter Blueprint](https://open.spotify.com/album/6sdTmbOCQejn4phKQn47a0) | 3:52 | 2024-04-01 | 2024-04-09 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-19 |  |
 | [Remind Me](https://open.spotify.com/track/4HPUbi24ZEBCwO9kSQ0Jk3) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Hilda](https://open.spotify.com/artist/0gNDtB2LFXVzalP35MXaql) | [Remind Me](https://open.spotify.com/album/6gwNZoJSrLZlbg8e5FPFWX) | 2:34 | 2023-12-15 | 2024-01-27 |
+| [Rich](https://open.spotify.com/track/5d1P1mec9QUKTWurAA1fvk) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Rich](https://open.spotify.com/album/71V5c3JMOzLatchvR4ldmJ) | 2:23 | 2024-05-17 |  |
 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 | 2024-02-16 | 2024-04-02 |
 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 | 2023-11-24 | 2024-01-20 |
 | [Rockefeller](https://open.spotify.com/track/0L3MHhYCVu137Fl7MnuDAb) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Rockefeller](https://open.spotify.com/album/7l4BpvHSdnXFMGy2EWS9My) | 2:14 | 2023-11-03 | 2023-12-02 |

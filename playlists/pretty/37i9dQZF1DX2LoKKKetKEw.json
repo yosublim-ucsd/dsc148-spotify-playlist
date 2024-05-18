@@ -1,6 +1,6 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:58r1rB5t3VF5X6yXGPequV\">Maverick City Music</a> & <a href=\"spotify:artist:6008gjU9UTUCfLZoSun5SH\">Annatoria</a>",
-  "num_followers": 85032,
+  "num_followers": 85099,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,26 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
+        "name": "Blessed Year",
+        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Vin Mokay",
+          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
+        }
+      ],
+      "duration_ms": 184337,
+      "name": "Blessed Year",
+      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
+    },
+    {
+      "added_at": "2024-05-10 04:42:11",
+      "album": {
         "name": "Ah Yami",
         "url": "https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 193890,
       "name": "Tate",
       "url": "https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi"
-    },
-    {
-      "added_at": "2024-05-10 04:42:11",
-      "album": {
-        "name": "Blessed Year",
-        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Vin Mokay",
-          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
-        }
-      ],
-      "duration_ms": 184337,
-      "name": "Blessed Year",
-      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
     },
     {
       "added_at": "2024-05-10 04:42:11",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "This can only be God",
-        "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
-      },
-      "artists": [
-        {
-          "name": "Jimmy D Psalmist",
-          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 218644,
-      "name": "This can only be God",
-      "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
-    },
-    {
-      "added_at": "2024-05-10 04:42:11",
-      "album": {
         "name": "Not Gonna Worry",
         "url": "https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 205714,
       "name": "Not Gonna Worry",
       "url": "https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id"
+    },
+    {
+      "added_at": "2024-05-10 04:42:11",
+      "album": {
+        "name": "This can only be God",
+        "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
+      },
+      "artists": [
+        {
+          "name": "Jimmy D Psalmist",
+          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 218644,
+      "name": "This can only be God",
+      "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
     },
     {
       "added_at": "2024-05-10 04:42:11",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 162223,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
+      "added_at": "2024-05-10 04:42:11",
+      "album": {
         "name": "miles away",
         "url": "https://open.spotify.com/album/4JNcuAGKN20Ei77IvelMEA"
       },
@@ -1079,26 +1099,6 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
-      },
-      "artists": [
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        }
-      ],
-      "duration_ms": 162223,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
-    },
-    {
-      "added_at": "2024-05-10 04:42:11",
-      "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/61GvROwCtOYr9ecZuyD4jg"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "No Trouble",
-        "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
-      },
-      "artists": [
-        {
-          "name": "K3ndrick",
-          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        }
-      ],
-      "duration_ms": 170019,
-      "name": "No Trouble",
-      "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
-    },
-    {
-      "added_at": "2024-05-10 04:42:11",
-      "album": {
         "name": "Ah Ya Ya",
         "url": "https://open.spotify.com/album/3vzzQKuIn0WV58V4DKYZnN"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 222328,
       "name": "Ah Ya Ya",
       "url": "https://open.spotify.com/track/2up5Sc4s1sh7HhY5VkeAoI"
+    },
+    {
+      "added_at": "2024-05-10 04:42:11",
+      "album": {
+        "name": "No Trouble",
+        "url": "https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "duration_ms": 170019,
+      "name": "No Trouble",
+      "url": "https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX"
     },
     {
       "added_at": "2024-05-10 04:42:11",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "Overwhelmed",
-        "url": "https://open.spotify.com/album/1yZSwXMSUGePIKwJLt7HHh"
-      },
-      "artists": [
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Overwhelmed",
-      "url": "https://open.spotify.com/track/5lI39HnRnc9quha7PwzFlz"
-    },
-    {
-      "added_at": "2024-05-10 04:42:11",
-      "album": {
         "name": "Shemoneh",
         "url": "https://open.spotify.com/album/0JEaUz6MRrYtki9Quyv2m0"
       },
@@ -1291,6 +1271,46 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/1yZSwXMSUGePIKwJLt7HHh"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Overwhelmed",
+      "url": "https://open.spotify.com/track/5lI39HnRnc9quha7PwzFlz"
+    },
+    {
+      "added_at": "2024-05-10 04:42:11",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165694,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
+    },
+    {
+      "added_at": "2024-05-10 04:42:11",
+      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE"
       },
@@ -1319,22 +1339,26 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o"
+        "name": "MY DAYS",
+        "url": "https://open.spotify.com/album/2iZGyWGhk2Tpz4UcEQEDG7"
       },
       "artists": [
         {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
         },
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Jayclassic",
+          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
         }
       ],
-      "duration_ms": 165694,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
+      "duration_ms": 135000,
+      "name": "MY DAYS",
+      "url": "https://open.spotify.com/track/1KCkFjHrMKun36MUDiheU6"
     },
     {
       "added_at": "2024-05-10 04:42:11",
@@ -1399,30 +1423,6 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "Right Here (It Must Be)",
-        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        }
-      ],
-      "duration_ms": 189382,
-      "name": "Right Here (It Must Be)",
-      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
-    },
-    {
-      "added_at": "2024-05-10 04:42:11",
-      "album": {
         "name": "CONFIDENCE (Part 1)",
         "url": "https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj"
       },
@@ -1447,26 +1447,26 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "MY DAYS",
-        "url": "https://open.spotify.com/album/2iZGyWGhk2Tpz4UcEQEDG7"
+        "name": "Right Here (It Must Be)",
+        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
       },
       "artists": [
         {
-          "name": "Monaze",
-          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
         },
         {
-          "name": "Jayclassic",
-          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
         },
         {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
         }
       ],
-      "duration_ms": 135000,
-      "name": "MY DAYS",
-      "url": "https://open.spotify.com/track/1KCkFjHrMKun36MUDiheU6"
+      "duration_ms": 189382,
+      "name": "Right Here (It Must Be)",
+      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
     },
     {
       "added_at": "2024-05-10 04:42:11",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Edwards",
-          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
-        },
-        {
-          "name": "Rushawn",
-          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
-        }
-      ],
-      "duration_ms": 154218,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
-    },
-    {
-      "added_at": "2024-05-10 04:42:11",
-      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/6Hz8dBX8nHEjlyEF8Fg2na"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 205195,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4bruz4SVwYjjcIBtuBEN3n"
+    },
+    {
+      "added_at": "2024-05-10 04:42:11",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+        }
+      ],
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
     },
     {
       "added_at": "2024-05-10 04:42:11",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "Assurance",
-        "url": "https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv"
-      },
-      "artists": [
-        {
-          "name": "Maikon West",
-          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
-        },
-        {
-          "name": "Afolake",
-          "url": "https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Assurance",
-      "url": "https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X"
-    },
-    {
-      "added_at": "2024-05-10 04:42:11",
-      "album": {
         "name": "FOR ME",
         "url": "https://open.spotify.com/album/3XpGWYn2E8gagmm8yIlPiQ"
       },
@@ -1947,22 +1927,22 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/7mtDmT2RFhPb8DP9qNUiNU"
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv"
       },
       "artists": [
         {
-          "name": "Still Blessed Music",
-          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
         },
         {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+          "name": "Afolake",
+          "url": "https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8"
         }
       ],
-      "duration_ms": 181500,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/6a8G6scqUjGIrRCArFRNYP"
+      "duration_ms": 169714,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X"
     },
     {
       "added_at": "2024-05-10 04:42:11",
@@ -1983,6 +1963,26 @@
       "duration_ms": 161020,
       "name": "Be Like",
       "url": "https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX"
+    },
+    {
+      "added_at": "2024-05-10 04:42:11",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/7mtDmT2RFhPb8DP9qNUiNU"
+      },
+      "artists": [
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6a8G6scqUjGIrRCArFRNYP"
     },
     {
       "added_at": "2024-05-10 04:42:11",
@@ -2027,22 +2027,22 @@
     {
       "added_at": "2024-05-10 04:42:11",
       "album": {
-        "name": "Fire on the Mountain",
-        "url": "https://open.spotify.com/album/0iW7DU3HZzEnHa4l2zEzmp"
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77"
       },
       "artists": [
         {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+          "name": "M\u00fcn The Shinobi",
+          "url": "https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B"
         },
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
         }
       ],
-      "duration_ms": 160549,
-      "name": "Fire on the Mountain",
-      "url": "https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF"
+      "duration_ms": 174159,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA"
     }
   ],
   "unique_name": "AfroGospel",

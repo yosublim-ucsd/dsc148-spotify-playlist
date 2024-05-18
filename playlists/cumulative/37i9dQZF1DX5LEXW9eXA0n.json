@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Lim Young Woong(\uc784\uc601\uc6c5)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Tophyun(\ud0d1\ud604)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 237800,
       "name": "A Common Excuse",
       "url": "https://open.spotify.com/track/7GpmCt7ZY3BEjs5O2SSGS9"
+    },
+    {
+      "album": {
+        "name": "Lovely Runner, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/65AEs9BXA3RiN3hJEe7SbY"
+      },
+      "artists": [
+        {
+          "name": "Jong Ho",
+          "url": "https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "A Day",
+      "url": "https://open.spotify.com/track/7KxDaaCFPOm6p8Hg4CIhQ6"
     },
     {
       "album": {
@@ -488,7 +506,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 203360,
       "name": "A very personal story",
       "url": "https://open.spotify.com/track/3PWyWdzpWOfBmH7R5moC8O"
@@ -636,7 +654,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 210933,
       "name": "After A Long Time (Our Secret Diary X ZIA)",
       "url": "https://open.spotify.com/track/73ByHWU9prg74XMJHM6Nfy"
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
@@ -1852,6 +1870,28 @@
       "duration_ms": 231093,
       "name": "Because I love you",
       "url": "https://open.spotify.com/track/6woYtxbk3DWDbNz5sLLafG"
+    },
+    {
+      "album": {
+        "name": "Because of love",
+        "url": "https://open.spotify.com/album/6pfIavz40knR8l2TixGw5X"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        },
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220673,
+      "name": "Because of love",
+      "url": "https://open.spotify.com/track/7u8cKCV0mrXirJcHhhFFz6"
     },
     {
       "album": {
@@ -6604,7 +6644,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 155546,
       "name": "her",
       "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
@@ -7861,6 +7901,24 @@
     },
     {
       "album": {
+        "name": "I see you in my eyes",
+        "url": "https://open.spotify.com/album/44rEz9qIaVOlFAvyqvru2a"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "I see you in my eyes",
+      "url": "https://open.spotify.com/track/63j3jHNacYaN4pyusII2Zn"
+    },
+    {
+      "album": {
         "name": "I See You, You See Him",
         "url": "https://open.spotify.com/album/2o1RYnEbhODNNdBXewcpKd"
       },
@@ -8010,6 +8068,24 @@
       "duration_ms": 217853,
       "name": "I Still Miss You",
       "url": "https://open.spotify.com/track/5ZD5Ir6kdXkAuETilQy25q"
+    },
+    {
+      "album": {
+        "name": "Lovely Runner, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6DilLRFZOdqdfPfOh2DRgz"
+      },
+      "artists": [
+        {
+          "name": "Yoo Hwe Seung(N.Flying)",
+          "url": "https://open.spotify.com/artist/7yL5ZmN82R59qHxOV0ejQw"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260549,
+      "name": "I Think I Did",
+      "url": "https://open.spotify.com/track/4H0jGKPyORcxowWlXgSdth"
     },
     {
       "album": {
@@ -9341,6 +9417,24 @@
     },
     {
       "album": {
+        "name": "It's been a while",
+        "url": "https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294396,
+      "name": "It's been a while",
+      "url": "https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH"
+    },
+    {
+      "album": {
         "name": "It's love",
         "url": "https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR"
       },
@@ -9388,7 +9482,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 242662,
       "name": "It's never been okay",
       "url": "https://open.spotify.com/track/5ATDBfDXa1YQsWKbL9EzCg"
@@ -9424,7 +9518,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 277672,
       "name": "It's okay",
       "url": "https://open.spotify.com/track/4B4Fi07IQMGEjvCFis7KTS"
@@ -10091,6 +10185,24 @@
     },
     {
       "album": {
+        "name": "Letter",
+        "url": "https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213813,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl"
+    },
+    {
+      "album": {
         "name": "Letter To The Sky",
         "url": "https://open.spotify.com/album/69wQyItYqJpRwT3cfvG0zX"
       },
@@ -10246,7 +10358,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 249240,
       "name": "Like A Dream",
       "url": "https://open.spotify.com/track/77L2vIs5W3RZXngqNMlKWS"
@@ -10805,6 +10917,24 @@
     },
     {
       "album": {
+        "name": "Look at your picture",
+        "url": "https://open.spotify.com/album/2piZV8x60WuZqgXrLlGrX9"
+      },
+      "artists": [
+        {
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/73hSL2bbnBDJl4i3hsJB73"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209826,
+      "name": "Look at your picture",
+      "url": "https://open.spotify.com/track/6uHuMQ3o59hCQ9e8WXtLvk"
+    },
+    {
+      "album": {
         "name": "Again,Star #2",
         "url": "https://open.spotify.com/album/4BqNdozu75WCs9C07CjPl0"
       },
@@ -11148,6 +11278,24 @@
       "duration_ms": 223466,
       "name": "Love is over",
       "url": "https://open.spotify.com/track/2eJC2xIN25ZuitoeyUjvZq"
+    },
+    {
+      "album": {
+        "name": "Beauty and Romantic OST Part.6 (Soundtrack)",
+        "url": "https://open.spotify.com/album/794BP5bB4QMZeRQcppycVD"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257626,
+      "name": "Love Is So Difficult",
+      "url": "https://open.spotify.com/track/3iijX9UxNQiRyEkMIe3Q6b"
     },
     {
       "album": {
@@ -11980,7 +12128,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 186333,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf"
@@ -12218,6 +12366,24 @@
       "duration_ms": 186047,
       "name": "Moon of Seoul",
       "url": "https://open.spotify.com/track/6jmn2IEoU3Yfw3j4hKgSlm"
+    },
+    {
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.11",
+        "url": "https://open.spotify.com/album/5Hxm0tqjndXPDl1msqtz1Z"
+      },
+      "artists": [
+        {
+          "name": "KIM TAE RAE",
+          "url": "https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253640,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/4edqP1qBW0O6f7NU5qpw1H"
     },
     {
       "album": {
@@ -13212,7 +13378,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 251600,
       "name": "Not Lonely",
       "url": "https://open.spotify.com/track/6qxNNoaaKKshw34ZdTrVV2"
@@ -13678,7 +13844,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 235200,
       "name": "One ring",
       "url": "https://open.spotify.com/track/6Q7GVML4uhQ9H5AF3FY6ng"
@@ -15786,7 +15952,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 281346,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1knmXWjASYVOYFsSFoDWz5"
@@ -16614,7 +16780,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 201226,
       "name": "Stranger (Feat. 10cm)",
       "url": "https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K"
@@ -16780,7 +16946,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 195133,
       "name": "Sunday Latte",
       "url": "https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY"
@@ -18369,6 +18535,24 @@
     },
     {
       "album": {
+        "name": "Thinkin' about you (Our Pie X Tophyun)",
+        "url": "https://open.spotify.com/album/4bE5JIK5wQr9u0482QwHPv"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "Thinkin' about you",
+      "url": "https://open.spotify.com/track/1YnxyYkJbOyadMFzn103v3"
+    },
+    {
+      "album": {
         "name": "third farewell",
         "url": "https://open.spotify.com/album/1BoA7LtCfEtme5gb5aC6A8"
       },
@@ -18438,6 +18622,24 @@
       "duration_ms": 222106,
       "name": "Those times",
       "url": "https://open.spotify.com/track/6AYFpiiNPcjpxA9RKa2glZ"
+    },
+    {
+      "album": {
+        "name": "Three Methods of Containing Sorrow",
+        "url": "https://open.spotify.com/album/5dq1nYp45LJ0t5rng19jnU"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\uc601 Kim Suyoung",
+          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Three Methods of Containing Sorrow",
+      "url": "https://open.spotify.com/track/3RDCy9sr00fMnAN8b3E26Y"
     },
     {
       "album": {
@@ -18662,7 +18864,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 253840,
       "name": "Together (2023)",
       "url": "https://open.spotify.com/track/5BJvgvS1IdYjuTcAIEAI3O"
@@ -19069,6 +19271,24 @@
     },
     {
       "album": {
+        "name": "Unknown Number",
+        "url": "https://open.spotify.com/album/3ishR5DHHZkbwgqm0JGnp0"
+      },
+      "artists": [
+        {
+          "name": "\ubc31\uc608\uc2ac",
+          "url": "https://open.spotify.com/artist/11DtsbOcADmapr0tpUNgqN"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "Unknown Number",
+      "url": "https://open.spotify.com/track/6ELBv0LKWuq77hK5mUS1n0"
+    },
+    {
+      "album": {
         "name": "Unnamed Emotion",
         "url": "https://open.spotify.com/album/2WKF3O9QfxUNv16IeD2FXo"
       },
@@ -19152,7 +19372,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 254266,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/3NAHK3gLOVmkOVoSmMJvOu"
@@ -20598,7 +20818,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 253813,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6c0RvlZu9VWyVtnwaaurMA"

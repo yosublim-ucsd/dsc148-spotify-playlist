@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Noventa, Vk Mac
 
-371 songs - 19 hr 12 min
+372 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Boaz e Rute](https://open.spotify.com/track/2VW0QXMRuK4gLnJw94gt00) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [RAMON EL BRABO](https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI) | [Boaz e Rute](https://open.spotify.com/album/6P5wzuo9oWlAl6QWswi157) | 3:31 | 2024-04-05 |  |
 | [Bom Samaritano](https://open.spotify.com/track/2ppf3yjN6Z46uHoPXNIOpL) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Bom Samaritano](https://open.spotify.com/album/5hNmqwyPIczz0fcNQa0zpn) | 2:13 | 2023-12-22 |  |
 | [Bota Fé no Pai](https://open.spotify.com/track/0XYJiHecvwpRqmKbsBc7V5) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Bota Fé no Pai](https://open.spotify.com/album/5GusdgenYep0VWXQpH220I) | 2:48 | 2023-10-06 | 2023-10-23 |
+| [Bíblia no Jeans](https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv) | [Kinho](https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bíblia no Jeans](https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb) | 2:18 | 2024-05-17 |  |
 | [Cada um Com uma História](https://open.spotify.com/track/5o6OEZrqTJf23J8Z6BK3jW) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr) | [Cada um Com uma História](https://open.spotify.com/album/2Laqz2edRxTXe4rH0tlcbv) | 6:46 | 2023-03-03 | 2023-04-29 |
 | [Calma](https://open.spotify.com/track/50Gp5YWpRz8Qo0BxmO7okA) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Calma](https://open.spotify.com/album/1c1UsM1NjxmLxlqV9RmPlU) | 3:40 | 2023-09-25 | 2023-10-07 |
 | [Calma](https://open.spotify.com/track/5y4TUzw7Nn4H1OtXUdd6Vr) | [Machini](https://open.spotify.com/artist/42wZKHNutqsKTcN9n5RrbI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Calma](https://open.spotify.com/album/5xOFDQNt2vNsse9z7auAs3) | 2:35 | 2022-06-17 | 2022-08-20 |
@@ -370,7 +371,7 @@
 | [Voz do Senhor](https://open.spotify.com/track/4dPKrzz5kzThp7UQv51BLh) | [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Voz do Senhor](https://open.spotify.com/album/0OEDbHQAt7ale9RGY3w2SX) | 2:12 | 2023-08-04 | 2023-09-02 |
 | [Wow](https://open.spotify.com/track/3Nmj5IKVbneuuUGRGHYMzZ) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB) | [Wow](https://open.spotify.com/album/6U3CFFtuJJtxGjCJbdc1f5) | 1:19 | 2023-03-24 | 2023-04-29 |
 | [Xaxaxa](https://open.spotify.com/track/7cK0cV8Hw5KD3F6EuS81qU) | [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Xaxaxa](https://open.spotify.com/album/30tzDIMQYDXBvDLXJ7AETj) | 1:36 | 2022-04-26 | 2022-06-25 |
-| [Yeshua](https://open.spotify.com/track/2MNx8isTSanZlqMMbto0SX) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Yeshua](https://open.spotify.com/album/6sKV6wS0KCrhSlBBK7epDz) | 2:51 | 2024-03-01 |  |
+| [Yeshua](https://open.spotify.com/track/2MNx8isTSanZlqMMbto0SX) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Yeshua](https://open.spotify.com/album/6sKV6wS0KCrhSlBBK7epDz) | 2:51 | 2024-03-01 | 2024-05-18 |
 | [Yeshua Vive](https://open.spotify.com/track/5N6onJmQDASt4PCeTUCidY) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [RAFUZ](https://open.spotify.com/artist/1rwUnPhgywcnB4BsAHqFTF), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Yeshua Vive](https://open.spotify.com/album/1NwiBJNm8km14gI5PuYfdI) | 3:32 | 2023-06-23 | 2023-09-02 |
 | [Águias](https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Águias](https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW) | 3:33 | 2022-03-22 | 2023-04-16 |
 | [Área de Risco](https://open.spotify.com/track/3Eeg8WQSBu5jW8QhLoM0OV) | [Moskitto](https://open.spotify.com/artist/3okdXZyurX68tcNnjx0HQM), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Área de Risco](https://open.spotify.com/album/5vNi3Rmt1e8tyy75ggIBhq) | 2:32 | 2023-02-24 | 2023-05-06 |

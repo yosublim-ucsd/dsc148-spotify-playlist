@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Killen.",
+  "description": "The best indie dance tracks of the moment. Cover: kryptogram",
   "name": "metropolis",
   "tracks": [
     {
@@ -8609,6 +8609,24 @@
     },
     {
       "album": {
+        "name": "Give You My Love",
+        "url": "https://open.spotify.com/album/3pp00p6UycBCQhVs9pFIxj"
+      },
+      "artists": [
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "Give You My Love",
+      "url": "https://open.spotify.com/track/00Zner1J4KiAOS7ZmiMRnY"
+    },
+    {
+      "album": {
         "name": "Giving Up",
         "url": "https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE"
       },
@@ -9216,7 +9234,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 209769,
       "name": "Half Asleep",
       "url": "https://open.spotify.com/track/5gyq4DZgDBNG2zZWQ6LWUl"
@@ -9788,6 +9806,28 @@
       "duration_ms": 220346,
       "name": "Hey Lou",
       "url": "https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS"
+    },
+    {
+      "album": {
+        "name": "Hey Lou (Je3's CCTV Mix)",
+        "url": "https://open.spotify.com/album/70mhSy7mzDUuYvCA3QkXHE"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Slauson Malone 1",
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307360,
+      "name": "Hey Lou - Je3's CCTV Mix",
+      "url": "https://open.spotify.com/track/0pfMYh8Pbu4hBOY3eNU20v"
     },
     {
       "album": {
@@ -12154,7 +12194,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 230806,
       "name": "Jigglypuff",
       "url": "https://open.spotify.com/track/2XvHPenTKEkwAwT3T1q1aW"
@@ -13662,6 +13702,24 @@
       "duration_ms": 185697,
       "name": "Look At Me Dance",
       "url": "https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI"
+    },
+    {
+      "album": {
+        "name": "Look How Far We've Come",
+        "url": "https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341000,
+      "name": "Look How Far We've Come",
+      "url": "https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE"
     },
     {
       "album": {
@@ -16675,6 +16733,24 @@
     },
     {
       "album": {
+        "name": "Darkroom",
+        "url": "https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214773,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId"
+    },
+    {
+      "album": {
         "name": "Off You",
         "url": "https://open.spotify.com/album/2ZyTafX0z6gvqgf3nuVgJo"
       },
@@ -17402,6 +17478,28 @@
       "duration_ms": 219047,
       "name": "Outbound (feat. grandpa julie)",
       "url": "https://open.spotify.com/track/1hN9P4VZol7Hxfn7Z4ZHBu"
+    },
+    {
+      "album": {
+        "name": "Outside Of Love (Young Franco Remix)",
+        "url": "https://open.spotify.com/album/4YRIXPvwNrJ62HGNbXlECz"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229896,
+      "name": "Outside Of Love - Young Franco Remix",
+      "url": "https://open.spotify.com/track/2vD9qcTGAWso6tULyMsylE"
     },
     {
       "album": {
@@ -19003,6 +19101,24 @@
     },
     {
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229945,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ"
+    },
+    {
+      "album": {
         "name": "Small World",
         "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
       },
@@ -19882,7 +19998,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 170666,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/4BBejz4QjscuApJoK3j1yJ"
@@ -20346,7 +20462,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
@@ -21120,7 +21236,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 166059,
       "name": "Starchitect",
       "url": "https://open.spotify.com/track/0SS6bzzAh8e2wkEkvqAPVS"
@@ -22254,7 +22370,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 162291,
       "name": "tell me",
       "url": "https://open.spotify.com/track/6CI16mxAWyzW1pMpCV4Qfw"

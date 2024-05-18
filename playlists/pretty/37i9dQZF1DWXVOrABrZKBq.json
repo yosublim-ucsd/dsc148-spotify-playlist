@@ -1,15 +1,31 @@
 {
-  "description": "Le rap francophone est en forme. Photo: PLK",
+  "description": "Le rap francophone est en forme. Photo: TIF",
   "num_followers": 15868,
   "original_name": "Connexion Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhQAAAAAD4bK5vJ/I8XQKZtZIwqaoB",
+  "snapshot_id": "ZkeSEAAAAAA8eQcU6zAGojk7V6BCzlXa",
   "tracks": [
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
+      "album": {
+        "name": "Nothing Personal - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 178122,
+      "name": "Nothing Personal - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
+    },
+    {
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "\u00c7a m\u00e8ne \u00e0 rien",
         "url": "https://open.spotify.com/album/5J2yAIMQREow94vQwRahxm"
@@ -29,7 +45,27 @@
       "url": "https://open.spotify.com/track/2uUYBVQ9EPQeuox1yD5Niw"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
+      "album": {
+        "name": "Quill\u00e9",
+        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 180107,
+      "name": "Quill\u00e9",
+      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
+    },
+    {
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "DZ D\u2019AMERIQUE",
         "url": "https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA"
@@ -45,7 +81,7 @@
       "url": "https://open.spotify.com/track/7znhCvyqxCEUPFutuLM6jR"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Pyramide",
         "url": "https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF"
@@ -65,7 +101,7 @@
       "url": "https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "6 mois",
         "url": "https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy"
@@ -81,7 +117,7 @@
       "url": "https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Temps en temps",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
@@ -101,7 +137,7 @@
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Memory (Extended Version)",
         "url": "https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY"
@@ -121,7 +157,31 @@
       "url": "https://open.spotify.com/track/70T34qUA8otqXwxraVSbry"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
+      "album": {
+        "name": "C'est pas ce que tu penses",
+        "url": "https://open.spotify.com/album/3PMT5XJmSJbAi47RseEFMg"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "Lary Kidd",
+          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+        },
+        {
+          "name": "Loud Lary Ajust",
+          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
+        }
+      ],
+      "duration_ms": 136013,
+      "name": "C'est pas ce que tu penses",
+      "url": "https://open.spotify.com/track/0Sbmsr53cUNNl6H2n4k3g2"
+    },
+    {
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Saison 2",
         "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
@@ -137,7 +197,7 @@
       "url": "https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
@@ -157,7 +217,7 @@
       "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Plus fort.",
         "url": "https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk"
@@ -177,7 +237,7 @@
       "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "PRINCE",
         "url": "https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4"
@@ -193,7 +253,7 @@
       "url": "https://open.spotify.com/track/3ftBRDmLdaahjAPfjiZ1UN"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Fractur\u00e9",
         "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
@@ -213,7 +273,7 @@
       "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "La route est longue",
         "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
@@ -233,7 +293,7 @@
       "url": "https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "J.000.$",
         "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
@@ -249,7 +309,7 @@
       "url": "https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "phileas fogg",
         "url": "https://open.spotify.com/album/64y23hxA0OtaC66UscChre"
@@ -265,7 +325,7 @@
       "url": "https://open.spotify.com/track/03ijxNalYn4V6467YMGMP3"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Prot\u00e9ger et Servir",
         "url": "https://open.spotify.com/album/4J4K8pPTI4ruWL5wAhJv8e"
@@ -281,7 +341,7 @@
       "url": "https://open.spotify.com/track/3CsD5Pl7fVItNzxuQ5rwYm"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS"
@@ -297,7 +357,7 @@
       "url": "https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Une semaine \u00e0 Paris",
         "url": "https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u"
@@ -317,7 +377,7 @@
       "url": "https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "DZ D\u2019AMERIQUE",
         "url": "https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA"
@@ -337,7 +397,7 @@
       "url": "https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "BRUT4L",
         "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
@@ -357,7 +417,7 @@
       "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
@@ -377,7 +437,7 @@
       "url": "https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "P\u00e9roxyde",
         "url": "https://open.spotify.com/album/60KbxzUMRvskEhapoRaEhF"
@@ -393,7 +453,7 @@
       "url": "https://open.spotify.com/track/0JIJMuV5B8ZFIYRfiMgD9l"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
@@ -409,7 +469,7 @@
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "TRAP$TAR 3",
         "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
@@ -429,7 +489,7 @@
       "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Gaza",
         "url": "https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP"
@@ -449,7 +509,7 @@
       "url": "https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Something About Us",
         "url": "https://open.spotify.com/album/4e3Mf5DerPgrCf0ALtgHqH"
@@ -465,7 +525,7 @@
       "url": "https://open.spotify.com/track/3kW25atIQL53yPDTD34aoo"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
@@ -481,7 +541,7 @@
       "url": "https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "ROWZIN 2",
         "url": "https://open.spotify.com/album/3VT7DFjIBMm07KIGKIRwPJ"
@@ -501,7 +561,7 @@
       "url": "https://open.spotify.com/track/14IiU9Q0w97lGKCdOtNCsM"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
@@ -517,7 +577,7 @@
       "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Saiyan",
         "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
@@ -537,7 +597,7 @@
       "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "H\u00c9RITAGE (Deluxe)",
         "url": "https://open.spotify.com/album/5bEAst4zPVbagufynpA9L2"
@@ -553,7 +613,7 @@
       "url": "https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "\u16b7. INSPIR\u00c9 DE FAITS R\u00c9ELS #6",
         "url": "https://open.spotify.com/album/4HqxQlBSI8N5u9OnPCRXNZ"
@@ -569,7 +629,7 @@
       "url": "https://open.spotify.com/track/0QqP2jJFb8RhGjugYSbFxf"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "\u00c7a Parait",
         "url": "https://open.spotify.com/album/65WegECCKRFE8PaRLlTWzZ"
@@ -585,7 +645,7 @@
       "url": "https://open.spotify.com/track/53hrIOmrtgJYJi1rIfVJTF"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/2Nd1U9DsZdDmTYbjuQ7ZwP"
@@ -605,7 +665,7 @@
       "url": "https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Bonjour",
         "url": "https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7"
@@ -625,7 +685,7 @@
       "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Mauvais r\u00eave",
         "url": "https://open.spotify.com/album/7tvZulRpGxdmyVjfywo2vr"
@@ -641,7 +701,7 @@
       "url": "https://open.spotify.com/track/0uXABzWpeGIziTD0Sliozg"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "1 2 3 4",
         "url": "https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ"
@@ -661,7 +721,7 @@
       "url": "https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -681,7 +741,7 @@
       "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Bando",
         "url": "https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv"
@@ -701,7 +761,7 @@
       "url": "https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Liens du 100",
         "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
@@ -717,31 +777,7 @@
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "LA RUE",
-        "url": "https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1"
-      },
-      "artists": [
-        {
-          "name": "No Limit",
-          "url": "https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 225137,
-      "name": "LA RUE",
-      "url": "https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/7BsUyHowfyfP4EnSWh5WHL"
@@ -757,7 +793,7 @@
       "url": "https://open.spotify.com/track/2YUa2oLlzz7JS8KjqDadjn"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Int\u00e9gral 2 #POV",
         "url": "https://open.spotify.com/album/3ZJPNl3kiiJNvH7N7ZulfG"
@@ -777,7 +813,7 @@
       "url": "https://open.spotify.com/track/1NS6X0RWyNp0KzCCmCCwlu"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "MONNAIE",
         "url": "https://open.spotify.com/album/6ARWG8BntraLXVsELp9JkI"
@@ -797,7 +833,7 @@
       "url": "https://open.spotify.com/track/51pddJ1sTmqHgSV8Wh4MCg"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "AKRAPO 7",
         "url": "https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X"
@@ -813,7 +849,7 @@
       "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -833,7 +869,7 @@
       "url": "https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "Oseille Des Francs-Ma\u00e7ons",
         "url": "https://open.spotify.com/album/49LrhWQdrDcGQrIrFQemTw"
@@ -857,7 +893,7 @@
       "url": "https://open.spotify.com/track/2q2LV84PZrUt7CkcmzOVeN"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "J'Fonce",
         "url": "https://open.spotify.com/album/5F3UHcdI6u3T3C3l7ujJOM"
@@ -877,43 +913,7 @@
       "url": "https://open.spotify.com/track/2HondNQ2pnnAYxRrWUDezm"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "EAU DE MARS",
-        "url": "https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu"
-      },
-      "artists": [
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
-        }
-      ],
-      "duration_ms": 206056,
-      "name": "EAU DE MARS",
-      "url": "https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Sosa",
-        "url": "https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625"
-      },
-      "artists": [
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 157036,
-      "name": "Sosa",
-      "url": "https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 17:21:20",
       "album": {
         "name": "MAELSTR\u00d6M",
         "url": "https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl"

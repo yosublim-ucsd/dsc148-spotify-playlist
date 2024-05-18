@@ -1,12 +1,12 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 51851,
+  "num_followers": 51961,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj6FYQAAAABxkuCTb6kwB1MrnlDZx2IF",
+  "snapshot_id": "ZkbWQAAAAAAGthrIuW4IbLRHah/CtNCn",
   "tracks": [
     {
       "added_at": "2024-04-19 04:01:00",
@@ -25,24 +25,28 @@
       "url": "https://open.spotify.com/track/7qmPqpOy2m1kmd0u9GNYar"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Happy Mother's Day",
-        "url": "https://open.spotify.com/album/4aTeiPbvmZx2R4yujqvQTA"
+        "name": "My Daddy",
+        "url": "https://open.spotify.com/album/5lrShGJjQB54FR9vSB1vNR"
       },
       "artists": [
         {
-          "name": "Doggyland",
-          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        },
+        {
+          "name": "VanVan",
+          "url": "https://open.spotify.com/artist/3WxOjk5szKnKRX6uGSTJnl"
         }
       ],
-      "duration_ms": 113142,
-      "name": "Happy Mother's Day",
-      "url": "https://open.spotify.com/track/2kUaQyzvr3N406Ve62qtKM"
+      "duration_ms": 162528,
+      "name": "My Daddy",
+      "url": "https://open.spotify.com/track/62PMIjZwq8LjFJqjb5KRDG"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -67,6 +71,26 @@
       "duration_ms": 123870,
       "name": "Contradict - Hip Hop Remix",
       "url": "https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Happy Mother's Day",
+        "url": "https://open.spotify.com/album/4aTeiPbvmZx2R4yujqvQTA"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "Happy Mother's Day",
+      "url": "https://open.spotify.com/track/2kUaQyzvr3N406Ve62qtKM"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -771,26 +795,6 @@
       "duration_ms": 211500,
       "name": "The Brain Song",
       "url": "https://open.spotify.com/track/3WKp2G9XxEoUqXB64UR0qV"
-    },
-    {
-      "added_at": "2024-01-30 16:42:16",
-      "album": {
-        "name": "That's My Sista",
-        "url": "https://open.spotify.com/album/3peZixM4ePxajKAgpBu0Gl"
-      },
-      "artists": [
-        {
-          "name": "Grey Skye Evans",
-          "url": "https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP"
-        },
-        {
-          "name": "Phoenix Evans",
-          "url": "https://open.spotify.com/artist/5gWQvDnZuBRtqjTN7sypED"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "That's My Sista",
-      "url": "https://open.spotify.com/track/6A4NGHgNxyihpSWI2Euf7f"
     },
     {
       "added_at": "2024-01-30 16:42:16",

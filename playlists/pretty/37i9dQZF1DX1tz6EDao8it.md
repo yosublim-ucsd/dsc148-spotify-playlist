@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,289 likes - 82 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,540 likes - 82 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 54 | [Mia & Sebastian’s Theme](https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:38 |
 | 55 | [Flying Theme \(From "E.T\. the Extra\-Terrestrial"\)](https://open.spotify.com/track/4J9mulgiRlkkgdAONNVGQv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [John Williams \- Greatest Hits 1969\-1999](https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF) | 3:42 |
 | 56 | [A Little Chaos](https://open.spotify.com/track/0cKJ9VKdpwPA0MryV8K0vq) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [A Little Chaos \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JJeRNz4Qu3YJ4JNevYQjW) | 5:37 |
-| 57 | [Harry's Wondrous World](https://open.spotify.com/track/4lg0h4AJhPMxbO3VMpbUqS) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:21 |
+| 57 | [Harry's Wondrous World \- Extended Version](https://open.spotify.com/track/4lg0h4AJhPMxbO3VMpbUqS) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:21 |
 | 58 | [First Class](https://open.spotify.com/track/5IWmdl33NNTLsKlLT6WSlh) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [X\-MEN: FIRST CLASS](https://open.spotify.com/album/14jwLvbmFd60gtCScp5pcc) | 3:20 |
 | 59 | [Iron Man 3](https://open.spotify.com/track/7u5XBHnht6dyoRXRBb5soK) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Iron Man 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi) | 2:23 |
 | 60 | [My Name Is Lincoln](https://open.spotify.com/track/24V9V4erGgsbLeSa7tlimK) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [The Island \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0KRdwpsJJjZXq5spIpVXse) | 3:42 |

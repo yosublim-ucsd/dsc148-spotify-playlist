@@ -8879,6 +8879,24 @@
     },
     {
       "album": {
+        "name": "Zin In De Zomer Man",
+        "url": "https://open.spotify.com/album/6Gkcya6VzCPstK4IcPBoiv"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117293,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6vIdMFb41Jdej53GSNPlQs"
+    },
+    {
+      "album": {
         "name": "Weg Van Hier (feat. Masri)",
         "url": "https://open.spotify.com/album/6faJaISL9OPyKU689w7A4z"
       },

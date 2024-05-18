@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,517 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,562 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 56 | [NO DA MÁS](https://open.spotify.com/track/7jDYmAWdghEWmQyqwLpriE) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:48 |
 | 57 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
 | 58 | [Querer Querernos](https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Querer Querernos](https://open.spotify.com/album/7xTUjhiCQyxFFUDHDNcW29) | 4:00 |
-| 59 | [Ya no me duele :,\)](https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU) | [Bauti Mascia](https://open.spotify.com/artist/5pjXKc4m6KhC8llo0yrSel), [Cele Arrabal](https://open.spotify.com/artist/2phFcjxtifonPDBzCdxR9b) | [Ya no me duele :,\)](https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp) | 2:37 |
+| 59 | [Ya no me duele :,\)](https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Cele Arrabal](https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl) | [Ya no me duele :,\)](https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp) | 2:37 |
 | 60 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 61 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 62 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |

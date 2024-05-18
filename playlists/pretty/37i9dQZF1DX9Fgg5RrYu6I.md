@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 
 > Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 858 likes - 35 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 932 likes - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love You More Gradually](https://open.spotify.com/track/4YjN87vGnvk8NjRLHH35bf) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 1 \- Love You More Gradually](https://open.spotify.com/album/36OubHgX5BMBWAFPA5CeBj) | 3:57 |
-| 2 | [Love You More Gradually \- Instrumental](https://open.spotify.com/track/0OKxlebSqt0MYBeWUBpJJp) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 1 \- Love You More Gradually](https://open.spotify.com/album/36OubHgX5BMBWAFPA5CeBj) | 3:57 |
+| 1 | [Stay By My Side](https://open.spotify.com/track/00KKGGoRlVzfpynN7gUdh5) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 2 \- Stay By My Side](https://open.spotify.com/album/3GadMHEuq7T1GicyzIo1KJ) | 3:53 |
+| 2 | [Love You More Gradually](https://open.spotify.com/track/4YjN87vGnvk8NjRLHH35bf) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 1 \- Love You More Gradually](https://open.spotify.com/album/36OubHgX5BMBWAFPA5CeBj) | 3:57 |
 | 3 | [Curated by SUHO](https://open.spotify.com/track/3AD6K28bqzcbTUEQiOJhEo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince Audio Liners](https://open.spotify.com/album/3YJ1MtRCQ2YdDPY5QJxQwG) | 0:20 |
 | 4 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 5 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
@@ -43,5 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 | 33 | [Don't be afraid to fall](https://open.spotify.com/track/2Wr6kLaSkUfgffOQ7nuMgr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Don't be afraid to fall](https://open.spotify.com/album/7erkiZzC03oPSYS7idGDDc) | 3:31 |
 | 34 | [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 |
 | 35 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 |
+| 36 | [Stay By My Side \- Instrumental](https://open.spotify.com/track/1jTpKfF8rfSv4LBa3BABlH) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 2 \- Stay By My Side](https://open.spotify.com/album/3GadMHEuq7T1GicyzIo1KJ) | 3:53 |
+| 37 | [Love You More Gradually \- Instrumental](https://open.spotify.com/track/0OKxlebSqt0MYBeWUBpJJp) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 1 \- Love You More Gradually](https://open.spotify.com/album/36OubHgX5BMBWAFPA5CeBj) | 3:57 |
 
-Snapshot ID: `Zjn0/wAAAAD81+b5A+hNrFavHLa33MSZ`
+Snapshot ID: `ZkbEAgAAAABIeGnV1L8JYQpnlABMF6HW`

@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 208546,
       "name": "And Yet - Gold Panda Remix",
       "url": "https://open.spotify.com/track/54g5CPCX4cJIAqNnS772pR"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 321180,
       "name": "Butter Notes",
       "url": "https://open.spotify.com/track/3qZUzzUxVuU96DtYPOjBb8"
@@ -711,6 +711,32 @@
     },
     {
       "album": {
+        "name": "Mimose (Deluxe)",
+        "url": "https://open.spotify.com/album/21e4O4CzRQgo5HnmCryTjZ"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        },
+        {
+          "name": "A Song For You",
+          "url": "https://open.spotify.com/artist/4P3LplvLge34bs0R6bQ7kP"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231215,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4cnyfBK4kHLeu0qL4mc6K5"
+    },
+    {
+      "album": {
         "name": "Hold On To You (Ryan Davis Revisit)",
         "url": "https://open.spotify.com/album/1b0ZUmsLKfYcgEyNOVbxof"
       },
@@ -734,6 +760,28 @@
       "duration_ms": 280101,
       "name": "Hold On To You - Ryan Davis Revisit",
       "url": "https://open.spotify.com/track/1qgnqE3a6314MTYyiq2hLr"
+    },
+    {
+      "album": {
+        "name": "Holding Me Back (The Kite String Tangle's Stripped Back Version)",
+        "url": "https://open.spotify.com/album/10C4tAgChwZLtQ04Fd5nja"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "Holding Me Back - The Kite String Tangle's Stripped Back Version",
+      "url": "https://open.spotify.com/track/1uAqwBlyVpdusW9Y4drUex"
     },
     {
       "album": {

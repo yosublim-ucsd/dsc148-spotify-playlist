@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,082 likes - 259 songs - 18 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,422 likes - 259 songs - 18 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 38 | [Lifetime \- KASSIN Remix](https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs), [KASSIN](https://open.spotify.com/artist/43U47RCO85AIb75zzIypfl) | [Lifetime \(KASSIN Remix\)](https://open.spotify.com/album/40VYumgeItn0xMNP5pp1eM) | 5:21 |
 | 39 | [Wanene](https://open.spotify.com/track/7oBrpeglkaAJty20Bmd3RQ) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Wanene](https://open.spotify.com/album/03GZrn26w0yu7IptsN4esU) | 3:33 |
 | 40 | [We Groovin \(with Jazzy\) \- Sparrow & Barbossa Remix](https://open.spotify.com/track/6w3v8zxaZpqN0kWE9Tv6YA) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [We Groovin \(with Jazzy\) \[Sparrow & Barbossa Remix\]](https://open.spotify.com/album/10XYhrgunkuZoQGSVPkZng) | 5:14 |
-| 41 | [Temperatura](https://open.spotify.com/track/6NAvV0Ckzf27Z2txhvuDDH) | [Andor Gabriel](https://open.spotify.com/artist/6tMBXq9rjwmGENxvoFSvzc), [Jerome Sydor](https://open.spotify.com/artist/0E3HjlGFMLxIpuhUfcG2lB) | [Temperatura](https://open.spotify.com/album/4m5ZmkdolKY6oH5R1s4gjS) | 3:48 |
+| 41 | [Temperatura](https://open.spotify.com/track/6NAvV0Ckzf27Z2txhvuDDH) | [Andor Gabriel](https://open.spotify.com/artist/6tMBXq9rjwmGENxvoFSvzc), [Jerome Sydor](https://open.spotify.com/artist/2pkf9r1fZ6BBgmoYhbVuFX) | [Temperatura](https://open.spotify.com/album/4m5ZmkdolKY6oH5R1s4gjS) | 3:48 |
 | 42 | [Born In Blue](https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Born In Blue](https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v) | 4:50 |
 | 43 | [Good Times](https://open.spotify.com/track/0CXs85WxeFgxLOOnmYGoAk) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Good Times](https://open.spotify.com/album/5NzBt1gMEkDAs3MlZMgHur) | 3:09 |
 | 44 | [Corpo e Canção \- Club Mix](https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Corpo e Canção \(Club Mix\)](https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD) | 4:35 |

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,619 songs - 4 day 15 hr 22 min
+1,620 songs - 4 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1367,6 +1367,7 @@
 | [Sunrise \(feat\. Madeline Megery\)](https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Madeline Megery](https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD) | [Moonlight](https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka) | 5:13 | 2024-02-23 |  |
 | [Sunset](https://open.spotify.com/track/5jUgFofZJCuSQjcYao0VMv) | [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz), [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E) | [Sunset](https://open.spotify.com/album/7BbXUY8gAHmyZJsVSXfhWR) | 3:19 | 2020-05-18 | 2020-07-03 |
 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 | 2020-05-18 | 2020-07-03 |
+| [Sunshine](https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Sunshine](https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc) | 4:27 | 2024-05-10 |  |
 | [surface](https://open.spotify.com/track/7GTtEE6EgRb7yI0BEGKZfS) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 6:02 | 2020-05-18 | 2020-07-03 |
 | [Survive](https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:02 | 2022-01-21 | 2023-09-09 |
 | [Survive](https://open.spotify.com/track/4SF6dFWZbsFcXUWdsIbvVb) | [Tavi Castro](https://open.spotify.com/artist/2Zvn8gcaucDuMsjgw9o7SY) | [Survive](https://open.spotify.com/album/3r0vt6cglwblpadR2LZ6SY) | 3:20 | 2020-05-22 | 2020-07-03 |
@@ -1438,7 +1439,7 @@
 | [The Way Out](https://open.spotify.com/track/7DrM4PoqFErZ2sUvV4mb8e) | [Hawksburn](https://open.spotify.com/artist/6eiGCb98KUVK1tm0WaCHV7) | [The Way Out EP](https://open.spotify.com/album/1uEG5vFxCrDS9R6MYwUuDE) | 3:30 | 2020-03-22 | 2021-12-21 |
 | [The Whistle Song \- Re\-Directed](https://open.spotify.com/track/6wD0LWjn3WZMdLqatEc5vM) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Director's Cut](https://open.spotify.com/artist/0sgCVo8Q7D7zCPZL3TytL0), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [The Director's Cut Collection](https://open.spotify.com/album/3xVeHKUy4HEdFOH96MeCiG) | 7:57 | 2020-06-12 | 2020-10-09 |
 | [The Wind And The Sea](https://open.spotify.com/track/4gO6QBkKGssMiqaxzzhmhs) | [Shumi](https://open.spotify.com/artist/7JMxVt0726Mmy4rXcSzAEz) | [Jump For Joy](https://open.spotify.com/album/0CVTULUZNbNtThDuLsKh32) | 7:34 | 2020-02-29\* | 2020-03-16 |
-| [The Woods \- The Kite String Tangle Remix](https://open.spotify.com/track/7zzkfz6RDlOvbYP39p9JP7) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [The Woods \(The Kite String Tangle Remix\)](https://open.spotify.com/album/79Qp0naxcBtsNeti5P2gNg) | 3:51 | 2024-04-19 |  |
+| [The Woods \- The Kite String Tangle Remix](https://open.spotify.com/track/7zzkfz6RDlOvbYP39p9JP7) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [The Woods \(The Kite String Tangle Remix\)](https://open.spotify.com/album/79Qp0naxcBtsNeti5P2gNg) | 3:51 | 2024-04-19 | 2024-05-18 |
 | [Therapy \- Sebastian Davidson Remix](https://open.spotify.com/track/5a2TuGiWm27kRcfg9rxn2d) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n), [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Therapy \(Sebastian Davidson Remix\)](https://open.spotify.com/album/28Bxiu1DfHwb1d5wlzZ1On) | 3:24 | 2020-05-18 | 2020-10-10 |
 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 | 2021-07-23 | 2024-02-06 |
 | [Thief](https://open.spotify.com/track/5FjMM1DCJ5q8HOqRlOVId4) | [Nick AM](https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe) | [Utopia](https://open.spotify.com/album/3JFjDW9hgB5sGdCdsXBwR5) | 3:34 | 2020-05-18 | 2020-10-09 |

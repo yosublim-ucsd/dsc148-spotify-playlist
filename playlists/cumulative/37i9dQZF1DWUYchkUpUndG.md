@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=OjrIFgLtRMm0JUQc8leOKQ>Gaise Baba</a>
 
-2,672 songs - 8 day 1 hr 37 min
+2,674 songs - 8 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Dike N'Ogu \- Mighty Warrior](https://open.spotify.com/track/7a6rx1QYeHRzbe8CoKozfD) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Dike N'Ogu \(Mighty Warrior\)](https://open.spotify.com/album/68mQ6UpHUJYlyuEPaWkfMU) | 6:33 | 2023-07-21 | 2023-08-04 |
 | [Diklo Loka](https://open.spotify.com/track/1iy8po6NzIJNY1LoGQAUyL) | [Intruda Txid](https://open.spotify.com/artist/5LbHRFGGITpNTCwMMBCMd8) | [Diklo Loka](https://open.spotify.com/album/1eAVFCiVMrfamr3raiC8KD) | 2:53 | 2023-07-21 | 2023-08-04 |
 | [Dilemma](https://open.spotify.com/track/4fvCA7C7o5uS4aSXzGmHhu) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [Dilemma](https://open.spotify.com/album/6FNSghEW2NAxs8cfC8Mo6z) | 3:07 | 2024-05-10 | 2024-05-17 |
+| [dilemma\(do you wanna go?\)](https://open.spotify.com/track/0u7Ewmb6XBz0ZWrDdnJsMk) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [dilemma\(do you wanna go?\)](https://open.spotify.com/album/7LCNYFmt0hNsqauIKzKKWe) | 3:07 | 2024-05-17 |  |
 | [Dis net genade](https://open.spotify.com/track/42urV2zj1oB3PvUReuRs8g) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Dis net genade](https://open.spotify.com/album/2nol1nx1I6vJLA2FT9ADGs) | 3:49 | 2023-10-13 | 2023-10-27 |
 | [Dis Tyd](https://open.spotify.com/track/1RY9byFcHUR8gu93AUL9ty) | [Arnold de Wet](https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn) | [Dis Tyd](https://open.spotify.com/album/3d6YMz07UHWzKVX7oSxhwD) | 3:29 | 2024-04-05 | 2024-04-19 |
 | [Disponible](https://open.spotify.com/track/6ufnUaRtAuDSPieBF6E7Js) | [Mynda Aleeza](https://open.spotify.com/artist/6FTkzSqzuMJkS0PPP0Zm89) | [Disponible](https://open.spotify.com/album/5V2oRu0naBaetiWZ84X0pl) | 3:35 | 2023-12-15 | 2023-12-30 |
@@ -2587,6 +2588,7 @@
 | [Yeshua Hamashiach](https://open.spotify.com/track/0RCTTMB3ch0inE2dljbC2a) | [Emmanuel Joshua](https://open.spotify.com/artist/7nA1HRjapJ3Har96k8HWDo) | [Yeshua Hamashiach](https://open.spotify.com/album/6mAe30P9V7yT6WXUJtf73B) | 4:33 | 2023-12-15 | 2023-12-30 |
 | [Yesu \(Jesus\)](https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Guya](https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH) | [Yesu \(Jesus\)](https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI) | 3:55 | 2023-09-08 | 2023-09-22 |
 | [YESU MASOYI NA \- Refix](https://open.spotify.com/track/5hUwhSElpCFjX92yEHCrrE) | [Solomon Lange](https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN) | [WORSHIP](https://open.spotify.com/album/7N10ucaWHmmAEggq97sTgT) | 4:21 | 2023-08-25 | 2023-09-08 |
+| [Yesu Nkoaa](https://open.spotify.com/track/30kX9nNwgLu2LZxkYuXAo9) | [ADOMcwesi](https://open.spotify.com/artist/6oMtaa5l0WEAVZRx2rSH0L), [Becky Bonney](https://open.spotify.com/artist/4jVaD2KjMZuppAyn3bj4jm) | [Yesu Nkoaa](https://open.spotify.com/album/7bGiypxhAHtK1b61EXxCCZ) | 5:39 | 2024-05-17 |  |
 | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N), [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb) | 5:50 | 2023-10-06 | 2023-10-20 |
 | [Yeye O \- The love affair](https://open.spotify.com/track/5czMBrUNMrezwGZICx0bgs) | [Minstrel T\-Philz](https://open.spotify.com/artist/3gdHH0lor8i0c47R6lMrSL), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [Yeye O \(The love affair\)](https://open.spotify.com/album/01WQ3ZQybnxBWlQdeglbwC) | 9:04 | 2023-07-14 | 2023-07-28 |
 | [YHWH](https://open.spotify.com/track/58C3WIoLq3sEDg1KUcrbPM) | [Chinedu Ndubueze](https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr) | [YHWH](https://open.spotify.com/album/5B2Eqz0okrUaUCOc67KCdx) | 11:34 | 2023-09-01 | 2023-09-15 |

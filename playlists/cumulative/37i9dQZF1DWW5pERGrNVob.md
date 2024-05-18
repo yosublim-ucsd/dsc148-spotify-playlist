@@ -4,7 +4,7 @@
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-128 songs - 7 hr 20 min
+129 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Egotistic](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [RED MOON](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) | 3:16 | 2022-04-28 |  |
 | [Egotistic \(Blistering sun ver.\)](https://open.spotify.com/track/2kBaZ1oHXgPhpWe30gIv2z) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:31 | 2022-04-28 |  |
 | [For Me](https://open.spotify.com/track/1M3FXW2uFBhO2BfphX0ozo) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:38 | 2022-04-28 |  |
+| [Frankly Speaking](https://open.spotify.com/track/6qVOc7IG3cbSv1WJZNySrS) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6lzuaZYLkfViHxOypwKZbg) | 3:15 | 2024-05-17 |  |
 | [G999 \(Feat\. Mirani\)](https://open.spotify.com/track/5ZOS622xElEIE8VmkwNfcP) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [G999 \(Feat\. Mirani\)](https://open.spotify.com/album/4uP0OrnX0GKO4EJIbVzu5a) | 3:04 | 2022-04-28 |  |
 | [GGBB](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 3:05 | 2023-04-03 |  |
 | [Gleam](https://open.spotify.com/track/0Nrton8zP9yzBMCnV5RGe5) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/3JxtyETqNUQ63Ze97GCi5s) | 3:04 | 2022-04-28 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Ryan Castro y Arc\u00e1ngel.",
+  "description": "Perreando toda la noche con El Malilla, Yeyo, Jowell & Randy.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -433,7 +433,7 @@
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 184760,
+      "duration_ms": 185006,
       "name": "A Toda Hora",
       "url": "https://open.spotify.com/track/5sU4baPrB44oGLqyzZvLw4"
     },
@@ -1001,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "APAGA EL CEL",
+        "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184806,
+      "name": "APAGA EL CEL",
+      "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
+    },
+    {
+      "album": {
         "name": "Apaga el celular",
         "url": "https://open.spotify.com/album/5QhzTFMPQkWiYHVXEBU0dl"
       },
@@ -1192,6 +1214,36 @@
       "duration_ms": 163971,
       "name": "Av\u00edsame",
       "url": "https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ"
+    },
+    {
+      "album": {
+        "name": "B de Bellako (Remix)",
+        "url": "https://open.spotify.com/album/3H3teYMly8Jvd2jVKsd1R3"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197602,
+      "name": "B de Bellako - Remix",
+      "url": "https://open.spotify.com/track/21cBIFpuYb5IEOm1BltCk3"
     },
     {
       "album": {
@@ -4210,7 +4262,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 178695,
       "name": "Delaito",
       "url": "https://open.spotify.com/track/3jl6vE6D1037Se9ht9ivcP"
@@ -6551,6 +6603,28 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131853,
+      "name": "GATITAS SANDUNGUERAS VOL.1",
+      "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
+    },
+    {
+      "album": {
         "name": "Gato de Noche",
         "url": "https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH"
       },
@@ -7490,7 +7564,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 190920,
       "name": "Katana",
       "url": "https://open.spotify.com/track/2Vw9Yf5TUe4gtNVuSPGzTg"
@@ -8245,6 +8319,36 @@
     },
     {
       "album": {
+        "name": "Los Sentimientos De un Robot",
+        "url": "https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263183,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/5wslflNJXn11yXV5qtAmUh"
+    },
+    {
+      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2KcbwgVZYmXv6Zh0hpY12y"
       },
@@ -8620,6 +8724,32 @@
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
+    },
+    {
+      "album": {
+        "name": "Los Sentimientos De un Robot",
+        "url": "https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185147,
+      "name": "Llama A Tu Amiga",
+      "url": "https://open.spotify.com/track/5L0S2sqDuxJHeVHELGOavy"
     },
     {
       "album": {
@@ -9410,7 +9540,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 178581,
       "name": "Mamita Rica",
       "url": "https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE"
@@ -10444,7 +10574,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 151710,
       "name": "Modo Avion",
       "url": "https://open.spotify.com/track/3J4o53SjMVc005uHVNS17q"
@@ -11034,7 +11164,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 230000,
       "name": "No Quiero Na",
       "url": "https://open.spotify.com/track/6pxh9erPtsi6RA5WxeACR6"
@@ -11867,6 +11997,32 @@
     },
     {
       "album": {
+        "name": "PAL LIO (with Kidd Voodoo & Distobal)",
+        "url": "https://open.spotify.com/album/5RRShacxeExVontZRiusrU"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Distobal",
+          "url": "https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186893,
+      "name": "PAL LIO (with Kidd Voodoo & Distobal)",
+      "url": "https://open.spotify.com/track/6z8suCGMfwkO1n7DiySPac"
+    },
+    {
+      "album": {
         "name": "Paleta",
         "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
       },
@@ -12506,6 +12662,28 @@
       "duration_ms": 204633,
       "name": "Perreo 101",
       "url": "https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh"
+    },
+    {
+      "album": {
+        "name": "Perreo Belic\u00f3n",
+        "url": "https://open.spotify.com/album/15cVzonpyY9j8XBgKXgTzg"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168936,
+      "name": "Perreo Belic\u00f3n",
+      "url": "https://open.spotify.com/track/7soEoYA51AXhXBn8rsalzG"
     },
     {
       "album": {
@@ -13434,7 +13612,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 135319,
       "name": "P\u00f3rtate Mal",
       "url": "https://open.spotify.com/track/3SyHka4ECN3LWJvzrziAU3"
@@ -17602,7 +17780,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 193897,
       "name": "Young Miko",
       "url": "https://open.spotify.com/track/5pwBoFOwo1dYEePY10RwF0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover, el pibe de oro 💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,772 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,933 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 3 | [FULL FULL](https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [FULL FULL](https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9) | 1:51 |
 | 4 | [SARÒ CON TE \(feat\. Lele Blade, Vale Lambo, MV Killa, Yung Snapp\) \- Original Soundtrack](https://open.spotify.com/track/0W7yvrUlkhdFvKB4KMxqS7) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [SARÒ CON TE \(feat\. Lele Blade, Vale Lambo, MV Killa, Yung Snapp\) \[Original Soundtrack\]](https://open.spotify.com/album/1qBNICgMGzv5TavnDPAeFu) | 4:33 |
 | 5 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 |
-| 6 | [Int 'o rione](https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:26 |
+| 6 | [Int 'o rione](https://open.spotify.com/track/0SbPMAgqOh6hi0xLa5gD8C) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe'mme](https://open.spotify.com/album/5MBHrsqGDt3aEMPvTcuvHt) | 4:27 |
 | 7 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 |
 | 8 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 |
 | 9 | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX) | 3:54 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 17 | [MVP](https://open.spotify.com/track/0Nojgk52ObYMvHlPQ4wq37) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [MVP](https://open.spotify.com/album/0lJMVcHNpeGzKGTAytrCqP) | 2:10 |
 | 18 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 |
 | 19 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 |
-| 20 | [Quanno me ne so juto](https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Vita bona](https://open.spotify.com/album/59LESgxshdM9gDepqGWBol) | 4:19 |
+| 20 | [Quanno me ne so juto](https://open.spotify.com/track/0Hi6vdLz9l1yBDHg3CPaCL) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Vita bona](https://open.spotify.com/album/0dzCyDqy3dTwfYkNflwTXL) | 4:19 |
 | 21 | [PACTO](https://open.spotify.com/track/1iYAxtlitQm6FNRH2HkIln) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [PACTO](https://open.spotify.com/album/69PGHUPMp7FPMND7IMZKnm) | 2:01 |
 | 22 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 |
 | 23 | [ME VULEV FA RUOSS](https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [NOS](https://open.spotify.com/track/49MbsYIMv1p6Gw6qP7As7S) | [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [NOS](https://open.spotify.com/album/7N3gZ68f2Go0WOEvwGAAWw) | 2:15 |
 | 50 | [Clan](https://open.spotify.com/track/6QLgitotQswNLzxrT6Jsg2) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Caracas](https://open.spotify.com/album/75FipnzFVtAJ3gPeD42ufI) | 2:05 |
 
-Snapshot ID: `ZkaCHAAAAADQDHek9vyUhV4A0LrN74pw`
+Snapshot ID: `ZkdLnAAAAACcbXa9+ALidob+ffPPYMVd`

@@ -1,13 +1,29 @@
 {
-  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Aluna",
-  "num_followers": 78575,
+  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Elkka ",
+  "num_followers": 78597,
   "original_name": "Women of Electronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2bwAAAAAA7cjxquGYzot/zlwgp2EEp",
+  "snapshot_id": "ZkbWQAAAAABz30TnMzzxE4jPlWRmK1DA",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 229945,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ"
+    },
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
@@ -41,6 +57,38 @@
       "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
     },
     {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Darkroom",
+        "url": "https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Sweet Devotion",
@@ -61,6 +109,22 @@
       "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
     },
     {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Better Days",
@@ -77,24 +141,40 @@
       "url": "https://open.spotify.com/track/6xmMBY754l7guTzNokbzos"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Some Type Of Skin",
-        "url": "https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi"
+        "name": "girl EDM",
+        "url": "https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         },
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
         }
       ],
-      "duration_ms": 204693,
-      "name": "Some Type Of Skin - Sofia Kourtesis Remix",
-      "url": "https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7"
+      "duration_ms": 203346,
+      "name": "Ice u out",
+      "url": "https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 198870,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/297in4fZqWvilokR586DlB"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -145,6 +225,170 @@
       "url": "https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4"
     },
     {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1eYJ0RQFxvFdUJfMExvTnJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "BET",
+        "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "duration_ms": 198671,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Catch The Beat",
+        "url": "https://open.spotify.com/album/0rstS3E9siJrxqATOMR2Wu"
+      },
+      "artists": [
+        {
+          "name": "GUINNY",
+          "url": "https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "Catch The Beat",
+      "url": "https://open.spotify.com/track/5xJ6K23ELhgOd6YHeFam9m"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/0GEED4RZAQFAg79028tIMD"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 212463,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2aNRjrS7mKjfCORWEAfTFk"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/3NAuFVoDYWtDklzfrxsd0I"
+      },
+      "artists": [
+        {
+          "name": "THELMA",
+          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "She's A Baddie",
+      "url": "https://open.spotify.com/track/0LhTTAqZPyEb9i0p45Sp0U"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Wasting Time (til the end of the world)",
+        "url": "https://open.spotify.com/album/6sboIBpmkpAi63ZuZxHDAB"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 180484,
+      "name": "Wasting Time (til the end of the world)",
+      "url": "https://open.spotify.com/track/7c22mnTVTFtAGXjHRaj5Fh"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Shiny New Thing",
+        "url": "https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "duration_ms": 158170,
+      "name": "Shiny New Thing",
+      "url": "https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Some Type Of Skin - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Legacy",
@@ -191,86 +435,6 @@
       "duration_ms": 169275,
       "name": "Embers",
       "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/0GEED4RZAQFAg79028tIMD"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 212463,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2aNRjrS7mKjfCORWEAfTFk"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Wasting Time (til the end of the world)",
-        "url": "https://open.spotify.com/album/6sboIBpmkpAi63ZuZxHDAB"
-      },
-      "artists": [
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 180484,
-      "name": "Wasting Time (til the end of the world)",
-      "url": "https://open.spotify.com/track/7c22mnTVTFtAGXjHRaj5Fh"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "BET",
-        "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
-      },
-      "artists": [
-        {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
-        }
-      ],
-      "duration_ms": 198671,
-      "name": "BET",
-      "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "360",
-        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -831,38 +995,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Right Spot",
-        "url": "https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 170629,
-      "name": "Right Spot",
-      "url": "https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/3tzAwMMF99SeLuz4hND1T8"
-      },
-      "artists": [
-        {
-          "name": "THELMA",
-          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
-        }
-      ],
-      "duration_ms": 337033,
-      "name": "What We Live For",
-      "url": "https://open.spotify.com/track/18K9abEONMttU0sx38Phun"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Shooting Star (Extended Mix)",
         "url": "https://open.spotify.com/album/7IBuKJSl4Wba7BdrTDVOYB"
       },
@@ -923,22 +1055,6 @@
       "duration_ms": 172389,
       "name": "Crowded Roomz",
       "url": "https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "I Go Dance",
-        "url": "https://open.spotify.com/album/455CmcER7FNeMwmpN4ND4n"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 176473,
-      "name": "I Go Dance",
-      "url": "https://open.spotify.com/track/5YdMBvsr5rLpgi5euODejU"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1051,38 +1167,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Intergalactic Sitdown",
-        "url": "https://open.spotify.com/album/3LoFgU9NAEJTOmtfMGLRxh"
-      },
-      "artists": [
-        {
-          "name": "Luzi Tudor",
-          "url": "https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd"
-        }
-      ],
-      "duration_ms": 396326,
-      "name": "Intergalactic Sitdown",
-      "url": "https://open.spotify.com/track/4JoCdrZ7cMCTPKAxL1hvNJ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "SUCK",
-        "url": "https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "SUCK",
-      "url": "https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "RUMBLE IN THE DISCO",
         "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
       },
@@ -1111,22 +1195,6 @@
       "duration_ms": 144374,
       "name": "Dancing With My Boyz",
       "url": "https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1uFRgQcbquXq6HuKET5PvT"
-      },
-      "artists": [
-        {
-          "name": "Jesabel",
-          "url": "https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/53aYQUlqd18aIZRKiI673A"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1203,38 +1271,6 @@
       "duration_ms": 197128,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/07H6zHibXp6CkzTiRoc5Nh"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Mothearth",
-        "url": "https://open.spotify.com/album/1xl2husfsmtDRLATtpiIto"
-      },
-      "artists": [
-        {
-          "name": "Anetha",
-          "url": "https://open.spotify.com/artist/7sJ3ngSMvvXGdVLnODPqXa"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Whistleblower",
-      "url": "https://open.spotify.com/track/0ng3SNNggu5wRukKK9ByV0"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "TWINSOUL",
-        "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 215417,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1347,22 +1383,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Whispers",
-        "url": "https://open.spotify.com/album/1uub1O2WZ95A7vV5IdnDpU"
-      },
-      "artists": [
-        {
-          "name": "Khira Li",
-          "url": "https://open.spotify.com/artist/3bek8rwCEzQExpuy8RXRYS"
-        }
-      ],
-      "duration_ms": 197285,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/5PqAPfjhNfDoTrjtrPRZXe"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy"
       },
@@ -1443,22 +1463,6 @@
       "duration_ms": 209345,
       "name": "Giving You",
       "url": "https://open.spotify.com/track/5QcKkO89PDQH50Mh7W4pSr"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "The Cycle",
-        "url": "https://open.spotify.com/album/5OVbv5PBbJ97x5sWqcg3eF"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        }
-      ],
-      "duration_ms": 224428,
-      "name": "The Cycle",
-      "url": "https://open.spotify.com/track/768m6Ckgon2o15cceVVuuV"
     },
     {
       "added_at": "2024-04-19 04:00:00",

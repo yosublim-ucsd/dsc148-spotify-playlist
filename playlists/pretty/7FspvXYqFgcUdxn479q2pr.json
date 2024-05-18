@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: JEV",
-  "num_followers": 32496,
+  "num_followers": 32501,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAqfXuVMvqop+r2qqwenzn6C2A8+UhN",
+  "snapshot_id": "AAAqgiEpu30Q2j+746P0Ck/kL7s3y+p8",
   "tracks": [
     {
       "added_at": "2024-05-16 23:35:50",
@@ -187,6 +187,94 @@
       "duration_ms": 213230,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6"
+    },
+    {
+      "added_at": "2024-05-17 14:37:22",
+      "album": {
+        "name": "Make U Hot (feat. Movada)",
+        "url": "https://open.spotify.com/album/4P4ubB506bj9dklmUTEVhg"
+      },
+      "artists": [
+        {
+          "name": "Jae Depz",
+          "url": "https://open.spotify.com/artist/5xWgP0ZcYlUCk7NcYmt6Am"
+        },
+        {
+          "name": "Movada",
+          "url": "https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Make U Hot (feat. Movada)",
+      "url": "https://open.spotify.com/track/5LHFtRi5mnh2utyqPxfHJ5"
+    },
+    {
+      "added_at": "2024-05-17 14:44:39",
+      "album": {
+        "name": "Go Back (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Go Back (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
+    },
+    {
+      "added_at": "2024-05-17 15:02:23",
+      "album": {
+        "name": "Northern Rhythm",
+        "url": "https://open.spotify.com/album/2YXgma0zulEI2l8BGlfCZe"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 207515,
+      "name": "Northern Rhythm",
+      "url": "https://open.spotify.com/track/2IgNL5Q4nA3bBENrY8FKKK"
+    },
+    {
+      "added_at": "2024-05-17 15:05:34",
+      "album": {
+        "name": "Sad Love (feat. JAIKO)",
+        "url": "https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03"
+      },
+      "artists": [
+        {
+          "name": "Kayote",
+          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
+        },
+        {
+          "name": "Bastyan",
+          "url": "https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g"
+        },
+        {
+          "name": "JAIKO",
+          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Sad Love (feat. JAIKO)",
+      "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
     }
   ],
   "unique_name": "New Dance Music Friday",

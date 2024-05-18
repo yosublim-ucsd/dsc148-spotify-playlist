@@ -3417,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "Queens",
+        "url": "https://open.spotify.com/album/0iLgPTOT0zXu8owQc7vyDo"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Queens",
+      "url": "https://open.spotify.com/track/0kCh1ZKXHekYP0pAXBaCDv"
+    },
+    {
+      "album": {
         "name": "R.A.V.E.",
         "url": "https://open.spotify.com/album/2sDjn0yWlegGQDvyL486vp"
       },

@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-333 songs - 18 hr 2 min
+334 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Cheers](https://open.spotify.com/track/6ZCAkrXjyPfsRsIZdiFqTX) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/0Wg2bATi2bsehYd23NBqpP) | 2:26 | 2021-12-17 | 2022-07-29 |
 | [Cheers](https://open.spotify.com/track/6aSOOOlwOm9HdvobCda3Er) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/4UuwrpTwXbglkg5CggqnFT) | 2:26 | 2021-12-17 | 2023-10-09 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0277i1AiYItpCxOyxOT7gg) | [Andee](https://open.spotify.com/artist/0NkizteG3ppTHvm5Zh0xcN) | [Tous Ensemble Pour Noël](https://open.spotify.com/album/0MkCu0fwfcUNGYb2vdzHR9) | 2:45 | 2021-12-17 | 2022-07-23 |
-| [Christmas Ain't Enough](https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas Ain't Enough](https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh) | 4:12 | 2021-12-17 |  |
+| [Christmas Ain't Enough](https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas Ain't Enough](https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh) | 4:12 | 2021-12-17 | 2024-05-18 |
 | [Christmas Alone](https://open.spotify.com/track/5bTnCvXkxrVuYa0yclJk5k) | [Skye Wells](https://open.spotify.com/artist/5Uh1ldj8Xk3WcWPKbwo5zJ) | [Christmas Alone](https://open.spotify.com/album/1EzpPcosEWSMJvKQu6UVXc) | 3:49 | 2021-12-17 | 2022-07-22 |
 | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/track/62Pil5FPefGmHVmw5C21ch) | [Jonas](https://open.spotify.com/artist/1ZDG9pBZ3QHj4DFsBHdwKF), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/album/2Sx3z3DBBrQPwfs48FHTcq) | 4:24 | 2021-12-17 | 2023-10-12 |
 | [Christmas Calling \(V.F.\) \(en duo avec Marie\-Mai\)](https://open.spotify.com/track/2pajilVcYtLqZ2AaCUNgjl) | [Jonas](https://open.spotify.com/artist/1ZDG9pBZ3QHj4DFsBHdwKF), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Christmas Calling \(V.F.\) \(en duo avec Marie\-Mai\) \- Single](https://open.spotify.com/album/7EXP9w7Z1mRDWk44MzIgoI) | 4:24 | 2021-12-17 | 2022-07-29 |
@@ -266,6 +266,7 @@
 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 | 2021-12-17 |  |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-12-17 |  |
 | [Parfait Noël](https://open.spotify.com/track/3MLbNzADggPivatXQneiHw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Parfait Noël](https://open.spotify.com/album/75s3hI6IoIHTYEwY2v6P3y) | 4:02 | 2022-11-18 |  |
+| [Petit cadeau](https://open.spotify.com/track/4gSZQiKEJGQYT9o3RUVX6w) | [Les Rats d'Swompe](https://open.spotify.com/artist/0obqXGMsH3EDyfqnbamcb8) | [Pause gorgée ! Vol\. 1](https://open.spotify.com/album/5TpurgIEce2tvv8MprzlDG) | 2:58 | 2023-12-16 |  |
 | [Petit garçon](https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod) | [Les Plus Beaux Noels Du Monde](https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW) | 2:49 | 2021-12-17 |  |
 | [Petit Papa Noël](https://open.spotify.com/track/2x64JCqocawfHsE8u3gsT8) | [Anne Dorval](https://open.spotify.com/artist/4ZRQixH63QoGjJr99a5s0g) | [Trésors de Noël](https://open.spotify.com/album/0ipMElEDtwVT3EUsv4ZqZy) | 3:12 | 2021-12-17 | 2022-07-28 |
 | [Petit Papa Noël](https://open.spotify.com/track/0w2OW2wHawQ08AYBaHlxgL) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Noël](https://open.spotify.com/album/4kqXw1yf9EKamws0zCarGt) | 4:04 | 2021-12-17 | 2022-12-17 |

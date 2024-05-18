@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9021,
+  "num_followers": 9022,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAE6YTG18IXevHkY//jvETZrN20iiqH",
+  "snapshot_id": "AAAE7B5FxFM2YX3dRcir/BaUm1oBlA0K",
   "tracks": [
     {
       "added_at": "2024-05-10 18:18:10",
@@ -397,24 +397,24 @@
       "url": "https://open.spotify.com/track/4TOYAE8zIoTnPGbgLiErwq"
     },
     {
-      "added_at": "2024-04-07 17:14:48",
+      "added_at": "2024-05-17 16:42:22",
       "album": {
-        "name": "Fast Car (Acoustic Live Session)",
-        "url": "https://open.spotify.com/album/36HrHr1wj7tzsryHiUnem2"
+        "name": "Lovely Day (Acoustic Live Session)",
+        "url": "https://open.spotify.com/album/3HDbFrRgCE6MHA4jWXZLDi"
       },
       "artists": [
         {
-          "name": "Jodie Knight",
-          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
+          "name": "Rosie Holloway",
+          "url": "https://open.spotify.com/artist/4eWiocR8XDrooQ0LAMMV3m"
         },
         {
           "name": "STABAL",
           "url": "https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf"
         }
       ],
-      "duration_ms": 201250,
-      "name": "Fast Car - Acoustic Live Session",
-      "url": "https://open.spotify.com/track/14N56qsRV6jOydcjHqN6El"
+      "duration_ms": 167000,
+      "name": "Lovely Day - Acoustic Live Session",
+      "url": "https://open.spotify.com/track/01pPSz0tquPLuIze7UHjsd"
     },
     {
       "added_at": "2019-10-13 06:38:53",
@@ -431,6 +431,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
+    },
+    {
+      "added_at": "2024-05-17 16:40:18",
+      "album": {
+        "name": "You Are Not Alone (Acoustic)",
+        "url": "https://open.spotify.com/album/0Q1migL2N2PEP3nAR57vTy"
+      },
+      "artists": [
+        {
+          "name": "Mateo Oxley",
+          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
+        }
+      ],
+      "duration_ms": 144524,
+      "name": "You Are Not Alone - Acoustic",
+      "url": "https://open.spotify.com/track/4uHUIPYbU9ZFXnPcKYwPRv"
     },
     {
       "added_at": "2024-05-10 20:27:36",

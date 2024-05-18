@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: فهد بن فصلا
 
-233 songs - 15 hr 10 min
+234 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Koul Shya Weleh Nehayah](https://open.spotify.com/track/3V5UpDdPUZdGKSgaaDFKpr) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Koul Shya Weleh Nehayah](https://open.spotify.com/album/6YpmIaqZ9iD4gVVenm6oAE) | 3:49 | 2022-03-30 | 2023-02-23 |
 | [La tadeay Belmahabeh](https://open.spotify.com/track/6LTjugDnOwFFlLy8mfCWJN) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [La tadeay Belmahabeh](https://open.spotify.com/album/3KABKr2xB3xOR6UlTtip5L) | 3:04 | 2023-02-22 | 2023-10-25 |
 | [Le Hosadi](https://open.spotify.com/track/77jg1uFolRcsVD2FUEjHmv) | [Badr Alsheafani](https://open.spotify.com/artist/4dDhTNhkRc5avMooQiihNB) | [Le Hosadi](https://open.spotify.com/album/4cGSE40V1ayfvCeNWYQ992) | 4:42 | 2023-05-12 | 2023-09-02 |
+| [Ma Gelt Lak](https://open.spotify.com/track/6Ppjr2AxQ9bnAJWPD7dgLk) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Ma Gelt Lak](https://open.spotify.com/album/0ZoWLDnO4DKALWQXlKxAmX) | 3:19 | 2024-05-17 |  |
 | [Marhaba Bek](https://open.spotify.com/track/3dHSmw4UKtQkXDb7EQS19Y) | [Fahd Bn Fasla](https://open.spotify.com/artist/7KcsMljHCItOCLGI8BDGZ4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [Marhaba Bek](https://open.spotify.com/album/6vBMUU5OMyieheEZofvPB7) | 4:01 | 2023-04-26 | 2023-05-23 |
 | [Men Doon Ay Mogdmat](https://open.spotify.com/track/49Rug5MOJsNISOC8BH0dod) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [Men Doon Ay Mogdmat](https://open.spotify.com/album/5rOfIU1MqxplPDBdKHcoFP) | 5:08 | 2024-01-11 | 2024-03-01 |
 | [Msahat Alahlam](https://open.spotify.com/track/0CpKjyK98dwLyDuZX68BxD) | [Saleh Alyami](https://open.spotify.com/artist/0EHQN1RzPBV4c1iPv8m5ln) | [Msahat Alahlam](https://open.spotify.com/album/0b3vh1sUThYMn2P21ZLGVQ) | 5:49 | 2023-02-22 | 2023-02-25 |

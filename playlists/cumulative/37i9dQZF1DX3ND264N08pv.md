@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-253 songs - 14 hr 14 min
+254 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Buried Alive](https://open.spotify.com/track/6En1mnKQHujsveLdnkPRon) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Buried Alive](https://open.spotify.com/album/7kH4AAUjyQYDmmCeohXyxa) | 3:15 | 2022-12-08 | 2023-04-14 |
 | [Burn](https://open.spotify.com/track/1RZw5ReZ2prm5qYxia8ANN) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Burn](https://open.spotify.com/album/0MnAzPohStGYOnAODeo205) | 2:50 | 2024-05-02 |  |
 | [Burn MF](https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Burn MF](https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh) | 3:03 | 2022-12-08 | 2023-10-26 |
+| [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 | 2024-05-17 |  |
 | [Cannibal \- Radical Redemption Remix](https://open.spotify.com/track/2DWwikXjYJpQe7sbdjgUQl) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Cannibal \(Radical Redemption Remix\)](https://open.spotify.com/album/0IkDRXg0wntX1zPOlaKDqq) | 3:07 | 2022-12-08 | 2023-10-26 |
 | [Choose Life](https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Choose Life](https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n) | 3:08 | 2023-05-15 | 2024-03-23 |
 | [Coco's Revenge \- Mind Compressor Remix](https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Coco's Revenge \(Mind Compressor Remix\)](https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD) | 3:16 | 2024-05-02 |  |
@@ -188,7 +189,7 @@
 | [PURSUIT](https://open.spotify.com/track/0kBjy2MP0fx0gqHfIDSy23) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Stealth](https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju) | [PURSUIT](https://open.spotify.com/album/4U28LlMnvG8KdHRm05Dodt) | 2:00 | 2023-10-25 |  |
 | [Pussy Lovers \- Gunz Pumping Remix](https://open.spotify.com/track/22ykr4tkk4WINmBZ2r9Zmv) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Pussy Lovers](https://open.spotify.com/album/731nrWHUxC4dfkM6F7PYs6) | 5:12 | 2022-12-08 | 2023-03-07 |
 | [Rave Machine](https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Rave Machine](https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu) | 3:48 | 2022-12-08 | 2023-04-14 |
-| [Raver](https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh) | [Raver](https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W) | 2:12 | 2023-06-15 |  |
+| [Raver](https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh) | [Raver](https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W) | 2:12 | 2023-06-15 | 2024-05-18 |
 | [READY 4 WAR](https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [XELOR](https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf) | [READY 4 WAR](https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi) | 2:52 | 2023-04-27 | 2023-11-03 |
 | [Ready to Explode](https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Ready to Explode](https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN) | 2:47 | 2022-12-08 | 2023-04-07 |
 | [Ride With Me](https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4) | [Ride With Me](https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4) | 3:57 | 2022-12-08 | 2024-02-16 |

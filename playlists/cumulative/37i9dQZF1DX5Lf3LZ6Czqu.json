@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/5Xt7aY81n18tJTXRVotygJ"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317083,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/7ckvTsWmmLbeFEPw4DCTk4"
+    },
+    {
+      "album": {
         "name": "3 Crows",
         "url": "https://open.spotify.com/album/7uGPN9GefcM4WEMhWAMcms"
       },
@@ -1621,6 +1639,28 @@
     },
     {
       "album": {
+        "name": "Out of the Void",
+        "url": "https://open.spotify.com/album/62iUscBLSYMkO64WS7EIKS"
+      },
+      "artists": [
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        },
+        {
+          "name": "Kiko Loureiro",
+          "url": "https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233197,
+      "name": "Out of the Void",
+      "url": "https://open.spotify.com/track/3F8fZIypxQMVOOu7fZyN9A"
+    },
+    {
+      "album": {
         "name": "Planetary Lockdown",
         "url": "https://open.spotify.com/album/4zV7IgwIYGcWyWsdRytXW8"
       },
@@ -1820,7 +1860,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 225693,
       "name": "Reflective",
       "url": "https://open.spotify.com/track/5B6lWsQXoKghgupCA5yNRY"
@@ -2214,7 +2254,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 337360,
       "name": "Star Catchers (feat. Steve Lukather, Jason \u201cJT\u201d Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz)",
       "url": "https://open.spotify.com/track/0jLeYaIIEyCkZSW3gxgAeL"

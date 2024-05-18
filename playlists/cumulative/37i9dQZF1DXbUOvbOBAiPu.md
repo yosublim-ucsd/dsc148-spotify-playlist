@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Billie Eilish
 
-330 songs - 17 hr 37 min
+333 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Annabelle](https://open.spotify.com/track/6rwxYABQD2vZByz1czjaRl) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Annabelle](https://open.spotify.com/album/0NGypCaz8YLU0YshamfB2H) | 2:58 | 2024-05-09 | 2024-05-17 |
 | [Anyways, I Love You](https://open.spotify.com/track/7lJr8BW2zK9hQph3e0TJ9s) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Anyways, I Love You](https://open.spotify.com/album/5w70Zf3CLvt9irzZl000s8) | 3:46 | 2024-05-02 | 2024-05-10 |
 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-04-26 | 2024-05-03 |
+| [are u done?](https://open.spotify.com/track/1Oyp4dLx07QamoDQZxs2W8) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [are u done?](https://open.spotify.com/album/1q1eRm6pNbhRliiIzFWd4c) | 2:31 | 2024-05-17 |  |
 | [ATM](https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ATM](https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS) | 2:17 | 2024-05-16 |  |
 | [Avec Toi](https://open.spotify.com/track/3iKgw6WzOeuElgYAjJJ1zz) | [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G) | [Avec Toi](https://open.spotify.com/album/112hddWH626a9hh65iKll4) | 2:44 | 2024-04-26 | 2024-05-03 |
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-05-09 | 2024-05-17 |
@@ -204,6 +205,7 @@
 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 | 2024-05-16 |  |
 | [My Home](https://open.spotify.com/track/6Bl1M7KatV1SQMI8qdfEWb) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [My Home](https://open.spotify.com/album/1ikS9WQur12KU1YqomLiSA) | 3:38 | 2024-05-16 |  |
 | [Nachtbede \- Uit Liefde Voor Muziek](https://open.spotify.com/track/33Jb8wzZfnCO2kA06FSO5x) | [Tourist LeMC](https://open.spotify.com/artist/6mbdN4ACD50R8vBKGCfzsr) | [Nachtbede \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/5yTol1bAEwNhWWtOVk1jyu) | 2:54 | 2024-05-02 | 2024-05-10 |
+| [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-17 |  |
 | [Nattigheid](https://open.spotify.com/track/4qN82AjbLTTavfrwm7JXwE) | [Fixkes](https://open.spotify.com/artist/45EDyNLJAvgshFEFXKssfl) | [Nattigheid](https://open.spotify.com/album/4rjeCX9XuHE59GmwvcekXp) | 2:46 | 2024-04-26 | 2024-05-03 |
 | [Need It](https://open.spotify.com/track/0rcmK9k60g3gtpL2hz0Dpr) | [Yung Mavu](https://open.spotify.com/artist/6lVRinYmZqt7NFNPZHx0TP) | [Need It](https://open.spotify.com/album/0WmKf26mKifeqsnaOwNhip) | 1:43 | 2024-04-26 | 2024-05-03 |
 | [Neva Neva](https://open.spotify.com/track/2mI9snG6nJeQ9cJVahpaDv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Neva Neva](https://open.spotify.com/album/4POtqjeMTeIMq5SM4LN18B) | 3:18 | 2024-04-26 | 2024-05-03 |
@@ -226,6 +228,7 @@
 | [Oh My Love](https://open.spotify.com/track/0ZdAnLaTWKtZHYtnQWztwa) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations](https://open.spotify.com/album/68sSQ6wu7ZxCAXC1iHjnZe) | 2:57 | 2024-04-26 | 2024-05-03 |
 | [OHYALELÉ \(feat\. Dyce & GOMZ\)](https://open.spotify.com/track/6DInE8RYf0TjIR6DereikJ) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc), [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [OHYALELÉ \(feat\. Dyce & GOMZ\)](https://open.spotify.com/album/6Why0oi1N3bfBtMLPMjm4e) | 3:55 | 2024-05-16 |  |
 | [On Again](https://open.spotify.com/track/5vASuVQkngtFoCOczem52V) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [On Again](https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86) | 3:48 | 2024-05-02 | 2024-05-10 |
+| [On This Hill](https://open.spotify.com/track/1Ai4EnJN4sywxcj8KOmIgb) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [On This Hill](https://open.spotify.com/album/5StpVKqlHLWZwdlivpSMpo) | 4:26 | 2024-05-17 |  |
 | [Onder De Sterren \- uit Liefde Voor Muziek](https://open.spotify.com/track/3DOb5CSeDxW001CL8OY6B5) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/3AzchNozJtlNQJSGVHtmwT) | 3:32 | 2024-05-09 | 2024-05-17 |
 | [ONE](https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [ONE](https://open.spotify.com/album/64HOiqlY0CKTZpEGL0YXL1) | 2:59 | 2024-04-26 | 2024-05-03 |
 | [One Cry \(feat\. Rosa Linn\)](https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:06 | 2024-05-16 |  |

@@ -1,13 +1,29 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 104619,
+  "num_followers": 104728,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2wKAAAAABqfJz+suXdys0ez5SL4qz0",
+  "snapshot_id": "ZkbWQAAAAAC1ee5GlIaTWl8tmGmaNmQm",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "downtown",
+        "url": "https://open.spotify.com/album/1nYhBZnlXskZ3etFCq4TXh"
+      },
+      "artists": [
+        {
+          "name": "alan vuong",
+          "url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8"
+        }
+      ],
+      "duration_ms": 114626,
+      "name": "downtown",
+      "url": "https://open.spotify.com/track/7rW9b5Ymr730VxYpT4Itk1"
+    },
     {
       "added_at": "2024-05-03 05:21:55",
       "album": {
@@ -121,20 +137,20 @@
       "url": "https://open.spotify.com/track/3V0AIBseDcSsxm8B5yVhBm"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Deep in the Water",
-        "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/05hmev84ZOX3Bfrl6D0bGC"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Deep in the Water",
-      "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
+      "duration_ms": 157575,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1MuSaxhOeNsFXdftnS5Ldc"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -153,6 +169,22 @@
       "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Deep in the Water",
+        "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Deep in the Water",
+      "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
+    },
+    {
       "added_at": "2024-05-03 05:21:55",
       "album": {
         "name": "Thoughts I Never Said",
@@ -167,6 +199,22 @@
       "duration_ms": 68174,
       "name": "Intro (Landmine)",
       "url": "https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Ex-Men",
+        "url": "https://open.spotify.com/album/4nfRCyTlTIlAM9spNTpn7a"
+      },
+      "artists": [
+        {
+          "name": "Sy Ari Da Kid",
+          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Ex-Men",
+      "url": "https://open.spotify.com/track/2lHxwQEVL9brjoZgXwovhN"
     },
     {
       "added_at": "2024-03-08 13:15:12",
@@ -203,6 +251,22 @@
       "duration_ms": 120461,
       "name": "ttuctmd",
       "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Outta Bounds",
+        "url": "https://open.spotify.com/album/5qtRqFutcrkuU8pUdJ3G7V"
+      },
+      "artists": [
+        {
+          "name": "Khalil",
+          "url": "https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4"
+        }
+      ],
+      "duration_ms": 145518,
+      "name": "Outta Bounds",
+      "url": "https://open.spotify.com/track/4j5hvjaPGOPie1Avm97mOO"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -299,6 +363,26 @@
       "duration_ms": 173026,
       "name": "AFTER HOURS",
       "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Digestive's Story",
+        "url": "https://open.spotify.com/album/4MY8oKLiXztJ1DbR2DJCFk"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        },
+        {
+          "name": "Faygos Paradise",
+          "url": "https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi"
+        }
+      ],
+      "duration_ms": 168408,
+      "name": "Digestive's Story",
+      "url": "https://open.spotify.com/track/6g0lgD3zfOYcXD8rVqwsK0"
     },
     {
       "added_at": "2024-04-19 04:00:00",

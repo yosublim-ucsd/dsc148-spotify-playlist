@@ -5115,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF"
+      },
+      "artists": [
+        {
+          "name": "Karan Randhawa",
+          "url": "https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159546,
+      "name": "Gulab",
+      "url": "https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4"
+    },
+    {
+      "album": {
         "name": "Gulab (From \"Teri Meri Gal Ban Gayi\")",
         "url": "https://open.spotify.com/album/2cbrzeKqRs1kkIsuOwdpe6"
       },

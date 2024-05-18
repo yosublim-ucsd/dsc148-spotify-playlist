@@ -1,6 +1,6 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 8859,
+  "num_followers": 8874,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
@@ -555,30 +555,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "GOOD LOYAL THOTS 2 (Demo)",
-        "url": "https://open.spotify.com/album/5xkTQakddnZplfymuKyPIa"
-      },
-      "artists": [
-        {
-          "name": "ODECORE",
-          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
-        },
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 102515,
-      "name": "GOOD LOYAL THOTS 2 - Demo",
-      "url": "https://open.spotify.com/track/5KiSXkMuL521ohdw8t2SAt"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "High & Hungrig 3",
         "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 137828,
       "name": "Nix zu tun",
       "url": "https://open.spotify.com/track/2LnUiS8PcdL1BXk410VwTy"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "GOOD LOYAL THOTS 2 (Demo)",
+        "url": "https://open.spotify.com/album/5xkTQakddnZplfymuKyPIa"
+      },
+      "artists": [
+        {
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 102515,
+      "name": "GOOD LOYAL THOTS 2 - Demo",
+      "url": "https://open.spotify.com/track/5KiSXkMuL521ohdw8t2SAt"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "heaven",
+        "url": "https://open.spotify.com/album/4eo9Noh6eN6ikAJ1bSTA8u"
+      },
+      "artists": [
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
+        }
+      ],
+      "duration_ms": 120133,
+      "name": "heaven",
+      "url": "https://open.spotify.com/track/3gIk5AdaPLq5b5tey5tJkO"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Leave",
         "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 174635,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "heaven",
-        "url": "https://open.spotify.com/album/4eo9Noh6eN6ikAJ1bSTA8u"
-      },
-      "artists": [
-        {
-          "name": "Mercury",
-          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
-        }
-      ],
-      "duration_ms": 120133,
-      "name": "heaven",
-      "url": "https://open.spotify.com/track/3gIk5AdaPLq5b5tey5tJkO"
     },
     {
       "added_at": "2023-12-01 14:44:59",

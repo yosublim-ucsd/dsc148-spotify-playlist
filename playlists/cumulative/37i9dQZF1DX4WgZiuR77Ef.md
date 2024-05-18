@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-226 songs - 15 hr 56 min
+227 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Canned Champagne](https://open.spotify.com/track/4yYR3NQfBqgN9OdX2Z32BX) | [Scone Cash Players](https://open.spotify.com/artist/3GMruM6YOWc69pzKC74qK5), [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [Canned Champagne](https://open.spotify.com/album/6F75dyCtjcnQoXYyjjzBy9) | 4:06 | 2020-10-30 | 2022-04-09 |
 | [Cashew](https://open.spotify.com/track/5cicFBkl7O1Q7f4IKT20Mw) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63) | [Cashew](https://open.spotify.com/album/7MOBVl0YbpdVHNVEOovUja) | 3:56 | 2021-06-11 | 2023-04-29 |
 | [Celebrations](https://open.spotify.com/track/4omeUG7hXLZsYGP3kgk1cz) | [Lo Greco Bros](https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY), [Fusion Funk Foundation](https://open.spotify.com/artist/6Lw21oFES51b7oYLLSbPfF) | [Celebrations](https://open.spotify.com/album/7scmghC0RGnIWGsDwUftiV) | 5:12 | 2021-12-10 |  |
+| [Chameleon](https://open.spotify.com/track/1oVt6lg9lOuVi8FvNonD8z) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Chameleon](https://open.spotify.com/album/1Z7DTNWYaGCu19dlG2Ru6h) | 3:40 | 2024-05-17 |  |
 | [Checker Wrecker](https://open.spotify.com/track/1mW9VbUgYQZHsicTZDxkUW) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Big Tony](https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks), [Jungle Boogie](https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J) | [The Craig Charles Trunk of Funk Volume 2](https://open.spotify.com/album/6hcNkOdTIF59iaY2TydgHp) | 5:50 | 2020-10-30 | 2022-11-13 |
 | [Checker Wrecker](https://open.spotify.com/track/2tqfdsBI9N8TrRVFTUDnGZ) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Jungle Boogie](https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J), [Big Tony](https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks) | [Checker Wrecker](https://open.spotify.com/album/5eKL3jiEKnTb3bej9OKvUJ) | 5:50 | 2020-10-30 |  |
 | [Checker Wrecker](https://open.spotify.com/track/7CmmRmYeCU9BGU3NVY3z0r) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Jungle Boogie](https://open.spotify.com/artist/4uRUX6GQjNbtYK9w0rbO4J), [Big Tony](https://open.spotify.com/artist/2sCagRqrsOocsRmcxSuYks) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:50 | 2020-10-30 | 2024-04-19 |
@@ -97,7 +98,7 @@
 | [I Did It To Myself](https://open.spotify.com/track/18zAjIgSzxpzSfWprqBp5d) | [Dakota Jones](https://open.spotify.com/artist/6DQRKapXMed5FzDufBQ83K) | [Black Light](https://open.spotify.com/album/3lyDIsUBFuRQ4aq9YBYs68) | 2:44 | 2021-06-18 | 2023-05-27 |
 | [I Did It to Myself](https://open.spotify.com/track/4lHiCssWm534vTJdRrdNIR) | [Dakota Jones](https://open.spotify.com/artist/6DQRKapXMed5FzDufBQ83K) | [I Did It to Myself](https://open.spotify.com/album/5dVdmEhvEGuXegj9X7yi6i) | 2:44 | 2021-06-18 | 2023-05-13 |
 | [I'm Your Biggest Fan](https://open.spotify.com/track/6Q4TofQytmgDayivXKAIiL) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [I'm Your Biggest Fan](https://open.spotify.com/album/3J3JKEbtbE2RFyyY9MLWUV) | 3:36 | 2020-10-30 | 2022-04-09 |
-| [I've Got Reasons](https://open.spotify.com/track/0XdkAB76rEDoZeycSu4Vh5) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [I've Got Reasons](https://open.spotify.com/album/6rc0o370jH6rCKO0yMZsZk) | 4:42 | 2022-02-04 |  |
+| [I've Got Reasons](https://open.spotify.com/track/0XdkAB76rEDoZeycSu4Vh5) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [I've Got Reasons](https://open.spotify.com/album/6rc0o370jH6rCKO0yMZsZk) | 4:42 | 2022-02-04 | 2024-05-18 |
 | [If It Ain't Funky Back It Up, Pt\. 1](https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [If It Ain't Funky Back It Up](https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5) | 2:33 | 2020-10-30 | 2022-04-09 |
 | [If You Want Me to Stay](https://open.spotify.com/track/0IFQpkcrFHy8bJOlrjKDEZ) | [Trulio Disgracias](https://open.spotify.com/artist/6UtfXZKeC8rNxOYeCtbWa8) | [If You Want Me to Stay](https://open.spotify.com/album/5MJBt7WjNr736b9RXsBZmv) | 5:21 | 2020-10-30 | 2022-07-02 |
 | [In a Year From Now](https://open.spotify.com/track/6UcWi3TI0N0ZftbowzRUbC) | [Cindy Latin](https://open.spotify.com/artist/6e8TcVsU71SK3hKcn7unyj) | [In a Year From Now](https://open.spotify.com/album/3PgT269oNrOIWPZte5dPfc) | 3:09 | 2020-10-30 | 2022-04-09 |

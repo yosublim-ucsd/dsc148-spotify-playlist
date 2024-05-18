@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 ### [EDC Las Vegas Guest List](https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV)
 
-> Celebrate the magic of EDC Las Vegas 2024 with the exclusive guest list featuring the best tracks and artists of the festival 🎉🎉
+> Celebrate the magic of EDC Las Vegas 2024 with some of the best tracks and artists of the festival 🎉🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,528 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,588 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 50 | [Naked \(feat\. Stanaj\)](https://open.spotify.com/track/3I6EFt9kGCNBdd0ODrEb4i) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [Naked \(feat\. Stanaj\)](https://open.spotify.com/album/3MMk5oDQnygByQdL2VSsfG) | 3:18 |
 | 51 | [\(Not So\) Serious Ting](https://open.spotify.com/track/735FVEHHYyluGxqynl7VGJ) | [SICARIA](https://open.spotify.com/artist/0VY1AVQPJaTDllLBhR35gv) | [EDC Las Vegas 2024](https://open.spotify.com/album/7Dq0VeyORoXlbxB1tBntZe) | 3:21 |
 
-Snapshot ID: `ZkWEwAAAAADr8bJTGyWVpW2VTCiHZxtf`
+Snapshot ID: `ZkdrMwAAAADYhL2PWdAxKOJPZ3nID7dO`

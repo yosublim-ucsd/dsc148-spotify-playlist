@@ -4321,6 +4321,24 @@
     },
     {
       "album": {
+        "name": "NANi",
+        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154991,
+      "name": "NANi",
+      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
+    },
+    {
+      "album": {
         "name": "MANTISTECH VOL.3",
         "url": "https://open.spotify.com/album/6KIXtd5hXBvJedG2F2inCo"
       },
@@ -5226,7 +5244,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176195,
-      "name": "Psycho",
+      "name": "Psyco",
       "url": "https://open.spotify.com/track/66DhR2jhmKjNIIC63suX8T"
     },
     {

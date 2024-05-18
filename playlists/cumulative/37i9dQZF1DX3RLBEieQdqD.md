@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Diego Daza
 
-185 songs - 10 hr 47 min
+187 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \- Versión Ranchera](https://open.spotify.com/track/2zGN2Pjf8FRZb3xYM0PkF3) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \[Versión Ranchera\]](https://open.spotify.com/album/6Xg3KAks81uVX1lzsvg4gu) | 2:51 | 2022-08-18 |  |
 | [Llevame Contigo](https://open.spotify.com/track/2V1ZDHW7tEAlkEUZwHD8Wn) | [Penchy Castro](https://open.spotify.com/artist/1IqauaQSq3bdqfX8zaD9cC), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [HOMENAJE A JORGE OÑATE LA LEYENDA](https://open.spotify.com/album/5wL4StDa7cNY5NRKhfRvxt) | 3:42 | 2022-08-18 | 2022-12-20 |
 | [Lo Que Ella Necesita](https://open.spotify.com/track/3dd1fU9pusWGfo0yFEwPg2) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Lo Que Ella Necesita](https://open.spotify.com/album/0qdohDjeEdi0ytJlNjPckw) | 2:46 | 2024-02-16 |  |
-| [Magia](https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Magia](https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB) | 2:37 | 2023-04-14 |  |
+| [Los Dolidos](https://open.spotify.com/track/6e5gtPbg2Asn3NGBxxJUUq) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Los Dolidos](https://open.spotify.com/album/3nR6qDz5ks2cAayhHfyhSH) | 3:39 | 2024-05-17 |  |
+| [Magia](https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Magia](https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB) | 2:37 | 2023-04-14 | 2024-05-18 |
 | [Maldita Traicion](https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:08 | 2022-08-18 |  |
 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 | 2022-08-18 | 2024-04-19 |
 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 | 2024-03-29 |  |
@@ -149,6 +150,7 @@
 | [Olvídala](https://open.spotify.com/track/5OkhVq7Yn7EO2biXKoKECZ) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/23LQ3yuJE3lPcYEH6zQA3C) | 4:50 | 2022-08-18 | 2022-11-24 |
 | [Olvídala](https://open.spotify.com/track/7qi8GownCCQrzrTaweqIKD) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/3kjDLcklVkTozCf4miWmRD) | 4:50 | 2022-10-14 | 2022-12-14 |
 | [Pa' los Gustos los Colores](https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [Pa' los Gustos los Colores](https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO) | 3:11 | 2023-02-03 | 2023-10-21 |
+| [Pedazo De Carne](https://open.spotify.com/track/4hdRY3ZWM8EjRfPhT3qaS0) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Inolvidable](https://open.spotify.com/album/4ftGvsn2yNHdvBKhSTKuSq) | 2:51 | 2024-05-17 |  |
 | [Por un Beso de Tu Boca \- Versión Vallenato](https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Por un Beso de Tu Boca \(Versión Vallenato\)](https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v) | 3:06 | 2022-08-18 |  |
 | [Que Mal Te Ves Sin Mí](https://open.spotify.com/track/7zHo6F8N4z4SOl9eBmLqpn) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/36AXhk3xVtjYKGHhV4NfKu) | 3:17 | 2024-03-29 |  |
 | [Que Sea](https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 2:49 | 2022-08-18 | 2023-02-04 |
@@ -192,6 +194,6 @@
 | [Vuelve y Me Pasa](https://open.spotify.com/track/44H1DiJAOMSAMZWv0M8ceq) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ) | 3:15 | 2022-08-18 | 2024-04-19 |
 | [Ya No Mi Amor](https://open.spotify.com/track/7qbPQqOYYMPdQqRqv7bNin) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mi \(Vol\. 4\)](https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk) | 3:20 | 2022-08-18 | 2024-04-19 |
 | [Ya No Mi Amor \- Bonus Track](https://open.spotify.com/track/1ZrHbfBFWGgZf3wjzrioBQ) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mí, Vol\. 4](https://open.spotify.com/album/0VGa3XrDBWYntSMep72lRA) | 3:21 | 2024-03-29 |  |
-| [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 | 2023-02-03 |  |
+| [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 | 2023-02-03 | 2024-05-18 |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

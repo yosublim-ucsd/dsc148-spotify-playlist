@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 304426,
       "name": "Flores y Burbujas",
       "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
@@ -2689,6 +2689,28 @@
     },
     {
       "album": {
+        "name": "Mi Fortaleza",
+        "url": "https://open.spotify.com/album/4z4putTLPDht0Q6i0d87A5"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227515,
+      "name": "Mi Fortaleza",
+      "url": "https://open.spotify.com/track/32IImwtinyH53ah7mNAX0E"
+    },
+    {
+      "album": {
         "name": "El Sonido Real",
         "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
       },
@@ -2890,7 +2912,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 223405,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
@@ -3430,7 +3452,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 186533,
       "name": "Reggae en el Universo",
       "url": "https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ"
@@ -3770,6 +3792,24 @@
       "duration_ms": 218689,
       "name": "Si No Fuera",
       "url": "https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes"
+    },
+    {
+      "album": {
+        "name": "Si no Regreso",
+        "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178953,
+      "name": "Si no Regreso",
+      "url": "https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED"
     },
     {
       "album": {
@@ -4796,6 +4836,24 @@
       "duration_ms": 262556,
       "name": "Where We Are Still",
       "url": "https://open.spotify.com/track/676l36XE27E4DxvrCKZbJn"
+    },
+    {
+      "album": {
+        "name": "Ya No",
+        "url": "https://open.spotify.com/album/6NPElyBeICZ3B4oVSFep29"
+      },
+      "artists": [
+        {
+          "name": "Madda Kali",
+          "url": "https://open.spotify.com/artist/262sREZkxqQyCyhZ7pB1V2"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253655,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/4Z6NIkpILSfJGct29BiQdv"
     },
     {
       "album": {

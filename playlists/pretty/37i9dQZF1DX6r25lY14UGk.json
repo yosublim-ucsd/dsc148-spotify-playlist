@@ -1,13 +1,117 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 22319,
+  "num_followers": 22378,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2bwAAAAADglQiGCcctVxNDe/lQnalv",
+  "snapshot_id": "ZkbWQAAAAAD68sb6vusuQg9sMx2yd0xK",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Good Life (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/5k545vq1XFdS5O7N2cXV21"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "Good Life - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/1gu8OZFMB9dcEmT90j0lQ8"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Mother Goose Club Sings Bounce Patrol",
+        "url": "https://open.spotify.com/album/5NosPhVr3wH4M0OLJ7FwEH"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 176845,
+      "name": "Dance Party",
+      "url": "https://open.spotify.com/track/6Q0fouXu7ntHoVtuZnxKFy"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6E5t5eRyYWz6aOXXd0u1of"
+      },
+      "artists": [
+        {
+          "name": "The Tambourine Social",
+          "url": "https://open.spotify.com/artist/5nHEzEXgMjDsR58ZMG4aHq"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/7yoJUmhUZS6RQsCHR3YcEF"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "My Daddy",
+        "url": "https://open.spotify.com/album/5lrShGJjQB54FR9vSB1vNR"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        },
+        {
+          "name": "VanVan",
+          "url": "https://open.spotify.com/artist/3WxOjk5szKnKRX6uGSTJnl"
+        }
+      ],
+      "duration_ms": 162528,
+      "name": "My Daddy",
+      "url": "https://open.spotify.com/track/62PMIjZwq8LjFJqjb5KRDG"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Time To Move",
+        "url": "https://open.spotify.com/album/6ua4XdM8I7azOYGYZEe5zA"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "duration_ms": 61800,
+      "name": "Time to Move",
+      "url": "https://open.spotify.com/track/75bPD0brXhLSLvtGHous41"
+    },
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {

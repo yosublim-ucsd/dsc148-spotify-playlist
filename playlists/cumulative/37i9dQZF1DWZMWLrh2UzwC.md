@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: BILLIE EILISH
 
-10,598 songs - 24 day 4 hr 48 min
+10,601 songs - 24 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1689,6 +1689,7 @@
 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2023-10-12 | 2023-10-20 |
 | [closure](https://open.spotify.com/track/3U9SYKpPhiIawcwUXj2IvX) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [closure](https://open.spotify.com/album/04JeFildc0BYKS3E24DaEN) | 2:22 | 2023-02-16 | 2023-03-25 |
 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-05 | 2022-05-13 |
+| [CLOUD 9](https://open.spotify.com/track/1EV5az9KISodiYS8CmfRY0) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Levent Geiger](https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG) | [CLOUD 9](https://open.spotify.com/album/0KyciVZWjNOZkzvFpnHqb5) | 2:22 | 2024-05-16 |  |
 | [Cloud Surfing](https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv) | [Heads I Win, Tails You Lose](https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d) | 2:15 | 2024-04-18 | 2024-04-26 |
 | [Clouds](https://open.spotify.com/track/2FlYBPrM8HgTkm5FE8Udy9) | [Defying Decay](https://open.spotify.com/artist/3hulNignaNzmsZxPOHi0Dy), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Clouds](https://open.spotify.com/album/2Aw142w0gigVXXlFm2tUqG) | 3:34 | 2023-07-27 | 2023-08-04 |
 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 | 2024-03-21 | 2024-03-29 |
@@ -6019,6 +6020,7 @@
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-12 | 2023-01-20 |
 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-11 | 2023-05-19 |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-26 | 2022-06-03 |
+| [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 |  |
 | [Nanti Mama Pulang \- Original Soundtrack From "Mencari Marina For Mediacorp Suria"](https://open.spotify.com/track/6m5hpxo9P6XZYKbMxWzTyc) | [Fauziah Latiff](https://open.spotify.com/artist/2x2EGZwTW09vcvx1dGfcxm) | [Nanti Mama Pulang \(Original Soundtrack From "Mencari Marina For Mediacorp Suria"\)](https://open.spotify.com/album/2UrQlpoXJNuFPWwSxpspWz) | 3:11 | 2023-08-10 | 2023-08-18 |
 | [Naomi, Why Won't You Answer My Call?](https://open.spotify.com/track/0cy1Ix7DSmvOwh1CItLptA) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Naomi, Why Won't You Answer My Call?](https://open.spotify.com/album/4so2GyTxSd7QJQoaKSu5Fk) | 2:56 | 2022-02-24 | 2022-03-04 |
 | [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 | 2022-08-25 | 2022-09-02 |
@@ -10271,6 +10273,7 @@
 | [偏見 \(原創版\)](https://open.spotify.com/track/2X1DbZvL3t5wTXDKkWeIdy) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [偏見 \(原創版\)](https://open.spotify.com/album/3R0ifMoEgDToq4DPt4GD4G) | 4:09 | 2024-03-07 | 2024-03-15 |
 | [停电](https://open.spotify.com/track/3H7y1jmV0dE6pzNqaEbUDG) | [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK) | [1671](https://open.spotify.com/album/1rCLI5ezftmPGRbX3UlMG1) | 3:35 | 2023-09-28 | 2023-10-06 |
 | [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 | 2024-01-18 | 2024-01-26 |
+| [傷心唱出來就沒事了](https://open.spotify.com/track/0oRTAkk3oYpPtN2QfGPPk7) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [傷心唱出來就沒事了](https://open.spotify.com/album/20ZhNjieE1tLGr9VIr9Tqf) | 3:45 | 2024-05-16 |  |
 | [像做一場夢](https://open.spotify.com/track/2ENzBNp5UQDY28JtHWjwSE) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [像做一場夢](https://open.spotify.com/album/2tUeTLb4EsCEXnH9VoaCFh) | 4:36 | 2024-01-18 | 2024-01-26 |
 | [先聽我說完](https://open.spotify.com/track/0JFjq8LLXa5E1P5YovgqFY) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [先聽我說完](https://open.spotify.com/album/3OnqKDhsXwElt1TYi3LFa8) | 3:33 | 2024-04-18 | 2024-04-26 |
 | [光影](https://open.spotify.com/track/59ZrFOUOptVURSvxHhZ8SK) | [Olivia Ong](https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd) | [光影](https://open.spotify.com/album/7bBf2ysngmkMuMOVl4KS77) | 4:02 | 2023-09-28 | 2023-10-06 |

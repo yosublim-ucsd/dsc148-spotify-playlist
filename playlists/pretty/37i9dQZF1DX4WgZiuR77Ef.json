@@ -1,13 +1,29 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 392192,
+  "num_followers": 392217,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2b/AAAAACKPJoX6BiqopNCoZAnFkFd",
+  "snapshot_id": "ZkbWfAAAAACbe+Jo2Mr2wKAZfmJK6jMr",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/1Z7DTNWYaGCu19dlG2Ru6h"
+      },
+      "artists": [
+        {
+          "name": "High Fade",
+          "url": "https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF"
+        }
+      ],
+      "duration_ms": 220123,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/1oVt6lg9lOuVi8FvNonD8z"
+    },
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
@@ -1211,22 +1227,6 @@
       "duration_ms": 211914,
       "name": "Vodka & Tonic",
       "url": "https://open.spotify.com/track/0EzHA0WMp6WkyVjSbHK1ul"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "I've Got Reasons",
-        "url": "https://open.spotify.com/album/6rc0o370jH6rCKO0yMZsZk"
-      },
-      "artists": [
-        {
-          "name": "The Greyboy Allstars",
-          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
-        }
-      ],
-      "duration_ms": 282505,
-      "name": "I've Got Reasons",
-      "url": "https://open.spotify.com/track/0XdkAB76rEDoZeycSu4Vh5"
     },
     {
       "added_at": "2021-09-03 04:01:00",

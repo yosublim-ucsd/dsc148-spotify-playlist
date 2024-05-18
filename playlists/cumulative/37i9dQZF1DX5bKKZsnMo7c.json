@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Evil Twin",
+        "url": "https://open.spotify.com/album/70ntdGVYxNVwsKafaIeIPy"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227733,
+      "name": "Evil Twin",
+      "url": "https://open.spotify.com/track/1Etn9dUofwRMlaAEgJk6Ij"
+    },
+    {
+      "album": {
         "name": "Ex-Girlfriend",
         "url": "https://open.spotify.com/album/37xFZDZTBANnDJdPpXHgU8"
       },
@@ -3972,7 +3990,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 190853,
       "name": "Maybe Life Is Good",
       "url": "https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn"

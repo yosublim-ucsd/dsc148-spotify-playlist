@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 389403,
       "name": "Fate",
       "url": "https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM"
@@ -1730,6 +1730,28 @@
       "duration_ms": 579373,
       "name": "Kitty Chaser (Explosions)",
       "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
+    },
+    {
+      "album": {
+        "name": "Improvisations with Ram Dass",
+        "url": "https://open.spotify.com/album/09OgnSuSxMsE29yUUoHoO8"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        },
+        {
+          "name": "Ram Dass",
+          "url": "https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416354,
+      "name": "Knowledge or Wisdom",
+      "url": "https://open.spotify.com/track/0oIbvgSpbzZtX3ovD14Z27"
     },
     {
       "album": {
@@ -2759,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "Sum'n Boutchu",
+        "url": "https://open.spotify.com/album/6zaZBgMflZM7MMOEnFj0GA"
+      },
+      "artists": [
+        {
+          "name": "Hot Like Mars",
+          "url": "https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305737,
+      "name": "Sum'n Boutchu",
+      "url": "https://open.spotify.com/track/4THWSAfTsDC6W7rzgLeYpZ"
+    },
+    {
+      "album": {
         "name": "Rays of Light and Stardust",
         "url": "https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S"
       },
@@ -2946,7 +2986,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 529500,
       "name": "The Funk",
       "url": "https://open.spotify.com/track/0WeCFdC599NfSLEYF4DhIK"

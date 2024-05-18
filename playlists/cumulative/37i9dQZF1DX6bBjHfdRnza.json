@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 160929,
       "name": "4am",
       "url": "https://open.spotify.com/track/68ojxu2S93yBPTJvoiJhZn"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 246719,
       "name": "Always",
       "url": "https://open.spotify.com/track/6f0Ra2Z8iVhpRWCoLjxRQ6"
@@ -2558,6 +2558,24 @@
       "duration_ms": 409425,
       "name": "B49c",
       "url": "https://open.spotify.com/track/1DM4hj4bpcOfhM9B9EH4Wz"
+    },
+    {
+      "album": {
+        "name": "Just Wanna Dance",
+        "url": "https://open.spotify.com/album/0qT6MhsfVQvgWFWHpnmHhW"
+      },
+      "artists": [
+        {
+          "name": "Cameron Jack",
+          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259538,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2FgH6UPs5c7yTxPGwQ5ecQ"
     },
     {
       "album": {
@@ -4813,6 +4831,24 @@
     },
     {
       "album": {
+        "name": "Bring The Beat",
+        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150468,
+      "name": "Bring The Beat",
+      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
+    },
+    {
+      "album": {
         "name": "Infused Roots",
         "url": "https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH"
       },
@@ -5140,6 +5176,28 @@
       "duration_ms": 308663,
       "name": "Burst Mode",
       "url": "https://open.spotify.com/track/5u44VWbluamg169GOTphhc"
+    },
+    {
+      "album": {
+        "name": "PAPADHD",
+        "url": "https://open.spotify.com/album/3xSTiWi5vmorI5pNS3HhJ5"
+      },
+      "artists": [
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        },
+        {
+          "name": "Papa Nugs",
+          "url": "https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288358,
+      "name": "Buss It",
+      "url": "https://open.spotify.com/track/7dRIxMRZny4mq7gQ3JtPdD"
     },
     {
       "album": {
@@ -10567,6 +10625,24 @@
     },
     {
       "album": {
+        "name": "DWFM2C (Familiar Faces Remix)",
+        "url": "https://open.spotify.com/album/6jH4G7Be7hsS7O30IiMT4P"
+      },
+      "artists": [
+        {
+          "name": "Familiar Faces",
+          "url": "https://open.spotify.com/artist/2faJegxkyWRI7AMI9pyWZo"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200238,
+      "name": "DWFM2C (Familiar Faces Remix)",
+      "url": "https://open.spotify.com/track/5VunUBhntsGgWeIYiu2vOW"
+    },
+    {
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/4QbFXXhWgq2EIlaTaGgXs4"
       },
@@ -12260,7 +12336,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 229777,
       "name": "Fate",
       "url": "https://open.spotify.com/track/68g8XQCURAg8Dt6D10l2jN"
@@ -16456,7 +16532,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 142222,
       "name": "Hold On To You",
       "url": "https://open.spotify.com/track/3PV5cTNXSfUpdLpEoYtSTS"
@@ -16950,7 +17026,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 292000,
       "name": "House Nation",
       "url": "https://open.spotify.com/track/19z4ja0tzdakFYAxLGvird"
@@ -18676,7 +18752,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 396326,
       "name": "Intergalactic Sitdown",
       "url": "https://open.spotify.com/track/4JoCdrZ7cMCTPKAxL1hvNJ"
@@ -18894,6 +18970,24 @@
       "duration_ms": 269067,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1FjWbDfXu195TRmMxXZi99"
+    },
+    {
+      "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "album": {
@@ -21905,6 +21999,24 @@
     },
     {
       "album": {
+        "name": "LUCKY",
+        "url": "https://open.spotify.com/album/0BwWuaG9kMfF9cR5hsA2do"
+      },
+      "artists": [
+        {
+          "name": "Petit Ocean",
+          "url": "https://open.spotify.com/artist/7AEN8ZkPQr7M45Sb3emoMf"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161316,
+      "name": "LUCKY",
+      "url": "https://open.spotify.com/track/0kCCzjemQEcwZ8GjGIQWrC"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/1twdlt63HPInhVkVgZ1Dr2"
       },
@@ -24768,6 +24880,28 @@
       "duration_ms": 212769,
       "name": "Next to Me (feat. Fiveofive)",
       "url": "https://open.spotify.com/track/6GSY8J9SPNeBnZmaY2Nw5N"
+    },
+    {
+      "album": {
+        "name": "next to you",
+        "url": "https://open.spotify.com/album/0jPwMRZzHKpf1iY8Uo7B2B"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        },
+        {
+          "name": "Emi Navarro",
+          "url": "https://open.spotify.com/artist/6QwCy7Mp2rNXEhpy4NXMhE"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129925,
+      "name": "next to you",
+      "url": "https://open.spotify.com/track/3wF8uN5Q8ozoNShh9QL9Bm"
     },
     {
       "album": {
@@ -36457,6 +36591,28 @@
     },
     {
       "album": {
+        "name": "Sugar Honey Iced Tea!",
+        "url": "https://open.spotify.com/album/71hzJFdi64i7BcgfRfRkoy"
+      },
+      "artists": [
+        {
+          "name": "musclecars",
+          "url": "https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R"
+        },
+        {
+          "name": "Kamaal",
+          "url": "https://open.spotify.com/artist/0IGedZhFM7gICHBqlm2YOh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355853,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/1vGSde29pS7038ATRj6Ob0"
+    },
+    {
+      "album": {
         "name": "Too Fast",
         "url": "https://open.spotify.com/album/0QBxcn7dmqPAfGkIlyBILQ"
       },
@@ -37734,7 +37890,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 250255,
       "name": "Until The Daylight",
       "url": "https://open.spotify.com/track/3Rc8Em7tMP4doYT0B4ahrw"
@@ -38422,7 +38578,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 161167,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/3F1dotxeflBfqdPRO2umZX"

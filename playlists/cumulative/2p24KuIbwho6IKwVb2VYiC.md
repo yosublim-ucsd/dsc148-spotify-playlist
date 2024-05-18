@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: MEDUZA, OneRepublic, Leony
 
-183 songs - 9 hr 34 min
+184 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2023-10-27 |  |
 | [Free](https://open.spotify.com/track/5Y4L2jaSYxvPlhz6T8HRAl) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Free](https://open.spotify.com/album/3iwNd4M1ghGUUb86BUq6qo) | 3:18 | 2023-10-27 | 2023-11-25 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-10-27 |  |
+| [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2024-05-17 |  |
 | [Going Out To The Ravers \(feat\. Everyone You Know\)](https://open.spotify.com/track/2VMGrvCgpiTVwnyuIsU9fm) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [London Sound](https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY) | 3:09 | 2024-01-26 |  |
 | [Good Good \- Jax Jones Midnight Snacks Remix](https://open.spotify.com/track/4oSVlwgWFNpWTnVaFPCljH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good \(Jax Jones Midnight Snacks Remix\)](https://open.spotify.com/album/0C03t4KKEkZg47CNNhs5HB) | 3:14 | 2023-11-24 |  |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-10-27 |  |

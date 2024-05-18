@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: fyne, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,212 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,262 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 11 | [Pleasant Conversation](https://open.spotify.com/track/2RL1UtRs7WO0C4Mfas9PrD) | [Barrelly Ego](https://open.spotify.com/artist/0zn1nUA9Tg5Fq7RttovSHS) | [Pleasant Conversation](https://open.spotify.com/album/2jYzB5mKPFeiIqmH5EUrT5) | 3:43 |
 | 12 | [Kein Vergleich](https://open.spotify.com/track/5ak39eRB6Abhcm6Zk6e5BY) | [Mynt](https://open.spotify.com/artist/4S7e9TX0ER8bUiHnrIuDlN) | [Kein Vergleich](https://open.spotify.com/album/2GQmMS8RXKOxUeJEcanGZv) | 2:24 |
 | 13 | [Nemo](https://open.spotify.com/track/66m5wQxTelUD57tJYy0dUl) | [Heavent](https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV) | [Nemo](https://open.spotify.com/album/4ZOSjbv4OqKdFKLCbQb5Qq) | 2:52 |
-| 14 | [damn shame](https://open.spotify.com/track/2Ser5lxEt0fXA3LE4QIo2Z) | [Josh Kye](https://open.spotify.com/artist/0qtgGtFrIG8RnZIWjsD53h), [qu](https://open.spotify.com/artist/3Ci56b91PyFRKz2fpk211A) | [damn shame](https://open.spotify.com/album/7FHv0sHnRCG8ckdwdSjjYS) | 3:46 |
+| 14 | [damn shame](https://open.spotify.com/track/2Ser5lxEt0fXA3LE4QIo2Z) | [qu](https://open.spotify.com/artist/3Ci56b91PyFRKz2fpk211A), [Josh Kye](https://open.spotify.com/artist/0qtgGtFrIG8RnZIWjsD53h) | [damn shame](https://open.spotify.com/album/7FHv0sHnRCG8ckdwdSjjYS) | 3:46 |
 | 15 | [Scrabble](https://open.spotify.com/track/1f6ikN1EWq2I6mJa0C6Spp) | [Lumen, der Minister](https://open.spotify.com/artist/5g0jJcxRHXkYg5MB0BgnCg) | [Scrabble](https://open.spotify.com/album/3mEbOcrLAP3sWiByFSpVCL) | 2:43 |
 | 16 | [Chamomile Tea](https://open.spotify.com/track/5fXuh8rmnw1xYajexsmvhV) | [Annie Bloch](https://open.spotify.com/artist/22YsZ3Lp8VNBXySgxKVIXd) | [Chamomile Tea](https://open.spotify.com/album/53gsBULwZPiX2eRJSBXWgO) | 3:09 |
 | 17 | [Out in the Cold](https://open.spotify.com/track/4vu3HIJyV7LYBelDGAm6xb) | [Guacáyo](https://open.spotify.com/artist/7pf98dDuWm91rz4gkrFjrN) | [Out in the Cold](https://open.spotify.com/album/4JOgCrFZbs9rkoz6pG8i4w) | 2:50 |

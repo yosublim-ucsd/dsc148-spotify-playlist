@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10 Boyfriends",
+        "url": "https://open.spotify.com/album/1oQ61aDHWYwrYBLTM2DJEV"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Chlapecka",
+          "url": "https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200172,
+      "name": "10 Boyfriends",
+      "url": "https://open.spotify.com/track/3qySQmUQFaRBdANtETfHca"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
       },
@@ -472,7 +490,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 223794,
       "name": "disco tits",
       "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"

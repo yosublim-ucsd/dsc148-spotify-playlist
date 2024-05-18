@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,623 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,624 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 27 | [Yearning for Dark Shadows](https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 6:02 |
 | 28 | [OPENING STAGE](https://open.spotify.com/track/5TOzHUzLfUvLppskdhyCxZ) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [ロックマンX3 サウンド コレクション](https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw) | 1:35 |
 | 29 | [ULTRA VIOLET\(ネロ アンジェロ戦\)](https://open.spotify.com/track/5MgmtxsgI28xyRedapKYBI) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ オリジナル・サウンドトラック](https://open.spotify.com/album/6viXrqcpzXyrrRx3LjZpIf) | 3:21 |
-| 30 | [Heat on Beat 2012/The Mercenaries](https://open.spotify.com/track/1m3f9gu1huZORuJ2uB34Tm) | [Daniel Lindholm](https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O) | [バイオハザード 6 オリジナル・サウンドトラック](https://open.spotify.com/album/3iD3OUJv0glDai64IVxMFk) | 3:50 |
-| 31 | [長曾我部元親のテーマ](https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 2:06 |
+| 30 | [長曾我部元親のテーマ](https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 2:06 |
+| 31 | [Heat on Beat 2012/The Mercenaries](https://open.spotify.com/track/1m3f9gu1huZORuJ2uB34Tm) | [Daniel Lindholm](https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O) | [バイオハザード 6 オリジナル・サウンドトラック](https://open.spotify.com/album/3iD3OUJv0glDai64IVxMFk) | 3:50 |
 | 32 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
 | 33 | [Esperanto](https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [ロックマン ゼロ4 オリジナルサウンドトラック](https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s) | 2:19 |
 | 34 | [GRAVITY BEETBOOD STAGE](https://open.spotify.com/track/4WTdDF76GR9BZtLwawzNpv) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [ロックマンX3 サウンド コレクション](https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw) | 1:54 |

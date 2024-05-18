@@ -4,11 +4,13 @@
 
 > Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
-197 songs - 10 hr 40 min
+199 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2023-12-08 |  |
+| [After All](https://open.spotify.com/track/3y5k4YAFvknch51j0UtMIA) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [After All](https://open.spotify.com/album/3jAzhfivp48sZJRnB1P87z) | 3:12 | 2024-05-17 |  |
+| [After We Broke Up \(feat\. Frawley\) \- VAVO Remix](https://open.spotify.com/track/5I2QgxdGC5sqUhQb6deQGV) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [After We Broke Up \(feat\. Frawley\) \[VAVO Remix\]](https://open.spotify.com/album/6wyztsue0Gv37CX4qTYSzm) | 2:17 | 2024-05-17 |  |
 | [Again](https://open.spotify.com/track/6mQkNOqfrk5CyYpjx660Gh) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Again](https://open.spotify.com/album/0EGEqpUrrlDzUQJvTQjjFR) | 2:35 | 2022-04-29 |  |
 | [Ain't Always The Cowboy \- Western Version](https://open.spotify.com/track/3As64yn0YtpJRnPi56cTke) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Ain't Always The Cowboy \(Western Version\)](https://open.spotify.com/album/4qkRHZc3liJORFIfVlHbrv) | 4:14 | 2021-12-10 |  |
 | [Angel Eyes \(Dee Jay Silver Remix\)](https://open.spotify.com/track/3bXvv1X4Jel4OCkkqCPpiH) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 3:04 | 2021-12-10 |  |

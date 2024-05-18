@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-03",
-  "description": "This is Rina Sawayama. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This Is Rina Sawayama. Los temas esenciales, todos en una lista.",
   "name": "This Is Rina Sawayama",
   "tracks": [
     {
@@ -822,6 +822,28 @@
       "duration_ms": 267369,
       "name": "Tokyo Love Hotel",
       "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
+    },
+    {
+      "album": {
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/0oPgQ81SV8i0UU7AOw1b0L"
+      },
+      "artists": [
+        {
+          "name": "Melinda Ademi",
+          "url": "https://open.spotify.com/artist/0OZsbo7wbfOuKCmHUNBUHz"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "TORNADO",
+      "url": "https://open.spotify.com/track/1zDVXeNWlq8Gvf1XgahLQg"
     },
     {
       "album": {

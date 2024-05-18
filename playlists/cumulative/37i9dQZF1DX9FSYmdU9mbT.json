@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Os grandes artistas da MPB. Foto: Djavan",
+  "description": "Os grandes artistas da MPB. Foto: MPB4",
   "name": "O Melhor da MPB",
   "tracks": [
     {
@@ -172,6 +172,28 @@
       "duration_ms": 194175,
       "name": "Andar Com F\u00e9",
       "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
+    },
+    {
+      "album": {
+        "name": "Ang\u00e9lica",
+        "url": "https://open.spotify.com/album/0qJF66hF0OL18NydgS31hS"
+      },
+      "artists": [
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180258,
+      "name": "Ang\u00e9lica",
+      "url": "https://open.spotify.com/track/1LjfrlwvGYyYxFEWbUzjWS"
     },
     {
       "album": {
@@ -456,6 +478,28 @@
       "duration_ms": 235106,
       "name": "Brasil Pandeiro",
       "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+    },
+    {
+      "album": {
+        "name": "Viol\u00f5es e Cavaquinhos",
+        "url": "https://open.spotify.com/album/4kjig7c8AIa2fdt6syvbRh"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "Canta Canta, Minha Gente (Minha Gente, Canta Canta)",
+      "url": "https://open.spotify.com/track/2zqT92v0e1lvs5paCOfxwm"
     },
     {
       "album": {

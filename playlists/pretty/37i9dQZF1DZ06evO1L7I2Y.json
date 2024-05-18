@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 2674,
+  "num_followers": 2676,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAADpG6ZpDay6+aeqwtRkeSkq",
+  "snapshot_id": "ZkVMgAAAAACSuhThbKj1p0CLegi0194s",
   "tracks": [
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 89177,
-      "name": "Anna",
-      "url": "https://open.spotify.com/track/7efyDv6P8gaX3Im5nByK5n"
+      "duration_ms": 224841,
+      "name": "N.I.N.A",
+      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 224841,
-      "name": "N.I.N.A",
-      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
+      "duration_ms": 89177,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/7efyDv6P8gaX3Im5nByK5n"
     }
   ],
   "unique_name": "This Is N.I.N.A",

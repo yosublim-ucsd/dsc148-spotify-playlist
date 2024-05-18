@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: TENDOUJI
 
-1,587 songs - 4 day 2 hr 3 min
+1,588 songs - 4 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [friday](https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [friday](https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2) | 2:49 | 2023-01-12 | 2023-02-16 |
 | [Friday Night \(A Song for Manic Pixies\)](https://open.spotify.com/track/1HnbhEfjgIRbw8qq0KwRWd) | [Mississippi Khaki Hair](https://open.spotify.com/artist/2vffVdMWW9IwxwIkhRSlxc) | [Friday Night \(A Song for Manic Pixies\)](https://open.spotify.com/album/3TRqmbJ0xxtlzWw0CC1yns) | 3:04 | 2023-05-30 | 2023-06-14 |
 | [From The Top](https://open.spotify.com/track/2EZEeTAXxYhScVxtUYsw9c) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [From The Top](https://open.spotify.com/album/4pTrnYVHUR8QzN9qxhrZe1) | 2:23 | 2023-01-17 | 2023-03-15 |
+| [frozen rain](https://open.spotify.com/track/33CM3qorCJxPRpZO8EBQ5c) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [frozen rain](https://open.spotify.com/album/469ZbSjv1aWBl9AIPSRhDu) | 2:10 | 2024-05-17 |  |
 | [Fukukarani](https://open.spotify.com/track/1EQ6MbZNhH11dFytFUxltF) | [まんぷく](https://open.spotify.com/artist/20Wm3Gk1SOfk0QQRRGECNV) | [Fukukarani](https://open.spotify.com/album/23D2dt4gqy4PRY2NndpGvY) | 4:34 | 2023-11-21 | 2023-11-29 |
 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 | 2023-02-21 | 2023-04-06 |
 | [fushigi \- URBAN VOLCANO SOUNDS Mysterious Boogie Remix](https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [URBAN VOLCANO SOUNDS](https://open.spotify.com/artist/7uKxxjykhehO0XETSo7Ahi) | [fushigi \(URBAN VOLCANO SOUNDS Mysterious Boogie Remix\)](https://open.spotify.com/album/1kLgYyA73inRosAynMsNHu) | 5:49 | 2023-08-22 | 2023-09-19 |
@@ -1584,7 +1585,7 @@
 | [風になって](https://open.spotify.com/track/4rz9SL6tnC4Pno1DQQCk2y) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [風になって](https://open.spotify.com/album/2s7KGADcWkxCNpui3yFsoG) | 3:40 | 2024-04-09 | 2024-04-17 |
 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 | 2023-01-12 | 2023-02-01 |
 | [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 | 2023-06-13 |  |
-| [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-06-20 |  |
+| [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-06-20 | 2024-05-18 |
 | [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 | 2023-02-21 | 2023-02-23 |
 | [風船は小さな手を離れて](https://open.spotify.com/track/1dF4ksSNiXJnogblM7YfEa) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [もしかして世間](https://open.spotify.com/album/78Bbwa8TUPLlsaV1Y0vL3Q) | 3:55 | 2023-04-25 | 2023-05-24 |
 | [飛ぶという行為](https://open.spotify.com/track/0oeZHQsfc1H4sPyylSqFDM) | [Strip Joint](https://open.spotify.com/artist/3SSyE3YH7LiqnaYAouwBzc) | [飛ぶという行為](https://open.spotify.com/album/3JpCFYXtwbnO9CZJPYJxbC) | 4:07 | 2024-04-02 | 2024-04-10 |

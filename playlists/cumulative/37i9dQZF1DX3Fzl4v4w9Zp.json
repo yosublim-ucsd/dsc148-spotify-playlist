@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Emily Nenni",
+  "description": "Keep your finger on the pulse of Americana. Cover: The Avett Brothers",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 335160,
       "name": "Blank Page",
       "url": "https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5"
@@ -1768,6 +1768,24 @@
       "duration_ms": 221440,
       "name": "Can\u2019t Let Go",
       "url": "https://open.spotify.com/track/5JktApbmtMr5cCbOoENhrK"
+    },
+    {
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "album": {
@@ -4067,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "Better Not Tell You",
+        "url": "https://open.spotify.com/album/07N07mwMao3iOtwMjw5OtH"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201045,
+      "name": "Good Together",
+      "url": "https://open.spotify.com/track/39MSXVUs6QtsIlYz3000LO"
+    },
+    {
+      "album": {
         "name": "Chlo\u00eb and the Next 20th Century",
         "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
@@ -4844,7 +4880,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 276760,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4"
@@ -5170,7 +5206,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 214653,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3"
@@ -5210,6 +5246,24 @@
       "duration_ms": 179026,
       "name": "I Got This",
       "url": "https://open.spotify.com/track/3KMrapCsGVYo4LtT6vHjn2"
+    },
+    {
+      "album": {
+        "name": "I Gotta Change (Or I'm Gonna Die)",
+        "url": "https://open.spotify.com/album/3lnhEGNGO78t5NXAXGF8CL"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "I Gotta Change (Or I'm Gonna Die)",
+      "url": "https://open.spotify.com/track/0e30nRCNjBZ0EDi5Pr2vCq"
     },
     {
       "album": {
@@ -5268,6 +5322,24 @@
       "duration_ms": 155307,
       "name": "I Know It\u2019ll Never End",
       "url": "https://open.spotify.com/track/7mJF8GrNWZl5TRrGzqf6je"
+    },
+    {
+      "album": {
+        "name": "The Loneliest Girl In The World",
+        "url": "https://open.spotify.com/album/7IZM1DRyVEwojBUupZrh96"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "I Let Him Love Me",
+      "url": "https://open.spotify.com/track/3r7y3Zmvf3hjHCtXbntAaQ"
     },
     {
       "album": {
@@ -7631,6 +7703,24 @@
     },
     {
       "album": {
+        "name": "The Avett Brothers",
+        "url": "https://open.spotify.com/album/3Z7vd5JXLArFxYz8PxT6Py"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Orion's Belt",
+      "url": "https://open.spotify.com/track/2k6rccSqgz95TpE7gaZuVj"
+    },
+    {
+      "album": {
         "name": "Orphan Child",
         "url": "https://open.spotify.com/album/4SyrS57R0V9jB7LB1ty6Qw"
       },
@@ -7982,7 +8072,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 218368,
       "name": "pennies",
       "url": "https://open.spotify.com/track/6OQcAx1KceBqCEsWniAKMh"
@@ -11898,7 +11988,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 257087,
       "name": "Winnemucca",
       "url": "https://open.spotify.com/track/6Rm3L6bg7z8tUAI3FUZ4Fe"

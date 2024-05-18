@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-13,569 songs - 29 day 7 hr 41 min
+13,570 songs - 29 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1826,7 +1826,7 @@
 | [C R A Z Y](https://open.spotify.com/track/0ZhC7a7IEcPhJtP6Ns8ZDF) | [Ben Mitkus](https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu) | [C R A Z Y](https://open.spotify.com/album/7Mc3Raq0decyTuPvkzHiF4) | 3:09 | 2024-02-15 | 2024-02-23 |
 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 | 2022-09-22 | 2022-09-30 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/6RdQx3nZNjYIZ9nlBw6JLG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco: Chapter 1](https://open.spotify.com/album/5lGeIKePKFplfWbgfTBA8e) | 3:30 | 2022-02-11 | 2022-02-18 |
-| [C60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 | 2024-05-16 |  |
+| [C\-60](https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [C\-60](https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer) | 1:00:00 | 2024-05-16 |  |
 | [Caesar on a TV Screen](https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Caesar on a TV Screen](https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V) | 3:49 | 2024-01-04 | 2024-01-12 |
 | [Caffeine](https://open.spotify.com/track/3UVBkOTod3wOadZL6y32zE) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Caffeine](https://open.spotify.com/album/7E8Enrh5avrFvW3FS5j0da) | 2:23 | 2022-06-02 | 2022-06-10 |
 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 | 2022-07-08 | 2022-07-15 |
@@ -7499,7 +7499,7 @@
 | [Mammalåten](https://open.spotify.com/track/1CKWaymmbJAzsUYy60d2Bq) | [Elin Wiigh](https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn) | [Mammalåten](https://open.spotify.com/album/3Rso8c3N4SvitmIhkhb7vl) | 3:25 | 2023-05-18 | 2023-05-26 |
 | [Mammas port](https://open.spotify.com/track/2KWcnMekI5CCnNYkX2cAxh) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Mammas port](https://open.spotify.com/album/3WDpJ9WWsC40VD2jFjs5QS) | 3:57 | 2024-02-22 | 2024-03-01 |
 | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/track/2C3Gsy6HgWQAEm4qaqhgVQ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/album/5ra7esHOt8nyFcIFwGJ7wh) | 3:07 | 2023-07-20 | 2023-07-28 |
-| [Man In Finance \(Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-05-16 |  |
+| [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-05-16 |  |
 | [Man In The Mirror](https://open.spotify.com/track/75m5sibaeNwWvuDMS2qp0z) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Man In The Mirror](https://open.spotify.com/album/1N8rjDhx0auy6sws8tqTHz) | 2:55 | 2022-11-03 | 2022-11-11 |
 | [Man längtar ut](https://open.spotify.com/track/54uaOIL5moPDVjgjmOUpEq) | [Christina Lindberg](https://open.spotify.com/artist/4XKh5jfRDEwgI8YKxcDU6w) | [Man längtar ut](https://open.spotify.com/album/1F3TWDohN5pFiRaVWdmkYH) | 2:56 | 2021-12-30 | 2022-01-07 |
 | [Man On A Mission \(feat\. SL\)](https://open.spotify.com/track/1IHPOnF7GswcdGa9F5zBBg) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Man On A Mission \(feat\. SL\)](https://open.spotify.com/album/4r0ZKwHX5xSKFgJjCGbqBE) | 1:54 | 2022-12-15 | 2022-12-24 |
@@ -8122,6 +8122,7 @@
 | [Nakna](https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nakna](https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B) | 3:12 | 2022-06-02 | 2022-06-10 |
 | [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 | 2023-05-25 | 2023-06-02 |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-26 | 2022-06-03 |
+| [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 |  |
 | [Narcissist](https://open.spotify.com/track/0fayxbip7asGIBze5wWZnu) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Narcissist](https://open.spotify.com/album/5q4oFnbNrfW9MtuZdBIZlC) | 2:29 | 2024-01-04 | 2024-01-12 |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-29 | 2022-08-05 |
 | [Narcos](https://open.spotify.com/track/4DNC1LSAbl3NYnufVEI3Ah) | [Bash](https://open.spotify.com/artist/5fENfPNU8mOrF7HY7ldTmw) | [Narcos](https://open.spotify.com/album/5lMXgrTmAvp0oPREbNoihP) | 3:18 | 2022-09-01 | 2022-09-09 |

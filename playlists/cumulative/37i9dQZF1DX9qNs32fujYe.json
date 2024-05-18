@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Kittie",
+  "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: M\u00f6tley Cr\u00fce",
   "name": "Heavy Metal",
   "tracks": [
     {
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 211893,
       "name": "Beast of G\u00e9vaudan",
       "url": "https://open.spotify.com/track/1i0fcF53lHffHnDxM293On"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 675653,
       "name": "Black No. 1 (Little Miss Scare -All)",
       "url": "https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 327240,
       "name": "Bone Church",
       "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 290960,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
@@ -2992,7 +2992,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 158720,
       "name": "Dad\u2019Algorhythm",
       "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
@@ -4985,6 +4985,24 @@
     },
     {
       "album": {
+        "name": "Child Within The Man",
+        "url": "https://open.spotify.com/album/4BT7xGOJ4FtgLKLadxBaZF"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Bach",
+          "url": "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4MQkVbYj1QTtaaw1u6ghX0"
+    },
+    {
+      "album": {
         "name": "De Mysteriis Dom Sathanas",
         "url": "https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE"
       },
@@ -6302,7 +6320,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 276653,
       "name": "Hungry and Angry",
       "url": "https://open.spotify.com/track/57PT761NIApIzfORTkmwWU"
@@ -7419,6 +7437,24 @@
     },
     {
       "album": {
+        "name": "Kool-Aid",
+        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228470,
+      "name": "Kool-Aid",
+      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "album": {
         "name": "The Rise of Chaos",
         "url": "https://open.spotify.com/album/1kzfP9URLnFFCN3H0mrOFo"
       },
@@ -7542,7 +7578,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
@@ -8720,7 +8756,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 222136,
       "name": "My Will Be Done",
       "url": "https://open.spotify.com/track/6ueojaNAK670h4Cei9ZG4A"
@@ -9037,6 +9073,24 @@
     },
     {
       "album": {
+        "name": "Nihilism",
+        "url": "https://open.spotify.com/album/69fjRGFNKKjgx4PzdxAsRz"
+      },
+      "artists": [
+        {
+          "name": "Vended",
+          "url": "https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196017,
+      "name": "Nihilism",
+      "url": "https://open.spotify.com/track/6C8l342LO3G0EOQWbdM7Yz"
+    },
+    {
+      "album": {
         "name": "No More Hollywood Endings",
         "url": "https://open.spotify.com/album/7H4gPkbdQlDM7jRTRnsnyO"
       },
@@ -9204,6 +9258,24 @@
       "duration_ms": 287400,
       "name": "Nobody's Fool",
       "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
+    },
+    {
+      "album": {
+        "name": "nootropic",
+        "url": "https://open.spotify.com/album/5ck8xM0FXVsszq20ZzSfXv"
+      },
+      "artists": [
+        {
+          "name": "Intervals",
+          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "nootropic",
+      "url": "https://open.spotify.com/track/6jFp9JebXxoUmBw7w7P6m2"
     },
     {
       "album": {
@@ -9792,6 +9864,24 @@
       "duration_ms": 325987,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35"
+    },
+    {
+      "album": {
+        "name": "Paradigm Piercer",
+        "url": "https://open.spotify.com/album/59jgDNBKHtHtq93eERnX7c"
+      },
+      "artists": [
+        {
+          "name": "Judiciary",
+          "url": "https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "Paradigm Piercer",
+      "url": "https://open.spotify.com/track/5EdPhUVd68uiXSbf6JAmpe"
     },
     {
       "album": {
@@ -15476,7 +15566,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 157279,
       "name": "WHERE'S THE EXIT",
       "url": "https://open.spotify.com/track/56zJdpbi7686kWKHiZoKjf"

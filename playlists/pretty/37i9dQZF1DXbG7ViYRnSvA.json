@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 18544,
+  "num_followers": 18557,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "IN TIME",
+        "url": "https://open.spotify.com/album/5Unj1ppHWjYhAUK49rqugW"
+      },
+      "artists": [
+        {
+          "name": "Tarrey Torae",
+          "url": "https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw"
+        }
+      ],
+      "duration_ms": 225348,
+      "name": "IN TIME",
+      "url": "https://open.spotify.com/track/215dPn2vTiquckgM8Izoui"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "ALL NIGHT (Goodlife)",
         "url": "https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 536254,
       "name": "Charlotte's Thong",
       "url": "https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "IN TIME",
-        "url": "https://open.spotify.com/album/5Unj1ppHWjYhAUK49rqugW"
-      },
-      "artists": [
-        {
-          "name": "Tarrey Torae",
-          "url": "https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw"
-        }
-      ],
-      "duration_ms": 225348,
-      "name": "IN TIME",
-      "url": "https://open.spotify.com/track/215dPn2vTiquckgM8Izoui"
     },
     {
       "added_at": "2022-10-01 16:00:00",

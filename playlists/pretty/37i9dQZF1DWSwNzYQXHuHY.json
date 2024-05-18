@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9801,
+  "num_followers": 9803,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "What's On Your Mind? (Feat. UNE)",
         "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 156857,
       "name": "What's On Your Mind? (Feat. UNE)",
       "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
+        "name": "Hangang Chillin'",
+        "url": "https://open.spotify.com/album/0mm29Ew2iUYiyLKVyi2HBE"
+      },
+      "artists": [
+        {
+          "name": "LimJi",
+          "url": "https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z"
+        }
+      ],
+      "duration_ms": 165385,
+      "name": "Hangang Chillin'",
+      "url": "https://open.spotify.com/track/2z4Q58WhE8OC5F38R3hCGd"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
         "name": "A New Decade",
         "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
       },
@@ -711,26 +727,6 @@
       "duration_ms": 219813,
       "name": "Should Not Love You",
       "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
-        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
-        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
-      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -755,18 +751,22 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "Hangang Chillin'",
-        "url": "https://open.spotify.com/album/0mm29Ew2iUYiyLKVyi2HBE"
+        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
+        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
       "artists": [
         {
-          "name": "LimJi",
-          "url": "https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z"
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
         }
       ],
-      "duration_ms": 165385,
-      "name": "Hangang Chillin'",
-      "url": "https://open.spotify.com/track/2z4Q58WhE8OC5F38R3hCGd"
+      "duration_ms": 205050,
+      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
+      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "Unintentional Love Story Original Televion Soundtrack Pt. 3",
-        "url": "https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS"
-      },
-      "artists": [
-        {
-          "name": "Dann",
-          "url": "https://open.spotify.com/artist/4ehtLyNdsw7CcJ29kmOeJT"
-        },
-        {
-          "name": "MUJIN",
-          "url": "https://open.spotify.com/artist/2nR3HIgrF5irB5FLRYaluH"
-        }
-      ],
-      "duration_ms": 201238,
-      "name": "Traffic Accident",
-      "url": "https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "how can i do",
         "url": "https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 169599,
       "name": "how can i do (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "Unintentional Love Story Original Televion Soundtrack Pt. 3",
+        "url": "https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS"
+      },
+      "artists": [
+        {
+          "name": "Dann",
+          "url": "https://open.spotify.com/artist/4ehtLyNdsw7CcJ29kmOeJT"
+        },
+        {
+          "name": "MUJIN",
+          "url": "https://open.spotify.com/artist/2nR3HIgrF5irB5FLRYaluH"
+        }
+      ],
+      "duration_ms": 201238,
+      "name": "Traffic Accident",
+      "url": "https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf"
     },
     {
       "added_at": "2024-05-14 13:50:25",

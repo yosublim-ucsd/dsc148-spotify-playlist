@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204913,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa"
+    },
+    {
+      "album": {
         "name": "Busca Ayuda",
         "url": "https://open.spotify.com/album/4sPthmuHoRguvoxG4KkOMi"
       },
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 202493,
       "name": "D\u00e9jate Caer - 2024",
       "url": "https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 196311,
       "name": "Fuego Interno",
       "url": "https://open.spotify.com/track/0xegIA8s5VHvXSrjCNViwE"
@@ -6422,7 +6440,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 276932,
       "name": "Rompecabezas (feat. NATURE)",
       "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
@@ -6774,6 +6792,24 @@
       "duration_ms": 311720,
       "name": "SKR",
       "url": "https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ"
+    },
+    {
+      "album": {
+        "name": "Slippery People",
+        "url": "https://open.spotify.com/album/61l4URgOvUZqdRs9Qlrdru"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340413,
+      "name": "Slippery People",
+      "url": "https://open.spotify.com/track/0ZQ6P0kDhjjhZSDvV3i9Br"
     },
     {
       "album": {
@@ -8240,6 +8276,24 @@
       "duration_ms": 153960,
       "name": "Zeppelin",
       "url": "https://open.spotify.com/track/2pKX8ad4udW2XIbka2P3fe"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Qued\u00f3 El Amor?",
+        "url": "https://open.spotify.com/album/4bJ3Mss6Nc1vhhaG71admB"
+      },
+      "artists": [
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214394,
+      "name": "\u00bfD\u00f3nde Qued\u00f3 El Amor?",
+      "url": "https://open.spotify.com/track/6WWrs73n6lwk7GDMLVxLQI"
     },
     {
       "album": {

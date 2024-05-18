@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 232872,
+  "num_followers": 232878,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 298760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -899,18 +899,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Best Of Chris Isaak",
-        "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
+        "name": "S\u00f3 No Forevis",
+        "url": "https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE"
       },
       "artists": [
         {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        },
+        {
+          "name": "\u00c9rika Martins",
+          "url": "https://open.spotify.com/artist/4dRD1vu6GiXmDOECHo6p43"
         }
       ],
-      "duration_ms": 286880,
-      "name": "Wicked Game - Remastered",
-      "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
+      "duration_ms": 233733,
+      "name": "A mais pedida (feat. \u00c9rika Martins)",
+      "url": "https://open.spotify.com/track/349flwjNbqIaE0Mph3jLGD"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -947,22 +951,18 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "S\u00f3 No Forevis",
-        "url": "https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE"
+        "name": "Best Of Chris Isaak",
+        "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
       },
       "artists": [
         {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        },
-        {
-          "name": "\u00c9rika Martins",
-          "url": "https://open.spotify.com/artist/4dRD1vu6GiXmDOECHo6p43"
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
         }
       ],
-      "duration_ms": 233733,
-      "name": "A mais pedida (feat. \u00c9rika Martins)",
-      "url": "https://open.spotify.com/track/349flwjNbqIaE0Mph3jLGD"
+      "duration_ms": 286880,
+      "name": "Wicked Game - Remastered",
+      "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
     },
     {
       "added_at": "2024-02-27 20:15:05",

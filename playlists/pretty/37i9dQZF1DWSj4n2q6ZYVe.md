@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 
 > The biggest dance floor bangers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,490 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,879 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 53 | [Rapture \(feat.Nadia Ali\)](https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Poetica \(feat\. Nadia Ali\)](https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD) | 4:13 |
 | 54 | [In For The Kill](https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 4:08 |
 | 55 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
-| 56 | [From Paris to Berlin](https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9) | [Infernal](https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k) | [From Paris to Berlin](https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx) | 3:29 |
-| 57 | [Propane Nightmares](https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [In Silico](https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ) | 5:13 |
+| 56 | [Propane Nightmares](https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [In Silico](https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ) | 5:13 |
+| 57 | [From Paris to Berlin](https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9) | [Infernal](https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k) | [From Paris to Berlin](https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx) | 3:29 |
 | 58 | [Pretty Green Eyes \- Radio Edit](https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [Pretty Green Eyes \(Remixes\)](https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk) | 3:21 |
 | 59 | [Voyage voyage](https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Free](https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9) | 3:04 |
 | 60 | [Ghosts 'n' Stuff](https://open.spotify.com/track/4ua0IepBEISCWwF8dTJvcU) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack Of A Better Name](https://open.spotify.com/album/6WJvrBlL3zgu4mVoKyvMkl) | 5:28 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 62 | [Invaders Must Die](https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Invaders Must Die](https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM) | 4:55 |
 | 63 | [Wearing My Rolex \- Radio Edit](https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [See Clear Now](https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR) | 2:50 |
 | 64 | [Technologic](https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu) | 4:44 |
-| 65 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/6lT26Dq7aEwOjXTZzkBjSO) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold \(Radio Edit\)](https://open.spotify.com/album/4xqJlHAGzZx6AenXVJt1aS) | 3:32 |
-| 66 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 |
+| 65 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 |
+| 66 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/6lT26Dq7aEwOjXTZzkBjSO) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold \(Radio Edit\)](https://open.spotify.com/album/4xqJlHAGzZx6AenXVJt1aS) | 3:32 |
 | 67 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
 | 68 | [Romeo](https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 3:37 |
 | 69 | [The Salmon Dance](https://open.spotify.com/track/3vRYtf5xgPrYeVzAmqvzTd) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [We Are The Night](https://open.spotify.com/album/59BUTEyxgum2KPZMwrJjVr) | 3:40 |

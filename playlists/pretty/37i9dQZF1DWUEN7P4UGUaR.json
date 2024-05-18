@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 10278,
+  "num_followers": 10299,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Amen (Live)",
+        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
+      },
+      "artists": [
+        {
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Amen - Live",
+      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 146779,
       "name": "Chale",
       "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Okrokrohene",
-        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 366107,
-      "name": "Okrokrohene",
-      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -555,22 +555,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
+        "name": "Okrokrohene",
+        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
       },
       "artists": [
         {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
         }
       ],
-      "duration_ms": 218928,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
+      "duration_ms": 366107,
+      "name": "Okrokrohene",
+      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -591,18 +587,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Amen (Live)",
-        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
       },
       "artists": [
         {
-          "name": "FRA!",
-          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 200161,
-      "name": "Amen - Live",
-      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
+      "duration_ms": 218928,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
     },
     {
       "added_at": "2024-05-17 00:01:00",

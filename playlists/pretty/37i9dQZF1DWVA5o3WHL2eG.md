@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,034 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,048 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [Nikes](https://open.spotify.com/track/2fKA1WxKe21pQ5o9sh5DKM) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Nikes](https://open.spotify.com/album/5HdAHnEZK7KpND5QeFkm22) | 2:15 |
 | 19 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 |
 | 20 | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/track/2UD1csihq8aPrpM69C2XrW) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/album/7KvmaGO2mmsSHnPLZLUQUw) | 2:44 |
-| 21 | [blei](https://open.spotify.com/track/0lkhukcLEhY3j9Nlo4NhqL) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [blei](https://open.spotify.com/album/4IVG5q7oP8gdz1dQOPaRNx) | 3:35 |
-| 22 | [GOLDEN DAYS](https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [GOLDEN DAYS](https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB) | 3:13 |
-| 23 | [hello sunshine](https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [hello sunshine](https://open.spotify.com/album/0RqvyJLJdIgR3OsSCPO8NJ) | 3:10 |
+| 21 | [hello sunshine](https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [hello sunshine](https://open.spotify.com/album/0RqvyJLJdIgR3OsSCPO8NJ) | 3:10 |
+| 22 | [blei](https://open.spotify.com/track/0lkhukcLEhY3j9Nlo4NhqL) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [blei](https://open.spotify.com/album/4IVG5q7oP8gdz1dQOPaRNx) | 3:35 |
+| 23 | [GOLDEN DAYS](https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [GOLDEN DAYS](https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB) | 3:13 |
 | 24 | [Fühl](https://open.spotify.com/track/479s4TFZOPLHaxU48yLQS3) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Hush Hush / Hamburg](https://open.spotify.com/album/3K1F9IVCnkC5PvEqTldm2t) | 3:41 |
 | 25 | [Ohne Mich](https://open.spotify.com/track/0UZsZ6BPr4bvY1menn8cTI) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Ohne Mich](https://open.spotify.com/album/4G5OX3QAgtpFZxrVX12z5B) | 2:15 |
-| 26 | [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 |
-| 27 | [Kreislauf](https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kreislauf](https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07) | 3:27 |
-| 28 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
+| 26 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
+| 27 | [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 |
+| 28 | [Kreislauf](https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kreislauf](https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07) | 3:27 |
 | 29 | [Erste große Freiheit](https://open.spotify.com/track/6V61cAkuLWBbCgUfInCafm) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Erste große Freiheit](https://open.spotify.com/album/7jXxuBaJyejbo3mawvLTex) | 2:21 |
 | 30 | [ich hoff du brichst mir das herz](https://open.spotify.com/track/6DhirTqLVokUliDHoeifV1) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/2xC2CRqglvHLuK0voIWseb) | 2:40 |
 | 31 | [Trippy Energy](https://open.spotify.com/track/7oxqDCr1lc2vy0RajpZZY1) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Trippy Energy](https://open.spotify.com/album/4x2l98hIcFBXfgEp6o6FWQ) | 2:01 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |
 | 36 | [Four Days](https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Four Days](https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd) | 3:39 |
 | 37 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 |
-| 38 | [boy with a view](https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boy with a view](https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN) | 3:07 |
-| 39 | [DiEBiN](https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [DiEBiN](https://open.spotify.com/album/72XnjLNVoTHGtGoJBU1dB8) | 2:36 |
+| 38 | [DiEBiN](https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [DiEBiN](https://open.spotify.com/album/72XnjLNVoTHGtGoJBU1dB8) | 2:36 |
+| 39 | [boy with a view](https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boy with a view](https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN) | 3:07 |
 | 40 | [MOMENT](https://open.spotify.com/track/343aNgdgt5aAPa2cfaZt4C) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [MOMENT](https://open.spotify.com/album/4Ufp8bp3X5MZpqmrZ7YSkP) | 4:08 |
 | 41 | [Neuröschen](https://open.spotify.com/track/2SMLU8tjyEWHPWzML0radC) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Neuröschen](https://open.spotify.com/album/1OZ88NMxxpwQs8PZIfeqZb) | 3:35 |
 | 42 | [Poetry](https://open.spotify.com/track/5fgS2U9sQPGyATAf2f9tHg) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Poetry \(for the scorned and lonely\)](https://open.spotify.com/album/3vPT3TO7w9bo1b8ohw4ODL) | 2:47 |

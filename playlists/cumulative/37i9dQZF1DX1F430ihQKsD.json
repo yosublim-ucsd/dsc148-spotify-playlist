@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 163978,
       "name": "Combien \u00e7a co\u00fbte",
       "url": "https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP"
@@ -2933,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "G4ME0VER",
+        "url": "https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9Li",
+          "url": "https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "G4ME0VER",
+      "url": "https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW"
+    },
+    {
+      "album": {
         "name": "Gallows",
         "url": "https://open.spotify.com/album/4rWlTRMZieWj6MJV7KsCJh"
       },
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 221134,
       "name": "Golden Eyes",
       "url": "https://open.spotify.com/track/5jx2qpggSQs3tKkffGUW3c"
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 217172,
       "name": "I Hope I Packed A Parachute (feat. Charlotte Cardin)",
       "url": "https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif"
@@ -5525,6 +5543,24 @@
     },
     {
       "album": {
+        "name": "Darkroom",
+        "url": "https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214773,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId"
+    },
+    {
+      "album": {
         "name": "OCTEMBRE",
         "url": "https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA"
       },
@@ -6788,7 +6824,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
@@ -6958,6 +6994,24 @@
       "duration_ms": 290120,
       "name": "S'il n'est pas \u00e0 mes c\u00f4t\u00e9s ce matin, j'irai au champ quand m\u00eame",
       "url": "https://open.spotify.com/track/5iiufGJxYKT9GDDXdpLu4G"
+    },
+    {
+      "album": {
+        "name": "SABOTAGE",
+        "url": "https://open.spotify.com/album/4NrrsDtH1VJSeoQsakvKkQ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Forest",
+          "url": "https://open.spotify.com/artist/0suucqqvdSvSNRyfvzEBe7"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "SABOTAGE",
+      "url": "https://open.spotify.com/track/0EhNBdXyImhnYWKpgXvIVc"
     },
     {
       "album": {
@@ -8236,6 +8290,28 @@
       "duration_ms": 205312,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
+    },
+    {
+      "album": {
+        "name": "Une nuit \u00e0 Paris",
+        "url": "https://open.spotify.com/album/7DCWNYVc3UlDYRQf9PJoym"
+      },
+      "artists": [
+        {
+          "name": "pataugeoire",
+          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
+        },
+        {
+          "name": "Claire Morrison",
+          "url": "https://open.spotify.com/artist/5gEPev2nkwI0VZMMQ5i7fg"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Une nuit \u00e0 Paris",
+      "url": "https://open.spotify.com/track/5g5Teg7FeCD0coLI9hHDow"
     },
     {
       "album": {

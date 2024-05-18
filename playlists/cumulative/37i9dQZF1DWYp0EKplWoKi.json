@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La esquina donde las estrellas de la M\u00fasica Mexicana se juntan. Joss Favela, Gera MX en portada.",
+  "description": "La esquina donde las estrellas de la M\u00fasica Mexicana se juntan. La Cuadrilla Oficial, Fracci\u00f3n EME en portada.",
   "name": "El Junte",
   "tracks": [
     {
@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n en Coma",
+        "url": "https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172100,
+      "name": "Coraz\u00f3n en Coma",
+      "url": "https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
@@ -1883,6 +1905,50 @@
     },
     {
       "album": {
+        "name": "El Don del Sombrero",
+        "url": "https://open.spotify.com/album/00SCT4HscEELQJTwasEAuy"
+      },
+      "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        },
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188439,
+      "name": "El Don del Sombrero",
+      "url": "https://open.spotify.com/track/6b9j71HemuE2HXPto7V1IB"
+    },
+    {
+      "album": {
+        "name": "El D\u00eda Que Me Acaricies Llorar\u00e9",
+        "url": "https://open.spotify.com/album/0fflitVSDFp48BMKtqwlmJ"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184158,
+      "name": "El D\u00eda Que Me Acaricies Llorar\u00e9",
+      "url": "https://open.spotify.com/track/2KYH94X0B6zTXYwcjupvkS"
+    },
+    {
+      "album": {
         "name": "El Fantasma",
         "url": "https://open.spotify.com/album/1Rt6hd1BURNy6esbmpAI1I"
       },
@@ -2164,7 +2230,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 227347,
       "name": "El Rey de la Kumbia",
       "url": "https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh"
@@ -2352,7 +2418,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 203221,
       "name": "En las Calles",
       "url": "https://open.spotify.com/track/1kzn8QyrcNw1h8SACHzYMR"
@@ -2528,7 +2594,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 170946,
       "name": "Fuga Pal Gabacho",
       "url": "https://open.spotify.com/track/6QeA0l9V1H682UgiWZlgFV"
@@ -3026,6 +3092,28 @@
       "duration_ms": 174923,
       "name": "La Fresa",
       "url": "https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu"
+    },
+    {
+      "album": {
+        "name": "La Historia de Mi Vida",
+        "url": "https://open.spotify.com/album/2jyj2CliYLzBx3DOhw30Bs"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        },
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192098,
+      "name": "La Historia de Mi Vida",
+      "url": "https://open.spotify.com/track/0DrxE5wSNxm187WHNuWGVr"
     },
     {
       "album": {
@@ -3910,7 +3998,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 197786,
       "name": "Mientras no Vuelves",
       "url": "https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw"
@@ -4108,6 +4196,28 @@
       "duration_ms": 169895,
       "name": "Ni Me Debes Ni Te Debo",
       "url": "https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM"
+    },
+    {
+      "album": {
+        "name": "Nivel Dios",
+        "url": "https://open.spotify.com/album/4kqA5xSxfGhwH7OubMCZQl"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Nivel Dios",
+      "url": "https://open.spotify.com/track/2fQDPWL8HKiiAC3l95dXJO"
     },
     {
       "album": {
@@ -4743,6 +4853,28 @@
     },
     {
       "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209492,
+      "name": "POR QU\u00c9 SER\u00c1",
+      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
+    },
+    {
+      "album": {
         "name": "Porte Malandro Fres\u00f3n",
         "url": "https://open.spotify.com/album/4uXVAVVf7aCt2sHVBnKD6U"
       },
@@ -4758,7 +4890,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 149761,
       "name": "Porte Malandro Fres\u00f3n",
       "url": "https://open.spotify.com/track/44rmoLP3engelokQlkWhLJ"
@@ -5298,7 +5430,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 185642,
       "name": "Suspiros (En Vivo)",
       "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
@@ -5816,7 +5948,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 199384,
       "name": "Vino Rosa",
       "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
@@ -5930,6 +6062,28 @@
       "duration_ms": 187500,
       "name": "Ya Los Miraron Pasar",
       "url": "https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S"
+    },
+    {
+      "album": {
+        "name": "Ya Te Super\u00e9",
+        "url": "https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226476,
+      "name": "Ya Te Super\u00e9",
+      "url": "https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF"
     },
     {
       "album": {

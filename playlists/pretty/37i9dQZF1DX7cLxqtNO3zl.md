@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,901 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,904 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 28 | [Dilbar \(From "Satyameva Jayate"\)](https://open.spotify.com/track/6cARnc9YVlBNigjNSX63pp) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Frolic Neha Kakkar](https://open.spotify.com/album/72AyTNvQjaCH6btYBQbyVD) | 3:04 |
 | 29 | [Habibi](https://open.spotify.com/track/1oqb2byqglKfTr4TEvLtGZ) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 4:51 |
 | 30 | [Bollywood](https://open.spotify.com/track/75bnrRBe7WXrlM8vxBQMOI) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Bollywood](https://open.spotify.com/album/4a4Ilmyy4LticNI8wjxdEh) | 3:09 |
-| 31 | [Ya Ali](https://open.spotify.com/track/1LJRNbwOZ9TopITPaWDbsr) | [Zubeen Garg](https://open.spotify.com/artist/3mpgtUc7wYBNjr04gEiQ4u) | [Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58KM0sPteBvwVW6skGRHFh) | 4:55 |
-| 32 | [Enta Habibi](https://open.spotify.com/track/2EDlJWafWH5q8EKrlzfkrF) | [Rahim Pardesi](https://open.spotify.com/artist/1KapWiZY2dgci5Ual0ELOr) | [Enta Habibi](https://open.spotify.com/album/5ALjw6UamqxHFKCnhhVab6) | 3:01 |
+| 31 | [Enta Habibi](https://open.spotify.com/track/2EDlJWafWH5q8EKrlzfkrF) | [Rahim Pardesi](https://open.spotify.com/artist/1KapWiZY2dgci5Ual0ELOr) | [Enta Habibi](https://open.spotify.com/album/5ALjw6UamqxHFKCnhhVab6) | 3:01 |
+| 32 | [Ya Ali](https://open.spotify.com/track/1LJRNbwOZ9TopITPaWDbsr) | [Zubeen Garg](https://open.spotify.com/artist/3mpgtUc7wYBNjr04gEiQ4u) | [Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58KM0sPteBvwVW6skGRHFh) | 4:55 |
 | 33 | [Wallah Wallah](https://open.spotify.com/track/4N1szZrSScl8EbUg2t240H) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Proof](https://open.spotify.com/artist/5pk8AXDLwwybWfGXpqWkZ5) | [Wallah Wallah](https://open.spotify.com/album/0YvN3saYGkzZzvRcCdyYNr) | 3:51 |
 | 34 | [Zariya](https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY), [Ani Choying Drolma](https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI) | [Coke Studio India Season 3: Episode 1](https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl) | 7:12 |
 | 35 | [Shukran Allah \(From "Kurbaan"\)](https://open.spotify.com/track/2NLV2sSMKbHYyqezZiqXj0) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Sonu Nigam: Best of Me](https://open.spotify.com/album/6t6xffp18j87wZRLXOwHa7) | 4:50 |

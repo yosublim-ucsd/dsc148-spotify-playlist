@@ -1,13 +1,29 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.",
-  "num_followers": 45637,
+  "num_followers": 45635,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABEhfByu5SO85VVURy19Og5/9YO9/Z2",
+  "snapshot_id": "AABEh6I3FWTlraDG/MRrsHxfbIXz6U7K",
   "tracks": [
+    {
+      "added_at": "2024-05-17 14:35:50",
+      "album": {
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/71V5c3JMOzLatchvR4ldmJ"
+      },
+      "artists": [
+        {
+          "name": "Tedy",
+          "url": "https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/5d1P1mec9QUKTWurAA1fvk"
+    },
     {
       "added_at": "2024-05-13 15:42:09",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Adrian Bello",
+  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Diamante El\u00e9ctrico",
   "name": "Indie Andinos",
   "tracks": [
     {
@@ -128,6 +128,28 @@
       "duration_ms": 175420,
       "name": "Alma Rota",
       "url": "https://open.spotify.com/track/13fm0n3dQGNwMzVPdayFe9"
+    },
+    {
+      "album": {
+        "name": "Alma y Olvido",
+        "url": "https://open.spotify.com/album/1NbfewHSHakpdQPzfmqZ0x"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        },
+        {
+          "name": "Los Balcones Amarillos",
+          "url": "https://open.spotify.com/artist/2Tsj2XMyZc1hIsarvh9Vk1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227684,
+      "name": "Alma y Olvido",
+      "url": "https://open.spotify.com/track/1P2DlRsIhnvUawboqQzArG"
     },
     {
       "album": {
@@ -431,6 +453,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Ir",
+        "url": "https://open.spotify.com/album/6rH83cKM2JX2Mp2xg9PeMJ"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        },
+        {
+          "name": "Nicol\u00e1s y los Fumadores",
+          "url": "https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "D\u00e9jame Ir",
+      "url": "https://open.spotify.com/track/3jWsQr0g2beZgdaWj1Pv0y"
+    },
+    {
+      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -446,6 +490,24 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "album": {
+        "name": "El Amor Es un Juego de Perdedores",
+        "url": "https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208839,
+      "name": "El Amor Es un Juego de Perdedores",
+      "url": "https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA"
     },
     {
       "album": {
@@ -496,7 +558,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 205911,
       "name": "Entremundos",
       "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
@@ -514,7 +576,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 238648,
       "name": "Ese Dinero",
       "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
@@ -619,6 +681,24 @@
     },
     {
       "album": {
+        "name": "He Venido al Mar",
+        "url": "https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340934,
+      "name": "He Venido al Mar - short mix",
+      "url": "https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8"
+    },
+    {
+      "album": {
         "name": "Historia de Amor",
         "url": "https://open.spotify.com/album/4KvZm9XQDc0pYe94UHOtLT"
       },
@@ -718,7 +798,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 188992,
       "name": "La Vida Sin Ti Apesta",
       "url": "https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY"
@@ -790,7 +870,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 187832,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9"

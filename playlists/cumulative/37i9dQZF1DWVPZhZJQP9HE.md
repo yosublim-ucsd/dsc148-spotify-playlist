@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-534 songs - 1 day 7 hr 43 min
+535 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Uno](https://open.spotify.com/track/3NoyjWzdNxy5E7FF0gEALi) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Arcus Aryian](https://open.spotify.com/artist/1FxIcBfjDuzMHpyFkmq1D0) | [UNO](https://open.spotify.com/album/5jCWwNIkjqZAw1jocQt0sA) | 3:18 | 2024-04-29 |  |
 | [Urave \- Eternal Love](https://open.spotify.com/track/0z0vwW7BLfwxYrjgNWwpP6) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Jananie S.V](https://open.spotify.com/artist/76AjpgQpgJLWeONwNfW2zg) | [Urave \(Eternal Love\)](https://open.spotify.com/album/1TEc2E0eZ3zjOy4YlL6n0G) | 4:27 | 2023-01-13 | 2023-07-15 |
 | [Usharana Pullingo](https://open.spotify.com/track/3C3J9YUc4sVqfYm0UrO0GG) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 1:54 | 2022-07-27 | 2022-08-12 |
+| [Uyiralaye](https://open.spotify.com/track/4aYl1MvkrRRYEJnToQTRBM) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Uyiralaye](https://open.spotify.com/album/6Pv33Kzko3MOKBYP4HQzuE) | 3:24 | 2024-05-17 |  |
 | [Uyire Azhage](https://open.spotify.com/track/03GYKMI1OxOed4fki5bPzF) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [Arun Rathor](https://open.spotify.com/artist/4CBF6drrY0At3ZQVex2Q6M) | [Uyire Azhage](https://open.spotify.com/album/24MQFLY2mUea3LR5mioRCS) | 3:15 | 2022-11-21 | 2023-02-07 |
 | [Uyire Urave](https://open.spotify.com/track/4xtSrcg87lOmRLEsqISBVj) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Uyire Urave](https://open.spotify.com/album/2LIKp3hkXZ7dnOXnUsQ8dV) | 3:21 | 2023-11-17 | 2023-12-19 |
 | [Uyirin Osai](https://open.spotify.com/track/5N17hbr2AuNLeHeUaoqVgr) | [Bhavana Isvi](https://open.spotify.com/artist/4nQarXr83H5tWPyWepz9k5), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Uyirin Osai](https://open.spotify.com/album/3Q1jXs3QuvIO2w6igltZsd) | 4:02 | 2022-12-15 | 2023-01-11 |

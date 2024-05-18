@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,583 likes - 100 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,607 likes - 100 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 28 | [I Saw Jesus Christ In a Parking Lot](https://open.spotify.com/track/1QQO4A3145m77ClwQBcM6S) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [I Saw Jesus Christ In a Parking Lot](https://open.spotify.com/album/4qtGOyxc4MfopoH9b8xuYd) | 1:30 |
 | 29 | [snakes](https://open.spotify.com/track/2d7R3uf4J0RlM2iHI5RttN) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [snakes](https://open.spotify.com/album/50w3jJypacgY733uBdP6BV) | 2:36 |
 | 30 | [0% \(feat\. ZillaKami\)](https://open.spotify.com/track/23kiail6YXSTnS2gPCGv8D) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [0% \(feat\. ZillaKami\)](https://open.spotify.com/album/6zwelZygwFIsSOhx16QaJc) | 2:12 |
-| 31 | [+44 SMOKE](https://open.spotify.com/track/3OP0mGH2yViz32As5VZgWW) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS), [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [+44 SMOKE](https://open.spotify.com/album/6Helf1VezDpPcy7n4vtgm4) | 2:28 |
+| 31 | [+44 SMOKE](https://open.spotify.com/track/3OP0mGH2yViz32As5VZgWW) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS), [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49), [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [+44 SMOKE](https://open.spotify.com/album/6Helf1VezDpPcy7n4vtgm4) | 2:37 |
 | 32 | [maserati slick](https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy](https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB) | 2:23 |
 | 33 | [Memoirs of a Gorilla](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 2:02 |
 | 34 | [Frank Miller \(Kill Again\)](https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Frank Miller \(Kill Again\) / I'm So Glad](https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ) | 2:11 |

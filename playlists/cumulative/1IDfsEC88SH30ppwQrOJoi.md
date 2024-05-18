@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-291 songs - 15 hr 12 min
+292 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/track/5ScpTvVlLoTG9pEJiO1LZF) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Kill For This Shit \(feat\. Young Dolph\)](https://open.spotify.com/album/0WEHkvTwLphaOKZMM1kpok) | 3:17 | 2024-03-13 |  |
 | [La Discoteca](https://open.spotify.com/track/6gJQywNtkGHqMAvchQjeVo) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [My Name Is Alex](https://open.spotify.com/artist/1MaDqHjCtpHgPJHQz5bV2C) | [La Discoteca](https://open.spotify.com/album/4BbsMlNvp4jNA6nkAHzu6M) | 3:16 | 2024-04-26 |  |
 | [La Fiesta](https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [La Fiesta](https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx) | 3:45 | 2023-10-30 | 2024-03-14 |
+| [La Musica](https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [La Musica](https://open.spotify.com/album/6oosHftkdOTw9x6dm6NnCr) | 2:17 | 2024-05-17 |  |
 | [LA On Acid](https://open.spotify.com/track/2QWMBe66DhsRwtn2BO9LTW) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [LA On Acid](https://open.spotify.com/album/3KJmODRcAwz06pK7gIiT0M) | 2:23 | 2023-08-17 | 2024-03-14 |
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 2:14 | 2023-08-22 | 2024-05-01 |
 | [Late Night](https://open.spotify.com/track/2SdxekxWngv3h9zG37KA0O) | [Autodepth](https://open.spotify.com/artist/1UdV4KYu2FYUcEyuD1mbCz), [PRMGH](https://open.spotify.com/artist/6nqz95uxMOeoqYmei7GiV9), [Noir Foncé](https://open.spotify.com/artist/6PA5gcYoyzviLuu0KYSahk) | [Late Night](https://open.spotify.com/album/6RbP7Dk8XZSxh6ZNgA2PMx) | 2:16 | 2024-03-13 | 2024-05-01 |

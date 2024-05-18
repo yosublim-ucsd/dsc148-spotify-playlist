@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-139 songs - 6 hr 36 min
+140 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Monster Moves](https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:55 | 2022-02-04 | 2024-01-31 |
 | [Monster Moves](https://open.spotify.com/track/0Rxc48XS2FxwJCiRDMrVwi) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/69ekZwUvnGkKyoYOHsSPOg) | 2:55 | 2021-11-19 | 2022-07-29 |
 | [Months Of The Year](https://open.spotify.com/track/2lfQDNdqoCxdKC0Ixcmxnt) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Trap Nursery Rhymes, Vol\. 2](https://open.spotify.com/album/5IhjSsdEIQkAIbFAUOipZe) | 2:43 | 2024-01-30 | 2024-04-13 |
+| [My Daddy](https://open.spotify.com/track/62PMIjZwq8LjFJqjb5KRDG) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY), [VanVan](https://open.spotify.com/artist/3WxOjk5szKnKRX6uGSTJnl) | [My Daddy](https://open.spotify.com/album/5lrShGJjQB54FR9vSB1vNR) | 2:42 | 2024-05-17 |  |
 | [NO BULLY ZONE](https://open.spotify.com/track/7FZKNZn3aTCUYfUeG8YubE) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [NO BULLY ZONE](https://open.spotify.com/album/2kF2YdgplUMr4snQdE6XGU) | 1:24 | 2024-03-08 |  |
 | [Old Town Road](https://open.spotify.com/track/3QpAo1aiTUVgsQBR8KmNHO) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Old Town Road](https://open.spotify.com/album/4BAx7hzmBgjaGxs62oWcBn) | 1:50 | 2021-11-19 | 2024-01-31 |
 | [Old Town Road](https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:53 | 2021-11-19 | 2024-01-31 |
@@ -123,7 +124,7 @@
 | [Take Me To Jamaica \(feat\. Toots Hibbert\)](https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Toots Hibbert](https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:18 | 2023-10-10 | 2024-01-31 |
 | [TELL EM](https://open.spotify.com/track/4IrDPdjKLcQNnCoP4vWF6o) | [GoKeeKeeGo](https://open.spotify.com/artist/7zsyllxtoU29NBJPu96jbz) | [TELL EM](https://open.spotify.com/album/0cuRGPN7DtPu6M1Y0vAOzX) | 2:54 | 2021-11-19 | 2024-01-10 |
 | [Tennessee](https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [3 Years, 5 Months And 2 Days In The Life Of...](https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh) | 4:32 | 2021-11-19 | 2024-01-31 |
-| [That's My Sista](https://open.spotify.com/track/6A4NGHgNxyihpSWI2Euf7f) | [Grey Skye Evans](https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP), [Phoenix Evans](https://open.spotify.com/artist/5gWQvDnZuBRtqjTN7sypED) | [That's My Sista](https://open.spotify.com/album/3peZixM4ePxajKAgpBu0Gl) | 2:02 | 2024-01-30 |  |
+| [That's My Sista](https://open.spotify.com/track/6A4NGHgNxyihpSWI2Euf7f) | [Grey Skye Evans](https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP), [Phoenix Evans](https://open.spotify.com/artist/5gWQvDnZuBRtqjTN7sypED) | [That's My Sista](https://open.spotify.com/album/3peZixM4ePxajKAgpBu0Gl) | 2:02 | 2024-01-30 | 2024-05-18 |
 | [The Brain Song](https://open.spotify.com/track/3WKp2G9XxEoUqXB64UR0qV) | [MC Grammar](https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN) | [Wonder Raps](https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH) | 3:31 | 2024-01-30 |  |
 | [The Cypher](https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [The Cypher](https://open.spotify.com/album/0iFJLdXv22Uam0ItEQ4076) | 2:52 | 2023-04-07 | 2023-12-19 |
 | [The Muffin Man](https://open.spotify.com/track/1Vbvmps24U9pmD4Mf5fEtC) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Desmond Cool Jams](https://open.spotify.com/album/78ZmgGAOrMieH3NANKJ7Ir) | 2:32 | 2024-01-30 | 2024-04-27 |

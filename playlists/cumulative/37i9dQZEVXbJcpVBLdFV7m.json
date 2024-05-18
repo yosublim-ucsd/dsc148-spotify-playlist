@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 187711,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -4918,7 +4918,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 173617,
       "name": "Sipvay",
       "url": "https://open.spotify.com/track/0nSy8npnDsXI4zt5qnFhck"
@@ -5346,7 +5346,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 164695,
       "name": "Suffocate (feat. Poppy)",
       "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde"
@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
@@ -5714,10 +5714,28 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 199821,
       "name": "Tiryakinim",
       "url": "https://open.spotify.com/track/3MqpWcX5aP4m7NL2gqxg6J"
+    },
+    {
+      "album": {
+        "name": "Tiryakinim",
+        "url": "https://open.spotify.com/album/6vwOyaGFSGibSqdP9HBkaE"
+      },
+      "artists": [
+        {
+          "name": "Bayhan",
+          "url": "https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199821,
+      "name": "Tiryakinim",
+      "url": "https://open.spotify.com/track/4jdpkoZR2tUT4m4UTEUuvK"
     },
     {
       "album": {
@@ -5790,7 +5808,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 232586,
       "name": "TOCHNA DOZA",
       "url": "https://open.spotify.com/track/3JyjVg9S9EkapeE042zpgY"
@@ -6052,6 +6070,24 @@
       "duration_ms": 274098,
       "name": "V.A.N",
       "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+    },
+    {
+      "album": {
+        "name": "Veronika",
+        "url": "https://open.spotify.com/album/3Ep62W58uONUkDa6yphNDq"
+      },
+      "artists": [
+        {
+          "name": "Raiven",
+          "url": "https://open.spotify.com/artist/5RBzgTi4eJswbWLigxtNkI"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166222,
+      "name": "Veronika",
+      "url": "https://open.spotify.com/track/5M2L5RqF8zRvFwPUrQ1tX6"
     },
     {
       "album": {
@@ -7474,7 +7510,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 151930,
       "name": "\u0421\u043b\u0430\u0432\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/0bDeSUdbuMmsQeSGDF8R7o"

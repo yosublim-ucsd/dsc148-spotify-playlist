@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 475298,
+  "num_followers": 475421,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "From Them, Through Us, To You",
-        "url": "https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o"
-      },
-      "artists": [
-        {
-          "name": "Madina Lake",
-          "url": "https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Here I Stand",
-      "url": "https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 211813,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "From Them, Through Us, To You",
+        "url": "https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o"
+      },
+      "artists": [
+        {
+          "name": "Madina Lake",
+          "url": "https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Here I Stand",
+      "url": "https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd"
     }
   ],
   "unique_name": "Chaos Anthems",

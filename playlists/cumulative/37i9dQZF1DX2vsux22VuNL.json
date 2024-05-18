@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 177272,
       "name": "Aperta Start",
       "url": "https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM"
@@ -2680,6 +2680,28 @@
       "duration_ms": 214736,
       "name": "Esqueminha - Hit Label Sessions #3",
       "url": "https://open.spotify.com/track/7m83wo6XbJ9YJ0mS1EeiYb"
+    },
+    {
+      "album": {
+        "name": "Esquinas",
+        "url": "https://open.spotify.com/album/5Edi8YipNYy8kKYu6220vL"
+      },
+      "artists": [
+        {
+          "name": "MAYAH",
+          "url": "https://open.spotify.com/artist/1rg783Ojka0Cy5saubif7c"
+        },
+        {
+          "name": "Brasileiro",
+          "url": "https://open.spotify.com/artist/5d2tthD9fxDS7G9C4fiDM4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Esquinas",
+      "url": "https://open.spotify.com/track/2vM7KedJNklwp8u2VF5myh"
     },
     {
       "album": {
@@ -5880,7 +5902,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 139200,
       "name": "Pensamento",
       "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
@@ -9072,6 +9094,24 @@
       "duration_ms": 163764,
       "name": "\u00c0s Escuras",
       "url": "https://open.spotify.com/track/1MfkPdgUhNLcOEisXGNdl0"
+    },
+    {
+      "album": {
+        "name": "Mundo Gira",
+        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171913,
+      "name": "\u00cdm\u00e3",
+      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
     },
     {
       "album": {

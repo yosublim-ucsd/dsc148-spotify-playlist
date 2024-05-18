@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Harper Grace, Artwork: Fanélie Muselier
 
-2,353 songs - 5 day 7 hr 37 min
+2,354 songs - 5 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1225,6 +1225,7 @@
 | [Lie](https://open.spotify.com/track/4pmuhPn9IcpTkbe1gRWuHh) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Whiskey & Me](https://open.spotify.com/album/4U394NR9rGzbD4OtM6EexK) | 3:01 | 2023-10-04 | 2023-10-26 |
 | [Lied To Too](https://open.spotify.com/track/7d8egfPuKy25BAlrSMPqBq) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Lied To Too](https://open.spotify.com/album/1WITPsGTdEkeXTOp1Seqn5) | 3:23 | 2022-03-23 | 2022-04-27 |
 | [Life & Living](https://open.spotify.com/track/7ivK1LDvcIJBT6IKuRnu6P) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Life & Living](https://open.spotify.com/album/0FXZtRGk8TPaDpq1kcSkL5) | 3:46 | 2022-08-17 | 2022-09-29 |
+| [Life for Two](https://open.spotify.com/track/41cXTIEfikZ8ms6Gof397k) | [Noah Pelty](https://open.spotify.com/artist/0NjCkdbiPfOK658VPVoePP) | [Life for Two](https://open.spotify.com/album/6Ln3kCCmtJuPcaODk3q7CX) | 3:08 | 2024-05-17 |  |
 | [Life of the After Party](https://open.spotify.com/track/3OCMSGZl0mKrfyLxslDWme) | [Graham Scott Fleming](https://open.spotify.com/artist/4Ao86ITnIcDbQjDEkQPjsm) | [Life of the After Party](https://open.spotify.com/album/0HHBYlWchMCMd5K9VuEfV8) | 3:11 | 2022-07-20 | 2022-08-18 |
 | [Life With You](https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [Life With You](https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z) | 2:36 | 2023-11-08 | 2024-02-01 |
 | [Life Without You](https://open.spotify.com/track/1YbJ36vb1NI1wKPrylkrRu) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Life Without You](https://open.spotify.com/album/1XTExLYIaQv489gT98KCfP) | 2:51 | 2023-06-07 | 2023-08-10 |

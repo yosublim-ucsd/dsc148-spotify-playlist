@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-176 songs - 7 hr 5 min
+177 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,5 +184,6 @@
 | [Zomba](https://open.spotify.com/track/39Zm3pVDLbyIDQUegJeWka) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Viktor Vercetti](https://open.spotify.com/artist/3lFYHzDhY76FQXlTD9q2Wv), [iann guxtavo](https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3) | [Zomba](https://open.spotify.com/album/1jCW8aUmNBWDmFjl1zzuzz) | 2:00 | 2023-09-15 | 2023-11-25 |
 | [Zum Zum Zum](https://open.spotify.com/track/6n7IpB5VhhCAsMSQfuBAJi) | [Mohrr](https://open.spotify.com/artist/2MI9fcV65P9bdlTldKbB0Z) | [Zum Zum Zum](https://open.spotify.com/album/6RTgdGYPe31jNETR97Tw3C) | 2:27 | 2023-09-22 | 2023-10-14 |
 | [É o paco ou berro?](https://open.spotify.com/track/18CtlrryJwqsvSOyd9GBim) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Elipe](https://open.spotify.com/artist/5DYNCxrEXydchmfndMzzku) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:04 | 2023-09-15 |  |
+| [Única](https://open.spotify.com/track/6OeFHH7a0WE6fdpfD1PVPD) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [RELATOS](https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr) | 2:46 | 2024-05-17 |  |
 
 \*This playlist was first scraped on 2023-09-18. Prior content cannot be recovered.

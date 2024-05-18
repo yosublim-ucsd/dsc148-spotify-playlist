@@ -1,6 +1,6 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1235102,
+  "num_followers": 1235154,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-02-22 18:14:51",
       "album": {
-        "name": "Personal Jesus",
-        "url": "https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Francois Kevorkian",
-          "url": "https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Personal Jesus - Original Single Version",
-      "url": "https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY"
-    },
-    {
-      "added_at": "2024-02-22 18:14:51",
-      "album": {
         "name": "Life's Too Good",
         "url": "https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 215840,
       "name": "I Will Follow",
       "url": "https://open.spotify.com/track/40lKv5fLpzPHV1YQ7nrfMg"
+    },
+    {
+      "added_at": "2024-02-22 18:14:51",
+      "album": {
+        "name": "Personal Jesus",
+        "url": "https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Francois Kevorkian",
+          "url": "https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Personal Jesus - Original Single Version",
+      "url": "https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY"
     },
     {
       "added_at": "2024-02-22 18:14:51",

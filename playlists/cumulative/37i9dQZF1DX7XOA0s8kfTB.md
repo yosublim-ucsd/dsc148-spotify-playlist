@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-36 songs - 1 hr 37 min
+37 songs - 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [white drizzle in gloom](https://open.spotify.com/track/0ge5dtz12gXTMquou8xVKL) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [white drizzle in gloom](https://open.spotify.com/album/7q2ujU4Yi2ck5b1Z8GgkAQ) | 3:05 | 2024-04-04 | 2024-04-19 |
 | [Wrong World](https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Wrong World](https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX) | 3:04 | 2024-04-04 | 2024-04-19 |
 | [サヨナラサヨナラサヨナラ](https://open.spotify.com/track/3OCcXnMn1lOwJtsOwbzEsN) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [サヨナラサヨナラサヨナラ](https://open.spotify.com/album/4L4vKyM8psqZ1Us7aEmeS0) | 2:35 | 2024-04-12 |  |
+| [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/track/6JwFqtk5jSHRBHGRSzX6CM) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [トゲナシトゲアリ ボイスメッセージ](https://open.spotify.com/album/20JhoowvZq72C43DxuBJR3) | 1:15 | 2024-05-17 |  |
 | [偽りの理](https://open.spotify.com/track/0utotNyTQgcj3ryT8FuAVu) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [偽りの理](https://open.spotify.com/album/20nzrK1EPA0yAzHm8GMfj7) | 3:09 | 2024-04-12 |  |
 | [傷つき傷つけ痛くて辛い](https://open.spotify.com/track/2185RCcistacxWByF55kAz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [傷つき傷つけ痛くて辛い](https://open.spotify.com/album/6GOHtMeDdXYNuU5HccbyBj) | 3:16 | 2024-04-12 |  |
 | [名もなき何もかも](https://open.spotify.com/track/5W0wKSkwxyX5gwgn7T6ZMI) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [名もなき何もかも](https://open.spotify.com/album/4bzn2CGdvOkP6ELLDBYEU2) | 3:08 | 2024-04-12 |  |

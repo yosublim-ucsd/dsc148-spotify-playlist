@@ -3357,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Nightvisions",
+        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236320,
+      "name": "Nightvisions",
+      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
+    },
+    {
+      "album": {
         "name": "No One Dies From Love (Stripped in France)",
         "url": "https://open.spotify.com/album/4Pi43llgQL8fFh3a6uYB8E"
       },
@@ -3746,7 +3764,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 206000,
       "name": "Shadow - Spotify Singles",
       "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"

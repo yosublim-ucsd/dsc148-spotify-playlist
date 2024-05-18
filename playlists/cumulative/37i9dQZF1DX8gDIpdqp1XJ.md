@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-972 songs - 2 day 15 hr 24 min
+973 songs - 2 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [In Your Arms](https://open.spotify.com/track/2DgaPZppYXSYGCaBceXfTw) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Wonderer](https://open.spotify.com/album/3zmWJr754RgoD1u7BEk2Nk) | 4:39 | 2022-05-23 | 2022-07-30 |
 | [Infinite Source](https://open.spotify.com/track/4Okw5Im49vRlERn4KLMQkc) | [Grapetooth](https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Infinite Source](https://open.spotify.com/album/5N8nKM5KhfW2SalKPtNYNA) | 3:03 | 2023-03-06 | 2023-06-10 |
 | [Inhale/Exhale](https://open.spotify.com/track/3PpH5nVxqAFL6xqnVm3nRh) | [JUICEB☮X](https://open.spotify.com/artist/6HIRyO3O2mbkdwih0Mi4vR) | [Inhale/Exhale](https://open.spotify.com/album/1F5wCRXSsPo36sf5JSwQLh) | 2:57 | 2023-03-16 | 2023-05-27 |
-| [Inigo](https://open.spotify.com/track/120oPV0jNIWalyFlMknzY6) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Inigo](https://open.spotify.com/album/3DhznXynw9F1GuNYBs8z9P) | 4:16 | 2023-06-23 |  |
+| [Inigo](https://open.spotify.com/track/120oPV0jNIWalyFlMknzY6) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Inigo](https://open.spotify.com/album/3DhznXynw9F1GuNYBs8z9P) | 4:16 | 2023-06-23 | 2024-05-18 |
 | [Inner Meet Me](https://open.spotify.com/track/13peHGuZastwBnvw1fVfff) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three EP's](https://open.spotify.com/album/387kRGMURjq8rAquMi3LLN) | 6:20 | 2021-04-02 | 2022-04-05 |
 | [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 | 2023-02-27 |
 | [Interface](https://open.spotify.com/track/6jneoPK80OLlFMDZ47fGPY) | [Absolutely Free](https://open.spotify.com/artist/5DD56TbdQI5Xe9c8YSiTj5) | [Interface](https://open.spotify.com/album/4RtydL39WN7V55HaGO8iy5) | 3:18 | 2021-08-20 | 2022-04-20 |
@@ -740,6 +740,7 @@
 | [Shuggie](https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw) | 3:21 | 2021-04-02 | 2022-07-29 |
 | [Shuggie](https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 3:21 | 2022-07-22 | 2023-02-25 |
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2022-07-11 | 2023-03-07 |
+| [Side By Side](https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:07 | 2024-05-17 |  |
 | [Sidetracked Soundtrack \- Unreleased Demo](https://open.spotify.com/track/4DLQQb9DTPA04RYuHEn1ru) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 4:19 | 2023-05-26 | 2023-08-26 |
 | [silence STArEs me down \(feat\. Cuco\)](https://open.spotify.com/track/7zkBwgnY2OQwufiEsaVObV) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [silence STArEs me down \(feat\. Cuco\)](https://open.spotify.com/album/6baKze14ER8USbSNwPGc4l) | 3:06 | 2024-01-30 |  |
 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 | 2023-05-05 | 2024-05-11 |

@@ -4,7 +4,7 @@
 
 > Billie Eilish in cover + le migliori uscite di questa settimana!
 
-369 songs - 18 hr 41 min
+370 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-16 |  |
 | [MVP](https://open.spotify.com/track/0Nojgk52ObYMvHlPQ4wq37) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [MVP](https://open.spotify.com/album/0lJMVcHNpeGzKGTAytrCqP) | 2:10 | 2024-05-09 | 2024-05-17 |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-02 | 2024-05-10 |
+| [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 |  |
 | [NEON](https://open.spotify.com/track/5mxvimD3oUGQdsxyTAF8mc) | [MANTIS](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [MANTISTECH VOL.3](https://open.spotify.com/album/6KIXtd5hXBvJedG2F2inCo) | 2:44 | 2024-05-02 | 2024-05-10 |
 | [NEVE AL SOLE](https://open.spotify.com/track/6z1RlIjlUjvzlxgl7Dufp7) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ALTROVE](https://open.spotify.com/album/2VHpXm9h05eiyteYReWkK8) | 3:20 | 2024-05-16 |  |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-04-26 | 2024-05-03 |
@@ -272,7 +273,7 @@
 | [Potential](https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Potential](https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O) | 2:57 | 2024-04-26 | 2024-05-03 |
 | [Prendersi Cura](https://open.spotify.com/track/3bhZr2G5pFb6cGXPhPGHMM) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ) | [Prendersi Cura](https://open.spotify.com/album/2ZhbjoC4zcBdaQ6cnj1maP) | 4:30 | 2024-05-16 |  |
 | [Prima che sfaso](https://open.spotify.com/track/591GgFJ87VKpYRnsdKtNn4) | [DJ Skizo](https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Dj Ghost aka Steeni](https://open.spotify.com/artist/6ztRFZRLvogVldoYGP8PGO) | [Prima che sfaso](https://open.spotify.com/album/4gFaHLGVGSvGMuezPz6BlS) | 2:31 | 2024-05-02 | 2024-05-10 |
-| [Psycho](https://open.spotify.com/track/66DhR2jhmKjNIIC63suX8T) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [17.5](https://open.spotify.com/album/6xUV3poagqa1FpnzwmcHHt) | 2:56 | 2024-05-16 |  |
+| [Psyco](https://open.spotify.com/track/66DhR2jhmKjNIIC63suX8T) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [17.5](https://open.spotify.com/album/6xUV3poagqa1FpnzwmcHHt) | 2:56 | 2024-05-16 |  |
 | [PUEBLO DE MEDALLO](https://open.spotify.com/track/1l66Vx6g2i50WdeH6VU658) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [PUEBLO DE MEDALLO](https://open.spotify.com/album/3kXdGpyHMbzuwgkYCN7liX) | 3:28 | 2024-05-09 | 2024-05-17 |
 | [quando ci siamo abituati](https://open.spotify.com/track/30QBN9iDQU2K067W0YgL52) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [quando ci siamo abituati](https://open.spotify.com/album/7pxUR41Bbhmb1g4b5dw4el) | 2:56 | 2024-05-09 | 2024-05-17 |
 | [QUANTO MALE MI FAI](https://open.spotify.com/track/4EG6l1uCWVQQ90lW0lR0Om) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [QUANTO MALE MI FAI](https://open.spotify.com/album/5609qvVNLCy5fn1Q7FLyrl) | 2:41 | 2024-04-26 | 2024-05-03 |

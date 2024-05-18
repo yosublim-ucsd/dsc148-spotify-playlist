@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,158 songs - 2 day 13 hr 13 min
+1,159 songs - 2 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [3korty \- LIVE](https://open.spotify.com/track/7GwnJvYPqVmbRdakEMwoFw) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Papp László Aréna LIVE \(2023\)](https://open.spotify.com/album/0jh4QHk8xp0mDHY2FXb3m1) | 3:16 | 2023-04-06 | 2023-05-08 |
 | [4xNem](https://open.spotify.com/track/4mGgzjRyM6PojHS0dAS8YX) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [GG VS GRASA](https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ) | 2:25 | 2023-02-18 | 2023-02-20 |
 | [A Babám Zokog Az Ágyon](https://open.spotify.com/track/6H9JIiYG6WutRc5fGRyesK) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [III\. Krúbi](https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq) | 5:09 | 2023-11-18 | 2023-12-01 |
-| [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-05-16 |  |
+| [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-05-16 | 2024-05-18 |
 | [a főteret járva](https://open.spotify.com/track/3gAnTvX4Z32RCrAEWVK0vy) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [úton](https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61) | 2:42 | 2023-01-07 | 2023-01-09 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-24 | 2023-12-30 |
 | [a ladikomban](https://open.spotify.com/track/4OYsXD87Kq5TLOy6GZ6Yu2) | [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9) | [a ladikomban](https://open.spotify.com/album/2YIrEEyn2C4AAE4AZuEWDe) | 2:37 | 2022-03-26 | 2022-04-02 |
@@ -302,7 +302,7 @@
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-13 | 2023-01-27 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-16 |  |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-10-19 | 2021-10-23 |
-| [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-02 |  |
+| [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-02 | 2024-05-18 |
 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-18 | 2023-11-20 |
 | [Exit sign](https://open.spotify.com/track/6aPlaAulFrfU1gbwKwI4B9) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [highbaby](https://open.spotify.com/artist/6Wr4wd4rhVjujRKtaBeS33) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 3:01 | 2023-04-08 | 2023-04-11 |
 | [EyEy](https://open.spotify.com/track/2TdN8vYZq8GlEFzY5l2xsc) | [ALEE](https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT) | [EyEy](https://open.spotify.com/album/6gGAomFkvNRjm0WmXA2vfO) | 2:28 | 2021-11-10 | 2022-01-11 |
@@ -331,7 +331,7 @@
 | [Fiatal és őrült](https://open.spotify.com/track/1iRwcHRaEGQdkZDyVsQM1h) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 2:46 | 2022-06-07 | 2023-02-05 |
 | [Fiatal és őrült](https://open.spotify.com/track/3sE7DmCeV0NOU9iTuToADc) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [M Ricch](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:46 | 2023-02-04 | 2023-02-12 |
 | [Fienduló](https://open.spotify.com/track/2R26Jx9XGyA7SODZ1Fr0of) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 2:52 | 2023-03-02 | 2023-05-15 |
-| [figyelj](https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2022-08-11 | 2024-05-17 |
+| [figyelj](https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2022-08-11 |  |
 | [filter](https://open.spotify.com/track/3XcVoBCkYFn7ZMD185dcPe) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 3:30 | 2021-07-01 | 2021-07-02 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-06-08 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |
@@ -518,6 +518,7 @@
 | [KARDHAL](https://open.spotify.com/track/6W42SdBZFdyR26wHv3relZ) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [KARDHAL](https://open.spotify.com/album/5qwSvnyPwvijsbUan4zqya) | 3:54 | 2022-04-16 | 2022-04-23 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-27 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-25 |
+| [KELET](https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Signo](https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s) | [KELET](https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3) | 3:27 | 2024-05-17 |  |
 | [Kellett A Pénz](https://open.spotify.com/track/70tnUXPayf0nDQFAObwsVi) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Kellett A Pénz](https://open.spotify.com/album/4ZVKUo36Fz6dZ2h0o5E19k) | 2:38 | 2021-08-10 | 2021-09-19 |
 | [KERINGŐ](https://open.spotify.com/track/1U2IOLDqC5iST9gcUcGs6W) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [KERINGŐ](https://open.spotify.com/album/1KS4UPVoDgNqIvU0603RbA) | 3:38 | 2023-08-23 | 2023-09-14 |
 | [KERINGŐ](https://open.spotify.com/track/3Ccwu3ujS9lyxW9CtTchk8) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [KINCUGI](https://open.spotify.com/album/4n4NO5RkAVpTgMSi69doAk) | 3:38 | 2023-09-13 | 2023-10-15 |

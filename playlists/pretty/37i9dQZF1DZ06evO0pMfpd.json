@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 70990,
+  "num_followers": 71002,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAABtODpJToKpVPlt+fi0JQkf",
+  "snapshot_id": "ZkVMgAAAAABa0FpziS1sHq59URrsXTrl",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chacaloza Forever",
-        "url": "https://open.spotify.com/album/3IuGQUoSuQIGbbrBaD3bpI"
-      },
-      "artists": [
-        {
-          "name": "Banda La Chacaloza De Jerez Zacatecas",
-          "url": "https://open.spotify.com/artist/6mAjeRwULfOM15lFmbpVqU"
-        },
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/5sau3wdX63rYl0nrDNY6Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adi\u00f3s y Buena Suerte - En Vivo",
         "url": "https://open.spotify.com/album/0iHo2i1ZYSIAnFs5CdKOxz"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 224593,
       "name": "Adi\u00f3s y Buena Suerte - En Vivo",
       "url": "https://open.spotify.com/track/4xQxN1A80B3CGFXVGOosGt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chacaloza Forever",
+        "url": "https://open.spotify.com/album/3IuGQUoSuQIGbbrBaD3bpI"
+      },
+      "artists": [
+        {
+          "name": "Banda La Chacaloza De Jerez Zacatecas",
+          "url": "https://open.spotify.com/artist/6mAjeRwULfOM15lFmbpVqU"
+        },
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/5sau3wdX63rYl0nrDNY6Qb"
     },
     {
       "added_at": null,

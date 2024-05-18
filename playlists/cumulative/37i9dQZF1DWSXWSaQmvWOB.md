@@ -4,7 +4,7 @@
 
 > New soul\-infused music every week! Cover: Jordan Rakei
 
-895 songs - 2 day 6 hr 42 min
+896 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Multiply](https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Multiply](https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz) | 3:56 | 2023-01-18 | 2023-06-08 |
 | [Multiply \- Feat\. Luedji Luna](https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Multiply \(Feat\. Luedji Luna\)](https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG) | 4:00 | 2024-04-10 |  |
 | [Music](https://open.spotify.com/track/7L51v6yn4ZZKnb20fxOY19) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Music](https://open.spotify.com/album/18umcaGsT1E9wbT3jAAncg) | 3:18 | 2020-03-25\* | 2020-11-13 |
+| [My Art is Full of Life](https://open.spotify.com/track/2f8g0OgCnccYa87D8ecZne) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Animating The Machine \(Original Motion Picture Soundtrack\) Cre8ed in part by Udio](https://open.spotify.com/album/0ukJtGXodwNAfASzJWsTSe) | 3:45 | 2024-05-16 |  |
 | [My Brother](https://open.spotify.com/track/37HGkLjLX4BI1oOsLhcaWh) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [My Brother](https://open.spotify.com/album/7mAl8U22AziS416VFmoeqG) | 3:39 | 2020-11-20 | 2021-01-09 |
 | [My Everything](https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/6wglqk5rW63K9eaeqxzZpI) | [My Everything](https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI) | 3:58 | 2022-07-28 | 2022-10-15 |
 | [My Fancy Free Future Love \- Tom Misch Remix](https://open.spotify.com/track/67vedKB2ElfEQDCF3ztoX4) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [My Fancy Free Future Love \(Tom Misch Remix\)](https://open.spotify.com/album/1nJJZh7fy1gS36zRDRbu4k) | 4:54 | 2020-03-25\* | 2020-07-18 |

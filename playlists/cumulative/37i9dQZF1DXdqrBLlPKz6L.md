@@ -2,13 +2,13 @@
 
 ### [Trapperz Andinos](https://open.spotify.com/playlist/37i9dQZF1DXdqrBLlPKz6L)
 
-> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: El Clooy
+> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kei Linch
 
-105 songs - 5 hr 44 min
+106 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [28](https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:20 | 2022-08-19 |  |
+| [28](https://open.spotify.com/track/3CNAh2F7pfyUu7KAEYHtMl) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:20 | 2022-08-19 | 2024-05-18 |
 | [3:33](https://open.spotify.com/track/13I4rLxgBLcR3F9TykaW97) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [3:33](https://open.spotify.com/album/2A4YxJxcU3mw4GN0Z7GJ1J) | 3:31 | 2023-10-27 |  |
 | [A Prueba de Balas](https://open.spotify.com/track/0dcDUBTNlZnjtEwl9X6R0A) | [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [A Prueba de Balas](https://open.spotify.com/album/4BXDLkHddvcWPuYRj3i2ah) | 3:06 | 2021-10-15 |  |
 | [A2P](https://open.spotify.com/track/0IPD4hNAGIjVDBTHfVdv8o) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 6:47 | 2024-01-26 |  |
@@ -62,6 +62,7 @@
 | [Ko](https://open.spotify.com/track/0MtnjoP0LbTNncaOqmtV7t) | [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kapla](https://open.spotify.com/artist/11kWakFrrHou9H4TCt16yD), [Lil Dripavelli](https://open.spotify.com/artist/3p0i4P61vcbJpf3V8dcs1f) | [Ko](https://open.spotify.com/album/7HufcKIHl9VuzhTO8TeInt) | 4:09 | 2022-08-26 |  |
 | [La Cone](https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Cone](https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL) | 4:11 | 2021-10-15 |  |
 | [La Maluquera](https://open.spotify.com/track/5A7U0FjslKz2wq3Duh3A7i) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Goldo Funky](https://open.spotify.com/album/28TBy3fqYNUSp4CTzQSJJQ) | 3:50 | 2021-10-15 |  |
+| [La mejor noche d mi vida <3](https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Dulcinea](https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb) | 3:15 | 2024-05-17 |  |
 | [La Movie](https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [La Movie](https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss) | 4:24 | 2022-09-02 |  |
 | [La pasé cabrón](https://open.spotify.com/track/4rKM9EE3torp4wXfqEzzgZ) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [La pasé cabrón](https://open.spotify.com/album/6ElfLUNrxLvu0kGEBkCjHh) | 3:05 | 2021-10-15 | 2022-04-09 |
 | [La Salsa](https://open.spotify.com/track/696HCNMv6YK7K5Gtl3504C) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [La Salsa](https://open.spotify.com/album/082ck1VrEmNTwo8vf0cDkQ) | 2:16 | 2023-12-22 |  |

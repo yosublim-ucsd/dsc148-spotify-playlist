@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Solardo
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Northeast Party House
 
-574 songs - 1 day 5 hr 51 min
+576 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Good in Goodbye](https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye) | [Good in Goodbye](https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH) | 3:00 | 2023-12-08 |  |
 | [Good Kids](https://open.spotify.com/track/2R7yQjDSVMgqxu6NoosDfE) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Good Kids](https://open.spotify.com/album/6kMJr6mCAK4k5BllhH89Jf) | 2:28 | 2022-11-04 | 2022-11-19 |
 | [Good Things Take Time](https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Good Things Take Time](https://open.spotify.com/album/6kTSYt8iV32b8HLSuCSfUg) | 2:25 | 2023-06-23 | 2023-12-14 |
+| [Good Times](https://open.spotify.com/track/0CXs85WxeFgxLOOnmYGoAk) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Good Times](https://open.spotify.com/album/5NzBt1gMEkDAs3MlZMgHur) | 3:09 | 2024-05-17 |  |
 | [GOOD TIMES \- Braxe + Falcon Remix](https://open.spotify.com/track/4Gn1QTNQReiekDQe4G9Nwn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA) | [GOOD TIMES \(Braxe + Falcon Remix\)](https://open.spotify.com/album/3dPuxSpMmACVdpn9IRMhsz) | 4:44 | 2022-12-10 | 2023-06-10 |
 | [Gravity](https://open.spotify.com/track/6G4qp5Bay91TfPNcbOt96a) | [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [Middle Milk](https://open.spotify.com/artist/6ZQ78jhXQqx7Es1QW0zUjT), [Alex Karlsson](https://open.spotify.com/artist/3Jza5ohDY24rOqjOugmd80) | [Gravity](https://open.spotify.com/album/6xX3z8j1hdBlxkAantovqN) | 3:01 | 2023-06-23 | 2023-12-14 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-12-08 |  |
@@ -273,6 +274,7 @@
 | [Know Someone](https://open.spotify.com/track/0cTNeoYonQaeArcopcPt73) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Know Someone](https://open.spotify.com/album/4pAP4YIHv1v7qrpxyhRLbf) | 4:20 | 2023-07-21 |  |
 | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj) | 3:13 | 2022-09-23 | 2022-11-19 |
 | [Kriptonita \(feat\. Villano Antillano\)](https://open.spotify.com/track/0OfGEZISm2Pilt7xj5wNGZ) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Kriptonita \(feat\. Villano Antillano\)](https://open.spotify.com/album/5qOAMIs8cjr2VNDFh5K2O3) | 2:51 | 2023-03-17 | 2023-07-29 |
+| [L.A](https://open.spotify.com/track/5JNP3hHrJCfIEZCnLmjqta) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Enhancer](https://open.spotify.com/album/08k7oNc4hEYbcgS0qlueY5) | 2:01 | 2024-05-17 |  |
 | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/album/2jTZ84JKbeu8vTuWYnlqfj) | 2:36 | 2022-06-10 | 2022-11-19 |
 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 | 2023-07-21 |  |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-12-08 |  |

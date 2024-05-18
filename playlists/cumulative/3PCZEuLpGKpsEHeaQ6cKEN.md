@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: TELYKAST
 
-1,041 songs - 2 day 7 hr 45 min
+1,043 songs - 2 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Better World](https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Chris Moody](https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui) | [Better World](https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh) | 3:06 | 2024-02-15 |  |
 | [Big Fun \(Remastered\)](https://open.spotify.com/track/37vkp7meAAGF6KxtaqAILs) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [The Best Of Inner City](https://open.spotify.com/album/1MhjZLn5ZKLok20AJq0YAB) | 3:18 | 2023-12-15 | 2024-05-03 |
 | [Blah Blah Blah](https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 3:03 | 2022-07-07 | 2023-03-31 |
+| [Blank Page](https://open.spotify.com/track/7LouCwDci7mPh8gjirHV0o) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [Florence Bird](https://open.spotify.com/artist/4TNk3AroApHY9cXRR4WD7I) | [Blank Page](https://open.spotify.com/album/2oOsDB4zEpzz5Qa95SEtE5) | 3:58 | 2024-05-17 |  |
 | [Blow My Mind](https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Blow My Mind](https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1) | 2:31 | 2024-05-09 |  |
 | [Blow Ya Mind](https://open.spotify.com/track/5YdjqXqyI1WmUbKPhtw3lq) | [Rob Black](https://open.spotify.com/artist/6mVOQan1tOCXwFuyrAffOK) | [Blow Ya Mind](https://open.spotify.com/album/51wbHKnC7gsMIdfbtRueKw) | 2:59 | 2023-09-21 | 2024-02-09 |
 | [Blow Ya Mind](https://open.spotify.com/track/21hxN3cxOJoDmQwg2tXUpN) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w), [Bleech](https://open.spotify.com/artist/0az6y7AjCCOAZzAF3i1Jaq), [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9) | [Blow Ya Mind](https://open.spotify.com/album/6GK4SX32R65JWHOCeZqdiA) | 2:29 | 2023-04-28 | 2023-08-01 |
@@ -511,6 +512,7 @@
 | [Location](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Location](https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O) | 2:22 | 2023-12-07 |  |
 | [Loco Papi](https://open.spotify.com/track/5EuVplVa6I5vbAUBuCRnvS) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Loco Papi](https://open.spotify.com/album/7ehHSfldPNGr0rRbdxffcs) | 2:58 | 2022-06-09 | 2022-09-16 |
 | [Lonely With You](https://open.spotify.com/track/4Y5FAQrTSqI2mlDF5i8lTi) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Lonely With You](https://open.spotify.com/album/37VdhrfrONjJFL21OinnZv) | 3:25 | 2022-10-06 | 2023-05-19 |
+| [Lonely2](https://open.spotify.com/track/7GiqX6dVETzZRaChNazWaL) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Lonely2](https://open.spotify.com/album/5mBI8Lz5oNnJDaAwnGQvhe) | 3:41 | 2024-05-17 |  |
 | [Look Into My Eyes](https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Look Into My Eyes](https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq) | 2:34 | 2022-06-09 | 2023-03-31 |
 | [Looking For Your Love](https://open.spotify.com/track/0KzjAoqpdCaW2TJTupzJkz) | [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Looking For Your Love](https://open.spotify.com/album/3jIzxpC0nCn0wkGzR3Gno5) | 2:46 | 2022-06-09 | 2022-08-12 |
 | [Loop](https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loop](https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW) | 3:10 | 2022-07-28 | 2022-11-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,177 likes - 60 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,207 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 52 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 |
 | 53 | [Lip Lickin' Lou](https://open.spotify.com/track/74hKkSJTY4Z6P6BRV1641u) | [Wild Wax Combo](https://open.spotify.com/artist/4q2TGE7vO4v3sOcJB8mJYb) | [Lip Lickin' Lou](https://open.spotify.com/album/2vJyPunjsJLeTCV2WNDcn5) | 2:05 |
 | 54 | [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 |
-| 55 | [Sunny](https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w) | [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Sunny](https://open.spotify.com/album/0iNprdkkVugAnZ6KfTR1f2) | 3:37 |
-| 56 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
+| 55 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
+| 56 | [Sunny](https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w) | [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Sunny](https://open.spotify.com/album/0iNprdkkVugAnZ6KfTR1f2) | 3:37 |
 | 57 | [You Broke Another Heart](https://open.spotify.com/track/2aTgrEUkUqkQq2XOTiCoez) | [Simon Crashly & The Roadmasters](https://open.spotify.com/artist/4dTBqdKoBqxeb8asDOrfYN) | [It's Only Rock'n'roll](https://open.spotify.com/album/2VBVjL0r5VWlfiT1ctOVPF) | 2:31 |
-| 58 | [Betty Lou](https://open.spotify.com/track/3hKBG0SPXtftwnOR9MBLcs) | [Jimmy Larsson](https://open.spotify.com/artist/0SOSLvvpn87mIFOFzkwYlC), [Jonas Davik](https://open.spotify.com/artist/6LjE4XKKTrapfBk8uFeNFL) | [JimJones Country Duo](https://open.spotify.com/album/4oPItKBnAJoEt6uVnCeW8L) | 2:33 |
-| 59 | [Favourite Song](https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra) | [Guitar Tom and the High Cats](https://open.spotify.com/artist/7Dsd8yjfeZeKq7jAWqXJK1) | [Favourite Song](https://open.spotify.com/album/3jaVPMuVvrHGn5VoBCGGxT) | 2:29 |
+| 58 | [Favourite Song](https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra) | [Guitar Tom and the High Cats](https://open.spotify.com/artist/7Dsd8yjfeZeKq7jAWqXJK1) | [Favourite Song](https://open.spotify.com/album/3jaVPMuVvrHGn5VoBCGGxT) | 2:29 |
+| 59 | [Betty Lou](https://open.spotify.com/track/3hKBG0SPXtftwnOR9MBLcs) | [Jimmy Larsson](https://open.spotify.com/artist/0SOSLvvpn87mIFOFzkwYlC), [Jonas Davik](https://open.spotify.com/artist/6LjE4XKKTrapfBk8uFeNFL) | [JimJones Country Duo](https://open.spotify.com/album/4oPItKBnAJoEt6uVnCeW8L) | 2:33 |
 | 60 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 |
 
 Snapshot ID: `ZTuwowAAAAAR7YyGkhqDYMD970nIjd8E`

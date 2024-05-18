@@ -1,13 +1,65 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Fana Hues",
-  "num_followers": 50707,
+  "description": "R&B of the moment by the artists of the future. Cover: kwn",
+  "num_followers": 50717,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjT6cgAAAAAnqyl09i6TkBVwT9ZAa5Ay",
+  "snapshot_id": "ZkbWQAAAAAAg5/foPTc4fc3+T/WVVGCK",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "eyes wide open",
+        "url": "https://open.spotify.com/album/1DIpIdMFlsZwv0UW9kTtmR"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "eyes wide open",
+      "url": "https://open.spotify.com/track/47yqCBu6gwfquchEQiBahu"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/4K7gw3J0XWiMaGrciyzta7"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/0a9o4CGIbtucAabkGFlkRa"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Caf\u00e9 Noir",
+        "url": "https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Fallin 4 Ya Luv",
+      "url": "https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb"
+    },
     {
       "added_at": "2024-05-03 14:53:38",
       "album": {
@@ -41,24 +93,20 @@
       "url": "https://open.spotify.com/track/5Kz3bfVcSB3MyZ9Po0vlH6"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Caf\u00e9 Noir",
-        "url": "https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI"
+        "name": "Double Tragedy - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2qB5xtNmOWlJGCNGDQo11B"
       },
       "artists": [
         {
-          "name": "Flwr Chyld",
-          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
-        },
-        {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
         }
       ],
-      "duration_ms": 140800,
-      "name": "Fallin 4 Ya Luv",
-      "url": "https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb"
+      "duration_ms": 165881,
+      "name": "Double Tragedy - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/45LnuVmnymxokS3QNGJlrN"
     },
     {
       "added_at": "2024-05-03 14:53:38",
@@ -75,6 +123,22 @@
       "duration_ms": 252809,
       "name": "Still",
       "url": "https://open.spotify.com/track/4E3CP6Dczv5mYkBaZ65Etg"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/73tWbljEskyASZXWpmJten"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        }
+      ],
+      "duration_ms": 168012,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4d68kQcEkzo54yzicu9N9K"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -101,6 +165,42 @@
       "url": "https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze"
     },
     {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Touchin\u2019 (feat. Capella Grey)",
+        "url": "https://open.spotify.com/album/4Ihq7NlTKOSVx6CObkXDEA"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        }
+      ],
+      "duration_ms": 118073,
+      "name": "Touchin\u2019 (feat. Capella Grey)",
+      "url": "https://open.spotify.com/track/1s8gUJ98VZJKuzOMO7QERt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "DIVA",
+        "url": "https://open.spotify.com/album/0OjWVtjpB8khmxN7jKbiXZ"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 156334,
+      "name": "DIVA",
+      "url": "https://open.spotify.com/track/1cv5SZwknENyRdD1GKAAwz"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "Changes",
@@ -115,22 +215,6 @@
       "duration_ms": 143960,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4kZFUJrhhy6JwHUnd3M1jD"
-    },
-    {
-      "added_at": "2024-05-03 14:53:38",
-      "album": {
-        "name": "what do you need",
-        "url": "https://open.spotify.com/album/2XfbLj4z1SWkZsg6YfD9Wi"
-      },
-      "artists": [
-        {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "what do you need",
-      "url": "https://open.spotify.com/track/6w1e7VnGbH5TKIjX8gsTnR"
     },
     {
       "added_at": "2024-05-03 14:53:38",
@@ -181,24 +265,40 @@
       "url": "https://open.spotify.com/track/5Vj0gHzm9njFI4Us8jwvbZ"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "NICE GIRLS",
-        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+        "name": "He Don't Know",
+        "url": "https://open.spotify.com/album/1urjgGljXT6gPuN9DePk26"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
         }
       ],
-      "duration_ms": 149538,
-      "name": "NICE GIRLS",
-      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
+      "duration_ms": 160124,
+      "name": "Happy Home",
+      "url": "https://open.spotify.com/track/3WTrRUIfO71a5eBoGEvSAO"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Fist Bump (Radio Edit)",
+        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Fist Bump - Radio Edit",
+      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -215,6 +315,22 @@
       "duration_ms": 224633,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2k9R6I6dhAWnNnsU4qS53p"
+    },
+    {
+      "added_at": "2024-05-03 14:53:38",
+      "album": {
+        "name": "what do you need",
+        "url": "https://open.spotify.com/album/2XfbLj4z1SWkZsg6YfD9Wi"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "what do you need",
+      "url": "https://open.spotify.com/track/6w1e7VnGbH5TKIjX8gsTnR"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -355,26 +471,6 @@
       "duration_ms": 144335,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5OickbLkupQS7ox3Jy3OLt"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2ifD3sMzx0bi3qkJ10NqK1"
-      },
-      "artists": [
-        {
-          "name": "HMLT",
-          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
-        },
-        {
-          "name": "Sir Travis Knight",
-          "url": "https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ"
-        }
-      ],
-      "duration_ms": 239712,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6G2qhOQ4FB7WdKIE2CJ4wd"
     },
     {
       "added_at": "2024-05-03 14:53:38",
@@ -591,22 +687,6 @@
       "duration_ms": 159750,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/1wAhoNjMBg3yQc2VzCxr1j"
-    },
-    {
-      "added_at": "2024-03-22 08:51:00",
-      "album": {
-        "name": "11th Hour",
-        "url": "https://open.spotify.com/album/0hZoP4o7c995gK0cEIssHK"
-      },
-      "artists": [
-        {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "11th Hour",
-      "url": "https://open.spotify.com/track/63E8fk3JnHd5kEpL29tA8w"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1105,42 +1185,6 @@
       "url": "https://open.spotify.com/track/0BC9rz15tjiiFUYa1xum79"
     },
     {
-      "added_at": "2024-03-08 13:25:41",
-      "album": {
-        "name": "Walk Like This",
-        "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "Walk Like This",
-      "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
-    },
-    {
-      "added_at": "2024-03-01 07:19:09",
-      "album": {
-        "name": "Touchin\u2019 (feat. Busta Rhymes)",
-        "url": "https://open.spotify.com/album/4zIWVKmegh0RXzAuWWCsF8"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 224675,
-      "name": "Touchin\u2019 (feat. Busta Rhymes)",
-      "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
-    },
-    {
       "added_at": "2024-03-01 07:19:09",
       "album": {
         "name": "Around The World",
@@ -1191,38 +1235,6 @@
       "duration_ms": 167165,
       "name": "serial recluse",
       "url": "https://open.spotify.com/track/7rR8q7eE0UKUaJt3xsOMSJ"
-    },
-    {
-      "added_at": "2024-03-08 13:25:41",
-      "album": {
-        "name": "THE STUNT-MAN PACK",
-        "url": "https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "OPTIONS",
-      "url": "https://open.spotify.com/track/0LU2BLCYWYZX0Syij9SM15"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Heads Up",
-        "url": "https://open.spotify.com/album/2AsA2saG1hWf1saYVkSPAl"
-      },
-      "artists": [
-        {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "Heads Up",
-      "url": "https://open.spotify.com/track/4uFxhKQAoEowGajQmONHmU"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1681,22 +1693,6 @@
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
     },
     {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 190474,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
-    },
-    {
       "added_at": "2024-01-19 06:47:03",
       "album": {
         "name": "Live from Ursula Ave",
@@ -1823,7 +1819,7 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "Drifted (feat. Jayla Darden)",
+        "name": "Drifted",
         "url": "https://open.spotify.com/album/03ekiMgr3rkTqWmHYOKcIz"
       },
       "artists": [
@@ -1837,7 +1833,7 @@
         }
       ],
       "duration_ms": 250221,
-      "name": "Drifted (feat. Jayla Darden)",
+      "name": "Drifted",
       "url": "https://open.spotify.com/track/562S3M4AGzUZcZ6G1WorfN"
     },
     {

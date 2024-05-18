@@ -5465,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/71V5c3JMOzLatchvR4ldmJ"
+      },
+      "artists": [
+        {
+          "name": "Tedy",
+          "url": "https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143493,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/5d1P1mec9QUKTWurAA1fvk"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8"
       },

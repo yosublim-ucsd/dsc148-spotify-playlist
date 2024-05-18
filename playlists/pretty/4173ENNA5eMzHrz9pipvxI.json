@@ -1,15 +1,35 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mollie Collins x Jamezy x Ruth Royall",
-  "num_followers": 120193,
+  "num_followers": 120197,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAdbwncwRgFLTI44Bn0GCbs4bQYv5/X",
+  "snapshot_id": "AAAdchGCgbJiIrQJhViFXZq4HB8E2uWq",
   "tracks": [
     {
-      "added_at": "2024-05-16 23:32:55",
+      "added_at": "2024-05-17 11:14:52",
+      "album": {
+        "name": "My City",
+        "url": "https://open.spotify.com/album/3xNEWVkFaNdnAPmC0M5J0c"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/3G8UpeZbzVGRMJQD5Zn3mB"
+    },
+    {
+      "added_at": "2024-05-17 11:14:52",
       "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC"
@@ -29,7 +49,139 @@
       "url": "https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a"
     },
     {
-      "added_at": "2024-05-16 23:32:55",
+      "added_at": "2024-05-17 11:14:52",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/3ocRwxucX3212g29vOg7je"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 213230,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6"
+    },
+    {
+      "added_at": "2024-05-17 11:14:52",
+      "album": {
+        "name": "Get Silly",
+        "url": "https://open.spotify.com/album/342ESIqWtB7Mi8CpW1WcyN"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Get Silly",
+      "url": "https://open.spotify.com/track/7que6KGImzpzFfW6jWARLF"
+    },
+    {
+      "added_at": "2024-05-17 11:14:52",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/2TDDTSE6n30E0ZYgBGeIRL"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "duration_ms": 172898,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0WlbKq1FQCKTpP82jSc37u"
+    },
+    {
+      "added_at": "2024-05-17 11:14:52",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "duration_ms": 131520,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w"
+    },
+    {
+      "added_at": "2024-05-17 11:14:52",
+      "album": {
+        "name": "Don't Get Lazy",
+        "url": "https://open.spotify.com/album/65eU6goKpy3PwvAQgPKFuw"
+      },
+      "artists": [
+        {
+          "name": "Oomloud",
+          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+        },
+        {
+          "name": "Alannys Weber",
+          "url": "https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu"
+        }
+      ],
+      "duration_ms": 151277,
+      "name": "Don't Get Lazy",
+      "url": "https://open.spotify.com/track/5otmd1vyOCxDtcvYRrJQ3u"
+    },
+    {
+      "added_at": "2024-05-17 11:14:52",
+      "album": {
+        "name": "SKELETON",
+        "url": "https://open.spotify.com/album/6mkdOyHLglhEaj50QbGmRk"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "SKELETON",
+      "url": "https://open.spotify.com/track/7Id3dL8SN0JIZ0kelI5JcA"
+    },
+    {
+      "added_at": "2024-05-17 11:14:52",
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4fOXUCgiZkpH22kvDXXgzE"
+      },
+      "artists": [
+        {
+          "name": "Wave Wave",
+          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+        }
+      ],
+      "duration_ms": 183398,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/70z6wZYx5VAM7cw1PrhgxT"
+    },
+    {
+      "added_at": "2024-05-17 11:14:52",
+      "album": {
+        "name": "Fade Till Sunrise",
+        "url": "https://open.spotify.com/album/114hIeSkPIDGlfjB1zN6w7"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "duration_ms": 181897,
+      "name": "Fade Till Sunrise",
+      "url": "https://open.spotify.com/track/3SveeQXLlX4ilxJOqoCHYY"
+    },
+    {
+      "added_at": "2024-05-17 11:14:52",
       "album": {
         "name": "Stumblin' In (Wilson & Smokin' Jack Hill Remix)",
         "url": "https://open.spotify.com/album/4ZNwTa7FDDaK11sm2iXSzh"
@@ -51,142 +203,6 @@
       "duration_ms": 216000,
       "name": "Stumblin' In (Wilson & Smokin' Jack Hill Remix)",
       "url": "https://open.spotify.com/track/0VugF8gMa0BZpsS4LmM6Dg"
-    },
-    {
-      "added_at": "2024-05-16 23:32:55",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/2TDDTSE6n30E0ZYgBGeIRL"
-      },
-      "artists": [
-        {
-          "name": "VASSY",
-          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
-        }
-      ],
-      "duration_ms": 172898,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0WlbKq1FQCKTpP82jSc37u"
-    },
-    {
-      "added_at": "2024-05-16 23:32:55",
-      "album": {
-        "name": "My City",
-        "url": "https://open.spotify.com/album/3xNEWVkFaNdnAPmC0M5J0c"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Prophecy",
-          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "My City",
-      "url": "https://open.spotify.com/track/3G8UpeZbzVGRMJQD5Zn3mB"
-    },
-    {
-      "added_at": "2024-05-16 23:32:55",
-      "album": {
-        "name": "Fade Till Sunrise",
-        "url": "https://open.spotify.com/album/114hIeSkPIDGlfjB1zN6w7"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Fade Till Sunrise",
-      "url": "https://open.spotify.com/track/3SveeQXLlX4ilxJOqoCHYY"
-    },
-    {
-      "added_at": "2024-05-16 23:32:55",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO"
-      },
-      "artists": [
-        {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
-        }
-      ],
-      "duration_ms": 131520,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w"
-    },
-    {
-      "added_at": "2024-05-16 23:32:55",
-      "album": {
-        "name": "Don't Get Lazy",
-        "url": "https://open.spotify.com/album/65eU6goKpy3PwvAQgPKFuw"
-      },
-      "artists": [
-        {
-          "name": "Oomloud",
-          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
-        },
-        {
-          "name": "Alannys Weber",
-          "url": "https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu"
-        }
-      ],
-      "duration_ms": 151277,
-      "name": "Don't Get Lazy",
-      "url": "https://open.spotify.com/track/5otmd1vyOCxDtcvYRrJQ3u"
-    },
-    {
-      "added_at": "2024-05-16 23:32:55",
-      "album": {
-        "name": "SKELETON",
-        "url": "https://open.spotify.com/album/6mkdOyHLglhEaj50QbGmRk"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "SKELETON",
-      "url": "https://open.spotify.com/track/7Id3dL8SN0JIZ0kelI5JcA"
-    },
-    {
-      "added_at": "2024-05-16 23:32:55",
-      "album": {
-        "name": "Get Silly",
-        "url": "https://open.spotify.com/album/342ESIqWtB7Mi8CpW1WcyN"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Get Silly",
-      "url": "https://open.spotify.com/track/7que6KGImzpzFfW6jWARLF"
-    },
-    {
-      "added_at": "2024-05-16 23:32:55",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/3ocRwxucX3212g29vOg7je"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 213230,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

@@ -1,6 +1,6 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 163694,
+  "num_followers": 163865,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "All Things Work Together",
         "url": "https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 217506,
       "name": "I'll Find You (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/6m60IwLIkZ2Fmz4J9FsQ1o"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Dark Is The Way, Light Is A Place",
-        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "So Alive",
         "url": "https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 178619,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Dark Is The Way, Light Is A Place",
+        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "The Wait",
-        "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 272600,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Never Let Me Down",
         "url": "https://open.spotify.com/album/3AdMAdfuTFgfbZk7cSasV9"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 236000,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/1R1TTzq1Z8fP12zgTT1j0V"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "The Wait",
+        "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 272600,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Won't Let Go",
-        "url": "https://open.spotify.com/album/3Pdqow3QbgnjafVf7tPf46"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 236768,
-      "name": "Won't Let Go",
-      "url": "https://open.spotify.com/track/2LDslUaUIvhF0eJPLqKqzM"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 179693,
       "name": "Won't Be Moved",
       "url": "https://open.spotify.com/track/5qhtdHmxEtZSEM1H7rn8Mj"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Won't Let Go",
+        "url": "https://open.spotify.com/album/3Pdqow3QbgnjafVf7tPf46"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 236768,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/2LDslUaUIvhF0eJPLqKqzM"
     },
     {
       "added_at": "2023-02-07 17:43:16",

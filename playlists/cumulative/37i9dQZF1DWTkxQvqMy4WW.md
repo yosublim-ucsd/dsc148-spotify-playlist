@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-426 songs - 1 day 0 hr 26 min
+428 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [If I Told You](https://open.spotify.com/track/4Az17HfqonKSWNsaLgTBeK) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [When Was The Last Time](https://open.spotify.com/album/6SVzzB0SnMlBXcHsmhNxzC) | 3:32 | 2019-06-21 | 2022-04-20 |
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2022-02-04 | 2023-03-11 |
 | [If I Were You \(feat\. Keith Urban\)](https://open.spotify.com/track/3quTUw70QQN6rPRWximeGp) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [If I Were You \(feat\. Keith Urban\)](https://open.spotify.com/album/4xjyAfAXghdReGPTz26l1l) | 3:33 | 2019-10-26 | 2022-04-20 |
-| [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-04-21 |  |
+| [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-04-21 | 2024-05-18 |
 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 | 2019-10-26 |  |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2024-02-09 | 2024-04-29 |
 | [It All Started With a Beer \- Single Version](https://open.spotify.com/track/3qtZwBkPpK2Q8fcYRHm4AX) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [It All Started with a Beer](https://open.spotify.com/album/23nUr4RPD032ELTFi56VO5) | 3:57 | 2019-08-09 | 2022-04-21 |
@@ -250,6 +250,7 @@
 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 | 2019-05-25\* |  |
 | [Night Train](https://open.spotify.com/track/5ytc87gcx6dZ4nWRNykinV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 3:52 | 2022-03-25 | 2022-04-18 |
 | [Night's On Fire](https://open.spotify.com/track/0a3KWFyJEaOBOGKjTGOoN8) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Night's On Fire](https://open.spotify.com/album/7M32FwFn7MyvlO6VzBJnZ1) | 3:09 | 2019-06-26 | 2022-04-21 |
+| [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-05-17 |  |
 | [No Problem](https://open.spotify.com/track/2Fh8q3YYsCG0VlNeJ3rb2w) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [No Problem](https://open.spotify.com/album/5Cr9FneEEwIy4V1gR3jyWH) | 3:03 | 2019-06-27 | 2019-06-28 |
 | [Nothin' Like You](https://open.spotify.com/track/4W38RXuQNuoTSwVsQA1OGC) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Where It All Began](https://open.spotify.com/album/2Zkvy7eARxR3qjKNWMiwMa) | 3:06 | 2019-06-22 | 2022-04-19 |
 | [Nowhere Fast](https://open.spotify.com/track/6arLnfArtdWKOcCYzDd4rS) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:08 | 2019-06-24 | 2022-04-21 |
@@ -321,7 +322,7 @@
 | [Somebody Like That](https://open.spotify.com/track/62SvLj5dBDI9Ee3eBA0BxL) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/6Jetxgkv7jYVQJhyOBqAPa) | 3:18 | 2021-06-13 |  |
 | [Somebody Like You](https://open.spotify.com/track/0qup7d7G2WffwARHKrqT2x) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 5:23 | 2019-06-26 | 2022-07-29 |
 | [Somebody to Thank](https://open.spotify.com/track/5fKbYBhU4iTm81YTqpYa0t) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Come Back Road](https://open.spotify.com/album/1xCo4ulACLVZ6lbYaQKQEL) | 3:31 | 2019-06-22 | 2022-04-18 |
-| [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 | 2021-07-25 |  |
+| [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 | 2021-07-25 | 2024-05-18 |
 | [Somethin' I'm Good At](https://open.spotify.com/track/6DRsEO5yuEGBF87qpyMB4d) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:37 | 2021-10-12 | 2022-04-19 |
 | [Something 'Bout You](https://open.spotify.com/track/2VdKelTyQHxQKyeTbimoHS) | [Sir Rosevelt](https://open.spotify.com/artist/36jGtr6jwJ2D7RVJBTRpsc) | [Sir Rosevelt](https://open.spotify.com/album/04qg9UzQONJod7bGdOIPOj) | 2:40 | 2019-05-25\* | 2022-04-21 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-05-18 |  |
@@ -344,6 +345,7 @@
 | [Take Back Home Girl \(Feat\. Tori Kelly\)](https://open.spotify.com/track/2gVBXeTjwL0ZEh9gjsQjk0) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Take Back Home Girl \(Feat\. Tori Kelly\)](https://open.spotify.com/album/51ecZKt8Ol3xV4gpjSV5Pj) | 3:31 | 2019-05-25\* | 2022-04-10 |
 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 | 2019-05-25\* |  |
 | [Talk You Out Of It](https://open.spotify.com/track/4kKgn11J60MHCrfS4AfbIm) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Florida Georgia Line](https://open.spotify.com/album/6OWE1lqiV8GPpj9Kn4Rc32) | 3:22 | 2019-05-25\* | 2022-04-20 |
+| [Tennessee Don't Mind](https://open.spotify.com/track/6LaW2p9BxzbSGefvoW8Y4T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Tennessee Don't Mind](https://open.spotify.com/album/3YQyzsRPVsbGGFig4lvcpz) | 4:02 | 2024-05-17 |  |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2019-06-22 |  |
 | [Tequila](https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Tequila](https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF) | 3:15 | 2019-05-25\* | 2022-07-29 |
 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [III](https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl) | 3:07 | 2019-06-25 | 2024-05-11 |

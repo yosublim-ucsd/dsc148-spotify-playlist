@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-330 songs - 18 hr 46 min
+331 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Kabool](https://open.spotify.com/track/1nCYcGugNhfWztL1MTqelr) | [Jazz Thind](https://open.spotify.com/artist/7xkj57i87hLRoWTYqDiZap) | [Kabool](https://open.spotify.com/album/5oDBQrHneBQksa226QWfeS) | 3:36 | 2024-02-23 | 2024-04-03 |
 | [Kahaani](https://open.spotify.com/track/57TrQP3nPUoc92VsooFB7p) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Kahaani](https://open.spotify.com/album/0pObojh3ehHgp4GYHl5RF5) | 3:35 | 2023-05-17 | 2023-06-16 |
 | [Kahan Hai Tu](https://open.spotify.com/track/1ZQE1e66GtpKKrU5ducFwo) | [Tejas Chheda](https://open.spotify.com/artist/5qWwPZIux8vlQiQNwNxCLd), [Pratyay Mishra](https://open.spotify.com/artist/2IXMw0AoPJqaO18VtZZNVG) | [Kahan Hai Tu](https://open.spotify.com/album/29M6TBgJ42RilK3mQkB7np) | 4:06 | 2023-05-17 | 2023-05-23 |
-| [Kahan Jaoon](https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Kahan Jaoon](https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh) | 5:29 | 2024-02-05 |  |
+| [Kahan Jaoon](https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Kahan Jaoon](https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh) | 5:29 | 2024-02-05 | 2024-05-18 |
 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 | 2024-03-14 |  |
 | [Kaheen Dur](https://open.spotify.com/track/3aao7Ivw6dX2JwadKVB86f) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Kaheen Dur](https://open.spotify.com/album/1qSuMszKzt2pQUnBD4ZiDD) | 3:20 | 2023-07-12 | 2023-09-16 |
 | [Kaisa Hai Tu](https://open.spotify.com/track/7ha7c175FMuemBB38vvIrl) | [Tirth Thakkar](https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf) | [Kaisa Hai Tu](https://open.spotify.com/album/42ymCah47LkmJtV1AhjJAj) | 3:15 | 2024-03-11 | 2024-05-07 |
@@ -231,6 +231,7 @@
 | [Parinda](https://open.spotify.com/track/37iaU5dRe1Iq4eWQSikR44) | [Hemang](https://open.spotify.com/artist/0Mcoqh0ZKmp41Apx7sKyfa), [IgnitedPandits](https://open.spotify.com/artist/2e3uP4XqRv0TKYL2flzFf7) | [Parinda](https://open.spotify.com/album/6lVQmXaB2jLY9xI28zJfN6) | 3:02 | 2024-02-09 | 2024-03-12 |
 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:19 | 2023-07-07 | 2023-07-15 |
 | [Parindey](https://open.spotify.com/track/1hB2v1jDsLe9ApvDYJ0twe) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Parindey](https://open.spotify.com/album/2gMzRhTnjzT8VD5Qy5Ao0q) | 3:01 | 2023-05-17 | 2023-08-29 |
+| [Pariyon Ki Duniya](https://open.spotify.com/track/4PnZwswnElBV5JemrOnSuM) | [Joy Sengupta](https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Pinky Poonawala](https://open.spotify.com/artist/4DhyWRZAivYeuXMNmijjEY) | [Pariyon Ki Duniya](https://open.spotify.com/album/7MUReK6TwvioU10WVkZLiZ) | 3:01 | 2024-05-17 |  |
 | [Parwaah](https://open.spotify.com/track/5CeWyGt9oMtsBBOLtYRTl5) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Parwaah](https://open.spotify.com/album/0bxsenYWUkYi3nEDuPefhd) | 4:22 | 2023-05-17 | 2023-06-24 |
 | [Parwaaz](https://open.spotify.com/track/4ZKNx6PVTkX5zUtPUHX2tW) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Parwaaz](https://open.spotify.com/album/10SbTpq2BTnqjnkbhkUDL8) | 4:11 | 2024-02-09 | 2024-03-12 |
 | [Patang](https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:35 | 2023-05-17 | 2023-08-10 |

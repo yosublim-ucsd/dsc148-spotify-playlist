@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LdlvmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Ldq+wAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "The Code",
         "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Rim Tim Tagi Dim",
         "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Europapa",
         "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "kannatused ehk k\u00fclakiigel pole stopperit",
         "url": "https://open.spotify.com/album/7mLL0eVJ6aOzQ5I6z9cUwN"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/43IB8nJZTAmlJi9eBAmTrJ"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Cathexis",
         "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Teresa & Maria",
         "url": "https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB"
@@ -145,23 +145,7 @@
       "url": "https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "We Will Rave",
-        "url": "https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl"
-      },
-      "artists": [
-        {
-          "name": "Kaleen",
-          "url": "https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P"
-        }
-      ],
-      "duration_ms": 185066,
-      "name": "We Will Rave",
-      "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "ANNE KAFFEEKANNE",
         "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
@@ -177,7 +161,23 @@
       "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "We Will Rave",
+        "url": "https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl"
+      },
+      "artists": [
+        {
+          "name": "Kaleen",
+          "url": "https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "We Will Rave",
+      "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Luktelk",
         "url": "https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/1nuYw5614RF5tm7Byrigw5"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Ladaniva",
         "url": "https://open.spotify.com/album/1XtgrVhoVHWCqrUhx2ITDk"
@@ -225,23 +225,7 @@
       "url": "https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
-      },
-      "artists": [
-        {
-          "name": "Eden Golan",
-          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
-        }
-      ],
-      "duration_ms": 178965,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "P.O.P.",
         "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
@@ -257,7 +241,23 @@
       "url": "https://open.spotify.com/track/3wRgk5tGQzfNXtSawH8O3S"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
+      },
+      "artists": [
+        {
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+        }
+      ],
+      "duration_ms": 178965,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "la noia",
         "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "No Rules!",
         "url": "https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -313,23 +313,7 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "Pedestal (Eurovision version)",
-        "url": "https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn"
-      },
-      "artists": [
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
-        }
-      ],
-      "duration_ms": 177368,
-      "name": "Pedestal - Eurovision version",
-      "url": "https://open.spotify.com/track/0XzSKAgVOdtMSfzYY0qtAb"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "ZORRA",
         "url": "https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf"
@@ -345,7 +329,7 @@
       "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "VEMPA",
         "url": "https://open.spotify.com/album/0AXShQulBiviUJkpaVR4EH"
@@ -365,75 +349,23 @@
       "url": "https://open.spotify.com/track/3pPMgoouYtezLiBTEeL9be"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
-        "name": "Tiryakinim",
-        "url": "https://open.spotify.com/album/2akaQMyROHMG8Hy17lUwYE"
+        "name": "Pedestal (Eurovision version)",
+        "url": "https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn"
       },
       "artists": [
         {
-          "name": "Ayten Alpman",
-          "url": "https://open.spotify.com/artist/2ou49oabzUlWGVoKHw5bvm"
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
         }
       ],
-      "duration_ms": 199821,
-      "name": "Tiryakinim",
-      "url": "https://open.spotify.com/track/3MqpWcX5aP4m7NL2gqxg6J"
+      "duration_ms": 177368,
+      "name": "Pedestal - Eurovision version",
+      "url": "https://open.spotify.com/track/0XzSKAgVOdtMSfzYY0qtAb"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "MASHA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
-      },
-      "artists": [
-        {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
-        },
-        {
-          "name": "TXVSTERPLAYA",
-          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
-        }
-      ],
-      "duration_ms": 93650,
-      "name": "MASHA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY (VHS)",
-      "url": "https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "Always on the run",
-        "url": "https://open.spotify.com/album/61t1CVlAIr7HWUkS0KcF3K"
-      },
-      "artists": [
-        {
-          "name": "ISAAK",
-          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
-        }
-      ],
-      "duration_ms": 209562,
-      "name": "Always on the run",
-      "url": "https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Zungenbrecher 4.0 - Staffel 4",
         "url": "https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC"
@@ -453,7 +385,43 @@
       "url": "https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "Tiryakinim",
+        "url": "https://open.spotify.com/album/6vwOyaGFSGibSqdP9HBkaE"
+      },
+      "artists": [
+        {
+          "name": "Bayhan",
+          "url": "https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V"
+        }
+      ],
+      "duration_ms": 199821,
+      "name": "Tiryakinim",
+      "url": "https://open.spotify.com/track/4jdpkoZR2tUT4m4UTEUuvK"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
+      },
+      "artists": [
+        {
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+        },
+        {
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+        }
+      ],
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Fall Back / Selfish Game",
         "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
@@ -469,23 +437,23 @@
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
-        "name": "Fighter (Eurovision Version)",
-        "url": "https://open.spotify.com/album/3zGEOLJy9x96GeYgRPoXEO"
+        "name": "Always on the run",
+        "url": "https://open.spotify.com/album/61t1CVlAIr7HWUkS0KcF3K"
       },
       "artists": [
         {
-          "name": "TALI",
-          "url": "https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK"
+          "name": "ISAAK",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
         }
       ],
-      "duration_ms": 179738,
-      "name": "Fighter - Eurovision Version",
-      "url": "https://open.spotify.com/track/6K4Opq24wkYBidAuLpqutv"
+      "duration_ms": 209562,
+      "name": "Always on the run",
+      "url": "https://open.spotify.com/track/3BJ0uXKEz9fUxCbZle1rCE"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Herztausch",
         "url": "https://open.spotify.com/album/07B9z4SkDWSEQWHJw0p4zS"
@@ -501,39 +469,23 @@
       "url": "https://open.spotify.com/track/6k2cbSiYwuHtsiqScrrp3J"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
-        "name": "Ulveham",
-        "url": "https://open.spotify.com/album/2JUURbJ2d1rCQRayCepXnv"
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
       "artists": [
         {
-          "name": "G\u00e5te",
-          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Ulveham",
-      "url": "https://open.spotify.com/track/4Fo5QwbxjpNKW191lHQhnm"
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY (VHS)",
+      "url": "https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/5iZ22MQ93D5oS0YGxPpw4p"
-      },
-      "artists": [
-        {
-          "name": "Silia Kapsis",
-          "url": "https://open.spotify.com/artist/3tTnh7pp782ZdZADjqPOvC"
-        }
-      ],
-      "duration_ms": 178812,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Amo aller Amos",
         "url": "https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j"
@@ -549,27 +501,55 @@
       "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
-        "name": "Gata Only",
-        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5iZ22MQ93D5oS0YGxPpw4p"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Silia Kapsis",
+          "url": "https://open.spotify.com/artist/3tTnh7pp782ZdZADjqPOvC"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Gata Only",
-      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+      "duration_ms": 178812,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "Ulveham",
+        "url": "https://open.spotify.com/album/2JUURbJ2d1rCQRayCepXnv"
+      },
+      "artists": [
+        {
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ulveham",
+      "url": "https://open.spotify.com/track/4Fo5QwbxjpNKW191lHQhnm"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "Fighter (Eurovision Version)",
+        "url": "https://open.spotify.com/album/3zGEOLJy9x96GeYgRPoXEO"
+      },
+      "artists": [
+        {
+          "name": "TALI",
+          "url": "https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK"
+        }
+      ],
+      "duration_ms": 179738,
+      "name": "Fighter - Eurovision Version",
+      "url": "https://open.spotify.com/track/6K4Opq24wkYBidAuLpqutv"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "The Code (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/4ajUR8PR151uJIw0w9mD9Y"
@@ -589,7 +569,7 @@
       "url": "https://open.spotify.com/track/2RFO0W60VvlbJWtqzIOxXz"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob"
@@ -605,7 +585,23 @@
       "url": "https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/0voSkEDsdL2nmPZiX3toXG"
@@ -621,7 +617,27 @@
       "url": "https://open.spotify.com/track/6lvDhgHLeC9wBOOVKGCfJi"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Wunder",
         "url": "https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa"
@@ -641,139 +657,7 @@
       "url": "https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "T.N.T. (Techno Remix)",
-        "url": "https://open.spotify.com/album/4NydermwrtbQyYQfsawidt"
-      },
-      "artists": [
-        {
-          "name": "Nic Johnston",
-          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
-        }
-      ],
-      "duration_ms": 137473,
-      "name": "T.N.T. - Techno Remix",
-      "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "Before The Party's Over",
-        "url": "https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq"
-      },
-      "artists": [
-        {
-          "name": "Mustii",
-          "url": "https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1"
-        }
-      ],
-      "duration_ms": 179923,
-      "name": "Before The Party's Over",
-      "url": "https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 136580,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "Don't hate yourself, but don't love yourself too much",
-        "url": "https://open.spotify.com/album/6sV4ryfaCwWB9dW8daKTL8"
-      },
-      "artists": [
-        {
-          "name": "Baby Lasagna",
-          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Don't hate yourself, but don't love yourself too much",
-      "url": "https://open.spotify.com/track/4mpcrsrJ5KpdSZrzpJlODy"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "Fortune's child",
-        "url": "https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr"
-      },
-      "artists": [
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "Pedestal",
-      "url": "https://open.spotify.com/track/3GNmo4ljOTnd8k6VKug1Ut"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
-      "album": {
-        "name": "SAND",
-        "url": "https://open.spotify.com/album/4qvil8kYuHLOnW327paleO"
-      },
-      "artists": [
-        {
-          "name": "SABA",
-          "url": "https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "SAND",
-      "url": "https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO"
-    },
-    {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Erwischt",
         "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
@@ -793,23 +677,107 @@
       "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
-        "name": "Firefighter",
-        "url": "https://open.spotify.com/album/1uZCKKz6GFG8RXXQhRZ9vv"
+        "name": "Don't hate yourself, but don't love yourself too much",
+        "url": "https://open.spotify.com/album/6sV4ryfaCwWB9dW8daKTL8"
       },
       "artists": [
         {
-          "name": "Nutsa",
-          "url": "https://open.spotify.com/artist/28BY95cMOgoVJrJK9YLS7Z"
+          "name": "Baby Lasagna",
+          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
         }
       ],
-      "duration_ms": 183913,
-      "name": "Firefighter",
-      "url": "https://open.spotify.com/track/5Ekw4o2ecrOCBF5rGB7KXs"
+      "duration_ms": 140624,
+      "name": "Don't hate yourself, but don't love yourself too much",
+      "url": "https://open.spotify.com/track/4mpcrsrJ5KpdSZrzpJlODy"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "T.N.T. (Techno Remix)",
+        "url": "https://open.spotify.com/album/4NydermwrtbQyYQfsawidt"
+      },
+      "artists": [
+        {
+          "name": "Nic Johnston",
+          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
+        }
+      ],
+      "duration_ms": 137473,
+      "name": "T.N.T. - Techno Remix",
+      "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "Fortune's child",
+        "url": "https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/3GNmo4ljOTnd8k6VKug1Ut"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "SAND",
+        "url": "https://open.spotify.com/album/4qvil8kYuHLOnW327paleO"
+      },
+      "artists": [
+        {
+          "name": "SABA",
+          "url": "https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "SAND",
+      "url": "https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "The Tower",
         "url": "https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl"
@@ -825,23 +793,23 @@
       "url": "https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/6II0CjU8B2JyEgWBBVvtjN"
+        "name": "Albino",
+        "url": "https://open.spotify.com/album/2X87EHKVeyoKrjMfaGpJfR"
       },
       "artists": [
         {
-          "name": "Megara",
-          "url": "https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23"
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
         }
       ],
-      "duration_ms": 180087,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/6XIerJ9V7H9byQFRZiqyCv"
+      "duration_ms": 152500,
+      "name": "Ome Robert",
+      "url": "https://open.spotify.com/track/4hFLAgCvQdngAtIhb3KaVI"
     },
     {
-      "added_at": "2024-05-16 14:52:00",
+      "added_at": "2024-05-17 15:22:23",
       "album": {
         "name": "Veronika",
         "url": "https://open.spotify.com/album/3Ep62W58uONUkDa6yphNDq"
@@ -855,6 +823,38 @@
       "duration_ms": 166222,
       "name": "Veronika",
       "url": "https://open.spotify.com/track/5M2L5RqF8zRvFwPUrQ1tX6"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "Before The Party's Over",
+        "url": "https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq"
+      },
+      "artists": [
+        {
+          "name": "Mustii",
+          "url": "https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1"
+        }
+      ],
+      "duration_ms": 179923,
+      "name": "Before The Party's Over",
+      "url": "https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X"
+    },
+    {
+      "added_at": "2024-05-17 15:22:23",
+      "album": {
+        "name": "they/them (diesesliedistspass)",
+        "url": "https://open.spotify.com/album/2Jg23l6FqtTZMOCeEp2zYS"
+      },
+      "artists": [
+        {
+          "name": "Mortymp3",
+          "url": "https://open.spotify.com/artist/1Eqhkm1ofLD24BZWKOwdvR"
+        }
+      ],
+      "duration_ms": 115519,
+      "name": "they/them (diesesliedistspass)",
+      "url": "https://open.spotify.com/track/27XjbGziM7LRMp3lUbNYbs"
     }
   ],
   "unique_name": "Viral 50 - Austria",

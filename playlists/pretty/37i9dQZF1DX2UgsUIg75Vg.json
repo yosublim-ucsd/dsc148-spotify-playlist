@@ -1,13 +1,33 @@
 {
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Charlotte Day Wilson",
-  "num_followers": 2341095,
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: Elmiene",
+  "num_followers": 2341160,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2i4gAAAABr5YSx2FyUuOQT/nGwQeBN",
+  "snapshot_id": "ZkbWQAAAAACS8gbn5rRr61fjeRtyu34u",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Sweetness (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 251326,
+      "name": "Sweetness (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
+    },
     {
       "added_at": "2024-05-10 04:30:26",
       "album": {
@@ -23,26 +43,6 @@
       "duration_ms": 218480,
       "name": "Dovetail",
       "url": "https://open.spotify.com/track/1zEG6etKoFYBedD7YQvSpP"
-    },
-    {
-      "added_at": "2024-01-12 05:39:56",
-      "album": {
-        "name": "SAME MISTAKE",
-        "url": "https://open.spotify.com/album/41EmgJAJQInxILfagQ608k"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "SAME MISTAKE",
-      "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
     },
     {
       "added_at": "2024-03-29 06:29:51",
@@ -65,36 +65,24 @@
       "url": "https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7"
     },
     {
-      "added_at": "2024-02-16 05:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Thinking Less",
-        "url": "https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW"
+        "name": "He Loves Us Both (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Thinking Less",
-      "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
-    },
-    {
-      "added_at": "2024-05-10 04:30:26",
-      "album": {
-        "name": "CASSANDRA (cherith)",
-        "url": "https://open.spotify.com/album/6MRsw1r6L9uMldU3TPS9Q3"
-      },
-      "artists": [
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
         {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 237208,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/0qhfhNViALwYY7ZGeeDVCl"
+      "duration_ms": 221700,
+      "name": "He Loves Us Both (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -127,6 +115,38 @@
       "duration_ms": 216507,
       "name": "Here We Go (Uh Oh)",
       "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "FromHere (feat. Snoop Dogg & October London)",
+        "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 241511,
+      "name": "FromHere (feat. Snoop Dogg & October London)",
+      "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -269,6 +289,74 @@
       "url": "https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb"
     },
     {
+      "added_at": "2024-01-12 05:39:56",
+      "album": {
+        "name": "SAME MISTAKE",
+        "url": "https://open.spotify.com/album/41EmgJAJQInxILfagQ608k"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "SAME MISTAKE",
+      "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
+    },
+    {
+      "added_at": "2024-02-16 05:00:00",
+      "album": {
+        "name": "Thinking Less",
+        "url": "https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Thinking Less",
+      "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
+    },
+    {
+      "added_at": "2024-05-03 15:06:51",
+      "album": {
+        "name": "Paper Tigers",
+        "url": "https://open.spotify.com/album/6IUhzw8ZEYb9zhlSrJszVS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 212394,
+      "name": "Paper Tigers",
+      "url": "https://open.spotify.com/track/5eE5yG2wQW9xGuyPLqXygs"
+    },
+    {
+      "added_at": "2024-05-10 04:30:26",
+      "album": {
+        "name": "CASSANDRA (cherith)",
+        "url": "https://open.spotify.com/album/6MRsw1r6L9uMldU3TPS9Q3"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 237208,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/0qhfhNViALwYY7ZGeeDVCl"
+    },
+    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "HEAVY",
@@ -287,22 +375,6 @@
       "duration_ms": 191888,
       "name": "POETRY IN MOTION",
       "url": "https://open.spotify.com/track/6vZRq9JIOGTl3b9dmEgeZV"
-    },
-    {
-      "added_at": "2024-05-03 15:06:51",
-      "album": {
-        "name": "Paper Tigers",
-        "url": "https://open.spotify.com/album/6IUhzw8ZEYb9zhlSrJszVS"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 212394,
-      "name": "Paper Tigers",
-      "url": "https://open.spotify.com/track/5eE5yG2wQW9xGuyPLqXygs"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -343,6 +415,22 @@
       "duration_ms": 224516,
       "name": "I Need It (feat. Syd & Tank)",
       "url": "https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/4K7gw3J0XWiMaGrciyzta7"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/0a9o4CGIbtucAabkGFlkRa"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -477,22 +565,6 @@
       "url": "https://open.spotify.com/track/63E8fk3JnHd5kEpL29tA8w"
     },
     {
-      "added_at": "2024-05-03 15:06:51",
-      "album": {
-        "name": "Cyan Blue",
-        "url": "https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 217738,
-      "name": "Kiss & Tell",
-      "url": "https://open.spotify.com/track/0p38jRu2nXBK6c8a7YGeM1"
-    },
-    {
       "added_at": "2024-03-29 06:29:51",
       "album": {
         "name": "COWBOY CARTER",
@@ -539,22 +611,6 @@
       "duration_ms": 210226,
       "name": "Falling or flying - Reimagined",
       "url": "https://open.spotify.com/track/0OT6eMljP4fshxNA1STPgr"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Sweetness",
-        "url": "https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251894,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -695,7 +751,7 @@
     {
       "added_at": "2023-10-20 21:56:24",
       "album": {
-        "name": "Drifted (feat. Jayla Darden)",
+        "name": "Drifted",
         "url": "https://open.spotify.com/album/03ekiMgr3rkTqWmHYOKcIz"
       },
       "artists": [
@@ -709,24 +765,8 @@
         }
       ],
       "duration_ms": 250221,
-      "name": "Drifted (feat. Jayla Darden)",
+      "name": "Drifted",
       "url": "https://open.spotify.com/track/562S3M4AGzUZcZ6G1WorfN"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1813,22 +1853,6 @@
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
     },
     {
-      "added_at": "2023-12-15 17:29:44",
-      "album": {
-        "name": "The Color Purple (Music From And Inspired By)",
-        "url": "https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 266093,
-      "name": "Any Worse (Squeak\u2019s Song)",
-      "url": "https://open.spotify.com/track/2mjZYvLsOCoBuFZp6G1jQX"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "FRIENDS",
@@ -1843,26 +1867,6 @@
       "duration_ms": 190219,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/4vnY4Q9cCCMOAoG8O9y5gb"
-    },
-    {
-      "added_at": "2023-10-20 21:56:24",
-      "album": {
-        "name": "Girls Need Love (Girls Mix)",
-        "url": "https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Girls Need Love (Girls Mix) (feat. Tyla)",
-      "url": "https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2221,26 +2225,6 @@
       "url": "https://open.spotify.com/track/0nChB3pqbznFzQKiAlb9gu"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "'98 Vibes (Do You Right)",
-        "url": "https://open.spotify.com/album/4HoaA1yYAjNWf7Db0vpp8x"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Tiffany Gouch\u00e9",
-          "url": "https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba"
-        }
-      ],
-      "duration_ms": 238967,
-      "name": "'98 Vibes (Do You Right)",
-      "url": "https://open.spotify.com/track/2PYZj3AqpS6Vtr4ghoe8eV"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Caught Between 2 Worlds",
@@ -2419,38 +2403,6 @@
       "duration_ms": 205546,
       "name": "Fable",
       "url": "https://open.spotify.com/track/6u7Vm7aTEKQInva4iJ0icx"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Bet That",
-        "url": "https://open.spotify.com/album/7mmBqDdCZwqn4g30GAuteH"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 144320,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/6Fcn31PmGZhYMIiEuJvkcn"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Fly Girl",
-        "url": "https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 192022,
-      "name": "Fly Girl",
-      "url": "https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2727,22 +2679,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
       },
@@ -2839,22 +2775,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Finding Peace",
-      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
@@ -2883,22 +2803,6 @@
       "duration_ms": 170026,
       "name": "Only Have Eyes 42",
       "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "DIAMONDS & FREAKS",
-        "url": "https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        }
-      ],
-      "duration_ms": 186061,
-      "name": "ORANGE WINE",
-      "url": "https://open.spotify.com/track/6mvFSD5KNfWyQIsBrIRst2"
     },
     {
       "added_at": "2023-09-15 04:00:00",

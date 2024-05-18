@@ -1,12 +1,12 @@
 {
-  "description": "This is Nirvana. The essential tracks, all in one playlist.",
-  "num_followers": 1361113,
+  "description": "This Is Nirvana. Los temas esenciales, todos en una lista.",
+  "num_followers": 1361347,
   "original_name": "This Is Nirvana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAACWX5x/9svVkQI90DG06x8I",
+  "snapshot_id": "ZkVMgAAAAAA/g04Tv0MRzz8xD6/hGy9U",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 103800,
-      "name": "Downer",
-      "url": "https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c"
+      "duration_ms": 235000,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/6G2baGa99QcqUUTmkEgeZl"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/6G2baGa99QcqUUTmkEgeZl"
+      "duration_ms": 103800,
+      "name": "Downer",
+      "url": "https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c"
     },
     {
       "added_at": null,

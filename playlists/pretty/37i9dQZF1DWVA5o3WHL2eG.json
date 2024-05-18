@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Esther Graf",
-  "num_followers": 34034,
+  "num_followers": 34048,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
+        "name": "hello sunshine",
+        "url": "https://open.spotify.com/album/0RqvyJLJdIgR3OsSCPO8NJ"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "duration_ms": 190062,
+      "name": "hello sunshine",
+      "url": "https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
         "name": "blei",
         "url": "https://open.spotify.com/album/4IVG5q7oP8gdz1dQOPaRNx"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 193900,
       "name": "GOLDEN DAYS",
       "url": "https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
-        "name": "hello sunshine",
-        "url": "https://open.spotify.com/album/0RqvyJLJdIgR3OsSCPO8NJ"
-      },
-      "artists": [
-        {
-          "name": "Katha Pauer",
-          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
-        }
-      ],
-      "duration_ms": 190062,
-      "name": "hello sunshine",
-      "url": "https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
+        "name": "without youuuuuu",
+        "url": "https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 115390,
+      "name": "without youuuuuu",
+      "url": "https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
         "name": "schwimmen",
         "url": "https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 207706,
       "name": "Kreislauf",
       "url": "https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
-        "name": "without youuuuuu",
-        "url": "https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 115390,
-      "name": "without youuuuuu",
-      "url": "https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM"
     },
     {
       "added_at": "2024-05-01 07:25:52",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-05-01 07:25:52",
       "album": {
-        "name": "boy with a view",
-        "url": "https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN"
-      },
-      "artists": [
-        {
-          "name": "PENNY X",
-          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
-        }
-      ],
-      "duration_ms": 187814,
-      "name": "boy with a view",
-      "url": "https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN"
-    },
-    {
-      "added_at": "2024-05-01 07:25:52",
-      "album": {
         "name": "DiEBiN",
         "url": "https://open.spotify.com/album/72XnjLNVoTHGtGoJBU1dB8"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 156363,
       "name": "DiEBiN",
       "url": "https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP"
+    },
+    {
+      "added_at": "2024-05-01 07:25:52",
+      "album": {
+        "name": "boy with a view",
+        "url": "https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN"
+      },
+      "artists": [
+        {
+          "name": "PENNY X",
+          "url": "https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi"
+        }
+      ],
+      "duration_ms": 187814,
+      "name": "boy with a view",
+      "url": "https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN"
     },
     {
       "added_at": "2024-05-01 07:25:52",

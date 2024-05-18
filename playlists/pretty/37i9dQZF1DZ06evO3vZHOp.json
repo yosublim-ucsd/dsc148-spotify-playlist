@@ -1,12 +1,12 @@
 {
   "description": "This Is Eladio Carrion. Los temas esenciales, todos en una lista.",
-  "num_followers": 330031,
+  "num_followers": 330167,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAADTRQZyT1qUQEOJEb2WluV/",
+  "snapshot_id": "ZkVMgAAAAAAULxh+YBaHy+4YAAUIeL5O",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00e1rgolas Forever",
-        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
-      },
-      "artists": [
-        {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pensabas",
         "url": "https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 292000,
       "name": "Pensabas",
       "url": "https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00e1rgolas Forever",
+        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sauce Boyz Care Package",
-        "url": "https://open.spotify.com/album/2xx0ajBaOvCKDgGCgEHNIA"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/5sY7UZw6t8CYJNXp1K2y49"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J\u00f3venes Millonarios",
         "url": "https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 182189,
       "name": "J\u00f3venes Millonarios",
       "url": "https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sauce Boyz Care Package",
+        "url": "https://open.spotify.com/album/2xx0ajBaOvCKDgGCgEHNIA"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/5sY7UZw6t8CYJNXp1K2y49"
     },
     {
       "added_at": null,

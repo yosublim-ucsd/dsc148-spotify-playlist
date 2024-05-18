@@ -1567,6 +1567,28 @@
     },
     {
       "album": {
+        "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+        "url": "https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc"
+      },
+      "artists": [
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Mohammad Faiz",
+          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281511,
+      "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
+    },
+    {
+      "album": {
         "name": "Dekhya Kite",
         "url": "https://open.spotify.com/album/2zPnY5L7hwCjuYmpuCCAO5"
       },
@@ -2468,6 +2490,24 @@
       "duration_ms": 179136,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/0CEZeiRvjL3iHPu1JKI9zW"
+    },
+    {
+      "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF"
+      },
+      "artists": [
+        {
+          "name": "Karan Randhawa",
+          "url": "https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159546,
+      "name": "Gulab",
+      "url": "https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4"
     },
     {
       "album": {
@@ -5208,7 +5248,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 171272,
       "name": "Players",
       "url": "https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi"
@@ -5910,7 +5950,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 160851,
       "name": "Sheesha",
       "url": "https://open.spotify.com/track/5uHy68Q7ZWe8Qq9k7EAprS"
@@ -7311,6 +7351,28 @@
     },
     {
       "album": {
+        "name": "Dripster",
+        "url": "https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "Wealth",
+      "url": "https://open.spotify.com/track/4l8WHDKXzN22fSIq7Vw4Wq"
+    },
+    {
+      "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
       },
@@ -7480,7 +7542,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 194857,
       "name": "Ykwim",
       "url": "https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ"

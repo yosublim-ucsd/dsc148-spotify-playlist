@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 191543,
       "name": "Ain't Hard To Tell",
       "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
@@ -2554,6 +2554,24 @@
     {
       "album": {
         "name": "Decay",
+        "url": "https://open.spotify.com/album/5ziRgEyGUW3KCaQMnhjOhr"
+      },
+      "artists": [
+        {
+          "name": "If Kansas Had Trees",
+          "url": "https://open.spotify.com/artist/3YEeJlxfkfxvuPVw5NxiS2"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225312,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/7M2tbOV0E13n3oojYjPO0q"
+    },
+    {
+      "album": {
+        "name": "Decay",
         "url": "https://open.spotify.com/album/6ECwJB9w4fL7X3vtoVTbHw"
       },
       "artists": [
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 210480,
       "name": "Drip From The Fountain",
       "url": "https://open.spotify.com/track/7IoSvKuWY2AYDLbfBl3S3d"
@@ -3142,6 +3160,24 @@
       "duration_ms": 186374,
       "name": "Engage",
       "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
+    },
+    {
+      "album": {
+        "name": "All You Embrace",
+        "url": "https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136840,
+      "name": "Esruc",
+      "url": "https://open.spotify.com/track/6vH3omqh1aRKVGtpbD4PT0"
     },
     {
       "album": {
@@ -4200,7 +4236,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 244500,
       "name": "Halley",
       "url": "https://open.spotify.com/track/5Hqumcun0UcSFX8HvqSXQD"
@@ -4906,7 +4942,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 136840,
       "name": "I Want To Be Invisible",
       "url": "https://open.spotify.com/track/2rGVvk7cUGv4uJxXk0xIaX"
@@ -8555,6 +8591,24 @@
     },
     {
       "album": {
+        "name": "Spilling Ink",
+        "url": "https://open.spotify.com/album/1AItTg8lRbbk54ReTDBqGR"
+      },
+      "artists": [
+        {
+          "name": "MILLY",
+          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141013,
+      "name": "Spilling Ink",
+      "url": "https://open.spotify.com/track/2IU1bpsBxeFFp5fFvY2CFA"
+    },
+    {
+      "album": {
         "name": "spiralling",
         "url": "https://open.spotify.com/album/1aHO2uXq0zKcauZi2NjcV4"
       },
@@ -8974,6 +9028,24 @@
       "duration_ms": 223978,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/5KaxxDE0h1Gq3OVCh9h5Ak"
+    },
+    {
+      "album": {
+        "name": "Sungazer",
+        "url": "https://open.spotify.com/album/33m5p7mMPChIrI8GPwcpoA"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180234,
+      "name": "Sungazer",
+      "url": "https://open.spotify.com/track/4d0iW7Fl3u9BNdsXZdFAgb"
     },
     {
       "album": {

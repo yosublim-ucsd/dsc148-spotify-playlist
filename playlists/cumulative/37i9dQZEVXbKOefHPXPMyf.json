@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 142235,
       "name": "a new star (2 0 2 4)",
       "url": "https://open.spotify.com/track/1IqkIEAKwZknVHpxjT7Vbq"
@@ -5892,7 +5892,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 183975,
       "name": "Buenos tiempos",
       "url": "https://open.spotify.com/track/0LRgY9XAxrghqLDAaJ3o1v"
@@ -5914,6 +5914,28 @@
       "duration_ms": 189640,
       "name": "Bugambilia",
       "url": "https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM"
+    },
+    {
+      "album": {
+        "name": "BUNKER/PREROLL",
+        "url": "https://open.spotify.com/album/1bPxMZGxchRlhmtuAwfn81"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "BUNKER/PREROLL",
+      "url": "https://open.spotify.com/track/4nPeNi0XkuoYcuIshqcYVn"
     },
     {
       "album": {
@@ -15506,7 +15528,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 221714,
       "name": "Gitana (feat. Bryartz)",
       "url": "https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA"

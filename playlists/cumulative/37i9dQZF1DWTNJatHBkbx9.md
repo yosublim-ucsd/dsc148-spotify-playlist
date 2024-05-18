@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: SUPERJAZZCLUB
 
-64 songs - 3 hr 9 min
+66 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [ACT A FOOL](https://open.spotify.com/track/7DR5U9CtjI9CTFXSAmD0Am) | [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [ACT A FOOL](https://open.spotify.com/album/6wag0cQoAza8BuLTLkfPbI) | 2:35 | 2024-05-10 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2024-05-10 |  |
 | [Aquamarie Luvs Ecstasy](https://open.spotify.com/track/0xIy8FcIz088Ec4dxslUtm) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 4:38 | 2024-05-10 |  |
-| [Ascension](https://open.spotify.com/track/5lAuNmFdgHCFgwAPp1WYnJ) | [Corby](https://open.spotify.com/artist/4uHKRVYCZ4sT0EtrlemkT4) | [Ascension](https://open.spotify.com/album/6tXOMXO3H2JD4ZOqcEw0SB) | 2:18 | 2024-05-10 |  |
+| [Ascension](https://open.spotify.com/track/5lAuNmFdgHCFgwAPp1WYnJ) | [Corby](https://open.spotify.com/artist/4uHKRVYCZ4sT0EtrlemkT4) | [Ascension](https://open.spotify.com/album/6tXOMXO3H2JD4ZOqcEw0SB) | 2:18 | 2024-05-10 | 2024-05-18 |
 | [Bigger & Better Than](https://open.spotify.com/track/0ZtxPLtxfhhC774iqK3gB6) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Bigger & Better Than](https://open.spotify.com/album/4aKJWlQ7JUoqYlMkBYUZl6) | 2:18 | 2024-05-10 |  |
 | [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2024-05-10 |  |
 | [Blue Jeans](https://open.spotify.com/track/5hDjWc5A1zOonjMrikQpuQ) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/64pRtYkZfuiH9OBqIGJqn0) | 3:21 | 2024-05-10 |  |
@@ -28,6 +28,7 @@
 | [Divine Feminine](https://open.spotify.com/track/1L07DzSHZutfFs0ikZZavO) | [Spc.GH.st](https://open.spotify.com/artist/4EpGPJu4qMimlNUcWbd58q), [Kaus D'Greatest](https://open.spotify.com/artist/49Hs1WEehcdagW17vQh2Y9) | [Divine Feminine](https://open.spotify.com/album/4pHKjFWDO0WQWF9mOeBISm) | 3:11 | 2024-05-10 |  |
 | [Do Not Disturb](https://open.spotify.com/track/0yiBLJp8JFeJU8DcJeuwjU) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Do Not Disturb](https://open.spotify.com/album/4sSm5RNKqNxeJEO6f5M7M9) | 2:22 | 2024-05-10 |  |
 | [Feels Like Magic](https://open.spotify.com/track/6hE9eQNiZDdbHpaxPcSqjD) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:54 | 2024-05-10 |  |
+| [Flex](https://open.spotify.com/track/45m2Q8cga0lcjRyS2cLwe5) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Insvne Auggie](https://open.spotify.com/artist/2dNjqvomsDbN1XCYM6wlod) | [Flex](https://open.spotify.com/album/4aQ8zK4K5FGQUHUOM4bwwc) | 2:46 | 2024-05-17 |  |
 | [Gbonyo Party](https://open.spotify.com/track/74UDz0eNWuVPowvxAo9qTk) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 2:07 | 2024-05-10 |  |
 | [Ghana Bop](https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:44 | 2024-05-10 |  |
 | [Give It Back](https://open.spotify.com/track/0GamHHdEZTOeKl6fSCY0I3) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Chief Kellz](https://open.spotify.com/artist/4eHWOufqo0n5FnfpEl25Ly) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 3:43 | 2024-05-10 |  |
@@ -42,8 +43,9 @@
 | [Lemuella \(feat\. $pacely, KwakuBs, RJZ, Kwesi Arthur\)](https://open.spotify.com/track/33YJBuPUw5QN0YANYbY5LU) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [KwakuBs](https://open.spotify.com/artist/4WIDKbsLcrvVVwUrzihgxo), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb) | [La Même Tape](https://open.spotify.com/album/6rTmz2G8NKu9GkrAA5Yumv) | 3:58 | 2024-05-10 |  |
 | [Love Hard](https://open.spotify.com/track/0FdcLCbPJPvJRKpvCzkTvz) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Love Hard](https://open.spotify.com/album/6g7gnzgDhtzBde95DPS6Mv) | 2:32 | 2024-05-17 |  |
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2024-05-10 |  |
-| [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-05-10 |  |
+| [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-05-10 | 2024-05-18 |
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
+| [No Love](https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [NO LOVE](https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY) | 2:44 | 2024-05-17 |  |
 | [OFF](https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [OFF](https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY) | 3:08 | 2024-05-10 |  |
 | [Okay](https://open.spotify.com/track/4sGtnz2R0QTfSpf0z4FQBx) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Okay](https://open.spotify.com/album/1UGLQEvDpRqnyxgL33rOmt) | 2:32 | 2024-05-10 | 2024-05-17 |
 | [OUTSIDE](https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OUTSIDE](https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1) | 2:26 | 2024-05-10 |  |

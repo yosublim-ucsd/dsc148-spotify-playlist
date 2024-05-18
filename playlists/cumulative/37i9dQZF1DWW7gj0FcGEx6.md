@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-353 songs - 17 hr 34 min
+354 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [The Theft](https://open.spotify.com/track/4WHjBK90nJUJO6pDhDUcq0) | [Uno Helmersson](https://open.spotify.com/artist/1kadYRHFCmrICPStobY2qm) | [The Painter and the Thief \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BodeWKh4jOpa1qLXESWpT) | 2:49 | 2021-12-20 | 2022-07-09 |
 | [The Visualisation Chamber](https://open.spotify.com/track/4WU4nx4q9gizlaplWUs6Ba) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq) | [Devs \(Original Series Soundtrack\)](https://open.spotify.com/album/6o7nGNxjcQF04D6epk1vOf) | 2:30 | 2021-12-20 | 2022-07-09 |
 | [The Wages of Fear](https://open.spotify.com/track/25zQf8rXspkaIeCYSDGTSc) | [Éric Serra](https://open.spotify.com/artist/1DptMAbvFajxK4ZObg1OdA) | [Le salaire de la peur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/52TLRFfXyeTo8SYCx7aH08) | 1:21 | 2024-03-29 |  |
+| [The Whole World Was Ready To Return](https://open.spotify.com/track/4l4p8FOcNkBBXtcxBDZjKP) | [Daniel Hart](https://open.spotify.com/artist/3T91YntaaHTAKK2GYoTUPW) | [Interview with the Vampire: Season 2 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3qsiYSKxMH7gnXKkE93nxN) | 3:10 | 2024-05-17 |  |
 | [The Will to Survive](https://open.spotify.com/track/5UBZdbDjgDK73hszLGIWhD) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [ARK: The Animated Series, Vol\. 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/3FC2kiilL4aWkvMvCBFvsC) | 3:06 | 2024-03-29 |  |
 | [The Witching Hour \- from "Anne Rice's Mayfair Witches" Soundtrack](https://open.spotify.com/track/3VXY6oTdl3y8fhA2EiFI38) | [Will Bates](https://open.spotify.com/artist/15EWKxh9CT6XDgMsbtSPqN), [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [The Witching Hour \(from "Anne Rice's Mayfair Witches" Soundtrack\)](https://open.spotify.com/album/4AdLZyToPSwXxQRR3vJc5N) | 3:03 | 2023-01-16 |  |
 | [The Wolf Who Became A Woman](https://open.spotify.com/track/0tTeoxDBV1S1xV5QxDV9cu) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Rebel Moon — Part One: A Child of Fire \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0dvdIoenKPHXtjAinkDbGv) | 2:00 | 2023-12-15 |  |

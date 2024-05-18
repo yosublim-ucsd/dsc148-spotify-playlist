@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-233 songs - 10 hr 56 min
+234 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 | 2023-04-06 |  |
 | [Mosaic Patterns](https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Mosaic Patterns](https://open.spotify.com/album/4GdPy1i4mgFy8eFW2JCmot) | 2:53 | 2023-03-13 |  |
 | [Moving Forward](https://open.spotify.com/track/5wUcZKUVpLr1mA9cn542BI) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Moving Forward](https://open.spotify.com/album/0nginUJK6TyxW1XEZhdelg) | 2:36 | 2024-01-30 |  |
+| [Mt\. Seymour](https://open.spotify.com/track/3wHC0FZL6jhKzJUykiJ9Aq) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Mt\. Seymour](https://open.spotify.com/album/3RX8Jqi9TVBxm1wh6GMliY) | 3:08 | 2024-05-01 |  |
 | [My Favorite Moment](https://open.spotify.com/track/6xDrOfy2c9pyfcPmUBIJeV) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [Watching the World Go By](https://open.spotify.com/album/4aBzckGZx3xOnljiVzE2HR) | 3:38 | 2023-03-13 | 2023-12-19 |
 | [Natural Spirit](https://open.spotify.com/track/0mWtYOhlnlUsVLCO1opzLJ) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:48 | 2023-03-13 |  |
 | [Nature Pause](https://open.spotify.com/track/6606b0Jnwb9BaYJUgcmqq2) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:31 | 2023-03-13 |  |
@@ -192,7 +193,7 @@
 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 | 2023-01-24 |  |
 | [River Hymn](https://open.spotify.com/track/0G6qOjR6sbdx3f812Jf6m3) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [River Hymn](https://open.spotify.com/album/1JeUE7z5MzGdlRVSeWcMLv) | 2:56 | 2024-03-05 |  |
 | [River Of Dreams](https://open.spotify.com/track/45jab7CY7ZsjQGUrhGzAKR) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:51 | 2023-02-22 |  |
-| [River on Strings](https://open.spotify.com/track/4KPxKVV0wKUbEi2D08RStc) | [Nerea Vallée](https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl) | [River on Strings](https://open.spotify.com/album/2ms4F8UTNdM6JaXhCH83SK) | 3:08 | 2024-04-01 |  |
+| [River on Strings](https://open.spotify.com/track/4KPxKVV0wKUbEi2D08RStc) | [Nerea Vallée](https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl) | [River on Strings](https://open.spotify.com/album/2ms4F8UTNdM6JaXhCH83SK) | 3:08 | 2024-04-01 | 2024-05-18 |
 | [Sacred](https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Sacred](https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3) | 2:29 | 2023-09-28 |  |
 | [Sauntering Dream](https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Jonathan Warman](https://open.spotify.com/artist/4rOuVyfJluPW9tHKjL2FWf) | [Wandering Mind](https://open.spotify.com/album/5xdnfDa5waDfIgSu7M6KGF) | 3:19 | 2023-03-13 | 2023-05-20 |
 | [Sequoia Peace \(Forest\)](https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [Sequoia Peace \(Forest\)](https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7) | 2:54 | 2024-04-01 |  |

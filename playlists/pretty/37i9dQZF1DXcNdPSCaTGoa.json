@@ -1,6 +1,6 @@
 {
   "description": "Remembering <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX-n7beSCAHzBQ\">Brenda Fassie's</a> incredible legacy, 20 years on.",
-  "num_followers": 57868,
+  "num_followers": 58036,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-05-10 06:20:50",
       "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/2EzZFAc6qzsNZI04ZxsUWJ"
+      },
+      "artists": [
+        {
+          "name": "Thabo Mdluli",
+          "url": "https://open.spotify.com/artist/5XOF9NqTF9TdBDKciCnHKZ"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/7yL2pYvu2CmbRMsPKHKd5J"
+    },
+    {
+      "added_at": "2024-05-10 06:20:50",
+      "album": {
         "name": "Skhanda Republic",
         "url": "https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 226321,
       "name": "Caracara",
       "url": "https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY"
-    },
-    {
-      "added_at": "2024-05-10 06:20:50",
-      "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/2EzZFAc6qzsNZI04ZxsUWJ"
-      },
-      "artists": [
-        {
-          "name": "Thabo Mdluli",
-          "url": "https://open.spotify.com/artist/5XOF9NqTF9TdBDKciCnHKZ"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/7yL2pYvu2CmbRMsPKHKd5J"
     },
     {
       "added_at": "2024-05-10 06:20:50",

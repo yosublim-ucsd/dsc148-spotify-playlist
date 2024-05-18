@@ -1159,6 +1159,32 @@
     },
     {
       "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/1Kk56qikcuSd1W3UukLVYK"
+      },
+      "artists": [
+        {
+          "name": "Oceanside",
+          "url": "https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR"
+        },
+        {
+          "name": "Badjack",
+          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
+        },
+        {
+          "name": "harley.",
+          "url": "https://open.spotify.com/artist/1JNdpn1AAnBqtvRqZ13hic"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6jVZGGkPcdpLFYXGaUz2Q5"
+    },
+    {
+      "album": {
         "name": "Comeback",
         "url": "https://open.spotify.com/album/53beMOOUXueIBxRBJJqRrt"
       },
@@ -3275,6 +3301,28 @@
     },
     {
       "album": {
+        "name": "If I Only Knew",
+        "url": "https://open.spotify.com/album/1ejZy43GaJpxtdIOVP4k3L"
+      },
+      "artists": [
+        {
+          "name": "Niicap",
+          "url": "https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW"
+        },
+        {
+          "name": "Patrick Aretz",
+          "url": "https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147309,
+      "name": "If I Only Knew",
+      "url": "https://open.spotify.com/track/0VN4l7R6O7UcPKJhwaZfNN"
+    },
+    {
+      "album": {
         "name": "If You Had My Love",
         "url": "https://open.spotify.com/album/4QLYrQJNjyLWOZmXtmGxUO"
       },
@@ -5203,6 +5251,32 @@
     },
     {
       "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/7bgRbp7mMV6VPTtC82bVBi"
+      },
+      "artists": [
+        {
+          "name": "Agezzi",
+          "url": "https://open.spotify.com/artist/3MqEFVmis08ouKYDtArXy6"
+        },
+        {
+          "name": "Nick Palm",
+          "url": "https://open.spotify.com/artist/4P2MPcslWikUgT6wNmHQLV"
+        },
+        {
+          "name": "Nalestar",
+          "url": "https://open.spotify.com/artist/0Vk0t5vDLM69GHthqkKIea"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182950,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4iJGQ9cTFCPRUbd79ZwcvK"
+    },
+    {
+      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/7vFToKJJgSpRBd2aPz46zI"
       },
@@ -7036,6 +7110,24 @@
       "duration_ms": 123130,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/4TWnu7grNeQ6WNVmet9fZI"
+    },
+    {
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/0N6vzwE5lMFBu90zKoftig"
+      },
+      "artists": [
+        {
+          "name": "LoudN\u00e6ss",
+          "url": "https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/1omvoAbA7vuvNGkinKyegO"
     },
     {
       "album": {

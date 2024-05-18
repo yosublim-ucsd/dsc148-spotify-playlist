@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: KhoslaRaghu
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,581 likes - 96 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,657 likes - 96 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

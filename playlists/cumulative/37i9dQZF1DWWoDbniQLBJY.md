@@ -4,7 +4,7 @@
 
 > Aquí viven las guitarras acústicas\. Cover: Maria Becerra
 
-215 songs - 12 hr 45 min
+216 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [El Mismo Camino](https://open.spotify.com/track/5aGY2tPPBiCT0A1JvFpJ0t) | [Johan Sotelo](https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd) | [El Mismo Camino](https://open.spotify.com/album/301g4sucHNZf2KuvbmsEa6) | 3:35 | 2022-06-07 | 2022-11-13 |
 | [El Mismo Camino](https://open.spotify.com/track/7e6rM0VPHDZXRZ4sIdcclc) | [Johan Sotelo](https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd) | [El Mismo Camino](https://open.spotify.com/album/2vYmBcDgSJndYPu7xa4fhb) | 3:35 | 2021-12-16 | 2022-07-29 |
 | [En Medio De Este Ruido](https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf) | 4:07 | 2021-12-16 | 2024-05-08 |
+| [Enredadera](https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Pequeños Romances](https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo) | 4:55 | 2024-05-17 |  |
 | [Eres para Mí \(with La Mala Rodríguez\) \- Unplugged \(En Vivo\)](https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:42 | 2021-12-16 | 2023-04-29 |
 | [Es Por Tí \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Spotify Singles](https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX) | 4:24 | 2021-12-16 |  |
 | [Estoy Aquí \- En Vivo](https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 4:58 | 2021-12-16 |  |
@@ -125,7 +126,7 @@
 | [Mi Semana](https://open.spotify.com/track/0fcVHerwSfrT9mhaI0ilKP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños de la Playa Deluxe](https://open.spotify.com/album/7yygHATGee7r4DFR9BrI3P) | 3:06 | 2023-05-05 | 2023-05-24 |
 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3fLULPPtmfVkGMnwAhHAij) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/album/0sdNte5fJ855Bcut5yF9Sv) | 4:32 | 2021-12-16 | 2024-05-08 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-01-26 |  |
-| [Mocca](https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Mocca](https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q) | 1:35 | 2021-12-16 |  |
+| [Mocca](https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Mocca](https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q) | 1:35 | 2021-12-16 | 2024-05-18 |
 | [Modo Ofendida](https://open.spotify.com/track/2lBEp7EJ7BfgkAqStAu0BE) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Modo Ofendida](https://open.spotify.com/album/4BodBh6T2yaVLoANvzjWBB) | 3:15 | 2021-12-16 | 2023-04-29 |
 | [Mp3](https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Mp3](https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd) | 3:01 | 2021-12-16 |  |
 | [My Stupid Heart \- Mi Pobre Corazon](https://open.spotify.com/track/1wUw0OzMdLMrzneOH3XUgu) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Eva Sola](https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4) | [My Stupid Heart](https://open.spotify.com/album/3dmsMK66JcTGZbWEZJRusw) | 2:45 | 2023-06-09 | 2023-10-24 |

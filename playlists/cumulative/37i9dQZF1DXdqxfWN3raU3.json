@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "A mi manera",
+        "url": "https://open.spotify.com/album/3d6gvExEguHtp0vrNIOB3d"
+      },
+      "artists": [
+        {
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157698,
+      "name": "A mi manera",
+      "url": "https://open.spotify.com/track/7aMFjt1GwfWBTKJfFgATQM"
+    },
+    {
+      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 153142,
       "name": "Foolish Heart",
       "url": "https://open.spotify.com/track/59TcJrxtsGRq71Caov0RUL"
@@ -4067,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "Me Hipnotizas",
+        "url": "https://open.spotify.com/album/3kf3Kvtes1T7ywPIn2oW30"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155168,
+      "name": "Me Hipnotizas",
+      "url": "https://open.spotify.com/track/4nCTEteEhAkAGtk9rMSUUe"
+    },
+    {
+      "album": {
         "name": "Portales (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
@@ -4582,7 +4618,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 187368,
       "name": "Nervios de Acero",
       "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
@@ -4754,7 +4790,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 160326,
       "name": "No es pa sufrir",
       "url": "https://open.spotify.com/track/6o4uwcJd1gErHGteH9eTd1"
@@ -5464,6 +5500,32 @@
       "duration_ms": 171041,
       "name": "Pieles",
       "url": "https://open.spotify.com/track/53P2WWtGXFQFyxS8u93RHK"
+    },
+    {
+      "album": {
+        "name": "PLO PLO",
+        "url": "https://open.spotify.com/album/2HGt6SEhs9IkBgg1dSeQgi"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        },
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218088,
+      "name": "PLO PLO",
+      "url": "https://open.spotify.com/track/7or0qmnGnqQR9fdBeTzF9m"
     },
     {
       "album": {
@@ -6343,6 +6405,24 @@
     },
     {
       "album": {
+        "name": "SIN PERDER, NUNK CUENTA",
+        "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "SIN PERDER, NUNK CUENTA",
+      "url": "https://open.spotify.com/track/6UsEb9zlBkbU6ZMMFkgkdE"
+    },
+    {
+      "album": {
         "name": "Sismo",
         "url": "https://open.spotify.com/album/4vQmVKGg34lT3BYRwWI0cO"
       },
@@ -6974,7 +7054,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"

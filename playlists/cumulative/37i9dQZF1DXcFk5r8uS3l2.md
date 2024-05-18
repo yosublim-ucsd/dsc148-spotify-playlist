@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-372 songs - 23 hr 19 min
+373 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Harder To Blame](https://open.spotify.com/track/6Qfd1lfuOpHwyyccBXAHH6) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Harder To Blame](https://open.spotify.com/album/7J1pLKAXPMishkIbaZroGc) | 4:06 | 2022-06-17 | 2022-06-25 |
 | [Have A Ball](https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Have A Ball](https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT) | 2:24 | 2022-05-06 | 2022-11-13 |
 | [Have a Ball](https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:24 | 2022-05-06 | 2024-04-19 |
-| [Have a Ball](https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c) | 2:24 | 2022-05-06 |  |
+| [Have a Ball](https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c) | 2:24 | 2022-05-06 | 2024-05-18 |
 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 | 2023-03-10 | 2023-04-09 |
 | [Heart by Heart](https://open.spotify.com/track/3xOt8ADrsq52yDivtBZfS6) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Heart by Heart](https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv) | 4:03 | 2021-12-17 | 2023-10-07 |
 | [Heaven Knows](https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8) | 5:23 | 2022-04-29 |  |
@@ -162,6 +162,7 @@
 | [Ice Cream & Cigarettes](https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [Ice Cream & Cigarettes](https://open.spotify.com/album/2y2szuP1tMpaGCJhb2TfRM) | 2:52 | 2021-12-17 | 2022-10-18 |
 | [Ice Cream & Cigarettes](https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [Ice Cream & Cigarettes](https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir) | 2:52 | 2022-01-28 | 2023-09-16 |
 | [If Heaven Is A Hotel](https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Strange Time To Be Alive](https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA) | 3:08 | 2022-08-19 |  |
+| [If I Were You](https://open.spotify.com/track/5liq5qOK5I5xS7yfyfR22A) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If I Were You](https://open.spotify.com/album/6ftNejmDvsTlBidilwPDOm) | 4:12 | 2024-05-17 |  |
 | [If These Walls Could Talk](https://open.spotify.com/track/4yYzxF8zUXEG5bsnebYxXe) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/0JP5Rmp9tMhI1M6wa44XRU) | 3:24 | 2022-04-22 | 2022-05-07 |
 | [In Every Heart](https://open.spotify.com/track/76mL8jSzIJGybicOOMP3up) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Let Me Get By](https://open.spotify.com/album/0nE6b7My7kpkI9dRs0pGoV) | 6:20 | 2021-12-17 | 2022-07-25 |
 | [In The Night Time](https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF) | 3:08 | 2021-12-17 | 2022-07-29 |

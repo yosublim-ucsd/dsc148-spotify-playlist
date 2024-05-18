@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Cover: Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,434 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,446 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PERDONACI \(feat\. Dari\)](https://open.spotify.com/track/0IeSw9pH0oLrHjJfyxnwyv) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Dari](https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl) | [POGO MIXTAPE VOL.1](https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS) | 3:02 |
-| 2 | [NON LO SAI](https://open.spotify.com/track/3Uq9Ev3UM8X1LfsMjZcZxd) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [ODIO LA SAD](https://open.spotify.com/album/2bKT4j63K9goJmoMac8ltg) | 2:58 |
+| 2 | [NON LO SAI \(Feat\. Rose Villain\)](https://open.spotify.com/track/3Uq9Ev3UM8X1LfsMjZcZxd) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [ODIO LA SAD](https://open.spotify.com/album/2bKT4j63K9goJmoMac8ltg) | 2:58 |
 | 3 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
 | 4 | [vandalizzami il cuore](https://open.spotify.com/track/6fvBMWqPiLRSCgdhu6KPwg) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [vandalizzami il cuore](https://open.spotify.com/album/2KvXbRuwfZgWns3OzggCQR) | 2:49 |
 | 5 | [Diventerai una star](https://open.spotify.com/track/6CCbKMOTlcYvHd9f8Sm3qm) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc) | [Tutto è possibile](https://open.spotify.com/album/7hGyjtgmaEuMLlKCsfPCGW) | 3:08 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 71 | [CATTIVERIA](https://open.spotify.com/track/55dav2WUGS1o4ECUHoOT0x) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [CATTIVERIA](https://open.spotify.com/album/5mD8AIHmJAL5PT7o96XwXV) | 2:53 |
 | 72 | [klamoh!](https://open.spotify.com/track/0lGg6Rx5vD8vuVlBKkg7Sf) | [AleXX iSt4R](https://open.spotify.com/artist/60wyuNaDX2w5A6ClibUTc8), [Lilly Meraviglia](https://open.spotify.com/artist/3BVrBQOg6F6UtsnsF5E1A7), [Cheiranto](https://open.spotify.com/artist/3zAE6sNYbhAnF7oVKTanSj) | [klamoh!](https://open.spotify.com/album/2WlhNUODJMdlYMqx7YbGRC) | 2:49 |
 | 73 | [Vitamina life](https://open.spotify.com/track/2UFwuTDQMk3virqzYttqV2) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Vitamina life](https://open.spotify.com/album/3kUuHtApN9MrBWeytwRtCe) | 2:20 |
-| 74 | [MEMORIA](https://open.spotify.com/track/2Ey2SncqdHRkpVmoStBqj9) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [MEMORIA](https://open.spotify.com/album/0zu7wPnoddUrAoCYbSugIx) | 2:36 |
+| 74 | [MEMORIA \(Feat\. bnkr44\)](https://open.spotify.com/track/2Ey2SncqdHRkpVmoStBqj9) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [MEMORIA \(Feat\. bnkr44\)](https://open.spotify.com/album/0zu7wPnoddUrAoCYbSugIx) | 2:36 |
 | 75 | [morire dentro](https://open.spotify.com/track/7MPULGCgY6NvasBCYhQ4Rw) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [morire dentro](https://open.spotify.com/album/5EsdijH0rryeQx4arUKM4i) | 2:51 |
 | 76 | [hpa](https://open.spotify.com/track/3Ww27NPiKOSWpryqFbKpyP) | [zorah](https://open.spotify.com/artist/0bQwlyGwzbEUqB0p3m2YM6) | [hpa](https://open.spotify.com/album/6LCVkulscDEn3vvDvywpFU) | 2:50 |
 | 77 | [whiskey&miele](https://open.spotify.com/track/1Arx2Qkb1kUry3xOt1emNJ) | [Yanna](https://open.spotify.com/artist/7pD6tESFPJvN3nEvIEJ9Ol) | [whiskey&miele](https://open.spotify.com/album/0eeqwBJc56Ncj4N3VoYlFs) | 2:20 |

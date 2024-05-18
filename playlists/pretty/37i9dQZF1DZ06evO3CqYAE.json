@@ -1,12 +1,12 @@
 {
-  "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 9280,
+  "description": "This Is Mercy Chinwo. Los temas esenciales, todos en una lista.",
+  "num_followers": 9297,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAACkUNyFW49yZWZhb+70I+3x",
+  "snapshot_id": "ZkVMgAAAAAB4xlnKUFbQFtEAjKPHwfD+",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amaram Onyewem (Live)",
-        "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Pastor Jerry Eze",
-          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
-        }
-      ],
-      "duration_ms": 642124,
-      "name": "Amaram Onyewem - Live",
-      "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onyedikagi (feat. Glowrie)",
         "url": "https://open.spotify.com/album/028rmY503DhNp5XFDbJFUo"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 297966,
       "name": "Onyedikagi (feat. Glowrie)",
       "url": "https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amaram Onyewem (Live)",
+        "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
+        }
+      ],
+      "duration_ms": 642124,
+      "name": "Amaram Onyewem - Live",
+      "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
     },
     {
       "added_at": null,
@@ -623,54 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suddenly + Amazing God (Double Single)",
-        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 291493,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Yesterday Today Forever",
-      "url": "https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 327216,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oyoyo Chukwu",
         "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
@@ -695,6 +647,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 327216,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Yesterday Today Forever",
+      "url": "https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 206808,
       "name": "Do Something",
       "url": "https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 331388,
       "name": "Good Father",
       "url": "https://open.spotify.com/track/0yJHx5EKGIoJ7E5fJjyvWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3"
     },
     {
       "added_at": null,

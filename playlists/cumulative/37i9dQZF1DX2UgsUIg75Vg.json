@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Charlotte Day Wilson",
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: Elmiene",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 238967,
       "name": "'98 Vibes (Do You Right)",
       "url": "https://open.spotify.com/track/2PYZj3AqpS6Vtr4ghoe8eV"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 266093,
       "name": "Any Worse (Squeak\u2019s Song)",
       "url": "https://open.spotify.com/track/2mjZYvLsOCoBuFZp6G1jQX"
@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/4K7gw3J0XWiMaGrciyzta7"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/0a9o4CGIbtucAabkGFlkRa"
+    },
+    {
+      "album": {
         "name": "What Had Happened Was\u2026 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3zfBRt5rWmUm8ZCdZ4aDlD"
       },
@@ -2542,7 +2560,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 188314,
       "name": "CALYPSO",
       "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
@@ -4467,7 +4485,7 @@
     },
     {
       "album": {
-        "name": "Drifted (feat. Jayla Darden)",
+        "name": "Drifted",
         "url": "https://open.spotify.com/album/03ekiMgr3rkTqWmHYOKcIz"
       },
       "artists": [
@@ -4484,7 +4502,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250221,
-      "name": "Drifted (feat. Jayla Darden)",
+      "name": "Drifted",
       "url": "https://open.spotify.com/track/562S3M4AGzUZcZ6G1WorfN"
     },
     {
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 183160,
       "name": "Finding Peace",
       "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 192022,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED"
@@ -6036,6 +6054,40 @@
       "duration_ms": 182072,
       "name": "From A Woman",
       "url": "https://open.spotify.com/track/6x4z51Q0PBhSs8NoGbJ5wk"
+    },
+    {
+      "album": {
+        "name": "FromHere (feat. Snoop Dogg & October London)",
+        "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241511,
+      "name": "FromHere (feat. Snoop Dogg & October London)",
+      "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
     },
     {
       "album": {
@@ -6434,7 +6486,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 158350,
       "name": "Girls Need Love (Girls Mix) (feat. Tyla)",
       "url": "https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC"
@@ -7072,6 +7124,28 @@
       "duration_ms": 188360,
       "name": "Harder",
       "url": "https://open.spotify.com/track/2naTAenfZdW6fEhbwtqK0b"
+    },
+    {
+      "album": {
+        "name": "He Loves Us Both (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221700,
+      "name": "He Loves Us Both (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
     },
     {
       "album": {
@@ -8584,7 +8658,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 217738,
       "name": "Kiss & Tell",
       "url": "https://open.spotify.com/track/0p38jRu2nXBK6c8a7YGeM1"
@@ -10002,7 +10076,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 220573,
       "name": "Mama",
       "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
@@ -11934,7 +12008,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 186061,
       "name": "ORANGE WINE",
       "url": "https://open.spotify.com/track/6mvFSD5KNfWyQIsBrIRst2"
@@ -14346,7 +14420,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 144320,
       "name": "Slide",
       "url": "https://open.spotify.com/track/6Fcn31PmGZhYMIiEuJvkcn"
@@ -15526,10 +15600,32 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 251894,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
+    },
+    {
+      "album": {
+        "name": "Sweetness (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251326,
+      "name": "Sweetness (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
     },
     {
       "album": {

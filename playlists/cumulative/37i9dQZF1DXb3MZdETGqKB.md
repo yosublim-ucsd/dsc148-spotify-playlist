@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Judith Hill
 
-292 songs - 17 hr 11 min
+293 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Outrun](https://open.spotify.com/track/42Xl2G8iLEOaoBU6A3ezI3) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Scores & Melodies Vol\. 1](https://open.spotify.com/album/6gwvqyqV3SLMlfNLU5bymG) | 3:15 | 2023-06-30 |  |
 | [OverdoZZe](https://open.spotify.com/track/4DG8UGktFzHUM72KUID52A) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine](https://open.spotify.com/album/5R5LNbzSStAde5KSAh053m) | 3:16 | 2023-09-08 | 2023-10-16 |
 | [OZARK](https://open.spotify.com/track/7nAcaH62CEDb4naXyoomJU) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [OZARK](https://open.spotify.com/album/5GYl6wdaiA22kKtt2Y7aY6) | 3:44 | 2021-05-14 | 2022-05-07 |
+| [Papa Was a Rolling Stone \(feat\. Demi Lovato\)](https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Orgy of the Damned](https://open.spotify.com/album/3t3ZFkQhYdxBro1D83C8EB) | 7:52 | 2024-05-17 |  |
 | [Parade](https://open.spotify.com/track/4ohUVFem8xKnnnvGz1cpIG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Parade](https://open.spotify.com/album/7oufinnYn55dYyMTss0KmB) | 2:16 | 2021-03-09 | 2022-03-26 |
 | [Please Come On Inside](https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Please Come On Inside](https://open.spotify.com/album/0e9xNTI1NdsipqtLvJPPFu) | 4:52 | 2024-03-15 |  |
 | [Please Take My Hand](https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Please Take My Hand](https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv) | 3:03 | 2022-01-14 | 2023-09-09 |
@@ -188,7 +189,7 @@
 | [Practice What You Preach](https://open.spotify.com/track/1daAFUaK1bU26fuRSyQfs3) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Practice What You Preach](https://open.spotify.com/album/5FtVDZRzGwWzBqcsC0bmXf) | 2:45 | 2022-02-25 | 2022-09-03 |
 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 | 2022-02-25 | 2024-01-27 |
 | [Queen Of The Road](https://open.spotify.com/track/0Z941Yv9mo0BQIPdVCT1B0) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Queen Of The Road](https://open.spotify.com/album/0dnQw3nGeIg2ZOKiA8cVhA) | 3:45 | 2024-04-19 |  |
-| [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 |  |
+| [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 | 2024-05-18 |
 | [Rain Gonna Fall](https://open.spotify.com/track/2aRbqrv0y95UlmSFwE9832) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Rain Gonna Fall](https://open.spotify.com/album/2Zc0N5hjKfYTecNWMollgM) | 3:50 | 2021-02-05 | 2022-03-26 |
 | [Reconcile](https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Charles Morgan](https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k) | [Reconcile](https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4) | 3:39 | 2023-01-13 |  |
 | [Ridin'](https://open.spotify.com/track/6TU5CaJ68BaVZ2BLvhgOmO) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/70uWPKRSwkmkYO2s33tzZP) | 5:23 | 2023-03-03 | 2023-03-25 |

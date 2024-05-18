@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Sorriso Maroto",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Belo",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 281319,
       "name": "Beijo Doce / Jeitinho Manhoso / Ajoelhou Tem Que Rezar - Ao Vivo",
       "url": "https://open.spotify.com/track/42kX3d8Sa59mF37iaqmpKC"
@@ -428,6 +428,28 @@
       "duration_ms": 362692,
       "name": "Clich\u00ea / Sobrenome / Amanh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/77ya2SnTsokkD7s2Gq82L1"
+    },
+    {
+      "album": {
+        "name": "Ferrugem 10 Anos, Vol. 2 - Replay (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hazFJ5EVb8clifhIUnV9D"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231558,
+      "name": "Climatizar / Ensaboado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5C4ZMkIL8yWa0eGpwUbbBq"
     },
     {
       "album": {
@@ -890,6 +912,10 @@
         {
           "name": "T\u00e1 Na Mente",
           "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+        },
+        {
+          "name": "Rony Lucio",
+          "url": "https://open.spotify.com/artist/1vTOFf3Fkf6ElO9P1oBuCm"
         }
       ],
       "date_added": "2023-12-29",

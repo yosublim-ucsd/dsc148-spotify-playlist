@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 
 > Le meilleur de la musique d'hier et d'aujourd'hui pour une journée parfaite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,182 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,336 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrln2UyZD7F.md) - [plain]
 | 59 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 |
 | 60 | [Take it Easy](https://open.spotify.com/track/1PhN9mLkAkWrC2nNjccsDS) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0) | [Take it Easy](https://open.spotify.com/album/1Ay9EaS0Leqfin2KsjUcMU) | 3:13 |
 
-Snapshot ID: `ZkaB4AAAAAD2xDgG/nxNz7u4H2FVwxYm`
+Snapshot ID: `ZkcQFwAAAAAknyKHoSVSRAt0Brqfr7R5`

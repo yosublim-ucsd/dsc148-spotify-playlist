@@ -968,7 +968,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 275828,
       "name": "Calling On",
       "url": "https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk"
@@ -1118,6 +1118,24 @@
       "duration_ms": 210461,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM"
+    },
+    {
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1eYJ0RQFxvFdUJfMExvTnJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172026,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe"
     },
     {
       "album": {
@@ -1475,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188338,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs"
+    },
+    {
+      "album": {
         "name": "Don't You Cry",
         "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
       },
@@ -1494,6 +1530,32 @@
       "duration_ms": 246758,
       "name": "Don't You Cry",
       "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/35rXUvvvWDOEK28JXGE5ad"
+      },
+      "artists": [
+        {
+          "name": "Hektor Mass",
+          "url": "https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "ILVS",
+          "url": "https://open.spotify.com/artist/41jNNNvoBm9hPTVHpRRHvi"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/6xIjK78uVVlATFBj9Wn4RL"
     },
     {
       "album": {
@@ -2572,7 +2634,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 172444,
       "name": "i have zero care",
       "url": "https://open.spotify.com/track/7BZP33GGS34GmUZQrPlivk"
@@ -2852,10 +2914,36 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 158550,
       "name": "Is It Love - goddard. Remix",
       "url": "https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD"
+    },
+    {
+      "album": {
+        "name": "It Isn't Easy (feat. EKKSTACY)",
+        "url": "https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "DJ Topgun",
+          "url": "https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2"
+        },
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232999,
+      "name": "It Isn't Easy (feat. EKKSTACY)",
+      "url": "https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo"
     },
     {
       "album": {
@@ -3128,7 +3216,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 155106,
       "name": "life gets hard - Edit",
       "url": "https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t"
@@ -3244,7 +3332,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 257299,
       "name": "Lone Raver",
       "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
@@ -3848,7 +3936,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 314389,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
@@ -4062,7 +4150,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 230040,
       "name": "Numb",
       "url": "https://open.spotify.com/track/51NQg3QIzvSwxZrrT6kEDx"
@@ -5660,7 +5748,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"

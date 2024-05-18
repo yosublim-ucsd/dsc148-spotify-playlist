@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "La playlist au-del\u00e0 des genres. Photo : Beabadoobee",
+  "description": "La playlist au-del\u00e0 des genres. Photo : Childish Gambino",
   "name": "La Cr\u00e8me",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 176000,
       "name": "Anyone But You",
       "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "Atavista",
+        "url": "https://open.spotify.com/album/4Ji5PWAFzyDcrN0wRukYZb"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226551,
+      "name": "Little Foot Big Foot",
+      "url": "https://open.spotify.com/track/6rW3mLtDPEzJ00X3ubG6Mv"
+    },
+    {
+      "album": {
         "name": "Losing it",
         "url": "https://open.spotify.com/album/3K0hH2KSnhugNfQv7n7uC1"
       },
@@ -1232,7 +1254,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 277561,
       "name": "Love Will Save Me",
       "url": "https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw"
@@ -1294,6 +1316,28 @@
       "duration_ms": 249039,
       "name": "MADE 4 U",
       "url": "https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV"
+    },
+    {
+      "album": {
+        "name": "M\u00e1dib\u00e1 Ni Mbondi",
+        "url": "https://open.spotify.com/album/0oVmAp4WYpsXFvmR7I8v6n"
+      },
+      "artists": [
+        {
+          "name": "Blick Bassy",
+          "url": "https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E"
+        },
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Mbenda",
+      "url": "https://open.spotify.com/track/7r9mtzhwnN1sUDx0BeBFch"
     },
     {
       "album": {
@@ -1370,6 +1414,24 @@
       "duration_ms": 140733,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
+    },
+    {
+      "album": {
+        "name": "If I Were To Paint It",
+        "url": "https://open.spotify.com/album/5Q88UdBbRQwNot4nY0Utdf"
+      },
+      "artists": [
+        {
+          "name": "Lossapardo",
+          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Mr Nobody",
+      "url": "https://open.spotify.com/track/1vHHFR9nx6wbvEFfI5ncjq"
     },
     {
       "album": {
@@ -1486,6 +1548,24 @@
       "duration_ms": 254000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/47WQYrjHBPnCsb0qqA8zEC"
+    },
+    {
+      "album": {
+        "name": "Once in a Lifetime",
+        "url": "https://open.spotify.com/album/1VbH8tiDjMmSwELNSowMif"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158426,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/2u7SG14j5vzSwxttBoGO2A"
     },
     {
       "album": {
@@ -1874,7 +1954,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 211846,
       "name": "So Long",
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
@@ -2190,7 +2270,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 155119,
       "name": "Ticket Holder",
       "url": "https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z"

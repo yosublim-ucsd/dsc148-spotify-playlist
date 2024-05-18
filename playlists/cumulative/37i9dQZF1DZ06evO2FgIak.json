@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This Is Muddy Waters. Los temas esenciales, todos en una lista.",
+  "description": "This is Muddy Waters. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
   "name": "This Is Muddy Waters",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 209693,
       "name": "Country Boy",
       "url": "https://open.spotify.com/track/68kORVY2G5fgyvrHftcbDq"
@@ -496,6 +496,24 @@
       "duration_ms": 325800,
       "name": "Deep Down In Florida",
       "url": "https://open.spotify.com/track/7CrTBDJ4PFhJRzwAwaSQth"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145933,
+      "name": "Diamonds At Your Feet",
+      "url": "https://open.spotify.com/track/5FZLGBcBRqk9hmHEHNAIhl"
     },
     {
       "album": {
@@ -644,7 +662,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 174567,
       "name": "Forty Days And Forty Nights",
       "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 196040,
       "name": "Good Morning Little School Girl",
       "url": "https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L"
@@ -706,7 +724,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 172059,
       "name": "Got My Mojo Working",
       "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 174573,
       "name": "I Feel So Good",
       "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 184906,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 197133,
       "name": "Just To Be With You",
       "url": "https://open.spotify.com/track/61gqXBrT5nddLP6DeXA3ev"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 183880,
       "name": "Mad Love (I Want You To Love Me) - Single Version",
       "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 137733,
       "name": "Mean Red Spider",
       "url": "https://open.spotify.com/track/6iukeqLbu4VAniiFbKQ6My"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 191800,
       "name": "Rock Me",
       "url": "https://open.spotify.com/track/6gyqTl2VM4eL4chXOXjuAw"
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 188160,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 177213,
       "name": "She Moves Me",
       "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 164560,
       "name": "Spoonful'",
       "url": "https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Standing Around Crying - Single Version",
       "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 199040,
       "name": "Still A Fool",
       "url": "https://open.spotify.com/track/1AqMhPGWDrR89wmOzilvr1"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 149240,
       "name": "Sugar Sweet - 1955 Single Version",
       "url": "https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb"
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 162000,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
@@ -2266,7 +2284,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 280293,
       "name": "What Is That She Got - Live At Mr. Kelly's/1971",
       "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"

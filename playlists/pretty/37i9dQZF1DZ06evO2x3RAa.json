@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAAB01ynspHgaRsc873tjXtDb",
+  "snapshot_id": "ZkVMgAAAAAABQFcT4A2faV45JZRTIjBG",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 501133,
-      "name": "Tire Ni Oluwa",
-      "url": "https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrate & Worship In Caribbean Rhythms",
         "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
       },
@@ -95,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 501133,
+      "name": "Tire Ni Oluwa",
+      "url": "https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
       },
@@ -107,22 +107,6 @@
       "duration_ms": 114853,
       "name": "Agbara esu 'Wo (Yoruba)",
       "url": "https://open.spotify.com/track/0vewn9FP9CYcnl3YAYlaUm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 415733,
-      "name": "African Soldier",
-      "url": "https://open.spotify.com/track/4OsMVzpf3ZB0iK1mtA1em5"
     },
     {
       "added_at": null,
@@ -152,9 +136,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 269200,
-      "name": "Great Change/God's Army",
-      "url": "https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX"
+      "duration_ms": 184586,
+      "name": "Save Our Souls",
+      "url": "https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 415733,
+      "name": "African Soldier",
+      "url": "https://open.spotify.com/track/4OsMVzpf3ZB0iK1mtA1em5"
     },
     {
       "added_at": null,
@@ -171,86 +171,6 @@
       "duration_ms": 229226,
       "name": "The Day Jesus Was Crucufied",
       "url": "https://open.spotify.com/track/4oRGgB1hGbVMLWFqH3C0OH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/4yBGGBCRBKei9VgRg1qMsD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 399506,
-      "name": "The Crown",
-      "url": "https://open.spotify.com/track/78rbXUtsreBxUadfpJwdMy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebrate & Worship In Caribbean Rhythms",
-        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Save Our Souls",
-      "url": "https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 122626,
-      "name": "Mountain move",
-      "url": "https://open.spotify.com/track/1ePQCb5SpWAq1ZKqFsRaFx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "51 Lex Presents: O'Nambia",
-        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 488400,
-      "name": "No More Wars",
-      "url": "https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA"
     },
     {
       "added_at": null,
@@ -280,9 +200,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 175933,
-      "name": "Jesus Give Me Your Light",
-      "url": "https://open.spotify.com/track/1ovfITZvA5U7qc7DI3FFex"
+      "duration_ms": 269200,
+      "name": "Great Change/God's Army",
+      "url": "https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 305026,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/4yBGGBCRBKei9VgRg1qMsD"
     },
     {
       "added_at": null,
@@ -296,9 +232,41 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 255293,
-      "name": "Who's Like Unto Thee O'Lord",
-      "url": "https://open.spotify.com/track/1Jkc0CWvuyAGf8C4yg057R"
+      "duration_ms": 122626,
+      "name": "Mountain move",
+      "url": "https://open.spotify.com/track/1ePQCb5SpWAq1ZKqFsRaFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 399506,
+      "name": "The Crown",
+      "url": "https://open.spotify.com/track/78rbXUtsreBxUadfpJwdMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Jesus Give Me Your Light",
+      "url": "https://open.spotify.com/track/1ovfITZvA5U7qc7DI3FFex"
     },
     {
       "added_at": null,
@@ -315,6 +283,22 @@
       "duration_ms": 377960,
       "name": "Oba Erediauwa",
       "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "Who's Like Unto Thee O'Lord",
+      "url": "https://open.spotify.com/track/1Jkc0CWvuyAGf8C4yg057R"
     },
     {
       "added_at": null,
@@ -344,9 +328,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 292800,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/2m5S0q094ritGmyxX8sWlq"
+      "duration_ms": 365040,
+      "name": "Know Jesus Know Life",
+      "url": "https://open.spotify.com/track/1jonArtlrKB0gBzBSYwVsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "51 Lex Presents: O'Nambia",
+        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 488400,
+      "name": "No More Wars",
+      "url": "https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/2m5S0q094ritGmyxX8sWlq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Crown",
         "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 321386,
       "name": "Arise",
       "url": "https://open.spotify.com/track/1fO7iQpiieaVv20BCxwiIF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebrate & Worship In Caribbean Rhythms",
-        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 365040,
-      "name": "Know Jesus Know Life",
-      "url": "https://open.spotify.com/track/1jonArtlrKB0gBzBSYwVsv"
     },
     {
       "added_at": null,
@@ -440,9 +440,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 501040,
-      "name": "3rd World",
-      "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
+      "duration_ms": 568280,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 448026,
+      "name": "Dance Of The Elephants",
+      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
     },
     {
       "added_at": null,
@@ -472,25 +488,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 417493,
-      "name": "Mohammed",
-      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
-        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 448026,
-      "name": "Dance Of The Elephants",
-      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
+      "duration_ms": 289573,
+      "name": "Jesus King Of Kings",
+      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 568280,
-      "name": "Tell Them",
-      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
+      "duration_ms": 501040,
+      "name": "3rd World",
+      "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wind Of Change",
-        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "Jesus King Of Kings",
-      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Papa's Land",
         "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 311986,
       "name": "Rain",
       "url": "https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 417493,
+      "name": "Mohammed",
+      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4F85r8s1BGqPBTLAcVD2ZC"
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU"
+      "duration_ms": 418093,
+      "name": "War of Nations",
+      "url": "https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI"
     }
   ],
   "unique_name": "This Is Sonny Okosun",

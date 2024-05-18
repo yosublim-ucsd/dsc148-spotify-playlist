@@ -4,7 +4,7 @@
 
 > All the freshest hip\-hop heaters in one list! Cover: Travis Scott.
 
-162 songs - 8 hr 0 min
+163 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All My Life \(Burna Boy Remix\)](https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(Remixes\) \(feat\. Burna Boy\)](https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7) | 4:24 | 2023-12-08 | 2024-04-11 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-12-08 | 2024-04-13 |
 | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ) | 2:30 | 2024-04-19 |  |
+| [Atavista](https://open.spotify.com/track/6Lj4RhwPsVfMn7tsA5i8jW) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:01 | 2024-05-17 |  |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-12-08 | 2024-03-09 |
 | [Ave Maria](https://open.spotify.com/track/5UzLPjUzrIStZCocniiH1y) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ave Maria](https://open.spotify.com/album/1YtC5fvdj2z7XosDbmZYAS) | 2:57 | 2023-12-08 | 2024-02-10 |
 | [Back To Back \(feat\. Future & Southside\)](https://open.spotify.com/track/4VS68hFMSdb6adNtXIBGIz) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Back To Back \(feat\. Future & Southside\)](https://open.spotify.com/album/4nOq0yHDsHVyxBTXjTgKZD) | 3:05 | 2024-04-26 |  |

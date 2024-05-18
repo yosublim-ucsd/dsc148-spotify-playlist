@@ -1,13 +1,113 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Knocked Loose",
-  "num_followers": 8557,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Body Count",
+  "num_followers": 8561,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAME7oeIdcF/liPppafjklLL5LlsuSa",
+  "snapshot_id": "AAAMG/oBWrYBenOJ6/27ibxoCkO49DFJ",
   "tracks": [
+    {
+      "added_at": "2024-05-17 18:33:34",
+      "album": {
+        "name": "From Hell I Rise",
+        "url": "https://open.spotify.com/album/4ckLWU4gnRz63E4raWVEFF"
+      },
+      "artists": [
+        {
+          "name": "Kerry King",
+          "url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH"
+        }
+      ],
+      "duration_ms": 234155,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/0xAXV7X5Gl7GPNTVmLNWhT"
+    },
+    {
+      "added_at": "2024-05-17 18:33:50",
+      "album": {
+        "name": "Dark Superstition",
+        "url": "https://open.spotify.com/album/7BhpoTy951vKzT7xeQJg9e"
+      },
+      "artists": [
+        {
+          "name": "Gatecreeper",
+          "url": "https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N"
+        }
+      ],
+      "duration_ms": 232764,
+      "name": "Superstitious Vision",
+      "url": "https://open.spotify.com/track/3VPS0fDgL5dJunXVUZAn7N"
+    },
+    {
+      "added_at": "2024-05-17 18:34:08",
+      "album": {
+        "name": "Psychopath (feat. Joe Bad)",
+        "url": "https://open.spotify.com/album/5qrhkfZ4OYytIfpglXgihZ"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        },
+        {
+          "name": "Joe Bad",
+          "url": "https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Psychopath (feat. Joe Bad)",
+      "url": "https://open.spotify.com/track/0xbDLHfn1F4FGNExKmNEpR"
+    },
+    {
+      "added_at": "2024-05-17 18:34:24",
+      "album": {
+        "name": "A.F. Day",
+        "url": "https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO"
+      },
+      "artists": [
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "duration_ms": 227335,
+      "name": "A.F. Day",
+      "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
+    },
+    {
+      "added_at": "2024-05-17 18:34:37",
+      "album": {
+        "name": "TOMBSTONE",
+        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "TOMBSTONE",
+      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
+    },
+    {
+      "added_at": "2024-05-17 18:34:50",
+      "album": {
+        "name": "We Won't Sleep",
+        "url": "https://open.spotify.com/album/1YxPve8eDSgqlXqyDaOTz7"
+      },
+      "artists": [
+        {
+          "name": "Polar",
+          "url": "https://open.spotify.com/artist/6eby39yemH7FjGVwJID1Tw"
+        }
+      ],
+      "duration_ms": 213428,
+      "name": "We Won't Sleep",
+      "url": "https://open.spotify.com/track/4JQHxicFrjTMTfI6UQwtfw"
+    },
     {
       "added_at": "2024-05-10 17:32:15",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1035996,
+  "num_followers": 1036164,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Metro Music",
-        "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
-      },
-      "artists": [
-        {
-          "name": "Martha and the Muffins",
-          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Echo Beach",
-      "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Fine Young Cannibals",
         "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 215733,
       "name": "Johnny Come Home",
       "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Metro Music",
+        "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
+      },
+      "artists": [
+        {
+          "name": "Martha and the Muffins",
+          "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Echo Beach",
+      "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "(Who's Afraid Of) The Art Of Noise? [Remastered]",
-        "url": "https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR"
-      },
-      "artists": [
-        {
-          "name": "The Art Of Noise",
-          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
-        }
-      ],
-      "duration_ms": 615693,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Some Great Reward (Deluxe)",
         "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 381880,
       "name": "Blasphemous Rumours",
       "url": "https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "(Who's Afraid Of) The Art Of Noise? [Remastered]",
+        "url": "https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR"
+      },
+      "artists": [
+        {
+          "name": "The Art Of Noise",
+          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
+        }
+      ],
+      "duration_ms": 615693,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Black Celebration (Deluxe)",
-        "url": "https://open.spotify.com/album/2xEeSf4j9XsAAI15co5cNh"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 263146,
-      "name": "A Question of Lust",
-      "url": "https://open.spotify.com/track/3eN5LFnqtfPAR7Jr8i2QuE"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "New Clear Days",
         "url": "https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 224106,
       "name": "Turning Japanese - Non Stop Edit",
       "url": "https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Black Celebration (Deluxe)",
+        "url": "https://open.spotify.com/album/2xEeSf4j9XsAAI15co5cNh"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 263146,
+      "name": "A Question of Lust",
+      "url": "https://open.spotify.com/track/3eN5LFnqtfPAR7Jr8i2QuE"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lifes Rich Pageant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Fall On Me - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Robbie Robertson",
         "url": "https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 295373,
       "name": "Somewhere Down The Crazy River",
       "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Lifes Rich Pageant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1G95bEVJwyXeqzLdbzkREi"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "Fall On Me - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3xPKSMgZl4N3rfTyIgSPfa"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 338808,
-      "name": "New Gold Dream (81/82/83/84)",
-      "url": "https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 391426,
       "name": "Rapture - Remastered 2001",
       "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 338808,
+      "name": "New Gold Dream (81/82/83/84)",
+      "url": "https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Sons And Fascination/Sister Feelings Call",
-        "url": "https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq"
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/0Jst3a86SKc0inDa2AKhXf"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 351866,
-      "name": "Theme For Great Cities",
-      "url": "https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5"
+      "duration_ms": 304906,
+      "name": "The Lebanon",
+      "url": "https://open.spotify.com/track/5d4ZCmvSLvjMOSdIKkCyQ5"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1759,22 +1759,6 @@
       "duration_ms": 242573,
       "name": "Real Men",
       "url": "https://open.spotify.com/track/5ImoRAws2ni1qYWrLR7sqi"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/0Jst3a86SKc0inDa2AKhXf"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 304906,
-      "name": "The Lebanon",
-      "url": "https://open.spotify.com/track/5d4ZCmvSLvjMOSdIKkCyQ5"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1811,22 +1795,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Now That's What I Call Quite Good",
-        "url": "https://open.spotify.com/album/60b7ulDviqm8obALV5JDI9"
-      },
-      "artists": [
-        {
-          "name": "The Housemartins",
-          "url": "https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL"
-        }
-      ],
-      "duration_ms": 142093,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/0kpmeoNfuZ0cys5tCEBCXZ"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Changing Places",
         "url": "https://open.spotify.com/album/7DiCqz4vzQgW2dhz206Seh"
       },
@@ -1839,6 +1807,38 @@
       "duration_ms": 246306,
       "name": "Sleeper In Metropolis",
       "url": "https://open.spotify.com/track/0BnMXGSKIOTqroiBpXgLTV"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Sons And Fascination/Sister Feelings Call",
+        "url": "https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "Theme For Great Cities",
+      "url": "https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Now That's What I Call Quite Good",
+        "url": "https://open.spotify.com/album/60b7ulDviqm8obALV5JDI9"
+      },
+      "artists": [
+        {
+          "name": "The Housemartins",
+          "url": "https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL"
+        }
+      ],
+      "duration_ms": 142093,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/0kpmeoNfuZ0cys5tCEBCXZ"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 300368,
-      "name": "Big Sleep",
-      "url": "https://open.spotify.com/track/6IgEGOy7TDUwitAtKgUqeO"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Reproduction",
         "url": "https://open.spotify.com/album/7tc1nTdBA717D74uJ07VRn"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 249413,
       "name": "Chant No. 1 (I Don't Need This Pressure On) - 2010 Remaster",
       "url": "https://open.spotify.com/track/0kKbwhBOhniM9Ndk5GPh8z"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 300368,
+      "name": "Big Sleep",
+      "url": "https://open.spotify.com/track/6IgEGOy7TDUwitAtKgUqeO"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 332800,
-      "name": "The Magnificent Seven - Remastered",
-      "url": "https://open.spotify.com/track/1W8Jl9KaSSt23ihF1Mej17"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Entertainment!",
         "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 210866,
       "name": "At Home He's a Tourist",
       "url": "https://open.spotify.com/track/1fpSdqEoXJBEr4HGQhWcxP"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 332800,
+      "name": "The Magnificent Seven - Remastered",
+      "url": "https://open.spotify.com/track/1W8Jl9KaSSt23ihF1Mej17"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5nCjfqLalpFlsZ45jVbxgA"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "I've Seen That Face Before (Libertango)",
-      "url": "https://open.spotify.com/track/5pkykO4PBUKMwjcOzrlfJd"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "A Brief History Of The 20th Century",
         "url": "https://open.spotify.com/album/50FXBXMSnzly1s5uIlNW7x"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 299600,
       "name": "To Hell With Poverty",
       "url": "https://open.spotify.com/track/5meAeH2xj8CkB5ZUahQJQ6"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5nCjfqLalpFlsZ45jVbxgA"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "I've Seen That Face Before (Libertango)",
+      "url": "https://open.spotify.com/track/5pkykO4PBUKMwjcOzrlfJd"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Aural Sculpture",
-        "url": "https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt"
-      },
-      "artists": [
-        {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "No Mercy",
-      "url": "https://open.spotify.com/track/7BWKaQMPcRvpcEqSgTgnoL"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Correct Use Of Soap",
         "url": "https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 237653,
       "name": "Because You're Frightened - Remastered 2007",
       "url": "https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Aural Sculpture",
+        "url": "https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/7BWKaQMPcRvpcEqSgTgnoL"
     },
     {
       "added_at": "2023-05-03 07:47:14",

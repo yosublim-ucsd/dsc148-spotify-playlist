@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: JEV
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,496 likes - 10 songs - 27 min 59 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,501 likes - 14 songs - 40 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,5 +18,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 8 | [SKELETON](https://open.spotify.com/track/7Id3dL8SN0JIZ0kelI5JcA) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [SKELETON](https://open.spotify.com/album/6mkdOyHLglhEaj50QbGmRk) | 2:26 |
 | 9 | [Get Silly](https://open.spotify.com/track/7que6KGImzpzFfW6jWARLF) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Get Silly](https://open.spotify.com/album/342ESIqWtB7Mi8CpW1WcyN) | 2:57 |
 | 10 | [Satisfaction](https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Satisfaction](https://open.spotify.com/album/3ocRwxucX3212g29vOg7je) | 3:33 |
+| 11 | [Make U Hot \(feat\. Movada\)](https://open.spotify.com/track/5LHFtRi5mnh2utyqPxfHJ5) | [Jae Depz](https://open.spotify.com/artist/5xWgP0ZcYlUCk7NcYmt6Am), [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp) | [Make U Hot \(feat\. Movada\)](https://open.spotify.com/album/4P4ubB506bj9dklmUTEVhg) | 2:40 |
+| 12 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 |
+| 13 | [Northern Rhythm](https://open.spotify.com/track/2IgNL5Q4nA3bBENrY8FKKK) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Northern Rhythm](https://open.spotify.com/album/2YXgma0zulEI2l8BGlfCZe) | 3:27 |
+| 14 | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03) | 2:41 |
 
-Snapshot ID: `AAAqfXuVMvqop+r2qqwenzn6C2A8+UhN`
+Snapshot ID: `AAAqgiEpu30Q2j+746P0Ck/kL7s3y+p8`

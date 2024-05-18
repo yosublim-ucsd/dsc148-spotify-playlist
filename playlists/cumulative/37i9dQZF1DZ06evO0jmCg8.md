@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0jmCg8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0jmCg8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0jmCg8)
 
-### [This Is Arch Enemy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jmCg8)
+### [This Is アーチ・エネミー](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jmCg8)
 
-> This is Arch Enemy\. The essential tracks, all in one playlist.
+> This is アーチ・エネミー。アーティストの代表曲をひとつのプレイリストに。
 
 78 songs - 5 hr 20 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Emily Nash
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,514 likes - 187 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,507 likes - 187 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

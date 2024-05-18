@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with ENMY.",
+  "description": "n\u00fc-metal revival is happening here and now with Indigo Blaze.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/57kPTznZ0dmaQPPyqBuWgX"
+      },
+      "artists": [
+        {
+          "name": "From Fall to Spring",
+          "url": "https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184311,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
+    },
+    {
+      "album": {
         "name": "Creature",
         "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
@@ -668,6 +686,24 @@
       "duration_ms": 145333,
       "name": "DISDAIN",
       "url": "https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq"
+    },
+    {
+      "album": {
+        "name": "Dog Cunts",
+        "url": "https://open.spotify.com/album/6HYdq61jHHO7dnQjTuvHxP"
+      },
+      "artists": [
+        {
+          "name": "DREGG",
+          "url": "https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129186,
+      "name": "Dog Cunts",
+      "url": "https://open.spotify.com/track/2KBkozwBN2iREwOVVgw81W"
     },
     {
       "album": {
@@ -946,7 +982,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 222740,
       "name": "Fractured",
       "url": "https://open.spotify.com/track/4c66tmKsdmvNENPo54oDny"
@@ -1695,6 +1731,28 @@
     },
     {
       "album": {
+        "name": "Psychopath (feat. Joe Bad)",
+        "url": "https://open.spotify.com/album/5qrhkfZ4OYytIfpglXgihZ"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        },
+        {
+          "name": "Joe Bad",
+          "url": "https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199586,
+      "name": "Psychopath (feat. Joe Bad)",
+      "url": "https://open.spotify.com/track/0xbDLHfn1F4FGNExKmNEpR"
+    },
+    {
+      "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/1NRQveipkyJm0myrLWHsLG"
       },
@@ -1724,7 +1782,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 165866,
       "name": "Qu\u00e9 Linda",
       "url": "https://open.spotify.com/track/6aIihWCXDxues6MiGrM3rX"
@@ -1894,7 +1952,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 191439,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"

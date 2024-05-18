@@ -4,11 +4,11 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-587 songs - 1 day 10 hr 42 min
+589 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-07-01 |  |
+| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-07-01 | 2024-05-18 |
 | [31 de Diciembre](https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz) | [Ok Pirámides](https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX) | [Bueno Todo El Día](https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS) | 5:12 | 2024-05-10 |  |
 | [5.50](https://open.spotify.com/track/5Qzd02IfWH9afRgik7N5pa) | [Ciudad Mansa](https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2) | [5.50 / Esto es todo](https://open.spotify.com/album/4dlkaPMJVi1S9PhJaunyXT) | 3:45 | 2022-07-01 | 2022-07-29 |
 | [5A](https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Comprensión1](https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut) | 2:25 | 2022-07-01 | 2024-05-11 |
@@ -282,6 +282,7 @@
 | [La Luna](https://open.spotify.com/track/6b2XIKwoVZhFEKgTkOJ5Ro) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 3:43 | 2022-06-03 | 2022-07-29 |
 | [La Luna](https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 3:43 | 2022-07-15 | 2023-06-10 |
 | [La Lógica de lo Incierto](https://open.spotify.com/track/6C1Ruv5uBST7eo52BUGTvz) | [Pulmón](https://open.spotify.com/artist/4repoujJm9DMrwgtasadzY) | [La Lógica de lo Incierto](https://open.spotify.com/album/5r7i03BY8ywqp72Kw988OG) | 3:55 | 2022-07-01 | 2022-07-16 |
+| [La Mañana](https://open.spotify.com/track/4OEX1eyHwC6GTJCxc5j9j8) | [Mostruo!](https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE), [Richard Coleman](https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya) | [La Mañana](https://open.spotify.com/album/2T8fDtbcTS9A93AjmkB0dP) | 3:50 | 2024-05-17 |  |
 | [La Montaña](https://open.spotify.com/track/2exvnYffejv4xKrafboFq1) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [La Montaña](https://open.spotify.com/album/1kJEPy20AkL9lccVH8oTpC) | 5:03 | 2023-09-15 |  |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-06-03 | 2023-10-27 |
 | [La Noche](https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Fin del Mundo](https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu) | 3:33 | 2022-06-03 | 2023-10-06 |
@@ -312,6 +313,7 @@
 | [Lo que me asusta](https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Lo Que Me Asusta](https://open.spotify.com/album/7yVtfFffpg64yNti68EMF5) | 2:11 | 2022-07-15 | 2023-03-03 |
 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 | 2023-05-19 |  |
 | [Lo Quiero Mucho a Ese Muchacho](https://open.spotify.com/track/0kH9rVfxHWkDoBMJxAL5Sw) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Bestia Bebé](https://open.spotify.com/album/2A9T82s4U3Ia0z2VATTIZb) | 3:59 | 2022-06-03 | 2023-10-27 |
+| [Los Aires de Buenos Aires](https://open.spotify.com/track/0t1ZWfgJjVZrB9KLllAKfc) | [Todos los Martes](https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Los Aires de Buenos Aires](https://open.spotify.com/album/02asZQe7YMRP1bYozhWe2q) | 4:37 | 2024-05-17 |  |
 | [Los Coches](https://open.spotify.com/track/0GNotUNJBUY3zX7CJm96Lm) | [The Speinados](https://open.spotify.com/artist/4g9YSZWz7uJE2h5lEe4dt2) | [Los Coches](https://open.spotify.com/album/2NiQHBsJkp8SMyywEVXvaC) | 4:18 | 2022-06-03 | 2022-07-16 |
 | [Los Colores](https://open.spotify.com/track/7AMHUYpP3VOaNlhmjlqbZq) | [Fantasmagoria](https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn) | [Ahora / Después](https://open.spotify.com/album/611UzKp2VkiUPFK5xbobyT) | 4:25 | 2022-07-01 | 2022-07-26 |
 | [Los Durmientes](https://open.spotify.com/track/0pkDnELNOI65NTqKzs3nt5) | [Niños Envueltos](https://open.spotify.com/artist/4QiYNutfcTLjci8bSeCFAy), [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Los Durmientes](https://open.spotify.com/album/3rS3ecr3PFmRvIIvsNitPQ) | 4:00 | 2022-06-03 | 2022-07-25 |
@@ -343,7 +345,7 @@
 | [Mercurio](https://open.spotify.com/track/4A6Xvi8gu5xBDw8oKrintA) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Mercurio](https://open.spotify.com/album/11o8WvVx0QdodULqx6bmYY) | 2:03 | 2023-08-18 | 2023-10-06 |
 | [Metralleta](https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Metralleta](https://open.spotify.com/album/5nY5psozTUXskeoczm947N) | 2:35 | 2022-07-01 | 2022-07-28 |
 | [Metropolice](https://open.spotify.com/track/1pvhJFdzNVeqqqxsCx2MQE) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [CRO9UIS](https://open.spotify.com/album/6pPaMqRFOp0JAEp5lDju7U) | 4:54 | 2022-07-01 | 2022-07-25 |
-| [Mi Conexión](https://open.spotify.com/track/5u1fbnjaJc0rCQPnQ1xUqJ) | [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Mi Conexión](https://open.spotify.com/album/1Ln7ztMv81IaZuGPVv8vep) | 5:24 | 2024-03-07 |  |
+| [Mi Conexión](https://open.spotify.com/track/5u1fbnjaJc0rCQPnQ1xUqJ) | [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Mi Conexión](https://open.spotify.com/album/1Ln7ztMv81IaZuGPVv8vep) | 5:24 | 2024-03-07 | 2024-05-18 |
 | [Mi Generación](https://open.spotify.com/track/6ikDyxIA451wrhNzdKTQGK) | [Marcelo Saccomanno](https://open.spotify.com/artist/2Sb6nU04HNObQnSBjIAnwr), [LeGüero](https://open.spotify.com/artist/6Q6GGQ9zLNN5I4LCkYmEbN) | [Mi Generación](https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj) | 4:34 | 2024-02-09 |  |
 | [Mi Lugar](https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Mi Lugar](https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C) | 2:53 | 2022-07-15 | 2022-07-18 |
 | [Mi Vida Como Vacaciones](https://open.spotify.com/track/0Ah0ztfqxCvZYrFYXMa7Ub) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Mi Vida Como Vacaciones](https://open.spotify.com/album/1fjaV0jSolAyJnkqGsE4Dt) | 3:46 | 2022-10-28 | 2022-11-13 |

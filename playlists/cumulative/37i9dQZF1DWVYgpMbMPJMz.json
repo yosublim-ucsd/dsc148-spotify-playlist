@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now.  Cover:  Cody Carnes",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  Elevation Worship",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "AMEN!",
+        "url": "https://open.spotify.com/album/6t0ix3A1T5t9tZVE9ySRPq"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260124,
+      "name": "AMEN!",
+      "url": "https://open.spotify.com/track/4glp5ZNO3T1fOw8sq2tDfd"
+    },
+    {
+      "album": {
         "name": "Another One (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
       },
@@ -494,7 +512,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 392308,
       "name": "Another One (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
@@ -2324,7 +2342,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 308942,
-      "name": "Command My Soul - Live",
+      "name": "Command My Soul (Live)",
       "url": "https://open.spotify.com/track/18mceRNwuRHCVNsnRApZfS"
     },
     {
@@ -4908,7 +4926,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 209576,
       "name": "I Think He Is",
       "url": "https://open.spotify.com/track/0PIp5BIZpuhf5Fm71KoCdD"
@@ -6354,6 +6372,32 @@
     {
       "album": {
         "name": "LION",
+        "url": "https://open.spotify.com/album/7LS7a1fDDFoDIVa4aXbKXu"
+      },
+      "artists": [
+        {
+          "name": "Anthem Worship",
+          "url": "https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG"
+        },
+        {
+          "name": "Eleni Baker",
+          "url": "https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3"
+        },
+        {
+          "name": "Mass Anthem",
+          "url": "https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "LION",
+      "url": "https://open.spotify.com/track/0bvIItgMfpZ5kR3Bb9ye6h"
+    },
+    {
+      "album": {
+        "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
       "artists": [
@@ -6664,7 +6708,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 362500,
       "name": "Manasseh - Live",
       "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
@@ -6906,7 +6950,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 332739,
       "name": "Move of God - Live",
       "url": "https://open.spotify.com/track/5ODknhzWHsIk6jZBf3nnze"
@@ -8226,7 +8270,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 287517,
       "name": "Praise Your Name",
       "url": "https://open.spotify.com/track/4HE0C1QJPhX9vzBqbJg5oT"
@@ -9211,6 +9255,28 @@
     },
     {
       "album": {
+        "name": "Slower I Go (Live)",
+        "url": "https://open.spotify.com/album/4nb1qV2WBNOgTpR0QL6V0P"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391307,
+      "name": "Slower I Go - Live",
+      "url": "https://open.spotify.com/track/2MTNxj0W4s61yJMkdVhICR"
+    },
+    {
+      "album": {
         "name": "So Well",
         "url": "https://open.spotify.com/album/7d7BQugPSaDI8dJP9hm8ij"
       },
@@ -9534,6 +9600,28 @@
       "duration_ms": 297488,
       "name": "Supernatural Love - Live",
       "url": "https://open.spotify.com/track/1KrKAsdDbmvyBwqKST85hq"
+    },
+    {
+      "album": {
+        "name": "Sure Been Good",
+        "url": "https://open.spotify.com/album/1ivo46wANZtVJodxaqT4f9"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452829,
+      "name": "Sure Been Good (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/5doYljP28aXEnQryAPrcka"
     },
     {
       "album": {
@@ -11378,6 +11466,28 @@
       "duration_ms": 361568,
       "name": "We Lift Up Jesus - Live",
       "url": "https://open.spotify.com/track/6AKnezQRLF3jDF69Dg1nDe"
+    },
+    {
+      "album": {
+        "name": "What A Friend",
+        "url": "https://open.spotify.com/album/4fORMR5R4m2ZMNUf4KTb6G"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251032,
+      "name": "What A Friend",
+      "url": "https://open.spotify.com/track/0w6iogAZgWyfVcC4MpG4zs"
     },
     {
       "album": {

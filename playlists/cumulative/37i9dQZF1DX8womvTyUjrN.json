@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Alex Ponce",
+  "description": "Fresh Latin pop on the rise. Cover: Yami Safdie",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 239482,
       "name": "1000COSAS",
       "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 168049,
       "name": "Baila conmigo",
       "url": "https://open.spotify.com/track/2HED1ZYOoDH02IJujaoApJ"
@@ -1640,6 +1640,28 @@
       "duration_ms": 146128,
       "name": "Brindar\u00e9",
       "url": "https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T"
+    },
+    {
+      "album": {
+        "name": "Brownie Sugar (Remix)",
+        "url": "https://open.spotify.com/album/0RHZJ5MK8dFlbzEU4yLIfT"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "Brownie Sugar - Remix",
+      "url": "https://open.spotify.com/track/6sMFbyS8GYEmFPs1INtHUV"
     },
     {
       "album": {
@@ -3761,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "El Voldemor",
+        "url": "https://open.spotify.com/album/5hAgPOazMiYtb86O8LVwV8"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "El Voldemor",
+      "url": "https://open.spotify.com/track/68eRrgeRSCw571y4E2cr0F"
+    },
+    {
+      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
       },
@@ -4789,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3"
+    },
+    {
+      "album": {
         "name": "Gracias x Nada",
         "url": "https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0"
       },
@@ -5253,6 +5311,24 @@
     },
     {
       "album": {
+        "name": "IMAN (Two Of Us)",
+        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122405,
+      "name": "IMAN (Two Of Us)",
+      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
+    },
+    {
+      "album": {
         "name": "Inevitable",
         "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
       },
@@ -5664,7 +5740,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 222550,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1"
@@ -7318,7 +7394,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 185832,
       "name": "moto",
       "url": "https://open.spotify.com/track/4qdnvjHEvN8F1oPqvM8K1U"
@@ -7828,7 +7904,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 202173,
       "name": "NO HAY QUE PREGUNTAR",
       "url": "https://open.spotify.com/track/4NhicasWolYAelOoWgeCrI"
@@ -10421,6 +10497,24 @@
     },
     {
       "album": {
+        "name": "si te esperas",
+        "url": "https://open.spotify.com/album/6O5B5kXLHm62gGEeamraSa"
+      },
+      "artists": [
+        {
+          "name": "Camila Orantes",
+          "url": "https://open.spotify.com/artist/4SuUIMrRCRGq38QUiXCpuv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164005,
+      "name": "si te esperas",
+      "url": "https://open.spotify.com/track/0aE77kppxdg0cMnokn0W2m"
+    },
+    {
+      "album": {
         "name": "Sin Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/6An2Gohh0s0kNJVnO0XYmS"
       },
@@ -10604,6 +10698,24 @@
       "duration_ms": 189600,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/3Y1qpzuVijchoFsnsoXEah"
+    },
+    {
+      "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160594,
+      "name": "Sobrepens\u00e1ndote",
+      "url": "https://open.spotify.com/track/5uNi0fTT6aXYq9KguT6Oqj"
     },
     {
       "album": {
@@ -10796,7 +10908,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 166346,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/31M6btXbefD9GKHP3Mb3dy"
@@ -11354,6 +11466,24 @@
       "duration_ms": 153403,
       "name": "tiroteAo",
       "url": "https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0"
+    },
+    {
+      "album": {
+        "name": "Titiritar",
+        "url": "https://open.spotify.com/album/55kodOr5aKPVSKUuHa608P"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181864,
+      "name": "Titiritar",
+      "url": "https://open.spotify.com/track/7cJDcvC6nSbkx4quEn7vTk"
     },
     {
       "album": {
@@ -12310,7 +12440,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 176640,
       "name": "VOGUE",
       "url": "https://open.spotify.com/track/39eZ5Oc3SlkWkUDIDU42ca"

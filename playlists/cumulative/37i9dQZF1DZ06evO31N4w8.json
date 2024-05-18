@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
+  "description": "This Is Los Rieleros Del Norte. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Rieleros Del Norte",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 208440,
       "name": "Al Ver Que Te Vas",
       "url": "https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 181426,
       "name": "Ten\u00eda Raz\u00f3n Mi 'Am\u00e1",
       "url": "https://open.spotify.com/track/7fuPZGzcmnE6mio5Rsb9lM"

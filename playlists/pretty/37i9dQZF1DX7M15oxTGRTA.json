@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 130518,
+  "num_followers": 130606,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Caught Up in the Rapture",
-      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 388546,
       "name": "Come Live With Me Angel",
       "url": "https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Caught Up in the Rapture",
+      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Hangin' Tough",
+        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Please Don't Go Girl",
+      "url": "https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Cold Blooded (Expanded Edition)",
         "url": "https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 307640,
       "name": "Ebony Eyes",
       "url": "https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Hangin' Tough",
-        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Please Don't Go Girl",
-      "url": "https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Vows Of Love",
+        "url": "https://open.spotify.com/album/5CxM6SVKWudQD9C2LEkJkD"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Is This the End",
+      "url": "https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 254453,
       "name": "You Are My Heaven (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Vows Of Love",
-        "url": "https://open.spotify.com/album/5CxM6SVKWudQD9C2LEkJkD"
-      },
-      "artists": [
-        {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Is This the End",
-      "url": "https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Shadow Dancing",
-        "url": "https://open.spotify.com/album/1A8ZxoWwWbn9Ak2k8p3DTn"
-      },
-      "artists": [
-        {
-          "name": "Andy Gibb",
-          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "(Our Love) Don't Throw It All Away",
-      "url": "https://open.spotify.com/track/1Rj2vKjzAVzsnmofZzYFWh"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "The Love Songs Collection",
         "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 373893,
       "name": "For the Good Times",
       "url": "https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Shadow Dancing",
+        "url": "https://open.spotify.com/album/1A8ZxoWwWbn9Ak2k8p3DTn"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "(Our Love) Don't Throw It All Away",
+      "url": "https://open.spotify.com/track/1Rj2vKjzAVzsnmofZzYFWh"
     },
     {
       "added_at": "2023-09-14 19:15:58",

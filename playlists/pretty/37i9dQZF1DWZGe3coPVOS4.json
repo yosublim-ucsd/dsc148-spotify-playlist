@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 9633,
+  "num_followers": 9655,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2b/AAAAADZ3+zRPmT+EG3aCBE3OT7I",
+  "snapshot_id": "ZkbWQAAAAADh7IQI4UIF2A8gHRNiHFca",
   "tracks": [
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 215025,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0KhNXkYL4RMRKzsr51Hcnc"
+    },
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
@@ -25,10 +41,10 @@
       "url": "https://open.spotify.com/track/5PSCvxpKq7hdfRUclZnYKV"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF"
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu"
       },
       "artists": [
         {
@@ -36,9 +52,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 215025,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0KhNXkYL4RMRKzsr51Hcnc"
+      "duration_ms": 180021,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2"
     },
     {
       "added_at": "2024-04-19 04:01:00",

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: nnscya
 
-1,008 songs - 2 day 9 hr 6 min
+1,010 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [By the Time](https://open.spotify.com/track/4V8pj7EUdmgTZwia2jyODJ) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [By the Time](https://open.spotify.com/album/34yWZHYLkQw6KWa1gHyqGe) | 3:12 | 2022-05-26 | 2022-06-10 |
 | [By You](https://open.spotify.com/track/1yqwcmbBMrUZW063PE7ppA) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [By You](https://open.spotify.com/album/0hMld3ceybBzc3dtIoSiOw) | 3:08 | 2023-08-31 | 2023-12-01 |
 | [Bésame Mucho](https://open.spotify.com/track/3VtJPJlYZNpMVPjLjJBd2l) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [Bésame Mucho](https://open.spotify.com/album/1m1BxXizxW9vewtvs5vxu4) | 5:57 | 2024-02-01 | 2024-05-10 |
+| [California \(好鬼死浪漫\)](https://open.spotify.com/track/2Fsqwg6OCrNEcjpUTorvWF) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [California \(好鬼死浪漫\)](https://open.spotify.com/album/7m89UNillV51zntHOksawo) | 4:23 | 2024-05-16 |  |
 | [call me](https://open.spotify.com/track/49WCwFt5TTXeEVfK3aB5Ln) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX), [Gracio Zaqueu](https://open.spotify.com/artist/2S0NEVzLlZGbfq4Mqkfd1i) | [call me](https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My) | 7:18 | 2023-06-08 | 2023-11-03 |
 | [CALL ME \(Late At Night\), Pt .2](https://open.spotify.com/track/4X0DL3zldFQcvJScwycyAD) | [ANSONBEAN](https://open.spotify.com/artist/1SwnEZ4IUZF2CEsWOM0E2L), [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [CALL ME \(Late At Night\), Pt .2](https://open.spotify.com/album/2vIPcwvd5jrlxc1iyLmNcd) | 3:12 | 2024-02-22 |  |
 | [call me at night.](https://open.spotify.com/track/1TbIDnBOU6zt8znlnjK3W3) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [call me at night.](https://open.spotify.com/album/55t9N8HJ0nv4lLXBsBQsKC) | 3:01 | 2022-08-04 | 2022-11-04 |
@@ -353,6 +354,7 @@
 | [love you soul <3](https://open.spotify.com/track/1Ch4Uwouu50i3hExy8EvTN) | [minisoul](https://open.spotify.com/artist/7quyOUEWaBIlVop7ODr3OK) | [minisoul \#1](https://open.spotify.com/album/5rnLcuibCnG3ZYNHytbn68) | 2:22 | 2024-02-29 |  |
 | [Love,](https://open.spotify.com/track/20VdOulyYpBkHDjOtZ2gyD) | [沿海敬拜](https://open.spotify.com/artist/0ETYn9v4F1un0EI45OfPd4) | [Love,](https://open.spotify.com/album/2JLlfDyAjKeGFfGUFYme7b) | 3:08 | 2023-11-16 | 2024-01-05 |
 | [Love, \_\_](https://open.spotify.com/track/3gjKiyC6z1nz81x0PazMb7) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Love, \_\_](https://open.spotify.com/album/6Wz5W6ZiIMHS6i2hyVqtF1) | 6:47 | 2022-05-26 | 2022-09-09 |
+| [Lovelorn](https://open.spotify.com/track/5GRovZJ2zWaCx00Z6TyTg5) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Lovelorn](https://open.spotify.com/album/7iIdy2SfvkOdACCgGXurtm) | 4:12 | 2024-05-16 |  |
 | [Lovely](https://open.spotify.com/track/1hRNqLi5TKj7jHulA9q7pe) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [Lovely](https://open.spotify.com/album/4w22QwWnzc2v7dXTBJ75LW) | 4:18 | 2024-02-15 | 2024-05-10 |
 | [lover boy](https://open.spotify.com/track/5JgivrabhjmhNhT6JYkwrZ) | [Jud Flores](https://open.spotify.com/artist/5qmT05y59RBZzSGFmgGOV2) | [lover boy](https://open.spotify.com/album/5gd0orG7lr0NceVcjgUxh9) | 3:04 | 2022-05-26 | 2022-07-29 |
 | [Loving You](https://open.spotify.com/track/0gTOErq4clTiWU0OIctMqH) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Loving You](https://open.spotify.com/album/0fSvXwuH5NivmGJdqaDlaR) | 2:15 | 2022-05-26 | 2022-07-29 |

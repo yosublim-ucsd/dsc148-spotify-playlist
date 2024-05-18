@@ -4,7 +4,7 @@
 
 > زميلي بيسأل عن المبدأ وقت المادة بيروح فين؟.غلاف:مروان بابلو
 
-314 songs - 15 hr 42 min
+315 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [EL Moled](https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [EL Moled \(Red Bull Sada sot\)](https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG) | 2:39 | 2024-04-14 |  |
 | [El QOWA](https://open.spotify.com/track/0rzAtcL37WVll20dFCYTsj) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 4:17 | 2022-05-10 | 2022-10-11 |
 | [El Rap Ghayarni](https://open.spotify.com/track/0SQ5ckrJfPLlBzfVxJ7qZn) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [El Rap Ghayarni](https://open.spotify.com/album/604qvjYynAS8jwYMPVlAgk) | 4:12 | 2022-09-27 | 2023-01-13 |
+| [El Waat El Daye3](https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Waat El Daye3](https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh) | 2:54 | 2024-05-17 |  |
 | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK) | 2:13 | 2023-03-22 | 2023-05-26 |
 | [ElNaw Wy](https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [ElNaw Wy](https://open.spotify.com/album/0c020gB5ryHFx3Vh7aK1fb) | 2:29 | 2022-12-17 | 2023-02-24 |
 | [ERZO2NA YA KAREEM](https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [WELAD EL 7ARA](https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL) | 2:38 | 2024-03-11 |  |
@@ -250,7 +251,7 @@
 | [Tokyo](https://open.spotify.com/track/70cb9QgHrSZcfQGXCCgPBX) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Tokyo](https://open.spotify.com/album/7KJZT60Lr10dTwuELMdazt) | 2:35 | 2024-04-26 |  |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-10 | 2022-07-07 |
 | [Tripod](https://open.spotify.com/track/1MLqccNxmrlLeG2R5cBAeH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 3:48 | 2023-12-29 | 2024-01-07 |
-| [Tripod](https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 3:48 | 2023-12-22 |  |
+| [Tripod](https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 3:48 | 2023-12-22 | 2024-05-18 |
 | [Tripod](https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:48 | 2024-01-05 | 2024-04-19 |
 | [Tuta Ankh Amoon](https://open.spotify.com/track/4e1btGGrZAkjOobdKywSgJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [MiniM](https://open.spotify.com/artist/1dj1W9b1aM6GcE2FcVU34E) | [Tuta Ankh Amoon](https://open.spotify.com/album/0pDygh7XVUENUB9jhsA3p1) | 3:57 | 2022-09-13 | 2022-10-21 |
 | [Ultra Attack](https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:39 | 2023-05-16 | 2023-08-09 |

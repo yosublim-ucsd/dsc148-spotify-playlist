@@ -3023,6 +3023,28 @@
     },
     {
       "album": {
+        "name": "Destination Lost",
+        "url": "https://open.spotify.com/album/2ItQG3PKAQdffC25QXdxL0"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219017,
+      "name": "Destination Lost",
+      "url": "https://open.spotify.com/track/2YpD9Go9kzxCc325pgJTjM"
+    },
+    {
+      "album": {
         "name": "Die Dunkle Biene",
         "url": "https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx"
       },
@@ -6118,7 +6140,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 466000,
       "name": "Kasiope",
       "url": "https://open.spotify.com/track/3hfnMokIzmWVCXRXqW0xr9"
@@ -7270,7 +7292,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 207519,
       "name": "Luna Love",
       "url": "https://open.spotify.com/track/0NawKK9pbi1hDWl0i3Eo7A"
@@ -8722,7 +8744,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 216515,
       "name": "Nidze - Radio Edit",
       "url": "https://open.spotify.com/track/7CkiV0U3DCAOhja5JqSjJj"
@@ -9274,6 +9296,40 @@
       "duration_ms": 454634,
       "name": "Only",
       "url": "https://open.spotify.com/track/79nJCukLolYKeltbUDlLS8"
+    },
+    {
+      "album": {
+        "name": "Only You (&ME Remix)",
+        "url": "https://open.spotify.com/album/3L34LelOyPZKhF3ydzYviM"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        },
+        {
+          "name": "Wil Malone",
+          "url": "https://open.spotify.com/artist/7jzCxvaCAS6u8iivGjTVOl"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434232,
+      "name": "Only You - &ME Remix",
+      "url": "https://open.spotify.com/track/6Pot7RIYFgzOOadIG1IMBv"
     },
     {
       "album": {
@@ -12772,6 +12828,36 @@
       "duration_ms": 180814,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/4VdTPiVynDPgumUwyq72Yj"
+    },
+    {
+      "album": {
+        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
       "album": {

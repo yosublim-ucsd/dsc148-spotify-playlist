@@ -4677,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/0Y9ziPIthD1I7YXqYGuHe2"
+      },
+      "artists": [
+        {
+          "name": "Qwiss",
+          "url": "https://open.spotify.com/artist/5dX9LFDFHBsiS5D6534nMX"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/5yJZO7Hrkpw0dYmmfwKJUm"
+    },
+    {
+      "album": {
         "name": "Well Known Bandit",
         "url": "https://open.spotify.com/album/1E2vfyRJjMEawuf6TByJFa"
       },

@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 235586,
       "name": "Acabou, mas tem...",
       "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
@@ -676,6 +676,24 @@
       "duration_ms": 211786,
       "name": "Amanhecer",
       "url": "https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o"
+    },
+    {
+      "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6ugfJZBcwwvdwqRqwPH5LX"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/2SFv0KNd4UUWnFZS0X9CUT"
     },
     {
       "album": {
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 102367,
       "name": "Cabra",
       "url": "https://open.spotify.com/track/0EIfvVwz1YANHBTU3v2meu"
@@ -1888,6 +1906,28 @@
       "duration_ms": 288000,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv"
+    },
+    {
+      "album": {
+        "name": "Cristo Mudou Minha Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/2kKd9MHczEkkLOwOBm68TS"
+      },
+      "artists": [
+        {
+          "name": "Noventa",
+          "url": "https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK"
+        },
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Cristo Mudou Minha Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/76rss0xwWugwKZucjvxHMD"
     },
     {
       "album": {
@@ -2370,7 +2410,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 187294,
       "name": "Dificuldades",
       "url": "https://open.spotify.com/track/2LbXikcpgkS5ZkQHMjDzbp"
@@ -3397,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Inst\u00e1vel",
+        "url": "https://open.spotify.com/album/0ynxqcXPxu71drRcTQO4uG"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122375,
+      "name": "Inst\u00e1vel",
+      "url": "https://open.spotify.com/track/6qVgYne1mOYHMaKGaQ9v5J"
+    },
+    {
+      "album": {
         "name": "Ins\u00f4nia 2",
         "url": "https://open.spotify.com/album/5pOhKRO8Ul0eyBzMGviWHU"
       },
@@ -4004,6 +4062,32 @@
       "duration_ms": 194400,
       "name": "Mais Um Voo",
       "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
+    },
+    {
+      "album": {
+        "name": "Flow da Pele (Deluxe)",
+        "url": "https://open.spotify.com/album/1IhPTUYO0NgmwTUz3qEwXZ"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        },
+        {
+          "name": "Galo de Luta",
+          "url": "https://open.spotify.com/artist/7vNGEYb7N4l5UkJOsD3VwF"
+        },
+        {
+          "name": "Dugueto Shabazz",
+          "url": "https://open.spotify.com/artist/2NsLJ5olK4RCuBFtuLITdu"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "Malcom",
+      "url": "https://open.spotify.com/track/1aNAg79hMUXD2YStk2O83E"
     },
     {
       "album": {
@@ -5074,7 +5158,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 190000,
       "name": "Obrigado",
       "url": "https://open.spotify.com/track/1NmGst7Xy50T2KXzQrjPrq"

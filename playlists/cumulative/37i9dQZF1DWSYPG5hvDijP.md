@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-273 songs - 14 hr 10 min
+274 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 | 2023-03-29 | 2023-07-21 |
 | [Confident](https://open.spotify.com/track/1q27kOWtftfdf4go5TVZG9) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Confident](https://open.spotify.com/album/66cj7tHg9EZ6lqwwp5pPcN) | 3:39 | 2023-06-29 | 2023-11-18 |
 | [CROWN](https://open.spotify.com/track/313cWKPX3VujfQcxj7Se6x) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [CROWN](https://open.spotify.com/album/5bPuDMi9I7tyKlUceNEQgr) | 3:17 | 2023-08-23 |  |
+| [Daae / Baae](https://open.spotify.com/track/7ivAQyb7IBhsv5JE2C25Ab) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Daae / Baae](https://open.spotify.com/album/7946Gev1ctUBANzL1tMVX0) | 3:56 | 2024-05-17 |  |
 | [Damh](https://open.spotify.com/track/78XM5iaa3GSu5jn6mhH2cS) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [My Turn](https://open.spotify.com/album/5Moz7WfWGct5vrzZeK1Fqy) | 2:45 | 2023-12-06 |  |
 | [Dard\-E\-Dil](https://open.spotify.com/track/3uJFFaqnvX6mFPJCqonnDv) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Dard\-E\-Dil](https://open.spotify.com/album/73msXI225qoOzfMKoJ5RyW) | 3:46 | 2023-04-16 | 2024-04-10 |
 | [Dayein Bayein](https://open.spotify.com/track/3VOwYlsDo66ZtAB5SbqfVx) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [Dayein Bayein](https://open.spotify.com/album/1JrHE6GJZg6brN76ueQ1rI) | 2:28 | 2023-03-29 | 2023-04-17 |
@@ -93,7 +94,7 @@
 | [Drifta](https://open.spotify.com/track/7mdYZBW0QlFjClvN1a7hyL) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [DAKSH](https://open.spotify.com/artist/78bNETOrFeEr5MISnz1wMH) | [Drifta](https://open.spotify.com/album/0s7h4UyNaW4j3mwOQwbCgV) | 2:46 | 2023-11-17 | 2023-11-26 |
 | [Duniya Makkaar](https://open.spotify.com/track/78C9fInl0QUYAQBsEenYVC) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:38 | 2023-10-12 |  |
 | [Ethe Rakh](https://open.spotify.com/track/0Y6ZBKtGC6YUo3ZAbU0tLL) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [KING Returns](https://open.spotify.com/album/1jpGnXd6QupHBhWfH7wFA7) | 3:31 | 2024-01-12 | 2024-01-18 |
-| [FAN GIRLS](https://open.spotify.com/track/5xwa8HEw7Q7hRPwZlNFmK6) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [Patang](https://open.spotify.com/artist/7yVUMGpu6iIyHdAgMONOgV) | [FAN GIRLS](https://open.spotify.com/album/3plm07CZwM2k41PSezrUZD) | 2:38 | 2024-04-09 |  |
+| [FAN GIRLS](https://open.spotify.com/track/5xwa8HEw7Q7hRPwZlNFmK6) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [Patang](https://open.spotify.com/artist/7yVUMGpu6iIyHdAgMONOgV) | [FAN GIRLS](https://open.spotify.com/album/3plm07CZwM2k41PSezrUZD) | 2:38 | 2024-04-09 | 2024-05-18 |
 | [Fat Kid](https://open.spotify.com/track/2rYrke10PM98XvXoqJxIj8) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [Fat Kid](https://open.spotify.com/album/0B9Kp31d5ACQZLfy5mYVqV) | 2:45 | 2023-03-29 | 2023-06-02 |
 | [First Time](https://open.spotify.com/track/3t12V5tOhYpII5lnsOPSWp) | [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Darcy](https://open.spotify.com/artist/3xvADMpYPWtCgilD8EljCp) | [First Time](https://open.spotify.com/album/7nst6x6pfFRYSYtBrw9BYp) | 2:55 | 2023-04-04 | 2023-07-21 |
 | [Flex Kar](https://open.spotify.com/track/6Xt4fng2W4XDW2CWzGa0Nn) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:41 | 2023-03-29 | 2023-04-17 |

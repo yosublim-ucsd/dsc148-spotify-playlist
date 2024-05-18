@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Mollie Collins x Jamezy x Ruth Royall
 
-1,360 songs - 2 day 16 hr 55 min
+1,361 songs - 2 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1155,6 +1155,7 @@
 | [Taca Taca New Beat Automotivo 2023](https://open.spotify.com/track/4ATIeWGG1zqq0Ogm7lU4xJ) | [WZ Beat](https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9) | [Taca Taca New Beat Automotivo 2023](https://open.spotify.com/album/4iJ65YO4kLdY3t555SXP30) | 1:54 | 2023-07-20 | 2023-08-20 |
 | [Tainted Love](https://open.spotify.com/track/3Mfx6W0pmOBw7UQO0mrD47) | [Declain](https://open.spotify.com/artist/5TGKxlRZwHSZKWPGiZAR43) | [Tainted Love](https://open.spotify.com/album/6VP3q7oc8ZtBNr7ZA5qZBk) | 3:15 | 2022-08-19 | 2022-09-03 |
 | [Takata](https://open.spotify.com/track/4yHWFJAaXTvk7LibzjyEv6) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Takata](https://open.spotify.com/album/557rBxVHIxdUYxfi508M4w) | 3:34 | 2023-02-02 | 2023-02-18 |
+| [Take Control](https://open.spotify.com/track/70z6wZYx5VAM7cw1PrhgxT) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Take Control](https://open.spotify.com/album/4fOXUCgiZkpH22kvDXXgzE) | 3:03 | 2024-05-17 |  |
 | [Take Me Away \(Into The Night\)](https://open.spotify.com/track/5luQZ72hkZ7Y3tpDzbeZ7E) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Melody Mane](https://open.spotify.com/artist/48gbf4ARAxb4gb6dsQrSF7) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/4KRBdJXmN50QXMq76FC5fc) | 2:33 | 2022-06-03 | 2022-06-11 |
 | [Take Me Away Again](https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away Again](https://open.spotify.com/album/3FOqjkgC6qqes6K3Ejly3B) | 3:25 | 2023-01-26 | 2023-02-03 |
 | [Take Me Back](https://open.spotify.com/track/4P6e3iqmYaftDiFlzyjE1k) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Take Me Back](https://open.spotify.com/album/79Z0zvBb7A85NrNZbmyuvn) | 4:09 | 2022-06-03 | 2022-06-11 |

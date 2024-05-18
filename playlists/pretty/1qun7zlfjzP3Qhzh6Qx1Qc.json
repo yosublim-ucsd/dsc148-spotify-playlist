@@ -1,12 +1,12 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyonc\u00e9",
-  "num_followers": 34632,
+  "num_followers": 34633,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHiFUwEGYIusFf6Zkl6g2Jq3wpZCYm",
+  "snapshot_id": "AAAHilK/FuzLiZ79QZMYwssBzLb3r4P6",
   "tracks": [
     {
       "added_at": "2024-05-10 20:19:08",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-10 20:19:08",
       "album": {
-        "name": "Time to Love, Time to Kill",
-        "url": "https://open.spotify.com/album/3HCJ06Y0BsR66QzyTw6Puw"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "Time to Love, Time to Kill",
-      "url": "https://open.spotify.com/track/5haqzzLVsTHG1iVvPTj1kM"
-    },
-    {
-      "added_at": "2024-05-10 20:19:08",
-      "album": {
         "name": "Ahead Of Our Time",
         "url": "https://open.spotify.com/album/2RFEvvzKbTk5hvSG1gJW6J"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 183789,
       "name": "Whiskey On You",
       "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+    },
+    {
+      "added_at": "2024-05-17 18:14:49",
+      "album": {
+        "name": "Sweet Divorce",
+        "url": "https://open.spotify.com/album/4JNGhjNAPkgRft141K6EBJ"
+      },
+      "artists": [
+        {
+          "name": "RMR",
+          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Sweet Divorce",
+      "url": "https://open.spotify.com/track/0XZQ9p3u749NGdUfggDLDl"
     }
   ],
   "unique_name": "Country Smash Hits",

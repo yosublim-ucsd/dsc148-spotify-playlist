@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Arooj Aftab
 
-570 songs - 1 day 10 hr 8 min
+571 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [All I Do](https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [All I Do](https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln) | 4:40 | 2022-04-15 | 2022-11-05 |
 | [All Masks \[Feat\. Masego\]](https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [All Masks](https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx) | 4:30 | 2022-07-29 | 2023-01-21 |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2021-11-19 | 2022-08-13 |
-| [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 | 2023-04-07 |  |
+| [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 | 2023-04-07 | 2024-05-18 |
 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 | 2024-03-22 |  |
 | [All The Things I Couldn't Say To You](https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [All The Things I Couldn't Say To You](https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK) | 4:24 | 2022-11-18 | 2024-03-23 |
 | [Alone Together](https://open.spotify.com/track/72J8sfbLwNfUfIbad5JF9N) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Alone Together](https://open.spotify.com/album/1Sy2tvTIGo07HzZkicU7hR) | 5:36 | 2021-11-12 | 2022-02-19 |
@@ -173,6 +173,7 @@
 | [famous](https://open.spotify.com/track/5yQHS6qpgBiNte7o22xBsX) | [Samwyse](https://open.spotify.com/artist/6HM4BW3z7SCMg0hxUx5Pz3), [The Adoni](https://open.spotify.com/artist/2FE0a7TnyZHfLjcWqTdnBK) | [famous](https://open.spotify.com/album/67lHrhwY6nG0oBHGDAkemp) | 2:30 | 2022-11-11 | 2023-08-19 |
 | [Fantasy](https://open.spotify.com/track/59fIYH3h8H8ilm9ALt2NUl) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Fantasy](https://open.spotify.com/album/7ylSy5FAToYyzkH36QBHSQ) | 3:54 | 2021-11-12 | 2022-02-19 |
 | [Far From Here](https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Far From Here](https://open.spotify.com/album/31INlZI8RSHleg9Tiq5aF1) | 4:27 | 2023-02-17 | 2023-04-15 |
+| [feel](https://open.spotify.com/track/0FpWFfW0yqpCIfgw4QCuuL) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [feel / i don't know why](https://open.spotify.com/album/54DPVTO675Qnb60v5tmLg0) | 2:10 | 2024-05-17 |  |
 | [Feel It Comin \(Single Version\)](https://open.spotify.com/track/0i5zc1yASsbEXUXFsqvgGY) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul \(Deluxe\)](https://open.spotify.com/album/41KI9nUWYRQDxXfgfbX5Zz) | 3:25 | 2022-11-18 | 2024-03-23 |
 | [Feel It Comin \- Single Version](https://open.spotify.com/track/7uSdcQ6JqjYC2OtRkihFrF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Feel It Comin](https://open.spotify.com/album/0COOb5CyX27YhMYgqAEi1h) | 3:25 | 2022-09-23 | 2023-11-05 |
 | [Feet Down South](https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Spoon](https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq) | 6:29 | 2022-09-23 | 2024-04-19 |

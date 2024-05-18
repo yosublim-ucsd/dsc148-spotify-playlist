@@ -1,13 +1,29 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Misi\u00f3n Imposible,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Camilo",
-  "num_followers": 53831,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Misi\u00f3n Imposible,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: DARUMAS",
+  "num_followers": 53830,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAARY8z31Uig2V5DeZZHUOK2uYKhjvMM",
+  "snapshot_id": "AAARbUsnigamfi6t8y453t5SFSpgrbUL",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:57:00",
+      "album": {
+        "name": "DARUMAS",
+        "url": "https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 186908,
+      "name": "Mago",
+      "url": "https://open.spotify.com/track/0Q4oppQ566CUYqfPhbkQB9"
+    },
     {
       "added_at": "2024-05-09 00:11:32",
       "album": {
@@ -109,20 +125,28 @@
       "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
     },
     {
-      "added_at": "2024-04-30 12:11:18",
+      "added_at": "2024-05-17 05:09:10",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2LaaA8ZLvRJ9JUWNaZetNP"
+        "name": "BlessDeluxury",
+        "url": "https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ"
       },
       "artists": [
         {
-          "name": "Draco Rosa",
-          "url": "https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
         }
       ],
-      "duration_ms": 271333,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/5LOQ20KYRzR10z9TLmtIe5"
+      "duration_ms": 181272,
+      "name": "DIFERENTE",
+      "url": "https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ"
     },
     {
       "added_at": "2024-05-17 01:26:29",
@@ -195,6 +219,22 @@
       "duration_ms": 223333,
       "name": "RANGOS",
       "url": "https://open.spotify.com/track/0Zvjkpcw5XJQtdnqFatffM"
+    },
+    {
+      "added_at": "2024-05-17 04:59:50",
+      "album": {
+        "name": "DARUMAS",
+        "url": "https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "Coleccionista",
+      "url": "https://open.spotify.com/track/2Sl5J2Im33Tc3ByRbHjqyn"
     },
     {
       "added_at": "2024-05-09 00:16:16",
@@ -333,6 +373,22 @@
       "url": "https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp"
     },
     {
+      "added_at": "2024-05-17 05:02:35",
+      "album": {
+        "name": "DARUMAS",
+        "url": "https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 140476,
+      "name": "Cero de Cien",
+      "url": "https://open.spotify.com/track/1yqDdg4GrQKcUsx1z4kWxs"
+    },
+    {
       "added_at": "2024-04-19 05:09:32",
       "album": {
         "name": "Reir pa no llorar",
@@ -383,6 +439,22 @@
       "duration_ms": 184213,
       "name": "Dejarlo Todo Afuera",
       "url": "https://open.spotify.com/track/4JIunmRK5ITbf5nFjr8IzS"
+    },
+    {
+      "added_at": "2024-04-30 12:11:18",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2LaaA8ZLvRJ9JUWNaZetNP"
+      },
+      "artists": [
+        {
+          "name": "Draco Rosa",
+          "url": "https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/5LOQ20KYRzR10z9TLmtIe5"
     },
     {
       "added_at": "2024-04-05 18:51:00",
@@ -461,6 +533,22 @@
       "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
     },
     {
+      "added_at": "2024-05-17 05:05:00",
+      "album": {
+        "name": "DARUMAS",
+        "url": "https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 175229,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/1tH39eKsYRzPczWPjv5ITj"
+    },
+    {
       "added_at": "2024-03-15 11:37:46",
       "album": {
         "name": "boomerang",
@@ -511,6 +599,22 @@
       "duration_ms": 165663,
       "name": "Abril",
       "url": "https://open.spotify.com/track/4S225vyxNhDTPXtRgiINc2"
+    },
+    {
+      "added_at": "2024-05-17 05:07:39",
+      "album": {
+        "name": "DARUMAS",
+        "url": "https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 183851,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/08UEU7xzED0Q7FkC5jQqzl"
     },
     {
       "added_at": "2024-04-12 19:27:01",
@@ -587,6 +691,22 @@
       "duration_ms": 204310,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/0Yq9F5wyQPrVVgS2veVxvp"
+    },
+    {
+      "added_at": "2024-05-17 05:07:21",
+      "album": {
+        "name": "DARUMAS",
+        "url": "https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 140713,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4D2mi0jBxXrhRrb3Q7TW7T"
     },
     {
       "added_at": "2024-01-11 16:56:02",

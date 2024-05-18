@@ -4,7 +4,7 @@
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Billie Eilish
 
-334 songs - 16 hr 27 min
+335 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bambola](https://open.spotify.com/track/5RTtx4D4w29MlufofiIikv) | [toka](https://open.spotify.com/artist/4iXfHZIKHblaqytMwQhHua), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bambola](https://open.spotify.com/album/4yuvVNeV3g2eavxqmut25m) | 2:28 | 2024-05-09 | 2024-05-17 |
 | [BAR & CLUB](https://open.spotify.com/track/0fRgkMkq6XVYbGC8HIVvgd) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [Stacks102](https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv) | [BAR & CLUB](https://open.spotify.com/album/2bOE5DBXVHG2XehBx5tWqN) | 3:03 | 2024-05-16 |  |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-05-02 | 2024-05-10 |
-| [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 | 2024-05-16 |  |
+| [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 | 2024-05-16 |  |
 | [Bigger Picture](https://open.spotify.com/track/4qXG6u2HbqRpEtA9apQLDi) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U), [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Bigger Picture](https://open.spotify.com/album/12QYAmIZvrAPB9Njyem32A) | 2:48 | 2024-05-09 | 2024-05-17 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-16 |  |
 | [Bitter Moon](https://open.spotify.com/track/2YVlRAicI7gnfZj2gfzhs9) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Bitter Moon](https://open.spotify.com/album/0xPzTvILIxaWFV9tqk5tef) | 2:36 | 2024-05-02 | 2024-05-10 |
@@ -214,6 +214,7 @@
 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 | 2024-05-16 |  |
 | [Nach Paris](https://open.spotify.com/track/5nxfjXVj617B1WVXyV0XrP) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [CRIMSN](https://open.spotify.com/artist/2YP8Erd2hKBE4L5GEPUa0J) | [Nach Paris](https://open.spotify.com/album/40Tk7IuVSiETyZmHx6Jqjn) | 2:34 | 2024-04-26 | 2024-05-03 |
 | [NaNa](https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [NaNa](https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69) | 2:21 | 2024-05-16 |  |
+| [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 |  |
 | [NEED U](https://open.spotify.com/track/4V3cTkfjWuwtLWHTq6K79J) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Faroon](https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY) | [NEED U](https://open.spotify.com/album/2ERfUSgZd469wDg8QDeJZu) | 2:43 | 2024-05-16 |  |
 | [Never Never](https://open.spotify.com/track/2P1pnhmmFON3lW4rzkjCm5) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Never Never](https://open.spotify.com/album/0NhVvH6l27Xyeo7PrToHKR) | 2:51 | 2024-04-26 | 2024-05-03 |
 | [Never Really Over](https://open.spotify.com/track/2PVQxGoQU2wwRpzs6xS26i) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Never Really Over](https://open.spotify.com/album/1JpENwmv6fRMEMW7jwMq8k) | 2:31 | 2024-04-26 | 2024-05-03 |

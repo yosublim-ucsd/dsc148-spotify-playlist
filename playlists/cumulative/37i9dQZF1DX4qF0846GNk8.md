@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=wH1M\-7yZQCGXxYg6WLgI\-w"> عصام صاصا </a>
 
-240 songs - 14 hr 38 min
+241 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [عقباوي دمي حامي](https://open.spotify.com/track/589yxRQaTsgjX23dBtgaIz) | [Hamada Abo El Soud](https://open.spotify.com/artist/46Mk53pIP0buQqvhKNlsAH), [Te7a](https://open.spotify.com/artist/5upPnqjYhTrlCrxCwQqTyC) | [عقباوي دمي حامي](https://open.spotify.com/album/46ThkQd2YDMj6yFH1DZaWE) | 2:50 | 2021-12-16 | 2024-01-16 |
 | [على باب الرزق خبط كسبت صحاب حلوه و جدعان](https://open.spotify.com/track/5YYzlmhag832EfWa5MLfhR) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [على باب الرزق خبط كسبت صحاب حلوه و جدعان](https://open.spotify.com/album/0nbHjYEPdvNz2RG78JOM2m) | 2:58 | 2023-06-21 | 2024-02-01 |
 | [على وضعنا](https://open.spotify.com/track/5sb9l21Adj5wafYN0U2eo7) | [Ahmed Faransa](https://open.spotify.com/artist/4edzZOS8Fd330sVuzn8D6q) | [على وضعنا](https://open.spotify.com/album/1etJ2v9Joi2EyIjZqQDNJo) | 2:02 | 2021-12-16 | 2022-09-28 |
+| [عم جيلو \( طب خد ولا انت مبتعرفش تصد \)](https://open.spotify.com/track/05HQf3gXwmAb8WScNvlhEt) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [عم جيلو \( طب خد ولا انت مبتعرفش تصد \)](https://open.spotify.com/album/1HiStqQC5wtvSrdyt7nc1o) | 2:38 | 2024-05-17 |  |
 | [عمري انا ما بجلي كفاءه تملي](https://open.spotify.com/track/18edBOhWy8oHrKYSpxzrgV) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عمري انا ما بجلي كفاءه تملي](https://open.spotify.com/album/3ykZCZ4P3JUHOIGT5WdKD2) | 4:21 | 2022-02-16 | 2022-07-31 |
 | [عيب لما اميزك وانت تيجي تخيب](https://open.spotify.com/track/1CJGek8OtoOU2UpNsrxOzZ) | [Omar Hefzy](https://open.spotify.com/artist/37HcYZ2Ut9iLVuEjoIsfUs), [Osha El Soghayar](https://open.spotify.com/artist/0XeE9hyikmXTzIvqrB6Mhc) | [عيب لما اميزك وانت تيجي تخيب](https://open.spotify.com/album/5emKkF3DSNPEUmrz7l5ldz) | 3:16 | 2022-10-25 | 2023-05-31 |
 | [عيد ميلاد](https://open.spotify.com/track/5jXrmO3gbEVhRTCQn3TGUs) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [عيد ميلاد](https://open.spotify.com/album/323DKyNQY9frSlejl10pdl) | 3:30 | 2022-07-30 | 2023-07-13 |

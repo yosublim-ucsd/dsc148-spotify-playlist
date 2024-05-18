@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 37106,
+  "num_followers": 37135,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -1188,13 +1188,17 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
-      "duration_ms": 178374,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
+      "duration_ms": 209374,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
     },
     {
       "added_at": "2024-04-26 14:42:17",
@@ -1240,17 +1244,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
         }
       ],
-      "duration_ms": 209374,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
+      "duration_ms": 178374,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
     },
     {
       "added_at": "2024-04-26 14:42:17",
@@ -2067,6 +2067,26 @@
     {
       "added_at": "2024-04-26 14:42:17",
       "album": {
+        "name": "Yacht (K) (feat. Sik-K)",
+        "url": "https://open.spotify.com/album/7s6Cjus2U5giBB0mZxN2jl"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 246284,
+      "name": "Yacht (K) [feat. Sik-K]",
+      "url": "https://open.spotify.com/track/4O6aJs7sGvhcnMVOwCHC45"
+    },
+    {
+      "added_at": "2024-04-26 14:42:17",
+      "album": {
         "name": "Birthday Gamble",
         "url": "https://open.spotify.com/album/1upSeaBmzoLGq9G4iUDNJo"
       },
@@ -2307,30 +2327,6 @@
       "duration_ms": 223013,
       "name": "All The Way Up (K)",
       "url": "https://open.spotify.com/track/6lp2MvqEBSdL3L84GAvl4o"
-    },
-    {
-      "added_at": "2024-04-26 14:42:17",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/6ZOOniV66m11wsEYkHQMoP"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "All Day (Flex)",
-      "url": "https://open.spotify.com/track/0iNXcid1Ro7OLe4L6fFfLG"
     }
   ],
   "unique_name": "This Is Jay Park",

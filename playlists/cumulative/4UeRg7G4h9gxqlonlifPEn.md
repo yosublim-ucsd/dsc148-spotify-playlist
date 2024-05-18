@@ -4,7 +4,7 @@
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: 21 Lil Harold
 
-488 songs - 22 hr 58 min
+490 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 | 2024-01-05 | 2024-02-24 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2022-06-03 | 2022-10-01 |
 | [ESPY](https://open.spotify.com/track/1zMVgABs2MnO6M85sXk3yT) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [EVERY DOG HAS ITS DAY](https://open.spotify.com/album/6bAxzhIGK9goBP49UnvbEj) | 2:25 | 2024-03-15 |  |
+| [Everything Lit](https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Everything Lit](https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx) | 2:25 | 2024-05-17 |  |
 | [EXCALIBUR](https://open.spotify.com/track/6gg9wuYw3WvZ6bdfUxWZui) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [existential hymns for the average sigma \[vol\. 9\]](https://open.spotify.com/album/0249YKLhbyTmcDuKp1nPEU) | 2:43 | 2024-02-23 |  |
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2022-10-14 | 2024-02-24 |
 | [Exposed](https://open.spotify.com/track/5QiJRSbS55oKO55hWaF8tQ) | [JMB Juvie](https://open.spotify.com/artist/25zUbJzU1WGRTN5Y0ajRzd) | [Exposed](https://open.spotify.com/album/0NCaM5SOtDJg7ZxfS9aO32) | 3:18 | 2022-12-16 | 2023-04-22 |
@@ -311,6 +312,7 @@
 | [Never Gave AF](https://open.spotify.com/track/5sFjfDzqauRhhJQ9yA6pK4) | [Daj Dolla](https://open.spotify.com/artist/2lT7Pwjv8WjrnxIrgV05kB), [Rowdy Racks](https://open.spotify.com/artist/5fyorxDaYqaub7fnjYYgFe) | [Never Gave AF](https://open.spotify.com/album/571LSJXNvjuN9yavugnaJu) | 2:31 | 2024-04-05 |  |
 | [NEVER GOING HOME AGAIN / WHY? \(Interlude\)](https://open.spotify.com/track/3YUfiljrpV5mQnUA4h1GKR) | [Malik Baptiste](https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW) | [PEDALS / PETALS \(A Mixtape Narrated by Don Cannon\)](https://open.spotify.com/album/7MheQdYU2yYaRCN5i9M974) | 7:02 | 2024-02-23 |  |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-02-23 |  |
+| [Never Stop](https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian](https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x) | 2:07 | 2024-05-17 |  |
 | [New Bills \(feat\. Benny The Butcher\)](https://open.spotify.com/track/4Y3yQUMCJ2yJTbkCKEMCDf) | [Elcamino](https://open.spotify.com/artist/54jJabxN5Xa0aMGK4mYdVg), [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [They Spit On Jesus](https://open.spotify.com/album/5nQDQ3Lee5gmX3ZUQH4LAV) | 2:19 | 2024-02-23 |  |
 | [New Opp](https://open.spotify.com/track/2TeC1gKpfWDJYwFf6udy6k) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [New Opp Pack](https://open.spotify.com/album/4P0Nu4LQpdaxYeLeBRDR5Q) | 1:34 | 2023-05-31 |  |
 | [No Belt](https://open.spotify.com/track/4xWJhJVD2QSrbkcfOeArc2) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Yung Bans Vol\. 6](https://open.spotify.com/album/3sulyKSdjgSmSEtp7o8hWV) | 3:38 | 2023-12-08 | 2024-02-24 |

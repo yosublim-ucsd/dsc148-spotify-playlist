@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Annoit mut pois",
+        "url": "https://open.spotify.com/album/3wEr0BI1ltgy3CxTrqRf3i"
+      },
+      "artists": [
+        {
+          "name": "Joosua",
+          "url": "https://open.spotify.com/artist/4s4bwc0ixsFFUNvnN80wGZ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "Annoit mut pois",
+      "url": "https://open.spotify.com/track/61iH69pKz3vcHLyvOFC7HE"
+    },
+    {
+      "album": {
         "name": "M\u00fcnchen",
         "url": "https://open.spotify.com/album/7e3B2rQiznomLKgLpkgNTg"
       },
@@ -3065,6 +3083,24 @@
     },
     {
       "album": {
+        "name": "Hustla",
+        "url": "https://open.spotify.com/album/4OfqJBQbajubYijptykuAZ"
+      },
+      "artists": [
+        {
+          "name": "Yzzy",
+          "url": "https://open.spotify.com/artist/6zhABQrEaXCWh7L721KVPd"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170447,
+      "name": "Hustla",
+      "url": "https://open.spotify.com/track/3SHrDL6ZYcnEj7K7Fxnzyh"
+    },
+    {
+      "album": {
         "name": "Hymy",
         "url": "https://open.spotify.com/album/0UIshpwXN68SbhzSLZV4mt"
       },
@@ -4713,6 +4749,28 @@
     },
     {
       "album": {
+        "name": "Man In Finance (G6 Trust Fund)",
+        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
+      },
+      "artists": [
+        {
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151405,
+      "name": "Man In Finance (G6 Trust Fund)",
+      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/5Hto6vLQVUC5tnR72gvS7V"
       },
@@ -4912,7 +4970,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 328333,
       "name": "Mist",
       "url": "https://open.spotify.com/track/1ioSlRBNECflVXY55mXLH4"
@@ -5138,6 +5196,24 @@
       "duration_ms": 182624,
       "name": "Naarmu",
       "url": "https://open.spotify.com/track/5oCqXwDj6PH93onoPGJfhN"
+    },
+    {
+      "album": {
+        "name": "NANi",
+        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154991,
+      "name": "NANi",
+      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
     },
     {
       "album": {
@@ -5758,6 +5834,24 @@
       "duration_ms": 143032,
       "name": "Paholainen",
       "url": "https://open.spotify.com/track/1vFLrSQ1zmDeNQimkEvKEh"
+    },
+    {
+      "album": {
+        "name": "Pakittaa",
+        "url": "https://open.spotify.com/album/6diNTaLevecTpMpj1wRVhI"
+      },
+      "artists": [
+        {
+          "name": "Aitoarttu",
+          "url": "https://open.spotify.com/artist/4zgPXHmA2SQlzEy047yBL8"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Pakittaa",
+      "url": "https://open.spotify.com/track/01QeEJCO1XaAUrAm9LuWF6"
     },
     {
       "album": {

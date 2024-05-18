@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Billie Eilish
 
-6,195 songs - 13 day 13 hr 11 min
+6,197 songs - 13 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3647,6 +3647,7 @@
 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 | 2023-03-02 | 2023-03-10 |
 | [Nakie Nakie](https://open.spotify.com/track/18QfA6nedF15GCefoRmbcT) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Nakie Nakie](https://open.spotify.com/album/2hEEMvD5dELumMCQOfNdVg) | 4:38 | 2023-12-14 | 2023-12-22 |
 | [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 | 2023-05-25 | 2023-06-02 |
+| [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 |  |
 | [Nao Tem Jeito](https://open.spotify.com/track/3H1mXHzAi1jrBeYDFgR4yt) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Nao Tem Jeito](https://open.spotify.com/album/18nFQk8PvDQuMpukxNI4XS) | 3:26 | 2023-03-30 | 2023-04-07 |
 | [Narcissist](https://open.spotify.com/track/0fayxbip7asGIBze5wWZnu) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Narcissist](https://open.spotify.com/album/5q4oFnbNrfW9MtuZdBIZlC) | 2:29 | 2024-01-04 | 2024-01-12 |
 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 | 2023-05-05 | 2023-05-12 |
@@ -3936,6 +3937,7 @@
 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-27 | 2023-08-04 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-03 | 2023-03-10 |
 | [On The Way](https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [On The Way](https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA) | 3:12 | 2023-12-21 | 2024-01-05 |
+| [On This Hill](https://open.spotify.com/track/1Ai4EnJN4sywxcj8KOmIgb) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [On This Hill](https://open.spotify.com/album/5StpVKqlHLWZwdlivpSMpo) | 4:26 | 2024-05-16 |  |
 | [On Your Side](https://open.spotify.com/track/02fkJ4Y3oLO0VOKjM3w7yW) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [On Your Side](https://open.spotify.com/album/6PfmuiUGdXa406AJtVDoCC) | 4:27 | 2023-11-02 | 2023-11-10 |
 | [Onbereikbaar](https://open.spotify.com/track/1FhmU2a3UGUfnEzooWfwe1) | [Deeno Deshh](https://open.spotify.com/artist/2rtZrTzDp2lvaraXfbron0), [TEAM PEACH](https://open.spotify.com/artist/3Ea9Rva7WpmSyRdxS8tsFC), [Ella Banks](https://open.spotify.com/artist/5hQfwoHdd8NBpDKXWHORIM) | [Onbereikbaar](https://open.spotify.com/album/0WJqQm2n9x0l3XfaSyryAZ) | 2:30 | 2024-02-22 | 2024-03-01 |
 | [Onbereikbaar \(feat\. Isabèl Usher\)](https://open.spotify.com/track/2zoi5EAFAj8zSI6T6TLyah) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Onbereikbaar \(feat\. Isabèl Usher\)](https://open.spotify.com/album/7ipUSK9Naap69474iZA1Dn) | 2:46 | 2023-11-16 | 2023-11-25 |

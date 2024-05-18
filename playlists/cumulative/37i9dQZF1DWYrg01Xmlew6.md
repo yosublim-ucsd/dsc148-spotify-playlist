@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover, el pibe de oro 💙
 
-323 songs - 14 hr 57 min
+325 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Imperativo](https://open.spotify.com/track/7erlznGZasHpA6d1wdRYe7) | [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [Imperativo](https://open.spotify.com/album/05J2YPEPokhVensBiDokWp) | 2:18 | 2022-06-30 | 2022-07-15 |
 | [Ind smman](https://open.spotify.com/track/3mwYpTNy6uYkyIakEvMcDW) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [HOLLYWOOD](https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS) | 2:34 | 2023-01-12 | 2024-04-12 |
 | [INDELEBILE](https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INDELEBILE](https://open.spotify.com/album/1VgO7HkRxcqax9zw8ybS72) | 2:49 | 2023-09-07 | 2023-10-06 |
-| [Int 'o rione](https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:26 | 2024-05-09 |  |
+| [Int 'o rione](https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:26 | 2024-05-09 | 2024-05-18 |
+| [Int 'o rione](https://open.spotify.com/track/0SbPMAgqOh6hi0xLa5gD8C) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe'mme](https://open.spotify.com/album/5MBHrsqGDt3aEMPvTcuvHt) | 4:27 | 2024-05-17 |  |
 | [INT’A BUFERA](https://open.spotify.com/track/216N9ie9uV2Mg9dCy6h5Wa) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INT’A BUFERA](https://open.spotify.com/album/3jM7GBHjZrU0BqbeaYIRZ7) | 2:59 | 2024-05-09 |  |
 | [Jeep](https://open.spotify.com/track/2ZH8L9c8uH1nDV6ro7LKUP) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Jeep](https://open.spotify.com/album/5TYYBSF7XaljaxC1dpKnhO) | 1:51 | 2023-07-13 | 2023-08-11 |
 | [Jump \(feat\. Lazza\)](https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:43 | 2022-05-26 | 2023-04-07 |
@@ -241,7 +242,8 @@
 | [PRIMMO AMMORE](https://open.spotify.com/track/0UuY3i8Ee0VZWDY5VJfKNw) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh) | [PRIMMO AMMORE](https://open.spotify.com/album/0jRDpJ2bMVD8JT43ifUd9E) | 2:34 | 2023-03-23 | 2023-04-14 |
 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 | 2023-09-20 |  |
 | [PUORTEM RISPETT](https://open.spotify.com/track/0dT9EbREPPOhKlGTPN377A) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:25 | 2023-04-27 | 2023-05-19 |
-| [Quanno me ne so juto](https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Vita bona](https://open.spotify.com/album/59LESgxshdM9gDepqGWBol) | 4:19 | 2024-05-09 |  |
+| [Quanno me ne so juto](https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Vita bona](https://open.spotify.com/album/59LESgxshdM9gDepqGWBol) | 4:19 | 2024-05-09 | 2024-05-18 |
+| [Quanno me ne so juto](https://open.spotify.com/track/0Hi6vdLz9l1yBDHg3CPaCL) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Vita bona](https://open.spotify.com/album/0dzCyDqy3dTwfYkNflwTXL) | 4:19 | 2024-05-17 |  |
 | [QUANNO ME NE SO JUTO, Pt\. II](https://open.spotify.com/track/0ZgM3SJ7xdLr0fj0l7lHN9) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [QUANNO ME NE SO JUTO, Pt\. II](https://open.spotify.com/album/7tAZQpjOq08v3WE2IoEK3b) | 3:01 | 2023-04-13 | 2023-05-05 |
 | [RA SUL](https://open.spotify.com/track/0pwcRVxksO8iEAXjWsTd71) | [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg), [Ceru167](https://open.spotify.com/artist/3XpabuerK4UATrLQKdE8S3) | [RA SUL](https://open.spotify.com/album/1ACfQpoG9EyNkg5yt8VyFD) | 2:28 | 2022-12-08 | 2023-01-13 |
 | [Realness](https://open.spotify.com/track/7bq0EaS7UDPUQGQTx0jeHn) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN) | [Realness](https://open.spotify.com/album/6WvpHmaySTeQGPLhRrVAiq) | 2:18 | 2024-02-22 | 2024-03-15 |

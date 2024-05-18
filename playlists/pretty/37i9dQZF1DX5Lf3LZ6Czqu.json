@@ -1,13 +1,49 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Angel Vivaldi",
-  "num_followers": 141193,
+  "num_followers": 141228,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zg93fAAAAABYjH9pFtC8WPlHNXz/iQbT",
+  "snapshot_id": "ZkbWfAAAAADp98DR1mGTOdInFsmnpTK7",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/5Xt7aY81n18tJTXRVotygJ"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "duration_ms": 317083,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/7ckvTsWmmLbeFEPw4DCTk4"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Out of the Void",
+        "url": "https://open.spotify.com/album/62iUscBLSYMkO64WS7EIKS"
+      },
+      "artists": [
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        },
+        {
+          "name": "Kiko Loureiro",
+          "url": "https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK"
+        }
+      ],
+      "duration_ms": 233197,
+      "name": "Out of the Void",
+      "url": "https://open.spotify.com/track/3F8fZIypxQMVOOu7fZyN9A"
+    },
     {
       "added_at": "2024-03-08 05:01:00",
       "album": {
@@ -411,22 +447,6 @@
       "duration_ms": 316479,
       "name": "Planetary Lockdown",
       "url": "https://open.spotify.com/track/3cAEGkFwSdX1bBQsI3efgv"
-    },
-    {
-      "added_at": "2021-05-04 18:30:17",
-      "album": {
-        "name": "Sounds of Innocence",
-        "url": "https://open.spotify.com/album/0rtwwQetfvL67PGfCQcngs"
-      },
-      "artists": [
-        {
-          "name": "Kiko Loureiro",
-          "url": "https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Reflective",
-      "url": "https://open.spotify.com/track/5B6lWsQXoKghgupCA5yNRY"
     },
     {
       "added_at": "2021-05-04 18:30:17",
@@ -1143,42 +1163,6 @@
       "duration_ms": 235106,
       "name": "Gimme 5",
       "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
-    },
-    {
-      "added_at": "2021-05-04 18:30:17",
-      "album": {
-        "name": "Star Catchers (feat. Steve Lukather, Jason \"JT\" Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz)",
-        "url": "https://open.spotify.com/album/4Ji2GH0mZW6q7kGFjMAqiK"
-      },
-      "artists": [
-        {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        },
-        {
-          "name": "Steve Lukather",
-          "url": "https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM"
-        },
-        {
-          "name": "Jason \"JT\" Thomas",
-          "url": "https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw"
-        },
-        {
-          "name": "Wes Stephenson",
-          "url": "https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88"
-        },
-        {
-          "name": "Philip Lassiter",
-          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
-        },
-        {
-          "name": "Philthy Hornz",
-          "url": "https://open.spotify.com/artist/0d2ebWZLrHX5Wzaekd1lZM"
-        }
-      ],
-      "duration_ms": 337360,
-      "name": "Star Catchers (feat. Steve Lukather, Jason \u201cJT\u201d Thomas, Wes Stephenson, Philip Lassiter & The Philthy Hornz)",
-      "url": "https://open.spotify.com/track/0jLeYaIIEyCkZSW3gxgAeL"
     },
     {
       "added_at": "2021-05-04 18:30:17",

@@ -413,6 +413,28 @@
     },
     {
       "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/4qpuHdwINuEp8DfHsEM1yt"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/37I1T0ypcJJXareD7KgcfV"
+    },
+    {
+      "album": {
         "name": "3:AM (feat. Erykah Badu)",
         "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
       },
@@ -428,7 +450,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 213566,
       "name": "3:AM (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
@@ -1874,6 +1896,24 @@
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
+    },
+    {
+      "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181046,
+      "name": "Back In My Bag",
+      "url": "https://open.spotify.com/track/0rFpErCI4zTGkjb0tCuaLh"
     },
     {
       "album": {
@@ -3380,7 +3420,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 207882,
       "name": "Born With It",
       "url": "https://open.spotify.com/track/0czhA8R4oo8wPnTnuZlcxi"
@@ -3722,7 +3762,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 122413,
       "name": "Buried Alive",
       "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
@@ -5801,6 +5841,24 @@
     },
     {
       "album": {
+        "name": "Devil Inside (12\" Mix)",
+        "url": "https://open.spotify.com/album/6jtZefm9Qkmr0Ry8GLx0NA"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390213,
+      "name": "Devil Inside - 12\" Mix",
+      "url": "https://open.spotify.com/track/3exSAvLVRkjjphLziPZoEi"
+    },
+    {
+      "album": {
         "name": "My Soft Machine",
         "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
       },
@@ -7490,6 +7548,32 @@
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "album": {
+        "name": "Enter the swarm",
+        "url": "https://open.spotify.com/album/62ElD2u33xgs9pAz9wyFsT"
+      },
+      "artists": [
+        {
+          "name": "DR. Moriarity",
+          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
+        },
+        {
+          "name": "True2kali",
+          "url": "https://open.spotify.com/artist/2Pkv7LL3z02zE0nFnlmGkG"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Enter the swarm",
+      "url": "https://open.spotify.com/track/5qKhOdwInRdhmJ86hBjkRe"
     },
     {
       "album": {
@@ -9304,6 +9388,40 @@
       "duration_ms": 141187,
       "name": "From the Subway Train - Extended Version",
       "url": "https://open.spotify.com/track/5W0A4ImAco1tw5bZnWk9gy"
+    },
+    {
+      "album": {
+        "name": "FromHere (feat. Snoop Dogg & October London)",
+        "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241511,
+      "name": "FromHere (feat. Snoop Dogg & October London)",
+      "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
     },
     {
       "album": {
@@ -14219,6 +14337,24 @@
     },
     {
       "album": {
+        "name": "Mid Spiral: Chaos",
+        "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188761,
+      "name": "Last Laugh",
+      "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
+    },
+    {
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/6EykTUDQkubk9ulqnXC7tJ"
       },
@@ -14913,6 +15049,28 @@
     },
     {
       "album": {
+        "name": "Atavista",
+        "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226546,
+      "name": "Little Foot Big Foot (feat. Young Nudy)",
+      "url": "https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85"
+    },
+    {
+      "album": {
         "name": "Ol Dirty Kudda (Shoalin Lives)",
         "url": "https://open.spotify.com/album/0jkbWrF2PJVIMg6IhASgpu"
       },
@@ -15346,6 +15504,24 @@
       "duration_ms": 241532,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4vRlN2qaQbdtpL9caPqh5q"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "album": {
@@ -16597,6 +16773,32 @@
     },
     {
       "album": {
+        "name": "Moon Slide",
+        "url": "https://open.spotify.com/album/54mIq2BSX75AygmrBvaATE"
+      },
+      "artists": [
+        {
+          "name": "Lilblackkids",
+          "url": "https://open.spotify.com/artist/4JYRi0SBCkaspVNZxtIDSN"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Keith Rice",
+          "url": "https://open.spotify.com/artist/3ZR45l2gVP68kMaKxREjmu"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "Moon Slide",
+      "url": "https://open.spotify.com/track/6CrO3YUT3CwYI8lCU5GXvc"
+    },
+    {
+      "album": {
         "name": "MORE DOLLARS, MORE SENSE 2014 (feat. Childish Gambino)",
         "url": "https://open.spotify.com/album/0nFO3E9RTRETid92EVp5Q8"
       },
@@ -16816,7 +17018,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 178619,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/5JqTe36RFGJ1wdYBma0cZ7"
@@ -17542,7 +17744,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
@@ -17930,7 +18132,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 385480,
       "name": "Not Enough Time - Silky Soul Dub-stru-mental Mix",
       "url": "https://open.spotify.com/track/4qsRbSmuiYnsmahPWWl2m0"
@@ -18299,6 +18501,24 @@
     },
     {
       "album": {
+        "name": "One (feat. James Hetfield & Robert Trujillo)",
+        "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574634,
+      "name": "One",
+      "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/1UNZfvUbdR8AKdouvYdx52"
       },
@@ -18340,6 +18560,28 @@
       "duration_ms": 135418,
       "name": "One (Slowed)",
       "url": "https://open.spotify.com/track/3uKR1sGpR7FfmW2AWrqLMU"
+    },
+    {
+      "album": {
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186790,
+      "name": "One Cry (feat. Rosa Linn)",
+      "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
     },
     {
       "album": {
@@ -19126,10 +19368,32 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 156136,
       "name": "Pair Of Hammers",
       "url": "https://open.spotify.com/track/21PDoRsAQsegZda612pgto"
+    },
+    {
+      "album": {
+        "name": "Pair Of Hammers",
+        "url": "https://open.spotify.com/album/3x2nnUuUhnQJaSESvRUFQm"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156136,
+      "name": "Pair Of Hammers",
+      "url": "https://open.spotify.com/track/45gkHRnetn0FJWLB6rFtv1"
     },
     {
       "album": {
@@ -20938,6 +21202,24 @@
       "duration_ms": 203872,
       "name": "Relax (Metal Version)",
       "url": "https://open.spotify.com/track/1N44Yk7WFYNwOLnIHtbbTw"
+    },
+    {
+      "album": {
+        "name": "Grounded",
+        "url": "https://open.spotify.com/album/0ZidxETSzhXyT7pZV2CZ7q"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 819861,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/2nsnyuimK758VKC7CAKG2k"
     },
     {
       "album": {
@@ -26188,7 +26470,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 70114,
       "name": "The Visionary",
       "url": "https://open.spotify.com/track/4YZMJOVJSlqvVRouhp0fDL"
@@ -26529,6 +26811,28 @@
     },
     {
       "album": {
+        "name": "Atavista",
+        "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334880,
+      "name": "Time (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/0hYh0vcM53aRbksX7ZcpOI"
+    },
+    {
+      "album": {
         "name": "Time (edit - 2023 Master)",
         "url": "https://open.spotify.com/album/0p4pqqmiJEc9hXTIjfJtKa"
       },
@@ -26614,6 +26918,28 @@
       "duration_ms": 124107,
       "name": "Time Trickles Away",
       "url": "https://open.spotify.com/track/4Pezni8xhuJgg4VZw2yrSD"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "album": {
@@ -28837,6 +29163,28 @@
     },
     {
       "album": {
+        "name": "where is your pride?",
+        "url": "https://open.spotify.com/album/7cB7OeVAjXnDlNFzSP1lIl"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Benjamin Zephaniah",
+          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "where is your pride?",
+      "url": "https://open.spotify.com/track/4oeUEps9lJueoPlVDwTwFq"
+    },
+    {
+      "album": {
         "name": "Mac & Cheese 5 (Versions)",
         "url": "https://open.spotify.com/album/4X7trxVVObj1mdGvdl08Fs"
       },
@@ -29948,7 +30296,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 219715,
       "name": "You Should Know",
       "url": "https://open.spotify.com/track/2z85unLCumftYXfnAGR0nR"

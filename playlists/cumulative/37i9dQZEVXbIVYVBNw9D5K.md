@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-916 songs - 1 day 21 hr 43 min
+917 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Gökyüzünü Tutamam](https://open.spotify.com/track/4O9hcXs1ohtbw4xnMU8wfo) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Gökyüzünü Tutamam](https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M) | 3:15 | 2022-03-23 | 2023-04-20 |
 | [Gönder Gelsin](https://open.spotify.com/track/00qZC0FlaCP0BiefyKDqnt) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gönder Gelsin](https://open.spotify.com/album/2sSQdOlLIFPJPxXJPtTJgR) | 2:47 | 2021-06-24 | 2021-07-04 |
 | [GÖNDER GELSİN](https://open.spotify.com/track/6zUeLNZHEzENd8ts4V9yj2) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:06 | 2022-03-20 | 2022-08-06 |
-| [Gör Bak](https://open.spotify.com/track/00zpoHL8I7zlPzWEbSYDgB) | [Fatih Bulut](https://open.spotify.com/artist/4QYrSz56GbbWzazB3ykW7G), [Elmas](https://open.spotify.com/artist/7G5tUGKHqDFfyxsCnzE2jd) | [Gör Bak](https://open.spotify.com/album/1DivhWbVDQtOJNWqNwygkm) | 3:38 | 2024-04-24 |  |
+| [Gör Bak](https://open.spotify.com/track/00zpoHL8I7zlPzWEbSYDgB) | [Fatih Bulut](https://open.spotify.com/artist/4QYrSz56GbbWzazB3ykW7G), [Elmas](https://open.spotify.com/artist/7G5tUGKHqDFfyxsCnzE2jd) | [Gör Bak](https://open.spotify.com/album/1DivhWbVDQtOJNWqNwygkm) | 3:38 | 2024-04-24 | 2024-05-18 |
 | [Göremediğin](https://open.spotify.com/track/2ZDj6yB2AnATAciTurevZd) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Berk Erdemanar](https://open.spotify.com/artist/6JDTOIram8oMZVaF3GZPyw), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 3:37 | 2022-05-14 | 2022-05-21 |
 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 | 2023-08-05 | 2023-10-27 |
 | [Görmezden](https://open.spotify.com/track/64u38QYMmNcnkfXWrSIB9P) | [Kerem Keskin](https://open.spotify.com/artist/3arLmUZFNojh7xyCLwrzAb) | [Görmezden](https://open.spotify.com/album/5sOuVlv4DQWuRIx6Ne1MVB) | 2:49 | 2023-05-30 | 2023-06-06 |
@@ -423,7 +423,7 @@
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-10-28 | 2023-11-25 |
 | [Hüznü Hecem](https://open.spotify.com/track/6pZ31N4gd3Yk9277ptUHjb) | [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [Sokak Dili ve Edebiyatı](https://open.spotify.com/album/148veG8wJsbaT3RrrQljiG) | 2:38 | 2024-04-15 |  |
-| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-01 | 2024-05-17 |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-01 |  |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-06-03 | 2021-09-24 |
 | [ICARDI / PREGA TILL I DIE](https://open.spotify.com/track/0zSRhN1sX2F9DbE9KxNcIS) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [ICARDI / PREGA TILL I DIE](https://open.spotify.com/album/0EYPzmfR0dtePkP6q3HE8O) | 1:59 | 2023-09-16 | 2023-09-18 |
 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 | 2022-07-02 | 2022-10-11 |
@@ -809,7 +809,8 @@
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-04-26 |
 | [The Face of Vision](https://open.spotify.com/track/7cGoaJCRVhU3dH8M5RwrUb) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [The Face of Vision](https://open.spotify.com/album/3g0WjXnhgC5eldeXQyuJ9r) | 2:21 | 2021-12-30 | 2022-01-06 |
 | [Tiki Taka Flow](https://open.spotify.com/track/3WY8ZHo8BfZqOaLmCYyBJo) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Tiki Taka Flow](https://open.spotify.com/album/3DlqxCDQFdrHspa5Fo4R5I) | 2:50 | 2021-10-03 | 2021-10-11 |
-| [Tiryakinim](https://open.spotify.com/track/3MqpWcX5aP4m7NL2gqxg6J) | [Ayten Alpman](https://open.spotify.com/artist/2ou49oabzUlWGVoKHw5bvm) | [Tiryakinim](https://open.spotify.com/album/2akaQMyROHMG8Hy17lUwYE) | 3:19 | 2024-05-16 |  |
+| [Tiryakinim](https://open.spotify.com/track/3MqpWcX5aP4m7NL2gqxg6J) | [Ayten Alpman](https://open.spotify.com/artist/2ou49oabzUlWGVoKHw5bvm) | [Tiryakinim](https://open.spotify.com/album/2akaQMyROHMG8Hy17lUwYE) | 3:19 | 2024-05-16 | 2024-05-18 |
+| [Tiryakinim](https://open.spotify.com/track/4jdpkoZR2tUT4m4UTEUuvK) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/6vwOyaGFSGibSqdP9HBkaE) | 3:19 | 2024-05-17 |  |
 | [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 | 2024-05-01 | 2024-05-16 |
 | [Toprak Yağmura \(Akustik\)](https://open.spotify.com/track/4sCt5tJL9SMAODyiEiVBDd) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Dolunay](https://open.spotify.com/album/2hWWX2M4ZD4PVyaPTmkfaV) | 3:56 | 2021-11-16 | 2021-12-04 |
 | [toz duman](https://open.spotify.com/track/5rS3b5yHagEQGI7HqDusZ5) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [toz duman](https://open.spotify.com/album/1QkfSEPKAm4fbr8WZyHhZv) | 2:47 | 2021-05-30 | 2021-10-31 |

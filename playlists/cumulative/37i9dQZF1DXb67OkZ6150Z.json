@@ -606,7 +606,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 187697,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
@@ -4320,7 +4320,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 206948,
       "name": "Lavender Haze",
       "url": "https://open.spotify.com/track/0uds6C87jkBsk9gShJcuRz"
@@ -4668,6 +4668,24 @@
       "duration_ms": 265636,
       "name": "Lua",
       "url": "https://open.spotify.com/track/3yMRB1octy4P6EoLzI9hu6"
+    },
+    {
+      "album": {
+        "name": "Making Breakfast",
+        "url": "https://open.spotify.com/album/6gZ2JwFSMQsllwM2XJjZIh"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140973,
+      "name": "Making Breakfast",
+      "url": "https://open.spotify.com/track/2slU3LSs6yFAsit4blFSjA"
     },
     {
       "album": {
@@ -6603,6 +6621,24 @@
     },
     {
       "album": {
+        "name": "Thank You for Sending Me an Angel",
+        "url": "https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188240,
+      "name": "Thank You for Sending Me an Angel",
+      "url": "https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg"
+    },
+    {
+      "album": {
         "name": "That Don't Impress Me Much (triple j Like A Version)",
         "url": "https://open.spotify.com/album/1FUq5cHUqKxQZQZ5xhB8O9"
       },
@@ -6636,6 +6672,24 @@
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "album": {
+        "name": "The Cosmos",
+        "url": "https://open.spotify.com/album/1fDLL3CBLvtQN08GO9lzly"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221091,
+      "name": "The Cosmos",
+      "url": "https://open.spotify.com/track/30AeMSwVvCPyqfxc8KdAhY"
     },
     {
       "album": {
@@ -8170,7 +8224,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 296715,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/2rqlJD4KKngNYUrk14dQWk"

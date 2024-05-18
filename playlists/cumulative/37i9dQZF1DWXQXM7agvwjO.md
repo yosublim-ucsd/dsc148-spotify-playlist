@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Peter Cat Recording Co\. \(India\)
 
-1,306 songs - 3 day 6 hr 37 min
+1,307 songs - 3 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-07 | 2023-05-14 |
 | [Cadillac](https://open.spotify.com/track/1UfBoOR19ZMYASHCu60yfl) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Cadillac](https://open.spotify.com/album/4fhBoDPPc6EXjQvKuMfHbm) | 2:27 | 2022-06-30 | 2022-08-12 |
 | [Calendar](https://open.spotify.com/track/0MlK6FlikM8jgArfXluhSG) | [evenif](https://open.spotify.com/artist/26sLRymbW9mmoW9g74o0AF) | [Our Precious Things Never Change](https://open.spotify.com/album/1fl87hYmIRPN63Llaw0u4l) | 4:09 | 2022-10-13 | 2022-12-16 |
+| [California \(好鬼死浪漫\)](https://open.spotify.com/track/2Fsqwg6OCrNEcjpUTorvWF) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [California \(好鬼死浪漫\)](https://open.spotify.com/album/7m89UNillV51zntHOksawo) | 4:23 | 2024-05-16 |  |
 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 | 2022-03-24 | 2022-05-13 |
 | [Call Me When You Need Me](https://open.spotify.com/track/5ow1lXQKUCoPIQ9clF9g8z) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Call Me When You Need Me](https://open.spotify.com/album/4p2hait2OvHjlJgr4UrBTb) | 2:20 | 2022-10-13 | 2022-11-25 |
 | [Can I be close?](https://open.spotify.com/track/114B5ME97ERXfN3HJzUX3z) | [SOIII](https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp) | [Can I be close?](https://open.spotify.com/album/4R32u241xW6UcLdbX1yqGZ) | 3:56 | 2024-04-11 |  |

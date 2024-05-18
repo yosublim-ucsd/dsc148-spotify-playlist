@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 46629,
+  "num_followers": 46667,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Thapelo Yaka",
+        "url": "https://open.spotify.com/album/6XLF0xSJM4KLIPqRhmaLUg"
+      },
+      "artists": [
+        {
+          "name": "Lejwe La Motheo Artists Development",
+          "url": "https://open.spotify.com/artist/4XmXrxfPJr90IYeBwKrlKT"
+        }
+      ],
+      "duration_ms": 288902,
+      "name": "Ba Buwa Ka Wena",
+      "url": "https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "He Who Is To Come",
@@ -851,22 +867,6 @@
       "duration_ms": 410958,
       "name": "He Who Is To Come",
       "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Thapelo Yaka",
-        "url": "https://open.spotify.com/album/6XLF0xSJM4KLIPqRhmaLUg"
-      },
-      "artists": [
-        {
-          "name": "Lejwe La Motheo Artists Development",
-          "url": "https://open.spotify.com/artist/4XmXrxfPJr90IYeBwKrlKT"
-        }
-      ],
-      "duration_ms": 288902,
-      "name": "Ba Buwa Ka Wena",
-      "url": "https://open.spotify.com/track/6fw0kujZv4igzmpNwACBLQ"
     },
     {
       "added_at": "2023-12-15 00:01:00",

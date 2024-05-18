@@ -865,6 +865,28 @@
     },
     {
       "album": {
+        "name": "Blue Berries",
+        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170008,
+      "name": "Blue Berries",
+      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
+    },
+    {
+      "album": {
         "name": "Body (Gregor Salto Remix)",
         "url": "https://open.spotify.com/album/4FrMzKdZ0B5hWS3gcEg21q"
       },
@@ -7025,6 +7047,24 @@
     },
     {
       "album": {
+        "name": "Sky (Shining Bright)",
+        "url": "https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170429,
+      "name": "Sky (Shining Bright)",
+      "url": "https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg"
       },
@@ -8436,7 +8476,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 214000,
       "name": "Wait A Minute - Mattei & Omich Remix",
       "url": "https://open.spotify.com/track/0O9LIPrJG5ZPaHTM5bmdou"
@@ -9074,7 +9114,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 159344,
       "name": "You Got Me Calling",
       "url": "https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3"

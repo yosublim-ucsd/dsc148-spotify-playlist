@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: ZICO, JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,049 likes - 83 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,042 likes - 83 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

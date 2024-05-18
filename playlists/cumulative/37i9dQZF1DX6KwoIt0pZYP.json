@@ -3653,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "Don't Miss You",
+        "url": "https://open.spotify.com/album/4O8dBJK2LHyco37w4M0jsQ"
+      },
+      "artists": [
+        {
+          "name": "dopameen",
+          "url": "https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112131,
+      "name": "Don't Miss You",
+      "url": "https://open.spotify.com/track/1BvnzvJjR746QsUlDYrTYL"
+    },
+    {
+      "album": {
         "name": "Done (Let's Get It)",
         "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
       },
@@ -9282,7 +9300,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 258006,
       "name": "MAKING MY WAY",
       "url": "https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ"
@@ -12180,6 +12198,24 @@
       "duration_ms": 173740,
       "name": "say what's on your mind",
       "url": "https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE"
+    },
+    {
+      "album": {
+        "name": "sayonara",
+        "url": "https://open.spotify.com/album/2Dlk9MiP54xjdCdrDJHTxO"
+      },
+      "artists": [
+        {
+          "name": "REBBY",
+          "url": "https://open.spotify.com/artist/6SM0FvfOnhrOrf915CKPdh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187244,
+      "name": "sayonara",
+      "url": "https://open.spotify.com/track/4GgBRiqk6JCoNP3elEnbIy"
     },
     {
       "album": {
@@ -16866,7 +16902,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 155923,
       "name": "your love",
       "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"

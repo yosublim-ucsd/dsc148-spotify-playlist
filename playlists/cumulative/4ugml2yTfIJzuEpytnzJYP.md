@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-256 songs - 16 hr 14 min
+257 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Push It](https://open.spotify.com/track/1d45v8BGGwNAAWS1iu70dv) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Push It](https://open.spotify.com/album/6C6vq8swk3cWy2MdIv07rW) | 3:12 | 2023-03-24 | 2023-05-09 |
 | [Push It](https://open.spotify.com/track/2JB9O61cTpHUFKni8PzuGC) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [The Space Beneath the Light](https://open.spotify.com/album/6Eo44s8MJyGxYCzUuRCm2P) | 3:12 | 2023-05-27 |  |
 | [Qualify](https://open.spotify.com/track/5kAj8k3iB7qo5mAAerdor4) | [Supertask](https://open.spotify.com/artist/47qa2xx9Xlw1oGkKbMq8Zt) | [Captcha](https://open.spotify.com/album/0LzozfJOt9UMSmklMDsvgM) | 3:12 | 2021-09-25 | 2022-04-16 |
+| [Queens](https://open.spotify.com/track/0kCh1ZKXHekYP0pAXBaCDv) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Queens](https://open.spotify.com/album/0iLgPTOT0zXu8owQc7vyDo) | 3:05 | 2024-05-17 |  |
 | [R.A.V.E.](https://open.spotify.com/track/0wztpcU585JTnviRQwftah) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [R.A.V.E.](https://open.spotify.com/album/2sDjn0yWlegGQDvyL486vp) | 3:16 | 2022-10-14 | 2022-10-17 |
 | [Raptor](https://open.spotify.com/track/7wqoXaaYeYV6zR4jegMgF4) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [Raptor](https://open.spotify.com/album/023fZD6uYgvFdGOqG2HTli) | 3:17 | 2021-12-08 | 2021-12-12 |
 | [RAWR](https://open.spotify.com/track/3ZZP9iEzQXpLPpMN2Ksvyx) | [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv) | [RAWR](https://open.spotify.com/album/4v28glE0OY3I2ppP37ipBa) | 2:17 | 2023-01-19 | 2023-05-31 |

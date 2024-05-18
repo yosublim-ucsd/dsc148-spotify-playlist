@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Marc Anthony",
+  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Fonseca",
   "name": "Salsa Nation",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 204500,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 253172,
       "name": "Cosas Del Amor (feat. Tito Nieves)",
       "url": "https://open.spotify.com/track/42RY9VETwNoDlVlUDI5lTM"
@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 198001,
       "name": "Mi Confesi\u00f3n",
       "url": "https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78"
@@ -4906,6 +4906,28 @@
       "duration_ms": 184089,
       "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
       "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
+    },
+    {
+      "album": {
+        "name": "Retrom\u00e1ntico",
+        "url": "https://open.spotify.com/album/6TkAh6TSdd1N2cHOmN8NMh"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267465,
+      "name": "Vamos a Romper la Noche (feat. Gilberto Santa Rosa)",
+      "url": "https://open.spotify.com/track/63gMNTJiJpf0MNceQaoZWL"
     },
     {
       "album": {

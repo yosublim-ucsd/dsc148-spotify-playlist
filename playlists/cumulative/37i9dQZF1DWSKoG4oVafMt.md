@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-853 songs - 1 day 22 hr 22 min
+854 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 | 2022-08-16 |  |
 | [Guitar Sikhda](https://open.spotify.com/track/7HGhE2zK1VToDev4SLCXHK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Do Gabru \- Jassi Gill & Amrit Maan](https://open.spotify.com/album/4NA7IQDtm526DqzmqxWiZr) | 3:09 | 2023-02-16 | 2023-05-06 |
 | [Gulaab](https://open.spotify.com/track/0WBxmNri8xbHC8Kf6P9AlM) | [Supreme Sidhu](https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN), [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L) | [Gulaab](https://open.spotify.com/album/2dvmqXZLpzSRDO6Adkkzq0) | 2:56 | 2024-01-25 | 2024-03-09 |
+| [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 | 2024-05-17 |  |
 | [Gulab \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/track/3bROU8JC8KpB2YVDjHboJK) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Maninder Kailey](https://open.spotify.com/artist/3pkSY4dPiyXvWvX8flcQnr) | [Gulab \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/album/2cbrzeKqRs1kkIsuOwdpe6) | 4:37 | 2022-08-19 | 2023-02-04 |
 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 | 2022-01-19 | 2022-04-06 |
 | [Haadsa](https://open.spotify.com/track/0JokwEj0EIFXuCpDrLmB2A) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Haadsa](https://open.spotify.com/album/5amFOjDhjHu3RknedulVt7) | 4:54 | 2022-02-07 | 2022-02-12 |

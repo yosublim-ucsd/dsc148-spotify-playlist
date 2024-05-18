@@ -3439,6 +3439,28 @@
     },
     {
       "album": {
+        "name": "Orgy of the Damned",
+        "url": "https://open.spotify.com/album/3t3ZFkQhYdxBro1D83C8EB"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472253,
+      "name": "Papa Was a Rolling Stone (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ"
+    },
+    {
+      "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/7oufinnYn55dYyMTss0KmB"
       },
@@ -3588,7 +3610,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 264066,
       "name": "Racing To A Red Light",
       "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"

@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Barah\u00fanda",
+        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
+      },
+      "artists": [
+        {
+          "name": "Monge",
+          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139082,
+      "name": "Barah\u00fanda",
+      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
+    },
+    {
+      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/1G1Belfj7e8SYLbF9YSWHu"
       },
@@ -892,6 +910,28 @@
       "duration_ms": 230322,
       "name": "Can't Have It",
       "url": "https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf"
+    },
+    {
+      "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/6z89dz0pfcAJ25nPd4lOJR"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/3dYiIV2csnCkTdasZEoJQE"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137343,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/0SxzftYd4dwbBNwAslFNb6"
     },
     {
       "album": {
@@ -1596,6 +1636,24 @@
       "duration_ms": 246430,
       "name": "Dile Que - Original Mix",
       "url": "https://open.spotify.com/track/3LfUI8MFuiJTCwuUcqv7ng"
+    },
+    {
+      "album": {
+        "name": "Diluvio",
+        "url": "https://open.spotify.com/album/09YqQh4UDSidW3LLJZteIw"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178211,
+      "name": "Diluvio",
+      "url": "https://open.spotify.com/track/1ktxjDVHlAqnzmbmzgKoZC"
     },
     {
       "album": {
@@ -2357,6 +2415,28 @@
     },
     {
       "album": {
+        "name": "Justi\u00e7a EP",
+        "url": "https://open.spotify.com/album/4jlunifPdEPVEVShNZYhrY"
+      },
+      "artists": [
+        {
+          "name": "OldChild",
+          "url": "https://open.spotify.com/artist/0ASxOxyFC1JcjhnYxmldls"
+        },
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Justi\u00e7a",
+      "url": "https://open.spotify.com/track/773tughXqcLU5ztfWVyEsk"
+    },
+    {
+      "album": {
         "name": "Kuba",
         "url": "https://open.spotify.com/album/1oWdKRkVfVM1dIyTCXQbP9"
       },
@@ -2748,7 +2828,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 148560,
       "name": "Levanta",
       "url": "https://open.spotify.com/track/2uitOFTk6M7eI8TB5I3J2B"
@@ -3143,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Monaco EP",
+        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200307,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
+    },
+    {
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc"
       },
@@ -3476,7 +3574,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 200314,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/6e1n2hJalQwUKjwosm5iwZ"
@@ -4556,7 +4654,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 147840,
       "name": "Tumba la Casa",
       "url": "https://open.spotify.com/track/0FLjpOTxvokthyij5x5uyt"
@@ -4638,7 +4736,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 190393,
       "name": "T\u00f3cate",
       "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
@@ -4944,7 +5042,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 169875,
       "name": "Whine Up",
       "url": "https://open.spotify.com/track/1bbxfTnS17w2D8UXo12dHj"

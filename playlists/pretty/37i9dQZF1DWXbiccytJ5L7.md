@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,702 likes - 98 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,803 likes - 98 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 24 | [Dragging Me Down](https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Kendall Tucker](https://open.spotify.com/artist/37FPXnVFHhkzmJPfym2ZOK), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dragging Me Down](https://open.spotify.com/album/3mrWh51A1iKLqyELCC0NUr) | 3:18 |
 | 25 | [Ain't Nothin' Free \(feat\. SB the Queen\)](https://open.spotify.com/track/6bd26YDDjUM8Zflkb5Nine) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [SB the Queen](https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa) | [Ain't Nothin' Free \(feat\. SB the Queen\)](https://open.spotify.com/album/3IYqdJ67ZAPcUZCtCRcqEd) | 3:20 |
 | 26 | [Hot Sauce](https://open.spotify.com/track/3STVAAAa4TasjdcYPMtbJN) | [HoodBillies](https://open.spotify.com/artist/3uaiFUf9Mgy2Bf5gVsH4P2), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Hoodbillies](https://open.spotify.com/album/5GvnX7ydKmQLN5IqzbOxsf) | 1:49 |
-| 27 | [Campfire Cologne](https://open.spotify.com/track/1fslCOmxtyPvE55p3KVTWY) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Ryan Upchurch](https://open.spotify.com/artist/2TQ2YAxUktGmAJkUyQJMBa) | [Jones In Ya Speaker](https://open.spotify.com/album/0CehH8vI5ZodVx7U88ArOk) | 3:16 |
+| 27 | [Campfire Cologne](https://open.spotify.com/track/1fslCOmxtyPvE55p3KVTWY) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Jones In Ya Speaker](https://open.spotify.com/album/0CehH8vI5ZodVx7U88ArOk) | 3:16 |
 | 28 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 |
 | 29 | [All The Girls Wanna Ride](https://open.spotify.com/track/4u4JqBap9AgXwHMH90pKTl) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Kuntry](https://open.spotify.com/album/6EquuFDUflWCLiB6Rc6dsE) | 3:25 |
 | 30 | [Kuntry Till I Die](https://open.spotify.com/track/3KXgEbDeVZc8AeOKQkt7hw) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [SB the Queen](https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa) | [Kuntry Till I Die](https://open.spotify.com/album/5UphQrCEMtGP9d2jTDbl02) | 4:02 |

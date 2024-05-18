@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH?si=zR0S6l00StOt0\_QKVI4syQ">Yoav</a> & <a href="https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=6sFlRiF0RPGbjOzsDZibMA">Jabulile Majola</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,555 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,559 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

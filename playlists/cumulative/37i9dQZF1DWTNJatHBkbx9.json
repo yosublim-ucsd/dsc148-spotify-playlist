@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 138461,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/5lAuNmFdgHCFgwAPp1WYnJ"
@@ -390,6 +390,28 @@
       "duration_ms": 174666,
       "name": "Feels Like Magic",
       "url": "https://open.spotify.com/track/6hE9eQNiZDdbHpaxPcSqjD"
+    },
+    {
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/4aQ8zK4K5FGQUHUOM4bwwc"
+      },
+      "artists": [
+        {
+          "name": "CozyPols",
+          "url": "https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL"
+        },
+        {
+          "name": "Insvne Auggie",
+          "url": "https://open.spotify.com/artist/2dNjqvomsDbN1XCYM6wlod"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/45m2Q8cga0lcjRyS2cLwe5"
     },
     {
       "album": {
@@ -696,7 +718,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 132049,
       "name": "Mango",
       "url": "https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq"
@@ -718,6 +740,24 @@
       "duration_ms": 180706,
       "name": "Menko Me Hemaa",
       "url": "https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU"
+    },
+    {
+      "album": {
+        "name": "NO LOVE",
+        "url": "https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY"
+      },
+      "artists": [
+        {
+          "name": "Auds",
+          "url": "https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164205,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM"
     },
     {
       "album": {

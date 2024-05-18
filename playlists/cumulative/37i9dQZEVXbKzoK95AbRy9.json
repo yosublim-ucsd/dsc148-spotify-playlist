@@ -332,7 +332,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 124511,
       "name": "Canudinho - Ao Vivo",
       "url": "https://open.spotify.com/track/1OwoPY7wYgKQIyl9maWmSM"
@@ -1126,6 +1126,28 @@
       "duration_ms": 174727,
       "name": "ENTRA NA DEFENDER",
       "url": "https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3"
+    },
+    {
+      "album": {
+        "name": "Equivocada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1DtqMgoWe5pdqFUuk5Bh6n"
+      },
+      "artists": [
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207194,
+      "name": "Equivocada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Jhkk1FIV7tMH9CZATjxrf"
     },
     {
       "album": {
@@ -1973,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "MINHA EX",
+        "url": "https://open.spotify.com/album/1cKi0Jz4VBjuHLUdEyKbI4"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134516,
+      "name": "MINHA EX",
+      "url": "https://open.spotify.com/track/6Szybvvxu3Hd0PfTR1EzwS"
+    },
+    {
+      "album": {
         "name": "Morena (Ao Vivo)",
         "url": "https://open.spotify.com/album/5EfQ5PwczBX8nsllntPnLK"
       },
@@ -2376,7 +2416,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 127384,
       "name": "POCPOC",
       "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
@@ -2648,7 +2688,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 192000,
       "name": "Rol\u00e9 na Favela de Nave",
       "url": "https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh"

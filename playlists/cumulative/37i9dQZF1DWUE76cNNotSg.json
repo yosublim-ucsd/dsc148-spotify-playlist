@@ -1703,6 +1703,32 @@
     },
     {
       "album": {
+        "name": "Outgrown: B-Sides",
+        "url": "https://open.spotify.com/album/4AyMINhJaz8tENwJ9dee3c"
+      },
+      "artists": [
+        {
+          "name": "Houis",
+          "url": "https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF"
+        },
+        {
+          "name": "Blush'ko",
+          "url": "https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw"
+        },
+        {
+          "name": "De Rien",
+          "url": "https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203498,
+      "name": "Daydreamin' - De Rien Remix",
+      "url": "https://open.spotify.com/track/0oXr18HpsJlyhVhnKBNh1O"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
       },
@@ -2494,7 +2520,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 116275,
       "name": "FEEL LIKE",
       "url": "https://open.spotify.com/track/5z2tSkCgcqRj1Zei6F3BTf"
@@ -4772,7 +4798,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 165789,
       "name": "Lovely Day - Austin Millz Remix",
       "url": "https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy"
@@ -5420,6 +5446,24 @@
       "duration_ms": 227294,
       "name": "Move You",
       "url": "https://open.spotify.com/track/636Tfd3B6teJFB3L6ToVkC"
+    },
+    {
+      "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "album": {
@@ -7244,7 +7288,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 226120,
       "name": "So Good to Me - Radio Edit",
       "url": "https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k"
@@ -7982,6 +8026,28 @@
       "duration_ms": 198000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5EOqiwraZrbF6metpe4F3u"
+    },
+    {
+      "album": {
+        "name": "tell me what you need",
+        "url": "https://open.spotify.com/album/3xqC9HrPLBSQ920GRaqlit"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "Kronol",
+          "url": "https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225794,
+      "name": "tell me what you need",
+      "url": "https://open.spotify.com/track/4HLr5xPnHuS0WkqLwukxzU"
     },
     {
       "album": {

@@ -978,7 +978,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 148118,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/7q44fdiZgGQpALVU1bFvog"
@@ -3089,6 +3089,32 @@
     },
     {
       "album": {
+        "name": "Party Like The 80s (w/ asteria & kets4eki)",
+        "url": "https://open.spotify.com/album/4344P6IpfJORVbqtsn6axP"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166438,
+      "name": "Party Like The 80s (w/ asteria & kets4eki)",
+      "url": "https://open.spotify.com/track/3XOXq8XRUukhuLmRBVKhi1"
+    },
+    {
+      "album": {
         "name": "PARTY!",
         "url": "https://open.spotify.com/album/7Fs2cOXsv97ZlKYgw7R2r2"
       },
@@ -3104,7 +3130,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 113985,
       "name": "PARTY!",
       "url": "https://open.spotify.com/track/7MrFdGOmZB33NZRQUnMYKn"
@@ -3430,6 +3456,28 @@
       "duration_ms": 163632,
       "name": "runaway girl",
       "url": "https://open.spotify.com/track/2lP4HXZCxBEk4pu4dv0P8f"
+    },
+    {
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/6fN1ijjm75vtLaetlir1qE"
+      },
+      "artists": [
+        {
+          "name": "pluto",
+          "url": "https://open.spotify.com/artist/3uFkM20bHYbCDR5E1u0yGX"
+        },
+        {
+          "name": "Clover!",
+          "url": "https://open.spotify.com/artist/32cxkkzCHntC7KY72NOyHD"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110058,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/32al0E3UafdMmOytlHwOK4"
     },
     {
       "album": {
@@ -4215,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "VULTURES.",
+        "url": "https://open.spotify.com/album/6sMu1eI4V6yEeYbtSNfXuT"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203007,
+      "name": "VULTURES.",
+      "url": "https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD"
+    },
+    {
+      "album": {
         "name": "waiting alonE",
         "url": "https://open.spotify.com/album/342UvGijO1QgI9wQFXDq9m"
       },
@@ -4310,7 +4376,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 155675,
       "name": "Won't Last Long",
       "url": "https://open.spotify.com/track/5yeNAyTWcAXGlRUinVjmjQ"

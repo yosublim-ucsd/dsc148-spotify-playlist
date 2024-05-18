@@ -1699,6 +1699,28 @@
     },
     {
       "album": {
+        "name": "Louloua",
+        "url": "https://open.spotify.com/album/16qzDSHZVmTOFNgJez0DqP"
+      },
+      "artists": [
+        {
+          "name": "Maii Waleed",
+          "url": "https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8"
+        },
+        {
+          "name": "Zeid Hamdan",
+          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250169,
+      "name": "Louloua",
+      "url": "https://open.spotify.com/track/18D5vLLBehtz7zH7pJdvzL"
+    },
+    {
+      "album": {
         "name": "Lw",
         "url": "https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL"
       },
@@ -2994,6 +3016,24 @@
       "duration_ms": 236000,
       "name": "Ya Thalam Ya Kabes",
       "url": "https://open.spotify.com/track/4NikczXsuYD29AMrHcx90I"
+    },
+    {
+      "album": {
+        "name": "Ya Waladi",
+        "url": "https://open.spotify.com/album/2h0Xnc0qp8ABNOpkmcQRGZ"
+      },
+      "artists": [
+        {
+          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
+          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192640,
+      "name": "Ya Waladi",
+      "url": "https://open.spotify.com/track/7zbYGEskyxeEosmYlbDXSa"
     },
     {
       "album": {

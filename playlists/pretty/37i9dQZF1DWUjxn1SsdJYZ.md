@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: YNG Martyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,052 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,062 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 9 | [Mashallah](https://open.spotify.com/track/6IzSh3p8d9LaZemZi7FP6o) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg) | [Mashallah](https://open.spotify.com/album/3C3eOgWokMuwiakUnlIhDu) | 3:15 |
 | 10 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 |
 | 11 | [PRIDE \- EPISODE 2](https://open.spotify.com/track/5N32A33Xtf216gEBTUgnMr) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [PRIDE \(EPISODE 2\)](https://open.spotify.com/album/7g6h09Tv4ELd4OAqAVa4bu) | 2:15 |
-| 12 | [WTF \- Remix](https://open.spotify.com/track/6F9obVSOtG6Ncpt958idIj) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [Dom McLennon](https://open.spotify.com/artist/2gvHN6YzZW0bPpmyjeD6V9), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb), [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp) | [WTF \(Remix\)](https://open.spotify.com/album/6RI1q4hMH3UQNTWMwZzzIp) | 3:15 |
+| 12 | [WTF \- Remix](https://open.spotify.com/track/6F9obVSOtG6Ncpt958idIj) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [Dom McLennon](https://open.spotify.com/artist/2gvHN6YzZW0bPpmyjeD6V9), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [WTF \(Remix\)](https://open.spotify.com/album/6RI1q4hMH3UQNTWMwZzzIp) | 3:15 |
 | 13 | [COOCHIE](https://open.spotify.com/track/4i0kprJ8Rn4nPNcWxGsUSq) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [COOCHIE](https://open.spotify.com/album/0BGTEPeZgqVSyiP8gL4P8H) | 2:12 |
 | 14 | [I SEE RED \(feat\. REI AMI\)](https://open.spotify.com/track/3ZNHOPnbBKJxI3V0K0Uy3Y) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [I SEE RED \(feat\. REI AMI\)](https://open.spotify.com/album/1evaU8UGMvmi3jWw5QAfjD) | 2:34 |
 | 15 | [Get This Money](https://open.spotify.com/track/5sIrMZ6w6IFPz8a1mwVwbT) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Get This Money](https://open.spotify.com/album/48V3QRGOHau4uNtltrdYl3) | 2:34 |

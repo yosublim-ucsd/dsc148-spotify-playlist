@@ -759,6 +759,28 @@
     },
     {
       "album": {
+        "name": "Blue Berries",
+        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170008,
+      "name": "Blue Berries",
+      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
+    },
+    {
+      "album": {
         "name": "Body Funk (Edit)",
         "url": "https://open.spotify.com/album/3Mr7LVhsxJJxglxRaqORpa"
       },
@@ -952,7 +974,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -1178,6 +1200,28 @@
       "duration_ms": 154831,
       "name": "Dancing Shoes (Take Me Higher)",
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+    },
+    {
+      "album": {
+        "name": "Dare Myself",
+        "url": "https://open.spotify.com/album/7r3ElS2Mx1qcnqAkSRb0Tc"
+      },
+      "artists": [
+        {
+          "name": "Saison",
+          "url": "https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7"
+        },
+        {
+          "name": "Amy Douglas",
+          "url": "https://open.spotify.com/artist/6lm52aALA9NKQv1ChQmSBr"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Dare Myself",
+      "url": "https://open.spotify.com/track/5dshM1MWptTNO28moXy3OL"
     },
     {
       "album": {
@@ -1587,6 +1631,32 @@
     },
     {
       "album": {
+        "name": "Don't Wait",
+        "url": "https://open.spotify.com/album/3bZr6UwTPR2aa95zDD3atU"
+      },
+      "artists": [
+        {
+          "name": "ROMBE4T",
+          "url": "https://open.spotify.com/artist/5r89seDhq5dnVWpQ7y0wHQ"
+        },
+        {
+          "name": "Doche",
+          "url": "https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220297,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/2tOBWr8LizDOl2pPDOdzyY"
+    },
+    {
+      "album": {
         "name": "Don't You Want My Love",
         "url": "https://open.spotify.com/album/3XJn2zdSVAJfUk7VNw11E2"
       },
@@ -1884,7 +1954,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
@@ -2024,6 +2094,24 @@
       "duration_ms": 151967,
       "name": "Family (feat. El Boogie)",
       "url": "https://open.spotify.com/track/6X6HvqcAThorTz88ereWUF"
+    },
+    {
+      "album": {
+        "name": "Finally Free",
+        "url": "https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg"
+      },
+      "artists": [
+        {
+          "name": "Kossisko",
+          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282283,
+      "name": "Finally Free",
+      "url": "https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf"
     },
     {
       "album": {
@@ -2759,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "album": {
         "name": "Higher Ground (feat. Roosevelt)",
         "url": "https://open.spotify.com/album/7cOtzEm2d848DVGKfrgSip"
       },
@@ -3171,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/1eDkTJGusL0TYZEzxH4vbb"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165375,
+      "name": "In My Soul",
+      "url": "https://open.spotify.com/track/0DkWdu3IQVFzNxVqLC6iKC"
+    },
+    {
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/6fK2iNnPSjak23iOthPngs"
       },
@@ -3236,7 +3360,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 199512,
       "name": "ITALODISCO - English Version",
       "url": "https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ"
@@ -4028,7 +4152,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 149760,
       "name": "Love Is No Game - Edit",
       "url": "https://open.spotify.com/track/5DnaTchFyfDq1IEBjYFNm4"
@@ -4242,6 +4366,24 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+    },
+    {
+      "album": {
+        "name": "maillard reaction",
+        "url": "https://open.spotify.com/album/7ydRbBA6JONxSiy7aRkdw1"
+      },
+      "artists": [
+        {
+          "name": "DJ burgerhead",
+          "url": "https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276480,
+      "name": "maillard reaction",
+      "url": "https://open.spotify.com/track/5Qcm5ayk9wPTPpTv37SISk"
     },
     {
       "album": {
@@ -4476,7 +4618,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 163200,
       "name": "MIRAGE",
       "url": "https://open.spotify.com/track/54mV0DlnqaW0VZ329h4QUR"
@@ -4560,7 +4702,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s"
@@ -5326,7 +5468,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 181709,
       "name": "Only Tonight",
       "url": "https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k"
@@ -6277,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "Sex on Fire",
+        "url": "https://open.spotify.com/album/0jNAFmoykutJmxjxzZuwm0"
+      },
+      "artists": [
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Sex on Fire (Disco Mix)",
+      "url": "https://open.spotify.com/track/7pn1zBl8bSOzvhleJrFgwY"
+    },
+    {
+      "album": {
         "name": "She's a Lady (Disco Mix)",
         "url": "https://open.spotify.com/album/7IO47OClgjkDi6qbDUxmjs"
       },
@@ -7112,7 +7272,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 189120,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/4zS12BcY2vYLU0Id2Dcma0"
@@ -7764,7 +7924,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 191533,
       "name": "Zero",
       "url": "https://open.spotify.com/track/7hlbz0g2tpoBTPvLLEWKWR"

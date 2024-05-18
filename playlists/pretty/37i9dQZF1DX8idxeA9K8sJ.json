@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana.",
-  "num_followers": 930492,
+  "num_followers": 930553,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "Louis",
-      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 201693,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3KOqFaJbPoJohjoV29TjtB"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Louis",
+      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -991,8 +991,8 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
       },
       "artists": [
         {
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 231440,
-      "name": "No Me Digas Que Te Vas",
-      "url": "https://open.spotify.com/track/7cKJU8WACX7lx5TBTNgzFT"
+      "duration_ms": 220466,
+      "name": "\u00bfY Qui\u00e9n Puede Ser?",
+      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Tu Amante o Tu Enemigo",
-      "url": "https://open.spotify.com/track/2xFcw6Oo4FsrO22fj1O8SA"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
         "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 222733,
       "name": "Dime",
       "url": "https://open.spotify.com/track/14YBXNrQqx6SuHNbG8Awfz"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
+      },
+      "artists": [
+        {
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Tu Amante o Tu Enemigo",
+      "url": "https://open.spotify.com/track/2xFcw6Oo4FsrO22fj1O8SA"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Duri Duri",
-        "url": "https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5"
-      },
-      "artists": [
-        {
-          "name": "Click",
-          "url": "https://open.spotify.com/artist/0crIJAch9BFQ3Q3RA9bY8w"
-        }
-      ],
-      "duration_ms": 294870,
-      "name": "Duri Duri (Baila Baila)",
-      "url": "https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Antolog\u00eda",
         "url": "https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Siempre Karina",
-        "url": "https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6"
+        "name": "Duri Duri",
+        "url": "https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX"
+          "name": "Click",
+          "url": "https://open.spotify.com/artist/0crIJAch9BFQ3Q3RA9bY8w"
         }
       ],
-      "duration_ms": 235760,
-      "name": "A Quien",
-      "url": "https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa"
+      "duration_ms": 294870,
+      "name": "Duri Duri (Baila Baila)",
+      "url": "https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1487,6 +1471,22 @@
       "duration_ms": 234413,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/05pV7ZVVTssQgyZN98SHrV"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Siempre Karina",
+        "url": "https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "A Quien",
+      "url": "https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Autos, Moda Y Rock And Roll",
-        "url": "https://open.spotify.com/album/2UfcQEVPb2iE5WhNaZu1Uo"
-      },
-      "artists": [
-        {
-          "name": "Fandango",
-          "url": "https://open.spotify.com/artist/0K4nxvAJBnfObOL3vkJhc0"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Autos, Moda Y Rock N Roll",
-      "url": "https://open.spotify.com/track/5JiRlyOGE2EYvzLyex6pdK"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Celebridades- Mijares",
         "url": "https://open.spotify.com/album/754knedaR3meZPGrnCf1Hf"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 219666,
       "name": "Soldado Del Amor",
       "url": "https://open.spotify.com/track/2kJaoWF0iUmqma7fp9HPkh"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Autos, Moda Y Rock And Roll",
+        "url": "https://open.spotify.com/album/2UfcQEVPb2iE5WhNaZu1Uo"
+      },
+      "artists": [
+        {
+          "name": "Fandango",
+          "url": "https://open.spotify.com/artist/0K4nxvAJBnfObOL3vkJhc0"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Autos, Moda Y Rock N Roll",
+      "url": "https://open.spotify.com/track/5JiRlyOGE2EYvzLyex6pdK"
     },
     {
       "added_at": "2020-06-24 19:34:30",

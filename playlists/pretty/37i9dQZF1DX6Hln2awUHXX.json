@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 99031,
+  "num_followers": 99045,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -211,38 +211,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner, R.: Scenes From Lohengrin and Siegfried",
-        "url": "https://open.spotify.com/album/2htClWD3UiaNgEtDUx9Cj4"
-      },
-      "artists": [
-        {
-          "name": "John Horton Murray",
-          "url": "https://open.spotify.com/artist/7g0VtyqpZFiDi5UPrLbk4g"
-        },
-        {
-          "name": "Margaret Jane Wray",
-          "url": "https://open.spotify.com/artist/4zoBqWFk6IiDwesAxMtrZO"
-        },
-        {
-          "name": "Bolshoi Theatre Chorus",
-          "url": "https://open.spotify.com/artist/5rC33RKPQ0QEc6PoL9Ezj4"
-        },
-        {
-          "name": "Russian State Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0DJZPK3nRWESIS0yexi6Qi"
-        },
-        {
-          "name": "John McGlinn",
-          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
-        }
-      ],
-      "duration_ms": 321120,
-      "name": "Lohengrin: Treulich gefuhrt ziehet dahin",
-      "url": "https://open.spotify.com/track/77Vw9pWmr1T9V9cs1RuU6l"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner, R.: Opera Choruses",
         "url": "https://open.spotify.com/album/1wVF8Dk5edlkztLyNs39Oh"
       },
@@ -323,6 +291,38 @@
       "duration_ms": 329146,
       "name": "Tristan und Isolde, WWV 90, Act I Scene 3: O Wunder! Wo hatt' ich die Augen? (Brangane, Tristan)",
       "url": "https://open.spotify.com/track/4cgx0zIWlLYXCXphMlFEzG"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner, R.: Scenes From Lohengrin and Siegfried",
+        "url": "https://open.spotify.com/album/2htClWD3UiaNgEtDUx9Cj4"
+      },
+      "artists": [
+        {
+          "name": "John Horton Murray",
+          "url": "https://open.spotify.com/artist/7g0VtyqpZFiDi5UPrLbk4g"
+        },
+        {
+          "name": "Margaret Jane Wray",
+          "url": "https://open.spotify.com/artist/4zoBqWFk6IiDwesAxMtrZO"
+        },
+        {
+          "name": "Bolshoi Theatre Chorus",
+          "url": "https://open.spotify.com/artist/5rC33RKPQ0QEc6PoL9Ezj4"
+        },
+        {
+          "name": "Russian State Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0DJZPK3nRWESIS0yexi6Qi"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Lohengrin: Treulich gefuhrt ziehet dahin",
+      "url": "https://open.spotify.com/track/77Vw9pWmr1T9V9cs1RuU6l"
     },
     {
       "added_at": "2022-06-28 08:58:25",

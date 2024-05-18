@@ -3179,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "California (\u597d\u9b3c\u6b7b\u6d6a\u6f2b)",
+        "url": "https://open.spotify.com/album/7m89UNillV51zntHOksawo"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        },
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263778,
+      "name": "California (\u597d\u9b3c\u6b7b\u6d6a\u6f2b)",
+      "url": "https://open.spotify.com/track/2Fsqwg6OCrNEcjpUTorvWF"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
       },

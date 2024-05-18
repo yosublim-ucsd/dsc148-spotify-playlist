@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Eladio Carrion.
 
-441 songs - 1 day 1 hr 5 min
+442 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [De las Shox a las Scorch](https://open.spotify.com/track/2i6PWZFkF8gnz668hT4sVX) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [PPP](https://open.spotify.com/album/1lsa2UwevjmI1Ud8JxvYPa) | 3:26 | 2024-02-09 | 2024-03-30 |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-12-06 | 2022-06-04 |
 | [Dejar Atrás / Rompe Corazones](https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 4:05 | 2021-12-06 | 2022-11-26 |
+| [DEMONIOS \(with NTG\)](https://open.spotify.com/track/09ZgL6vtzQR9Cpfni7QatK) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [FINALMENTE LIBRE](https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49) | 3:15 | 2024-05-17 |  |
 | [Desahogo](https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Desahogo](https://open.spotify.com/album/2YtJX0cvKYb15qco5fmkBn) | 3:28 | 2021-12-06 | 2022-06-01 |
 | [Desahogo](https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 4:01 | 2023-03-31 | 2023-06-24 |
 | [Diamantes en Mis Dientes](https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Diamantes En Mis Dientes](https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT) | 5:44 | 2022-11-25 | 2024-03-02 |
@@ -263,7 +264,7 @@
 | [Mi Bruja](https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Mi Bruja](https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6) | 2:37 | 2023-08-15 | 2023-10-14 |
 | [MI CIUDAD](https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [MI CIUDAD](https://open.spotify.com/album/05uxQGOTCeBXhdofQ9U15S) | 3:40 | 2023-09-01 |  |
 | [Mi Vicio \- Remix](https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Mi Vicio \(Remix\)](https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr) | 4:44 | 2023-04-28 | 2023-09-02 |
-| [mi último peso](https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU) | [Foking](https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [DommoBeats](https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc) | [mi último peso](https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT) | 2:20 | 2024-03-01 |  |
+| [mi último peso](https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU) | [Foking](https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [DommoBeats](https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc) | [mi último peso](https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT) | 2:20 | 2024-03-01 | 2024-05-18 |
 | [Michael Jackson](https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/2q5fSdsR4ZNFFQHkrxWJmz) | 1:49 | 2022-06-17 | 2022-07-29 |
 | [Michael Jackson](https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63) | 1:49 | 2022-07-22 | 2022-12-03 |
 | [Milloneta](https://open.spotify.com/track/0J3FgRoTsES47PXTfGgLez) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Milloneta](https://open.spotify.com/album/16h3UMUGcr2MrWi0Durs5W) | 3:38 | 2021-12-06 | 2022-11-17 |

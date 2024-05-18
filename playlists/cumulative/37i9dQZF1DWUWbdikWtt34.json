@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
+  "description": "Dendang Dangdut teratas. Cover: Owan",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -2480,6 +2480,24 @@
       "duration_ms": 264540,
       "name": "Semarang Ngawi",
       "url": "https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw"
+    },
+    {
+      "album": {
+        "name": "Sembuhkan Luka",
+        "url": "https://open.spotify.com/album/5v3NSApUPB4AnzL4CbBxW5"
+      },
+      "artists": [
+        {
+          "name": "Owan",
+          "url": "https://open.spotify.com/artist/6giTizAzwDJX3wOqcRfwTH"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383636,
+      "name": "Sembuhkan Luka",
+      "url": "https://open.spotify.com/track/6Ab00lWVCOskvKQMwdHnda"
     },
     {
       "album": {

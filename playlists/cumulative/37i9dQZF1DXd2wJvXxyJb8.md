@@ -2,9 +2,9 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> não preocupa mamae ama mamae cuida!!!! MADONNA and PV BRASIL LOVES YOU
+> nananananã na na na na nanananananã nã nana nana
 
-408 songs - 19 hr 14 min
+409 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Hino Nacional Funk](https://open.spotify.com/track/6v6zeeNg8luclQngcotmAB) | [MC UVINHA](https://open.spotify.com/artist/2irBXtnuhG7FJpHj62JekR), [Belzzerk](https://open.spotify.com/artist/52y6eaawwDOYYJt02k3npY) | [Fui ao Mercado](https://open.spotify.com/album/0NzhUCGpqvP5nM5LPBbYqi) | 2:13 | 2022-11-28 | 2023-01-07 |
 | [Hoje Eu Brotei no Baile da Parô](https://open.spotify.com/track/5U4YFZlyho2l0kO41VWqbL) | [DJ CIRILO DE CAXIAS](https://open.spotify.com/artist/4vU3LV354CpezI42tPRiVN), [Mc Leon](https://open.spotify.com/artist/1PPdy8eAqUw8WwQw5jb4Gd) | [Hoje Eu Brotei no Baile da Parô](https://open.spotify.com/album/6WbEbUssofV6apXFc74XVD) | 2:39 | 2022-05-26 | 2022-07-23 |
 | [Hoje Eu Quero Perereca no Morro do Sapo](https://open.spotify.com/track/0rEAn1rQzQ3SzK46LfQAbm) | [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1) | [Hoje Eu Quero Perereca no Morro do Sapo](https://open.spotify.com/album/3kJ9R85S336L7eTpbBvlTZ) | 2:17 | 2022-05-26 | 2022-10-08 |
-| [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2024-05-03 |  |
+| [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2024-05-03 | 2024-05-18 |
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes \(Anniversary Edition\)](https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl) | 4:39 | 2022-07-28 | 2022-08-09 |
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 | 2022-05-26 | 2022-07-29 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-19 |  |
@@ -357,6 +357,7 @@
 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Andrezin Araújo](https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf), [Dj Kevin Oficial](https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 | 2023-12-13 | 2024-04-20 |
 | [Tenho Que Me Decidir](https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 3:52 | 2024-01-04 |  |
 | [Teu Amigo Cuidou](https://open.spotify.com/track/44rtgsXvDPiJhxmqv0d2Pr) | [Mariana Reis](https://open.spotify.com/artist/3krfXUuYooEgUlJz32Enbb) | [Ao Vivo Abril 2022](https://open.spotify.com/album/5PvSUWL61aVF1Z1pQjUESX) | 3:33 | 2022-07-04 | 2022-08-05 |
+| [THE BOX MEDLEY FUNK 2](https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy) | 4:26 | 2024-05-17 |  |
 | [Tiffany](https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:32 | 2022-05-26 | 2022-07-29 |
 | [Tiffany](https://open.spotify.com/track/5soSqklbrft67wPAkQrfzR) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Atg Tape](https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo) | 2:32 | 2022-07-28 | 2022-09-22 |
 | [Tipo Hollywood](https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa) | [Mc Ws da leste](https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C), [MC Cothiê](https://open.spotify.com/artist/0TfWqqSFcyuhcNnp5oL83k) | [Tipo Hollywood](https://open.spotify.com/album/4KTN4Sx4Dp1G3MrgUTcZv6) | 1:49 | 2023-11-08 | 2023-12-21 |

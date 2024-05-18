@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "100 Yrs",
+        "url": "https://open.spotify.com/album/1U7lpOlgH6erHtuYCoXLfw"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186534,
+      "name": "100 Yrs",
+      "url": "https://open.spotify.com/track/4KCIIUBjU0mfYQmZGnGg5o"
+    },
+    {
+      "album": {
         "name": "Shiners Are Forever",
         "url": "https://open.spotify.com/album/15xQHdl4XG9vWf7dU48IBX"
       },
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 126627,
       "name": "Ain't Goin",
       "url": "https://open.spotify.com/track/4mxgBzqjxVeqsCYwJXgydM"
@@ -2092,7 +2110,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 198485,
       "name": "Back From The Dead",
       "url": "https://open.spotify.com/track/3Uda0y71R8mHiYKmvrI8Rf"
@@ -4604,7 +4622,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 175377,
       "name": "CHILDREN OF THE SLUMS",
       "url": "https://open.spotify.com/track/6xTd7UidPoM8IQ7ONnqxaP"
@@ -5496,6 +5514,24 @@
       "duration_ms": 201480,
       "name": "Deadicated",
       "url": "https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN"
+    },
+    {
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/6YMwAuclDCYoo0D0fpwFyC"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146320,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/1yZpdHZpwnnT7Evpo7W2ZX"
     },
     {
       "album": {
@@ -7949,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "Fuck Around & Find Out",
+        "url": "https://open.spotify.com/album/4WPMyya2jn2GoVAEHEUBr8"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150153,
+      "name": "Fuck Around & Find Out",
+      "url": "https://open.spotify.com/track/61KPSucpAHpMNo1AxjsVMT"
+    },
+    {
+      "album": {
         "name": "Nightmares In the Trenches",
         "url": "https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU"
       },
@@ -9307,7 +9361,7 @@
       "artists": [
         {
           "name": "DJ Bandz",
-          "url": "https://open.spotify.com/artist/7KnXSV7gkQLmGczm2akVOk"
+          "url": "https://open.spotify.com/artist/5udyUlqdlwMbNkGseDKypM"
         },
         {
           "name": "Fivio Foreign",
@@ -9452,7 +9506,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 185749,
       "name": "Guwop & Gizzle",
       "url": "https://open.spotify.com/track/3GwwZmjEAo65jUZSQveNvJ"
@@ -9914,6 +9968,24 @@
       "duration_ms": 145057,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7iL4ZEt5ReMuK61ADBznCw"
+    },
+    {
+      "album": {
+        "name": "Still King",
+        "url": "https://open.spotify.com/album/4ixnEoLRXXdTiZjJ1Brz9x"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144493,
+      "name": "HERE COME THEM KILLAS",
+      "url": "https://open.spotify.com/track/3RcMaUNVButHp2Jab3UFwN"
     },
     {
       "album": {
@@ -10702,7 +10774,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 155062,
       "name": "I Did It",
       "url": "https://open.spotify.com/track/5Y4mqBm9Sd6rxC56NjLKuc"
@@ -11392,6 +11464,28 @@
       "duration_ms": 190840,
       "name": "In Dat Mode (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/1g6xClUkUvGIPMniK1xMEJ"
+    },
+    {
+      "album": {
+        "name": "In The Air (feat. Rylo Rodriguez)",
+        "url": "https://open.spotify.com/album/7IIQC0KUOuoCyjOlXFEMkm"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246360,
+      "name": "In The Air (feat. Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/4y9XkoxMmpRSIjYKVmB8Ew"
     },
     {
       "album": {
@@ -15192,7 +15286,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 210143,
       "name": "Must Be Me",
       "url": "https://open.spotify.com/track/6Cxc9tL1sMdivV1Quh0yjZ"
@@ -15738,7 +15832,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 142080,
       "name": "No Hook 2",
       "url": "https://open.spotify.com/track/2eLrDMQnosvAOTzoZ8bRZZ"
@@ -17116,7 +17210,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 102047,
       "name": "Opps On Deck",
       "url": "https://open.spotify.com/track/5DTfAQZLAJgpFEVvQI3nYO"
@@ -20867,6 +20961,24 @@
     },
     {
       "album": {
+        "name": "Still King",
+        "url": "https://open.spotify.com/album/4ixnEoLRXXdTiZjJ1Brz9x"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213120,
+      "name": "SHAWN CARTER",
+      "url": "https://open.spotify.com/track/2PUgPO1HMpSDw7nHI4nypq"
+    },
+    {
+      "album": {
         "name": "She Know It",
         "url": "https://open.spotify.com/album/1ICFfoob3eAfkiKtSWyZfx"
       },
@@ -23653,6 +23765,24 @@
     },
     {
       "album": {
+        "name": "The Warm Up",
+        "url": "https://open.spotify.com/album/3k8we0dTMGtINphGLPNNQe"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155138,
+      "name": "The Warm Up",
+      "url": "https://open.spotify.com/track/6bLLiQAShrb742zp2sdoai"
+    },
+    {
+      "album": {
         "name": "Under Investigation 3",
         "url": "https://open.spotify.com/album/4fLrea4VuVYG6EpJEARt4R"
       },
@@ -24262,7 +24392,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 146101,
       "name": "Touchdown",
       "url": "https://open.spotify.com/track/4y0sJA98NndKIZgakjkGkt"
@@ -25649,6 +25779,24 @@
     },
     {
       "album": {
+        "name": "Still King",
+        "url": "https://open.spotify.com/album/4ixnEoLRXXdTiZjJ1Brz9x"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147186,
+      "name": "WE GONE SLIDE",
+      "url": "https://open.spotify.com/track/2cRQFYzZRcYhTncbtljVgf"
+    },
+    {
+      "album": {
         "name": "We On It (feat. Dboylo)",
         "url": "https://open.spotify.com/album/5usObWbEH1bp2esxkRuoHk"
       },
@@ -26314,6 +26462,24 @@
       "duration_ms": 116250,
       "name": "Win For Losin",
       "url": "https://open.spotify.com/track/5FwOCUkCwiglj4MwGn04tB"
+    },
+    {
+      "album": {
+        "name": "Win Wit Us",
+        "url": "https://open.spotify.com/album/6flksMqL2DLGLq6lHc80md"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157898,
+      "name": "Win Wit Us",
+      "url": "https://open.spotify.com/track/1oIefhM6QIK2eXdbtiAhbg"
     },
     {
       "album": {

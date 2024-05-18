@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 8108787,
+  "num_followers": 8116239,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj42dgAAAACVuSkkpvhkWzCuWZoo636G",
+  "snapshot_id": "ZkdjywAAAAA5iuKxC6t+DCUzhKQ1A0+T",
   "tracks": [
     {
       "added_at": "2024-03-29 15:57:27",
@@ -97,6 +97,22 @@
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
       "added_at": "2023-10-20 10:30:53",
       "album": {
         "name": "Memphis Cult Vol. 6",
@@ -121,22 +137,6 @@
       "url": "https://open.spotify.com/track/2Dp5Rqruog8SR6x7UtlIpY"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
       "added_at": "2022-05-20 10:12:52",
       "album": {
         "name": "METAMORPHOSIS",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
-      "added_at": "2023-06-02 17:32:35",
-      "album": {
-        "name": "MONTAGEM - PR FUNK",
-        "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        }
-      ],
-      "duration_ms": 61673,
-      "name": "MONTAGEM - PR FUNK",
-      "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
-    },
-    {
       "added_at": "2023-12-01 14:11:37",
       "album": {
         "name": "BRODYAGA FUNK",
@@ -183,26 +167,6 @@
       "duration_ms": 134785,
       "name": "BRODYAGA FUNK",
       "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
-    },
-    {
-      "added_at": "2023-08-04 15:24:45",
-      "album": {
-        "name": "Memory Reboot",
-        "url": "https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "Narvent",
-          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
-        }
-      ],
-      "duration_ms": 209416,
-      "name": "Memory Reboot",
-      "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
     },
     {
       "added_at": "2024-04-12 15:41:29",
@@ -223,6 +187,42 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2023-06-02 17:32:35",
+      "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "duration_ms": 61673,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
+    },
+    {
+      "added_at": "2023-08-04 15:24:45",
+      "album": {
+        "name": "Memory Reboot",
+        "url": "https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "Narvent",
+          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+        }
+      ],
+      "duration_ms": 209416,
+      "name": "Memory Reboot",
+      "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
     },
     {
       "added_at": "2024-02-23 12:00:00",
@@ -259,26 +259,6 @@
       "duration_ms": 119736,
       "name": "Orquestra Maldita",
       "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
-    },
-    {
-      "added_at": "2023-06-09 13:51:36",
-      "album": {
-        "name": "BRAZILIAN DAN\u00c7A PHONK",
-        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
-      },
-      "artists": [
-        {
-          "name": "6YNTHMANE",
-          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
-        },
-        {
-          "name": "RXDXVIL",
-          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
-        }
-      ],
-      "duration_ms": 118194,
-      "name": "BRAZILIAN DAN\u00c7A PHONK",
-      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
     },
     {
       "added_at": "2023-10-06 14:17:07",
@@ -381,6 +361,26 @@
       "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
     },
     {
+      "added_at": "2023-06-09 13:51:36",
+      "album": {
+        "name": "BRAZILIAN DAN\u00c7A PHONK",
+        "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        }
+      ],
+      "duration_ms": 118194,
+      "name": "BRAZILIAN DAN\u00c7A PHONK",
+      "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
       "added_at": "2022-04-13 07:53:17",
       "album": {
         "name": "RAVE",
@@ -455,30 +455,6 @@
       "duration_ms": 119231,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza"
-    },
-    {
-      "added_at": "2024-05-03 16:00:00",
-      "album": {
-        "name": "Respeito",
-        "url": "https://open.spotify.com/album/5hb16jy47rIjFQRUKg2qIg"
-      },
-      "artists": [
-        {
-          "name": "Spreen",
-          "url": "https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ"
-        },
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Launch13",
-          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
-        }
-      ],
-      "duration_ms": 116100,
-      "name": "Respeito",
-      "url": "https://open.spotify.com/track/14E117Ikw43Vljys3fAsNU"
     },
     {
       "added_at": "2024-02-02 10:00:00",
@@ -977,34 +953,6 @@
       "url": "https://open.spotify.com/track/3xaNTJk9G0yoKkkjlkOYv5"
     },
     {
-      "added_at": "2024-02-23 12:00:00",
-      "album": {
-        "name": "Automotivo XM, Taka Taka Taka T\u00e1",
-        "url": "https://open.spotify.com/album/12djCPA2ISdr1H8jbU9lIY"
-      },
-      "artists": [
-        {
-          "name": "Dj Brunin XM",
-          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
-        },
-        {
-          "name": "Mc Lullu",
-          "url": "https://open.spotify.com/artist/62NFUnRQI3ctTgZdCquSHD"
-        },
-        {
-          "name": "Mc Erikah",
-          "url": "https://open.spotify.com/artist/0TxoLMLA79mHKkRRe2dxEs"
-        },
-        {
-          "name": "Kinechan",
-          "url": "https://open.spotify.com/artist/6av4qugr2BXsFc4BDGUzPF"
-        }
-      ],
-      "duration_ms": 131555,
-      "name": "Automotivo XM, Taka Taka Taka T\u00e1",
-      "url": "https://open.spotify.com/track/4rKg1ll9sfAvDa3sqeaL9C"
-    },
-    {
       "added_at": "2024-04-05 14:00:00",
       "album": {
         "name": "KRUSH GIRL",
@@ -1165,10 +1113,10 @@
       "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
     },
     {
-      "added_at": "2024-02-02 10:00:00",
+      "added_at": "2024-05-17 14:03:55",
       "album": {
-        "name": "ENOUGH!",
-        "url": "https://open.spotify.com/album/79JiT9zVDCmny1DRigOe9X"
+        "name": "DRESS!",
+        "url": "https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI"
       },
       "artists": [
         {
@@ -1176,9 +1124,49 @@
           "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
         }
       ],
-      "duration_ms": 90692,
-      "name": "ENOUGH!",
-      "url": "https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2"
+      "duration_ms": 90461,
+      "name": "DRESS!",
+      "url": "https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE"
+    },
+    {
+      "added_at": "2024-05-17 14:03:55",
+      "album": {
+        "name": "Eu Sento Gabu!",
+        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+      },
+      "artists": [
+        {
+          "name": "PXLWYSE",
+          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+        }
+      ],
+      "duration_ms": 83754,
+      "name": "Eu Sento Gabu!",
+      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
+    },
+    {
+      "added_at": "2024-05-03 16:00:00",
+      "album": {
+        "name": "Respeito",
+        "url": "https://open.spotify.com/album/5hb16jy47rIjFQRUKg2qIg"
+      },
+      "artists": [
+        {
+          "name": "Spreen",
+          "url": "https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ"
+        },
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Launch13",
+          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
+        }
+      ],
+      "duration_ms": 116100,
+      "name": "Respeito",
+      "url": "https://open.spotify.com/track/14E117Ikw43Vljys3fAsNU"
     },
     {
       "added_at": "2023-03-31 15:56:27",
@@ -1665,22 +1653,6 @@
       "url": "https://open.spotify.com/track/7Hfts60Jx2OV3AXbVqrX7a"
     },
     {
-      "added_at": "2024-03-08 15:34:20",
-      "album": {
-        "name": "JUJALARIM FUNK",
-        "url": "https://open.spotify.com/album/0w7rzFrOSsiGvChfXdpCjz"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "JUJALARIM FUNK",
-      "url": "https://open.spotify.com/track/7A9G0xZfgNVM17TvBysVzl"
-    },
-    {
       "added_at": "2023-10-06 14:17:07",
       "album": {
         "name": "BACK2BACK",
@@ -1839,6 +1811,22 @@
       "duration_ms": 144138,
       "name": "ASTRO",
       "url": "https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh"
+    },
+    {
+      "added_at": "2024-02-02 10:00:00",
+      "album": {
+        "name": "ENOUGH!",
+        "url": "https://open.spotify.com/album/79JiT9zVDCmny1DRigOe9X"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 90692,
+      "name": "ENOUGH!",
+      "url": "https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2"
     },
     {
       "added_at": "2023-09-15 14:15:29",

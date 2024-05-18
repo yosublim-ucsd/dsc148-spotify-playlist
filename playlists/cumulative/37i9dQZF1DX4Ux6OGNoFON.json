@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Saca, prende y sorprende con esta selecci\u00f3n de buenas vibras. Foto: Rawayana con Danny Ocean",
+  "description": "Saca, prende y sorprende con esta selecci\u00f3n de buenas vibras. Foto: Micro TDH",
   "name": "Volando con Reggae",
   "tracks": [
     {
@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "The Classics, Vol.2",
+        "url": "https://open.spotify.com/album/0JpljCD8RhPRAdsb5tzCOl"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195726,
+      "name": "El fantasma",
+      "url": "https://open.spotify.com/track/1deICC29CXML5wAejryEME"
+    },
+    {
+      "album": {
         "name": "Impulso",
         "url": "https://open.spotify.com/album/34HdlbBIJfvrkvwKAHaERc"
       },
@@ -632,7 +650,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 203665,
       "name": "En La Tormenta",
       "url": "https://open.spotify.com/track/7vqjWxhicufwoXsc6fBokL"

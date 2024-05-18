@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 315723,
       "name": "90s Baby",
       "url": "https://open.spotify.com/track/6yBBevO7I1HTgUcNMSPbis"
@@ -82,6 +82,24 @@
       "duration_ms": 237928,
       "name": "9mm",
       "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
+    },
+    {
+      "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     },
     {
       "album": {
@@ -756,7 +774,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 220545,
       "name": "Cheek",
       "url": "https://open.spotify.com/track/6WA8HxyPZzlYaY5xPE2LeL"
@@ -1981,6 +1999,36 @@
     },
     {
       "album": {
+        "name": "Heart Sped Up (BFF)",
+        "url": "https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116108,
+      "name": "Heart Sped Up (BFF)",
+      "url": "https://open.spotify.com/track/1ywCn7d9mHQ8PROIIZdVGL"
+    },
+    {
+      "album": {
         "name": "Heartbreak Repair System",
         "url": "https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV"
       },
@@ -2178,7 +2226,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 269137,
       "name": "I Miss U",
       "url": "https://open.spotify.com/track/3cVortvmdAWxXSnCNeaZ1B"
@@ -2368,7 +2416,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 215096,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG"
@@ -3881,6 +3929,24 @@
     },
     {
       "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4PQub1Epc03quRvoxeT4OQ"
+      },
+      "artists": [
+        {
+          "name": "Malugi",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/7kBYPyaxF3oE9EgjOMpGKs"
+    },
+    {
+      "album": {
         "name": "Reflection EP",
         "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
@@ -4222,7 +4288,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 196583,
       "name": "SEXY",
       "url": "https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm"

@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-888 songs - 2 day 0 hr 42 min
+890 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Don't Let Go](https://open.spotify.com/track/4so0gtXo3oK1fMdLAuZh2t) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Don't Let Go](https://open.spotify.com/album/2TJxy2TTzOsdES9b5ZpP4w) | 2:48 | 2023-04-20 | 2023-05-12 |
 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 | 2024-02-23 |  |
 | [don't miss me too much](https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 3:17 | 2023-11-13 | 2023-11-18 |
+| [Don't Miss You](https://open.spotify.com/track/1BvnzvJjR746QsUlDYrTYL) | [dopameen](https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T) | [Don't Miss You](https://open.spotify.com/album/4O8dBJK2LHyco37w4M0jsQ) | 1:52 | 2024-05-17 |  |
 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 | 2023-02-23 | 2023-03-03 |
 | [Dragonfly](https://open.spotify.com/track/6CLeE3yafEuOSKbBJwO0mi) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Dragonfly](https://open.spotify.com/album/37Uo8JuZ8K89hvKjZxxF3j) | 2:48 | 2022-02-11 | 2022-07-23 |
 | [Dreamin' of You](https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Dreamin' of You](https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk) | 3:08 | 2023-05-11 | 2023-06-24 |
@@ -495,7 +496,7 @@
 | [Make It Up As We Go](https://open.spotify.com/track/02EQk4VQUbvOR7ZHboTpkM) | [DIRA](https://open.spotify.com/artist/6fnPyJRgk3blx9O4Iskiti) | [Make It Up As We Go](https://open.spotify.com/album/107HAeZVYMq3ixTOwtyxAS) | 3:45 | 2022-05-27 | 2022-06-30 |
 | [Make Me Wanna](https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Make Me Wanna](https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG) | 2:19 | 2022-09-02 | 2022-09-27 |
 | [Make Your Mind Up](https://open.spotify.com/track/52pbDXTE0RqQIwyGBjyru2) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Make Your Mind Up](https://open.spotify.com/album/48nShrwbeDaWBpZPeJ1zbL) | 2:46 | 2022-08-26 | 2022-09-12 |
-| [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 | 2023-05-11 |  |
+| [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 | 2023-05-11 | 2024-05-18 |
 | [Mannequin](https://open.spotify.com/track/759no41VtUMaEpYYvPO9Jt) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Mannequin](https://open.spotify.com/album/67QWb5j7wYWovKhJDqzCda) | 2:49 | 2022-02-11 | 2022-07-28 |
 | [marriott downtown](https://open.spotify.com/track/32pQxkJ1RFfac0BBvwuSrt) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [marriott downtown](https://open.spotify.com/album/6qDn4NdbMUHNCItv6zJD6O) | 2:47 | 2023-11-17 | 2023-12-09 |
 | [maybe](https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [maybe](https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF) | 3:41 | 2024-03-08 | 2024-04-13 |
@@ -647,6 +648,7 @@
 | [Say Hello](https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR) | [Gym and Swim](https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4) | [Say Hello](https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr) | 3:43 | 2022-02-25 | 2022-04-19 |
 | [Say Ooh](https://open.spotify.com/track/32bkdxME3FzJAxeDOTG8Sg) | [Keyana](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Say Ooh](https://open.spotify.com/album/2RyHoQyC795qZK5p3AcLB3) | 4:12 | 2024-03-01 | 2024-03-09 |
 | [say what's on your mind](https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [as long as you're okay](https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn) | 2:53 | 2022-01-28 | 2023-01-16 |
+| [sayonara](https://open.spotify.com/track/4GgBRiqk6JCoNP3elEnbIy) | [REBBY](https://open.spotify.com/artist/6SM0FvfOnhrOrf915CKPdh) | [sayonara](https://open.spotify.com/album/2Dlk9MiP54xjdCdrDJHTxO) | 3:07 | 2024-05-17 |  |
 | [Scent](https://open.spotify.com/track/2X6QqSEKR4gUUjiGduKLNU) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Scent](https://open.spotify.com/album/5rJaLwAQFrXSsOpXQ91YqM) | 2:51 | 2022-03-29 | 2022-04-26 |
 | [Scorpio](https://open.spotify.com/track/4cHo8XS9nZwqQUPrGt50zA) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [Scorpio](https://open.spotify.com/album/592fFIUinSfJVKa7kLl3l6) | 3:36 | 2022-04-15 | 2022-04-25 |
 | [Searching For Yourself \(feat\. Raveena\)](https://open.spotify.com/track/6m07gYVINo4QNYowLB3hUW) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:14 | 2023-11-13 | 2023-12-09 |
@@ -889,7 +891,7 @@
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-01-28 | 2023-03-18 |
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [Lydia Pau](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2023-07-07 | 2023-07-19 |
 | [Your Favorite Food](https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Your Favorite Food](https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp) | 4:30 | 2024-03-01 | 2024-03-09 |
-| [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-01-28 |  |
+| [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 | 2022-01-28 | 2024-05-18 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/3ZQLH6uKCfvgkbnMSVNCQe) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/08Uuoj9sXdScCULh04sZqi) | 2:21 | 2022-08-26 | 2022-09-02 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 | 2022-10-27 | 2024-04-19 |
 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 | 2022-08-26 | 2022-11-13 |

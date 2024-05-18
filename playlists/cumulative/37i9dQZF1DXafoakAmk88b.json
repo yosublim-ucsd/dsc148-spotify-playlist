@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New indie driving the current. Cover: hemlocke springs",
+  "description": "New indie driving the current. Cover: Jelani Aryeh",
   "name": "Indie Frequency",
   "tracks": [
     {
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 172773,
       "name": "gimme all ur luv",
       "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
@@ -2986,6 +2986,24 @@
       "duration_ms": 206000,
       "name": "Green Line",
       "url": "https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk"
+    },
+    {
+      "album": {
+        "name": "Hang On",
+        "url": "https://open.spotify.com/album/3Rhkg7UzUtz67mLXole1al"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181967,
+      "name": "Hang On",
+      "url": "https://open.spotify.com/track/1Yzkeg4AIn65PAIcM3AFzJ"
     },
     {
       "album": {

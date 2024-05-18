@@ -2,9 +2,9 @@
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>
+> <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIVekjEtHp0aF>For All Eternity</a>
 
-102 songs - 6 hr 2 min
+104 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Anodyne Sea](https://open.spotify.com/track/5XlgvmakaU9N7IoGabsJyk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [The Powerless Rise](https://open.spotify.com/album/4vJxMmzmQsm0lvVo8QF6Lk) | 4:34 | 2024-04-23 | 2024-05-16 |
 | [Basic Hate](https://open.spotify.com/track/2KLLO8a5n7wNlVVPkvGYeo) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Blueprints](https://open.spotify.com/album/49N4elSQN0QVKzwOs0g1M2) | 3:40 | 2024-05-12 | 2024-05-14 |
 | [Ben Threw](https://open.spotify.com/track/60bWAM79p2Qnh0leAhNyhD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood](https://open.spotify.com/album/7bCll1Hp8b2AyctqT3JY2C) | 3:11 | 2024-05-05 | 2024-05-06 |
-| [Bloom](https://open.spotify.com/track/4JfOEvan7Ra1z8vejxgegE) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Void](https://open.spotify.com/album/66PLx4mZ2i4kVZSLY9Xwq7) | 3:43 | 2024-05-16 |  |
+| [Bloom](https://open.spotify.com/track/4JfOEvan7Ra1z8vejxgegE) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Void](https://open.spotify.com/album/66PLx4mZ2i4kVZSLY9Xwq7) | 3:43 | 2024-05-16 | 2024-05-18 |
 | [Breathing In A New Mentality](https://open.spotify.com/track/3hMTsuLSxgOTMyEEkvfad1) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Lost In The Sound Of Separation](https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw) | 2:37 | 2024-04-23 | 2024-05-07 |
 | [Broken Hands](https://open.spotify.com/track/45WrPEJtSAaC3UIecmg4ES) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:48 | 2024-05-16 |  |
 | [Bury Us All](https://open.spotify.com/track/2TzP8ZtKzq45xvCS6e2kgm) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 2:23 | 2024-04-28 | 2024-05-14 |
@@ -59,7 +59,8 @@
 | [Live in Love](https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB) | [Times Of Grace](https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC) | [The Hymn of a Broken Man](https://open.spotify.com/album/0Fgm0GE1K43soqeminCy4R) | 3:49 | 2024-04-23 | 2024-05-14 |
 | [Losing Sight](https://open.spotify.com/track/21lljWLLI0vIPrco0kQNoV) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:23 | 2024-04-23 | 2024-05-10 |
 | [Luxuria](https://open.spotify.com/track/0YE7IaIa9D2U0PVBG2R7nE) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:20 | 2024-04-23 |  |
-| [Meaning in Tragedy](https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:12 | 2024-04-23 | 2024-05-16 |
+| [Meaning in Tragedy](https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:12 | 2024-04-23 |  |
+| [Moths and Rust](https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm) | [Forevermore](https://open.spotify.com/artist/1VIF9LpXxJCjFUVoc9LMPB) | [Moths and Rust](https://open.spotify.com/album/1ZDWYiIz1KC4uvuAyB9bZH) | 3:08 | 2024-05-18 |  |
 | [Mr\. And Mrs\. Cuckoldom](https://open.spotify.com/track/7D8tKBeAkBqkFRV27VJpzH) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:52 | 2024-04-23 |  |
 | [My Darkness](https://open.spotify.com/track/3MaVgBLILrrrPHz7MlH9wL) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 4:03 | 2024-04-23 |  |
 | [On Falling Leaf](https://open.spotify.com/track/62KMuaXbunEcJzy7hCUthZ) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:45 | 2024-04-23 |  |
@@ -78,7 +79,7 @@
 | [Separate](https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:11 | 2024-04-23 |  |
 | [Seven Thousand Miles for What](https://open.spotify.com/track/6TdCP5Q69EP3zO9bDzlAMO) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL) | 2:53 | 2024-04-24 | 2024-05-15 |
 | [Severed Ties Yield Severed Heads](https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:02 | 2024-05-16 |  |
-| [Shekinah](https://open.spotify.com/track/2Zui9klgDIXEcEUGK9Fftr) | [Saving Grace](https://open.spotify.com/artist/0oqUjyJPQrTXrgijOX7plI) | [The King Is Coming](https://open.spotify.com/album/4fYladVeMXXkBIELsXUIgq) | 3:49 | 2024-05-16 |  |
+| [Shekinah](https://open.spotify.com/track/2Zui9klgDIXEcEUGK9Fftr) | [Saving Grace](https://open.spotify.com/artist/0oqUjyJPQrTXrgijOX7plI) | [The King Is Coming](https://open.spotify.com/album/4fYladVeMXXkBIELsXUIgq) | 3:49 | 2024-05-16 | 2024-05-18 |
 | [Solid Ground](https://open.spotify.com/track/1icI4F8fzvF0APPJHfyu2w) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:43 | 2024-05-16 |  |
 | [Son Of The Morning](https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:25 | 2024-05-05 |  |
 | [Song For The Broken](https://open.spotify.com/track/2ORNUM2HttdH7QipiUZ2Eq) | [Close Your Eyes](https://open.spotify.com/artist/4EJdKdDfQ0XQ4YBhh12xZe) | [We Will Overcome](https://open.spotify.com/album/09as8XYEwT9HJV7kc6zAmO) | 4:09 | 2024-04-27 | 2024-05-03 |
@@ -98,12 +99,13 @@
 | [Those in Glass Houses](https://open.spotify.com/track/2BQweirrpIiMOx0tNtjTXe) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL) | 2:42 | 2024-04-26 | 2024-05-16 |
 | [Thoughts In Reverse](https://open.spotify.com/track/1rMrqofTog2FCn0PoUHdcN) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 2:35 | 2024-04-23 |  |
 | [Tithemi](https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj) | [Sleeping Giant](https://open.spotify.com/artist/6nFjP8zBYm0XpUrGMJkRuX) | [Kingdom Days In an Evil Age](https://open.spotify.com/album/4UlZLfWT8dWgtvUDdNR6AX) | 3:56 | 2024-04-23 | 2024-05-16 |
+| [Underwater](https://open.spotify.com/track/3LfpC5MpNuLmWc0fCOlTfC) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Void](https://open.spotify.com/album/66PLx4mZ2i4kVZSLY9Xwq7) | 5:14 | 2024-05-18 |  |
 | [Up All Night](https://open.spotify.com/track/4s1XgdLhMuYFh5Npxo6ZMv) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [No Sleep](https://open.spotify.com/album/47PNyfphw9gBMz9SvxCPzP) | 4:14 | 2024-04-25 | 2024-05-12 |
 | [Vacant Room](https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:32 | 2024-04-24 |  |
 | [Vices Like Vipers](https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [When I Am God](https://open.spotify.com/album/5e88yfR4rUCg4YbNI1xR41) | 4:18 | 2024-05-16 |  |
 | [We Stand](https://open.spotify.com/track/1QAz671ewHPs31WxBBVkKG) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:47 | 2024-04-23 | 2024-05-16 |
 | [When Everything Falls](https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV) | [Haste The Day](https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w) | [When Everything Falls](https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp) | 4:11 | 2024-04-23 | 2024-05-16 |
-| [Whispers \(I Hear You\)](https://open.spotify.com/track/7KzTfufz9OG0uYWjrTYGwp) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:39 | 2024-04-23 |  |
+| [Whispers \(I Hear You\)](https://open.spotify.com/track/7KzTfufz9OG0uYWjrTYGwp) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:39 | 2024-04-23 | 2024-05-18 |
 | [White Light](https://open.spotify.com/track/6Ybo9MDUnzddO7tYYkpgeE) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Get What You Give](https://open.spotify.com/album/3r2Tup1FQ1xiDr78Q7s71v) | 4:50 | 2024-04-23 | 2024-05-16 |
 | [With A Thousand Words To Say But One](https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Undoing Ruin](https://open.spotify.com/album/3CpqdDHKPxCakKYu5XP2SU) | 4:22 | 2024-04-23 | 2024-05-16 |
 | [With The Wolves](https://open.spotify.com/track/54t3PG4GNYxO8D4rRSFJ0X) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Dear Youth](https://open.spotify.com/album/75kQjmcR1YnIrBwVW1s4G1) | 3:53 | 2024-04-26 | 2024-04-27 |

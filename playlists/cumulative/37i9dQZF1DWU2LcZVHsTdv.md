@@ -4,7 +4,7 @@
 
 > Anne Wilson is taking over Country by the Grace of God to celebrate the release of her new album REBEL!
 
-241 songs - 14 hr 48 min
+243 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,9 +181,11 @@
 | [Show Me Around](https://open.spotify.com/track/1kAjZE74FPpadN5JUgrIcZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:40 | 2021-12-10 |  |
 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 | 2021-12-10 |  |
 | [Somebody Else](https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Somebody Else](https://open.spotify.com/album/3qSl2EUB9MHWNZ7blQVOL4) | 3:09 | 2023-04-14 |  |
+| [Somebody Say Amen](https://open.spotify.com/track/6Vwt1in82gTOatE0tO3sZM) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Somebody Say Amen](https://open.spotify.com/album/3uHEcChrWFhp5pFDfl3Jy2) | 2:54 | 2024-05-17 |  |
 | [Someday It’ll All Make Sense](https://open.spotify.com/track/6mBhSOYQtr3fC5qjIceGD2) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [As Far As I Can See: The Best Of](https://open.spotify.com/album/0ROZM42Ts60ECkvAm10CyA) | 3:51 | 2022-06-10 |  |
 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 | 2021-12-10 |  |
 | [Somewhere in the Sunshine](https://open.spotify.com/track/0ZumjEWenangePeQRcq0h9) | [Charles Esten](https://open.spotify.com/artist/5DOQ7jQ2pnXaiJiIoiEQjz) | [Somewhere in the Sunshine](https://open.spotify.com/album/4EFxY2XuXN2HMWpFDRXEbA) | 4:22 | 2023-10-06 |  |
+| [Songs About Jesus](https://open.spotify.com/track/7BIpImnCKnk5PHVYRC9vfa) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Songs About Jesus](https://open.spotify.com/album/7oWHCY0bUwwvVvj2saT4UR) | 3:17 | 2024-05-17 |  |
 | [Songs About Whiskey](https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 2:53 | 2024-04-19 |  |
 | [Southern Gospel](https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Southern Gospel](https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc) | 3:30 | 2022-07-29 |  |
 | [Streets](https://open.spotify.com/track/4IGA2hFfOSJSw0gScaNCw6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now \(Deluxe\)](https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM) | 5:05 | 2021-12-10 |  |

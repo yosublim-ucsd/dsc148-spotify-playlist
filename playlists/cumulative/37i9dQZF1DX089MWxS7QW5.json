@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Up",
+        "url": "https://open.spotify.com/album/0cNcrqOqpRJ89wTHw3e6k0"
+      },
+      "artists": [
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186440,
+      "name": "Hold Me Up",
+      "url": "https://open.spotify.com/track/1SbOXVok2b7VsxXsTOnPpM"
+    },
+    {
+      "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
       },
@@ -4628,6 +4646,24 @@
       "duration_ms": 197250,
       "name": "Re (Feat. Leellamarz)",
       "url": "https://open.spotify.com/track/489WdoslgFRu6bgI3CGKOF"
+    },
+    {
+      "album": {
+        "name": "Re-back",
+        "url": "https://open.spotify.com/album/2TYVuGJboMg8mvM3vUplxE"
+      },
+      "artists": [
+        {
+          "name": "YEGNY",
+          "url": "https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200773,
+      "name": "Re-back",
+      "url": "https://open.spotify.com/track/0SmhVSccWVbjcuNkMrsBsV"
     },
     {
       "album": {

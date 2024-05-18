@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 135595,
       "name": "Ba Ba Bu",
       "url": "https://open.spotify.com/track/7AYAxhYXMLQQUjnFMDFWjm"
@@ -423,6 +423,32 @@
     },
     {
       "album": {
+        "name": "Es Vedra",
+        "url": "https://open.spotify.com/album/5SyxPG9RgHncKLldTRVoHV"
+      },
+      "artists": [
+        {
+          "name": "Aytiwan",
+          "url": "https://open.spotify.com/artist/1uL2FZKW1ImI6oHVJ5gnn3"
+        },
+        {
+          "name": "Kaudron",
+          "url": "https://open.spotify.com/artist/0LNyTVpLzeoQeWkLoxIl6h"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320031,
+      "name": "Es Vedra",
+      "url": "https://open.spotify.com/track/6K6UHR9tV2S43WK5GWpI80"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/4X68mxc76NPAd7Bch56JWl"
       },
@@ -438,7 +464,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 227973,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4ubZszrzbW32EIfQlfwBgW"
@@ -829,6 +855,36 @@
     },
     {
       "album": {
+        "name": "Jibambe feat Nes Mburu",
+        "url": "https://open.spotify.com/album/6lng1AYqDyNCP2lxtS1w2H"
+      },
+      "artists": [
+        {
+          "name": "Aaron Sevilla",
+          "url": "https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX"
+        },
+        {
+          "name": "Mijangos",
+          "url": "https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf"
+        },
+        {
+          "name": "Ricardo Criollo House",
+          "url": "https://open.spotify.com/artist/3AtHoqwYxlqqGsrzOUGxYu"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Jibambe - Radio Edit",
+      "url": "https://open.spotify.com/track/1KyPWkT6IccS8XebxjDMdV"
+    },
+    {
+      "album": {
         "name": "Kamweretho",
         "url": "https://open.spotify.com/album/1yV5WlSsJQGBnFynhpNG4i"
       },
@@ -903,6 +959,32 @@
     },
     {
       "album": {
+        "name": "Kibogoyo (Funkky Remix)",
+        "url": "https://open.spotify.com/album/5DtX7nWHKR6N38wkvg24ob"
+      },
+      "artists": [
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Sunlee",
+          "url": "https://open.spotify.com/artist/0Xa81WVUf9lecuae8hqMjQ"
+        },
+        {
+          "name": "Funkky",
+          "url": "https://open.spotify.com/artist/5K6MIUxhHMmOxGF22JaySb"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343278,
+      "name": "Kibogoyo - Funkky Remix",
+      "url": "https://open.spotify.com/track/1kJrI8k2XsIHTNsB3UR32P"
+    },
+    {
+      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/4KXXfTMrICIeagJ1RgYsMy"
       },
@@ -958,7 +1040,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 386000,
       "name": "Kiti - Original Mix",
       "url": "https://open.spotify.com/track/3tXI0KZSLrAGhhU9CUftTZ"
@@ -1134,7 +1216,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 492175,
       "name": "Let's Pretend - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC"
@@ -1164,6 +1246,28 @@
       "duration_ms": 164444,
       "name": "Lie To Me - Hendrick Sam Remix",
       "url": "https://open.spotify.com/track/2qjEzU7pidm628Q0wHQq4H"
+    },
+    {
+      "album": {
+        "name": "Light Up & Diva",
+        "url": "https://open.spotify.com/album/1n4qswJNXVFmVdfOz6FppK"
+      },
+      "artists": [
+        {
+          "name": "Lovince Mckenzie",
+          "url": "https://open.spotify.com/artist/4dTlGjltanfIiMqXrPD8eZ"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137352,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/2Yki61q1T4ek736lQIv4z7"
     },
     {
       "album": {
@@ -1674,7 +1778,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 493770,
       "name": "Mzuzi Park",
       "url": "https://open.spotify.com/track/1CtmlLBB4dAzTdBXNAt4d2"
@@ -2837,6 +2941,36 @@
     },
     {
       "album": {
+        "name": "Umqhumo Wethu",
+        "url": "https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        },
+        {
+          "name": "The Ascension",
+          "url": "https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF"
+        },
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325176,
+      "name": "uZosala",
+      "url": "https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf"
+    },
+    {
+      "album": {
         "name": "Wahyu",
         "url": "https://open.spotify.com/album/0ZnAhsScg3mJNvBjsiDR1h"
       },
@@ -2878,6 +3012,32 @@
       "duration_ms": 225905,
       "name": "Walking On Water",
       "url": "https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D"
+    },
+    {
+      "album": {
+        "name": "Walking On Water (SOS Mix)",
+        "url": "https://open.spotify.com/album/6vw9GBOSuxChEBBi2Vo0Ya"
+      },
+      "artists": [
+        {
+          "name": "UPZ",
+          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
+        },
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242068,
+      "name": "Walking On Water - SOS Mix [Radio Edit]",
+      "url": "https://open.spotify.com/track/3DXvzaN6SNiNzqGcyLmxVG"
     },
     {
       "album": {
@@ -2930,7 +3090,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 372625,
       "name": "We Belong - Breeze and The Sun & Neil Amarey Remix",
       "url": "https://open.spotify.com/track/0AZY6dQC8KDdTHReXHzeEm"

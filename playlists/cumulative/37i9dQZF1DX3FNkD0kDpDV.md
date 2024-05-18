@@ -2,7 +2,7 @@
 
 ### [EDC Las Vegas Guest List](https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV)
 
-> Celebrate the magic of EDC Las Vegas 2024 with the exclusive guest list featuring the best tracks and artists of the festival 🎉🎉
+> Celebrate the magic of EDC Las Vegas 2024 with some of the best tracks and artists of the festival 🎉🎉
 
 882 songs - 2 day 19 hr 45 min
 

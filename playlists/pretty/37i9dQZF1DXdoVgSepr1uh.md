@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Perreo hecho en Argentina\. Foto: TAICHU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,687 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,690 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 4 | [La Salida](https://open.spotify.com/track/0FqUHxjBLH7pkcTMgIwkN1) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [La Salida](https://open.spotify.com/album/4PMRXMSuAISejyz6LJ8At5) | 3:12 |
 | 5 | [Qué Estará Haciendo?](https://open.spotify.com/track/3XwTUXkY4TtZRBavE3juvc) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Qué Estará Haciendo?](https://open.spotify.com/album/1gqHK0ozy1Qh5BRSRkvzif) | 2:39 |
 | 6 | [UNA GATA](https://open.spotify.com/track/2ZsBl5LVGMYuxOuK6uCqmf) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [UNA GATA](https://open.spotify.com/album/5CJfj01zYIljBUYaYrCQRI) | 3:04 |
-| 7 | [Ya No Quiero Verte](https://open.spotify.com/track/1uoQJiOAWJ5S3IsrHFXlds) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Ya No Quiero Verte](https://open.spotify.com/album/4NUK8hZadlXlRMBwhsn5X9) | 2:54 |
+| 7 | [Ya No Quiero Verte](https://open.spotify.com/track/1uoQJiOAWJ5S3IsrHFXlds) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5) | [Ya No Quiero Verte](https://open.spotify.com/album/4NUK8hZadlXlRMBwhsn5X9) | 2:54 |
 | 8 | [Abrazaditos](https://open.spotify.com/track/7wJ6YSZqZCsZlmmGb9Qx6Z) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Abrazaditos](https://open.spotify.com/album/3h7OLtE2e8qlFpXm1tHJj3) | 2:44 |
 | 9 | [Fácil](https://open.spotify.com/track/1eR8UGjCnqh3WsieIVIgDn) | [More Con Flow](https://open.spotify.com/artist/5NS2B9GuroT6TrPoxRKd4t) | [Fácil](https://open.spotify.com/album/0raOboTvbuRDGYX151xbyM) | 2:23 |
 | 10 | [Mas Envidia Que Fe](https://open.spotify.com/track/5XL7RmThB6GaVZ7wGUHfNH) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Mas Envidia Que Fe](https://open.spotify.com/album/6hlQV3e05fpJtQFmsHANHZ) | 2:38 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 12 | [Fiebre](https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Fiebre](https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj) | 2:20 |
 | 13 | [Sin Preguntar](https://open.spotify.com/track/0tog9uUBCsPYP6zEg24wOB) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Sin Preguntar](https://open.spotify.com/album/7rRuM1AiQPiFH5T4cxpE3d) | 3:13 |
 | 14 | [La Pistola](https://open.spotify.com/track/4n9tFJoRyzeva7Bgy5sCM7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [La Pistola](https://open.spotify.com/album/5Rgnyuzb9DkpmmF3VDZEuq) | 3:02 |
-| 15 | [A Toda Hora](https://open.spotify.com/track/5sU4baPrB44oGLqyzZvLw4) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU) | [A Toda Hora](https://open.spotify.com/album/003hJuxeqS9V6z807tXdov) | 3:04 |
+| 15 | [A Toda Hora](https://open.spotify.com/track/5sU4baPrB44oGLqyzZvLw4) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU) | [A Toda Hora](https://open.spotify.com/album/003hJuxeqS9V6z807tXdov) | 3:05 |
 | 16 | [Sola](https://open.spotify.com/track/11dFlKwg74zqz13R83sZ93) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Sola](https://open.spotify.com/album/0ZwE05N0Ur1rI6jY5u78ZN) | 2:50 |
 | 17 | [Blokeao](https://open.spotify.com/track/5au1ohqMri0oI2JyCbkl9J) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Blokeao](https://open.spotify.com/album/08Eyi1GTWoDYfVzHOGikDW) | 3:17 |
 | 18 | [Mayor Que Yo](https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Mayor Que Yo](https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm) | 2:40 |

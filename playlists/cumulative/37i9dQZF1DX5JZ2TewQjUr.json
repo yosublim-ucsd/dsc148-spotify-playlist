@@ -1537,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "California (\u597d\u9b3c\u6b7b\u6d6a\u6f2b)",
+        "url": "https://open.spotify.com/album/7m89UNillV51zntHOksawo"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        },
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263778,
+      "name": "California (\u597d\u9b3c\u6b7b\u6d6a\u6f2b)",
+      "url": "https://open.spotify.com/track/2Fsqwg6OCrNEcjpUTorvWF"
+    },
+    {
+      "album": {
         "name": "call me",
         "url": "https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My"
       },
@@ -6608,6 +6630,24 @@
       "duration_ms": 407579,
       "name": "Love, __",
       "url": "https://open.spotify.com/track/3gjKiyC6z1nz81x0PazMb7"
+    },
+    {
+      "album": {
+        "name": "Lovelorn",
+        "url": "https://open.spotify.com/album/7iIdy2SfvkOdACCgGXurtm"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252966,
+      "name": "Lovelorn",
+      "url": "https://open.spotify.com/track/5GRovZJ2zWaCx00Z6TyTg5"
     },
     {
       "album": {

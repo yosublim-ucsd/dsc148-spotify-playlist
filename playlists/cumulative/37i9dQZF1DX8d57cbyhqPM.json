@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "BLESSING FALL",
+        "url": "https://open.spotify.com/album/6n7fmprMmC91LdUBJ4jaow"
+      },
+      "artists": [
+        {
+          "name": "IDPizzle",
+          "url": "https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC"
+        },
+        {
+          "name": "Asaiah",
+          "url": "https://open.spotify.com/artist/0AnoYxg7xNeMli39j18Lk6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165663,
+      "name": "BLESSING FALL",
+      "url": "https://open.spotify.com/track/0hRncP0tB0QwmSZnzL5QIq"
+    },
+    {
+      "album": {
         "name": "Bloqu\u00e9",
         "url": "https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8"
       },
@@ -1508,7 +1530,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 166806,
       "name": "Comme je suis - Bonus",
       "url": "https://open.spotify.com/track/6AkRqxKsks8tf0fylxPV61"
@@ -2148,7 +2170,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 296363,
       "name": "Effacer",
       "url": "https://open.spotify.com/track/7nYiuvGUxKPyRiOCdRB3CE"
@@ -3192,7 +3214,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 162419,
       "name": "Kama",
       "url": "https://open.spotify.com/track/7JL4ESrT0oI9H1fTw60pvQ"
@@ -5079,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "Ne doute pas",
+        "url": "https://open.spotify.com/album/7L3GB3sojKXCcMZtGtPKaO"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185191,
+      "name": "Ne doute pas",
+      "url": "https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc"
+    },
+    {
+      "album": {
         "name": "Je Pense \u00ab Poison \u00bb",
         "url": "https://open.spotify.com/album/6J7Q7SA4FwKekL6vtcGrOL"
       },
@@ -5428,7 +5468,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 280293,
       "name": "Ot\u00e9ma ob\u00e9",
       "url": "https://open.spotify.com/track/5C5mKEkNRTSxfUiyq5xg1I"
@@ -5642,7 +5682,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 231784,
       "name": "Parraza",
       "url": "https://open.spotify.com/track/2tQbM5HxcRvpNhvNs1oi2m"
@@ -6496,7 +6536,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 422973,
       "name": "Solola bien",
       "url": "https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ"
@@ -6612,7 +6652,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 139528,
       "name": "Tchiriri",
       "url": "https://open.spotify.com/track/5Dhs0Yvv9sWgSmnEeYHTdy"
@@ -6794,6 +6834,28 @@
       "duration_ms": 161454,
       "name": "Tlb",
       "url": "https://open.spotify.com/track/5MbgvVfSVON5bRng2iuboW"
+    },
+    {
+      "album": {
+        "name": "Toi & Moi",
+        "url": "https://open.spotify.com/album/1ZOY0RIkEEp9KPasfdQTvU"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Toi & Moi",
+      "url": "https://open.spotify.com/track/2oMSuuGg4HlLsWrDR1Bhtu"
     },
     {
       "album": {
@@ -7596,7 +7658,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 154580,
       "name": "\u00c7a va !",
       "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"

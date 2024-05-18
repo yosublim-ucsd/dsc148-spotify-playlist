@@ -1,6 +1,6 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
-  "num_followers": 893819,
+  "num_followers": 893941,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "Death Is Hollow",
-        "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 519288,
-      "name": "Death Is Hollow (Live)",
-      "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
         "name": "Moments: Near 007",
         "url": "https://open.spotify.com/album/4WAhiiG3HkSMh7OvFMGqRA"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 691343,
       "name": "Pour My Love On You",
       "url": "https://open.spotify.com/track/0THyR6FIUIrWVOQIYePq2p"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
+        "name": "Death Is Hollow",
+        "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 519288,
+      "name": "Death Is Hollow (Live)",
+      "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "Strike The Ground",
-        "url": "https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Forward City",
-          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "Simple Matter",
-      "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
         "name": "Look To The Lamb",
         "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
@@ -679,18 +659,22 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "Be Glad",
-        "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
+        "name": "Strike The Ground",
+        "url": "https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs"
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
         }
       ],
-      "duration_ms": 299658,
-      "name": "Be Glad",
-      "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
+      "duration_ms": 317146,
+      "name": "Simple Matter",
+      "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -711,6 +695,22 @@
       "duration_ms": 243800,
       "name": "The Lord Almighty Reigns - Live",
       "url": "https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
+        "name": "Be Glad",
+        "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 299658,
+      "name": "Be Glad",
+      "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "Who Is This Man (Live)",
-        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 599374,
-      "name": "Who Is This Man - Live",
-      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 322689,
       "name": "Shalom",
       "url": "https://open.spotify.com/track/30mz7jGufwQ3YAvulUUi18"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
+        "name": "Who Is This Man (Live)",
+        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 599374,
+      "name": "Who Is This Man - Live",
+      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -1363,6 +1363,34 @@
       "duration_ms": 289398,
       "name": "Comfort - Live",
       "url": "https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
+        "name": "Heavenly Party (Live)",
+        "url": "https://open.spotify.com/album/3VdTs3fkdDMQQyviAwNffZ"
+      },
+      "artists": [
+        {
+          "name": "P&W",
+          "url": "https://open.spotify.com/artist/6s0mYfHQjI3oWTWL5aChcU"
+        },
+        {
+          "name": "Kate Gurren",
+          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        },
+        {
+          "name": "Kieran De La Harpe",
+          "url": "https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl"
+        }
+      ],
+      "duration_ms": 364759,
+      "name": "Heavenly Party - Live",
+      "url": "https://open.spotify.com/track/0ZC7Lnq622CEYqE2F6C0I0"
     },
     {
       "added_at": "2024-05-10 04:41:59",
@@ -1487,34 +1515,6 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
-        "name": "Heavenly Party (Live)",
-        "url": "https://open.spotify.com/album/3VdTs3fkdDMQQyviAwNffZ"
-      },
-      "artists": [
-        {
-          "name": "P&W",
-          "url": "https://open.spotify.com/artist/6s0mYfHQjI3oWTWL5aChcU"
-        },
-        {
-          "name": "Kate Gurren",
-          "url": "https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL"
-        },
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        },
-        {
-          "name": "Kieran De La Harpe",
-          "url": "https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl"
-        }
-      ],
-      "duration_ms": 364759,
-      "name": "Heavenly Party - Live",
-      "url": "https://open.spotify.com/track/0ZC7Lnq622CEYqE2F6C0I0"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
         "name": "Show Me Your Glory (Live At Chapel)",
         "url": "https://open.spotify.com/album/3v6Nr8yVDfR0mqHoeqA38z"
       },
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2024-05-10 04:41:59",
       "album": {
+        "name": "As The Deer / Nothing But The Blood (Live)",
+        "url": "https://open.spotify.com/album/1tldcRrDJAaBSTtHQyY1Rx"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+        }
+      ],
+      "duration_ms": 391407,
+      "name": "As The Deer / Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/0txOPgvIVpVZf8YosrjEx2"
+    },
+    {
+      "added_at": "2024-05-10 04:41:59",
+      "album": {
         "name": "Yes He Lives",
         "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 361027,
       "name": "Because Of You - Live",
       "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
-    },
-    {
-      "added_at": "2024-05-10 04:41:59",
-      "album": {
-        "name": "As The Deer / Nothing But The Blood (Live)",
-        "url": "https://open.spotify.com/album/1tldcRrDJAaBSTtHQyY1Rx"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Chardon Lewis",
-          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
-        }
-      ],
-      "duration_ms": 391407,
-      "name": "As The Deer / Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/0txOPgvIVpVZf8YosrjEx2"
     },
     {
       "added_at": "2024-05-10 04:41:59",

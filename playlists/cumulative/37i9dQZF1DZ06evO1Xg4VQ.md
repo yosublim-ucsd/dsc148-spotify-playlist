@@ -2,7 +2,7 @@
 
 ### [This Is Lila Downs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xg4VQ)
 
-> This Is Lila Downs\. Los temas esenciales, todos en una lista.
+> This is Lila Downs\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 41 min
 

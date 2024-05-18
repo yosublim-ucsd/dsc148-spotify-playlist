@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-446 songs - 1 day 0 hr 51 min
+447 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Do That \(feat\. FHAT\)](https://open.spotify.com/track/0RtkiBgYQmkiDg8ntoJxzT) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [FHAT](https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Do That \(feat\. FHAT\)](https://open.spotify.com/album/6zmUhkZKIx7SBQZCpaJg7H) | 2:41 | 2020-11-13 | 2021-12-28 |
 | [Do Yourself](https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 4:02 | 2022-02-04 | 2022-05-21 |
 | [DON'T GET FRESH WITH ME](https://open.spotify.com/track/29XRnZlN9nf6Z3BaAZ61My) | [Low Cut Connie](https://open.spotify.com/artist/4taNHtYxfIWIHu07FBw7ih) | [ART DEALERS](https://open.spotify.com/album/2XfhNWUapZroQcaGTVwPrJ) | 3:49 | 2023-09-08 |  |
-| [Don't Go Chasing](https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Don't Go Chasing](https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj) | 4:07 | 2022-04-08 |  |
+| [Don't Go Chasing](https://open.spotify.com/track/0gTXXfCBlkJgSVokmOgrTz) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Don't Go Chasing](https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj) | 4:07 | 2022-04-08 | 2024-05-18 |
 | [Don't Lose Sight \(Acoustic\)](https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Don't Lose Sight](https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo) | 6:46 | 2022-05-06 | 2024-04-06 |
 | [Don't Trip](https://open.spotify.com/track/1fWJ5Q2o5XJDO7aaoEEln3) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/6bncnRFItEWzbdaXwurKhe) | 3:00 | 2022-04-15 | 2022-07-29 |
 | [Don't Trip](https://open.spotify.com/track/42HWBRIGDyswiKXJB3O9PP) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 3:00 | 2022-04-22 | 2023-04-30 |
@@ -240,6 +240,7 @@
 | [Lunar Eclipse](https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Lunar Eclipse](https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC) | 3:14 | 2022-06-24 | 2023-05-13 |
 | [Macaroni Salad](https://open.spotify.com/track/5p8RR3x2fsDLxBhPAvi5Qh) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [If I Should Die](https://open.spotify.com/album/2sPw0ZfarcTCQkH5jHCL72) | 3:05 | 2021-06-04 | 2022-07-25 |
 | [Magic](https://open.spotify.com/track/7jnOI85Lc3eouiCfivQAYd) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [Crooked Records](https://open.spotify.com/album/3LIpimEGKqD82ztpfLHCeW) | 2:35 | 2022-02-18 | 2022-07-28 |
+| [Magic](https://open.spotify.com/track/0tpZUwE9apjRQLJP46LHn8) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Still Kids](https://open.spotify.com/album/0eoZWGxdpc4HIG6bjlel2H) | 2:35 | 2024-05-17 |  |
 | [Make It Hot \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7kJ4Q6YTfePxfKuVxVFRzT) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Make It Hot \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3vXyaAkOtyBIYFsGdrJVkS) | 2:17 | 2024-04-05 |  |
 | [Make Me Feel Good \(Alright with Me\)](https://open.spotify.com/track/2aCxVSv3Hm0ppVxRn3TV26) | [Todd Carey](https://open.spotify.com/artist/0LCLu0eCcX5xembxDadUbz), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Kash'd Out](https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm) | [Make Me Feel Good \(Alright with Me\)](https://open.spotify.com/album/7eyioIjjezVX8k1xYOkChC) | 4:15 | 2022-06-03 | 2023-03-04 |
 | [Making it Right](https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6) | [Harrison Finks](https://open.spotify.com/artist/0eARUhJrHJ8EljWe3WG2fv), [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8), [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg) | [Making it Right](https://open.spotify.com/album/2LRTQrA17SE7V0SbupU00f) | 2:17 | 2022-08-26 |  |

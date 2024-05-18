@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jayci Yucca, SLO\)
 
-335 songs - 18 hr 37 min
+337 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Hidden Castle](https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Hidden Castle](https://open.spotify.com/album/1Kz44qP8JD4QF3sC2fRyBX) | 3:28 | 2022-07-27 | 2022-12-14 |
 | [Hmm\-cheat](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderego](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) | 3:03 | 2023-11-14 | 2024-04-19 |
 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 | 2022-11-14 | 2023-07-08 |
+| [Hold Me Up](https://open.spotify.com/track/1SbOXVok2b7VsxXsTOnPpM) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Hold Me Up](https://open.spotify.com/album/0cNcrqOqpRJ89wTHw3e6k0) | 3:06 | 2024-05-17 |  |
 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 | 2022-07-27 | 2023-01-14 |
 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-09-08 | 2023-12-19 |
 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 | 2023-08-10 | 2023-11-29 |
@@ -241,6 +242,7 @@
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2023-11-29 |
 | [Rainy Season \(The Last 10 Years X Whee In\)](https://open.spotify.com/track/3R0MJY27A02NNakf4Kgbka) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Rainy Season \(The Last 10 Years X Whee In\)](https://open.spotify.com/album/06k52VffVztZNVAkF1fENg) | 4:08 | 2024-03-15 |  |
 | [Re \(Feat\. Leellamarz\)](https://open.spotify.com/track/489WdoslgFRu6bgI3CGKOF) | [Urban Fisher](https://open.spotify.com/artist/2kGf1F2GuQecSJRhzRLyPQ), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Re \(Feat\. Leellamarz\)](https://open.spotify.com/album/5z4KcU9tzN8s2vS61RMwnX) | 3:17 | 2024-04-19 |  |
+| [Re\-back](https://open.spotify.com/track/0SmhVSccWVbjcuNkMrsBsV) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Re\-back](https://open.spotify.com/album/2TYVuGJboMg8mvM3vUplxE) | 3:20 | 2024-05-17 |  |
 | [Re: 14 \(feat\. Minjeong\)](https://open.spotify.com/track/4DmGa6XvEJuWdywgs6mxlK) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [New Edition 49](https://open.spotify.com/album/5I95HLTug1H3xEj0mx3tSP) | 3:30 | 2023-03-27 | 2023-04-28 |
 | [Reed](https://open.spotify.com/track/0aPq9xDq5OWNiCRvDjBUVI) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [SLO](https://open.spotify.com/artist/0OxLdB5E14KIM16YBcJ3sj) | [Reed](https://open.spotify.com/album/2ODXFLBbWprQ5Eq7ONM6St) | 3:12 | 2024-05-16 |  |
 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 | 2022-11-15 |

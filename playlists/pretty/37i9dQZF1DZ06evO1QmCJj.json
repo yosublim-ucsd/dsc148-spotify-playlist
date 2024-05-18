@@ -1,12 +1,12 @@
 {
-  "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 37929,
+  "description": "This Is Lola Indigo. Los temas esenciales, todos en una lista.",
+  "num_followers": 37945,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAAAOJvquSWZcI3vYSu2dSBpa",
+  "snapshot_id": "ZkVMgAAAAABCGwLkn1y0X0DbPTWJiOsZ",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romeo Y Julieta",
-        "url": "https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX"
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         },
         {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 178753,
-      "name": "Romeo Y Julieta",
-      "url": "https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND"
+      "duration_ms": 199747,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
     },
     {
       "added_at": null,
@@ -631,66 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lola Bunny",
-        "url": "https://open.spotify.com/album/6ZzTJncT5EwHp5Pa4xwFpS"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Don Patricio",
-          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "Lola Bunny",
-      "url": "https://open.spotify.com/track/7IzbHY75UhGztauT7U5eKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "TURISMO",
-      "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Akelarre",
-        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/6qz7XM4Ysl3z0rEcInLivx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humedad (Remix)",
         "url": "https://open.spotify.com/album/7MyzaIpaXhuTqcFMQNJsJ9"
       },
@@ -715,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "TURISMO",
+      "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/7awwlXzz3wRtLFv7ip9L6p"
       },
@@ -735,6 +695,26 @@
       "duration_ms": 197727,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3Mx0B6Q36VSPBxa9CAuMti"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes Que Salga el Sol",
+        "url": "https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 196842,
+      "name": "Antes Que Salga el Sol",
+      "url": "https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA"
     },
     {
       "added_at": null,
@@ -771,26 +751,6 @@
       "duration_ms": 337106,
       "name": "Chivirika - Remix",
       "url": "https://open.spotify.com/track/0u8glMfKNxpiArg4YOlT9I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Antes Que Salga el Sol",
-        "url": "https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 196842,
-      "name": "Antes Que Salga el Sol",
-      "url": "https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA"
     },
     {
       "added_at": null,
@@ -955,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mala Cara",
+        "url": "https://open.spotify.com/album/2kJvz4V7Thc5FyI6r8pq4T"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "Mala Cara",
+      "url": "https://open.spotify.com/track/0ArXnrjWXgLdqfVCosRSHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Borracha (Remix)",
         "url": "https://open.spotify.com/album/6KiAz62idWWsLZXCsnM6t2"
       },
@@ -999,6 +975,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Akelarre",
+        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "El Humo - Canci\u00f3n Original De La Pel\u00edcula \"Lo Dejo Cuando Quiera\"",
+      "url": "https://open.spotify.com/track/22umYdEW0MLHMPPFaZDlxE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CALLE",
         "url": "https://open.spotify.com/album/3tmWYrXOkrEF0MjxCSbZc5"
       },
@@ -1039,8 +1031,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mala Cara",
-        "url": "https://open.spotify.com/album/2kJvz4V7Thc5FyI6r8pq4T"
+        "name": "Akelarre",
+        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
       },
       "artists": [
         {
@@ -1048,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 167674,
-      "name": "Mala Cara",
-      "url": "https://open.spotify.com/track/0ArXnrjWXgLdqfVCosRSHQ"
+      "duration_ms": 152000,
+      "name": "No Se Toca",
+      "url": "https://open.spotify.com/track/1JNWhyAuTvjgJvmi6Psct4"
     }
   ],
   "unique_name": "This Is Lola Indigo",

@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 47454,
+  "num_followers": 47469,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAABY3l5YTeP/NehLi8QRGPmF",
+  "snapshot_id": "ZkVMgAAAAADmGz3ty+vuPBxkWSppyY/b",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello/Hello",
         "url": "https://open.spotify.com/album/7kHYrY6mzroR0kQ7bktint"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 245214,
       "name": "Hello/Hello",
       "url": "https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
-        "url": "https://open.spotify.com/album/3JdoGesd5RkeiraCoNgroP"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
-      "url": "https://open.spotify.com/track/50Bpk00qoU0kibpHNWgPjP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 300800,
       "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
+        "url": "https://open.spotify.com/album/3JdoGesd5RkeiraCoNgroP"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
+      "url": "https://open.spotify.com/track/50Bpk00qoU0kibpHNWgPjP"
     },
     {
       "added_at": null,

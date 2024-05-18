@@ -2,7 +2,7 @@
 
 ### [This Is Cheli Madrid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZmELv)
 
-> This is Cheli Madrid\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Cheli Madrid\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 12 min
 

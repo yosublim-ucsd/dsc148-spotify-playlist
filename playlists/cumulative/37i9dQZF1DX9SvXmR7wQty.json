@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Hay Babies",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra, Louane",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -6238,6 +6238,24 @@
     {
       "album": {
         "name": "C'est toi",
+        "url": "https://open.spotify.com/album/5KvPHrEw9Pg9GbVFaf7ReA"
+      },
+      "artists": [
+        {
+          "name": "Rita Baga",
+          "url": "https://open.spotify.com/artist/0QigUNRqSbo5kTwdH93bHH"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146386,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/2g3Fic14Z4VhYGtuINPXDW"
+    },
+    {
+      "album": {
+        "name": "C'est toi",
         "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
       },
       "artists": [
@@ -9465,6 +9483,24 @@
     },
     {
       "album": {
+        "name": "A\u00e9rosol",
+        "url": "https://open.spotify.com/album/7bfemQmQmrQQlEqCQmZhul"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235745,
+      "name": "Coyoac\u00e1n",
+      "url": "https://open.spotify.com/track/5PlXi09oJnJD2JqgqyVW3r"
+    },
+    {
+      "album": {
         "name": "Civilisation Edition Ultime",
         "url": "https://open.spotify.com/album/68YP0pEgwhnfRqQAzu71gP"
       },
@@ -10079,6 +10115,24 @@
     },
     {
       "album": {
+        "name": "Dal\u00ed",
+        "url": "https://open.spotify.com/album/1yEluoqj12CZmTplcnB8EW"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162149,
+      "name": "Dal\u00ed",
+      "url": "https://open.spotify.com/track/6Tf9XtivRsQaNmT78p3jHM"
+    },
+    {
+      "album": {
         "name": "Sur le fil",
         "url": "https://open.spotify.com/album/5k4lBRvB4GiLmH3gWJwukK"
       },
@@ -10501,6 +10555,24 @@
     },
     {
       "album": {
+        "name": "Dans mon d\u00e9lire",
+        "url": "https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57"
+      },
+      "artists": [
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167716,
+      "name": "Dans mon d\u00e9lire",
+      "url": "https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0"
+    },
+    {
+      "album": {
         "name": "Dans Mon Prime",
         "url": "https://open.spotify.com/album/4NiIcLGYk7ej0l1M2eKEEI"
       },
@@ -10588,7 +10660,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 214588,
       "name": "DANSER",
       "url": "https://open.spotify.com/track/5bC01FxiWaNz4A5N57t7PD"
@@ -12398,7 +12470,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 209950,
       "name": "D\u00e9fonc\u00e9",
       "url": "https://open.spotify.com/track/7vsoUQJUK2d3y8C3N3F9f2"
@@ -13762,7 +13834,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 179403,
       "name": "Entre le chien et le loup",
       "url": "https://open.spotify.com/track/5EfUzRJcWcUvOweQMn3JlW"
@@ -14952,7 +15024,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 192998,
       "name": "Faut que tu m'aimes",
       "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
@@ -15368,7 +15440,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 204986,
       "name": "Finalement",
       "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
@@ -16411,6 +16483,24 @@
     },
     {
       "album": {
+        "name": "G4ME0VER",
+        "url": "https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9Li",
+          "url": "https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "G4ME0VER",
+      "url": "https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW"
+    },
+    {
+      "album": {
         "name": "Gabriel",
         "url": "https://open.spotify.com/album/0VBafPEujxjs7wbBIW47fu"
       },
@@ -16806,7 +16896,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 148877,
       "name": "GO GO GO (Feat. Josman)",
       "url": "https://open.spotify.com/track/1SXkflyNJkKKNHzkWuFIix"
@@ -17539,6 +17629,24 @@
     },
     {
       "album": {
+        "name": "Hey Sophia",
+        "url": "https://open.spotify.com/album/6l45hR6O8aeBETmpw1smw7"
+      },
+      "artists": [
+        {
+          "name": "Kinkead",
+          "url": "https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196120,
+      "name": "Hey Sophia",
+      "url": "https://open.spotify.com/track/46PQokbJBAJB7Nz2sAPNw6"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/2rA2AxZHzLbjbF8AmwX3iw"
       },
@@ -18010,6 +18118,24 @@
       "duration_ms": 182853,
       "name": "Houston",
       "url": "https://open.spotify.com/track/41njRJ9m4HJ3yoP0B0MBgE"
+    },
+    {
+      "album": {
+        "name": "Huby boy",
+        "url": "https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN"
+      },
+      "artists": [
+        {
+          "name": "Alex Pic",
+          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137671,
+      "name": "Huby boy",
+      "url": "https://open.spotify.com/track/58eJn1Lxb9kC6d91luXcVg"
     },
     {
       "album": {
@@ -21248,7 +21374,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 191065,
       "name": "Jouer pour jouer",
       "url": "https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY"
@@ -22554,6 +22680,24 @@
       "duration_ms": 215373,
       "name": "L'origine du mal - From 'L'origine du mal'",
       "url": "https://open.spotify.com/track/43JxVRgyJlejObCGMYbdYv"
+    },
+    {
+      "album": {
+        "name": "L'unique juste milieu semble \u00eatre que la seule chose dont nous devons avoir peur est la peur elle-m\u00eame",
+        "url": "https://open.spotify.com/album/0WldrHFnRcsZrMr8Aw1e28"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275777,
+      "name": "L'unique juste milieu semble \u00eatre que la seule chose dont nous devons avoir peur est la peur elle-m\u00eame",
+      "url": "https://open.spotify.com/track/7nzVaqoOSwTbqV3TgYMnpa"
     },
     {
       "album": {
@@ -24925,6 +25069,24 @@
     },
     {
       "album": {
+        "name": "Le monde est fou",
+        "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Le monde est fou",
+      "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
+    },
+    {
+      "album": {
         "name": "Le monde est \u00e0 moi",
         "url": "https://open.spotify.com/album/6yRc6dlhGbezoHvfwLuTiM"
       },
@@ -26188,6 +26350,28 @@
       "duration_ms": 232053,
       "name": "Les lumi\u00e8res dans le ciel",
       "url": "https://open.spotify.com/track/28Jedg7kYNAgpN10eEjvJV"
+    },
+    {
+      "album": {
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201055,
+      "name": "Les Montgolfi\u00e8res",
+      "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
     },
     {
       "album": {
@@ -28792,7 +28976,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 174989,
       "name": "Marina",
       "url": "https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD"
@@ -29520,7 +29704,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 245093,
       "name": "Messie",
       "url": "https://open.spotify.com/track/6JMVUBNCmJm8ezhtkVxZEY"
@@ -29744,7 +29928,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 193090,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/6XuNZQ1GCREA3B9Y0x1YjL"
@@ -31191,6 +31375,24 @@
     },
     {
       "album": {
+        "name": "n'as-tu jamais vu d'oiseaux",
+        "url": "https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137971,
+      "name": "n'as-tu jamais vu d'oiseaux",
+      "url": "https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264"
+    },
+    {
+      "album": {
         "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
         "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
       },
@@ -31936,6 +32138,24 @@
       "duration_ms": 218639,
       "name": "Nouvelle Vague",
       "url": "https://open.spotify.com/track/12kBPE64F24yAAACOg1LsI"
+    },
+    {
+      "album": {
+        "name": "nouvelle vie",
+        "url": "https://open.spotify.com/album/2SCDDp4qknjCUBufmbuEyg"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "nouvelle vie",
+      "url": "https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H"
     },
     {
       "album": {
@@ -32947,6 +33167,24 @@
     },
     {
       "album": {
+        "name": "ORIGINAL FINESSEUR",
+        "url": "https://open.spotify.com/album/2t0i4ZzpYztDiDegowkufU"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "ORIGINAL FINESSEUR",
+      "url": "https://open.spotify.com/track/2rSKV180yMV8T4goCCFq8k"
+    },
+    {
+      "album": {
         "name": "Oseille Des Francs-Ma\u00e7ons",
         "url": "https://open.spotify.com/album/49LrhWQdrDcGQrIrFQemTw"
       },
@@ -33714,7 +33952,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 145866,
       "name": "Parenth\u00e8se",
       "url": "https://open.spotify.com/track/6CWz6oc9t9BWHV04JUUgqX"
@@ -37724,7 +37962,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 196334,
       "name": "Recommence-moi",
       "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
@@ -39788,7 +40026,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 181580,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
@@ -40363,6 +40601,24 @@
     },
     {
       "album": {
+        "name": "Shalala",
+        "url": "https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt"
+      },
+      "artists": [
+        {
+          "name": "La Chicane",
+          "url": "https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162416,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE"
+    },
+    {
+      "album": {
         "name": "Apr\u00e8s Gambinerie",
         "url": "https://open.spotify.com/album/7eEGUogVe7Et5HU0NPqPtF"
       },
@@ -40476,7 +40732,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 186625,
       "name": "Shloshlo",
       "url": "https://open.spotify.com/track/5MaOfkPL7Fa4pUxmkH4q3K"
@@ -46057,6 +46313,28 @@
     },
     {
       "album": {
+        "name": "Une nuit \u00e0 Paris",
+        "url": "https://open.spotify.com/album/7DCWNYVc3UlDYRQf9PJoym"
+      },
+      "artists": [
+        {
+          "name": "pataugeoire",
+          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
+        },
+        {
+          "name": "Claire Morrison",
+          "url": "https://open.spotify.com/artist/5gEPev2nkwI0VZMMQ5i7fg"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Une nuit \u00e0 Paris",
+      "url": "https://open.spotify.com/track/5g5Teg7FeCD0coLI9hHDow"
+    },
+    {
+      "album": {
         "name": "Une \u00e9quipe",
         "url": "https://open.spotify.com/album/1ct2biHjYjcx7A7dMcFhTB"
       },
@@ -46408,6 +46686,24 @@
       "duration_ms": 153103,
       "name": "Vampire",
       "url": "https://open.spotify.com/track/7Iy3isMoMHYsKPtUZdXWE6"
+    },
+    {
+      "album": {
+        "name": "VANESSA'S FIRST RAVE",
+        "url": "https://open.spotify.com/album/4rIsAp0i4ogiKtPsrN8vE9"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "VANESSA'S FIRST RAVE",
+      "url": "https://open.spotify.com/track/3SiubxzJUUQP75qS2VGENV"
     },
     {
       "album": {
@@ -47220,7 +47516,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 265920,
       "name": "V\u00e9suve",
       "url": "https://open.spotify.com/track/01lAjzyIDUiIUDX0mBJtMC"
@@ -47674,7 +47970,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 150624,
       "name": "Woah, Stop",
       "url": "https://open.spotify.com/track/4LXn6KKfHhw26Z0ZUfSSPW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch?si=NGWTyGHRSlik5iXPsgF0QQ">Lelowhatsgood</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,992 likes - 63 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,051 likes - 63 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

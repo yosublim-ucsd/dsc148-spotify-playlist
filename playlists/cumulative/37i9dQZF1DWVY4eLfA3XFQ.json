@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Odd Mob & OMNOM. 50% techno, 50% house",
+  "description": "Tech house technicians, featuring Martin Ikin. 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 205095,
       "name": "All For You - Westend Remix",
       "url": "https://open.spotify.com/track/2bR5Zu8IgFhhIlBXvpXeKG"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 214015,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/6WTPc4F9JTc87swU02mYrx"
@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 186562,
       "name": "Better World",
       "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
@@ -6572,10 +6572,28 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 197209,
       "name": "Desire",
       "url": "https://open.spotify.com/track/54c8PUbkgewteMoYWQupPM"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/20zG6Tg485owXOyMzL2YND"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/24Gv8fomuWc1usQayn2yOu"
     },
     {
       "album": {
@@ -6766,6 +6784,24 @@
       "duration_ms": 150461,
       "name": "Dile",
       "url": "https://open.spotify.com/track/7qsyyhllSvwoJl4I1O4VZW"
+    },
+    {
+      "album": {
+        "name": "Diluvio",
+        "url": "https://open.spotify.com/album/09YqQh4UDSidW3LLJZteIw"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178211,
+      "name": "Diluvio",
+      "url": "https://open.spotify.com/track/1ktxjDVHlAqnzmbmzgKoZC"
     },
     {
       "album": {
@@ -12518,7 +12554,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 184730,
       "name": "House Everyday (with SMACK)",
       "url": "https://open.spotify.com/track/4EE5X9LOrCHjslc1YNo1ot"
@@ -12778,6 +12814,24 @@
       "duration_ms": 215870,
       "name": "Human (feat. Echoes) - Joshwa Remix",
       "url": "https://open.spotify.com/track/23DTsnKCwj5Gf2J1aZXMNh"
+    },
+    {
+      "album": {
+        "name": "Hustlin'",
+        "url": "https://open.spotify.com/album/4xHL13vhsW8TZ6EQcjVgJJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159534,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/08j5W9R5lK3sBXo1A4zgGz"
     },
     {
       "album": {
@@ -14497,6 +14551,28 @@
     },
     {
       "album": {
+        "name": "Justi\u00e7a EP",
+        "url": "https://open.spotify.com/album/4jlunifPdEPVEVShNZYhrY"
+      },
+      "artists": [
+        {
+          "name": "OldChild",
+          "url": "https://open.spotify.com/artist/0ASxOxyFC1JcjhnYxmldls"
+        },
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Justi\u00e7a",
+      "url": "https://open.spotify.com/track/773tughXqcLU5ztfWVyEsk"
+    },
+    {
+      "album": {
         "name": "Kanpai",
         "url": "https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB"
       },
@@ -15140,6 +15216,32 @@
       "duration_ms": 206971,
       "name": "La Murga - Michael's Midnight Mix",
       "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
+    },
+    {
+      "album": {
+        "name": "La Musica",
+        "url": "https://open.spotify.com/album/6oosHftkdOTw9x6dm6NnCr"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW"
     },
     {
       "album": {
@@ -18778,7 +18880,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 165000,
       "name": "Move With Me",
       "url": "https://open.spotify.com/track/63eRXDiU4N4RsJ9vN2vgIx"
@@ -22244,7 +22346,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 176250,
       "name": "Pop",
       "url": "https://open.spotify.com/track/4J5KCUFanJFj0RSniGSzGh"
@@ -23016,7 +23118,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 214246,
       "name": "Rave It",
       "url": "https://open.spotify.com/track/4UUBIgsedhmgx3DqAlhhtF"
@@ -23068,6 +23170,36 @@
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
+    },
+    {
+      "album": {
+        "name": "The Unexplained",
+        "url": "https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135468,
+      "name": "Reading My Mind",
+      "url": "https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY"
     },
     {
       "album": {
@@ -27376,7 +27508,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 169783,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/0zaa2DnLFJHgP6YmtKAh0K"
@@ -27566,6 +27698,24 @@
       "duration_ms": 139047,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/1BBxP6CwIQICRZbcsmUz40"
+    },
+    {
+      "album": {
+        "name": "Take You To Church",
+        "url": "https://open.spotify.com/album/2Z9ZjX9kf6AIQFSAe6Jz6t"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224364,
+      "name": "Take You To Church",
+      "url": "https://open.spotify.com/track/6P1IAlCdtvBK30QLnOinnt"
     },
     {
       "album": {
@@ -30253,6 +30403,28 @@
     },
     {
       "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/66pannmlBSJYnwyeMiFQR3"
+      },
+      "artists": [
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173383,
+      "name": "Turn it Up",
+      "url": "https://open.spotify.com/track/6GQ8k7n7CSNjSXN42cTYlE"
+    },
+    {
+      "album": {
         "name": "Turugudatudu",
         "url": "https://open.spotify.com/album/2qbaBZeiLEJypziId63BBj"
       },
@@ -31552,6 +31724,32 @@
       "duration_ms": 201600,
       "name": "We Got The Fire",
       "url": "https://open.spotify.com/track/4KGBFbXNCKNC6ZPwdhx0eq"
+    },
+    {
+      "album": {
+        "name": "We Groovin (with Jazzy) [Shermanology Remix]",
+        "url": "https://open.spotify.com/album/3vFN9Zi54TTXRBRvyTfg4T"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "We Groovin (with Jazzy) - Shermanology Remix",
+      "url": "https://open.spotify.com/track/7erTn3eeUxPzlkiThXkevf"
     },
     {
       "album": {

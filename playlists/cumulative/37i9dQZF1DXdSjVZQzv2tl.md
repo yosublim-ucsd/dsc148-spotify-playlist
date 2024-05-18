@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Felipe & Rodrigo
 
-216 songs - 10 hr 13 min
+217 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 | 2024-04-19 |  |
 | [DEUS É MUITO BOM \- Ao Vivo](https://open.spotify.com/track/235CP5ItAYMS6usv3C8jkP) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [DEUS É MUITO BOM \(Ao Vivo\)](https://open.spotify.com/album/49T6GunhdUuSCbYBZ156AD) | 2:54 | 2023-05-05 | 2023-06-17 |
 | [Devia Ser Proibido \- Ao Vivo Em Brasília](https://open.spotify.com/track/0QcKkN8b4iVkmVsbaze8OS) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4KanzzLcDoiraz456AUvEl) | 2:53 | 2023-08-18 | 2024-03-30 |
-| [Digitando](https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Digitando](https://open.spotify.com/album/1aPgUsmZYO2HRb6QkaZvpM) | 3:15 | 2024-03-08 |  |
+| [Digitando](https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Digitando](https://open.spotify.com/album/1aPgUsmZYO2HRb6QkaZvpM) | 3:15 | 2024-03-08 | 2024-05-18 |
 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/0H1h4bJVyvphtw1MonsB5I) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4Mo8bKxZFTR5UHZVPDSuG7) | 2:53 | 2023-09-22 |  |
 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk) | 3:09 | 2024-03-29 |  |
 | [DONA DE MIM](https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DONA DE MIM](https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO) | 2:25 | 2022-12-28 | 2023-09-02 |
@@ -185,6 +185,7 @@
 | [Quem tá Pegando](https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Quem tá Pegando](https://open.spotify.com/album/5khAraskzd7fw9TQbR39PR) | 2:42 | 2023-06-16 | 2024-04-13 |
 | [Rancorosa \- Ao Vivo Em Brasília](https://open.spotify.com/track/7CUQQLRMIeSfa4m2uQcRHp) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Rancorosa \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/1A07EzPDoFwgJvDgIVPcpI) | 3:01 | 2023-03-31 | 2023-07-01 |
 | [Rasteira \- Ao Vivo](https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:09 | 2021-12-31 | 2022-12-10 |
+| [Saudade Butequeira \- Ao Vivo](https://open.spotify.com/track/1VbunACv3Z4cGfBenC7oTx) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA) | 2:29 | 2024-05-17 |  |
 | [Saudade da Minha Vida \- Ao Vivo](https://open.spotify.com/track/51FFbyL0PjkYtjXJQP0JoP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Saudade da Minha Vida \(Ao Vivo\)](https://open.spotify.com/album/12cggEPGtw4AamOwbk6Got) | 3:14 | 2023-02-16 | 2023-09-16 |
 | [Se Ele Soubesse \- Ao Vivo Em Goiânia](https://open.spotify.com/track/2zDwJnP9n9yCUyfiLIwkDM) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Se Ele Soubesse \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/3IzxCfPuWv3r8fQ1IpDY5a) | 2:50 | 2023-02-15 | 2023-07-22 |
 | [Se Eu Beber Uma Lata \- Ao Vivo](https://open.spotify.com/track/4OOoK6nkSn6OSVWBdrEKB0) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Se Eu Beber Uma Lata \(Ao Vivo\)](https://open.spotify.com/album/1jUSw7tkrI7ntaeqEHdjIx) | 2:24 | 2024-05-03 | 2024-05-04 |

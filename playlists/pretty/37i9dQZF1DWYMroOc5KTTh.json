@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 486498,
+  "num_followers": 486693,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -907,18 +907,22 @@
     {
       "added_at": "2024-05-10 15:25:47",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Where Angels Fear To Tread",
-      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
+      "duration_ms": 229743,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
     }
   ],
   "unique_name": "Serotonin",

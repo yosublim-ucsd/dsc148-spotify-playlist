@@ -3363,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Somebody Say Amen",
+        "url": "https://open.spotify.com/album/3uHEcChrWFhp5pFDfl3Jy2"
+      },
+      "artists": [
+        {
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174032,
+      "name": "Somebody Say Amen",
+      "url": "https://open.spotify.com/track/6Vwt1in82gTOatE0tO3sZM"
+    },
+    {
+      "album": {
         "name": "As Far As I Can See: The Best Of",
         "url": "https://open.spotify.com/album/0ROZM42Ts60ECkvAm10CyA"
       },
@@ -3418,6 +3436,24 @@
       "duration_ms": 262379,
       "name": "Somewhere in the Sunshine",
       "url": "https://open.spotify.com/track/0ZumjEWenangePeQRcq0h9"
+    },
+    {
+      "album": {
+        "name": "Songs About Jesus",
+        "url": "https://open.spotify.com/album/7oWHCY0bUwwvVvj2saT4UR"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lane",
+          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197148,
+      "name": "Songs About Jesus",
+      "url": "https://open.spotify.com/track/7BIpImnCKnk5PHVYRC9vfa"
     },
     {
       "album": {

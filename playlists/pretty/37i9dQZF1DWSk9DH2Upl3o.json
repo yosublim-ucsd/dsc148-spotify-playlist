@@ -1,13 +1,49 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 30788,
+  "num_followers": 30804,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjRhfAAAAACCIFfw0FV3HONnDKkvVBzM",
+  "snapshot_id": "ZkbWfAAAAACmH93ngFtIx0WmXJgM424G",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Improvisations with Ram Dass",
+        "url": "https://open.spotify.com/album/09OgnSuSxMsE29yUUoHoO8"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        },
+        {
+          "name": "Ram Dass",
+          "url": "https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS"
+        }
+      ],
+      "duration_ms": 416354,
+      "name": "Knowledge or Wisdom",
+      "url": "https://open.spotify.com/track/0oIbvgSpbzZtX3ovD14Z27"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Sum'n Boutchu",
+        "url": "https://open.spotify.com/album/6zaZBgMflZM7MMOEnFj0GA"
+      },
+      "artists": [
+        {
+          "name": "Hot Like Mars",
+          "url": "https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh"
+        }
+      ],
+      "duration_ms": 305737,
+      "name": "Sum'n Boutchu",
+      "url": "https://open.spotify.com/track/4THWSAfTsDC6W7rzgLeYpZ"
+    },
     {
       "added_at": "2024-05-03 04:01:00",
       "album": {
@@ -131,22 +167,6 @@
       "duration_ms": 252160,
       "name": "Evolve",
       "url": "https://open.spotify.com/track/6M7LYr6R248JrG3eoA0Xui"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "The Funk",
-        "url": "https://open.spotify.com/album/3xJCoX4DmruRsiDK1E8r8k"
-      },
-      "artists": [
-        {
-          "name": "Hot Like Mars",
-          "url": "https://open.spotify.com/artist/26JLN9tc9p730kRILV3mvh"
-        }
-      ],
-      "duration_ms": 529500,
-      "name": "The Funk",
-      "url": "https://open.spotify.com/track/0WeCFdC599NfSLEYF4DhIK"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -415,22 +435,6 @@
       "duration_ms": 353103,
       "name": "Stuck in Between",
       "url": "https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "To Live A Making",
-        "url": "https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 389403,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM"
     },
     {
       "added_at": "2023-09-15 04:01:00",

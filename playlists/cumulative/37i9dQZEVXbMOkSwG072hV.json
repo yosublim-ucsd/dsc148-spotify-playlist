@@ -11183,6 +11183,32 @@
     },
     {
       "album": {
+        "name": "Deixa Eu Botar",
+        "url": "https://open.spotify.com/album/6qrfUroN8CeYDn87ORpFcc"
+      },
+      "artists": [
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
+          "name": "dj andreoli",
+          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
+        },
+        {
+          "name": "Douth!",
+          "url": "https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104360,
+      "name": "Deixa Eu Botar",
+      "url": "https://open.spotify.com/track/7bBD12XmRKP577rmXmcyho"
+    },
+    {
+      "album": {
         "name": "Deixa eu botar meu boneco (Baile do Polly 2.0)",
         "url": "https://open.spotify.com/album/1WC0f6GW92K5JzuD2V13N8"
       },
@@ -29294,10 +29320,32 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 148615,
       "name": "MTG E QUANDO CHEGA A NOITE",
       "url": "https://open.spotify.com/track/2ItaXascJmBRXYonCED095"
+    },
+    {
+      "album": {
+        "name": "MTG E QUANDO CHEGA A NOITE",
+        "url": "https://open.spotify.com/album/2EtGBi6UFAqT27peQajgAR"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/2hqnL7vhfu4xbGZyG9rdBe"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "MTG E QUANDO CHEGA A NOITE",
+      "url": "https://open.spotify.com/track/5cnLEUmLqLBLzu0Y2fOYTz"
     },
     {
       "album": {
@@ -29492,7 +29540,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"

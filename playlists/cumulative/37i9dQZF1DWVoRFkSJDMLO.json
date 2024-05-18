@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Victony \ud83c\uddf3\ud83c\uddec",
+  "description": "Inspired by African drums. Cover: Minz & Davido \ud83c\uddf3\ud83c\uddec \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 160584,
       "name": "6ex In The Morning",
       "url": "https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC"
+    },
+    {
+      "album": {
+        "name": "9 Months Time",
+        "url": "https://open.spotify.com/album/2ZohqeEiC93FB5LcUp1cFI"
+      },
+      "artists": [
+        {
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "9 Months Time",
+      "url": "https://open.spotify.com/track/4EsEiceQdPIguforj9Ft6M"
     },
     {
       "album": {
@@ -2071,6 +2089,28 @@
     },
     {
       "album": {
+        "name": "Billions",
+        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224003,
+      "name": "Billions",
+      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
+    },
+    {
+      "album": {
         "name": "Bingo",
         "url": "https://open.spotify.com/album/4vmb587WlPdcNPzaoMmsoN"
       },
@@ -3464,7 +3504,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 172171,
       "name": "Closer",
       "url": "https://open.spotify.com/track/14KVzyw4gFhIv6r43dYHbt"
@@ -3526,6 +3566,28 @@
       "duration_ms": 190226,
       "name": "Cocoa Butter",
       "url": "https://open.spotify.com/track/14SIPzOUdXpVCUQFxbGOGH"
+    },
+    {
+      "album": {
+        "name": "CODE 97, Vol. 1",
+        "url": "https://open.spotify.com/album/5F7gMyMowj4xlt1cYvAJEf"
+      },
+      "artists": [
+        {
+          "name": "Dj Quick",
+          "url": "https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "Code 97",
+      "url": "https://open.spotify.com/track/756ErmT4AiOj7uQjFna3r6"
     },
     {
       "album": {
@@ -4450,6 +4512,24 @@
       "duration_ms": 147840,
       "name": "Doggie - Remix",
       "url": "https://open.spotify.com/track/556R8sj2EQvhqkUdGI2Czg"
+    },
+    {
+      "album": {
+        "name": "Dolla (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/6bJqdE6a1mRYzzSGK2zycd"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178388,
+      "name": "Dolla - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6fOKSOoWafYU099bNaf6Y8"
     },
     {
       "album": {
@@ -5488,7 +5568,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 153818,
       "name": "Flava",
       "url": "https://open.spotify.com/track/6WIQ5I5BssinqHkuxYWHSw"
@@ -6702,7 +6782,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 174743,
       "name": "Happiness (feat. Asake & Gunna)",
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
@@ -10337,6 +10417,28 @@
     },
     {
       "album": {
+        "name": "Maneuver",
+        "url": "https://open.spotify.com/album/25jhDPjLU58vtmoNxsYVcQ"
+      },
+      "artists": [
+        {
+          "name": "Gnewzy",
+          "url": "https://open.spotify.com/artist/2JAcb1ml3M70lNwgrkajYw"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151826,
+      "name": "Maneuver",
+      "url": "https://open.spotify.com/track/2ODAvnex44msoXiQvrbIkb"
+    },
+    {
+      "album": {
         "name": "Margaret",
         "url": "https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h"
       },
@@ -11382,7 +11484,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 198593,
       "name": "Neva Neva",
       "url": "https://open.spotify.com/track/2mI9snG6nJeQ9cJVahpaDv"
@@ -11796,7 +11898,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 132244,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/1737ApFPMa1YLidEdJ7MwN"
@@ -16931,6 +17033,28 @@
     },
     {
       "album": {
+        "name": "Tek It On",
+        "url": "https://open.spotify.com/album/1AUdsqZocWtuahpDArOqx2"
+      },
+      "artists": [
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154951,
+      "name": "Tek It On",
+      "url": "https://open.spotify.com/track/25IWwwrQBzlI1ds5fR4AQo"
+    },
+    {
+      "album": {
         "name": "Tek Jam",
         "url": "https://open.spotify.com/album/4Zk6hph7AuXjcf189rcWXx"
       },
@@ -17650,7 +17774,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 177203,
       "name": "Too Busy To Be Bae",
       "url": "https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A"
@@ -17955,6 +18079,36 @@
     },
     {
       "album": {
+        "name": "Tshwala Bam (feat. S.N.E) [Remix]",
+        "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Tshwala Bam (feat. S.N.E) - Remix",
+      "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
+    },
+    {
+      "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
       },
@@ -17978,7 +18132,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
@@ -18714,6 +18868,28 @@
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
+    },
+    {
+      "album": {
+        "name": "wap",
+        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "wap",
+      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
     },
     {
       "album": {

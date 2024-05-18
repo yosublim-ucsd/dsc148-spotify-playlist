@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Masdddho
 
-328 songs - 1 day 2 hr 57 min
+329 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/track/6LKFSmhIt0htvIWjAgjr8R) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/album/6ui8Tm4QJu7qhf2bCgd3ZI) | 4:36 | 2022-05-26 | 2023-01-06 |
 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 | 2022-05-26 |  |
 | [Mergawe](https://open.spotify.com/track/5N2z1MNzKTszoXTZmPnwgG) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ) | [Mergawe](https://open.spotify.com/album/3msYUmQcFQO1D01tcyNmn5) | 3:50 | 2023-04-27 | 2023-09-22 |
+| [Mikir Mikir](https://open.spotify.com/track/3YXIQCSmo2BEY4WrUHtXxZ) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Mikir Mikir](https://open.spotify.com/album/2dOY1I0VJPzvpPTstppYmP) | 4:11 | 2024-05-16 |  |
 | [Minggato](https://open.spotify.com/track/0pyIRAkOApRPrYThYzv1eF) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka) | [Minggato](https://open.spotify.com/album/35ZdXSLT9YEhRHNmTzHKP2) | 4:03 | 2022-08-14 | 2022-11-14 |
 | [Minggir Awas Pliket](https://open.spotify.com/track/2zIqhoCmnbmcapjODS1Kkr) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz), [Shinta Arsinta](https://open.spotify.com/artist/1NrPlp7STfCyPAoJgc2ZJg), [Bajol Ndanu](https://open.spotify.com/artist/6ryObY5OCY1z42kWIOzh3h) | [Minggir Awas Pliket](https://open.spotify.com/album/20WUgcjqdtj8H9x8nGhxfk) | 4:30 | 2023-09-15 | 2023-12-09 |
 | [Modal Percoyo](https://open.spotify.com/track/4Sv8Mrq1C59S0YEVmBm9cW) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Modal Percoyo](https://open.spotify.com/album/70cBWzDCOSHspnLLdRUNwb) | 4:51 | 2023-12-08 |  |

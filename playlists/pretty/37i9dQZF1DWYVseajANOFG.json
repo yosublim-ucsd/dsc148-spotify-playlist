@@ -1,32 +1,32 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
-  "num_followers": 113947,
+  "num_followers": 114025,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2bwAAAAABw4T1yH7GODfeh4kIWPe6A",
+  "snapshot_id": "ZkbWQAAAAADpy534aMCrqSGWJ99X63nF",
   "tracks": [
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Cosas Que Enamoran",
-        "url": "https://open.spotify.com/album/3cHgF5EuVjGVQ1P5f35k9J"
+        "name": "La Ni\u00f1a Consentida",
+        "url": "https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ"
       },
       "artists": [
         {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
         },
         {
-          "name": "CRBRO",
-          "url": "https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe"
+          "name": "Kevin Ice",
+          "url": "https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3"
         }
       ],
-      "duration_ms": 154105,
-      "name": "Cosas Que Enamoran",
-      "url": "https://open.spotify.com/track/1a49mR9cbwbgpEIZ1Wh20y"
+      "duration_ms": 299650,
+      "name": "La Ni\u00f1a Consentida",
+      "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -49,26 +49,6 @@
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "La Ni\u00f1a Consentida",
-        "url": "https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        },
-        {
-          "name": "Kevin Ice",
-          "url": "https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3"
-        }
-      ],
-      "duration_ms": 299650,
-      "name": "La Ni\u00f1a Consentida",
-      "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "SLOW MOTION",
@@ -83,6 +63,26 @@
       "duration_ms": 148235,
       "name": "SLOW MOTION",
       "url": "https://open.spotify.com/track/39bC00z54m8bYpAXHbLR3U"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Welcome To Reality (2024 Remastered Version)",
+        "url": "https://open.spotify.com/album/5XvB1Xf2QtvTy8fKOsRoUs"
+      },
+      "artists": [
+        {
+          "name": "El Doble K",
+          "url": "https://open.spotify.com/artist/4isHbp1LrcVnarUj7o6N6I"
+        },
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        }
+      ],
+      "duration_ms": 232874,
+      "name": "Welcome To Reality - 2024 Remastered Version",
+      "url": "https://open.spotify.com/track/5Dpn5nrzFh9pnLwE3VvW3A"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -177,6 +177,34 @@
       "url": "https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt"
     },
     {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "SIN CULPA",
+        "url": "https://open.spotify.com/album/3XNi6X9s6ZfMBg31sKlhso"
+      },
+      "artists": [
+        {
+          "name": "Danny Yash",
+          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
+        },
+        {
+          "name": "K4G",
+          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
+        },
+        {
+          "name": "Faster",
+          "url": "https://open.spotify.com/artist/7HhjjbbHFmD12RKvEiguP8"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/7tag1nf67aRgl95Et6IDhj"
+        }
+      ],
+      "duration_ms": 226416,
+      "name": "SIN CULPA",
+      "url": "https://open.spotify.com/track/4602D8eTkeoNWZF4NCassf"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tu Puto Rock Star",
@@ -215,6 +243,42 @@
       "duration_ms": 138653,
       "name": "Tu Buay",
       "url": "https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Cosas Que Enamoran",
+        "url": "https://open.spotify.com/album/3cHgF5EuVjGVQ1P5f35k9J"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "CRBRO",
+          "url": "https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Cosas Que Enamoran",
+      "url": "https://open.spotify.com/track/1a49mR9cbwbgpEIZ1Wh20y"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "BRONCA",
+        "url": "https://open.spotify.com/album/4GIHkifdtpc91L1MM6AXVv"
+      },
+      "artists": [
+        {
+          "name": "Farah",
+          "url": "https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "BRONCA",
+      "url": "https://open.spotify.com/track/0ELNA7mkruGJKjMbEpY0cC"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -405,22 +469,6 @@
       "url": "https://open.spotify.com/track/0JJ074OaMdofBdF5DRqOVr"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "No Se Puede Confiar",
-        "url": "https://open.spotify.com/album/39dCnq4ZhfrShbfKIBJNsm"
-      },
-      "artists": [
-        {
-          "name": "Japanese",
-          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
-        }
-      ],
-      "duration_ms": 133407,
-      "name": "No Se Puede Confiar",
-      "url": "https://open.spotify.com/track/1KxWYgUCYgryrH8Jc4CyyH"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Conejita Supreme",
@@ -469,26 +517,6 @@
       "url": "https://open.spotify.com/track/7bkGJ5EGPf4x6MAnzG7TaA"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "PERROS",
-        "url": "https://open.spotify.com/album/1EEHu9T5nL3cP4XWKEF2u1"
-      },
-      "artists": [
-        {
-          "name": "Los Rakas",
-          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
-        },
-        {
-          "name": "Kenny Man",
-          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "PERROS",
-      "url": "https://open.spotify.com/track/4gYOh6eOY5wyBBtKjrUUWr"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "La del Tik Tok",
@@ -503,22 +531,6 @@
       "duration_ms": 257592,
       "name": "La del Tik Tok",
       "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "CUPIDO TE FALL\u00d3",
-        "url": "https://open.spotify.com/album/66Z5K5wP441nduC79Ouqol"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 139324,
-      "name": "CUPIDO TE FALL\u00d3",
-      "url": "https://open.spotify.com/track/3ZxeZpz8wMN3yUMDCLHtl5"
     },
     {
       "added_at": "2024-04-26 04:00:00",

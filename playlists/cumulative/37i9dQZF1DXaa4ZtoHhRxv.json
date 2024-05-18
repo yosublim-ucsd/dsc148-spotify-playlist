@@ -27,6 +27,54 @@
     },
     {
       "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/3jAzhfivp48sZJRnB1P87z"
+      },
+      "artists": [
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192976,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/3y5k4YAFvknch51j0UtMIA"
+    },
+    {
+      "album": {
+        "name": "After We Broke Up (feat. Frawley) [VAVO Remix]",
+        "url": "https://open.spotify.com/album/6wyztsue0Gv37CX4qTYSzm"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        },
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137812,
+      "name": "After We Broke Up (feat. Frawley) - VAVO Remix",
+      "url": "https://open.spotify.com/track/5I2QgxdGC5sqUhQb6deQGV"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/0EGEqpUrrlDzUQJvTQjjFR"
       },

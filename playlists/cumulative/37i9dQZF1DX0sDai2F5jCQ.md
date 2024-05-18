@@ -4,7 +4,7 @@
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Ice Spice
 
-264 songs - 13 hr 13 min
+265 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [More Life](https://open.spotify.com/track/2seoURSCaa0mVLqodKvnTF) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [More Life](https://open.spotify.com/album/2LPnUdCOWHiKa8doWVtHum) | 3:08 | 2023-09-22 | 2023-11-17 |
 | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU) | 2:01 | 2024-01-18 | 2024-02-16 |
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-12 | 2024-03-15 |
+| [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-16 |  |
 | [Naughty Child](https://open.spotify.com/track/6VuRkLXw1Z24cK2ugSFaBO) | [SB](https://open.spotify.com/artist/3vD63tWVGtfQaYaNhXMNWT) | [Naughty Child](https://open.spotify.com/album/7sVNRVXaclzgHZObFAR5zc) | 2:50 | 2024-05-02 |  |
 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 | 2023-12-08 | 2024-02-02 |
 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 | 2023-09-22 | 2023-10-13 |

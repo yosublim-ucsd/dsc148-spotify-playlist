@@ -4,19 +4,20 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Mollie Collins x Jamezy x Ruth Royall
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,193 likes - 10 songs - 27 min 59 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,197 likes - 11 songs - 31 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 |
-| 2 | [Stumblin' In \(Wilson & Smokin' Jack Hill Remix\)](https://open.spotify.com/track/0VugF8gMa0BZpsS4LmM6Dg) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Smokin' Jack Hill](https://open.spotify.com/artist/4yBNXUpedJYDi734gNJWSm), [Wilson](https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1) | [Stumblin' In \(Wilson & Smokin' Jack Hill Remix\)](https://open.spotify.com/album/4ZNwTa7FDDaK11sm2iXSzh) | 3:36 |
-| 3 | [Midnight](https://open.spotify.com/track/0WlbKq1FQCKTpP82jSc37u) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Midnight](https://open.spotify.com/album/2TDDTSE6n30E0ZYgBGeIRL) | 2:52 |
-| 4 | [My City](https://open.spotify.com/track/3G8UpeZbzVGRMJQD5Zn3mB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/3xNEWVkFaNdnAPmC0M5J0c) | 2:31 |
-| 5 | [Fade Till Sunrise](https://open.spotify.com/track/3SveeQXLlX4ilxJOqoCHYY) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Fade Till Sunrise](https://open.spotify.com/album/114hIeSkPIDGlfjB1zN6w7) | 3:01 |
+| 1 | [My City](https://open.spotify.com/track/3G8UpeZbzVGRMJQD5Zn3mB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/3xNEWVkFaNdnAPmC0M5J0c) | 2:31 |
+| 2 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 |
+| 3 | [Satisfaction](https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Satisfaction](https://open.spotify.com/album/3ocRwxucX3212g29vOg7je) | 3:33 |
+| 4 | [Get Silly](https://open.spotify.com/track/7que6KGImzpzFfW6jWARLF) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Get Silly](https://open.spotify.com/album/342ESIqWtB7Mi8CpW1WcyN) | 2:57 |
+| 5 | [Midnight](https://open.spotify.com/track/0WlbKq1FQCKTpP82jSc37u) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Midnight](https://open.spotify.com/album/2TDDTSE6n30E0ZYgBGeIRL) | 2:52 |
 | 6 | [Shake It](https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Shake It](https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO) | 2:11 |
 | 7 | [Don't Get Lazy](https://open.spotify.com/track/5otmd1vyOCxDtcvYRrJQ3u) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [Don't Get Lazy](https://open.spotify.com/album/65eU6goKpy3PwvAQgPKFuw) | 2:31 |
 | 8 | [SKELETON](https://open.spotify.com/track/7Id3dL8SN0JIZ0kelI5JcA) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [SKELETON](https://open.spotify.com/album/6mkdOyHLglhEaj50QbGmRk) | 2:26 |
-| 9 | [Get Silly](https://open.spotify.com/track/7que6KGImzpzFfW6jWARLF) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Get Silly](https://open.spotify.com/album/342ESIqWtB7Mi8CpW1WcyN) | 2:57 |
-| 10 | [Satisfaction](https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Satisfaction](https://open.spotify.com/album/3ocRwxucX3212g29vOg7je) | 3:33 |
+| 9 | [Take Control](https://open.spotify.com/track/70z6wZYx5VAM7cw1PrhgxT) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Take Control](https://open.spotify.com/album/4fOXUCgiZkpH22kvDXXgzE) | 3:03 |
+| 10 | [Fade Till Sunrise](https://open.spotify.com/track/3SveeQXLlX4ilxJOqoCHYY) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Fade Till Sunrise](https://open.spotify.com/album/114hIeSkPIDGlfjB1zN6w7) | 3:01 |
+| 11 | [Stumblin' In \(Wilson & Smokin' Jack Hill Remix\)](https://open.spotify.com/track/0VugF8gMa0BZpsS4LmM6Dg) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Smokin' Jack Hill](https://open.spotify.com/artist/4yBNXUpedJYDi734gNJWSm), [Wilson](https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1) | [Stumblin' In \(Wilson & Smokin' Jack Hill Remix\)](https://open.spotify.com/album/4ZNwTa7FDDaK11sm2iXSzh) | 3:36 |
 
-Snapshot ID: `AAAdbwncwRgFLTI44Bn0GCbs4bQYv5/X`
+Snapshot ID: `AAAdchGCgbJiIrQJhViFXZq4HB8E2uWq`

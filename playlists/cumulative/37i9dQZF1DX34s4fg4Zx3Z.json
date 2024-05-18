@@ -3385,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "B\u00e9n L\u1eeda",
+        "url": "https://open.spotify.com/album/7nrduCE26TzfIAZdfzgI5U"
+      },
+      "artists": [
+        {
+          "name": "LGKH",
+          "url": "https://open.spotify.com/artist/4Zcle1oVf2bVAxRbnlEJ4i"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198942,
+      "name": "B\u00e9n L\u1eeda",
+      "url": "https://open.spotify.com/track/6RFctCMfFsOPRIINi4ZLBK"
+    },
+    {
+      "album": {
         "name": "NHUNG DUA TRE",
         "url": "https://open.spotify.com/album/2ivD1txUAxPhgiYq1vjeKY"
       },
@@ -7126,6 +7144,28 @@
       "duration_ms": 222908,
       "name": "C\u00d3 BAO \u0110I\u1ec0U",
       "url": "https://open.spotify.com/track/2mCRjHzWKCCDwLMMpR8Ktl"
+    },
+    {
+      "album": {
+        "name": "C\u00f3 B\u00f4ng Hoa N\u00e0o \u0110\u1eb9p Nh\u01b0 Em ?",
+        "url": "https://open.spotify.com/album/6CCTTI36eWVAij6nsyNI0t"
+      },
+      "artists": [
+        {
+          "name": "FLOWK",
+          "url": "https://open.spotify.com/artist/3wQNjN7btx2UHokhSHgIov"
+        },
+        {
+          "name": "MINSEW",
+          "url": "https://open.spotify.com/artist/4HmEiqt1na9xJ7zUXuYYsK"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192543,
+      "name": "C\u00f3 B\u00f4ng Hoa N\u00e0o \u0110\u1eb9p Nh\u01b0 Em ?",
+      "url": "https://open.spotify.com/track/0t0GQYL06uhSzB4qycOPbL"
     },
     {
       "album": {
@@ -23772,7 +23812,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 134000,
       "name": "STRETCH",
       "url": "https://open.spotify.com/track/0AJEmxsCiYo7gCa79JPhDs"

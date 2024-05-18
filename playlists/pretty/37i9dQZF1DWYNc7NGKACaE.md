@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,266 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,269 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 59 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 | 60 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
 | 61 | [Como Era Antes..\. \(Speed Up\)](https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [Como Era Antes](https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98) | 1:04 |
-| 62 | [Palhaçada Speed](https://open.spotify.com/track/2yKXzrfGw6nNYE4tX9cal0) | [Avelar Music](https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1), [Belim](https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb) | [Palhaçada Speed](https://open.spotify.com/album/54DM6nkdgSQoaHAMyPlQ65) | 2:29 |
-| 63 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU) | 2:33 |
+| 62 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU) | 2:33 |
+| 63 | [Palhaçada Speed](https://open.spotify.com/track/2yKXzrfGw6nNYE4tX9cal0) | [Avelar Music](https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1), [Belim](https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb) | [Palhaçada Speed](https://open.spotify.com/album/54DM6nkdgSQoaHAMyPlQ65) | 2:29 |
 | 64 | [Hoje Ela Pede Pandora \( Speed Up\)](https://open.spotify.com/track/03iw5tUT1HLxI0pnlKKiKV) | [SÁBIO HITS](https://open.spotify.com/artist/4gvsIHO7sKgvNYPs3J5jDk) | [Hoje Ela Pede Pandora \( Speed Up\)](https://open.spotify.com/album/2CzQPK3aKSkXqblJTcRIBH) | 3:22 |
 | 65 | [Ametista \(Speed Up\)](https://open.spotify.com/track/51MY4wQdwpyV7m8nW7a8uq) | [WZ MC](https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud), [AyDucz](https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ) | [Ametista \(Speed Up\)](https://open.spotify.com/album/6LdidnaG9Du6NDSMv90mgg) | 1:47 |
 | 66 | [O Que Adianta Bê, Ser Tão Gostosa Se Ela É da Farra, Bandida Treinada](https://open.spotify.com/track/6Q9cuXO5sgz7ValLDMyCMU) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0) | [O Que Adianta Bê, Ser Tão Gostosa Se Ela É da Farra, Bandida Treinada](https://open.spotify.com/album/7df6QDvBmyLjLhrby1VfUW) | 2:01 |

@@ -1,13 +1,45 @@
 {
-  "description": "Underground indie rock gems. Cover: Sunday (1994)",
-  "num_followers": 295165,
+  "description": "Underground indie rock gems. Cover: Wishy",
+  "num_followers": 295184,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2bwAAAAABB7t+8wF0qy0+d5cZ4zrXW",
+  "snapshot_id": "Zkdo+AAAAADfOy7vjDsoXrcZSdTE7d/y",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Love On The Outside",
+        "url": "https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Love On The Outside",
+      "url": "https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Holy Touch",
+        "url": "https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN"
+      },
+      "artists": [
+        {
+          "name": "Suzy Clue",
+          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+        }
+      ],
+      "duration_ms": 224395,
+      "name": "Holy Touch",
+      "url": "https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG"
+    },
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/2xu5nRMqxuXSdHPFUglucc"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Pocket",
-        "url": "https://open.spotify.com/album/5ot35hDaT9NPUbzH7ZsEj4"
+        "name": "Television",
+        "url": "https://open.spotify.com/album/7azrGthLlLzYSALyEWq4ne"
       },
       "artists": [
         {
-          "name": "The Sewing Club",
-          "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q"
+          "name": "Moon Tide Gallery",
+          "url": "https://open.spotify.com/artist/5yS0ICIkgehkPHwYCpe5Hy"
         }
       ],
-      "duration_ms": 192558,
-      "name": "Pocket",
-      "url": "https://open.spotify.com/track/3NkSNn6fmai9EDwdiym2BT"
+      "duration_ms": 152472,
+      "name": "Television",
+      "url": "https://open.spotify.com/track/0X8bnjtn3TXsMRcnIpQFaG"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -55,6 +87,54 @@
       "duration_ms": 242438,
       "name": "Why Is It Light Out?",
       "url": "https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/6GKWORJPsbQ2lLP5Sa9s6k"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 179467,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/1WfEUgnWKJLPpuEbEj69qh"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "The Old House",
+        "url": "https://open.spotify.com/album/6BWKgcaJZQUUqG1Zx2ptVA"
+      },
+      "artists": [
+        {
+          "name": "Malice K",
+          "url": "https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI"
+        }
+      ],
+      "duration_ms": 175848,
+      "name": "The Old House",
+      "url": "https://open.spotify.com/track/48Py2jG47hcyEbq42rNJ3M"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/5ot35hDaT9NPUbzH7ZsEj4"
+      },
+      "artists": [
+        {
+          "name": "The Sewing Club",
+          "url": "https://open.spotify.com/artist/4dEUp9bmI8xPLDdVfEN24Q"
+        }
+      ],
+      "duration_ms": 192558,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/3NkSNn6fmai9EDwdiym2BT"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1427,38 +1507,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "kind",
-        "url": "https://open.spotify.com/album/48oMrS46I2wpHnv9j07RLx"
-      },
-      "artists": [
-        {
-          "name": "High Sunn",
-          "url": "https://open.spotify.com/artist/2zBwozgONxPvn5iOOwuO7g"
-        }
-      ],
-      "duration_ms": 238909,
-      "name": "kind",
-      "url": "https://open.spotify.com/track/5ttZib0IxapfdIeyCUtvcR"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Rat Saw God",
-        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 247520,
-      "name": "Quarry",
-      "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "August 19",
         "url": "https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP"
       },
@@ -1511,26 +1559,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "i saw a flying saucer",
-        "url": "https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI"
-        },
-        {
-          "name": "ctrl + me",
-          "url": "https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X"
-        }
-      ],
-      "duration_ms": 169062,
-      "name": "i saw a flying saucer",
-      "url": "https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "why aren't you laughing?",
         "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
       },
@@ -1563,22 +1591,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Spinning",
-        "url": "https://open.spotify.com/album/7wtxFKEjWcmtgUAtRmVLfv"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Suntub",
         "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
       },
@@ -1591,22 +1603,6 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Drive All Night",
-        "url": "https://open.spotify.com/album/2cMbT3yMZXW7cZBhsB8BDD"
-      },
-      "artists": [
-        {
-          "name": "Joyer",
-          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "Drive All Night",
-      "url": "https://open.spotify.com/track/44aFBL4dfxZhUcHgw28mIv"
     },
     {
       "added_at": "2024-03-01 05:00:00",

@@ -25131,6 +25131,24 @@
     },
     {
       "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4fOXUCgiZkpH22kvDXXgzE"
+      },
+      "artists": [
+        {
+          "name": "Wave Wave",
+          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183398,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/70z6wZYx5VAM7cw1PrhgxT"
+    },
+    {
+      "album": {
         "name": "Take Me Away (Into The Night)",
         "url": "https://open.spotify.com/album/4KRBdJXmN50QXMq76FC5fc"
       },

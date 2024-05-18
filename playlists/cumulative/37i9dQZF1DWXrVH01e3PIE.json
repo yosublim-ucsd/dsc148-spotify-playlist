@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rei en la casa del Trap Argentino.",
+  "description": "Blunted Vato en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -1046,6 +1046,32 @@
       "duration_ms": 148815,
       "name": "Coco",
       "url": "https://open.spotify.com/track/5i3qNgv94AMv0KXGwneOYd"
+    },
+    {
+      "album": {
+        "name": "Cocodrilo",
+        "url": "https://open.spotify.com/album/5baAHQ72XXllJo3SnMEsRL"
+      },
+      "artists": [
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Tymo Benz",
+          "url": "https://open.spotify.com/artist/4zlVZ5DUwGD6gQppoYq2hF"
+        },
+        {
+          "name": "Roxxe",
+          "url": "https://open.spotify.com/artist/0YukSgBpJ8xU7ah3w1UWbC"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90666,
+      "name": "Cocodrilo",
+      "url": "https://open.spotify.com/track/2BLu3SyKiWmJixjMMcN1XH"
     },
     {
       "album": {
@@ -3027,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "MALDITO",
+        "url": "https://open.spotify.com/album/4WpXg3l1o8DyWTBOvZBAtb"
+      },
+      "artists": [
+        {
+          "name": "Mks",
+          "url": "https://open.spotify.com/artist/6v36LGGRNEleSpAd2zAeQL"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124322,
+      "name": "MALDITO",
+      "url": "https://open.spotify.com/track/2T0lAhc8RExwksh2HwM8Ba"
+    },
+    {
+      "album": {
         "name": "Malefica",
         "url": "https://open.spotify.com/album/7zF00vvLMCXsWvnEGrpcg6"
       },
@@ -3214,7 +3258,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 188000,
       "name": "MI LOCURA EN BUENOS AIRES",
       "url": "https://open.spotify.com/track/0b0BMDKMFdVllW5PeriqFa"
@@ -4952,7 +4996,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 135463,
       "name": "Slow",
       "url": "https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN"

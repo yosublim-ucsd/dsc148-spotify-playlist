@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Simba La Rue, Salmo, Noyz Narcos, Artie 5ive e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,162 likes - 95 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,196 likes - 95 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 12 | [SANGUE \(Feat\. Ketama126 & Side Baby\)](https://open.spotify.com/track/62xMX9BkLqempQw9JlQc1l) | [Oni One](https://open.spotify.com/artist/2fwe5Hfv8bvpVDXB64hndj), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [SANGUE \(Feat\. Ketama126 & Side Baby\)](https://open.spotify.com/album/4jRwdij7TfZulWCNKr4e4Z) | 3:13 |
 | 13 | [Istinto Animale \(feat\. Guè, Annalisa, Ernia\)](https://open.spotify.com/track/4Q46G91LXPGAdUt5kc1QEQ) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Istinto Animale \(feat\. Guè, Annalisa, Ernia\)](https://open.spotify.com/album/5zEwSdIbbglGIjxX6dNfG6) | 2:29 |
 | 14 | [Dry](https://open.spotify.com/track/4zUPjjI82V3JlnHfMt2w6v) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Dry](https://open.spotify.com/album/3xSzEtFrV2UqBhgNANpor1) | 2:37 |
-| 15 | [Psycho](https://open.spotify.com/track/66DhR2jhmKjNIIC63suX8T) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [17.5](https://open.spotify.com/album/6xUV3poagqa1FpnzwmcHHt) | 2:56 |
+| 15 | [Psyco](https://open.spotify.com/track/66DhR2jhmKjNIIC63suX8T) | [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [17.5](https://open.spotify.com/album/6xUV3poagqa1FpnzwmcHHt) | 2:56 |
 | 16 | [Money Rain \(feat\. Lazza\)](https://open.spotify.com/track/7eq3b71KXZCwbgOamt5q9M) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:36 |
 | 17 | [Margine \(feat\. Jerry Sampi\)](https://open.spotify.com/track/2nC8TufYTI1xjaWqb1X7w4) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL), [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM) | [Margine \(feat\. Jerry Sampi\)](https://open.spotify.com/album/3bckWqd8NArQAORLHLAldz) | 2:35 |
 | 18 | [SCUSI MAESTRA \(feat\. Tedua\)](https://open.spotify.com/track/656s15tbLUO8m36U9UTYqU) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [PROTOMARANZA](https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6) | 2:56 |

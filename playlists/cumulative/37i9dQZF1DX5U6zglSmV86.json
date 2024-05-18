@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Nuestra alma mater es la calle. Flowker Slick en portada",
+  "description": "Nuestra escuela es la calle. Toser One y Dharius en portada",
   "name": "Los Malportados ",
   "tracks": [
     {
@@ -880,7 +880,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 160941,
       "name": "El Humito",
       "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 235343,
       "name": "El Top\u00f3n",
       "url": "https://open.spotify.com/track/2rdsm8aTrlLRBRq5fkFL6k"
@@ -1831,6 +1831,44 @@
     },
     {
       "album": {
+        "name": "Mi Don",
+        "url": "https://open.spotify.com/album/5qSXL1ox4BU74ZAbdegRuN"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        },
+        {
+          "name": "Robb Candela",
+          "url": "https://open.spotify.com/artist/3oMiumrA0ZaWk8DuUneylk"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Mi Don",
+      "url": "https://open.spotify.com/track/38uh4OLnMhp99FluHPDPzs"
+    },
+    {
+      "album": {
         "name": "Mi Mejor Amigo",
         "url": "https://open.spotify.com/album/67v2Mg4jrDJMvYRgPIe2EI"
       },
@@ -2224,7 +2262,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 215272,
       "name": "Para El Jesse 1 (La Escalade)",
       "url": "https://open.spotify.com/track/5F10MiltUwhGHz5L891BXA"
@@ -2470,7 +2508,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 152866,
       "name": "Run run",
       "url": "https://open.spotify.com/track/5tf1ZVKCdEJxp6LmNDb9MX"
@@ -2536,6 +2574,28 @@
       "duration_ms": 227000,
       "name": "Se Le Batalla",
       "url": "https://open.spotify.com/track/0VEgZAhQ59CxSnPAjay03D"
+    },
+    {
+      "album": {
+        "name": "Si Me Prendo",
+        "url": "https://open.spotify.com/album/5MHDUqD51GHyWL09rBiQv9"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Carlos Blanco",
+          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Si Me Prendo",
+      "url": "https://open.spotify.com/track/7q59DAn56U48mxeZMEtsLa"
     },
     {
       "album": {
@@ -2852,6 +2912,50 @@
       "duration_ms": 349297,
       "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
       "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
+    },
+    {
+      "album": {
+        "name": "Trakas Belico",
+        "url": "https://open.spotify.com/album/1DsEIRuqKVBpZSCvfLZfpx"
+      },
+      "artists": [
+        {
+          "name": "Gerry Garcia",
+          "url": "https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152715,
+      "name": "Trakas Belico",
+      "url": "https://open.spotify.com/track/5aSevcoVohlQUvVyF7NKbC"
+    },
+    {
+      "album": {
+        "name": "Bajo Penumbra",
+        "url": "https://open.spotify.com/album/7ilmJebvGeONTImSes5gu7"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266880,
+      "name": "Un Alucin",
+      "url": "https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH"
     },
     {
       "album": {

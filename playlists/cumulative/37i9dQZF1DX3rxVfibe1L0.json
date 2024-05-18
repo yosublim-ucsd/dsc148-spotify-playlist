@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Good Life (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/5k545vq1XFdS5O7N2cXV21"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159640,
+      "name": "Good Life - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/1gu8OZFMB9dcEmT90j0lQ8"
+    },
+    {
+      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/6ap7EgZFWKOCrsGZyAzM9U"
       },
@@ -3400,7 +3418,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
@@ -4282,7 +4300,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0"
@@ -7832,6 +7850,24 @@
       "duration_ms": 277030,
       "name": "SPIRIT - From Disney's \"The Lion King\"",
       "url": "https://open.spotify.com/track/1tC5WMSlsGDFfqnrquB1ty"
+    },
+    {
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "album": {

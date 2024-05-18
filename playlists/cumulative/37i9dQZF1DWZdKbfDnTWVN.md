@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=HZkN5B1KStCZHEbI87xDLA"> Wakadinali </a>
 
-225 songs - 11 hr 37 min
+226 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Wasp](https://open.spotify.com/track/0u5448uqc3COjMjBdKQ7A0) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/0YLs1izGnml8piMRUGJhN7) | 3:22 | 2023-06-08 | 2023-11-24 |
 | [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 | 2022-07-07 | 2022-11-14 |
 | [Wasp](https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 3:22 | 2022-07-07 | 2023-06-12 |
+| [Wassup](https://open.spotify.com/track/5yJZO7Hrkpw0dYmmfwKJUm) | [Qwiss](https://open.spotify.com/artist/5dX9LFDFHBsiS5D6534nMX) | [Wassup](https://open.spotify.com/album/0Y9ziPIthD1I7YXqYGuHe2) | 3:18 | 2024-05-16 |  |
 | [Well Known Bandit](https://open.spotify.com/track/0AU5alukDdk2Z8pWKPzTUV) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Well Known Bandit](https://open.spotify.com/album/1E2vfyRJjMEawuf6TByJFa) | 2:58 | 2023-10-26 | 2024-04-06 |
 | [What's Up???](https://open.spotify.com/track/47KGlT9pxHVpgvgNIXKmLT) | [Jasper](https://open.spotify.com/artist/34zcIBHO9EgymeaaOioUic) | [What's Up???](https://open.spotify.com/album/5pjoAWI1XGg7W54fEOM1N1) | 2:35 | 2024-04-04 |  |
 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 | 2022-11-10 | 2023-06-03 |

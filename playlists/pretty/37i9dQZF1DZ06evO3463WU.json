@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 143623,
+  "num_followers": 143672,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAADVvWraT/nR6Jcw31CjFpac",
+  "snapshot_id": "ZkVMgAAAAAApf+DeFnvICnq0TORgDnzD",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hombre Enamorado",
+        "url": "https://open.spotify.com/album/5D77PYz1WHp9nna1DkA48I"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 211417,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/4gfCFNZiohK3xpwCQUUifT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 171409,
+      "name": "Mi Amor Y Mi Agonia",
+      "url": "https://open.spotify.com/track/6GQkrXZHNg4EzgP0Q6exy3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
       },
@@ -183,38 +215,6 @@
       "duration_ms": 272234,
       "name": "No Llega el Olvido - En Vivo",
       "url": "https://open.spotify.com/track/5MPY1xEb6E8Lv9HuGKEVLp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 171409,
-      "name": "Mi Amor Y Mi Agonia",
-      "url": "https://open.spotify.com/track/6GQkrXZHNg4EzgP0Q6exy3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hombre Enamorado",
-        "url": "https://open.spotify.com/album/5D77PYz1WHp9nna1DkA48I"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 211417,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/4gfCFNZiohK3xpwCQUUifT"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luchar\u00e9 Por Ti",
+        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Luchar\u00e9 Por Ti",
+      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 168166,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luchar\u00e9 Por Ti",
-        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "Luchar\u00e9 Por Ti",
-      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Me Mires As\u00ed",
+        "url": "https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "Ya No Me Mires As\u00ed",
+      "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos - En Vivo",
       "url": "https://open.spotify.com/track/5ck9PhKtvFsuCN8zEAG4C4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Me Mires As\u00ed",
-        "url": "https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "Ya No Me Mires As\u00ed",
-      "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"
     },
     {
       "added_at": null,

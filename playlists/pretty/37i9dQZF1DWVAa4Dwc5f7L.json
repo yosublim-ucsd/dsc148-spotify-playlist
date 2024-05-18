@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 379998,
+  "num_followers": 380065,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Te Voy a Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "12 Golden Hits",
         "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 298106,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Te Voy a Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1135,6 +1135,30 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "No Somos Iguales",
+        "url": "https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN"
+      },
+      "artists": [
+        {
+          "name": "Victor Drija",
+          "url": "https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT"
+        },
+        {
+          "name": "Sixto Rein",
+          "url": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
+        },
+        {
+          "name": "Gustavo Elis",
+          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "No Somos Iguales",
+      "url": "https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "LIMI-T Para Siempre",
         "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
       },
@@ -1147,6 +1171,22 @@
       "duration_ms": 153789,
       "name": "Quiero Quemar La Pista",
       "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Exitos De",
+        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1171,46 +1211,6 @@
       "duration_ms": 947950,
       "name": "La Reuni\u00f3n 5 : La Bailadora / El Amor M\u00e1s Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / T\u00fa Eres Ajena / Borracha - En Vivo",
       "url": "https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Exitos De",
-        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 295320,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "No Somos Iguales",
-        "url": "https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN"
-      },
-      "artists": [
-        {
-          "name": "Victor Drija",
-          "url": "https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT"
-        },
-        {
-          "name": "Sixto Rein",
-          "url": "https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7"
-        },
-        {
-          "name": "Gustavo Elis",
-          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "No Somos Iguales",
-      "url": "https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1603,22 +1603,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "QUIERO",
-        "url": "https://open.spotify.com/album/6xIvpqSVmpAIWyXMHE5ceU"
+        "name": "No Toy En Ti",
+        "url": "https://open.spotify.com/album/3ThubO1iZCTdnci01gnpSE"
       },
       "artists": [
         {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+          "name": "Henry Mendez",
+          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
         },
         {
-          "name": "El Completo Rd",
-          "url": "https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb"
+          "name": "Victor R -Swag",
+          "url": "https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq"
         }
       ],
-      "duration_ms": 227646,
-      "name": "QUIERO",
-      "url": "https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui"
+      "duration_ms": 171428,
+      "name": "No Toy En Ti",
+      "url": "https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1671,22 +1671,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "No Toy En Ti",
-        "url": "https://open.spotify.com/album/3ThubO1iZCTdnci01gnpSE"
+        "name": "QUIERO",
+        "url": "https://open.spotify.com/album/6xIvpqSVmpAIWyXMHE5ceU"
       },
       "artists": [
         {
-          "name": "Henry Mendez",
-          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
         },
         {
-          "name": "Victor R -Swag",
-          "url": "https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq"
+          "name": "El Completo Rd",
+          "url": "https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb"
         }
       ],
-      "duration_ms": 171428,
-      "name": "No Toy En Ti",
-      "url": "https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y"
+      "duration_ms": 227646,
+      "name": "QUIERO",
+      "url": "https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui"
     },
     {
       "added_at": "2024-05-03 04:00:00",

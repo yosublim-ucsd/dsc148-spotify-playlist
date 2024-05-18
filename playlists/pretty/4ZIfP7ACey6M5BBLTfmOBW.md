@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Travis Scott.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,589 likes - 60 songs - 3 hr 3 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,589 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 58 | [Becky \(feat\. 41\)](https://open.spotify.com/track/399es3LKBCviugHiDQcCI1) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Becky \(feat\. 41\)](https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG) | 3:26 |
 | 59 | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Somethin' \(feat\. Sexyy Red\)](https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs) | 2:29 |
 | 60 | ['96 Bulls \(feat\. Drezus\)](https://open.spotify.com/track/0cNLTORxh13lT9QQQlI9jG) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | ['96 Bulls \(feat\. Drezus\)](https://open.spotify.com/album/6NHaN1FJALiFBGxHJFdeBI) | 3:04 |
+| 61 | [Atavista](https://open.spotify.com/track/6Lj4RhwPsVfMn7tsA5i8jW) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:01 |
 
-Snapshot ID: `AAAeiAmilnKa5djY5O0nfZmM98pVrdgb`
+Snapshot ID: `AAAeiUyb/GKXxq7ufT8EA7s8clYpO1Ik`

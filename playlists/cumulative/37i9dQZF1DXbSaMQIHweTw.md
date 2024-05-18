@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- The Siege
 
-136 songs - 7 hr 17 min
+137 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 | 2023-04-24 |  |
 | [Choke Slam](https://open.spotify.com/track/49ci49d2SaiwpcvZVMfbnM) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Apocalypse](https://open.spotify.com/album/5s9DfBDESB5DWNXPbQBKwB) | 2:15 | 2023-04-24 | 2023-10-23 |
 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 | 2023-03-17 |  |
+| [Daae / Baae](https://open.spotify.com/track/7ivAQyb7IBhsv5JE2C25Ab) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Daae / Baae](https://open.spotify.com/album/7946Gev1ctUBANzL1tMVX0) | 3:56 | 2024-05-17 |  |
 | [Dekh Toofaan Aaya Hai](https://open.spotify.com/track/7DKPIbriIj7bUeM9pUv4Js) | [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez) | [Toofaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qdjovodFjQoQHMtj3to7e) | 2:34 | 2023-03-17 | 2023-04-25 |
 | [Dhokebaaz](https://open.spotify.com/track/1TfC7wJxP6NWn8HBBhMQD5) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63) | [Dhokebaaz](https://open.spotify.com/album/1JxYAtXkwk64rObM4Gz2mL) | 2:28 | 2023-03-17 | 2023-04-25 |
 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 | 2023-03-17 |  |
@@ -68,7 +69,7 @@
 | [Heal](https://open.spotify.com/track/63fTryyhjbkCk8njSv4i18) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Heal](https://open.spotify.com/album/5QcuKHa15Dq0hEOUDIrOYT) | 3:04 | 2023-03-17 | 2023-04-25 |
 | [Industry Galat](https://open.spotify.com/track/6MaMlGQWYcgDgooYJVOmSq) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Industry Galat](https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP) | 3:08 | 2023-03-17 | 2023-12-14 |
 | [Intro 2024 \- From 'Anti Fitna'](https://open.spotify.com/track/6oh40UW3pmrIHNh4S6HNpr) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Intro 2024 \(From 'Anti Fitna'\)](https://open.spotify.com/album/0JylDcEiyK6zPMO2apYb5F) | 2:13 | 2024-04-12 | 2024-05-01 |
-| [ISLAH](https://open.spotify.com/track/287Hq0mwGrCWVfBjugfKIK) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [ISLAH](https://open.spotify.com/album/1uZXs1srHciCh2ufGK4YuS) | 2:39 | 2024-04-04 |  |
+| [ISLAH](https://open.spotify.com/track/287Hq0mwGrCWVfBjugfKIK) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [ISLAH](https://open.spotify.com/album/1uZXs1srHciCh2ufGK4YuS) | 2:39 | 2024-04-04 | 2024-05-18 |
 | [Jama Kar](https://open.spotify.com/track/0zyMXraAjJoqD7EWSnRqHS) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Jama Kar](https://open.spotify.com/album/63zSAE7el24bx7PvQKex5B) | 3:27 | 2023-03-17 | 2023-04-29 |
 | [Jawab De](https://open.spotify.com/track/4wnwcrCyOODzxlMJ0nHKjw) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Jawab De](https://open.spotify.com/album/4T0NkUVDD4NeeE67deXR3g) | 3:03 | 2023-03-17 | 2023-12-14 |
 | [Kaam 25 \- Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kaam 25 \(Sacred Games\)](https://open.spotify.com/album/22kgtYXKwgjccIu3kxC75m) | 2:29 | 2023-03-17 |  |

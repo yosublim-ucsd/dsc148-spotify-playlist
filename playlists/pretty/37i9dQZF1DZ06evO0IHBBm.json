@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 29271,
+  "num_followers": 29274,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAAB4JMQ9KazfBbTAubzL9XiR",
+  "snapshot_id": "ZkVMgAAAAABVYOn9S2ybOOcHAhpulMa8",
   "tracks": [
     {
       "added_at": null,
@@ -643,18 +643,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi"
+        "name": "Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg"
       },
       "artists": [
+        {
+          "name": "Marias",
+          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
+        },
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 265666,
-      "name": "A Ora\u00e7\u00e3o de Jabes (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1FRingDBRVx2JTV6uGgSBF"
+      "duration_ms": 116640,
+      "name": "Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva"
     },
     {
       "added_at": null,
@@ -691,26 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg"
+        "name": "O Maior Trof\u00e9u (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi"
       },
       "artists": [
-        {
-          "name": "Marias",
-          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
-        },
-        {
-          "name": "Nai Lopes",
-          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
-        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 116640,
-      "name": "Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva"
+      "duration_ms": 265666,
+      "name": "A Ora\u00e7\u00e3o de Jabes (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1FRingDBRVx2JTV6uGgSBF"
     },
     {
       "added_at": null,

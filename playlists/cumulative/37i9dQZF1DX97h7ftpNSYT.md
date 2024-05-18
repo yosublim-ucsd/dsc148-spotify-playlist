@@ -2,9 +2,9 @@
 
 ### [I Love My 2010s Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX97h7ftpNSYT)
 
-> Taking it back to the 2010s\. Cover: YG
+> Taking it back to the 2010s\. Cover: Rich Gang
 
-626 songs - 1 day 13 hr 37 min
+627 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [MFN Right](https://open.spotify.com/track/7xbV9wF8FcmBq4KNG2gZOY) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [COLLEGROVE](https://open.spotify.com/album/56TQNcSoy3eQpyWtNwQnrD) | 3:24 | 2022-04-13 | 2022-04-19 |
 | [MIDDLE CHILD](https://open.spotify.com/track/2b5scDVCDxVsLalecDLAo2) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:33 | 2022-04-13 | 2022-07-29 |
 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 | 2021-09-03 | 2022-07-30 |
+| [Milk Marie](https://open.spotify.com/track/2OCj79BJYRaKXbPNZUSWr0) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS) | [Milk Marie](https://open.spotify.com/album/7hKqFKg1FpFlYG7zGGX9RN) | 3:13 | 2024-05-17 |  |
 | [Millidelphia \(feat\. Swizz Beatz\)](https://open.spotify.com/track/1dQ84P0W0lOckT02lPEhhP) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:35 | 2022-04-13 | 2022-07-28 |
 | [Minnesota](https://open.spotify.com/track/4XkOcWt0C2JX1s2RXybosk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Skippa Da Flippa](https://open.spotify.com/artist/4YWK3hXt1QRAw2rNBao55d), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Lil Boat](https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx) | 4:28 | 2022-03-24 | 2022-04-20 |
 | [Mixed Personalities \(feat\. Kanye West\)](https://open.spotify.com/track/6vWEAOUSxohKxhp0K1BsxL) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [We All Shine](https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k) | 3:50 | 2021-09-03 | 2022-04-14 |
@@ -438,7 +439,7 @@
 | [Old Town Road \(feat\. Billy Ray Cyrus\) \- Remix](https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Old Town Road](https://open.spotify.com/album/38kpkGLuPr1nNfD3iEyOlJ) | 2:37 | 2022-03-24 | 2022-04-13 |
 | [One Call](https://open.spotify.com/track/3pq5dd3Hwg2uJ3d63v9YRx) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 3:15 | 2021-09-03 | 2022-04-14 |
 | [One Night](https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Boat](https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx) | 4:03 | 2021-09-03 | 2022-04-19 |
-| [Only](https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 5:12 | 2021-09-03 |  |
+| [Only](https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 5:12 | 2021-09-03 | 2024-05-18 |
 | [OOOUUU](https://open.spotify.com/track/7JYsArznYOjX2jsrT3UEnL) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:54 | 2021-08-13 | 2022-07-02 |
 | [Or Nah \(feat\. The Weeknd, Wiz Khalifa & DJ Mustard\) \- Remix](https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Or Nah \(feat\. The Weeknd, Wiz Khalifa & DJ Mustard\) \[Remix\]](https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK) | 4:02 | 2021-09-03 | 2022-04-13 |
 | [OSOM \(feat\. J\. Cole\)](https://open.spotify.com/track/0QLuexVmR2wgNsekPKbv6c) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 5:23 | 2022-07-01 | 2022-07-03 |

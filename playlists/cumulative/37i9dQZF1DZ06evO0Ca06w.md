@@ -2,7 +2,7 @@
 
 ### [This Is Miriam Makeba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w)
 
-> This is Miriam Makeba。アーティストの代表曲をひとつのプレイリストに。
+> This is Miriam Makeba\. The essential tracks, all in one playlist.
 
 162 songs - 8 hr 30 min
 
@@ -77,7 +77,7 @@
 | [Kulala \- Remastered](https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:38 | 2022-10-11 |  |
 | [Kwazulu \(In the Land of the Zulus\)](https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:32 | 2021-12-28 |  |
 | [Kwedini](https://open.spotify.com/track/3Px4fOJFnivI49Ams9hl1c) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The World of Miriam Makeba](https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um) | 2:16 | 2023-06-30 | 2023-07-02 |
-| [L'enfant et la gazelle](https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf) | 3:45 | 2022-10-06 | 2024-05-17 |
+| [L'enfant et la gazelle](https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf) | 3:45 | 2022-10-06 |  |
 | [L'enfant et la gazelle](https://open.spotify.com/track/7wFA1UMkKQEh2c9Aqh6iuX) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Guinea Years](https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H) | 3:45 | 2021-12-28 | 2022-10-06 |
 | [La Bushe \(Congo Bushe\)](https://open.spotify.com/track/6Bp4BqQiR7bC7rU5JCVD3a) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magnificent Miriam Makeba](https://open.spotify.com/album/2dJUPRTXIRHCv7BwnIStqJ) | 2:22 | 2022-04-09 | 2022-07-01 |
 | [La Guinee Guine](https://open.spotify.com/track/0ZNcAfVpZ3HtUz7oHWilAV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 3:09 | 2022-02-10 | 2022-10-13 |
@@ -98,7 +98,7 @@
 | [Maria Fulo \- Mono Version](https://open.spotify.com/track/1to6aqYV55jNN85KDELPkz) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:36 | 2022-01-27 |  |
 | [Mas Que Nada](https://open.spotify.com/track/4ncRE1IYgkA7H6OO3hjBhp) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/5HPe4HG9qPl6ldZo8eEyoy) | 3:15 | 2021-12-29 | 2022-10-07 |
 | [Mas Que Nada](https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 3:15 | 2022-10-06 |  |
-| [Mbube](https://open.spotify.com/track/5arMcy1mhCAPd3zGzx3uJJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 3:19 | 2021-12-30 |  |
+| [Mbube](https://open.spotify.com/track/5arMcy1mhCAPd3zGzx3uJJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 3:19 | 2021-12-30 | 2024-05-18 |
 | [Mbube](https://open.spotify.com/track/1KjkL2T5ZPYdYoMoaMeZ7C) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT) | 3:21 | 2023-04-14 | 2024-02-16 |
 | [Mbube](https://open.spotify.com/track/2z3Zy3WnBBbHeXTBTdvJjd) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Click Song](https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N) | 3:22 | 2022-04-10 | 2023-03-22 |
 | [Measure the Valleys \- Remastered](https://open.spotify.com/track/5ucsFiqcQQTi8huqxnQ0ME) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 3:37 | 2022-01-02 | 2024-04-04 |
@@ -133,11 +133,11 @@
 | [Show Me the Way, My Brother \- Iph'indlela](https://open.spotify.com/track/379vHYzOPbCYzVAC45FC1i) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 3:11 | 2021-12-28 | 2023-01-14 |
 | [Sing Me a Song](https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 3:54 | 2021-12-29 |  |
 | [Siyavuya](https://open.spotify.com/track/2QP3MmoV7cc7h9rZdublEP) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [The Very Best Of \(1956 \- 1959\)](https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP) | 2:38 | 2022-12-19 | 2023-09-22 |
-| [Soweto Blues](https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:16 | 2021-12-28 | 2024-05-17 |
+| [Soweto Blues](https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:16 | 2021-12-28 |  |
 | [Suliram](https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 2:44 | 2022-01-03 | 2024-05-13 |
 | [Sunrise, Sunset \(From the Broadway Musical "Fiddler On the Roof"\)](https://open.spotify.com/track/7x71ai4plaSJN7TiXoKrZ0) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Best Of](https://open.spotify.com/album/2uswx6G0mHAATyEB2Lkd98) | 2:45 | 2021-12-28 | 2023-08-29 |
 | [Thank You Mama](https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Leleti Khumalo](https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT) | [Sarafina! The Sound Of Freedom](https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp) | 4:24 | 2022-06-21 |  |
-| [The Click Song](https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Click Song](https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N) | 2:33 | 2021-12-30 |  |
+| [The Click Song](https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Click Song](https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N) | 2:33 | 2021-12-30 | 2024-05-18 |
 | [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/1MC8rGCbqEIeeCRSwjz3Gj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/5HPe4HG9qPl6ldZo8eEyoy) | 4:54 | 2021-12-28 | 2022-10-09 |
 | [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 4:54 | 2022-10-09 | 2024-03-01 |
 | [The Lion Cries \- Mbube](https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:00 | 2022-01-25 |  |

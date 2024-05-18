@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,302 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,365 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 52 | [Hello Yellow](https://open.spotify.com/track/4A2XEAdCajGcm5ZOUWoQrA) | [Rubin Henkel](https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP) | [Restless](https://open.spotify.com/album/0Gy9ISFxfGL5LFvLNNlMsq) | 2:04 |
 | 53 | [Waterfelt](https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4) | [Joel Christian Goffin](https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF) | [Waterfelt](https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk) | 3:43 |
 | 54 | [Earned It \- Solo Piano](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \(Solo Piano\)](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 |
-| 55 | [Monleone: Intermezzo \(Cavalleria Rusticana\)](https://open.spotify.com/track/3tN0o0Dl0S7hG3YMDFNDkc) | [Domenico Monleone](https://open.spotify.com/artist/7slqRGJAlB8C7mKvvb2VeT), [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 3:26 |
+| 55 | [Intermezzo \(Cavalleria Rusticana\)](https://open.spotify.com/track/3tN0o0Dl0S7hG3YMDFNDkc) | [Domenico Monleone](https://open.spotify.com/artist/7slqRGJAlB8C7mKvvb2VeT), [Pietro Mascagni](https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 3:26 |
 | 56 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
 | 57 | [Après un rêve, Op\. 7, No\. 1](https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:40 |
 | 58 | [Summer](https://open.spotify.com/track/4NOdC6e1AggrDGeSoX2l4n) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Summer](https://open.spotify.com/album/2KRCmK5hHPhLPtqOrgE0UC) | 2:45 |

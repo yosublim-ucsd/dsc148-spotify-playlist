@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
+> Dendang Dangdut teratas\. Cover: Owan
 
-170 songs - 13 hr 9 min
+171 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Sayang](https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Sayang](https://open.spotify.com/album/5GuZuYBsOhtIe0xW50jCwm) | 5:06 | 2021-08-23 |  |
 | [Selamat Tinggal Kasih \- From "Cidro Asmoro"](https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Selamat Tinggal Kasih \(From "Cidro Asmoro"\)](https://open.spotify.com/album/0sS6FE67HV8uJV5ceyGBp2) | 4:51 | 2023-06-01 |  |
 | [Semarang Ngawi](https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Semarang Ngawi](https://open.spotify.com/album/6K4pgYhUy2r4e6akDRIe5y) | 4:24 | 2023-06-15 | 2023-08-25 |
+| [Sembuhkan Luka](https://open.spotify.com/track/6Ab00lWVCOskvKQMwdHnda) | [Owan](https://open.spotify.com/artist/6giTizAzwDJX3wOqcRfwTH) | [Sembuhkan Luka](https://open.spotify.com/album/5v3NSApUPB4AnzL4CbBxW5) | 6:23 | 2024-05-17 |  |
 | [Sensi](https://open.spotify.com/track/0HTW3ym6XTwe3gyi3Y6F4g) | [Fania Putri](https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim) | [Sensi](https://open.spotify.com/album/4K5ZDNFUTp05z1Hj60tYEz) | 4:32 | 2023-06-09 | 2023-09-15 |
 | [Separuh Jiwaku Pergi](https://open.spotify.com/track/6xqmdksyKLPvfs28Qe7z8x) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp) | [Separuh Jiwaku Pergi](https://open.spotify.com/album/2cR3YXcrCOlFIpr35f1Ho1) | 3:24 | 2024-01-18 |  |
 | [Setia Jujur dan Taqwa \- Live At Ska Reggae](https://open.spotify.com/track/6lt4nbkCe2AAHVtbKLnlVC) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Setia Jujur dan Taqwa \(Live At Ska Reggae\)](https://open.spotify.com/album/7HbO1YQSuPQphc7DynEwVo) | 4:41 | 2024-03-22 |  |

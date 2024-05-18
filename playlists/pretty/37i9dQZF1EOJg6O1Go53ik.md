@@ -28,6 +28,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOJg6O1Go53ik.md) - [plain]
 | 18 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 |
 | 19 | [019  Ella Fitzgerald \- Sings the Gershwin Song Book](https://open.spotify.com/episode/3ne1wQAfU2YLTqgyaV3dm6) | [1001 Album Club](https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb) | [1001 Album Club](https://open.spotify.com/album/7f5Rdm6RukUPsWFtxlEfOb) | 16:00 |
 | 20 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
-| 21 | [Christina Perri](https://open.spotify.com/episode/7iNTab0ZDTvDdarf7MCX93) | [LadyGang](https://open.spotify.com/show/00wEJsU0XM16HnVSu4c8hd) | [LadyGang](https://open.spotify.com/album/00wEJsU0XM16HnVSu4c8hd) | 53:03 |
+| 21 | [Christina Perri](https://open.spotify.com/episode/7iNTab0ZDTvDdarf7MCX93) | [LadyGang](https://open.spotify.com/show/00wEJsU0XM16HnVSu4c8hd) | [LadyGang](https://open.spotify.com/album/00wEJsU0XM16HnVSu4c8hd) | 52:55 |
 
 Snapshot ID: `AZiNdgAAAABY4XhQyf+KjDOZkJXA9556`

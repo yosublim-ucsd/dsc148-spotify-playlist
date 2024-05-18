@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 46650,
+  "num_followers": 46667,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAADyvjpu7OgAdB9w3AwZYFzx",
+  "snapshot_id": "ZkVMgAAAAACiDz+WtbiBfOxsb4Kaxqis",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pude Salvarnos",
-        "url": "https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 208436,
-      "name": "No Pude Salvarnos",
-      "url": "https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 218923,
       "name": "Voy a Echarme Otra",
       "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pude Salvarnos",
+        "url": "https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 208436,
+      "name": "No Pude Salvarnos",
+      "url": "https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn"
     },
     {
       "added_at": null,

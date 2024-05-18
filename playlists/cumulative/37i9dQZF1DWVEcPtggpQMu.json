@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/08XiXTlJPbnyNFZBygX58N?si=PfQiLFbWTIWGVEMhqe4XRw\">ByLwansta</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW?si=5nzDloq6RvuXrbVc_cDLNQ\">Kiddo CSA</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -790,6 +790,28 @@
       "duration_ms": 208052,
       "name": "Amakhulu\u2018amawaka",
       "url": "https://open.spotify.com/track/21DS8gXuiF9Uob6RRQUKEM"
+    },
+    {
+      "album": {
+        "name": "Amalanga (feat. Anzo)",
+        "url": "https://open.spotify.com/album/46TKYZNKng1jLSBarvKPm4"
+      },
+      "artists": [
+        {
+          "name": "Kiddo CSA",
+          "url": "https://open.spotify.com/artist/2qqLz1yakvHUg0QRzAY5WF"
+        },
+        {
+          "name": "Anzo",
+          "url": "https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248906,
+      "name": "Amalanga (feat. Anzo)",
+      "url": "https://open.spotify.com/track/7tnq2E3TfEwXY2QegHfV2I"
     },
     {
       "album": {
@@ -3660,7 +3682,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 230769,
       "name": "DO IT 4 LOOT",
       "url": "https://open.spotify.com/track/2vX2HnEQGhrPeaxHuWYmLy"
@@ -4477,7 +4499,7 @@
         },
         {
           "name": "Blue Pappi",
-          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+          "url": "https://open.spotify.com/artist/0j2GLFoYprLmIPZ1SZkJZt"
         },
         {
           "name": "MhlonishwaNuz",
@@ -9715,6 +9737,28 @@
     },
     {
       "album": {
+        "name": "No More Discos",
+        "url": "https://open.spotify.com/album/29CCIglajfMrsmv25zu8ZN"
+      },
+      "artists": [
+        {
+          "name": "Ricky Tyler",
+          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
+        },
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "No More Discos",
+      "url": "https://open.spotify.com/track/1CEOhntVCcqmouZq4vmeZ3"
+    },
+    {
+      "album": {
         "name": "Do Not Disturb",
         "url": "https://open.spotify.com/album/4Pd8nZxMXNhho8Z5qdXhN2"
       },
@@ -10198,6 +10242,24 @@
       "duration_ms": 181098,
       "name": "OMG",
       "url": "https://open.spotify.com/track/6m3QKwFZ3rEJKriwlSmlcv"
+    },
+    {
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/2e05DnXVskws7fdHKL8Rzk"
+      },
+      "artists": [
+        {
+          "name": "Yung Tyran",
+          "url": "https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147697,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/46hGl4NbQr1ZhLBSrOcmQx"
     },
     {
       "album": {
@@ -13114,7 +13176,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 176896,
       "name": "Standing On Business",
       "url": "https://open.spotify.com/track/3fgfk7CK5jIsKr1zY4DLOr"
@@ -16348,7 +16410,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 180000,
       "name": "Zibasele",
       "url": "https://open.spotify.com/track/6rQSEs7u7B3VIoaprxzzqW"

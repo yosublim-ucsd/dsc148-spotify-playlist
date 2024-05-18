@@ -4,11 +4,12 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-243 songs - 21 hr 17 min
+245 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...And He Whistled A Folk Song](https://open.spotify.com/track/22JUahfpObguJJ71Pool8M) | [Tuomo Uusitalo](https://open.spotify.com/artist/7mflOXPX8B2ZqrNUBf38uo) | [Songs From Suspended Times](https://open.spotify.com/album/1yrS6PV6y0ke5h1hqjbg7D) | 3:12 | 2023-05-18 |  |
+| [A Lotta Love](https://open.spotify.com/track/22w1CQUCPwOVLvFwRQHyBq) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Conor Chaplin](https://open.spotify.com/artist/4OL6krKLt3oWc2PA0MTSui), [Anton Eger](https://open.spotify.com/artist/3Tlbv3PR6Xxton3Yp5dSZF) | [A Lotta Love](https://open.spotify.com/album/6M0HFD55JZFOCJUwpNTz04) | 5:42 | 2024-05-17 |  |
 | [A Smile In Exile](https://open.spotify.com/track/2Km22hqTP1oCagWeUhKSVr) | [Afrojazz Quintet](https://open.spotify.com/artist/2kCBdg9ftIoUvnvSffRz3z), [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D) | [Welcome Our Future](https://open.spotify.com/album/6bSvq46jgueYOXbrjjggs2) | 5:30 | 2023-11-23 |  |
 | [A Song We Loaned From Our Children](https://open.spotify.com/track/746oExBG42IBd7Q3ifotmM) | [Iro Haarla Electric Ensemble](https://open.spotify.com/artist/2ox7NvapOauh4QfGYJKDe8) | [What Will We Leave Behind](https://open.spotify.com/album/7cfIfqeymxfXyvt69grQaO) | 3:02 | 2022-09-02 | 2023-09-09 |
 | [A Thing With Feathers](https://open.spotify.com/track/25patDyUz6247RVEzsEOpx) | [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU), [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Thing With Feathers](https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH) | 7:45 | 2022-09-02 | 2024-01-20 |
@@ -74,6 +75,7 @@
 | [Final Round](https://open.spotify.com/track/011SZbBS0yvSFPHxRb6fGs) | [El Aviador](https://open.spotify.com/artist/0QWlaxqAXPpENfZtGbmJQh) | [Final Round](https://open.spotify.com/album/5iv71zHywXGWiJsB697xpE) | 2:47 | 2022-09-02 | 2023-08-26 |
 | [Flame](https://open.spotify.com/track/4r0L6EqxsSsVAYU0vZmGcx) | [Northern gospel project](https://open.spotify.com/artist/0B4CulblTpweOC0a5uHoF9) | [Flame](https://open.spotify.com/album/0nut26etVcSuXsuHhMYHqc) | 5:29 | 2023-09-08 |  |
 | [Flores](https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk) | [Max Zenger](https://open.spotify.com/artist/4BQaIjXZ3I0j8rDThV7C2b), [Globus](https://open.spotify.com/artist/18F5bmmZmitWWqYTkJqq95), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Kaisa Mäensivu](https://open.spotify.com/artist/7LueFk6L7bLSNynsATb1ck), [Anssi Tirkkonen](https://open.spotify.com/artist/49dmNgQJQPyyNdujxcaqLF) | [Flores](https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T) | 15:04 | 2022-09-16 | 2024-05-04 |
+| [Flower Growing, Dying](https://open.spotify.com/track/7iE9ooS8TLwRGyF9kKMPct) | [Jonathan Bäckström Quartet](https://open.spotify.com/artist/1XPcTlu2DmKymNr2MlvbAo) | [Jonathan Bäckström Quartet](https://open.spotify.com/album/79dArk1Clk6AjfADuORsQe) | 6:54 | 2024-05-17 |  |
 | [For Dizzy and Lionel](https://open.spotify.com/track/5ITwIIHYSu2lGOe2EtkoAS) | [Olli Ahvenlahti](https://open.spotify.com/artist/67Ab9p2xTxwNzuTZJfAO48) | [Mirror Mirror](https://open.spotify.com/album/0FXmXOtp6aZMs5iYDdDTw6) | 4:51 | 2024-04-19 |  |
 | [For Toninho](https://open.spotify.com/track/2Km571vTelCM5vTl5e51Ef) | [Kari Antila](https://open.spotify.com/artist/4PkrAe6yjQa2FnOLJgRYeV), [Kaisa Mäensivu](https://open.spotify.com/artist/7LueFk6L7bLSNynsATb1ck), [Alexi Tuomarila](https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5) | [For Toninho](https://open.spotify.com/album/55bZqTk45ivqPKEb0chRgH) | 5:19 | 2023-10-19 |  |
 | [Forest Life](https://open.spotify.com/track/7LrnWQ7dbjoVXJogKc2Cpa) | [Sampo Hiukkanen](https://open.spotify.com/artist/2yCjP8zvPkOaPhtFV2aQSf) | [Forest Life](https://open.spotify.com/album/2ZOWbfRP29gzSNLZZkhfYx) | 6:14 | 2024-03-22 |  |

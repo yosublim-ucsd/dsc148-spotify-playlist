@@ -1,13 +1,81 @@
 {
   "description": "Our streets, our way. Listen to music from The Chi, now streaming on Paramount+ with Showtime. ",
-  "num_followers": 15829,
+  "num_followers": 15854,
   "original_name": "The Chi Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2b/AAAAAC8DaFg9TVFmGBCxvd4HnTs",
+  "snapshot_id": "ZkcAcAAAAACROuEkb6mP7VsSmF0DETfl",
   "tracks": [
+    {
+      "added_at": "2024-05-17 07:00:00",
+      "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
+    },
+    {
+      "added_at": "2024-05-17 07:00:00",
+      "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/1RN1uKGfaJ2krEHiOTaqI0"
+      },
+      "artists": [
+        {
+          "name": "Ari LaShell",
+          "url": "https://open.spotify.com/artist/1GRmwdUNtEsI4zfyvU4Z8e"
+        }
+      ],
+      "duration_ms": 171349,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/3QPyUKKNmAdVyUzsZVseou"
+    },
+    {
+      "added_at": "2024-05-17 07:00:00",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "DJ Jazzy Jeff",
+          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+        }
+      ],
+      "duration_ms": 300845,
+      "name": "Brother J",
+      "url": "https://open.spotify.com/track/0VyvxWyE0bYQxLu98XXJFk"
+    },
+    {
+      "added_at": "2024-05-17 07:00:00",
+      "album": {
+        "name": "Welcome to O'Block",
+        "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "How It Go",
+      "url": "https://open.spotify.com/track/4RDwiVYRTcxXTpdSYLNykr"
+    },
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {

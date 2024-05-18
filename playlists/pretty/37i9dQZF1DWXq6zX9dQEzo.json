@@ -1,6 +1,6 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 231531,
+  "num_followers": 231684,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "CHECK!",
-        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 146985,
-      "name": "CHECK!",
-      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Never Fold",
         "url": "https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 209311,
       "name": "God Flex",
       "url": "https://open.spotify.com/track/7KC13bS7eUYeXcRXvfYhAy"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "CHECK!",
+        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 146985,
+      "name": "CHECK!",
+      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "SO LONELY (AN EREMOS STORY)",
+        "url": "https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 133408,
+      "name": "GOD DON'T LIE",
+      "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "YOU KNOW WHAT I MEAN",
         "url": "https://open.spotify.com/album/1QZUAkjbqzDudg78GJ87Up"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 142221,
       "name": "YOU KNOW WHAT I MEAN",
       "url": "https://open.spotify.com/track/7uomhQZto3zjn7LuUGjfBP"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "SO LONELY (AN EREMOS STORY)",
-        "url": "https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 133408,
-      "name": "GOD DON'T LIE",
-      "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Real Talk",
-        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        },
-        {
-          "name": "Shawndy",
-          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "HELLO FRESH",
         "url": "https://open.spotify.com/album/24FsLyzVjChuv5k2BWT9qB"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 122826,
       "name": "HELLO FRESH",
       "url": "https://open.spotify.com/track/6qemUQ1s9e5HX9D66G8IVi"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        },
+        {
+          "name": "Shawndy",
+          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "VINE",
+        "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "VINE",
+      "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "2BIG!",
         "url": "https://open.spotify.com/album/3P5YjGhkXFyHHYxxR9IHPL"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 194283,
       "name": "2BIG!",
       "url": "https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "VINE",
-        "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "VINE",
-      "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "Working it out",
+        "url": "https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp"
+      },
+      "artists": [
+        {
+          "name": "Josh Lecroy",
+          "url": "https://open.spotify.com/artist/11QQiwcAtTaRXWDlLKesdy"
+        },
+        {
+          "name": "Hannah Barr",
+          "url": "https://open.spotify.com/artist/5YXeLDR70GQsT07VLgawty"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Working it out",
+      "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "That Feel",
         "url": "https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z"
       },
@@ -1655,22 +1675,6 @@
       "duration_ms": 163657,
       "name": "That Feel",
       "url": "https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "Nowhere to Hide",
-        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
-      },
-      "artists": [
-        {
-          "name": "Deraj",
-          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Nowhere to Hide",
-      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1699,22 +1703,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Working it out",
-        "url": "https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp"
+        "name": "Nowhere to Hide",
+        "url": "https://open.spotify.com/album/1AIkSFCj18sczlY4PxcSKX"
       },
       "artists": [
         {
-          "name": "Josh Lecroy",
-          "url": "https://open.spotify.com/artist/11QQiwcAtTaRXWDlLKesdy"
-        },
-        {
-          "name": "Hannah Barr",
-          "url": "https://open.spotify.com/artist/5YXeLDR70GQsT07VLgawty"
+          "name": "Deraj",
+          "url": "https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Working it out",
-      "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
+      "duration_ms": 158400,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/5yRZwS9WHwVnWiOkemOMrw"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Code of Conduct",
-        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 138154,
-      "name": "Code of Conduct",
-      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 163862,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Code of Conduct",
+        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 138154,
+      "name": "Code of Conduct",
+      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
     },
     {
       "added_at": "2024-03-20 10:50:51",

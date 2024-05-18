@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Vintage Culture",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: KVSH, CERES, DISORDER",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -76,7 +76,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 187857,
       "name": "2 Much 2 Handle (Cheyenne Giles Remix)",
       "url": "https://open.spotify.com/track/5PRprahs97yR5uwQkpgz4L"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 156751,
       "name": "Ass To The Back",
       "url": "https://open.spotify.com/track/3KlITvvpOjfOugac2vLfSM"
@@ -555,6 +555,28 @@
     },
     {
       "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Alex O'Clock",
+          "url": "https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "Bad Boys",
+      "url": "https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a"
+    },
+    {
+      "album": {
         "name": "Bad For U",
         "url": "https://open.spotify.com/album/5rF6MSD64uT4ylAjpukdXW"
       },
@@ -644,7 +666,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 162580,
       "name": "Baile Lotad\u00e3o",
       "url": "https://open.spotify.com/track/6R8sBJjTQnFffxSU4u4Kg9"
@@ -1445,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Cuerpo Pegado EP",
+        "url": "https://open.spotify.com/album/4eJUoi8EvwvCLtXSLmRHvq"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Cuerpo Pegado",
+      "url": "https://open.spotify.com/track/5Aquk2RpKdwaMK7s6yFGLA"
+    },
+    {
+      "album": {
         "name": "Dance Is The Answer (feat. Raja Ram)",
         "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
       },
@@ -1684,6 +1724,32 @@
       "duration_ms": 156190,
       "name": "Don't Step On My Nikes",
       "url": "https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9"
+    },
+    {
+      "album": {
+        "name": "Don't Wait",
+        "url": "https://open.spotify.com/album/3bZr6UwTPR2aa95zDD3atU"
+      },
+      "artists": [
+        {
+          "name": "ROMBE4T",
+          "url": "https://open.spotify.com/artist/5r89seDhq5dnVWpQ7y0wHQ"
+        },
+        {
+          "name": "Doche",
+          "url": "https://open.spotify.com/artist/5Er0sKNKy1Tv7UjgmV8Vpf"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220297,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/2tOBWr8LizDOl2pPDOdzyY"
     },
     {
       "album": {
@@ -1986,7 +2052,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 190595,
       "name": "Enemy - VIP Mix",
       "url": "https://open.spotify.com/track/6S2joFuNc26Oj9e5XqMNI6"
@@ -2843,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "House Is My Religion",
+        "url": "https://open.spotify.com/album/2HnIpvS1PWZeMnA9dQ0x9u"
+      },
+      "artists": [
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199804,
+      "name": "House Is My Religion",
+      "url": "https://open.spotify.com/track/74natXytTuBb5YmMJfmszI"
+    },
+    {
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/5UM3WxDcuJxZ494yrvP37S"
       },
@@ -3453,6 +3537,32 @@
     },
     {
       "album": {
+        "name": "La Musica",
+        "url": "https://open.spotify.com/album/6oosHftkdOTw9x6dm6NnCr"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW"
+    },
+    {
+      "album": {
         "name": "La Pinga",
         "url": "https://open.spotify.com/album/6SJ0S33d8shQBAHf3wHQyw"
       },
@@ -3568,6 +3678,32 @@
       "duration_ms": 295081,
       "name": "Lie Machine",
       "url": "https://open.spotify.com/track/49rTyBNvoKDV1EzZCQoeeV"
+    },
+    {
+      "album": {
+        "name": "Life Be Like",
+        "url": "https://open.spotify.com/album/2Ez00EpNa4XhXalUTbpv9u"
+      },
+      "artists": [
+        {
+          "name": "Daniel Best",
+          "url": "https://open.spotify.com/artist/21X9VaLa5Ag1smk5QohqiO"
+        },
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        },
+        {
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Life Be Like",
+      "url": "https://open.spotify.com/track/7F0Du6uA4OwKZDVErvNC9F"
     },
     {
       "album": {
@@ -4050,6 +4186,28 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "album": {
+        "name": "My City",
+        "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
     },
     {
       "album": {
@@ -4645,6 +4803,32 @@
     },
     {
       "album": {
+        "name": "Party All The Time",
+        "url": "https://open.spotify.com/album/3leEcSpfr1uqP5PXgmRbXI"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "DISORDER",
+          "url": "https://open.spotify.com/artist/58wlWYajhaIloGV3GlPd9M"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Party All The Time",
+      "url": "https://open.spotify.com/track/637yGvPCV8Fi1kl5GnoVuq"
+    },
+    {
+      "album": {
         "name": "Party Crashers",
         "url": "https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l"
       },
@@ -5144,6 +5328,28 @@
       "duration_ms": 175238,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/5NyQ7NvT3zwisjmsUZkqTw"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7H9Zk7eP2W1C3XFhRIOsPC"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353497,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1CptCgwaWniIYlqeM6SXmS"
     },
     {
       "album": {
@@ -6244,7 +6450,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 242560,
       "name": "Told You",
       "url": "https://open.spotify.com/track/4UHPdV0a90USlUxUgnXIU2"
@@ -6718,6 +6924,28 @@
       "duration_ms": 195937,
       "name": "When I See It (feat. The Vic)",
       "url": "https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso"
+    },
+    {
+      "album": {
+        "name": "where is your pride?",
+        "url": "https://open.spotify.com/album/2gC9Z5MHfmUkW2e3uHw56f"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Benjamin Zephaniah",
+          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "where is your pride?",
+      "url": "https://open.spotify.com/track/5H8f92czIxzvXko1n7toHZ"
     },
     {
       "album": {

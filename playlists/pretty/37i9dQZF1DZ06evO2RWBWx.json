@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 19650,
+  "num_followers": 19825,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkP7AAAAAADOvvXNAwO2IuWwwlxOrNLT",
+  "snapshot_id": "ZkVMgAAAAACLX98sZ7mGwxYJfkeW2g7P",
   "tracks": [
     {
       "added_at": null,
@@ -303,34 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pale Rain",
-        "url": "https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm"
-      },
-      "artists": [
-        {
-          "name": "imase with PUNPEE & Toby Fox",
-          "url": "https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC"
-        },
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "PUNPEE",
-          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
-        },
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        }
-      ],
-      "duration_ms": 221460,
-      "name": "Pale Rain",
-      "url": "https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u51e1\u624d",
         "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
@@ -363,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greedy Greedy (feat.imase)",
-        "url": "https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1"
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
       "artists": [
-        {
-          "name": "KUROMI",
-          "url": "https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d"
-        },
         {
           "name": "imase",
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Greedy Greedy - feat.imase",
-      "url": "https://open.spotify.com/track/6I3iulO4fB0hbsWV62CeK9"
+      "duration_ms": 128065,
+      "name": "BONSAI",
+      "url": "https://open.spotify.com/track/4gv9id0HvLVhaQWp4jtfH7"
     },
     {
       "added_at": null,
@@ -392,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 128065,
-      "name": "BONSAI",
-      "url": "https://open.spotify.com/track/4gv9id0HvLVhaQWp4jtfH7"
+      "duration_ms": 170146,
+      "name": "LIT",
+      "url": "https://open.spotify.com/track/3c4qpbU1K8l4ZJbpo15TNH"
     }
   ],
   "unique_name": "This Is imase",

@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 234686,
       "name": "Diorama",
       "url": "https://open.spotify.com/track/2P4WDJAjCHHUULO7wnzzvC"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 194010,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
@@ -808,6 +808,24 @@
       "duration_ms": 194010,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS"
+    },
+    {
+      "album": {
+        "name": "Live at Maida Vale (BBC)",
+        "url": "https://open.spotify.com/album/2PVQ1yNxbh2xueVEuxkYc4"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201042,
+      "name": "Sunshine - Live at Maida Vale - BBC",
+      "url": "https://open.spotify.com/track/12lXomZmriySZlIJzu2qRr"
     },
     {
       "album": {

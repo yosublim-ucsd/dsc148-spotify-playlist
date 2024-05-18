@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bebé
 
-216 songs - 10 hr 56 min
+217 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-24 | 2023-04-09 |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 | 2023-08-12 |
 | [Distante](https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV) | [Milly](https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Distante](https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8) | 2:09 | 2023-09-29 | 2023-12-16 |
-| [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 |  |
+| [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 | 2024-05-18 |
 | [Dói Tanto](https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Dói Tanto](https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s) | 2:38 | 2024-03-15 | 2024-03-30 |
 | [ele diz que me ama s2](https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ele diz que me ama s2](https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P) | 4:01 | 2023-08-25 | 2023-09-02 |
 | [Endless](https://open.spotify.com/track/4egPWmPxPbamKFF71SikGk) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Endless](https://open.spotify.com/album/0ctk99YFo7JDcwBkISKIOC) | 2:47 | 2024-05-03 |  |
@@ -215,6 +215,7 @@
 | [Tudo Que Restou](https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Tudo Que Restou](https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK) | 3:18 | 2022-11-18 |  |
 | [Uma Chance](https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO) | [Crod](https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j) | [Uma Chance Pra Ficar Tudo bem](https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3) | 2:34 | 2022-11-18 |  |
 | [Uma Vida é Pouco Pra Te Amar](https://open.spotify.com/track/6QWAEJf3F8sX0P8jVMpFsr) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:32 | 2023-08-04 | 2023-11-18 |
+| [Vai Lembrar de Mim](https://open.spotify.com/track/6lpSz7JsOocZOfyjCpMm2P) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Vai Lembrar de Mim](https://open.spotify.com/album/0ss50z7yx1Gh4VHH53Ycvj) | 3:05 | 2024-05-17 |  |
 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 | 2022-11-18 |  |
 | [Versão Beta](https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [PNDA](https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI) | [Versão Beta](https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL) | 2:13 | 2023-07-21 | 2023-10-21 |
 | [Vestido Vermelho](https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm) | [Vestido Vermelho](https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss) | 2:50 | 2022-11-18 |  |

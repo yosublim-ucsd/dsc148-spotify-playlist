@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: REHMA, Zahoor",
+  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Kaavish, Abdul Hannan",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -170,6 +170,28 @@
       "duration_ms": 198857,
       "name": "Aisay Kaisay",
       "url": "https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM"
+    },
+    {
+      "album": {
+        "name": "AKHAN DA JAADU",
+        "url": "https://open.spotify.com/album/4wBqNvBSEE2oqASsexVsXM"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        },
+        {
+          "name": "Ashhal Haider Khan",
+          "url": "https://open.spotify.com/artist/7jXOX30GA7YsD74DgYgyIG"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134192,
+      "name": "AKHAN DA JAADU",
+      "url": "https://open.spotify.com/track/5GlFjJTPqzuylcR3fvLAx4"
     },
     {
       "album": {
@@ -632,7 +654,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 216216,
       "name": "BIBA",
       "url": "https://open.spotify.com/track/4IQqOlTZpfjnSTOArpZX5j"
@@ -924,7 +946,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 232503,
       "name": "Choro",
       "url": "https://open.spotify.com/track/13GkX2Jop4q9FxtGvwb3MH"
@@ -3326,7 +3348,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 156197,
       "name": "NAAL",
       "url": "https://open.spotify.com/track/4ZCIQlHFG44NvcwpoXvEob"
@@ -3488,6 +3510,28 @@
       "duration_ms": 214999,
       "name": "Noor",
       "url": "https://open.spotify.com/track/6Qz8EToqWPSte2lRKeBCNX"
+    },
+    {
+      "album": {
+        "name": "O Yaara",
+        "url": "https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "O Yaara",
+      "url": "https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY"
     },
     {
       "album": {
@@ -3912,7 +3956,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 313311,
       "name": "Raat Ki Rani",
       "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
@@ -4765,6 +4809,28 @@
     },
     {
       "album": {
+        "name": "Sun Lo",
+        "url": "https://open.spotify.com/album/5KIQkicQ9hDsnP4AhCwEEx"
+      },
+      "artists": [
+        {
+          "name": "Sharmeen Javed",
+          "url": "https://open.spotify.com/artist/58BZTZbr9WYBP7EqIm5BaA"
+        },
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Sun Lo",
+      "url": "https://open.spotify.com/track/1BIKYnZlHtpv0xWdgbVT7t"
+    },
+    {
+      "album": {
         "name": "surface",
         "url": "https://open.spotify.com/album/014RAFqcrT4Si2Umd68yZy"
       },
@@ -4802,7 +4868,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 236000,
       "name": "surface",
       "url": "https://open.spotify.com/track/4utOySNKfpxN8GcvTXbWdD"
@@ -4912,6 +4978,24 @@
       "duration_ms": 211690,
       "name": "Tera Suna",
       "url": "https://open.spotify.com/track/38mne9HRPU9JxWVYEf6YXg"
+    },
+    {
+      "album": {
+        "name": "Teray Naal",
+        "url": "https://open.spotify.com/album/4JsZodknDILTDTnswlIYIf"
+      },
+      "artists": [
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Teray Naal",
+      "url": "https://open.spotify.com/track/6ZkFBPYesUv0PzI8V3PZH6"
     },
     {
       "album": {

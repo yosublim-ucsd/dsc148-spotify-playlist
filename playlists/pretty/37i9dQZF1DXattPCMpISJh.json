@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 118555,
+  "num_followers": 118699,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2b/AAAAABjP9fayT26mqDQOQT6VbiU",
+  "snapshot_id": "ZkbWfAAAAABgjXSPUk4lBv2lU1x1ThW9",
   "tracks": [
     {
       "added_at": "2024-05-10 04:01:00",
@@ -23,6 +23,34 @@
       "duration_ms": 282283,
       "name": "Finally Free",
       "url": "https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea) [Extended Version]",
+        "url": "https://open.spotify.com/album/6q3RTRma8OfHW8PAFYUKqS"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 431891,
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea) - Extended Version",
+      "url": "https://open.spotify.com/track/0wKCTce0iM4zvsI91qlp3X"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -57,6 +85,30 @@
       "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     },
     {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "I Want To See You Dance (Art Of Tones Remix)",
+        "url": "https://open.spotify.com/album/791iuuaIDJgRHoxhtwczVN"
+      },
+      "artists": [
+        {
+          "name": "AC Soul Symphony",
+          "url": "https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        }
+      ],
+      "duration_ms": 213570,
+      "name": "I Want To See You Dance - Art Of Tones Edit",
+      "url": "https://open.spotify.com/track/2nGk7Ik2ufJMa5nLUfgo7J"
+    },
+    {
       "added_at": "2024-05-03 04:01:00",
       "album": {
         "name": "One Big Family",
@@ -71,6 +123,22 @@
       "duration_ms": 138253,
       "name": "One Big Family",
       "url": "https://open.spotify.com/track/0OKHeGWzWQR2QFJsGfolum"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/2x0tgivEmpZRjEI2F3NQt9"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/7sCjuA6HWsFzPt4KvM1w6J"
     },
     {
       "added_at": "2024-05-03 04:01:00",
@@ -1537,26 +1605,6 @@
       "url": "https://open.spotify.com/track/3ZQzvmQyG7T0UAlrotKwI8"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Foreal to Real EP",
-        "url": "https://open.spotify.com/album/4bZCsip7tfhmmcQkPxPOTT"
-      },
-      "artists": [
-        {
-          "name": "Foreal People",
-          "url": "https://open.spotify.com/artist/3HzsfFc9UxQSimCcQw3xIC"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        }
-      ],
-      "duration_ms": 444172,
-      "name": "In The Mood To Groove - Dave Lee Extended Mix",
-      "url": "https://open.spotify.com/track/1ZAgfz1nuysUBaqOcpxGG2"
-    },
-    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Conversation Starter",
@@ -1629,30 +1677,6 @@
       "url": "https://open.spotify.com/track/5EHNdt9S4GdQqvVUlaqiv8"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "In the Dark (Aeroplane Remix)",
-        "url": "https://open.spotify.com/album/1ycWhFxMnzOmo6P57qSsWM"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        },
-        {
-          "name": "Aeroplane",
-          "url": "https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "In the Dark (Aeroplane Remix)",
-      "url": "https://open.spotify.com/track/03jzGrt5ZUdTmV3UGtB4ZK"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Never Knew",
@@ -1667,26 +1691,6 @@
       "duration_ms": 221111,
       "name": "Never Knew",
       "url": "https://open.spotify.com/track/5GwzmBgVwaS14JuB65ZMoQ"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Blutooth / enough 4 u",
-        "url": "https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Blutooth",
-      "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
     },
     {
       "added_at": "2022-08-26 04:02:00",

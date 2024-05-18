@@ -1,6 +1,6 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 124550,
+  "num_followers": 124573,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-04-02 01:22:16",
       "album": {
-        "name": "Comedy",
-        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Comedy",
-      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
-    },
-    {
-      "added_at": "2024-04-02 01:22:16",
-      "album": {
         "name": "Spirited Away Soundtrack",
         "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 189800,
       "name": "One Summer Day",
       "url": "https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu"
+    },
+    {
+      "added_at": "2024-04-02 01:22:16",
+      "album": {
+        "name": "Comedy",
+        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
     },
     {
       "added_at": "2024-04-02 01:22:16",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-04-02 01:22:16",
       "album": {
-        "name": "Ghibli, Anime & Chill",
-        "url": "https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Tom",
-          "url": "https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km"
-        }
-      ],
-      "duration_ms": 91725,
-      "name": "The Girl Who Fell From The Sky (Laputa)",
-      "url": "https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX"
-    },
-    {
-      "added_at": "2024-04-02 01:22:16",
-      "album": {
         "name": "Howl's Moving Castle Soundtrack",
         "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 71800,
       "name": "You're in Love",
       "url": "https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3"
+    },
+    {
+      "added_at": "2024-04-02 01:22:16",
+      "album": {
+        "name": "Ghibli, Anime & Chill",
+        "url": "https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Tom",
+          "url": "https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km"
+        }
+      ],
+      "duration_ms": 91725,
+      "name": "The Girl Who Fell From The Sky (Laputa)",
+      "url": "https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX"
     },
     {
       "added_at": "2024-04-02 01:22:16",

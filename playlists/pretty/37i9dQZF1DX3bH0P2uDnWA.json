@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 379620,
+  "num_followers": 379624,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2b/AAAAAB1GRAyzCEcHDyxxZi8wWCH",
+  "snapshot_id": "ZkbWfAAAAACfvsyCZ93pVhaBKnYxC/ZG",
   "tracks": [
     {
       "added_at": "2024-05-10 04:01:00",
@@ -69,6 +69,22 @@
       "url": "https://open.spotify.com/track/1J9BJ1Px6IB5mBQiCfrlSv"
     },
     {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Biscuits and Cake",
+        "url": "https://open.spotify.com/album/0TzY9qwYjfSEI9JpO3aNs9"
+      },
+      "artists": [
+        {
+          "name": "Intended Immigration",
+          "url": "https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg"
+        }
+      ],
+      "duration_ms": 162237,
+      "name": "Biscuits and Cake",
+      "url": "https://open.spotify.com/track/5bYaMq0PL7W3k4wFrm5xMy"
+    },
+    {
       "added_at": "2024-04-12 04:01:00",
       "album": {
         "name": "Comme ci, comme \u00e7a",
@@ -103,6 +119,22 @@
       "duration_ms": 177459,
       "name": "Tom's Diner - Electro Swing Radio Edit",
       "url": "https://open.spotify.com/track/2D4VwRmOXXdg1XrbtR7CVn"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Chaos Parade",
+        "url": "https://open.spotify.com/album/2TIDcRHFBJwy5wQTBMXzWE"
+      },
+      "artists": [
+        {
+          "name": "Riff Kitten",
+          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Chaos Parade",
+      "url": "https://open.spotify.com/track/6ulXGUzVccCtFGuIKmNQz8"
     },
     {
       "added_at": "2023-11-06 13:47:16",
@@ -179,22 +211,6 @@
       "duration_ms": 123500,
       "name": "Bang Bang - Future Swing Mix",
       "url": "https://open.spotify.com/track/2hal3K1iZA1G0ttAwfMoPV"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "All I Do Is Dream of You",
-        "url": "https://open.spotify.com/album/40CoFAmcDM4KxiMt9dYYQ7"
-      },
-      "artists": [
-        {
-          "name": "Intended Immigration",
-          "url": "https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg"
-        }
-      ],
-      "duration_ms": 163375,
-      "name": "All I Do Is Dream of You",
-      "url": "https://open.spotify.com/track/3IB2bQ7dcIGmMajOOxtZPe"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -2731,22 +2747,6 @@
       "duration_ms": 161831,
       "name": "Feel so Happy - Bbop Future Swing Remix",
       "url": "https://open.spotify.com/track/7adN8Av6zDGZN3CXmzuSYQ"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "We Showed 'Em",
-        "url": "https://open.spotify.com/album/2WfHHCun1y2Z7nOuTik7H9"
-      },
-      "artists": [
-        {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
-        }
-      ],
-      "duration_ms": 149635,
-      "name": "We Showed 'Em",
-      "url": "https://open.spotify.com/track/2uUEYXdfA8akIL3J1vpBb3"
     },
     {
       "added_at": "2023-11-06 13:47:16",

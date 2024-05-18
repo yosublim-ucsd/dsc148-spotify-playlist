@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 201250,
       "name": "Fast Car - Acoustic Live Session",
       "url": "https://open.spotify.com/track/14N56qsRV6jOydcjHqN6El"
@@ -2382,6 +2382,28 @@
       "duration_ms": 176346,
       "name": "Lovely Day - Acoustic",
       "url": "https://open.spotify.com/track/4EbymPiRoHnMoTmo23X9qK"
+    },
+    {
+      "album": {
+        "name": "Lovely Day (Acoustic Live Session)",
+        "url": "https://open.spotify.com/album/3HDbFrRgCE6MHA4jWXZLDi"
+      },
+      "artists": [
+        {
+          "name": "Rosie Holloway",
+          "url": "https://open.spotify.com/artist/4eWiocR8XDrooQ0LAMMV3m"
+        },
+        {
+          "name": "STABAL",
+          "url": "https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Lovely Day - Acoustic Live Session",
+      "url": "https://open.spotify.com/track/01pPSz0tquPLuIze7UHjsd"
     },
     {
       "album": {
@@ -4116,6 +4138,24 @@
       "duration_ms": 172906,
       "name": "You & Me Song - Acoustic",
       "url": "https://open.spotify.com/track/1BGqPCs8lTqaRHc6AWBvts"
+    },
+    {
+      "album": {
+        "name": "You Are Not Alone (Acoustic)",
+        "url": "https://open.spotify.com/album/0Q1migL2N2PEP3nAR57vTy"
+      },
+      "artists": [
+        {
+          "name": "Mateo Oxley",
+          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144524,
+      "name": "You Are Not Alone - Acoustic",
+      "url": "https://open.spotify.com/track/4uHUIPYbU9ZFXnPcKYwPRv"
     },
     {
       "album": {

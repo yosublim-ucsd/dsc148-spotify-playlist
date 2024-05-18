@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: dillasarah
 
-179 songs - 13 hr 1 min
+180 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Hidup](https://open.spotify.com/track/61pIoGz4vXugNa5Cc9Fh47) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 2:52 | 2022-09-02 | 2023-03-04 |
 | [House of Blues](https://open.spotify.com/track/1jtwwarLqjm7wZk5FaGUYX) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Pieter anroputra](https://open.spotify.com/artist/5iKnmuPSMDkd6Ubm3XYEf4), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [House of Blues](https://open.spotify.com/album/6Ljmeh56kmboZWKacGtR5S) | 3:33 | 2023-06-29 |  |
 | [How Much Do You Love Me](https://open.spotify.com/track/6LwpW2WMxPqICW1dBXsV7a) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [The Surrealist Party](https://open.spotify.com/album/5esuY8C9LUggVuV7XQ24Ky) | 3:46 | 2023-11-28 |  |
+| [Hujan Deras](https://open.spotify.com/track/117LMQ1UgtJvLzdqoddYn8) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Prof Jo](https://open.spotify.com/album/4FlqZJ6BerAFaiaSEbqtDW) | 3:18 | 2024-05-17 |  |
 | [I Am The Bass](https://open.spotify.com/track/3Oj6SHWTkRpJOOE8AIkjZG) | [Bondan Prakoso](https://open.spotify.com/artist/7b4mucf6X53D3pEaY1jWl6), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [I Am The Bass](https://open.spotify.com/album/0qMcpjxXi0tQP9SmjZtOED) | 3:30 | 2022-09-02 | 2023-08-18 |
 | [I Can’t Make You Love Me](https://open.spotify.com/track/0ZhF5IXGeWPAyYe6dGP3LF) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 5:03 | 2023-11-28 | 2024-04-19 |
 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 | 2024-04-18 |  |

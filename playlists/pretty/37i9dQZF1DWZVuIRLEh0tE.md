@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: NTG
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,367 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,463 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 41 | [Dile Tu](https://open.spotify.com/track/1xIgE8NcY1l8Y9GRcEKpJ8) | [Ventura El Favorito](https://open.spotify.com/artist/3ydKvxN2Cngfl8gaA9Ld9H), [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e) | [Dile Tu](https://open.spotify.com/album/4dLvulfgeSohoeWAmYxXyj) | 2:36 |
 | 42 | [Te quiero \- Special Version](https://open.spotify.com/track/1wRCb3pUMVPhXavUKSPuVI) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Te Quiero \(Special Version\)](https://open.spotify.com/album/0nBiKTxgoOpA5Z6BFzFSyw) | 2:56 |
 | 43 | [EL OPERATIVO CACHORRO 30](https://open.spotify.com/track/4UuqvEHdsnFn9MEaFH96Hv) | [Nueva Division](https://open.spotify.com/artist/02OOeLteR04VNTPww5jO1W) | [EL OPERATIVO CACHORRO 30](https://open.spotify.com/album/30z3SnasHh9ji3zO4DACJf) | 4:25 |
-| 44 | [DEJENSE VER](https://open.spotify.com/track/2bvEPgnFGZT7qZ9c5UZLui) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [JS SERNA](https://open.spotify.com/artist/7xtH0cO7uO2QuF1Klyvmkz), [Papo El Maxx](https://open.spotify.com/artist/5pdPaiA1QA6z4oZJwlUlYU), [Chulumblum](https://open.spotify.com/artist/40jTe2BlZlNRB9iQppVVLe), [Dexta Small](https://open.spotify.com/artist/141xDIiEMJa9qsvUfYMtK4), [High Galaxy Music](https://open.spotify.com/artist/6DX3eOyDrzIBvvBdZyxxqd) | [DEJENSE VER](https://open.spotify.com/album/6dflYfj7EUoItRcYcrt9Uu) | 3:40 |
+| 44 | [DEJENSE VER](https://open.spotify.com/track/2bvEPgnFGZT7qZ9c5UZLui) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Chulumblum](https://open.spotify.com/artist/40jTe2BlZlNRB9iQppVVLe), [Papo El Maxx](https://open.spotify.com/artist/5pdPaiA1QA6z4oZJwlUlYU), [JS SERNA](https://open.spotify.com/artist/7xtH0cO7uO2QuF1Klyvmkz), [Dexta Small](https://open.spotify.com/artist/141xDIiEMJa9qsvUfYMtK4), [High Galaxy Music](https://open.spotify.com/artist/6DX3eOyDrzIBvvBdZyxxqd) | [DEJENSE VER](https://open.spotify.com/album/6dflYfj7EUoItRcYcrt9Uu) | 3:40 |
 | 45 | [Calorazo](https://open.spotify.com/track/5jrG8BSLIqMvacwkiWmxc7) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Calorazo](https://open.spotify.com/album/6l1nP7pApoZRY4taX32OVp) | 2:29 |
 | 46 | [Vivo Por Palomo](https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Vivo Por Palomo](https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f) | 3:26 |
 | 47 | [Good Enough](https://open.spotify.com/track/7nJRXovps7c2ffbnbLD642) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Good Enough](https://open.spotify.com/album/0XA7lnJxZEoE3cUgKvsAlI) | 3:04 |

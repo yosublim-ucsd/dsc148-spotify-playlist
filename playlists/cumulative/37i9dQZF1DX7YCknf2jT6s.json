@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Kamasi Washington",
+  "description": "New jazz for open minds. Cover: Al Di Meola",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2103,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/74ejSMFM2Yi1O6llb3WFJ4"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171896,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/3rxEix5emZiBfdNIuXskXm"
+    },
+    {
+      "album": {
         "name": "The Omnichord Real Book",
         "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
       },
@@ -2412,6 +2430,24 @@
       "duration_ms": 355880,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/6nQocCdBEDoy6aGxk1vGwt"
+    },
+    {
+      "album": {
+        "name": "Ava's Dance in the Moonlight",
+        "url": "https://open.spotify.com/album/6GW2fgLVvRrUIsYtN9nTmv"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483866,
+      "name": "Ava's Dance in the Moonlight",
+      "url": "https://open.spotify.com/track/04GQe9Os4UaxlcPujrBZTP"
     },
     {
       "album": {
@@ -3346,7 +3382,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 179851,
       "name": "Big Man, Little Dignity (Re: DOMi & JD BECK)",
       "url": "https://open.spotify.com/track/45D0aZpY8muBiprlulURde"
@@ -4820,7 +4856,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 515745,
       "name": "Chasing a Melody",
       "url": "https://open.spotify.com/track/5pzFKSSXiYut9q94f7wmoY"
@@ -5620,7 +5656,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 125867,
       "name": "Coyote, You're My Star",
       "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
@@ -6814,7 +6850,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 390000,
       "name": "Dogtown",
       "url": "https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso"
@@ -7740,7 +7776,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 488435,
       "name": "Elho 67",
       "url": "https://open.spotify.com/track/0dgXRh3B4dDlm7zXRRB5aO"
@@ -8721,6 +8757,24 @@
     },
     {
       "album": {
+        "name": "feel / i don't know why",
+        "url": "https://open.spotify.com/album/54DPVTO675Qnb60v5tmLg0"
+      },
+      "artists": [
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130912,
+      "name": "feel",
+      "url": "https://open.spotify.com/track/0FpWFfW0yqpCIfgw4QCuuL"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/2fhRxWYRzfsTFtePAamCHo"
       },
@@ -8768,7 +8822,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 428099,
       "name": "Find Me - Live",
       "url": "https://open.spotify.com/track/5wCXlhXJcvb9nawe5phkME"
@@ -9146,7 +9200,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 240480,
       "name": "For Only You",
       "url": "https://open.spotify.com/track/7mN2PDAo1lQ2sU4Egje5N2"
@@ -10911,6 +10965,36 @@
     },
     {
       "album": {
+        "name": "Hesitation",
+        "url": "https://open.spotify.com/album/3UQg06SsweEl9fnaQ6safZ"
+      },
+      "artists": [
+        {
+          "name": "tender spring",
+          "url": "https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC"
+        },
+        {
+          "name": "9ICK",
+          "url": "https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx"
+        },
+        {
+          "name": "Jonas Cook",
+          "url": "https://open.spotify.com/artist/6kPczVR0budaNlpp7ZJsRt"
+        },
+        {
+          "name": "Rich",
+          "url": "https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Hesitation",
+      "url": "https://open.spotify.com/track/1eMFRqbg9X1mZvgvWZzAN6"
+    },
+    {
+      "album": {
         "name": "Et Le Funk Mystique",
         "url": "https://open.spotify.com/album/2woysuZeZvPTqddDPszgBk"
       },
@@ -11795,6 +11879,28 @@
     },
     {
       "album": {
+        "name": "Ice Cream Song",
+        "url": "https://open.spotify.com/album/053t2hqRh9XHIVG85cuTeP"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        },
+        {
+          "name": "Cinya Khan",
+          "url": "https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "Ice Cream Song",
+      "url": "https://open.spotify.com/track/70GNB9kgyDBGjTyeWZZx1w"
+    },
+    {
+      "album": {
         "name": "Royal Sessions",
         "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
       },
@@ -11946,6 +12052,44 @@
       "duration_ms": 193973,
       "name": "Ilka",
       "url": "https://open.spotify.com/track/313dbYJ634LQ8jyv2etSUU"
+    },
+    {
+      "album": {
+        "name": "Images Suite",
+        "url": "https://open.spotify.com/album/4y60knjdgbCL08FwRADhy6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        },
+        {
+          "name": "Laurie Anderson",
+          "url": "https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G"
+        },
+        {
+          "name": "Sex Mob",
+          "url": "https://open.spotify.com/artist/70g4lA7XM4Wr6a8kGPICrN"
+        },
+        {
+          "name": "Steven Bernstein",
+          "url": "https://open.spotify.com/artist/5pCNKFvPUY8L47ExfM4WLj"
+        },
+        {
+          "name": "Marshall Allen",
+          "url": "https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575773,
+      "name": "Images Suite",
+      "url": "https://open.spotify.com/track/5oABmPQDuEgOyaMsTON6th"
     },
     {
       "album": {
@@ -12166,6 +12310,40 @@
       "duration_ms": 334023,
       "name": "Indie",
       "url": "https://open.spotify.com/track/10aQsPXwEjVk2XpLKdYiSm"
+    },
+    {
+      "album": {
+        "name": "Infinite Love Infinite Tears",
+        "url": "https://open.spotify.com/album/5fYJtn7UA04pF2Jd76dF6p"
+      },
+      "artists": [
+        {
+          "name": "Alan Braufman",
+          "url": "https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H"
+        },
+        {
+          "name": "Patricia Brennan",
+          "url": "https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        },
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Ken Filiano",
+          "url": "https://open.spotify.com/artist/2OaNxBGsO4k7VvISKSm38d"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309960,
+      "name": "Infinite Love Infinite Tears",
+      "url": "https://open.spotify.com/track/1njHpAC1SIquwERCULlVU5"
     },
     {
       "album": {
@@ -13635,6 +13813,24 @@
     },
     {
       "album": {
+        "name": "Mid Spiral: Chaos",
+        "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188761,
+      "name": "Last Laugh",
+      "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
+    },
+    {
+      "album": {
         "name": "Late Night Rendezvous",
         "url": "https://open.spotify.com/album/7HtbimMr4j8e4OqgB0MiK6"
       },
@@ -14062,6 +14258,32 @@
       "duration_ms": 303333,
       "name": "Libra",
       "url": "https://open.spotify.com/track/0A63tsENDnCLcmZE7UEpDj"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256374,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
     },
     {
       "album": {
@@ -16092,7 +16314,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 237675,
       "name": "Mister Am\u00e9rico (feat. Thiago Rabello & Salom\u00e3o Soares)",
       "url": "https://open.spotify.com/track/4r3tvfkc2r0gawvdtvBtIV"
@@ -18666,6 +18888,28 @@
       "duration_ms": 330480,
       "name": "Outliers",
       "url": "https://open.spotify.com/track/1nZWKaS2Gtw83XLO0wV9q6"
+    },
+    {
+      "album": {
+        "name": "Outubro",
+        "url": "https://open.spotify.com/album/2irn9XaU4vnKfEmxpvpHjO"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317520,
+      "name": "Outubro",
+      "url": "https://open.spotify.com/track/0fEIearbFkOnbvKWHA88fA"
     },
     {
       "album": {
@@ -21703,6 +21947,28 @@
     },
     {
       "album": {
+        "name": "Secret House",
+        "url": "https://open.spotify.com/album/0aGXNuZWFskg5cHKOU2etG"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "Secret House",
+      "url": "https://open.spotify.com/track/4aVUPEHIzzXsidRgdAf4RW"
+    },
+    {
+      "album": {
         "name": "Secret Love",
         "url": "https://open.spotify.com/album/4lyulYMJKX79nZG4m6Ru7p"
       },
@@ -22606,7 +22872,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 179184,
       "name": "Small Things",
       "url": "https://open.spotify.com/track/4a9FVG639jsRd9JoH3xhcZ"
@@ -26056,7 +26322,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 269853,
       "name": "The Love Unable To Give",
       "url": "https://open.spotify.com/track/3k7sByGH1pZj3Sh7Nqe0kz"
@@ -26914,7 +27180,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 274857,
       "name": "Things Will Fall Apart",
       "url": "https://open.spotify.com/track/6sMOWWJsTouTGwRO6QJ4KJ"
@@ -28324,7 +28590,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-18",
       "duration_ms": 220346,
       "name": "Used To Be Duke",
       "url": "https://open.spotify.com/track/7mMUp72qgpqDktLKcMASpJ"
@@ -28362,6 +28628,28 @@
       "duration_ms": 456114,
       "name": "Valdez Off Crenshaw (feat. Kamasi Washington, Cory Henry & Robert 'Sput' Searight)",
       "url": "https://open.spotify.com/track/21k7x040W2grne2sr7qIip"
+    },
+    {
+      "album": {
+        "name": "Tembla",
+        "url": "https://open.spotify.com/album/3cIaL40v9LzuuUBeefhEz0"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "C4 Tr\u00edo",
+          "url": "https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246437,
+      "name": "Vale la Pena",
+      "url": "https://open.spotify.com/track/5kbX87ieKKlyPfGFHdmouC"
     },
     {
       "album": {

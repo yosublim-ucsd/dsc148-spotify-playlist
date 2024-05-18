@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 186006,
+  "num_followers": 186050,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
+        "name": "La Llave",
+        "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
       },
       "artists": [
         {
-          "name": "Cuti y Roberto Carabajal",
-          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 179722,
-      "name": "Entre A Mi Pago Sin Golpear",
-      "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
+      "duration_ms": 230093,
+      "name": "Todo Est\u00e1 en Vos",
+      "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "La Llave",
-        "url": "https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Cuti y Roberto Carabajal",
+          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
         }
       ],
-      "duration_ms": 230093,
-      "name": "Todo Est\u00e1 en Vos",
-      "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
+      "duration_ms": 179722,
+      "name": "Entre A Mi Pago Sin Golpear",
+      "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -863,38 +863,6 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Zamba para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 236813,
       "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
       "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Zamba para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "Carlos Torres Vila-Los Elegidos",
-        "url": "https://open.spotify.com/album/6DKp4qYEUKGsgjz6YzizWC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Torres Vila",
-          "url": "https://open.spotify.com/artist/5OQpgiuh3jzgADQidpRcTb"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "La Enga\u00f1era",
-      "url": "https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
         "name": "Folclore - La Colecci\u00f3n - Los Del Suqu\u00eda",
         "url": "https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 214893,
       "name": "De Alberdi - Zamba",
       "url": "https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "Carlos Torres Vila-Los Elegidos",
+        "url": "https://open.spotify.com/album/6DKp4qYEUKGsgjz6YzizWC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Torres Vila",
+          "url": "https://open.spotify.com/artist/5OQpgiuh3jzgADQidpRcTb"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "La Enga\u00f1era",
+      "url": "https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "22 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
-      },
-      "artists": [
-        {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Llorar\u00e9",
-      "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
         "name": "Reencuentro en el CCK",
         "url": "https://open.spotify.com/album/6ICf6htjHOdzE4caqtT69b"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 115147,
       "name": "Repiqueteadita",
       "url": "https://open.spotify.com/track/5oaKdJi8it3WRS3RMAqZsE"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "22 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
+      },
+      "artists": [
+        {
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Llorar\u00e9",
+      "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Como P\u00e1jaros en el Aire",
-      "url": "https://open.spotify.com/track/1h0XaQjEBN3WOiLAOjhRVe"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
         "name": "Folklore Los 100 Mejores Temas Vol. 1",
         "url": "https://open.spotify.com/album/1nzaxGryITzT0s5iBkfeir"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 218106,
       "name": "Zamba del Regreso",
       "url": "https://open.spotify.com/track/3yoHT9xnzq86q00Pyko1Ly"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Como P\u00e1jaros en el Aire",
+      "url": "https://open.spotify.com/track/1h0XaQjEBN3WOiLAOjhRVe"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "Antig\u00fcedades (En Vivo)",
-        "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
-      },
-      "artists": [
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
-        }
-      ],
-      "duration_ms": 303555,
-      "name": "Run Run Se Fue Pa'l Norte - En Vivo",
-      "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
-    },
-    {
-      "added_at": "2024-05-16 20:48:08",
-      "album": {
         "name": "Folklore: Los 100 Mejores Temas, Vol. 2",
         "url": "https://open.spotify.com/album/4IHqqOFllocnEbsKA4gLiQ"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 159666,
       "name": "Santafesino de Veras",
       "url": "https://open.spotify.com/track/1w9LiWF0fCyfCQ8bfSY1VE"
+    },
+    {
+      "added_at": "2024-05-16 20:48:08",
+      "album": {
+        "name": "Antig\u00fcedades (En Vivo)",
+        "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
+      },
+      "artists": [
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+        }
+      ],
+      "duration_ms": 303555,
+      "name": "Run Run Se Fue Pa'l Norte - En Vivo",
+      "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -2079,8 +2079,8 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "La Ley Y La Trampa",
-        "url": "https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc"
+        "name": "Quien Me Quita Lo Cantado",
+        "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
       },
       "artists": [
         {
@@ -2088,9 +2088,9 @@
           "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
         }
       ],
-      "duration_ms": 168840,
-      "name": "La Ley Y La Trampa",
-      "url": "https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28"
+      "duration_ms": 201427,
+      "name": "Por las costas entrerrianas",
+      "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
     },
     {
       "added_at": "2024-05-16 20:48:08",
@@ -2247,8 +2247,8 @@
     {
       "added_at": "2024-05-16 20:48:08",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p"
+        "name": "La Ley Y La Trampa",
+        "url": "https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc"
       },
       "artists": [
         {
@@ -2256,9 +2256,9 @@
           "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Amor Salvaje",
-      "url": "https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6"
+      "duration_ms": 168840,
+      "name": "La Ley Y La Trampa",
+      "url": "https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28"
     },
     {
       "added_at": "2024-05-16 20:48:08",

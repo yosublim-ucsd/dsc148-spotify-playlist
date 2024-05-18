@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Trisha Yearwood
 
-281 songs - 16 hr 29 min
+283 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Mama He's Crazy](https://open.spotify.com/track/3uuAVN4ZepStnZvWZqzBDD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:17 | 2023-10-27 | 2023-11-12 |
 | [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 | 2023-11-10 |  |
 | [Memory](https://open.spotify.com/track/40Ny9MMawUKcdNJyERWODH) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Memory](https://open.spotify.com/album/0FbbpxXfPvOVPCjW5UPmWa) | 5:04 | 2021-10-15 | 2022-09-21 |
+| [MIA Down In MIA](https://open.spotify.com/track/05GQWrTY4ntMareQlgnGEB) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [MIA Down In MIA](https://open.spotify.com/album/47nvV9R8dSHmpX4oM9ILmC) | 3:29 | 2024-05-17 |  |
 | [Mozambique](https://open.spotify.com/track/4glXMXiiOlJP4ZJmMZ1Yvu) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Mozambique / University Of Bourbon Street](https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj) | 3:16 | 2023-11-03 |  |
 | [My Maria \- with Thomas Rhett](https://open.spotify.com/track/64vkacv9XtTjAQSosbUbW2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:29 | 2021-10-15 |  |
 | [My Stupid Tattoo](https://open.spotify.com/track/0V25FstJKoZu9EUbMiNDXg) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [My Stupid Tattoo](https://open.spotify.com/album/5kVdDrl6zsidbOyFMwZEHn) | 2:44 | 2024-01-19 |  |
@@ -195,6 +196,7 @@
 | [Oughta Miss Me by Now](https://open.spotify.com/track/6RcWdxxvdKiEByaJM3WEny) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Tradition Lives](https://open.spotify.com/album/3DMgEWtAZKzePMRCkh34gO) | 3:37 | 2021-10-15 |  |
 | [Out Here In It](https://open.spotify.com/track/0ZnuzApPoaClW97IZNlqNG) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Out Here In It](https://open.spotify.com/album/3vyCg3vcncW4aHqwj2TIYG) | 3:25 | 2024-02-16 |  |
 | [Out of My Mind \(Country\)](https://open.spotify.com/track/1cEM4aYMmGdm6j8SRimVHG) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Out of My Mind \(Country\)](https://open.spotify.com/album/1EuPbXPAp6kO8qQSxvuJmn) | 3:19 | 2023-07-14 |  |
+| [Over and Over](https://open.spotify.com/track/1qMujJpda7A5NGWxbR3jeQ) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4) | [Over and Over](https://open.spotify.com/album/6WQIQXFnUUDASxfg0WygI9) | 3:44 | 2024-05-17 |  |
 | [Patsy Cline Crazy](https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Patsy Cline Crazy](https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt) | 3:49 | 2022-02-25 |  |
 | [Plans](https://open.spotify.com/track/243xVaJ0uGwvzFpZS3EXxc) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Plans](https://open.spotify.com/album/6bPToqWK7UeSk6rvI2wEAq) | 3:39 | 2023-08-18 |  |
 | [Pretty Dang Good](https://open.spotify.com/track/35HIkkB8nnZcTqy1mwhz8Y) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Pretty Dang Good](https://open.spotify.com/album/19bExMYQXy9nlNNIr5LXkf) | 2:54 | 2024-05-03 |  |
