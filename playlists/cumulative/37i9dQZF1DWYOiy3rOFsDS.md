@@ -4,7 +4,7 @@
 
 > Romance a la antigüita con MIA y Lucero Mijares en portada.
 
-281 songs - 16 hr 31 min
+282 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 | 2021-10-16 |  |
 | [Justo Así](https://open.spotify.com/track/3jxQbsFWh5MfsqPq30K0Hc) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Justo Así](https://open.spotify.com/album/0ysUSiAtXzU2vrYxy0HDIk) | 2:23 | 2024-03-22 | 2024-05-18 |
 | [La Apuesta](https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [DUAL](https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk) | 3:27 | 2022-03-18 |  |
+| [La Barca](https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [La Barca](https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj) | 3:12 | 2024-05-17 |  |
 | [La Copa Rota](https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Copa Rota](https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM) | 3:09 | 2022-10-28 |  |
 | [La Danza de las Libélulas](https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Danza de las Libélulas](https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f) | 3:40 | 2021-10-16 | 2023-10-21 |
 | [La Flor de la Canela](https://open.spotify.com/track/4WKltvGwkSYSaCrRSeJKhJ) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [La Flor de la Canela](https://open.spotify.com/album/34pZStLrPFekoc8PgVeDWm) | 3:27 | 2021-10-16 | 2022-07-29 |

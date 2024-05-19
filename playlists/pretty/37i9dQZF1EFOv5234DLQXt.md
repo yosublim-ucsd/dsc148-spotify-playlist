@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,711 likes - 115 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,710 likes - 115 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 55 | [Si No Fuera Por..\. \- Remasterizado 2007](https://open.spotify.com/track/5fu5vl7owT5ny0ry2Bema2) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:27 |
 | 56 | [Danza Rota \- Remasterizado 2007](https://open.spotify.com/track/6WB3ovHYXvhXfXQnAeE5qj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:31 |
 | 57 | [Luna Roja \- Remasterizado 2007](https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 5:30 |
-| 58 | [Sudestada](https://open.spotify.com/track/4Furx239MHnKbwwDMtDVWG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:31 |
-| 59 | [Fue \- Remasterizado 2007](https://open.spotify.com/track/71ymTqjg6wUvgNksseSgbC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:52 |
+| 58 | [Fue \- Remasterizado 2007](https://open.spotify.com/track/71ymTqjg6wUvgNksseSgbC) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:52 |
+| 59 | [Sudestada](https://open.spotify.com/track/4Furx239MHnKbwwDMtDVWG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:31 |
 | 60 | [Tu Cicatriz En Mi](https://open.spotify.com/track/7gPVoEPs8iLkkq3DXPtAjj) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:17 |
 | 61 | [Fantasma](https://open.spotify.com/track/2xuDoEEK7tfZMh5Y7gOoTg) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:19 |
 | 62 | [Hoy Ya No Soy Yo](https://open.spotify.com/track/1m0obkZfMvfVJtPQ4FrTda) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:08 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 72 | [Devoción](https://open.spotify.com/track/58haa2vmqz7tCG7FFDrLWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:29 |
 | 73 | [En Camino \- Remasterizado 2007](https://open.spotify.com/track/4EO3RjlXJbTUQdDnRGlcGa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:29 |
 | 74 | [Bocanada \- En Vivo](https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 4:29 |
-| 75 | [Cae El Sol \- Remasterizado 2007](https://open.spotify.com/track/14qUG8qf2vIpTZDbjG9KxN) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto B \(Remastered\)](https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk) | 4:51 |
-| 76 | [Dietético \- Remasterizado 2007](https://open.spotify.com/track/4bvkroEWwjF8O1tcLAACUj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:46 |
+| 75 | [Dietético \- Remasterizado 2007](https://open.spotify.com/track/4bvkroEWwjF8O1tcLAACUj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 3:46 |
+| 76 | [Cae El Sol \- Remasterizado 2007](https://open.spotify.com/track/14qUG8qf2vIpTZDbjG9KxN) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto B \(Remastered\)](https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk) | 4:51 |
 | 77 | [Tu Boca](https://open.spotify.com/track/6ja9N12lzBD1TRuQfZb18z) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:25 |
 | 78 | [Sweet Sahumerio \- Remasterizado 2007](https://open.spotify.com/track/0GcU3ZhlnF5k3vKjqPRifa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 6:03 |
 | 79 | [Planeador \(SEP7IMO DIA\)](https://open.spotify.com/track/45utWFSZB3s3IZWdx4UHuc) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [SEP7IMO DIA](https://open.spotify.com/album/0HUncweJW3LTO0YOvOEX4a) | 2:24 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 114 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 | 115 | [Ameba](https://open.spotify.com/track/3ECr0mjuB8aN7IIlRIRlsA) | [BLACK NOUGAT](https://open.spotify.com/artist/5LkcF1aQUBHs2rJp07DBlC) | [Some Argie Rock](https://open.spotify.com/album/18NMhBWcnzfTXyNrg12Yju) | 4:27 |
 
-Snapshot ID: `AbRmrAAAAAAsM9P710NS95ijx/TqeGgg`
+Snapshot ID: `AbRsiAAAAADmh4GY5MenT4iDnDTIOkQ6`

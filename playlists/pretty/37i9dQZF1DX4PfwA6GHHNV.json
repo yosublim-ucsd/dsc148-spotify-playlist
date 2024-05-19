@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 17192,
+  "num_followers": 17199,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,26 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1khbyrHruJLXl5uFftk3ZP"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
         "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
       },
@@ -243,26 +263,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1khbyrHruJLXl5uFftk3ZP"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "It Girl Pt. 2",
         "url": "https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK"
       },
@@ -295,6 +295,30 @@
       "duration_ms": 205431,
       "name": "Xona",
       "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Ch\u00e1",
+        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 155512,
+      "name": "Ch\u00e1",
+      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -367,30 +391,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Ch\u00e1",
-        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 155512,
-      "name": "Ch\u00e1",
-      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Yo Quiero Te Namorar",
         "url": "https://open.spotify.com/album/6ACgiyuojhvWp10E50wOhq"
       },
@@ -431,6 +431,26 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 144444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "MAIS VERDE",
         "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 220389,
       "name": "Lembra?",
       "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        }
+      ],
+      "duration_ms": 127090,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "B\u00f3ra",
         "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        }
-      ],
-      "duration_ms": 127090,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Me Diz",
         "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 162338,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2024-05-17 03:01:00",

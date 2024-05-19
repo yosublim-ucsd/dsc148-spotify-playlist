@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Tomi Owo",
-  "num_followers": 228338,
+  "num_followers": 228410,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -147,22 +147,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
         }
       ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -483,18 +483,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 152307,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -535,22 +539,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Jaga Jaga (with Babyboy AV)",
-        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Jaga Jaga (with Babyboy AV)",
-      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG"
+      },
+      "artists": [
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "If I Be You",
         "url": "https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 154199,
       "name": "4 Days",
       "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG"
-      },
-      "artists": [
-        {
-          "name": "Dai Verse",
-          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 196974,
-      "name": "Feran Mi",
-      "url": "https://open.spotify.com/track/05iqnP8vkEYkrJLQPRMkyt"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Reset (feat. Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 196974,
+      "name": "Feran Mi",
+      "url": "https://open.spotify.com/track/05iqnP8vkEYkrJLQPRMkyt"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 172687,
-      "name": "Lost Time",
-      "url": "https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Kiss 'N' Tell",
         "url": "https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 172687,
+      "name": "Lost Time",
+      "url": "https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "+243",
         "url": "https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK"
       },
@@ -1263,30 +1263,6 @@
       "duration_ms": 194857,
       "name": "Honest",
       "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Ifeoma",
-        "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
-      },
-      "artists": [
-        {
-          "name": "Ozedikus",
-          "url": "https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO"
-        },
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        },
-        {
-          "name": "BoiGizmo",
-          "url": "https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ifeoma",
-      "url": "https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1319,6 +1295,30 @@
       "duration_ms": 216000,
       "name": "You (Rum & Schnapp)",
       "url": "https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Ifeoma",
+        "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
+      },
+      "artists": [
+        {
+          "name": "Ozedikus",
+          "url": "https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO"
+        },
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        },
+        {
+          "name": "BoiGizmo",
+          "url": "https://open.spotify.com/artist/5DCVYCgT0RlonA1EG1P1Of"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ifeoma",
+      "url": "https://open.spotify.com/track/0CL8DINos7ow0xGrvR0pHD"
     },
     {
       "added_at": "2024-05-17 00:01:00",

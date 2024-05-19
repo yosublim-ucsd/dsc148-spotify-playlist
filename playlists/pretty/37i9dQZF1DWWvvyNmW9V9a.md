@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > try and come for her job
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,169,022 likes - 106 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,169,055 likes - 106 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 143672,
+  "num_followers": 143713,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAApf+DeFnvICnq0TORgDnzD",
+  "snapshot_id": "ZkaeAAAAAABYNsMz/uAx2NQ4tgh2oB+I",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 272234,
       "name": "No Llega el Olvido - En Vivo",
       "url": "https://open.spotify.com/track/5MPY1xEb6E8Lv9HuGKEVLp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 168166,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrenando Amante",
-        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 168546,
-      "name": "Estrenando Amante",
-      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
         "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 218493,
       "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
       "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estrenando Amante",
+        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 168546,
+      "name": "Estrenando Amante",
+      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
     },
     {
       "added_at": null,
@@ -851,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Deseo Lo Mejor (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos - En Vivo",
       "url": "https://open.spotify.com/track/5ck9PhKtvFsuCN8zEAG4C4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Deseo Lo Mejor (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
     },
     {
       "added_at": null,

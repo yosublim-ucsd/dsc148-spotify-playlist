@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Bon Jovi
 
-1,262 songs - 3 day 0 hr 40 min
+1,264 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -872,6 +872,7 @@
 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 | 2023-06-02 |
 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 | 2024-01-25 | 2024-02-02 |
 | [Psycho](https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:56 | 2023-06-15 | 2023-08-31 |
+| [PSYCHO](https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [PSYCHO](https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd) | 3:18 | 2024-05-16 |  |
 | [PSYCHO KILLER \(featuring Victoria De Angelis\)](https://open.spotify.com/track/0wtV4bNxm87xBX7hdcRkRl) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [PSYCHO KILLER \(featuring Victoria De Angelis\)](https://open.spotify.com/album/3Thd54fS872SfhVe35JckI) | 4:25 | 2023-10-26 | 2023-12-01 |
 | [Pull Me Through](https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Pull Me Through](https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji) | 3:08 | 2023-07-13 | 2023-08-11 |
 | [Pump It Up](https://open.spotify.com/track/5CuRrPva7D9cwZYj2vJhT5) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Pump It Up](https://open.spotify.com/album/4wOR76zRz4baHfAp0Ua2Ek) | 3:25 | 2023-05-04 | 2023-05-12 |
@@ -882,6 +883,7 @@
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 |  |
 | [Raging Fire](https://open.spotify.com/track/3X8OVMSDJdaI9dmSQJBNL5) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Electric Man](https://open.spotify.com/album/6bwdq1YGGRsDEXNhJQ50iC) | 3:22 | 2023-11-30 | 2023-12-08 |
 | [Rain on the Graves](https://open.spotify.com/track/2DYquEUcjmMjxZYFKPON4L) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Rain on the Graves](https://open.spotify.com/album/13hB30MBr9lEVogRpiNBav) | 5:04 | 2024-01-25 | 2024-02-02 |
+| [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-05-16 |  |
 | [RAINBOWS](https://open.spotify.com/track/0kXgnZe4a43OUzt5y6lHUt) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [RAINBOWS](https://open.spotify.com/album/3eCS3qFlYjSPYhJCV8UTdj) | 3:44 | 2024-02-29 | 2024-05-03 |
 | [Raise Your Hands](https://open.spotify.com/track/1WAgMzQu2hQcJlmRu3P6Cp) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Liam Gallagher & John Squire](https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K) | 4:20 | 2024-02-29 | 2024-05-10 |
 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 | 2023-04-27 | 2023-05-12 |
@@ -1086,7 +1088,7 @@
 | [The Goldmine](https://open.spotify.com/track/6jySeYVTWo7S9HE1A9q7ju) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [The Goldmine](https://open.spotify.com/album/3bFJ75u5NpQsqi4HtxVHmQ) | 3:32 | 2023-11-16 | 2023-11-24 |
 | [The Guest](https://open.spotify.com/track/0sK1ET6VbYeGZnbpCudlIA) | [Mary Timony](https://open.spotify.com/artist/1FFaHFtnhdnHuY0xGZcnD1) | [The Guest](https://open.spotify.com/album/4Uf7DE1G3Uj3ISQQl2nUFA) | 3:53 | 2024-01-04 | 2024-01-12 |
 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-07-20 | 2023-07-28 |
-| [The Joke](https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 3:57 | 2024-05-09 |  |
+| [The Joke](https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 3:57 | 2024-05-09 | 2024-05-19 |
 | [The Last Time](https://open.spotify.com/track/4YXmWAo4IHhHpkZbtlwBYm) | [Less Than Hollow](https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD) | [No Looking Back](https://open.spotify.com/album/0dwAxWVt9N0HIO4QPmFZq5) | 3:21 | 2023-12-21 | 2024-01-05 |
 | [The Matrix](https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [The Matrix](https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd) | 3:21 | 2023-11-02 | 2023-11-17 |
 | [the mom song](https://open.spotify.com/track/1ll3KUyYBk2TQrOWQQ4ICV) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [the mom song](https://open.spotify.com/album/46E1IiLWBHCyrXxZNn0ZbI) | 2:32 | 2024-01-04 | 2024-01-12 |
@@ -1108,7 +1110,7 @@
 | [This](https://open.spotify.com/track/0N63RBpTovevPppc3D8NZj) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [This](https://open.spotify.com/album/4xevMdJnWGbcTmYZRtctQE) | 4:02 | 2023-07-20 | 2023-07-28 |
 | [This Is Home \- Dark\-Side Mix](https://open.spotify.com/track/556w1qW5noqRaR9Brq1EOc) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [This Is Home \(Dark\-Side Mix\)](https://open.spotify.com/album/7wPxxeIyLPuRCcmNMFiw5t) | 5:04 | 2023-09-28 | 2023-10-06 |
 | [This Is Home \- Dark\-Side Mix](https://open.spotify.com/track/7aA0fUnyi2tIGkZbsWRADb) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [This Is Home \(Dark\-Side Mix\)](https://open.spotify.com/album/1ijhRCbp5W9rLh6cCcCgt6) | 5:04 | 2023-09-28 | 2023-09-30 |
-| [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 | 2024-03-14 |  |
+| [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 | 2024-03-14 | 2024-05-19 |
 | [This Is Too Right](https://open.spotify.com/track/5smM0S2sPgUGflcRgbCPBK) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Tramp \(Anniversary Edition\)](https://open.spotify.com/album/3M1lzYyBRm9azT5rGkEdQS) | 3:00 | 2023-03-23 | 2023-03-31 |
 | [This Time Last Week](https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [I Hope Hell Isn't Real](https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H) | 2:14 | 2023-04-13 | 2023-04-21 |
 | [thoughts i have while lying in bed](https://open.spotify.com/track/7qsdMGuObHstMzOUfgiNXJ) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 | 2023-12-07 | 2023-12-15 |

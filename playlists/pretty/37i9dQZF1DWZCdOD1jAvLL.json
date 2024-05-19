@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Dimension & Alison Wonderland",
-  "num_followers": 240256,
+  "num_followers": 240334,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 198019,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Quest For Fire",
         "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Waiting For Tonight",
-        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 198019,
-      "name": "Waiting For Tonight",
-      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 156924,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 156924,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Big Bang (with Crankdat)",
-        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 239350,
-      "name": "Big Bang (with Crankdat)",
-      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Ecstasy Of Soul",
         "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 238400,
       "name": "Ecstasy Of Soul",
       "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Big Bang (with Crankdat)",
+        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 239350,
+      "name": "Big Bang (with Crankdat)",
+      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Feels Like You",
-        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Feels Like You",
-      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Trippy Land",
         "url": "https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI"
       },
@@ -1811,6 +1791,42 @@
       "duration_ms": 186461,
       "name": "Trippy Land",
       "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Feels Like You",
+        "url": "https://open.spotify.com/album/1EE0HJG6YJbTz2UPCVxdJI"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Feels Like You",
+      "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 218437,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1923,22 +1939,6 @@
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -2171,6 +2171,26 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "MARAVILLOSA",
+        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "MARAVILLOSA",
+      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Where You Are (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -2191,26 +2211,6 @@
       "duration_ms": 282375,
       "name": "Where You Are - Gorgon City Remix",
       "url": "https://open.spotify.com/track/6vc0R5eIkOBmqHw2CSDDBw"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "MARAVILLOSA",
-        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "MARAVILLOSA",
-      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -2455,26 +2455,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Infraliminal",
-        "url": "https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF"
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
       },
       "artists": [
         {
-          "name": "REZZMAU5",
-          "url": "https://open.spotify.com/artist/7m5U1YbhADGvZc2mIhfe1j"
-        },
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 266600,
-      "name": "Infraliminal",
-      "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -2499,22 +2491,26 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Everywhere, Nowhere",
-        "url": "https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7"
+        "name": "Infraliminal",
+        "url": "https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "REZZMAU5",
+          "url": "https://open.spotify.com/artist/7m5U1YbhADGvZc2mIhfe1j"
         },
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Everywhere, Nowhere",
-      "url": "https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL"
+      "duration_ms": 266600,
+      "name": "Infraliminal",
+      "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -2535,18 +2531,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
       },
       "artists": [
         {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
+      "duration_ms": 191022,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     }
   ],
   "unique_name": "Bangers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Simba La Rue, Salmo, Noyz Narcos, Artie 5ive e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,196 likes - 95 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,244 likes - 95 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 48 | [HALLELUJA](https://open.spotify.com/track/1nCKE8Cs7KnTyBvuMtDQPp) | [ZPA22](https://open.spotify.com/artist/50AqzmsXLHMMa1QxztD7RF) | [HALLELUJA](https://open.spotify.com/album/7iWDxRiP5GiuZORofNUhUw) | 2:58 |
 | 49 | [BASTA SESSION N°3 \(feat\. Altea, Silent Bob, Alessio Dal Checco, Martina Campi\)](https://open.spotify.com/track/2S2S3UIJ7XfgtXGVPCSKyI) | [BASTA](https://open.spotify.com/artist/33Tsn820ALXaapDADshYiU), [Goedi](https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Alessio Dal Checco](https://open.spotify.com/artist/7HptC4pvzgzM9tvCnPCYh1), [Martina Campi](https://open.spotify.com/artist/4TbRpkpgF4EGvcqMGRSyjL) | [BASTA SESSION N°3 \(feat\. Altea, Silent Bob, Alessio Dal Checco, Martina Campi\)](https://open.spotify.com/album/7qGkA4wVWwjxeFpUals1xv) | 2:31 |
 | 50 | [PURO BOLLATE \(feat\. Hank & Goosie\)](https://open.spotify.com/track/3wKJMez2V7ezokboWdGmtB) | [Loggia West Milano](https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv), [Goosie](https://open.spotify.com/artist/1Q5MLomG7ynZZsa8RcAEwI), [Hank Lutring](https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh) | [PURO BOLLATE \(feat\. Hank & Goosie\)](https://open.spotify.com/album/2saf9gVQFXT5QD4DpjLnzR) | 2:17 |
-| 51 | [Corso Italia](https://open.spotify.com/track/1EAMXuJKqPhCh7fYTtarI2) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Corso Italia](https://open.spotify.com/album/4xOheWZmS39ijoHMtmNJV6) | 1:46 |
+| 51 | [Corso Italia \(Freestyle \#11\)](https://open.spotify.com/track/1EAMXuJKqPhCh7fYTtarI2) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Corso Italia \(Freestyle \#11\)](https://open.spotify.com/album/4xOheWZmS39ijoHMtmNJV6) | 1:46 |
 | 52 | [Habituè](https://open.spotify.com/track/5g4sfnLTelYsDSTTTFVsB1) | [FRIDD](https://open.spotify.com/artist/7pmSMGKVH9oDjqaVCnb4gL) | [Habituè](https://open.spotify.com/album/1LqmRkA0fYpgO7a9MLJ3mV) | 2:31 |
 | 53 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 |
 | 54 | [Huracàn \(feat\. Gemitaiz, MadMan\)](https://open.spotify.com/track/0TTDfFZQggxtYF3NDX0u0G) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [L'Angelo del Male](https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb) | 2:40 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 25871,
+  "num_followers": 25878,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAA5qp/a+Blw0Br3mEx4HYl9",
+  "snapshot_id": "ZkaeAAAAAAAPTey1DqVBgnc4WFOkgL0G",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hallelujah Anyway",
+        "url": "https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 225755,
+      "name": "Hallelujah Anyway",
+      "url": "https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPACE",
+        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Bless The One - Live",
+      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The In Between (from The Chosen)",
         "url": "https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv"
       },
@@ -611,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worship And Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4"
       },
@@ -687,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
       "artists": [
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Faithfulness (feat. Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": null,
@@ -719,6 +739,26 @@
       "duration_ms": 255320,
       "name": "Holy, Holy, Holy (God With Us)",
       "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Faithfulness (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
     },
     {
       "added_at": null,
@@ -759,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -791,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -803,6 +843,54 @@
       "duration_ms": 256066,
       "name": "Burning Heart of God",
       "url": "https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abide With Me (Radio Version)",
+        "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "Abide With Me - Radio Version",
+      "url": "https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 315520,
+      "name": "You Were On The Cross",
+      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 231280,
+      "name": "Awake My Soul (A Thousand Tongues)",
+      "url": "https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL"
     },
     {
       "added_at": null,
@@ -831,38 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "Awake My Soul (A Thousand Tongues)",
-      "url": "https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "You Were On The Cross",
-      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive & Breathing",
         "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
@@ -875,22 +931,6 @@
       "duration_ms": 239256,
       "name": "Lord of My Life",
       "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abide With Me (Radio Version)",
-        "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 221546,
-      "name": "Abide With Me - Radio Version",
-      "url": "https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET"
     },
     {
       "added_at": null,
@@ -943,42 +983,6 @@
       "duration_ms": 249066,
       "name": "As It Is In Heaven",
       "url": "https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worship EP",
-        "url": "https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "How Great (Single Mix)",
-      "url": "https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b"
     }
   ],
   "unique_name": "This Is Matt Maher",

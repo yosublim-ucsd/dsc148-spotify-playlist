@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1448129,
+  "num_followers": 1449422,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAc+gyV5Lr3+oOHcwVDIloj",
+  "snapshot_id": "ZkaeAAAAAACMn7EuOO4Hc5AB9uB7FriD",
   "tracks": [
     {
       "added_at": null,
@@ -282,19 +282,11 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Amanda Reifer",
-          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
         }
       ],
-      "duration_ms": 239026,
-      "name": "Die Hard",
-      "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+      "duration_ms": 283642,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
     },
     {
       "added_at": null,
@@ -362,11 +354,19 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
         }
       ],
-      "duration_ms": 283642,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
     },
     {
       "added_at": null,
@@ -491,22 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oxymoron (Deluxe)",
-        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
       "artists": [
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 299960,
-      "name": "Collard Greens",
-      "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
+      "duration_ms": 214265,
+      "name": "Don't Wanna Know (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5o3GnrcFtvkdf3zFznuSbA"
     },
     {
       "added_at": null,
@@ -531,22 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 214265,
-      "name": "Don't Wanna Know (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/5o3GnrcFtvkdf3zFznuSbA"
+      "duration_ms": 299960,
+      "name": "Collard Greens",
+      "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Poetic Justice",
-      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989 (Taylor's Version) [Deluxe]",
         "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 199773,
       "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
       "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 212653,
-      "name": "Backseat Freestyle",
-      "url": "https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Section.80",
         "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 173158,
       "name": "Hol' Up",
       "url": "https://open.spotify.com/track/6cfVDaIdvDtYH91RqC6Wox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 212653,
+      "name": "Backseat Freestyle",
+      "url": "https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 161137,
+      "name": "Chapter Six",
+      "url": "https://open.spotify.com/track/3DBFOXJKitLKUjlyOCX7ow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sun's Tirade",
         "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 330783,
       "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 161137,
-      "name": "Chapter Six",
-      "url": "https://open.spotify.com/track/3DBFOXJKitLKUjlyOCX7ow"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
       "duration_ms": 210226,
       "name": "The Greatest (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 324189,
-      "name": "Mona Lisa (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
     },
     {
       "added_at": null,
@@ -995,6 +975,26 @@
       "duration_ms": 261746,
       "name": "How Much A Dollar Cost",
       "url": "https://open.spotify.com/track/4tQcyj5488alHT1ZgFduzn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
     }
   ],
   "unique_name": "This Is Kendrick Lamar",

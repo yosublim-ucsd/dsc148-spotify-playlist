@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2011414,
+  "description": "This Is Bob Marley & The Wailers. Los temas esenciales, todos en una lista.",
+  "num_followers": 2011656,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAABYU9N/NeaGGh4D9OLKuzmG",
+  "snapshot_id": "ZkaeAAAAAAD1q4sv78lSO1DZtaq2GOBj",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 256239,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ"
+      "duration_ms": 207733,
+      "name": "Natural Mystic",
+      "url": "https://open.spotify.com/track/5uqQyRJV8qLt8zEqnvsBVK"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 188026,
-      "name": "So Much Things To Say",
-      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
+      "duration_ms": 256239,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/09Nck1nvRcg1Y14SNfWwtJ"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 240333,
-      "name": "So Much Trouble In The World",
-      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
+      "duration_ms": 231466,
+      "name": "Ride Natty Ride",
+      "url": "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 231466,
-      "name": "Ride Natty Ride",
-      "url": "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR"
+      "duration_ms": 188026,
+      "name": "So Much Things To Say",
+      "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
       "duration_ms": 297279,
       "name": "War/No More Trouble - From \"Bob Marley: One Love\" Soundtrack",
       "url": "https://open.spotify.com/track/060wim4wCw76nHhHr6fDjm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/655KljKIXl42fiNDMKivbY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 460226,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam"
     },
     {
       "added_at": null,

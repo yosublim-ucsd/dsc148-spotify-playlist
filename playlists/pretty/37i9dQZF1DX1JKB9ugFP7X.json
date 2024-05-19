@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23990,
+  "num_followers": 23989,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "VALOR",
-        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "VALOR",
-      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "PURA",
         "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 134425,
       "name": "PURA",
       "url": "https://open.spotify.com/track/28GuOCqBtFvSpthDJ2Vyli"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "VALOR",
+        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "VALOR",
+      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Un Dia de Verano",
+        "url": "https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy"
+      },
+      "artists": [
+        {
+          "name": "Milagros",
+          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
+        },
+        {
+          "name": "YOGAROCK",
+          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
+        }
+      ],
+      "duration_ms": 215046,
+      "name": "Un Dia de Verano",
+      "url": "https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Qui\u00e9n Me Escucha",
         "url": "https://open.spotify.com/album/0ZFJQ8aL8E9kxKapcZSN2V"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 198149,
       "name": "Qui\u00e9n Me Escucha",
       "url": "https://open.spotify.com/track/19e0zVRwZdpid0bGdYXxGi"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Un Dia de Verano",
-        "url": "https://open.spotify.com/album/7mUWKTXni4xWqWkml6g3Yy"
-      },
-      "artists": [
-        {
-          "name": "Milagros",
-          "url": "https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU"
-        },
-        {
-          "name": "YOGAROCK",
-          "url": "https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc"
-        }
-      ],
-      "duration_ms": 215046,
-      "name": "Un Dia de Verano",
-      "url": "https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Postal",
+        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 210002,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Conexi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/0Ix9AzDcPeQKSNYNzKSxSt"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Postal",
-        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
+        "name": "El Magnetismo",
+        "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
       },
       "artists": [
         {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
         }
       ],
-      "duration_ms": 210002,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
+      "duration_ms": 311386,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 192786,
       "name": "Voces",
       "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "El Magnetismo",
-        "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "El Magnetismo",
-      "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Cuando Se Apague Todo",
-        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 228443,
-      "name": "Cuando Se Apague Todo",
-      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Teoria Espacial (Remix)",
         "url": "https://open.spotify.com/album/4pfZBCyYE5KMS26hgwqNQx"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 332542,
       "name": "Teoria Espacial (Remix)",
       "url": "https://open.spotify.com/track/6AHPhNfRmMZX9Oj4ulslKw"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Cuando Se Apague Todo",
+        "url": "https://open.spotify.com/album/0Obeuspkyeh5UWUcKoeILS"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 228443,
+      "name": "Cuando Se Apague Todo",
+      "url": "https://open.spotify.com/track/2qIWjqbvqHBEwl2p7cvsfk"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Bajo la piel",
-        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        },
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        }
-      ],
-      "duration_ms": 240113,
-      "name": "Bajo la piel",
-      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Ya fue",
         "url": "https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 186472,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Bajo la piel",
+        "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 240113,
+      "name": "Bajo la piel",
+      "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "Dir\u00e9 tu nombre",
-        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Dir\u00e9 tu nombre",
-      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "No Ves Tal Vez (Evlay Remix)",
         "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "Dir\u00e9 tu nombre",
+        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
+      },
+      "artists": [
+        {
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+        }
+      ],
+      "duration_ms": 179950,
+      "name": "Dir\u00e9 tu nombre",
+      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
     },
     {
       "added_at": "2024-04-26 03:00:00",

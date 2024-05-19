@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 577923,
+  "num_followers": 578116,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "Would You (go to bed with me?)",
         "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
+        "name": "ANNE KAFFEEKANNE",
+        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
+      },
+      "artists": [
+        {
+          "name": "TIM PLVNK",
+          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
+        }
+      ],
+      "duration_ms": 140797,
+      "name": "ANNE KAFFEEKANNE",
+      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 163515,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
-        "name": "ANNE KAFFEEKANNE",
-        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
-      },
-      "artists": [
-        {
-          "name": "TIM PLVNK",
-          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
-        }
-      ],
-      "duration_ms": 140797,
-      "name": "ANNE KAFFEEKANNE",
-      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -715,6 +715,30 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -739,26 +763,18 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "Friesenjung",
-        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
       },
       "artists": [
         {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        },
-        {
-          "name": "Otto Waalkes",
-          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 146086,
-      "name": "Friesenjung",
-      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "Heute Nacht",
         "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
       },
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
+        "name": "Oben ohne",
+        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 179565,
+      "name": "Oben ohne",
+      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
         "name": "I Can Feel",
         "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 173360,
       "name": "I Can Feel",
       "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
-        "name": "Oben ohne",
-        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 179565,
-      "name": "Oben ohne",
-      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "Maneater",
-        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
-      },
-      "artists": [
-        {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
-        },
-        {
-          "name": "ECHO",
-          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 121771,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "denk mal dr\u00fcber nach...",
         "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 184752,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121771,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1371,46 +1371,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "Einmal um die Welt 2k23",
-        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "NIKSTER",
-          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
-        }
-      ],
-      "duration_ms": 135551,
-      "name": "Einmal um die Welt 2k23",
-      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
-        "name": "Liebe Gr\u00fcsse",
-        "url": "https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 136988,
-      "name": "Liebe Gr\u00fcsse",
-      "url": "https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "Midnight Lady",
         "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
       },
@@ -1431,6 +1391,26 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
+        "name": "Einmal um die Welt 2k23",
+        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        }
+      ],
+      "duration_ms": 135551,
+      "name": "Einmal um die Welt 2k23",
+      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/539fmAbtb0njedW5AkMjxK"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 129000,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/5VG6MONs7BkKKjO65vZYMm"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "Liebe Gr\u00fcsse",
+        "url": "https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 136988,
+      "name": "Liebe Gr\u00fcsse",
+      "url": "https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
-        "name": "Weak (Nicolas Julian Remix)",
-        "url": "https://open.spotify.com/album/7vo6HPZVCmvBjLqwWcTg7g"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        },
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Weak - Nicolas Julian Remix",
-      "url": "https://open.spotify.com/track/6pN9NiJ816dbL3OKeAke0w"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
+        "name": "Weak (Nicolas Julian Remix)",
+        "url": "https://open.spotify.com/album/7vo6HPZVCmvBjLqwWcTg7g"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Weak - Nicolas Julian Remix",
+      "url": "https://open.spotify.com/track/6pN9NiJ816dbL3OKeAke0w"
     },
     {
       "added_at": "2024-05-10 07:14:44",
@@ -1771,6 +1771,38 @@
     {
       "added_at": "2024-05-10 07:14:44",
       "album": {
+        "name": "Up, Up, Up (Nobody\u2019s perfect)",
+        "url": "https://open.spotify.com/album/1kO0Z2pXZXPagFnuBcXwby"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8"
+        },
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        }
+      ],
+      "duration_ms": 126598,
+      "name": "Up, Up, Up (Nobody's perfect)",
+      "url": "https://open.spotify.com/track/1WYDoHtHLJ3mt3SRohiYto"
+    },
+    {
+      "added_at": "2024-05-10 07:14:44",
+      "album": {
         "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
         "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
       },
@@ -1819,26 +1851,6 @@
       "duration_ms": 164327,
       "name": "All The Things She Said - Teaboy Flip",
       "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
-    },
-    {
-      "added_at": "2024-05-10 07:14:44",
-      "album": {
-        "name": "Sar\u00e0 perch\u00e9 ti amo",
-        "url": "https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        }
-      ],
-      "duration_ms": 134607,
-      "name": "Sar\u00e0 perch\u00e9 ti amo",
-      "url": "https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS"
     }
   ],
   "unique_name": "schiebt anders",

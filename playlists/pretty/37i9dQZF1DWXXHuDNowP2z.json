@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 231109,
+  "num_followers": 231226,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "La Cumbia De La Baliniza",
         "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 167235,
       "name": "La Cumbia De La Baliniza",
       "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
-      },
-      "artists": [
-        {
-          "name": "Contrabandistas de San Luis",
-          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
-        }
-      ],
-      "duration_ms": 208927,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 178186,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
+      },
+      "artists": [
+        {
+          "name": "Contrabandistas de San Luis",
+          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
+        }
+      ],
+      "duration_ms": 208927,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Norte\u00f1o, Vol. 2",
-        "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Un Cari\u00f1o Como T\u00fa",
-      "url": "https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 495186,
       "name": "Micaela/El Agua Lulco/Camaron Pelao (En Vivo)",
       "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Norte\u00f1o, Vol. 2",
+        "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Un Cari\u00f1o Como T\u00fa",
+      "url": "https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "JJ Araujo",
-          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
-        }
-      ],
-      "duration_ms": 128073,
-      "name": "Me Aceptaste - En Vivo",
-      "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Tan Bonita",
         "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
       },
@@ -1403,6 +1383,42 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "JJ Araujo",
+          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
+        }
+      ],
+      "duration_ms": 128073,
+      "name": "Me Aceptaste - En Vivo",
+      "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 208875,
+      "name": "La Mujer del Pelotero",
+      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "La Boca Les Callamos",
         "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
       },
@@ -1415,26 +1431,6 @@
       "duration_ms": 211626,
       "name": "El Rezado",
       "url": "https://open.spotify.com/track/0aeDePMtkPY23XbgD67orU"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "De Nueva Cuenta",
-        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
-      },
-      "artists": [
-        {
-          "name": "Marcos Flores",
-          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
-        },
-        {
-          "name": "Banda Jerez",
-          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Por Una Lagrima",
-      "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1455,18 +1451,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+        "name": "De Nueva Cuenta",
+        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
       "artists": [
         {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+          "name": "Marcos Flores",
+          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
+        },
+        {
+          "name": "Banda Jerez",
+          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
         }
       ],
-      "duration_ms": 208875,
-      "name": "La Mujer del Pelotero",
-      "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
+      "duration_ms": 178933,
+      "name": "Por Una Lagrima",
+      "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
-      },
-      "artists": [
-        {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
-        }
-      ],
-      "duration_ms": 289691,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
         "name": "Qu\u00e9 Pensaste",
         "url": "https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 185000,
       "name": "Me Pierdo (En Vivo)",
       "url": "https://open.spotify.com/track/4q3vxXsDiZbdAv1wOr6gU5"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
+      },
+      "artists": [
+        {
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+        }
+      ],
+      "duration_ms": 289691,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
     },
     {
       "added_at": "2024-03-15 06:00:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-03-15 06:00:00",
       "album": {
+        "name": "Eva maria",
+        "url": "https://open.spotify.com/album/3TKV7Cz8mb1Jo3xyAY4CQr"
+      },
+      "artists": [
+        {
+          "name": "Clave Suprema",
+          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
+        }
+      ],
+      "duration_ms": 179712,
+      "name": "Eva maria",
+      "url": "https://open.spotify.com/track/7j8eYd7AoIWI5o9WI1zGBs"
+    },
+    {
+      "added_at": "2024-03-15 06:00:00",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 165887,
       "name": "Un Cari\u00f1o Como Tu - En Vivo",
       "url": "https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2"
-    },
-    {
-      "added_at": "2024-03-15 06:00:00",
-      "album": {
-        "name": "Eva maria",
-        "url": "https://open.spotify.com/album/3TKV7Cz8mb1Jo3xyAY4CQr"
-      },
-      "artists": [
-        {
-          "name": "Clave Suprema",
-          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
-        }
-      ],
-      "duration_ms": 179712,
-      "name": "Eva maria",
-      "url": "https://open.spotify.com/track/7j8eYd7AoIWI5o9WI1zGBs"
     },
     {
       "added_at": "2024-03-15 06:00:00",

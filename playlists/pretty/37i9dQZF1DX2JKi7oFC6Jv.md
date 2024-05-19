@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,385 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,395 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 29 | [Timbao](https://open.spotify.com/track/5sNy4a6dJKPNb2DFZ4qvxZ) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/2YgTYx8XxrFbOy08eVyNpA) | 3:48 |
 | 30 | [Tribal Warrior](https://open.spotify.com/track/0VhVO2DHLPRptJhTg60stS) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [Tribal Warrior](https://open.spotify.com/album/5qCvhwNOVnIunkiBwnbBYs) | 5:08 |
 | 31 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
-| 32 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
-| 33 | [Love Dub](https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf) | [Cooly G](https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq) | [Narst / Love Dub](https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu) | 3:35 |
+| 32 | [Love Dub](https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf) | [Cooly G](https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq) | [Narst / Love Dub](https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu) | 3:35 |
+| 33 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
 | 34 | [Gabryelle \(Refix\)](https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Gabryelle \(Refix\)](https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO) | 4:51 |
 | 35 | [T\-Shirt \- Crazy Cousinz Vocal Remix](https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [T\-Shirt \(UK remixes\)](https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn) | 5:35 |
 | 36 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |

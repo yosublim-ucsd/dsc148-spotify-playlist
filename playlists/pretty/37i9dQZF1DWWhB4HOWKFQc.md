@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Tommy Richman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,717 likes - 92 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,013 likes - 92 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

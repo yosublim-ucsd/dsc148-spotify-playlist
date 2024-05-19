@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 28166,
+  "num_followers": 28177,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAC2gXFhSHjHfpCmp203i5AU",
+  "snapshot_id": "ZkaeAAAAAAAo6S+D2t3zt1bvFztr0h95",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Portable Sounds (With Bonus Remixes)",
+        "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 375973,
+      "name": "Lose My Soul - Afterparty Interlude",
+      "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -511,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portable Sounds (With Bonus Remixes)",
-        "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 375973,
-      "name": "Lose My Soul - Afterparty Interlude",
-      "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Kirk Franklin",
         "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 305666,
       "name": "Stomp (Remix)",
       "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 378200,
-      "name": "A God Like You",
-      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 378200,
+      "name": "A God Like You",
+      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Try Love",
         "url": "https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW"
       },
@@ -603,26 +603,6 @@
       "duration_ms": 272593,
       "name": "Try Love",
       "url": "https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
     },
     {
       "added_at": null,
@@ -859,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 382573,
+      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
@@ -891,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
       "artists": [
         {
@@ -900,9 +896,9 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 382573,
-      "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
+      "duration_ms": 245901,
+      "name": "Strong God",
+      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
     },
     {
       "added_at": null,
@@ -927,22 +923,6 @@
       "duration_ms": 225444,
       "name": "Why We Sing (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/1gB4zVWkHjoimGdyNhOmXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Strong God",
-      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
     },
     {
       "added_at": null,
@@ -1031,6 +1011,26 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Win (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

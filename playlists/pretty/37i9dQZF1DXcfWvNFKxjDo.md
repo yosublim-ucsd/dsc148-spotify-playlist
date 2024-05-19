@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: LUNAX, Blue Man Group
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,815 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,986 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 75 | [Free](https://open.spotify.com/track/2EVfXWxhsdR4izZEhfJNRq) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Free](https://open.spotify.com/album/0LWP67zCgd6X3cP7dcSMMB) | 3:16 |
 | 76 | [Say You're Mine](https://open.spotify.com/track/2nxVPXudwlvPrJwrUBIUF0) | [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD), [Forever Kids.](https://open.spotify.com/artist/00QbdYpf7Ix7GOE8QJs8Tc) | [Say You're Mine](https://open.spotify.com/album/1oxlx6WiVTAeK1dYbGjHYQ) | 2:12 |
 | 77 | [Get Silly](https://open.spotify.com/track/7que6KGImzpzFfW6jWARLF) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Get Silly](https://open.spotify.com/album/342ESIqWtB7Mi8CpW1WcyN) | 2:57 |
-| 78 | [Follow the Light](https://open.spotify.com/track/7AmJuTgr4WVHt3xyO0c9jX) | [Psaiko.Dino](https://open.spotify.com/artist/4mfImR7GM7aMubah2rvlbB), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv) | [Follow the Light](https://open.spotify.com/album/1238H8H34pJSJwfJtFyUtD) | 2:27 |
+| 78 | [Follow The Light](https://open.spotify.com/track/7AmJuTgr4WVHt3xyO0c9jX) | [Psaiko.Dino](https://open.spotify.com/artist/4mfImR7GM7aMubah2rvlbB), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv) | [Follow The Light](https://open.spotify.com/album/1238H8H34pJSJwfJtFyUtD) | 2:27 |
 | 79 | [Reflections](https://open.spotify.com/track/0B95XnzLAx3vyHu02EcmEA) | [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug), [THORE](https://open.spotify.com/artist/3gv3HaxW0wEJLeDymQGXBt) | [Reflections](https://open.spotify.com/album/1GbL885dbOGnogDvxKQvz1) | 3:21 |
 | 80 | [Feel The Way I Do](https://open.spotify.com/track/5Bhj1Piso0TmUsmkyvy6kG) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Feel The Way I Do](https://open.spotify.com/album/4uvV6jwAhBG8asvByRkZ0Y) | 3:11 |
 

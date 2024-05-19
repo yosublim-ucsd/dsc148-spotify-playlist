@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,722 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,792 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 44 | [Need 2](https://open.spotify.com/track/0wkr8bQUqNLdfmbeDUJMqg) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch) | [Need 2](https://open.spotify.com/album/79ZaIlw5sTErnWdbgJvFQ0) | 2:05 |
 | 45 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 |
 | 46 | [A Brand New Start](https://open.spotify.com/track/6QanbknK7HJMOaUqlNCxhz) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 2:35 |
-| 47 | [Daydream Repeat](https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Daydream Repeat](https://open.spotify.com/album/0FTFpi4DEZ8yP11kRwVsNK) | 6:08 |
-| 48 | [life gets hard \- Edit](https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [life gets hard \(Edit\)](https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs) | 2:35 |
+| 47 | [life gets hard \- Edit](https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [life gets hard \(Edit\)](https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs) | 2:35 |
+| 48 | [Daydream Repeat](https://open.spotify.com/track/4c7b2Ft8Br0CgJLmt3mI7Z) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Daydream Repeat](https://open.spotify.com/album/0FTFpi4DEZ8yP11kRwVsNK) | 6:08 |
 | 49 | [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 |
 | 50 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
 

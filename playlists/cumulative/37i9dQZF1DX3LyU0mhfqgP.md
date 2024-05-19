@@ -4,7 +4,7 @@
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Luisa Almaguer
 
-1,181 songs - 2 day 15 hr 53 min
+1,183 songs - 2 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 | 2023-06-01 | 2023-07-26 |
 | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Lolita Leopard](https://open.spotify.com/artist/0iTYdScrEVihgUKCOYatkS) | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/album/2K5A3vvcxsEpQ43tl7CcfG) | 2:57 | 2023-07-11 | 2023-08-09 |
 | [Dizzy](https://open.spotify.com/track/6cpUIz7rYuEkWA53y6Bxo6) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [Dizzy](https://open.spotify.com/album/3GIkPd8JUiXeQ1N2AlUxlK) | 2:00 | 2024-01-10 | 2024-03-13 |
-| [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-03-12 |  |
+| [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-03-12 | 2024-05-19 |
 | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1) | [Kamil Hasselhoff](https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9) | [dlaczego w tym mieście NIKT nie umarł z miłości?](https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0) | 2:44 | 2023-08-08 | 2023-09-13 |
 | [Do I Ever Cross Your Mind?](https://open.spotify.com/track/2Ai6GyZxG5gW3YCkdeXhNU) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Do I Ever Cross Your Mind?](https://open.spotify.com/album/6qkX5pBH2OE4ebSA7B9jKn) | 3:05 | 2023-03-07 | 2023-04-01 |
 | [do u really want to watch](https://open.spotify.com/track/7Khom2QJHwWKqsO4ug1jux) | [LIONSTORM](https://open.spotify.com/artist/2R674rphXQgJ2v2TXHydvV) | [do u really want to watch](https://open.spotify.com/album/1HGjv4VEYuVGXqP3NEINLG) | 2:43 | 2024-03-12 | 2024-04-17 |
@@ -302,6 +302,7 @@
 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 | 2024-04-09 |  |
 | [EN EL CLUB](https://open.spotify.com/track/19hkCrdgPTIBiP4xxeF8wB) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [EN EL CLUB](https://open.spotify.com/album/3PHCcwHjrop6EINtoqFuGZ) | 2:18 | 2023-03-31 | 2023-04-14 |
 | [ENAMORADODE](https://open.spotify.com/track/5hyK4QP2bFAZbmySwCnQLO) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [ENAMORADODE](https://open.spotify.com/album/3XHFjrMasYEy2qHmO6aMzX) | 3:04 | 2023-07-11 | 2023-07-19 |
+| [encore](https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [encore](https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k) | 2:49 | 2024-05-18 |  |
 | [Enough of You](https://open.spotify.com/track/0laVxLujsbSTA0wwyXN8hK) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Enough of You](https://open.spotify.com/album/5RDGr2RFL0FmyMxZudo6Ww) | 2:30 | 2021-12-17 | 2022-01-29 |
 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2024-01-10 | 2024-02-14 |
 | [error](https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [error](https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7) | 3:01 | 2023-04-13 | 2023-05-23 |
@@ -330,6 +331,7 @@
 | [Feed My Hunger \(No Shade\)](https://open.spotify.com/track/0hsjCTNkruMDApePUJZMKv) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Feed My Hunger \(No Shade\)](https://open.spotify.com/album/6IpuoQShDOYowPqkxzG8Ku) | 2:24 | 2023-01-24 | 2023-03-08 |
 | [Feel Good \(with Billianne\)](https://open.spotify.com/track/5X0BzpIYrG1GIshAs8MMxC) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux), [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Feel Good \(with Billianne\)](https://open.spotify.com/album/05l1pHdKfgPPWRkfJQlXPR) | 3:00 | 2024-02-13 | 2024-03-13 |
 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 | 2022-06-24 | 2022-12-01 |
+| [Feel My Feelings](https://open.spotify.com/track/0m2PIy7YXNPK44p7LRoFwA) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:44 | 2024-05-18 |  |
 | [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 | 2024-05-06 |  |
 | [feels like](https://open.spotify.com/track/2TFkOtXeYj8a83uix6DjvM) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [feels like](https://open.spotify.com/album/568CQpVk56eTiOBI0vebVe) | 3:24 | 2023-02-22 | 2024-01-11 |
 | [Feels Like Magic](https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Feels Like Magic](https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y) | 3:07 | 2022-03-04 | 2022-07-29 |
@@ -500,7 +502,7 @@
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 | 2022-04-16 |
 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 | 2022-01-07 | 2022-12-01 |
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-07 | 2022-06-18 |
-| [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 | 2024-03-12 |  |
+| [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 | 2024-03-12 | 2024-05-19 |
 | [I míssil](https://open.spotify.com/track/344VMZslWZrTMBjwk7sBH6) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Trava Línguas](https://open.spotify.com/album/7MpgDfdAVvQjQ2pZ9NYvh6) | 5:12 | 2023-03-31 | 2023-04-14 |
 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 | 2023-01-24 | 2023-03-08 |
 | [i see you](https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [utopia](https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO) | 3:35 | 2023-05-09 | 2023-06-02 |

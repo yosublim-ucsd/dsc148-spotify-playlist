@@ -4,7 +4,7 @@
 
 > La banda sonora para tus cenas en casa.
 
-248 songs - 16 hr 11 min
+249 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Everybody's Talkin' \- From "Midnight Cowboy"](https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Aerial Ballet](https://open.spotify.com/album/0H3v4snD6xhworsjXndsai) | 2:43 | 2021-01-19 | 2024-04-19 |
 | [Everybody's Talkin' \- From "Midnight Cowboy"](https://open.spotify.com/track/7CAhxeaTYXn1qWNRkZl9ad) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Everybody's Talkin': The Very Best of Harry Nilsson](https://open.spotify.com/album/1tRXz3Sc9Er8uM6ZUHkiJj) | 2:44 | 2021-01-19 | 2022-07-28 |
 | [Everything Happens To Me](https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Essential Standards \(eBooklet\)](https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm) | 5:04 | 2024-02-05 |  |
-| [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 | 2021-01-19 |  |
+| [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 | 2021-01-19 | 2024-05-19 |
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-05-11 | 2024-01-26 |
 | [Far From Any Road](https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Singing Bones](https://open.spotify.com/album/1B1p6CMiuIqeNt3oYTS0Tj) | 2:46 | 2024-01-25 | 2024-04-19 |
 | [Fever](https://open.spotify.com/track/6RjLQTIlyeVlnJLpijV4Vu) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Lo Mejor de la Lupe](https://open.spotify.com/album/0vyxKg0GhEOuDAuHgNuWJe) | 2:44 | 2021-01-19 | 2022-07-29 |
@@ -221,6 +221,7 @@
 | [The Weight](https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Soul Folk In Action](https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL) | 4:35 | 2024-02-05 |  |
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/4oFYpRn9QZbc7toso38diA) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [This Masquerade / There You Are](https://open.spotify.com/album/2NA3EgaSJy1FW1czeaDPzD) | 3:33 | 2021-01-19 | 2022-07-29 |
 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 | 2021-01-19 |  |
+| [Tiny Tiny Steps](https://open.spotify.com/track/3euZzIZUGZSDbSsDOnb79f) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 3:20 | 2024-02-05 |  |
 | [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 | 2021-01-19 |  |
 | [Toyboat](https://open.spotify.com/track/0zwkTalZ8v0qrBMZwWVgEy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Lucia Manca](https://open.spotify.com/artist/5DHfordpyNL7yXbVTLeed4) | [Toyboat](https://open.spotify.com/album/3dyVZIYSfZFlyVjplWONdm) | 2:57 | 2021-01-19 | 2022-07-27 |
 | [Trompeta y Trombón](https://open.spotify.com/track/7blCmw8CU98pSmvvSXYsUX) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Latino con Soul \(West Side Original Remastered\)](https://open.spotify.com/album/6fzqmTd7d1DqOZhJSBcNJt) | 6:09 | 2021-01-19 | 2022-07-29 |

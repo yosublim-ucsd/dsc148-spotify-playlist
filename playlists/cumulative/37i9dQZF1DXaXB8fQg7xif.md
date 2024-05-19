@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,107 songs - 2 day 11 hr 37 min
+1,108 songs - 2 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Chameleon](https://open.spotify.com/track/6400BZ7REh8DshcZKU7Pfp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Chameleon](https://open.spotify.com/album/6vdxUCoudeeMJ8dv0iXA2S) | 3:18 | 2020-05-22\* | 2020-09-20 |
 | [Chance](https://open.spotify.com/track/4oVp2A9Ud4hV27Kr5bByCQ) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Chance](https://open.spotify.com/album/0MFfVEtQD82fGQCpc4lvel) | 3:26 | 2020-12-12 | 2021-11-20 |
 | [Chance To Dance](https://open.spotify.com/track/6T9cSQMRmd1sJC6UJLYywZ) | [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [Chance To Dance](https://open.spotify.com/album/1QCVx1swTG0R5K2RpQY0oN) | 3:09 | 2020-09-05 | 2021-11-08 |
+| [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-05-17 |  |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2021-12-17 | 2023-04-07 |
 | [Chemical](https://open.spotify.com/track/77e0lnvWMyji6LrUlNSYhZ) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Chemical](https://open.spotify.com/album/1wZ8FVTvRXubQlYnrRNF5B) | 2:42 | 2021-06-21 | 2022-04-19 |
 | [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 | 2022-07-14 | 2023-01-06 |
@@ -425,7 +426,7 @@
 | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR) | 2:50 | 2021-12-17 | 2022-07-15 |
 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 | 2023-01-13 | 2023-03-04 |
 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 | 2020-05-22\* | 2020-09-05 |
-| [Hear Me Now \(Alok Remix\)](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/album/1tjKFbLvH3Ee5OJF6nk5T6) | 3:07 | 2024-05-17 |  |
+| [Hear Me Now \(Alok Remix\)](https://open.spotify.com/track/3FwGPAu9qxJrNzKNn1HP1n) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(Alok Remix\)](https://open.spotify.com/album/1tjKFbLvH3Ee5OJF6nk5T6) | 3:07 | 2024-05-17 | 2024-05-19 |
 | [Heart Still Beating](https://open.spotify.com/track/6RHdHHlOAHwFaYS9LUwpYU) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/5uOBHR89JOzaZxuVZdhWWp) | 2:29 | 2024-04-19 |  |
 | [Heartbreaker](https://open.spotify.com/track/07PSGQ8vwLkuvxkWX6QVxY) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Heartbreaker](https://open.spotify.com/album/0jgwDmblXtB5r6AwB7R1eF) | 2:30 | 2020-12-27 | 2021-12-11 |
 | [Heatwave \(feat\. Robbie Jay\)](https://open.spotify.com/track/5mi9BFrugew7j9HzUpgPEI) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Robbie Jay](https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K) | [Heatwave \(feat\. Robbie Jay\)](https://open.spotify.com/album/3gzzOdF1CxP1Sa9wihhdrE) | 3:21 | 2022-04-01 | 2022-04-16 |

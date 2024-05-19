@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,760 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,757 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 38 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
 | 39 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 |
 | 40 | [Christmas in Your Arms](https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4) | [Bad Temper Joe](https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6) | [Christmas in Your Arms](https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A) | 2:43 |
-| 41 | [Christmas Eve Blues](https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Mississippi Delta Blues Jam in Memphis, Vol\. 2](https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr) | 5:13 |
-| 42 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
-| 43 | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/track/6qIgoZQDoFP0r6jsHglJfQ) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/album/4sy6uFKLkqjMJIHe36LGwQ) | 3:27 |
-| 44 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |
+| 41 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
+| 42 | [Christmas Eve Blues](https://open.spotify.com/track/7MO5DrupkGjRlNqANzPBRu) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Mississippi Delta Blues Jam in Memphis, Vol\. 2](https://open.spotify.com/album/3ETimRxrple7bSvxQYVhEr) | 5:13 |
+| 43 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |
+| 44 | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/track/6qIgoZQDoFP0r6jsHglJfQ) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/album/4sy6uFKLkqjMJIHe36LGwQ) | 3:27 |
 | 45 | [Merry Christmas Baby](https://open.spotify.com/track/5nj3Z2A1DnkLNO3Z3rEYww) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Johnny Moore's 3 Blazers](https://open.spotify.com/artist/5Trz1MSJiGnhDq4y0KUFK1) | [Merry Christmas Baby / Sleigh Ride](https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW) | 2:39 |
 | 46 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
 | 47 | [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 |

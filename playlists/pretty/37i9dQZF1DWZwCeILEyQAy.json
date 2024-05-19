@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: JT",
-  "num_followers": 485252,
+  "num_followers": 485254,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Almighty So 2",
+        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 266322,
+      "name": "Banded Up (feat. Tierra Whack)",
+      "url": "https://open.spotify.com/track/7tmgmrJYAGshsUHUNWPMlO"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -527,30 +547,6 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "DIRTY NACHOS",
-        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 186991,
-      "name": "DAMN SHORTY (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -667,6 +663,30 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "DIRTY NACHOS",
+        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 186991,
+      "name": "DAMN SHORTY (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "BING BONG (Remix) [feat. Sexyy Red]",
         "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 203858,
       "name": "SLUT ME OUT (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Almighty So 2",
-        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 266322,
-      "name": "Banded Up (feat. Tierra Whack)",
-      "url": "https://open.spotify.com/track/7tmgmrJYAGshsUHUNWPMlO"
     },
     {
       "added_at": "2024-05-17 04:00:00",

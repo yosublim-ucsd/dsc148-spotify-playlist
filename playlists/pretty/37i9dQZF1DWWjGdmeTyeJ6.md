@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: The Kilans, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,811 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,045 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 36 | [5x7](https://open.spotify.com/track/0pw9wzi9c09RutqLNxZROh) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [5x7](https://open.spotify.com/album/4RLd52kpnkccrWAcKU3UbY) | 3:17 |
 | 37 | [Breeze](https://open.spotify.com/track/3vysuK5GwPyUGqUfthWnOm) | [Megan Knight](https://open.spotify.com/artist/2Y4m8BAZwXLSPulBEGx1h7) | [Breeze](https://open.spotify.com/album/628RbP6vdMHtgDO6TiCo3z) | 4:00 |
 | 38 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
-| 39 | [NYC](https://open.spotify.com/track/3VPGFbz6Wju25OndOKlBwd) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [NYC](https://open.spotify.com/album/1wYs67rvnvygkLLW4blXU5) | 3:37 |
+| 39 | [NYC \- with Lauren Weintraub](https://open.spotify.com/track/3VPGFbz6Wju25OndOKlBwd) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [NYC \(with Lauren Weintraub\)](https://open.spotify.com/album/1wYs67rvnvygkLLW4blXU5) | 3:37 |
 | 40 | [Barbed Wire](https://open.spotify.com/track/692mP9YvrWSHKD36lTf9WJ) | [Hannah Milikin](https://open.spotify.com/artist/7KGL631DVfTujcUmjivRcu) | [Barbed Wire](https://open.spotify.com/album/5773TxWL9WOCd9nVua8HDA) | 3:18 |
 | 41 | [6:00 P.M.](https://open.spotify.com/track/6wl8iU1HjtRZlMl44bCTer) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [6:00 P.M.](https://open.spotify.com/album/30YL9fJiXFoCBRtT597Frp) | 2:26 |
 | 42 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 |

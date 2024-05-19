@@ -1,6 +1,6 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 100776,
+  "num_followers": 100797,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Jesus at a Distance",
+      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Jesus at a Distance",
-      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Church I Grew Up in (Live)",
-        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 296715,
-      "name": "The Church I Grew Up In - Live",
-      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Into The Wild",
         "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 168096,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "The Church I Grew Up in (Live)",
+        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 296715,
+      "name": "The Church I Grew Up In - Live",
+      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "a thousand shores",
-        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "a thousand shores",
-      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 174216,
       "name": "HEY GOD",
       "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "a thousand shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "a thousand shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 209194,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Streams of Worship",
         "url": "https://open.spotify.com/album/0DK8yClnB95oTZlSdTD3K6"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
       },
       "artists": [
         {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Rest On Us - Single Version",
-      "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
+      "duration_ms": 209194,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1319,6 +1303,22 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Rest On Us - Single Version",
+      "url": "https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
-      },
-      "artists": [
-        {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
-        }
-      ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "No Hurt",
         "url": "https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 183720,
       "name": "HELP!",
       "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+      },
+      "artists": [
+        {
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+        }
+      ],
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Smell The Roses",
-        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 253940,
-      "name": "Smell The Roses",
-      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "God Is Real",
         "url": "https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 177235,
       "name": "Never Not God",
       "url": "https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Smell The Roses",
+        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 253940,
+      "name": "Smell The Roses",
+      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Kindness Of The Cross",
-        "url": "https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm"
+        "name": "everything and more",
+        "url": "https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8"
       },
       "artists": [
         {
-          "name": "Travis Cottrell",
-          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
-        },
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 286130,
-      "name": "God Really Loves Us",
-      "url": "https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E"
+      "duration_ms": 232466,
+      "name": "everything and more",
+      "url": "https://open.spotify.com/track/12JPE50t031pH3Dy5mcAzR"
     }
   ],
   "unique_name": "Sing A New Song",

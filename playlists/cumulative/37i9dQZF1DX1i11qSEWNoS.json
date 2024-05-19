@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 134607,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS"
@@ -4188,6 +4188,40 @@
       "duration_ms": 172764,
       "name": "Unendlichkeit (Remix)",
       "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
+    },
+    {
+      "album": {
+        "name": "Up, Up, Up (Nobody\u2019s perfect)",
+        "url": "https://open.spotify.com/album/1kO0Z2pXZXPagFnuBcXwby"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8"
+        },
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        },
+        {
+          "name": "Peter Plate",
+          "url": "https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg"
+        },
+        {
+          "name": "Ulf Leo Sommer",
+          "url": "https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126598,
+      "name": "Up, Up, Up (Nobody's perfect)",
+      "url": "https://open.spotify.com/track/1WYDoHtHLJ3mt3SRohiYto"
     },
     {
       "album": {

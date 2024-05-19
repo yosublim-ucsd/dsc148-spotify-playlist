@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,712 likes - 273 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,711 likes - 273 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 99 | [My My She Cries](https://open.spotify.com/track/5JYRYD8ya0yaE4p6oqjXH1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:19 |
 | 100 | [I Was There \(And I'm Told I Had a Good Time\)](https://open.spotify.com/track/5rQXyZscMjd5AekwWkBDpA) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Good Times! \(Deluxe Edition\)](https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF) | 2:15 |
 | 101 | [I Think I Can Hear You](https://open.spotify.com/track/6VQYB9tMPzBQrHWhrEdTlC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:25 |
-| 102 | [2 L8](https://open.spotify.com/track/69eyNEmESnyqiqS89PQyPO) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 3:07 |
-| 103 | [Please Hurt Me](https://open.spotify.com/track/6cEhla9GaxwIL31U2SYZSd) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:14 |
+| 102 | [Please Hurt Me](https://open.spotify.com/track/6cEhla9GaxwIL31U2SYZSd) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:14 |
+| 103 | [2 L8](https://open.spotify.com/track/69eyNEmESnyqiqS89PQyPO) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 3:07 |
 | 104 | [Stand Behind Me](https://open.spotify.com/track/2vAhTyIJP5LessHhtVyEuI) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:28 |
 | 105 | [What Am I Gonna Do](https://open.spotify.com/track/537pMB75IKiJLEZ98NoiI2) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [What Am I Gonna Do](https://open.spotify.com/album/7sG38JyCrAWsdKwsPRTdvr) | 2:09 |
 | 106 | [We're Gonna Make It](https://open.spotify.com/track/5j9Kzx6cn3rqiMBuOzsIyL) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Todd Smith](https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF) | 4:54 |
@@ -134,10 +134,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 124 | [Spaceship Races](https://open.spotify.com/track/2saV5owNXlCjz26RZ7R6pk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:06 |
 | 125 | [Show Me Girl \- 2008 Remaster](https://open.spotify.com/track/59Q9ivKKAZwbAETukwviEA) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Into Something Good \(The Mickie Most Years 1964\-1972\)](https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV) | 2:37 |
 | 126 | [There Is A Tavern In The Town](https://open.spotify.com/track/4DJLYAE0mMknhKTwRdmt1v) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Those Lazy Hazy Crazy Days Of Summer](https://open.spotify.com/album/5jA1HyOHqWy718lEXH2koC) | 1:36 |
-| 127 | [Growing Away from Me](https://open.spotify.com/track/0k2ds7pE5cq6vlDwOzFxbZ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:02 |
-| 128 | [I'd Like To Know You Better](https://open.spotify.com/track/58gaz9qaiCBPvC67SqJdYY) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 2:46 |
-| 129 | [Streams and Lakes](https://open.spotify.com/track/2cTpnlEcVHW8sbtHb1LvND) | [Musica de Piano Escuela](https://open.spotify.com/artist/7yEwQE079hRltYQncYry8m), [Breathe](https://open.spotify.com/artist/7IypdEtKMXgPipj27tsZps), [Chillout Jazz Collective](https://open.spotify.com/artist/1WuhQCzTF8OYGIDGR2VnOU) | [Master Stress Mix \- 40 Melodies to Melt Away All Stress & Indulge Your Mind, Body and Spirit](https://open.spotify.com/album/3aZ15VKbZIjPOUou1JtfJo) | 2:39 |
-| 130 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 127 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 128 | [Growing Away from Me](https://open.spotify.com/track/0k2ds7pE5cq6vlDwOzFxbZ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:02 |
+| 129 | [I'd Like To Know You Better](https://open.spotify.com/track/58gaz9qaiCBPvC67SqJdYY) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 2:46 |
+| 130 | [Streams and Lakes](https://open.spotify.com/track/2cTpnlEcVHW8sbtHb1LvND) | [Musica de Piano Escuela](https://open.spotify.com/artist/7yEwQE079hRltYQncYry8m), [Breathe](https://open.spotify.com/artist/7IypdEtKMXgPipj27tsZps), [Chillout Jazz Collective](https://open.spotify.com/artist/1WuhQCzTF8OYGIDGR2VnOU) | [Master Stress Mix \- 40 Melodies to Melt Away All Stress & Indulge Your Mind, Body and Spirit](https://open.spotify.com/album/3aZ15VKbZIjPOUou1JtfJo) | 2:39 |
 | 131 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
 | 132 | [Lady](https://open.spotify.com/track/7qdtc71bUp1oyxaO4IzQae) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1vUPHNLRsdPmhuyqHmmX1M) | 2:22 |
 | 133 | [Change In Mind, Change Of Heart](https://open.spotify.com/track/4TE2oo9qvqIk6WOpptxMz8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:39 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbRmogAAAACcYolPdZ32D1RrtaiHFk0E`
+Snapshot ID: `AbRshgAAAACCiTfYoTHt7RnPe6/si05z`

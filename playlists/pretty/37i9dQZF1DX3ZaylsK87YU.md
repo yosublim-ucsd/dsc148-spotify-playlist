@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,648 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,652 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 79 | [He Will Hold Me Fast](https://open.spotify.com/track/2iPIKdiYSpxaS2MDgHwDQd) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [My Hope and Stay: Hymns Project, Vol\. II](https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO) | 5:10 |
 | 80 | [In Christ Alone / The Solid Rock \- Medley](https://open.spotify.com/track/7lFVnw9VGXTxUcjlrSH4g6) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [The Reason](https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV) | 4:57 |
 | 81 | [† \(just the cross\) \- Live](https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [† \(just the cross\)](https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH) | 6:38 |
-| 82 | [Psalm 126 \(feat\. Molly Parden\)](https://open.spotify.com/track/2Urw2FGFCqSaPhhH9DpAzx) | [Bifrost Arts](https://open.spotify.com/artist/19YqJFv1Z3IYLdTzMe3f7J) | [He Will Not Cry Out: Anthology of Hymns and Spiritual Songs, Vol\. 2](https://open.spotify.com/album/6HNlnG7BkFlXiu2pGBY0Jy) | 4:06 |
-| 83 | [Grace That Is Greater](https://open.spotify.com/track/7cW1IGxINOv8u6Fx694tKr) | [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [Hymned Again](https://open.spotify.com/album/0CHpejz0x5Frhee4fcL5Zf) | 2:59 |
+| 82 | [Grace That Is Greater](https://open.spotify.com/track/7cW1IGxINOv8u6Fx694tKr) | [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [Hymned Again](https://open.spotify.com/album/0CHpejz0x5Frhee4fcL5Zf) | 2:59 |
+| 83 | [Psalm 126 \(feat\. Molly Parden\)](https://open.spotify.com/track/2Urw2FGFCqSaPhhH9DpAzx) | [Bifrost Arts](https://open.spotify.com/artist/19YqJFv1Z3IYLdTzMe3f7J) | [He Will Not Cry Out: Anthology of Hymns and Spiritual Songs, Vol\. 2](https://open.spotify.com/album/6HNlnG7BkFlXiu2pGBY0Jy) | 4:06 |
 | 84 | [Be Still My Soul](https://open.spotify.com/track/4xZ0s7YTRru5pAw1WtSdNX) | [Page CXVI](https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb) | [Hymns Sampler](https://open.spotify.com/album/1XAwj4FtK8ipTXKmhA0AEg) | 3:59 |
 | 85 | [Be Thou My Vision](https://open.spotify.com/track/5Dl6FoHQnYlfMDOMCBFrRp) | [The Lower Lights](https://open.spotify.com/artist/44FVyueHCLAMyJPnvCqqwM) | [A Hymn Revival: Vol\. 2](https://open.spotify.com/album/6n5YhTwVVLpDz0pobKEe5P) | 2:47 |
 | 86 | [Turn Your Eyes Upon Jesus](https://open.spotify.com/track/3yMbyjwBb3kJyBnA0UXy65) | [Noah James & The Executives](https://open.spotify.com/artist/4A5PRMT58SrQ4IhPLMVRG6) | [Hymns EP](https://open.spotify.com/album/2BVLcwRbPBmqxhteoC4U6J) | 3:49 |

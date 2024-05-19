@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2595,
+  "num_followers": 2596,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAB6d/cRv3WFRjwdQnafXMb6",
+  "snapshot_id": "ZkaeAAAAAAB2aPNkDFKpeAmgNVqWO/UY",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 201978,
+      "name": "You Had Me at Aloha",
+      "url": "https://open.spotify.com/track/4SEX5L8BAUpFjALA1aiOjs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/4ngV4717539caCp8SVI35A"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 292863,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/56YJ6PDiJJUb2FBbHoex5L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 201978,
-      "name": "You Had Me at Aloha",
-      "url": "https://open.spotify.com/track/4SEX5L8BAUpFjALA1aiOjs"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Place",
-        "url": "https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Hard Place",
-      "url": "https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butterflies: Live",
         "url": "https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 222066,
       "name": "High on Love",
       "url": "https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Place",
+        "url": "https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Hard Place",
+      "url": "https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa"
     },
     {
       "added_at": null,
@@ -451,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Keep Jamming",
-        "url": "https://open.spotify.com/album/7GjX35CmFvdFgceiW4ct44"
+        "name": "Ready and Willing",
+        "url": "https://open.spotify.com/album/38U6pAhmqMfBS7qZSIJQKl"
       },
       "artists": [
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Ariki foster",
-          "url": "https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed"
         }
       ],
-      "duration_ms": 214864,
-      "name": "Just Keep Jamming",
-      "url": "https://open.spotify.com/track/0V3BrJ3d7FxldSirhHQ8X3"
+      "duration_ms": 210997,
+      "name": "Ready and Willing",
+      "url": "https://open.spotify.com/track/60piylGglPP75VzDPg8q8t"
     },
     {
       "added_at": null,
@@ -487,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Keep Jamming",
+        "url": "https://open.spotify.com/album/7GjX35CmFvdFgceiW4ct44"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Ariki foster",
+          "url": "https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed"
+        }
+      ],
+      "duration_ms": 214864,
+      "name": "Just Keep Jamming",
+      "url": "https://open.spotify.com/track/0V3BrJ3d7FxldSirhHQ8X3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 198093,
       "name": "I Just Want You Around",
       "url": "https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ready and Willing",
-        "url": "https://open.spotify.com/album/38U6pAhmqMfBS7qZSIJQKl"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 210997,
-      "name": "Ready and Willing",
-      "url": "https://open.spotify.com/track/60piylGglPP75VzDPg8q8t"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
         "url": "https://open.spotify.com/album/3JUg8y6VzopVigBBBKPk2Z"
       },
@@ -591,6 +575,38 @@
       "duration_ms": 238441,
       "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
       "url": "https://open.spotify.com/track/03ctMIAm8PgCl1NaPowSgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spam Musubi Song",
+        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 140010,
+      "name": "Spam Musubi Song",
+      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
     },
     {
       "added_at": null,
@@ -631,34 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spam Musubi Song",
-        "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
+        "name": "Mana Maoli, Volume V - Hui Na Moku",
+        "url": "https://open.spotify.com/album/1acebQxhPagBiWionPJtrm"
       },
       "artists": [
+        {
+          "name": "King Kekai",
+          "url": "https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m"
+        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 140010,
-      "name": "Spam Musubi Song",
-      "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Remix)",
-        "url": "https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Follow Me (Remix)",
-      "url": "https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa"
+      "duration_ms": 208200,
+      "name": "Mr. Mellow",
+      "url": "https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6"
     },
     {
       "added_at": null,
@@ -679,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mana Maoli, Volume V - Hui Na Moku",
-        "url": "https://open.spotify.com/album/1acebQxhPagBiWionPJtrm"
+        "name": "Follow Me (Remix)",
+        "url": "https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp"
       },
       "artists": [
-        {
-          "name": "King Kekai",
-          "url": "https://open.spotify.com/artist/3L2hhljdDtx6P5h4FbbP5m"
-        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 208200,
-      "name": "Mr. Mellow",
-      "url": "https://open.spotify.com/track/1dXUcTAgVP7YP7jDg8J4N6"
+      "duration_ms": 195789,
+      "name": "Follow Me (Remix)",
+      "url": "https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa"
     },
     {
       "added_at": null,

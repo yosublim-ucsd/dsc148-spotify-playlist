@@ -2,7 +2,7 @@
 
 ### [This Is Elliott Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1u2tEI)
 
-> This is Elliott Smith\. The essential tracks, all in one playlist.
+> This is Elliott Smith\. Todos os maiores hits em uma só playlist.
 
 121 songs - 6 hr 32 min
 
@@ -120,12 +120,12 @@
 | [The White Lady Loves You More](https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:24 | 2023-06-02 |  |
 | [The White Lady Loves You More](https://open.spotify.com/track/75l3rO9pLGAas7P4O22RDE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:24 | 2022-09-16 | 2023-05-04 |
 | [Thirteen](https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:43 | 2023-12-24 |  |
-| [Tomorrow Tomorrow](https://open.spotify.com/track/1cYudm5fk5igcsjroJKmFw) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:07 | 2024-05-15 |  |
+| [Tomorrow Tomorrow](https://open.spotify.com/track/1cYudm5fk5igcsjroJKmFw) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:07 | 2024-05-15 | 2024-05-19 |
 | [Twilight](https://open.spotify.com/track/51LWYJAmtqHLYOQD1BKG9X) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:29 | 2023-06-15 |  |
 | [Twilight](https://open.spotify.com/track/5YoR2agiVdBpuAuW9PvgKD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 4:29 | 2022-09-16 | 2023-05-02 |
 | [Twilight](https://open.spotify.com/track/4UPLlFF10U3St7PaaQGPgi) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq) | 4:29 | 2023-05-01 | 2023-06-16 |
 | [Untitled Guitar Finger Picking \- Demo](https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Heaven Adores You Soundtrack](https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M) | 1:24 | 2022-12-14 |  |
-| [Waltz \#2 \(XO\)](https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 4:40 | 2022-09-16 | 2024-05-18 |
+| [Waltz \#2 \(XO\)](https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 4:40 | 2022-09-16 |  |
 | [Whatever \(Folk Song In C\)](https://open.spotify.com/track/4B0ev59DimAmNoBNTQ0NGd) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:17 | 2023-05-05 | 2023-05-18 |
 | [Whatever \(Folk Song In C\)](https://open.spotify.com/track/1YbZab5h60Tr89DZp5Tdr2) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 2:17 | 2022-10-12 | 2023-05-06 |
 | [Whatever \(Folk Song In C\)](https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:17 | 2023-05-17 |  |

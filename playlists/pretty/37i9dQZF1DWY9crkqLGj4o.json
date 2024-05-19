@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 416467,
+  "num_followers": 416516,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,18 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
+        "name": "Compromisso",
+        "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
       },
       "artists": [
         {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "Whindersson Nunes",
-          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
         }
       ],
-      "duration_ms": 224725,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
+      "duration_ms": 324013,
+      "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -267,6 +263,26 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "Whindersson Nunes",
+          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Nada Al\u00e9m da Gra\u00e7a",
         "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 271209,
       "name": "Deus \u00e9 Deus",
       "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Compromisso",
-        "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
-        }
-      ],
-      "duration_ms": 324013,
-      "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Liberta-Me de Mim",
-        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 429332,
-      "name": "Liberta-Me de Mim",
-      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Liberta-Me de Mim",
+        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 429332,
+      "name": "Liberta-Me de Mim",
+      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Damaris Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
+      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 385063,
       "name": "Tudo a Ver Com Ele",
       "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        },
-        {
-          "name": "Damaris Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7uXEOaVROOsK3DOysDgCZo"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
-      "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 284862,
-      "name": "Casa do Pai",
-      "url": "https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6"
+      "duration_ms": 381318,
+      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
+      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 381318,
-      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
-      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+      "duration_ms": 284862,
+      "name": "Casa do Pai",
+      "url": "https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6"
     },
     {
       "added_at": "2023-11-03 04:33:15",

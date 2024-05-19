@@ -1,6 +1,6 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 239723,
+  "num_followers": 239784,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 275726,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/4GC0oRuVTZR2a0yCnQRaNz"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 163070,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5TZQFrjxHT5rkR43PA4aF6"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 275726,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1011,6 +1011,34 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "HOMIE",
+        "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
+      },
+      "artists": [
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "SAO!",
+          "url": "https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        },
+        {
+          "name": "Alfa Tavares",
+          "url": "https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW"
+        }
+      ],
+      "duration_ms": 153083,
+      "name": "HOMIE",
+      "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
       },
@@ -1039,34 +1067,6 @@
       "duration_ms": 212687,
       "name": "Provider",
       "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "HOMIE",
-        "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
-      },
-      "artists": [
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "SAO!",
-          "url": "https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        },
-        {
-          "name": "Alfa Tavares",
-          "url": "https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW"
-        }
-      ],
-      "duration_ms": 153083,
-      "name": "HOMIE",
-      "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Thousands of Years",
-        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 181352,
-      "name": "Thousands of Years",
-      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 222918,
       "name": "True Love",
       "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Thousands of Years",
+        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 181352,
+      "name": "Thousands of Years",
+      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Like Yours",
+        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Like Yours",
+      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "How I Love You",
         "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Like Yours",
-        "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "Like Yours",
-      "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "More In Seconds",
         "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 244493,
       "name": "More In Seconds",
       "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "LESS OF ME",
-        "url": "https://open.spotify.com/album/0U34KFIWHZpyHAGOgULglF"
-      },
-      "artists": [
-        {
-          "name": "MARV",
-          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
-        }
-      ],
-      "duration_ms": 238545,
-      "name": "LESS OF ME",
-      "url": "https://open.spotify.com/track/7hTsieYGUm5VxZJlfLvVe1"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1491,6 +1475,22 @@
       "duration_ms": 242181,
       "name": "Joy",
       "url": "https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "LESS OF ME",
+        "url": "https://open.spotify.com/album/0U34KFIWHZpyHAGOgULglF"
+      },
+      "artists": [
+        {
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+        }
+      ],
+      "duration_ms": 238545,
+      "name": "LESS OF ME",
+      "url": "https://open.spotify.com/track/7hTsieYGUm5VxZJlfLvVe1"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0"
-      },
-      "artists": [
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Denise Bamfo",
-          "url": "https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
       },
@@ -1615,18 +1595,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Let It Be Your Will",
-        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0"
       },
       "artists": [
         {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Denise Bamfo",
+          "url": "https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO"
         }
       ],
-      "duration_ms": 250295,
-      "name": "Let It Be Your Will",
-      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
+      "duration_ms": 176062,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1643,6 +1627,22 @@
       "duration_ms": 142889,
       "name": "JUST BE US",
       "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Let It Be Your Will",
+        "url": "https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs"
+      },
+      "artists": [
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        }
+      ],
+      "duration_ms": 250295,
+      "name": "Let It Be Your Will",
+      "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
     },
     {
       "added_at": "2024-01-12 07:49:20",

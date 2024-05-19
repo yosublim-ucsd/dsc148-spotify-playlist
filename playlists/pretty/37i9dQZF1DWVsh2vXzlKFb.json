@@ -1,6 +1,6 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 487070,
+  "num_followers": 487130,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 228600,
       "name": "8TEEN",
       "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "Cyclones and Hey Lover",
-        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Hey Lover!",
-      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "Wild Heart",
         "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 167986,
       "name": "New Flesh",
       "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "Cyclones and Hey Lover",
+        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Hey Lover!",
+      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 173640,
       "name": "AOK",
       "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 184524,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "My Type EP",
         "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 184524,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "Miss Summer",
-        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 162376,
-      "name": "Miss Summer",
-      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "My Fun",
         "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "Grand",
-        "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
-      },
-      "artists": [
-        {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 192000,
       "name": "Disco Man",
       "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "Grand",
+        "url": "https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa"
+      },
+      "artists": [
+        {
+          "name": "Matt and Kim",
+          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
+        "name": "A Warning",
+        "url": "https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 214964,
+      "name": "A Warning",
+      "url": "https://open.spotify.com/track/2Ir5eVuUM96WvyyZmDTIBX"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/4JkiXUUfINCrEtgN71JtkD"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "A Warning",
-        "url": "https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD"
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 214964,
-      "name": "A Warning",
-      "url": "https://open.spotify.com/track/2Ir5eVuUM96WvyyZmDTIBX"
+      "duration_ms": 166973,
+      "name": "Claw Foot",
+      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1527,22 +1543,6 @@
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Claw Foot",
-      "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "our little angel - EP",
-        "url": "https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "blind",
-      "url": "https://open.spotify.com/track/0NuWgxEp51CutD2pJoF4OM"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/7nC5WtMQ8DJcfQzhFy2oqa"
       },
@@ -1619,6 +1603,38 @@
       "duration_ms": 188396,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "Bleachers",
+        "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "our little angel - EP",
+        "url": "https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "blind",
+      "url": "https://open.spotify.com/track/0NuWgxEp51CutD2pJoF4OM"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1663,22 +1679,6 @@
       "duration_ms": 190373,
       "name": "4EVA",
       "url": "https://open.spotify.com/track/2sUImfbz5cpAW50SiQla4h"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "Campus",
-      "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
     }
   ],
   "unique_name": "Summer Indie",

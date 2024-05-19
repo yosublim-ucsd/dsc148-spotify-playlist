@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jonas Blue. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 85141,
+  "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
+  "num_followers": 85149,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAABHCX2sL4QDdUjKEitNqIdd",
+  "snapshot_id": "ZkaeAAAAAACJBJMdKHQnpSIq9+t8d6Zo",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -92,13 +72,33 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         }
       ],
-      "duration_ms": 212424,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
+      "duration_ms": 196613,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Wake Me Up",
+        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Don\u2019t Wake Me Up",
+      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
     },
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Melody",
-        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 159850,
-      "name": "Perfect Melody",
-      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -184,13 +164,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj"
+      "duration_ms": 194407,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
     },
     {
       "added_at": null,
@@ -215,22 +195,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Head & My Heart (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+        "name": "Hear Me Say",
+        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 190772,
+      "name": "Hear Me Say",
+      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What I Like About You (feat. Theresa Rex)",
+        "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
+      },
+      "artists": [
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
         }
       ],
-      "duration_ms": 179512,
-      "name": "My Head & My Heart - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+      "duration_ms": 220396,
+      "name": "What I Like About You (feat. Theresa Rex)",
+      "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 201254,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
     },
     {
       "added_at": null,
@@ -259,22 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+        "name": "My Head & My Heart (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         },
         {
-          "name": "Jack & Jack",
-          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         }
       ],
-      "duration_ms": 194407,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/5ZSl6gDoV6bPPxzmLeneV9"
+      "duration_ms": 179512,
+      "name": "My Head & My Heart - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
     },
     {
       "added_at": null,
@@ -347,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
       },
       "artists": [
         {
@@ -356,19 +376,19 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         }
       ],
-      "duration_ms": 201254,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
+      "duration_ms": 191206,
+      "name": "Perfect Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
       },
       "artists": [
         {
@@ -376,13 +396,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
         }
       ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+      "duration_ms": 194720,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
     },
     {
       "added_at": null,
@@ -427,46 +447,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+        "name": "Hearts Ain't Gonna Lie (Remixes, Pt. 1)",
+        "url": "https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i"
       },
       "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        },
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
         }
       ],
-      "duration_ms": 193377,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl"
+      "duration_ms": 238451,
+      "name": "Hearts Ain't Gonna Lie - Eden Prince Remix",
+      "url": "https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "THE REMIXES",
-        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
+        "name": "I See Love (From Hotel Transylvania 3)",
+        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 173220,
+      "name": "I See Love - From Hotel Transylvania 3",
+      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV"
+      },
+      "artists": [
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
         }
       ],
-      "duration_ms": 167040,
-      "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
-      "url": "https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3"
+      "duration_ms": 210921,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8"
     },
     {
       "added_at": null,
@@ -491,22 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/7dm0STpyctopt8zjJ0IHPT"
+        "name": "THE REMIXES",
+        "url": "https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         },
         {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         }
       ],
-      "duration_ms": 186490,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC"
+      "duration_ms": 167040,
+      "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
+      "url": "https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3"
     },
     {
       "added_at": null,
@@ -539,22 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Give Up (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA"
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/7dm0STpyctopt8zjJ0IHPT"
       },
       "artists": [
         {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        },
-        {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Don't Give Up - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94"
+      "duration_ms": 186490,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC"
     },
     {
       "added_at": null,
@@ -595,6 +635,30 @@
       "duration_ms": 212903,
       "name": "yes, and? - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/4H0iUwnJaY9Ev07IP6DW5j"
     },
     {
       "added_at": null,
@@ -655,6 +719,26 @@
       "duration_ms": 330967,
       "name": "Fast Car - Club Mix",
       "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "duration_ms": 192449,
+      "name": "We Could Go Back",
+      "url": "https://open.spotify.com/track/6tgSxgv4moPC3XvX11SKhs"
     },
     {
       "added_at": null,

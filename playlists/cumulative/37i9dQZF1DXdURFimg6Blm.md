@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-493 songs - 1 day 0 hr 18 min
+494 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-02-24 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM) | 2:56 | 2022-04-22 | 2022-05-27 |
 | [Give It To Me](https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Give It to Me](https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT) | 3:06 | 2022-05-20 | 2023-04-22 |
+| [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2024-05-17 |  |
 | [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2023-01-06 | 2023-03-19 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-06-03 |  |
 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 | 2022-03-18 | 2022-04-23 |
@@ -347,7 +348,7 @@
 | [PARADISE](https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PARADISE](https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ) | 2:43 | 2024-03-15 |  |
 | [Paradise](https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [OMEM](https://open.spotify.com/artist/6PEbhxAoBVdvwWFGwDmfoN) | [Paradise](https://open.spotify.com/album/6TUnvAYhgmJs2G8MuoQ3eb) | 2:54 | 2022-01-07 | 2022-05-06 |
 | [Passion](https://open.spotify.com/track/2bm9eBd8hXPxEdgizCcEWX) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Passion](https://open.spotify.com/album/6uCoJsIQor28zNDkOMTDss) | 2:45 | 2022-01-07 | 2022-07-30 |
-| [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-09-29 |  |
+| [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-09-29 | 2024-05-19 |
 | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Kayla Rose](https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk) | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/album/53ai1YrajGquql1qDvB6d7) | 3:40 | 2022-01-07 | 2022-04-16 |
 | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/track/6VcpaoEQRxc9wrAtYBqKwz) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Payback \(feat\. Icona Pop\)](https://open.spotify.com/album/7xerYbkUGD5BazNdP6OaZW) | 3:23 | 2022-04-01 | 2022-07-29 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-05-03 |  |

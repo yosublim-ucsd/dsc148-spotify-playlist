@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-228 songs - 13 hr 54 min
+229 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2022-06-20 | 2022-07-05 |
 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 | 2022-06-20 |  |
 | [Happiness \(feat\. Vincent Blue\)](https://open.spotify.com/track/14dJLoAlJFuypnXt5DJUKj) | [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Happiness \(feat\. Vincent Blue\)](https://open.spotify.com/album/4NrlQcmJI8EUHBklSnAS7F) | 3:53 | 2022-06-20 | 2022-07-29 |
-| [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 | 2024-04-09 |  |
+| [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 | 2024-04-09 | 2024-05-19 |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-06-20 | 2022-07-14 |
 | [haze](https://open.spotify.com/track/5tk3TXsF2wumsj8Cq24v5g) | [GRACY 그레씨](https://open.spotify.com/artist/58u1UWevJvtHatOoupz6bD) | [haze](https://open.spotify.com/album/4UFQ9QaMbdSfCgSZeFNXwM) | 2:50 | 2022-06-20 | 2022-06-23 |
 | [Hi, hello?](https://open.spotify.com/track/71zma1WRfDRYHxI5SBM0jb) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 4:08 | 2022-06-20 | 2022-07-24 |
@@ -148,6 +148,7 @@
 | [Phantom Pain](https://open.spotify.com/track/2DFxgbXJzTe8P7DJ5wjDeD) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:38 | 2022-06-20 | 2022-07-28 |
 | [Please Don′t Save Me](https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd) | [Acy blu](https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6) | [Love Is Over](https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj) | 3:20 | 2022-06-20 | 2022-06-23 |
 | [pray](https://open.spotify.com/track/1J5OjPvIbCfn1QO3oZSu6J) | [HEO SEGWA 허세과](https://open.spotify.com/artist/7kYW7G3n3ELm5e3arhK1Ed) | [pray](https://open.spotify.com/album/2FV0uo5TtVZQqx0LLqPFXC) | 4:30 | 2022-06-20 | 2022-07-03 |
+| [Rain](https://open.spotify.com/track/0oc1bsAWCjIxDOzmHPBgYP) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Dead End](https://open.spotify.com/album/1DR3SrjL4u4y59DuIjWnlG) | 4:46 | 2024-04-09 |  |
 | [Rain](https://open.spotify.com/track/3XvpMrRSAMDeVLZOqCrDuU) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Rain](https://open.spotify.com/album/4hDnl0O0btobLg0EgzsfZw) | 3:57 | 2024-03-08 | 2024-04-19 |
 | [Rain](https://open.spotify.com/track/5n368tNF47S70THlmpaGLf) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Rain](https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ) | 3:57 | 2022-08-13 | 2024-03-03 |
 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 | 2022-08-13 |  |

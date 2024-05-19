@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: <a href=\"spotify:artist:4DROs1Ye9DiLY3X8L7xvl8\">Andrez Babii</a>",
-  "num_followers": 181512,
+  "num_followers": 181532,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
@@ -327,30 +327,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Tu Manto (Remix)",
-        "url": "https://open.spotify.com/album/4eKpL9SKZ8fqWIOYq6B4o9"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 224403,
-      "name": "Tu Manto - Remix",
-      "url": "https://open.spotify.com/track/0BEDr7n9SCehDvhJnQPYok"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Energ\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Tu Manto (Remix)",
+        "url": "https://open.spotify.com/album/4eKpL9SKZ8fqWIOYq6B4o9"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 224403,
+      "name": "Tu Manto - Remix",
+      "url": "https://open.spotify.com/track/0BEDr7n9SCehDvhJnQPYok"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Pura Alegr\u00eda",
-        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 186367,
-      "name": "Pura Alegr\u00eda",
-      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Si Tu No Estas",
         "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 225400,
       "name": "Si T\u00fa No Estas",
       "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Pura Alegr\u00eda",
+        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 186367,
+      "name": "Pura Alegr\u00eda",
+      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "No Existe",
+        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 204381,
+      "name": "No Existe",
+      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "La Media Vuelta",
         "url": "https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 197500,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "No Existe",
-        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 204381,
-      "name": "No Existe",
-      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Bueno es Dios",
         "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 179800,
       "name": "Bueno es Dios",
       "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5sYVk2gLIP6kLo39Z1xcGS"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 128421,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/7cbvmZ0VZNtf2RMistBufH"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Llegaste T\u00fa",
         "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 241640,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/5sYVk2gLIP6kLo39Z1xcGS"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 128421,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/7cbvmZ0VZNtf2RMistBufH"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Gu\u00edame",
-        "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 203790,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Guiame",
         "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
+        "name": "Gu\u00edame",
+        "url": "https://open.spotify.com/album/6OVSRwTmVqFaYZyqsNgklT"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 203790,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/11iSxK5GHFhq2mgKMJStGs"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
         "name": "Vamo' a Celebrar",
         "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
       },
@@ -1143,6 +1143,26 @@
       "duration_ms": 148988,
       "name": "Todo Por Ti",
       "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Sigo Aqui",
+        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1199,26 +1219,6 @@
       "duration_ms": 169043,
       "name": "Como Eh",
       "url": "https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Sigo Aqui",
-        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Mateo 10:16",
-        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
-      },
-      "artists": [
-        {
-          "name": "Yowcend la Igriega",
-          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "Por un Momento",
         "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 211600,
       "name": "Por un Momento",
       "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Mateo 10:16",
+        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
+      },
+      "artists": [
+        {
+          "name": "Yowcend la Igriega",
+          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Se Enamor\u00f3",
-        "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Se Enamor\u00f3",
-      "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
         "name": "M\u00e1s Como T\u00fa \u2013 Remix",
         "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 206230,
       "name": "M\u00e1s Como T\u00fa \u2013 Remix",
       "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Se Enamor\u00f3",
+        "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Se Enamor\u00f3",
+      "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1631,18 +1631,26 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Siempre Est\u00e1s",
-        "url": "https://open.spotify.com/album/0VwhVOHqEtIZIx5CInCChd"
+        "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
+        "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
       },
       "artists": [
         {
-          "name": "David Muguercia",
-          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+          "name": "Despinal",
+          "url": "https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe"
+        },
+        {
+          "name": "JMV The Producer",
+          "url": "https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
         }
       ],
-      "duration_ms": 263538,
-      "name": "Siempre Est\u00e1s",
-      "url": "https://open.spotify.com/track/4HFuTWvUqHcpI1IV9Au5Xi"
+      "duration_ms": 185361,
+      "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
+      "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1667,26 +1675,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
-        "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
+        "name": "Siempre Est\u00e1s",
+        "url": "https://open.spotify.com/album/0VwhVOHqEtIZIx5CInCChd"
       },
       "artists": [
         {
-          "name": "Despinal",
-          "url": "https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe"
-        },
-        {
-          "name": "JMV The Producer",
-          "url": "https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
         }
       ],
-      "duration_ms": 185361,
-      "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
-      "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
+      "duration_ms": 263538,
+      "name": "Siempre Est\u00e1s",
+      "url": "https://open.spotify.com/track/4HFuTWvUqHcpI1IV9Au5Xi"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1939,22 +1939,22 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Luna Que Me Alumbra",
-        "url": "https://open.spotify.com/album/3DSh6c9bEuPAfwBGHs6sAZ"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/3SeqaHkucZVCWkfyKaOnbt"
       },
       "artists": [
         {
-          "name": "El Leo Pa\u00b4",
-          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
         },
         {
-          "name": "Lemuel Amaury",
-          "url": "https://open.spotify.com/artist/0XrJ1hYeE7gqPA77uNADqe"
+          "name": "Josue Alcequiez",
+          "url": "https://open.spotify.com/artist/6SdULwXUdGRFmdAHDUWsuW"
         }
       ],
-      "duration_ms": 179969,
-      "name": "Luna Que Me Alumbra",
-      "url": "https://open.spotify.com/track/1QJXOveHlGy5N9Lie82Gm2"
+      "duration_ms": 232000,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4AsMWEUctX6jWcADHOoxR8"
     }
   ],
   "unique_name": "Flow Cristiano",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 150688,
+  "num_followers": 150761,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAmpvvXXhj4W4Z7TFsnAoh4",
+  "snapshot_id": "ZkaeAAAAAACzmOZZ2YTSTrwdwBu0xlX/",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mejor Colecci\u00f3n (Vol. 2)",
-        "url": "https://open.spotify.com/album/4uJoDOMwx4qHb2USzfNXBY"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Para Olvidarme De Ti",
-      "url": "https://open.spotify.com/track/3iHAFGsELwYWc9qm7cEJOx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Renta Un Coraz\u00f3n (Reissue)",
         "url": "https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 203666,
       "name": "No Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Mejor Colecci\u00f3n (Vol. 2)",
+        "url": "https://open.spotify.com/album/4uJoDOMwx4qHb2USzfNXBY"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Para Olvidarme De Ti",
+      "url": "https://open.spotify.com/track/3iHAFGsELwYWc9qm7cEJOx"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Espejo De Cantina",
+        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "La Baraja",
+      "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde el Sur Hasta el Norte",
         "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 324240,
       "name": "Popurr\u00ed: Cardenaleando La Cumbia",
       "url": "https://open.spotify.com/track/23I3R41lcBjbXC3J0oiThk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Te Olvid\u00e9 - Cumbia",
-      "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
     }
   ],
   "unique_name": "This Is Cardenales De Nuevo Le\u00f3n",

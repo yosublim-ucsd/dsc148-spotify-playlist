@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 323026,
+  "num_followers": 323162,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAACgSFmJVwkrfA7J/W9PfYEC",
+  "snapshot_id": "ZkaeAAAAAAABzX2TWeR5n0LjI7kfO5Pu",
   "tracks": [
     {
       "added_at": null,
@@ -887,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ana Gabriel \"En Vivo\"",
-        "url": "https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/4mwUQaf9Q8TX3KMvN1VJRF"
       },
       "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        },
         {
           "name": "Ana Gabriel",
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 220733,
-      "name": "Hasta Que Te Conoc\u00ed - En Vivo - Remasterizado",
-      "url": "https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp"
+      "duration_ms": 262426,
+      "name": "La C\u00e1rcel del Amor",
+      "url": "https://open.spotify.com/track/6tF9tY9Ywd4WeCUK3Xja2W"
     }
   ],
   "unique_name": "This Is Ana Gabriel",

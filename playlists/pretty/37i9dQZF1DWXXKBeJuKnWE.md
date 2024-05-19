@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: BLACKGOLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,482 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,443 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 32 | [Feral](https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Out Of The Shadows 2.0](https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv) | 3:39 |
 | 33 | [Straight From The Heart](https://open.spotify.com/track/1Dioc5wCu4sUXTjwQv4Cuw) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Straight From The Heart](https://open.spotify.com/album/4pfs6RS2T9Ic6GbtXFmpNN) | 3:34 |
 | 34 | [LEAVE ME ALONE](https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [LEAVE ME ALONE](https://open.spotify.com/album/4Vg8DFy3xrNpXXPiPremXH) | 3:35 |
-| 35 | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
+| 35 | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. Bert McCracken\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
 | 36 | [going numb](https://open.spotify.com/track/4PBJo0f4fyAHektLZXxhOL) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [unpeople](https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI) | 3:25 |
 | 37 | [Bloodsuckers](https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:22 |
 | 38 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 |

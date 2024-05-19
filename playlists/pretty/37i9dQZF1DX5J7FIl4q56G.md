@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: PAIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,150 likes - 61 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,236 likes - 61 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Wake The Dead](https://open.spotify.com/track/1AxTJaBxuMzdXFhRHQfUMz) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [I Am](https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp) | 4:07 |
 | 2 | [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 |
 | 3 | [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 |
-| 4 | [One](https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd) | 9:34 |
+| 4 | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [James Hetfield](https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16) | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd) | 9:34 |
 | 5 | [1589](https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [1589](https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2) | 4:04 |
 | 6 | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11) | 3:06 |
 | 7 | [Concrete](https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Concrete](https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K) | 3:18 |
@@ -68,6 +68,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 58 | [Hordes of the Horned God](https://open.spotify.com/track/7wVnpOykAKlg4UIFSuASZN) | [Hellbutcher](https://open.spotify.com/artist/0LNxFESoHHXMTsh5RIl8L2) | [Hordes of the Horned God](https://open.spotify.com/album/5jE0YFhnzYvr88RkjTB3GT) | 5:26 |
 | 59 | [Servants of Ira](https://open.spotify.com/track/2bKuWOWR7y4uAJGPnygyhv) | [Gallamesh](https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV) | [Servants of Ira](https://open.spotify.com/album/7oy7FULdqWfQ7Yn3Hv0vF1) | 2:55 |
 | 60 | [Crown of Decay](https://open.spotify.com/track/1p6dofMiMbgZ1OzmCsQUGj) | [Crown of Decay](https://open.spotify.com/artist/6Tw0FxlZDSSywkwXp0YXnd) | [Crown of Decay](https://open.spotify.com/album/4jshZwiTg9t2rHcNcd549X) | 4:49 |
-| 61 | [Sombras](https://open.spotify.com/track/3HbsEAKyiHvJdf7PV9xnZn) | [Norte Verdadero](https://open.spotify.com/artist/1K6yxgncFkoTQ2gWLpIfYF) | [Sombras](https://open.spotify.com/album/7HxFIZsWYHnMCRuSqf7VAx) | 4:01 |
+| 61 | [Sombras](https://open.spotify.com/track/3HbsEAKyiHvJdf7PV9xnZn) | [Norte Verdadero](https://open.spotify.com/artist/1K6yxgncFkoTQ2gWLpIfYF), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Sombras](https://open.spotify.com/album/7HxFIZsWYHnMCRuSqf7VAx) | 4:01 |
 
 Snapshot ID: `ZkbWQAAAAAAt+aCfqNMXzsBboHjdywaI`

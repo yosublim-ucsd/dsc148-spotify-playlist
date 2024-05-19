@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Carin Le\u00f3n",
-  "num_followers": 73008,
+  "num_followers": 73033,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -1671,38 +1671,6 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
-        "name": "M\u00e1s Vivo Que En Vivo (Vol. 3)",
-        "url": "https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "Zutano (En Vivo)",
-      "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
-        "name": "En vivo desde El Potrero",
-        "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
-      },
-      "artists": [
-        {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Eres un encanto - En vivo",
-      "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
         "name": "Culiac\u00e1n Deluxe 2 (En Vivo)",
         "url": "https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU"
       },
@@ -1743,6 +1711,38 @@
       "duration_ms": 243174,
       "name": "Andamos Borrachos Todos (En Vivo)",
       "url": "https://open.spotify.com/track/26RIz2v42u2m0lsozLMq0p"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
+        "name": "En vivo desde El Potrero",
+        "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
+      },
+      "artists": [
+        {
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Eres un encanto - En vivo",
+      "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
+        "name": "M\u00e1s Vivo Que En Vivo (Vol. 3)",
+        "url": "https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "Zutano (En Vivo)",
+      "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
     },
     {
       "added_at": "2024-05-01 22:43:36",

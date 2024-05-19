@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,593 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,612 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 12 | [This Is My Time](https://open.spotify.com/track/6pIGY3LzqTlx7qAveBuDnj) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Music For Máxima](https://open.spotify.com/album/4vMDbU5x6H7xl2oEWkPqlN) | 2:35 |
 | 13 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 |
 | 14 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
-| 15 | [New Generation](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
+| 15 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
 | 16 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 |
 | 17 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 |
 | 18 | [Huil Maar Niet Om Mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 |

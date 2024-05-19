@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,332 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,370 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 69 | [This Is Your Story](https://open.spotify.com/track/0rxs6IUm0NeyvIDn9vhPnZ) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:20 |
 | 70 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
 | 71 | [FFVII REMAKE: STAND UP](https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:09 |
-| 72 | [Shirma's Theme](https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk) | [川上 泰広](https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6) | [Chocobo's Dungeon 2\(Original Soundtrack\)](https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB) | 1:29 |
-| 73 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
+| 72 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
+| 73 | [Shirma's Theme](https://open.spotify.com/track/4kqGwLAACGAWsQTzyStHLk) | [川上 泰広](https://open.spotify.com/artist/0i4WzcDJUxEP87qiDTKwj6) | [Chocobo's Dungeon 2\(Original Soundtrack\)](https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB) | 1:29 |
 | 74 | [FFVII REMAKE: クラッシュボックス \(Whack\-a\-Box\)](https://open.spotify.com/track/7IIla7luNVBvMyb7vNLDri) | [石川 大樹](https://open.spotify.com/artist/3VWDLXwsN4H5YF755MmhnB), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:52 |
-| 75 | [ゼロ](https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ゼロ](https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU) | 6:55 |
+| 75 | [FFVII REMAKE: スカーレットのテーマ \(Scarlet's Theme\)](https://open.spotify.com/track/3tnuyMU0FohoFg77aAghTn) | [Tsuyoshi Sekito](https://open.spotify.com/artist/0NTNUSfkUTEAPRcwSyl7a9), [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 4:10 |
 
 Snapshot ID: `ZgxVwAAAAAB/1ygai2gPbPAur7w7qvRj`

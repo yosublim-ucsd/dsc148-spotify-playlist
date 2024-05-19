@@ -4,7 +4,7 @@
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 0 min
+57 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Matilda No More](https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:41 | 2023-06-17 |  |
 | [Mechanised Swaggie](https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:15 | 2023-06-17 |  |
 | [Never Was At All](https://open.spotify.com/track/1rqr7YSNxRfHLbotx9lpYP) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:15 | 2023-06-17 |  |
-| [No Good Truckin' Man](https://open.spotify.com/track/03IVyqOYqy4EaBCb1wd56j) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 2:30 | 2023-06-17 |  |
+| [No Good Truckin' Man](https://open.spotify.com/track/03IVyqOYqy4EaBCb1wd56j) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 2:30 | 2023-06-17 | 2024-05-19 |
 | [Old Time Country Halls](https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 2:54 | 2023-06-17 |  |
 | [Paddy William](https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 4:32 | 2023-06-17 |  |
 | [Plains Of Peppimenarti \- 1998 Remaster](https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 3:13 | 2023-06-17 |  |
@@ -45,7 +45,7 @@
 | [Some Things Never Change Out Here](https://open.spotify.com/track/3HTcXIE7RmBzYP5DrqfZ9h) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Natural High](https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf) | 2:58 | 2023-06-17 |  |
 | [Something In The Pilliga](https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:00 | 2023-06-17 |  |
 | [Somewhere Up In Queensland \- 1996 Remaster](https://open.spotify.com/track/66ynx59GQTrcWnGAn1xafk) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Classic Albums \- 1960's](https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS) | 3:31 | 2023-06-17 | 2023-07-18 |
-| [Star Trucker](https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:13 | 2023-06-17 | 2024-05-18 |
+| [Star Trucker](https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:13 | 2023-06-17 |  |
 | [That Old Blue Dog Of Mine \- 1996 Digital Remaster](https://open.spotify.com/track/1ugCuL7ZfvjVInz270m0vI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Just Slim With Old Friends](https://open.spotify.com/album/3elqWo7odIDOfzBZMngubH) | 2:56 | 2023-06-17 | 2023-06-23 |
 | [The Biggest Disappointment](https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:04 | 2023-06-17 |  |
 | [The Biggest Disappointment](https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Lost and Found](https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z) | 3:13 | 2023-06-17 |  |
@@ -58,10 +58,11 @@
 | [Truckin's In My Blood \- Remastered 1992](https://open.spotify.com/track/6Zxga3jpf99AQ6b160pLrI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Lights On The Hill \(Remastered\)](https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa) | 3:10 | 2024-02-18 |  |
 | [Trumby \- 1994 Remaster](https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Old Time Drover's Lament](https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480) | 3:29 | 2023-06-17 |  |
 | [Under The Spell Of Highway One](https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Natural High](https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf) | 3:39 | 2023-06-17 |  |
-| [Walk A Country Mile](https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 2:52 | 2023-06-17 |  |
+| [Walk A Country Mile](https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:52 | 2024-05-19 |  |
+| [Walk A Country Mile](https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 2:52 | 2023-06-17 | 2024-05-19 |
 | [Waltzing Matilda](https://open.spotify.com/track/3ES9dBjha6huNi9vHAsQAo) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 3:08 | 2023-06-17 |  |
 | [We've Done Us Proud](https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 4:31 | 2023-06-17 |  |
-| [When The Rain Tumbles Down In July \- 1979 Version](https://open.spotify.com/track/5cS4iHrmDZpJWYj2UXQcJe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:42 | 2023-06-17 |  |
+| [When The Rain Tumbles Down In July \- 1979 Version](https://open.spotify.com/track/5cS4iHrmDZpJWYj2UXQcJe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:42 | 2023-06-17 | 2024-05-19 |
 | [Where Country Is \- 1998 Remaster](https://open.spotify.com/track/2U8tYaXPEqwWp7c4bGidaB) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 3:49 | 2023-06-17 |  |
 | [Wobbly Boot](https://open.spotify.com/track/2WLqQbjvpMrUNnJaMVKOT5) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Rolf Harris](https://open.spotify.com/artist/50KLYZQtZLrR2gGa5oHJEF) | [Pubs, Trucks & Plains](https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi) | 2:58 | 2023-06-17 |  |
 

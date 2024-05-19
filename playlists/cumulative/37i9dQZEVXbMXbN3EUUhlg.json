@@ -378,7 +378,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 147988,
       "name": "A Cerveja Abre Sozinha - Ao Vivo",
       "url": "https://open.spotify.com/track/4jbTB2Kj4CrZCjngkQUQS2"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 156150,
       "name": "Amor Na Praia",
       "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -3007,6 +3007,42 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298440,
+      "name": "BITTERSUITE",
+      "url": "https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU"
+    },
+    {
+      "album": {
         "name": "Black Lan\u00e7a (Catucando Gostosinho)",
         "url": "https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv"
       },
@@ -3132,6 +3168,24 @@
       "duration_ms": 168689,
       "name": "Bloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
     },
     {
       "album": {
@@ -4320,6 +4374,24 @@
       "duration_ms": 182111,
       "name": "Chico",
       "url": "https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
       "album": {
@@ -6120,7 +6192,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 173370,
       "name": "Dois Fugitivos - Ao Vivo",
       "url": "https://open.spotify.com/track/4YKujFSyakVjLdH1sDllVc"
@@ -7010,7 +7082,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 207194,
       "name": "Equivocada - Ao Vivo",
       "url": "https://open.spotify.com/track/1Jhkk1FIV7tMH9CZATjxrf"
@@ -7206,7 +7278,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -8189,6 +8261,28 @@
     },
     {
       "album": {
+        "name": "FALTA DE QU\u00ca?",
+        "url": "https://open.spotify.com/album/0Dq8h1ncJUPjvgSbhF2DPt"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152245,
+      "name": "FALTA DE QU\u00ca?",
+      "url": "https://open.spotify.com/track/6hNREzgHbVM5AkGwP4SPmU"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -9014,7 +9108,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 166189,
       "name": "Fronteira - Ao Vivo",
       "url": "https://open.spotify.com/track/2IvsDK2p7Kq3aDrVtESDIg"
@@ -11112,7 +11206,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
@@ -11639,6 +11733,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "album": {
         "name": "Luz do Luar",
         "url": "https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4"
       },
@@ -11712,6 +11824,24 @@
       "duration_ms": 171679,
       "name": "L\u00e1bia",
       "url": "https://open.spotify.com/track/015fd1R17Z7S1FeU5H2V3I"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333986,
+      "name": "L\u2019AMOUR DE MA VIE",
+      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
     },
     {
       "album": {
@@ -12472,7 +12602,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 265450,
       "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
@@ -13228,7 +13358,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
@@ -17090,7 +17220,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 177237,
       "name": "P\u00e9ssima Hora - Ao Vivo",
       "url": "https://open.spotify.com/track/2BPZCE8hyWgaURPxQNA7pq"
@@ -17120,7 +17250,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 153429,
       "name": "Qual \u00e9 seu desejo?",
       "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
@@ -17402,7 +17532,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 160669,
       "name": "Quero Ver C\u00eas Terminar",
       "url": "https://open.spotify.com/track/4fwode2LHBWDTfmmEFR9mw"
@@ -17534,7 +17664,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 129418,
       "name": "RAM TCHUM",
       "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
@@ -19075,6 +19205,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "SKINNY",
+      "url": "https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -20255,6 +20403,42 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "THE DINER",
+      "url": "https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293840,
+      "name": "THE GREATEST",
+      "url": "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET"
+    },
+    {
+      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -20616,7 +20800,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -22556,6 +22740,24 @@
       "duration_ms": 220433,
       "name": "Wildest Dreams (Taylor's Version)",
       "url": "https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "album": {

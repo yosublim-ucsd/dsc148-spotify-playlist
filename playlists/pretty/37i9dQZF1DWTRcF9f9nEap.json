@@ -1,6 +1,6 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 93202,
+  "num_followers": 93275,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Atlanta Twelve String",
-        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "I Got the Cross the River Jordan",
-      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "South Of I-10",
         "url": "https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 380266,
       "name": "Congo Square",
       "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Atlanta Twelve String",
+        "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "I Got the Cross the River Jordan",
+      "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "Best - Southern Blues",
+        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Taylor's Rock",
+      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Best - Southern Blues",
-        "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
+        "name": "Fresh Evidence (Remastered 2017)",
+        "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
       },
       "artists": [
         {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 237680,
-      "name": "Taylor's Rock",
-      "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
+      "duration_ms": 480149,
+      "name": "Ghost Blues",
+      "url": "https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -527,22 +543,6 @@
       "duration_ms": 268133,
       "name": "Sweet Home Chicago",
       "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Fresh Evidence (Remastered 2017)",
-        "url": "https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 480149,
-      "name": "Ghost Blues",
-      "url": "https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 267480,
-      "name": "Just Got Paid",
-      "url": "https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Little Black Crow",
         "url": "https://open.spotify.com/album/734mbE26nI6Tjj8bgaRwAa"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 299547,
       "name": "Hard Times a-Comin'",
       "url": "https://open.spotify.com/track/2nY8hajgBVPaWZpd6sUIRi"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "Just Got Paid",
+      "url": "https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T"
     },
     {
       "added_at": "2023-01-16 21:05:55",

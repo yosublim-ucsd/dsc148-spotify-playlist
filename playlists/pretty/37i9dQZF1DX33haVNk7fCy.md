@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,291 likes - 93 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,307 likes - 93 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 44 | [Mere Paas Tum Raho](https://open.spotify.com/track/4KesmOv91PmUtzTC4ltGhB) | [Sumedh Mudgalkar](https://open.spotify.com/artist/4MjnXdCTzppLKxnfNv1G7h), [Bharat Kamal](https://open.spotify.com/artist/7w089qcbkrJcuYYDzpWTeJ), [Mohit Lalwani](https://open.spotify.com/artist/5Nfs3z1NSsrI3wxInUl6v8), [Ambika Devi](https://open.spotify.com/artist/00uMWk0Zgw5qUziwylo2b3), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Mere Paas Tum Raho](https://open.spotify.com/album/3I0bHAfRH2tUA6OWNX5nEG) | 3:29 |
 | 45 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
 | 46 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 |
-| 47 | [Aadat](https://open.spotify.com/track/4yR2z3JafnCo86THA6ISZ4) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug](https://open.spotify.com/album/1BEbWl7hVZ2B2O7zuzKOhG) | 5:33 |
-| 48 | [Haaye Dard](https://open.spotify.com/track/5Guwp446UExa6M5SIibjfC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:56 |
+| 47 | [Haaye Dard](https://open.spotify.com/track/5Guwp446UExa6M5SIibjfC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:56 |
+| 48 | [Aadat](https://open.spotify.com/track/4yR2z3JafnCo86THA6ISZ4) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug](https://open.spotify.com/album/1BEbWl7hVZ2B2O7zuzKOhG) | 5:33 |
 | 49 | [Haaray](https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Haaray](https://open.spotify.com/album/5yRZJ8DeZ2eeDbYqW83KOd) | 3:04 |
 | 50 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
 | 51 | [Akela Hoon](https://open.spotify.com/track/7pWAX5kJBULFTDNiH8oB42) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Akela Hoon](https://open.spotify.com/album/3N8AcmFbxtKV8YfeYMFEKk) | 3:44 |

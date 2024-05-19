@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YUNGIN, Paul Blanco, CHANGMO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,840 likes - 146 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,794 likes - 146 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

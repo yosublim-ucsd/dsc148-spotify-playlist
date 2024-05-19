@@ -4,7 +4,7 @@
 
 > Sad songs 4 sad days.
 
-263 songs - 15 hr 7 min
+265 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2023-11-17 |  |
 | [Felicidades](https://open.spotify.com/track/1yRdHbizewKQPd7r2recan) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Felicidades](https://open.spotify.com/album/4wRAmyKpHK0U2uyjlF1rtk) | 4:21 | 2021-12-06 | 2022-07-26 |
 | [Ferrari](https://open.spotify.com/track/4kT2Jw1LlqYEWev9JpIExG) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:14 | 2024-05-16 |  |
-| [flores](https://open.spotify.com/track/0hhPjc9JW9AFSrB58erX5X) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [flores](https://open.spotify.com/album/2XugIhX8RmpvL64PR2UMq8) | 1:22 | 2024-05-16 |  |
+| [flores](https://open.spotify.com/track/0hhPjc9JW9AFSrB58erX5X) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [flores](https://open.spotify.com/album/2XugIhX8RmpvL64PR2UMq8) | 1:22 | 2024-05-16 | 2024-05-19 |
 | [Fue Lo Mejor](https://open.spotify.com/track/5EMc0D7ColnFc9t21jF6PD) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [CU4TRO](https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1) | 3:07 | 2023-09-15 | 2024-04-19 |
 | [Fue Lo Mejor](https://open.spotify.com/track/662Z8N8YhRLVVCIKnxLNBg) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Fue Lo Mejor](https://open.spotify.com/album/7LMo6IdCd1P9BTGOYvbgZF) | 3:07 | 2021-12-06 | 2023-04-07 |
 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 | 2024-05-16 |  |
@@ -125,6 +125,7 @@
 | [Lo Siento Mucho](https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:18 | 2022-07-21 | 2024-04-19 |
 | [LUNA](https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [LUNA](https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J) | 2:38 | 2021-12-06 | 2023-01-04 |
 | [Lunes](https://open.spotify.com/track/7z9Jw5U43JSvsJhqMcDyQh) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [Lunes](https://open.spotify.com/album/5aUdorMtJ3ZQlDUJW1iS6B) | 3:14 | 2021-12-06 | 2022-07-11 |
+| [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 | 2024-05-17 |  |
 | [Manos de Tijera](https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 4:27 | 2021-12-06 | 2024-05-17 |
 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/0stIFBwUeaH8qpFe9aPl6w) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, Jose, Nacho \(TF1 Co\-Production\)](https://open.spotify.com/album/5IL38XjAFliyeLvngPqB83) | 2:54 | 2021-12-06 | 2022-07-29 |
 | [Me cuesta tanto olvidarte](https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 2:54 | 2022-07-21 | 2023-11-04 |
@@ -137,6 +138,7 @@
 | [Me vas a ver](https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Me vas a ver](https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X) | 2:15 | 2021-12-06 | 2024-05-17 |
 | [Mentimos](https://open.spotify.com/track/5pxWQmhgxd2Rjtp5bkGaSM) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r) | [3:33](https://open.spotify.com/album/2uQbBt3Ot0Qpj6grNS11bK) | 4:07 | 2021-12-06 | 2022-06-23 |
 | [Mi Mejor Despedida](https://open.spotify.com/track/7zhw8ovSA2cDrJehxI1TZh) | [Manel Navarro](https://open.spotify.com/artist/2JPHexLGEM1hT0Jli8rztQ), [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U) | [Mi Mejor Despedida](https://open.spotify.com/album/4GZGJXcjbA1CRcw8Z5Ma5s) | 3:15 | 2021-12-06 | 2022-07-28 |
+| [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 | 2024-05-17 |  |
 | [Modo Ofendida](https://open.spotify.com/track/2lBEp7EJ7BfgkAqStAu0BE) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Modo Ofendida](https://open.spotify.com/album/4BodBh6T2yaVLoANvzjWBB) | 3:15 | 2021-12-06 | 2022-07-07 |
 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 | 2021-12-06 | 2024-05-17 |
 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 | 2022-05-19 | 2024-05-17 |
@@ -145,7 +147,7 @@
 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2021-12-06 | 2023-11-18 |
 | [Nada Es Igual](https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Nada Es Igual](https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw) | 4:11 | 2021-12-06 | 2022-07-28 |
 | [Nada Es Igual \- Remix](https://open.spotify.com/track/3NZ9V69n2zfSowMUupBR1B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Nada Es Igual \(Remix\)](https://open.spotify.com/album/0vLVaDeDnlCx7n0qPYWOZc) | 3:36 | 2021-12-06 | 2022-05-07 |
-| [nadie](https://open.spotify.com/track/4w5QBgzGUrxwk6MU2v8gTN) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 2:38 | 2024-05-16 |  |
+| [nadie](https://open.spotify.com/track/4w5QBgzGUrxwk6MU2v8gTN) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 2:38 | 2024-05-16 | 2024-05-19 |
 | [Nadie ha dicho](https://open.spotify.com/track/7hSLEk0h67Q5NO1TfLHgLf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Nadie ha dicho](https://open.spotify.com/album/2hp0naP4otrsfhw1xlXdvy) | 3:27 | 2021-12-06 | 2022-07-27 |
 | [Nadie Me Vuelve A Joder](https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Nadie Me Vuelve A Joder](https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr) | 2:41 | 2023-03-24 | 2023-12-26 |
 | [Negar](https://open.spotify.com/track/0iCjrGqW2akkM2c8zimBaF) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 3:19 | 2024-03-08 | 2024-04-19 |

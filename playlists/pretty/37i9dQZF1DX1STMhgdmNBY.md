@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,869 likes - 70 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,965 likes - 70 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 57 | [Today I Sing the Blues](https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:25 |
 | 58 | [She Caught the Katy and Left Me a Mule to Ride](https://open.spotify.com/track/4RZ5Bc5m9rNL6PRNOfbd6V) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Martin Scorsese Presents The Blues: Taj Mahal](https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC) | 3:28 |
 | 59 | [A Touch Of The Blues \- Single Version](https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:19 |
-| 60 | [Change is Inevitable \(feat\. AJ Fullerton\)](https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 2:50 |
-| 61 | [I Have No One \- Remastered 2022](https://open.spotify.com/track/308gSPfGJpzLK9rnYCZZtB) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [South Side Of Soul Street: The SSS Sessions \(Remastered 2022\)](https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef) | 3:09 |
+| 60 | [I Have No One \- Remastered 2022](https://open.spotify.com/track/308gSPfGJpzLK9rnYCZZtB) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [South Side Of Soul Street: The SSS Sessions \(Remastered 2022\)](https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef) | 3:09 |
+| 61 | [Change is Inevitable \(feat\. AJ Fullerton\)](https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 2:50 |
 | 62 | [Let's Make Loving Great Again](https://open.spotify.com/track/78yb8biX3CkeU3gCP084s7) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [Let's Make Loving Great Again](https://open.spotify.com/album/3533AqYK8wZ1XwK0Zp28Om) | 5:51 |
 | 63 | [I Need Some Air](https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX) | 4:37 |
 | 64 | [Forever Shall Be](https://open.spotify.com/track/1APXtCtbg7ssoxpLXy3XWA) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 4:33 |

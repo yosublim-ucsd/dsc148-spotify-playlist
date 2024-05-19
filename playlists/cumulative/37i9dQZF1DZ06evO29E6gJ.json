@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
+        "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151293,
+      "name": "Prisionero de Tus Brazos",
+      "url": "https://open.spotify.com/track/6KqyjEEo57j3VHTNLv1BsC"
+    },
+    {
+      "album": {
         "name": "Siguen En La Honda Nortena",
         "url": "https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr"
       },
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 149400,
       "name": "Si Tengo a Mi Madre",
       "url": "https://open.spotify.com/track/7jZxsGZIyAg9a3gtMCHe98"

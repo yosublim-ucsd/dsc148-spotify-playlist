@@ -4,12 +4,12 @@
 
 > This is Fangclub\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 47 min
+33 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Fall Down](https://open.spotify.com/track/6cijsAY72S4JJrA4RSFn1i) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [All Fall Down](https://open.spotify.com/album/3I0SRk2cx5R8JVlBNIX7yg) | 3:07 | 2022-09-16 |  |
-| [All I Have](https://open.spotify.com/track/0rmS4JGPXQuXUk8ZCIksIJ) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 2:51 | 2022-09-16 | 2024-05-18 |
+| [All I Have](https://open.spotify.com/track/0rmS4JGPXQuXUk8ZCIksIJ) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 2:51 | 2022-09-16 |  |
 | [Animal Skin](https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:28 | 2022-11-27 | 2024-03-08 |
 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 | 2024-03-02 |  |
 | [Bad Words](https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 4:27 | 2022-09-16 |  |
@@ -24,14 +24,15 @@
 | [Follow](https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Coma Happy](https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn) | 3:41 | 2022-09-16 |  |
 | [Heart Is A Landmine](https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:20 | 2022-09-16 |  |
 | [Heavy Handed](https://open.spotify.com/track/0KVdDZCYaEidgt0PY2TuBU) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:15 | 2023-01-10 | 2024-03-07 |
-| [Hesitations](https://open.spotify.com/track/2ulg6v1K4pj8Pf6xzNAZGi) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:37 | 2022-09-16 |  |
+| [Hesitations](https://open.spotify.com/track/2ulg6v1K4pj8Pf6xzNAZGi) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:37 | 2022-09-16 | 2024-05-19 |
 | [High](https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 3:23 | 2022-09-16 |  |
 | [Inside Joke](https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Coma Happy](https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn) | 3:07 | 2022-09-16 |  |
 | [Kingdumb](https://open.spotify.com/track/7IbR89c0eXe2INNW2brzqK) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:11 | 2022-09-28 |  |
 | [Knife](https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [True Love](https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q) | 2:35 | 2022-09-16 |  |
 | [Lightning](https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:41 | 2022-09-16 |  |
 | [Nightmare](https://open.spotify.com/track/3Li4rMcFQisVPnw7nmfX7N) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 3:00 | 2022-09-16 |  |
-| [Out Of My Head](https://open.spotify.com/track/16vbLC2QSm34CsaXDltVbv) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Out Of My Head](https://open.spotify.com/album/4rbx06swFc9rEHVZmjjRch) | 2:44 | 2024-04-21 |  |
+| [Out Of My Head](https://open.spotify.com/track/0JpOY1SPlrJ7uOLIyQf137) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Out Of My Head](https://open.spotify.com/album/5VoHuDiXvtiE7gDFeSkehX) | 2:44 | 2024-05-19 |  |
+| [Out Of My Head](https://open.spotify.com/track/16vbLC2QSm34CsaXDltVbv) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Out Of My Head](https://open.spotify.com/album/4rbx06swFc9rEHVZmjjRch) | 2:44 | 2024-04-21 | 2024-05-19 |
 | [Psycho \- Demo](https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Bullet Head](https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG) | 2:58 | 2022-09-16 |  |
 | [Role Models](https://open.spotify.com/track/5dDguee73zfJMY9zmG0euw) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Fangclub](https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8) | 3:24 | 2022-09-16 |  |
 | [Slow](https://open.spotify.com/track/6ciX7rK5UU7p5cinOlWgDl) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Vulture Culture](https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe) | 5:13 | 2022-09-19 | 2022-10-13 |

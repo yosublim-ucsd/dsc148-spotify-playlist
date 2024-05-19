@@ -1,12 +1,12 @@
 {
-  "description": "This Is H\u00e9ctor Lavoe. Los temas esenciales, todos en una lista.",
-  "num_followers": 151206,
+  "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
+  "num_followers": 151303,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAA75F8Z3ia77NUM9AQCd6Nn",
+  "snapshot_id": "ZkaeAAAAAAAmLO7xpKbG7p86AAGxYWTa",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "El Todopoderoso",
-      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
     },
     {
       "added_at": null,
@@ -871,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sabio",
-        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 427560,
-      "name": "Al\u00e9jate",
-      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
@@ -903,6 +871,22 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 427560,
+      "name": "Al\u00e9jate",
+      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
     },
     {
       "added_at": null,
@@ -939,6 +923,22 @@
       "duration_ms": 206827,
       "name": "Dia De Ayer",
       "url": "https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2qGOhy0tSbvClnQhgBkkoC"
     }
   ],
   "unique_name": "This Is H\u00e9ctor Lavoe",

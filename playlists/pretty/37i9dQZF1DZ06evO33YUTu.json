@@ -1,12 +1,12 @@
 {
   "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
-  "num_followers": 118181,
+  "num_followers": 118195,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAADSyko+ycD4zWk8ceReNA1e",
+  "snapshot_id": "ZkaeAAAAAABJssYCI1mvv5Fjm8RoaLj+",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 135320,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/7ex5TNhdJsNNVpovfntqg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KAI",
-        "url": "https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "KAI",
-      "url": "https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ"
     },
     {
       "added_at": null,
@@ -255,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KAI",
+        "url": "https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "KAI",
+      "url": "https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Pecadito",
         "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
       },
@@ -271,26 +271,6 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Tu Amor No Vuelve",
-        "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Si Tu Amor No Vuelve",
-      "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
     },
     {
       "added_at": null,
@@ -883,26 +863,6 @@
       "duration_ms": 171520,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ant\u00eddoto",
-        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
     },
     {
       "added_at": null,

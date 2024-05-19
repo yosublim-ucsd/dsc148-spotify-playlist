@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > <a href="https://www.introducing.events/">Hier</a> anmelden für das Wilde Herzen Festival mit Zartmann, Sandra Isabel, elimako, Levin Liam, Dilla, soffie, error und Katha Pauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,559 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,655 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
+| 1 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
 | 2 | [glaubst du](https://open.spotify.com/track/1kFxAJ9jW1mbTTitWlVkH7) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [glaubst du](https://open.spotify.com/album/7g9O5qZvCMKJDAkFeycmrB) | 3:02 |
 | 3 | [XY](https://open.spotify.com/track/3edFSoZ9Iz3kcFOGsn6RNQ) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [XY](https://open.spotify.com/album/6RcWkF9TkhEP1cmxky2N3j) | 2:47 |
 | 4 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 50 | [frei \(wo kein Bus mehr fährt\)](https://open.spotify.com/track/5ioIt0oqZVHezZHcti2pc8) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [frei \(wo kein Bus mehr fährt\)](https://open.spotify.com/album/2lFYCigDWZ3CUA2knUQky9) | 2:38 |
 | 51 | [Messe/Deutz](https://open.spotify.com/track/23MqkXvC9FQTDfMM8cjcoW) | [Paul Weber](https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB) | [Messe/Deutz](https://open.spotify.com/album/5sw2A8pbeB3dY5ZJJ6Iq33) | 3:47 |
 | 52 | [NINA](https://open.spotify.com/track/0j4WzFni16kp0YquOHOwL8) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [NINA](https://open.spotify.com/album/3AcyNtY9jjJYscS49sdntl) | 2:24 |
-| 53 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
+| 53 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
 | 54 | [Keine Ahnung](https://open.spotify.com/track/35riGdFOw3iO4FcRKnL42W) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [Keine Ahnung](https://open.spotify.com/album/6JjNfhRXOgqbeIByk4TU22) | 2:16 |
 | 55 | [halb 4](https://open.spotify.com/track/1u3bSLbmo4cnqyGZp2jP31) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [halb 4](https://open.spotify.com/album/4MoIBEE5Es7PYZLf3Fj536) | 2:53 |
 | 56 | [Liebe für lau](https://open.spotify.com/track/6FBKpJzECXb30DLLWiGsB5) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Liebe für lau](https://open.spotify.com/album/68khQe9GoKmoc1w3mJf4qJ) | 2:35 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 72 | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [DLIT \(die Liebe ist tot\)](https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce) | 2:46 |
 | 73 | [Positive Vibes](https://open.spotify.com/track/2RNaKhaYCeYJSqtLpxndeg) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Positive Vibes](https://open.spotify.com/album/01gVO3S6Sker3QBtUvwQMs) | 3:06 |
 | 74 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
-| 75 | [Cool](https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Cool](https://open.spotify.com/album/0WXofhhWkaD6NmI5Dwj9pw) | 2:25 |
+| 75 | [Cool](https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Cool](https://open.spotify.com/album/0WXofhhWkaD6NmI5Dwj9pw) | 2:25 |
 
 Snapshot ID: `ZkeJjAAAAABHYXdZp586pZNv1f8ysJ6q`

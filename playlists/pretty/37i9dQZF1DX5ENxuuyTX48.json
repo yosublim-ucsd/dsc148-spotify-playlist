@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Masdo",
-  "num_followers": 20295,
+  "num_followers": 20302,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-04-26 02:46:23",
       "album": {
-        "name": "Bersamamu",
-        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Bersamamu",
-      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
-    },
-    {
-      "added_at": "2024-04-26 02:46:23",
-      "album": {
         "name": "SAH",
         "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 228055,
       "name": "SAH",
       "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
+    },
+    {
+      "added_at": "2024-04-26 02:46:23",
+      "album": {
+        "name": "Bersamamu",
+        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Bersamamu",
+      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
     },
     {
       "added_at": "2024-04-26 02:46:23",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-04-26 02:46:23",
       "album": {
-        "name": "Tunjukkan Cintamu",
-        "url": "https://open.spotify.com/album/471UN0LAKx502jYoNdmaaD"
+        "name": "Tutur Batin",
+        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
       },
       "artists": [
         {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
         }
       ],
-      "duration_ms": 139208,
-      "name": "Tunjukkan Cintamu",
-      "url": "https://open.spotify.com/track/3ScPXAJUcWHeJFuY1PC1Cc"
+      "duration_ms": 215591,
+      "name": "Tutur Batin",
+      "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
     }
   ],
   "unique_name": "OTW ",

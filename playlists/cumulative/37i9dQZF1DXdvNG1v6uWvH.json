@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Ben & Jerry",
+        "url": "https://open.spotify.com/album/50BchXeSKYuItkZgxQUfyc"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ka",
+          "url": "https://open.spotify.com/artist/6YOa0YbEZi84wBI6szaw1r"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203241,
+      "name": "Ben & Jerry",
+      "url": "https://open.spotify.com/track/1u6FpIfJfvwta1dWPphyQw"
+    },
+    {
+      "album": {
         "name": "boy",
         "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
       },
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 59400,
       "name": "Clogging",
       "url": "https://open.spotify.com/track/2Du0LBJJQPLsvJ32yUtc0v"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 250813,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6cjEnhHu5y0QD7n4G0pDoK"
@@ -2610,7 +2628,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 234000,
       "name": "Feels Fine",
       "url": "https://open.spotify.com/track/5i2LdKMeBwLJzx4QD2W7ro"
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 242111,
       "name": "I don't remember your name",
       "url": "https://open.spotify.com/track/5JzYv7Ywo6tJqLHdP4xwzg"
@@ -4068,6 +4086,28 @@
       "duration_ms": 252280,
       "name": "i've been meaning to stay",
       "url": "https://open.spotify.com/track/6yrlYX4HLaWv59vk1U3hDw"
+    },
+    {
+      "album": {
+        "name": "Ice Cream Song",
+        "url": "https://open.spotify.com/album/053t2hqRh9XHIVG85cuTeP"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        },
+        {
+          "name": "Cinya Khan",
+          "url": "https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "Ice Cream Song",
+      "url": "https://open.spotify.com/track/70GNB9kgyDBGjTyeWZZx1w"
     },
     {
       "album": {
@@ -5435,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "NANi",
+        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154991,
+      "name": "NANi",
+      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
+    },
+    {
+      "album": {
         "name": "Never Not You",
         "url": "https://open.spotify.com/album/3F9SbQYsdcQxAcCpzbWsUt"
       },
@@ -5867,24 +5925,6 @@
     },
     {
       "album": {
-        "name": "One (feat. James Hetfield & Robert Trujillo)",
-        "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "date_added": "2024-05-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 574634,
-      "name": "One",
-      "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
-    },
-    {
-      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/64HOiqlY0CKTZpEGL0YXL1"
       },
@@ -5900,6 +5940,32 @@
       "duration_ms": 179973,
       "name": "ONE",
       "url": "https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm"
+    },
+    {
+      "album": {
+        "name": "One (feat. James Hetfield & Robert Trujillo)",
+        "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "James Hetfield",
+          "url": "https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574634,
+      "name": "One (feat. James Hetfield & Robert Trujillo)",
+      "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
     },
     {
       "album": {
@@ -6078,7 +6144,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 162857,
       "name": "Pace Of Time",
       "url": "https://open.spotify.com/track/6McWPrixUAAoF5f2WCfy5E"
@@ -6440,7 +6506,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 133161,
       "name": "Reignite",
       "url": "https://open.spotify.com/track/5nD92xcnk0UKLzr5EQVwLk"
@@ -8814,7 +8880,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 160500,
       "name": "without you i would die",
       "url": "https://open.spotify.com/track/1KjGHp6fcNrb3xtHGK8UqT"

@@ -2,9 +2,9 @@
 
 ### [This Is El de La Guitarra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oey9L)
 
-> This Is El de La Guitarra\. Los temas esenciales, todos en una lista.
+> This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-99 songs - 4 hr 56 min
+100 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Que Linda Se Le Ve](https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:12 | 2023-12-13 |  |
 | [Que Me Va Mal](https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:05 | 2022-06-01 |  |
 | [Ramo Buchon](https://open.spotify.com/track/5s1e25d3neq4zcZa1ndvJJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Ramo Buchon](https://open.spotify.com/album/2DAnJcXYCfkBv4NBfmbdIL) | 3:59 | 2024-02-20 | 2024-05-14 |
+| [Rosas](https://open.spotify.com/track/5b7UcPpRAGQ8fc9d8jvq64) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Rosas](https://open.spotify.com/album/0E0NF6LtPOz3ZejtCnAXnp) | 3:26 | 2024-05-19 |  |
 | [Salvame](https://open.spotify.com/track/7q32Q7n5p2DeVQ3lClXfl8) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Salvame](https://open.spotify.com/album/2qeh4FNql0C7JKzDNpdBSK) | 3:37 | 2023-03-21 | 2023-05-20 |
 | [Se Oyen Recio Los Disparos](https://open.spotify.com/track/6qqICh8gOle9spzdSru35F) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:06 | 2022-06-01 |  |
 | [Sigo y Sigo](https://open.spotify.com/track/18ex1QePwFr4kevw448OlG) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:54 | 2022-07-21 | 2022-07-23 |

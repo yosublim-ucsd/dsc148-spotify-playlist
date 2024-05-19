@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Peter Holly
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,288 likes - 120 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,307 likes - 120 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 19 | [Benalu](https://open.spotify.com/track/5L6w6OIlmODLeHgsMMdl8O) | [HVZH](https://open.spotify.com/artist/6QjnlW6g4gtm5CBA5P9TvG) | [Benalu](https://open.spotify.com/album/7mavJ4UYyMJKaq0fSmNOxN) | 3:05 |
 | 20 | [Work It Out](https://open.spotify.com/track/0KTUhrjggIIrvtBGypBYrl) | [Batara](https://open.spotify.com/artist/03nRVx8gYfikA1yjpRmtx6) | [Moody EP](https://open.spotify.com/album/23ELB0XxCr6VhtDh2vVUdx) | 2:39 |
 | 21 | [A Great Perhaps](https://open.spotify.com/track/4wEBJ2VSY6Wvf4j0eqamXP) | [Mesa Bunga](https://open.spotify.com/artist/5Lv5jvyzZjvJbeb4vqry51) | [A Great Perhaps](https://open.spotify.com/album/7d4YoPLjI5lRCRyw0I4rTv) | 3:24 |
-| 22 | [Our Lullaby](https://open.spotify.com/track/1hCdtXm8itGNGLZKgFo91x) | [WAVER CLLEU](https://open.spotify.com/artist/6sdioblPgCBQXWMzt0546o), [MADLAUV](https://open.spotify.com/artist/1y7WT6M4t1hfZ93e1kudvc) | [Our Lullaby](https://open.spotify.com/album/4NDS0iz0yxFHI9zWUG31Vu) | 2:42 |
+| 22 | [Our Lullaby](https://open.spotify.com/track/1hCdtXm8itGNGLZKgFo91x) | [WAVER CLLEU](https://open.spotify.com/artist/6sdioblPgCBQXWMzt0546o), [MADLAUV](https://open.spotify.com/artist/2G4gQGId4VgSTqwdIAIzkG) | [Our Lullaby](https://open.spotify.com/album/4NDS0iz0yxFHI9zWUG31Vu) | 2:42 |
 | 23 | [Magic Spell](https://open.spotify.com/track/05nUy6EO1zEVKHAjZdSHir) | [Arcade Night](https://open.spotify.com/artist/2457GGs0K7ONa328Y8r90j) | [Magic Spell](https://open.spotify.com/album/3X8HRuff1jRgkxrWaJuddc) | 3:39 |
 | 24 | [Delima](https://open.spotify.com/track/0hvSqtpORLD4vs2vNsYkud) | [BAGEGAR](https://open.spotify.com/artist/56XGEfeFjRZMTmQ25boVIp) | [Delima](https://open.spotify.com/album/7L1meazEqHGhO1AXFCLvGI) | 4:18 |
 | 25 | [Tak Seperti Dulu](https://open.spotify.com/track/6l9ixKkM6LnsfWhnb8aRId) | [Opix Jiva](https://open.spotify.com/artist/4xiozh9nd6ZzpmHv8qbouD) | [Tak Seperti Dulu](https://open.spotify.com/album/2ZlJGU2HdygZBYIImgSDnd) | 2:52 |

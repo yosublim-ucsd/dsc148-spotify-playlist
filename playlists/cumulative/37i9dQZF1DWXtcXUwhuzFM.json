@@ -5575,24 +5575,6 @@
     },
     {
       "album": {
-        "name": "One (feat. James Hetfield & Robert Trujillo)",
-        "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "date_added": "2024-05-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 574634,
-      "name": "One",
-      "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
-    },
-    {
-      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/64HOiqlY0CKTZpEGL0YXL1"
       },
@@ -5608,6 +5590,32 @@
       "duration_ms": 179973,
       "name": "ONE",
       "url": "https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm"
+    },
+    {
+      "album": {
+        "name": "One (feat. James Hetfield & Robert Trujillo)",
+        "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "James Hetfield",
+          "url": "https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574634,
+      "name": "One (feat. James Hetfield & Robert Trujillo)",
+      "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
     },
     {
       "album": {

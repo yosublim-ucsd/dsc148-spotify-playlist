@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,806 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,815 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 50 | [Tulle](https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Quiet](https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz) | 5:00 |
 | 51 | [April In Paris](https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54) | [Lionel Hampton Quintet](https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd) | [The Lionel Hampton Quintet](https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh) | 6:22 |
 | 52 | [Easy To Love](https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:29 |
-| 53 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
-| 54 | [Norwegian Wood](https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 8:04 |
+| 53 | [Norwegian Wood](https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 8:04 |
+| 54 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
 | 55 | [Worlds Outside](https://open.spotify.com/track/5as828xQewhAy2JBXwakAj) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:37 |
 | 56 | [BR Blues](https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 3:09 |
 | 57 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |

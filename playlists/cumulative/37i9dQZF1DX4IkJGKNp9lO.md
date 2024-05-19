@@ -4,7 +4,7 @@
 
 > 
 
-316 songs - 14 hr 51 min
+317 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Du har fel](https://open.spotify.com/track/3gZdETvAlIjb1P2fjRQegC) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Sent ska cynikern vakna](https://open.spotify.com/album/6QDC64k3A3QhXZKtJWBRgQ) | 3:01 | 2021-12-14 | 2022-07-20 |
 | [Du kan inte sälja din själ om du aldrig haft någon](https://open.spotify.com/track/23QNlWI3wQwfGocakHTikR) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Sent ska cynikern vakna](https://open.spotify.com/album/6QDC64k3A3QhXZKtJWBRgQ) | 2:23 | 2021-12-14 | 2022-07-28 |
 | [Du ska va president](https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0) | [Imperiet](https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg) | [MNW Klassiker \- Imperiet](https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6) | 4:16 | 2021-12-14 |  |
+| [Du är inte här](https://open.spotify.com/track/5f0Ho8ozJSz0DU2uLQqgeL) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Mindie](https://open.spotify.com/artist/2sfb5zlcYxeGoCuwgBmGkY) | [Du är inte här/För dig](https://open.spotify.com/album/2nBcarWXSmnEtmU1iWamiQ) | 3:08 | 2024-05-16 |  |
 | [Dunken](https://open.spotify.com/track/6EuZqZCVpZi3IqWssVB7eE) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 3:59 | 2021-12-14 | 2023-04-30 |
 | [Dunken](https://open.spotify.com/track/7InzmgtRkwsheHlrUz0VLK) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 3:59 | 2023-04-13 | 2024-04-19 |
 | [Dunken](https://open.spotify.com/track/1kps9RcmEeFOaF9Liye8AY) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ), [Ulke](https://open.spotify.com/artist/6KjoityQl9NkVhPZ8isDlw), [Per Granberg](https://open.spotify.com/artist/0TAfL2lQzxByP4TUCEhgVw), [Mongo](https://open.spotify.com/artist/2S2M3JoiDwZRKqD592x3oy), [Curre Sandgren](https://open.spotify.com/artist/48OCQMmwurPMuSxrS8eqBP), [Mart Hällgren](https://open.spotify.com/artist/3j9Yn1hzjWZThZ0Ohjvzjc) | [Krymplings](https://open.spotify.com/album/2l3gu0JPCyey6ztaXsdwvc) | 3:59 | 2021-12-14 |  |
@@ -148,7 +149,7 @@
 | [Kom igen det blir kul](https://open.spotify.com/track/4E8nUba04WNgxFeoLtsxHc) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Tills högern skiljer oss åt](https://open.spotify.com/album/7gzIKfZxDzOCYjC2QOY0LW) | 2:57 | 2024-04-18 |  |
 | [Kom och dansa lite](https://open.spotify.com/track/3ojMPfMkEHaFdMu3C2Olh6) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/2IeV0YcZsxVQ4VLnjL1h44) | 3:00 | 2021-12-14 | 2022-07-25 |
 | [Kom och dansa lite](https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alderland](https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG) | 3:00 | 2021-12-14 | 2023-11-21 |
-| [Konflikthantering 101](https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Konflikthantering 101](https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4) | 2:45 | 2023-03-30 |  |
+| [Konflikthantering 101](https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Konflikthantering 101](https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4) | 2:45 | 2023-03-30 | 2024-05-19 |
 | [Kroatiska Antirassedagen](https://open.spotify.com/track/67G9uMyw6crZQFmXyE8uDc) | [DÖDSÖGONBLICKET](https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU) | [Lördag kan bli farlig](https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs) | 1:40 | 2021-12-14 |  |
 | [Kungar Och Knektar](https://open.spotify.com/track/0Fz43y3wP1nHXHyjJuK9KM) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Fina Flickor](https://open.spotify.com/album/19uXwtRZrDLAWIsmhgarLo) | 2:23 | 2021-12-14 | 2022-07-23 |
 | [Kungar Och Knektar](https://open.spotify.com/track/6wsYpZEtDnnuAnWlUZwti0) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Fina Flickor](https://open.spotify.com/album/10zKkoCqYTmbhzvri9o4My) | 2:23 | 2023-12-14 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Siento que arranco la carretera...",
-  "num_followers": 210296,
+  "num_followers": 210372,
   "original_name": "Viaje en Carretera: Arremangado",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
         "name": "D\u00e9jenme Hacer Dinero",
         "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "H\u00edbrido",
-        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "H\u00edbrido",
-      "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "El Maquinista",
         "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 188800,
       "name": "Ayer La Vi Por La Calle",
       "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "H\u00edbrido",
+        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "H\u00edbrido",
+      "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "El Tequilero",
-        "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
-      },
-      "artists": [
-        {
-          "name": "Los Originales De San Juan",
-          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "La Troca Del Mo\u00f1o Negro",
-      "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Adi\u00f3s A Chalino",
         "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 198814,
       "name": "El Nano - Versi\u00f3n Estudio",
       "url": "https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "El Tequilero",
+        "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "La Troca Del Mo\u00f1o Negro",
+      "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Denver Ruleteamos",
         "url": "https://open.spotify.com/album/47KjLcIoLIn0g6yAIFSjBY"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 209253,
       "name": "La Hummer Y El Camaro 2 \"La Revancha\"",
       "url": "https://open.spotify.com/track/3Wjhw44kAAQS6BRRtMvdcv"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 232801,
+      "name": "Solo Un D\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
         "name": "Ya Aprend\u00ed la Lecci\u00f3n",
         "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 232801,
-      "name": "Solo Un D\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Vive Y Dejame Vivir",
-        "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        }
-      ],
-      "duration_ms": 175511,
-      "name": "El H",
-      "url": "https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Cuervo Sierra",
         "url": "https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 175674,
       "name": "Cuervo Sierra",
       "url": "https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Vive Y Dejame Vivir",
+        "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "duration_ms": 175511,
+      "name": "El H",
+      "url": "https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1943,6 +1943,22 @@
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/6V6lgegjsKlcbBcJWmIz2S"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "El Fugitivo",
+        "url": "https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "El Fugitivo - En vivo",
+      "url": "https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1995,22 +2011,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Los Corridos Favoritos Del Jefe",
-        "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "El Bazucazo",
-      "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "15 Exitos Originales",
         "url": "https://open.spotify.com/album/4Z45H8FuupXcq2xi2FAH41"
       },
@@ -2023,6 +2023,22 @@
       "duration_ms": 199640,
       "name": "El Palomito",
       "url": "https://open.spotify.com/track/776iIxEhuk4pjMl33PVQhT"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Los Corridos Favoritos Del Jefe",
+        "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "El Bazucazo",
+      "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -2055,22 +2071,6 @@
       "duration_ms": 146466,
       "name": "Mi Amigo el de Arriba",
       "url": "https://open.spotify.com/track/7kKwLwJJaxQXo2quoupbDh"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
-        "name": "El Fugitivo",
-        "url": "https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "El Fugitivo - En vivo",
-      "url": "https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA"
     },
     {
       "added_at": "2024-01-15 19:02:59",

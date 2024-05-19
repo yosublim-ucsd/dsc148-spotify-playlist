@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 173880,
       "name": "Happy Tears",
       "url": "https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF"
@@ -2646,6 +2646,24 @@
       "duration_ms": 270585,
       "name": "pray",
       "url": "https://open.spotify.com/track/1J5OjPvIbCfn1QO3oZSu6J"
+    },
+    {
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/1DR3SrjL4u4y59DuIjWnlG"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286432,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0oc1bsAWCjIxDOzmHPBgYP"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 73942,
+  "num_followers": 74101,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 186567,
-      "name": "Oogum Boogum Song",
-      "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Oh Honey",
         "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 356200,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 186567,
+      "name": "Oogum Boogum Song",
+      "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Duke Of Earl",
         "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 147841,
       "name": "Duke of Earl",
       "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Thin Line Between Love & Hate: Golden Classics",
-        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
       "artists": [
         {
-          "name": "The Persuaders",
-          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
         }
       ],
-      "duration_ms": 207653,
-      "name": "Thin Line Between Love and Hate",
-      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
+      "duration_ms": 249866,
+      "name": "I Want to Be Your Man",
+      "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+        "name": "Thin Line Between Love & Hate: Golden Classics",
+        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
       },
       "artists": [
         {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+          "name": "The Persuaders",
+          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
         }
       ],
-      "duration_ms": 249866,
-      "name": "I Want to Be Your Man",
-      "url": "https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3"
+      "duration_ms": 207653,
+      "name": "Thin Line Between Love and Hate",
+      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+        "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
       },
       "artists": [
         {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+          "name": "Joey Quinones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
         }
       ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+      "duration_ms": 233430,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1083,34 +1083,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Don't Tell Me",
-        "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
       "artists": [
         {
-          "name": "Joey Quinones",
-          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 233430,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 166732,
-      "name": "Two Lovers",
-      "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1127,6 +1111,22 @@
       "duration_ms": 197826,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 166732,
+      "name": "Two Lovers",
+      "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Super Slow Jams Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6oW2SrZ4ZQHby7KOxiPa5i"
-      },
-      "artists": [
-        {
-          "name": "Sly, Slick & Wicked",
-          "url": "https://open.spotify.com/artist/1OXS79e5AMBp2DKWcCbOUp"
-        }
-      ],
-      "duration_ms": 414333,
-      "name": "Confessin a Feeling",
-      "url": "https://open.spotify.com/track/07UmYkMtFFDzvAaEHrmpis"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Dedicated to the Ones I Love, Vol. 2",
         "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 231360,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Super Slow Jams Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6oW2SrZ4ZQHby7KOxiPa5i"
+      },
+      "artists": [
+        {
+          "name": "Sly, Slick & Wicked",
+          "url": "https://open.spotify.com/artist/1OXS79e5AMBp2DKWcCbOUp"
+        }
+      ],
+      "duration_ms": 414333,
+      "name": "Confessin a Feeling",
+      "url": "https://open.spotify.com/track/07UmYkMtFFDzvAaEHrmpis"
     },
     {
       "added_at": "2024-01-05 17:02:31",

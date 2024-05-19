@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,791 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,848 likes - 44 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 9 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 |
 | 10 | [i swear i'll never leave again](https://open.spotify.com/track/5byXSKd7QOHtVMOiptklBD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 2:53 |
 | 11 | [skeletons](https://open.spotify.com/track/2BuJrxYKhYky20dQqTlobO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:32 |
-| 12 | [blue](https://open.spotify.com/track/21yCOhgaDMc0KEtxhZHTbI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:58 |
-| 13 | [WESTSIDE](https://open.spotify.com/track/60bAuEmJQfzeDV1B84H4xY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:04 |
+| 12 | [WESTSIDE](https://open.spotify.com/track/60bAuEmJQfzeDV1B84H4xY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:04 |
+| 13 | [blue](https://open.spotify.com/track/21yCOhgaDMc0KEtxhZHTbI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:58 |
 | 14 | [B.Y.S.](https://open.spotify.com/track/2yyluSgySg95O24RBkgrMR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:45 |
 | 15 | [it kills me](https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [it kills me](https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU) | 2:35 |
-| 16 | [right here](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:15 |
-| 17 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
+| 16 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 |
+| 17 | [right here](https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:15 |
 | 18 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
-| 19 | [HELL/HEAVEN](https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:40 |
-| 20 | [alright](https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:48 |
-| 21 | [summer](https://open.spotify.com/track/0LqCvXVNvcnkq78sCQsoO0) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:45 |
+| 19 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
+| 20 | [HELL/HEAVEN](https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:40 |
+| 21 | [alright](https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:48 |
 | 22 | [us](https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 4:08 |
 | 23 | [the reaper](https://open.spotify.com/track/4vHoOPIlILceWMPGY5XEmJ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:18 |
 | 24 | [ANGEL](https://open.spotify.com/track/0srUf03MHZ4cbOO4o2ydDu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 4:07 |
@@ -41,17 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 31 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 |
 | 32 | [atlas](https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:51 |
 | 33 | [good days](https://open.spotify.com/track/6P0jAi154fKuksoKN6ePcR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 3:48 |
-| 34 | [MILLI](https://open.spotify.com/track/4mMZANpFSbc19Ts4DpL763) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:15 |
-| 35 | [over u](https://open.spotify.com/track/6dMnsLoJPFfXIxcsDqjGiZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [over u](https://open.spotify.com/album/0ldYR1JTxCkRm1V6F8w8mS) | 2:59 |
-| 36 | [they don't fly as high as they used to](https://open.spotify.com/track/38YOfFkows6ZZDGyNOBn2B) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 1:12 |
-| 37 | [don't leave](https://open.spotify.com/track/4QNofaokr9HLlDR685RkMS) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/34kgbmk0mmFjw8gzyVbQCL) | 2:08 |
-| 38 | [GODSPLAN](https://open.spotify.com/track/6aytsGpo91kYvyiT0qZca3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 3:21 |
-| 39 | [as long as it takes you](https://open.spotify.com/track/2XpmzywSGH1OILU0mxSHBy) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [as long as it takes you](https://open.spotify.com/album/1nzIbvvf8iYCk3WPdAhSfG) | 3:05 |
-| 40 | [Sociopath](https://open.spotify.com/track/4DAcGCqgdTk02tDMx92sfx) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:15 |
-| 41 | [goes to waste](https://open.spotify.com/track/3bPoXD94h9nopjEUeqdb97) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:16 |
-| 42 | [say something](https://open.spotify.com/track/3KJ9yTHwvalMuXApcjxCNH) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 2:12 |
-| 43 | [Saturnine](https://open.spotify.com/track/3BdxidJwgCBlmjCz5LvQ6t) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Celestial Angel](https://open.spotify.com/album/3rfmrinQxC9YQg14nfsqe6) | 2:50 |
-| 44 | [right here \- Snakehips Remix](https://open.spotify.com/track/3sdlYdbl8AHkhhRsyDpVV1) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:00 |
-| 45 | [if you're not the one for me who is](https://open.spotify.com/track/4g24R4qNnOy1stBY5uIIAa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:50 |
+| 34 | [over u](https://open.spotify.com/track/6dMnsLoJPFfXIxcsDqjGiZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [over u](https://open.spotify.com/album/0ldYR1JTxCkRm1V6F8w8mS) | 2:59 |
+| 35 | [they don't fly as high as they used to](https://open.spotify.com/track/38YOfFkows6ZZDGyNOBn2B) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 1:12 |
+| 36 | [don't leave](https://open.spotify.com/track/4QNofaokr9HLlDR685RkMS) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/34kgbmk0mmFjw8gzyVbQCL) | 2:08 |
+| 37 | [GODSPLAN](https://open.spotify.com/track/6aytsGpo91kYvyiT0qZca3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 3:21 |
+| 38 | [as long as it takes you](https://open.spotify.com/track/2XpmzywSGH1OILU0mxSHBy) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [as long as it takes you](https://open.spotify.com/album/1nzIbvvf8iYCk3WPdAhSfG) | 3:05 |
+| 39 | [Sociopath](https://open.spotify.com/track/4DAcGCqgdTk02tDMx92sfx) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:15 |
+| 40 | [goes to waste](https://open.spotify.com/track/3bPoXD94h9nopjEUeqdb97) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:16 |
+| 41 | [say something](https://open.spotify.com/track/3KJ9yTHwvalMuXApcjxCNH) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 2:12 |
+| 42 | [Saturnine](https://open.spotify.com/track/3BdxidJwgCBlmjCz5LvQ6t) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Celestial Angel](https://open.spotify.com/album/3rfmrinQxC9YQg14nfsqe6) | 2:50 |
+| 43 | [right here \- Snakehips Remix](https://open.spotify.com/track/3sdlYdbl8AHkhhRsyDpVV1) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:00 |
+| 44 | [if you're not the one for me who is](https://open.spotify.com/track/4g24R4qNnOy1stBY5uIIAa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:50 |
 
-Snapshot ID: `ZkVMgAAAAAA9IlqOM1sFzMr1tymJTLjx`
+Snapshot ID: `ZkaeAAAAAACH2IqSIUOLqZA7jpRMT0Qk`

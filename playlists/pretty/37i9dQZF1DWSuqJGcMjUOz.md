@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,238 likes - 110 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,245 likes - 110 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 64 | [Amours d'Été \- A COLORS SHOW](https://open.spotify.com/track/71VXltT0nT6itsGMNNwpKv) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [Amours d'Été \- A COLORS SHOW](https://open.spotify.com/album/41oaIEobQQ0fodC8e0DK1q) | 2:51 |
 | 65 | [Maintenant ou jamais](https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:24 |
 | 66 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 |
-| 67 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
-| 68 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
+| 67 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
+| 68 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
 | 69 | [Derrière le jour](https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Du feu dans les lilas](https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V) | 3:31 |
 | 70 | [Erreur](https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Erreur](https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7) | 3:19 |
 | 71 | [Onze](https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:10 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 98 | [Après la nuit](https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [J'ai brodé mon cœur](https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP) | 0:34 |
 | 99 | [J'en raffole](https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d) | [Kelzk](https://open.spotify.com/artist/5KwQXiLnoAoMPNKsVfOxLz), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'en raffole](https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa) | 3:45 |
 | 100 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
-| 101 | [Sorry](https://open.spotify.com/track/6p84e47BuGYmh282V13y4H) | [Dylan Dylan](https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY), [Emma Wizz](https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE) | [Sorry](https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo) | 3:43 |
-| 102 | [un grand plat de riz](https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg) | [Témé Tan](https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW) | [Quand il est seul](https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK) | 3:27 |
+| 101 | [un grand plat de riz](https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg) | [Témé Tan](https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW) | [Quand il est seul](https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK) | 3:27 |
+| 102 | [Sorry](https://open.spotify.com/track/6p84e47BuGYmh282V13y4H) | [Dylan Dylan](https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY), [Emma Wizz](https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE) | [Sorry](https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo) | 3:43 |
 | 103 | [Où est passé mon contour](https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1) | [Sandra Contour](https://open.spotify.com/artist/2HqHdeGxArnQWvcEz57v4H) | [Où est passé mon contour](https://open.spotify.com/album/14179pvxliO47am5SkoCLw) | 3:01 |
 | 104 | [Plage](https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Holistique](https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM) | 3:13 |
 | 105 | [Ailleurs](https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Elle était une fois](https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ) | 2:51 |

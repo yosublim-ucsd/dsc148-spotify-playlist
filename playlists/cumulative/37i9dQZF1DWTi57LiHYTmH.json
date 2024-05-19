@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 171397,
       "name": "Being",
       "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
@@ -1696,6 +1696,40 @@
       "duration_ms": 385106,
       "name": "Dvor\u00e1k: Song to the Moon (from Rusalka)",
       "url": "https://open.spotify.com/track/66mLVHPZvRtTELZ6q7Z22d"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/09TIZ4XM46PFxq133GoFMq"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
+        {
+          "name": "Emma Arizza",
+          "url": "https://open.spotify.com/artist/0WgVgJxAS1nxeFA2VbgqVQ"
+        },
+        {
+          "name": "Martha Mitu",
+          "url": "https://open.spotify.com/artist/16f5UJYmvUvIeuzc2aZ0Nr"
+        },
+        {
+          "name": "Caleb Sibley",
+          "url": "https://open.spotify.com/artist/1u4cVtBaH8O07X2yGOeFZ8"
+        },
+        {
+          "name": "Tom Huet",
+          "url": "https://open.spotify.com/artist/7yxSrHsuGTHYCojXgelDci"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147264,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/3mKYC2wJ8TOMqbCJYNunr2"
     },
     {
       "album": {

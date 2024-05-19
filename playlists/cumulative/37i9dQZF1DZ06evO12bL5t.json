@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "LC Farmz",
+        "url": "https://open.spotify.com/album/3g0RbWxKKblUCqujoPGCas"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164576,
+      "name": "LC Farmz",
+      "url": "https://open.spotify.com/track/7yTBJsvM1cM1uQ4pkrrPGr"
+    },
+    {
+      "album": {
         "name": "Llegue Pa Hacer Billetes",
         "url": "https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt"
       },

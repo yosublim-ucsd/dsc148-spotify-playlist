@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: LiSA
 
-653 songs - 1 day 19 hr 38 min
+654 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [S.O.S](https://open.spotify.com/track/0PQq6VYNSo9jWPwMBr1JLr) | [sweet ARMS](https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae) | [TVアニメ「デート・ア・ライブIV」エンディング・テーマ「S.O.S」](https://open.spotify.com/album/5EHoQqsyT6u2OjSkuSSOEd) | 4:28 | 2022-06-09 | 2022-07-20 |
 | [salvation](https://open.spotify.com/track/2AbocYmJLREUEZlSBkbsAe) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [salvation](https://open.spotify.com/album/5JOp4contbA28JuaELOKQW) | 3:24 | 2022-06-09 | 2022-07-18 |
 | [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 | 2024-02-13 | 2024-04-19 |
-| [Scarlet](https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Scarlet](https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh) | 3:19 | 2024-02-13 |  |
+| [Scarlet](https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Scarlet](https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh) | 3:19 | 2024-02-13 | 2024-05-19 |
 | [selfish](https://open.spotify.com/track/0PjnMsqLESCjo6RLd5qLgo) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」エンディングテーマ「selfish」](https://open.spotify.com/album/5Qgz3sULal1qqcknzY8sIa) | 3:52 | 2022-07-07 | 2022-07-21 |
 | [Semisweet Afternoon](https://open.spotify.com/track/59OmHVwYr8orJMmlAyZql1) | [結城アイラ](https://open.spotify.com/artist/0O5WwSQoEqxts7FFBDsB6E) | [Semisweet Afternoon](https://open.spotify.com/album/6PXXvzAOONjb8vnI09qoxM) | 3:36 | 2023-10-03 | 2023-10-18 |
 | [Senko \- From CrosSing](https://open.spotify.com/track/2ua31MC3Ke9ZTD4aS1WfGL) | [Aiba Aina](https://open.spotify.com/artist/5OEms8XfqmrL4IwzxYdHo0) | [Senko \- From CrosSing](https://open.spotify.com/album/2DMWOvhu0Q4EL4nJWA6XyK) | 4:23 | 2023-05-16 | 2023-05-26 |
@@ -631,6 +631,7 @@
 | [花のように](https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [花のように](https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u) | 4:08 | 2023-01-12 | 2023-02-08 |
 | [花咲み](https://open.spotify.com/track/0iL43uP0m7L7sxNR98b8nv) | [シルフィエット\(CV:茅野愛衣\)](https://open.spotify.com/artist/5qwOxDQBdp2fnlw7vME5EV) | [花咲み](https://open.spotify.com/album/6sRuu9wQIxxmBkcCVJM9rW) | 5:09 | 2023-09-26 | 2023-10-18 |
 | [菫](https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:57 | 2022-06-14 | 2022-07-15 |
+| [誰にもなれない私だから](https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [誰にもなれない私だから](https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s) | 3:09 | 2024-04-23 |  |
 | [誰彼スクランブル](https://open.spotify.com/track/0psSjxGt2lNnWYhZLLqBT6) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [誰彼スクランブル](https://open.spotify.com/album/3riDcXmPfyF8WRyiFUJOo3) | 4:28 | 2022-07-07 | 2022-07-25 |
 | [負けイベ実況プレイ](https://open.spotify.com/track/7KRcAcbxPVrQLHouMK9hvB) | [15才](https://open.spotify.com/artist/2kB1cnoc2xQmt7CUciONPZ), [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [負けイベ実況プレイ](https://open.spotify.com/album/1TGTkkNtcGIlM2q3V2gp9L) | 3:28 | 2022-06-21 | 2022-06-25 |
 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 | 2023-10-10 | 2024-02-14 |

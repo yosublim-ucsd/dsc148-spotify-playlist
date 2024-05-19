@@ -2626,7 +2626,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 141176,
       "name": "Flexible",
       "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
@@ -3786,6 +3786,24 @@
       "duration_ms": 246732,
       "name": "How Would It Feel",
       "url": "https://open.spotify.com/track/1EWwnTRGvdt3GGknXegkZS"
+    },
+    {
+      "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149966,
+      "name": "Hurts Me To Know",
+      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
     },
     {
       "album": {

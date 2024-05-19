@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,101 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,117 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 7 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 8 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 |
 | 9 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
-| 10 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
-| 11 | [Small Talk About Everything](https://open.spotify.com/track/68lrtGou1rovK9aYHlr660) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Small Talk About Everything](https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX) | 4:10 |
+| 10 | [Small Talk About Everything](https://open.spotify.com/track/68lrtGou1rovK9aYHlr660) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Small Talk About Everything](https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX) | 4:10 |
+| 11 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
 | 12 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 |
 | 13 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 |
 | 14 | [Dreams in summer night](https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:57 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 36 | [A long dream \(Full Ver.\)](https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi) | [ThorThor](https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V) | [Zombie daughter \(Original Soundtrack\) : A long dream](https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd) | 3:33 |
 | 37 | [Storing Nights](https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:59 |
 | 38 | [Lullaby](https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:24 |
-| 39 | [Excuse](https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:07 |
-| 40 | [Don′t Move Away](https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Don't Move Away \(WEBTOON 'Good Doctor' X KIM JAE HYUNG\)](https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr) | 3:55 |
+| 39 | [Don′t Move Away](https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Don't Move Away \(WEBTOON 'Good Doctor' X KIM JAE HYUNG\)](https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr) | 3:55 |
+| 40 | [Excuse](https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:07 |
 | 41 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 |
 | 42 | [Down](https://open.spotify.com/track/7hRhNpXVmoWicHNmgXcF3j) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [MY ONLY 1 \(Original Soundtrack from the WEBTOON\)](https://open.spotify.com/album/26kWAzpUA7EQyimA0Fxbqx) | 3:53 |
 | 43 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 47 | [Note](https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [When the dawn calls me abruptly](https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt) | 2:51 |
 | 48 | [Long long night](https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [Long long night](https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy) | 2:46 |
 | 49 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 |
-| 50 | [Good Night](https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [Good Night](https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ) | 3:51 |
+| 50 | [Sparkling Sunshine](https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [남해](https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G) | 4:07 |
 
 Snapshot ID: `ZeqzVgAAAABbzNPb12KKO0L73IFtixz/`

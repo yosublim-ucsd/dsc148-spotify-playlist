@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 149797,
+  "num_followers": 149838,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Surviving The Wasteland",
-        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
       "artists": [
         {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
         }
       ],
-      "duration_ms": 198500,
-      "name": "Surviving The Wasteland",
-      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
+        "name": "Surviving The Wasteland",
+        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
       },
       "artists": [
         {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
         }
       ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
+      "duration_ms": 198500,
+      "name": "Surviving The Wasteland",
+      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Pariah",
-        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
-      },
-      "artists": [
-        {
-          "name": "Glasslands",
-          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
-        },
-        {
-          "name": "Ryan Kirby",
-          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
-        }
-      ],
-      "duration_ms": 237522,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 204942,
       "name": "What I've Become",
       "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
+      },
+      "artists": [
+        {
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
+        },
+        {
+          "name": "Ryan Kirby",
+          "url": "https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h"
+        }
+      ],
+      "duration_ms": 237522,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
     },
     {
       "added_at": "2024-05-10 04:01:29",

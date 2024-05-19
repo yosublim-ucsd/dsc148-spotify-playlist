@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u5011\u4e00\u8d77\u52aa\u529b\u4e86\u90a3\u9ebc\u4e45\uff0c\u6700\u5f8c\u537b\u9084\u662f\u6557\u7d66\u4e0d\u9069\u5408\u3002",
-  "num_followers": 185611,
+  "num_followers": 185614,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "\u9006\u5149",
-        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "\u6211\u61f7\u5ff5\u7684",
-      "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
-    },
-    {
-      "added_at": "2024-04-11 05:48:57",
-      "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
+    },
+    {
+      "added_at": "2024-04-11 05:48:57",
+      "album": {
+        "name": "\u9006\u5149",
+        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "\u6211\u61f7\u5ff5\u7684",
+      "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
     },
     {
       "added_at": "2024-04-11 05:48:57",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
+        "name": "\u521d\u5b78\u8005",
+        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
       },
       "artists": [
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+          "name": "Joker Xue",
+          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
         }
       ],
-      "duration_ms": 260878,
-      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
+      "duration_ms": 250482,
+      "name": "\u525b\u525b\u597d",
+      "url": "https://open.spotify.com/track/3urogUGoBidulMDDoucJBB"
     },
     {
       "added_at": "2024-04-11 05:48:57",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "\u521d\u5b78\u8005",
-        "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
+        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
       },
       "artists": [
         {
-          "name": "Joker Xue",
-          "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
         }
       ],
-      "duration_ms": 250482,
-      "name": "\u525b\u525b\u597d",
-      "url": "https://open.spotify.com/track/3urogUGoBidulMDDoucJBB"
+      "duration_ms": 260878,
+      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
     },
     {
       "added_at": "2024-04-11 05:48:57",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "\u5927\u4eba\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh"
+        "name": "\u4e0d\u53ea\u662f\u670b\u53cb",
+        "url": "https://open.spotify.com/album/5YSeaPHcEESyJpm46PfGyZ"
       },
       "artists": [
         {
-          "name": "Eve Ai",
-          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+          "name": "\u9ec3\u5c0f\u7425",
+          "url": "https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz"
         }
       ],
-      "duration_ms": 294207,
-      "name": "\u6211\u4e0d\u77e5\u9053\u611b\u662f\u4ec0\u9ebc",
-      "url": "https://open.spotify.com/track/5YAiIE4ZGVFdK3LexsFej6"
+      "duration_ms": 304260,
+      "name": "\u4e0d\u53ea\u662f\u670b\u53cb",
+      "url": "https://open.spotify.com/track/1c434f7py7OHmi7qPxly5R"
     }
   ],
   "unique_name": "\u60b2\u50b7\u91cb\u653e",

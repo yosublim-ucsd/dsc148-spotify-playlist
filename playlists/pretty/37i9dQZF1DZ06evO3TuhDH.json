@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 16165,
+  "num_followers": 16172,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAACG4UnagLTSFmR8orgaauo0",
+  "snapshot_id": "ZkaeAAAAAADwLVcoUW2GtIxqMq0D8N2D",
   "tracks": [
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanna Come Thru",
-        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        }
-      ],
-      "duration_ms": 131900,
-      "name": "Wanna Come Thru",
-      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B.I.B.L.E.",
         "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 201398,
       "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No More Parties (Remix)",
+        "url": "https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "No More Parties - Remix",
+      "url": "https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bops",
         "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
       },
@@ -375,6 +395,22 @@
       "duration_ms": 128666,
       "name": "Bops",
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": null,
@@ -571,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
+        "name": "Fly Sh!t",
+        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
       },
       "artists": [
         {
@@ -580,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 157800,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
+      "duration_ms": 135133,
+      "name": "Fly Sh!t",
+      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
       "added_at": null,
@@ -607,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ"
       },
       "artists": [
         {
@@ -616,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
+      "duration_ms": 157800,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
     },
     {
       "added_at": null,
@@ -783,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trendsetter",
         "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
       },
@@ -851,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
+        "name": "Involved",
+        "url": "https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv"
       },
       "artists": [
         {
@@ -860,9 +880,33 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 152800,
-      "name": "Wicked Butterflies",
-      "url": "https://open.spotify.com/track/4B2DEH1EMgNRU9LuoZkeKJ"
+      "duration_ms": 180880,
+      "name": "Involved",
+      "url": "https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Karlae",
+          "url": "https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "I Like (feat. Karlae & Coi Leray)",
+      "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
     },
     {
       "added_at": null,
@@ -883,6 +927,22 @@
       "duration_ms": 152186,
       "name": "Sex So Good (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/40mQXYRIZl7c8Of0mfnRBC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 152800,
+      "name": "Wicked Butterflies",
+      "url": "https://open.spotify.com/track/4B2DEH1EMgNRU9LuoZkeKJ"
     },
     {
       "added_at": null,
@@ -931,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 97866,
-      "name": "Isabel Marant",
-      "url": "https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAIN?",
         "url": "https://open.spotify.com/album/3thS5m3xP8MgMarJwi9IAD"
       },
@@ -967,66 +1011,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
       },
       "artists": [
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         }
       ],
-      "duration_ms": 149862,
-      "name": "Better Days (feat. Fetty Wap)",
-      "url": "https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 210374,
-      "name": "I Like It (feat. Kiana Lede & Sevyn Streeter)",
-      "url": "https://open.spotify.com/track/6C1yG7dmGZQcIxtHADDLeS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Aye Yai Yai (with Yung Bleu)",
-      "url": "https://open.spotify.com/track/2QODQZUTSvhdAdXvQO418e"
+      "duration_ms": 97866,
+      "name": "Isabel Marant",
+      "url": "https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj"
     }
   ],
   "unique_name": "This Is Coi Leray",

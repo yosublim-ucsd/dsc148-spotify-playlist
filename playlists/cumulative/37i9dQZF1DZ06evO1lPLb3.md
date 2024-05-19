@@ -2,9 +2,9 @@
 
 ### [This Is Peggy Gou](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3)
 
-> This is Peggy Gou\. The essential tracks, all in one playlist.
+> This Is Peggy Gou\. Los temas esenciales, todos en una lista.
 
-37 songs - 3 hr 19 min
+38 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Jen High \- Original Mix](https://open.spotify.com/track/7AcjdWBhsM0pcYlm3go9Nu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War \(Part II\) EP](https://open.spotify.com/album/1awGHXEnKEn40VYbXFoE16) | 6:27 | 2023-05-02 | 2023-12-14 |
 | [Jigoo \- Radio Edit](https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Jigoo \(Radio Edit\)](https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf) | 4:03 | 2023-12-13 |  |
 | [Jigoo \- Radio Edit](https://open.spotify.com/track/715vRxcbV6UakGuKFn84e5) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Jigoo](https://open.spotify.com/album/4aUmoAbT4my3dfPQTYUlOJ) | 4:03 | 2023-05-02 | 2023-12-14 |
+| [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 | 2024-05-19 |  |
 | [Maktoop](https://open.spotify.com/track/7iIzRv3H2BtA03xuAmxiOu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:54 | 2023-05-02 |  |
 | [Nabi \(feat\. OHHYUK\)](https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi \(feat\. Ohhyuk\)](https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA) | 3:52 | 2023-12-13 |  |
 | [Nabi feat\. OHHYUK](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi feat\. OHHYUK](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2023-05-02 | 2023-12-14 |

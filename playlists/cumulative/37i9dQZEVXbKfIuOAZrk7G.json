@@ -14317,6 +14317,24 @@
     },
     {
       "album": {
+        "name": "Valedictorian",
+        "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94619,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4rHsZed1xDsqr92JPLlxxo"
+    },
+    {
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q"
       },
@@ -14328,7 +14346,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 94666,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la"
@@ -17192,6 +17210,24 @@
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+    },
+    {
+      "album": {
+        "name": "Valedictorian",
+        "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "Grand Slam",
+      "url": "https://open.spotify.com/track/4Cp8qjyEzCAkUBlfCz9mam"
     },
     {
       "album": {
@@ -25736,7 +25772,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"

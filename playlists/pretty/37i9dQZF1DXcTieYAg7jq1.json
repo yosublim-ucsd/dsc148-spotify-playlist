@@ -1,6 +1,6 @@
 {
   "description": "Featuring that new vintage. Cover: Lake Street Dive",
-  "num_followers": 413460,
+  "num_followers": 413487,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
@@ -15,6 +15,10 @@
         "url": "https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB"
       },
       "artists": [
+        {
+          "name": "Original Cast of Stereophonic",
+          "url": "https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9"
+        },
         {
           "name": "Sarah Pidgeon",
           "url": "https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila"
@@ -42,10 +46,6 @@
         {
           "name": "Justin Craig",
           "url": "https://open.spotify.com/artist/7vEryrK6GxnOKI3sGyPjHN"
-        },
-        {
-          "name": "Original Cast of Stereophonic",
-          "url": "https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9"
         }
       ],
       "duration_ms": 288973,

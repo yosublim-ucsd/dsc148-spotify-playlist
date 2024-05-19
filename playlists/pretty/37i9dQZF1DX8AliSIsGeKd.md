@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Oliver Huntemann, Marc Romboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,361 likes - 90 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,527 likes - 90 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 10 | [Let's Get Lost \(Freudenthal Remix\)](https://open.spotify.com/track/0Yj1pI5SKwMcobJvZLJevt) | [Vanillaz](https://open.spotify.com/artist/24gnQWn25ndZMSOoE1p0yL), [Freudenthal](https://open.spotify.com/artist/3xTDSsj9rjyK8ELIYmUJk7) | [Let's Get Lost \(Freudenthal Remix\)](https://open.spotify.com/album/11h0wfW7fw7o2K5ilxbWkl) | 7:05 |
 | 11 | [Barca Boys](https://open.spotify.com/track/10cmMscRDEDQhnDA19S4vW) | [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q), [Marc Werner](https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr) | [Barca Boys](https://open.spotify.com/album/7kX4QsbM7CGokGp7tAjB13) | 6:19 |
 | 12 | [Love The Lows](https://open.spotify.com/track/7zMdkX1VNdKgSJPEti8OwT) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Love The Lows](https://open.spotify.com/album/50JKpF36EA6xWYomnonM8E) | 3:11 |
-| 13 | [New Generation](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
+| 13 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
 | 14 | [House Anthem](https://open.spotify.com/track/155dl8ITrVUipEUGnJ4SOq) | [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Exciter EP](https://open.spotify.com/album/2KSfWKqnb68mwhMchuTFnk) | 5:35 |
 | 15 | [Queen's Gambit](https://open.spotify.com/track/1Xspvf3cDTzevSzTLmxop3) | [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Queen's Gambit](https://open.spotify.com/album/6rDGp7D3g7YfdrHy7VGKDC) | 3:38 |
 | 16 | [Wabb Bodun \- Andre Kronert Remix](https://open.spotify.com/track/3DZnDgjefIykt5xOLZ4Wqz) | [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI), [Andre Kronert](https://open.spotify.com/artist/79cXluC4uiLHCejmM34tuI) | [Wabb Bodun Remixes](https://open.spotify.com/album/1w38tYZOBr6tY23Qq9XO9X) | 6:33 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 21 | [Agast](https://open.spotify.com/track/4vb2AcJWkjAsMw3zixI1U5) | [Ceas](https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM) | [Agast](https://open.spotify.com/album/68SSxUgEInqNxQmk3OpBpP) | 4:04 |
 | 22 | [Don't Know](https://open.spotify.com/track/2HCR2yEvjyhkNqGeoXW48v) | [NRMNT](https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA) | [Don't Know](https://open.spotify.com/album/3FrdYpE73Emz6bKKuejRlz) | 4:40 |
 | 23 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
-| 24 | [Drop Out \- Karla Blum Remix](https://open.spotify.com/track/7m5efjUaZHHe9dwgTPdEqo) | [Jan Oberlaender](https://open.spotify.com/artist/5dHNRKuv0Zd6Lcxlw8oKtj), [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Drop Out \(Karla Blum Remix\)](https://open.spotify.com/album/4FHN9LpwyiocOBJ1sJaclj) | 5:49 |
+| 24 | [Drop Out \- Karla Blum Remix](https://open.spotify.com/track/7m5efjUaZHHe9dwgTPdEqo) | [Jan Oberlaender](https://open.spotify.com/artist/5dHNRKuv0Zd6Lcxlw8oKtj), [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Drop Out \(Karla Blum Remix\)](https://open.spotify.com/album/4FHN9LpwyiocOBJ1sJaclj) | 3:53 |
 | 25 | [The Drums](https://open.spotify.com/track/0LkCdNPNWznYz5MwjkW1fO) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [Nina De Koning](https://open.spotify.com/artist/3jIwop6vbrZgbdqh03yNEd) | [The Drums](https://open.spotify.com/album/4dNvlprhgeHh0dsDCmQUiQ) | 5:15 |
 | 26 | [Galaxy](https://open.spotify.com/track/0xT7FuhcTK7fbe6IqX3bKq) | [NTMTR](https://open.spotify.com/artist/3zH3mqTvgpe0BTbZ17B4EI) | [Galaxy](https://open.spotify.com/album/4XrUQ7FNH5PXrsbcWI38az) | 6:43 |
 | 27 | [Etereo](https://open.spotify.com/track/2d5O2oNiHbDX6NnZm3BSfh) | [Fireground](https://open.spotify.com/artist/0ddxBl1iyyAs79zjt7YRsJ) | [Etereo](https://open.spotify.com/album/61TQKs1dxxmCxzAMCJoCVp) | 5:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Gratulerer med dagen! 🇳🇴 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,260 likes - 104 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,299 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 83 | [Touch Heaven](https://open.spotify.com/track/5moo1lAxK6Ly0fH788InU4) | [Infernal](https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k) | [Touch Heaven](https://open.spotify.com/album/1Dd9nN9VbWpwG22Q10XaFO) | 3:00 |
 | 84 | [Hold On](https://open.spotify.com/track/4cnyfBK4kHLeu0qL4mc6K5) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp), [A Song For You](https://open.spotify.com/artist/4P3LplvLge34bs0R6bQ7kP) | [Mimose \(Deluxe\)](https://open.spotify.com/album/21e4O4CzRQgo5HnmCryTjZ) | 3:51 |
 | 85 | [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 |
-| 86 | [One](https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd) | 9:34 |
+| 86 | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [James Hetfield](https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16) | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd) | 9:34 |
 | 87 | [Hang On](https://open.spotify.com/track/1Yzkeg4AIn65PAIcM3AFzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Hang On](https://open.spotify.com/album/3Rhkg7UzUtz67mLXole1al) | 3:01 |
 | 88 | [Save A Prayer](https://open.spotify.com/track/1tXMYBQaoD1U6QsLSYcz5M) | [Axel Johansson](https://open.spotify.com/artist/2xW3pBjCngD69hC1wIUgjA) | [Save A prayer](https://open.spotify.com/album/2lldQpuKezpufeAif3I0j5) | 2:43 |
 | 89 | [Good Times](https://open.spotify.com/track/0CXs85WxeFgxLOOnmYGoAk) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Good Times](https://open.spotify.com/album/5NzBt1gMEkDAs3MlZMgHur) | 3:09 |

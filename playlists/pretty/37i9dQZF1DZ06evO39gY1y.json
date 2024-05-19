@@ -1,12 +1,12 @@
 {
-  "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
-  "num_followers": 222569,
+  "description": "This is Charles Ans. The essential tracks, all in one playlist.",
+  "num_followers": 222631,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAACls6svjLL9/eGZTtRhe3IZ",
+  "snapshot_id": "ZkaeAAAAAABXKls3T8JvzheVGQg/SPw5",
   "tracks": [
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Tardes",
+      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00d3rbitas",
         "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 209737,
       "name": "Ma\u00f1ana Vas a Estar Ausente",
       "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Tardes",
-      "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Villana",
         "url": "https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 198787,
       "name": "Villana",
       "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
     },
     {
       "added_at": null,
@@ -1007,30 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo Miedo",
-        "url": "https://open.spotify.com/album/6MqquyaLM3s2ZzsOkqlqvJ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/1JltihDGLZn3siAOSbLbZz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suave",
         "url": "https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv"
       },
@@ -1067,6 +1043,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tengo Miedo",
+        "url": "https://open.spotify.com/album/6MqquyaLM3s2ZzsOkqlqvJ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/1JltihDGLZn3siAOSbLbZz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00d3rbitas",
         "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
       },
@@ -1091,22 +1091,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llamando A Tu Fon",
-        "url": "https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7"
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
         },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 207037,
-      "name": "Llamando A Tu Fon",
-      "url": "https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT"
+      "duration_ms": 207000,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
     }
   ],
   "unique_name": "This Is Charles Ans",

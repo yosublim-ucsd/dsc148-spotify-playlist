@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 514846,
+  "num_followers": 514895,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Best Of Chick Corea",
-        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
       },
       "artists": [
         {
           "name": "Chick Corea",
           "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Malcolm Addey",
-          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
         }
       ],
-      "duration_ms": 216706,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
+      "duration_ms": 541680,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -435,18 +431,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
+        "name": "The Best Of Chick Corea",
+        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
       },
       "artists": [
         {
           "name": "Chick Corea",
           "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Malcolm Addey",
+          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
         }
       ],
-      "duration_ms": 541680,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
+      "duration_ms": 216706,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -671,18 +671,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+        "name": "Fantasia Cubana: Variations On Classical Themes",
+        "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+      "duration_ms": 270066,
+      "name": "Chopin: Prelude In E-Minor",
+      "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -703,22 +707,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Fantasia Cubana: Variations On Classical Themes",
-        "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Chopin: Prelude In E-Minor",
-      "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Trane's Delight",
+        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 353840,
+      "name": "Soul Bourgeoisie",
+      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 320480,
       "name": "Solo Esta Soledad",
       "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 353840,
-      "name": "Soul Bourgeoisie",
-      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+        "name": "Keeper Of The Flame",
+        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
         }
       ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+      "duration_ms": 247693,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -915,6 +915,22 @@
       "duration_ms": 412133,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -955,42 +971,6 @@
       "duration_ms": 290847,
       "name": "Que Bonita Bandera",
       "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Keeper Of The Flame",
-        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Meetings",
-        "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
-      },
-      "artists": [
-        {
-          "name": "Adrien Brandeis",
-          "url": "https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1"
-        },
-        {
-          "name": "Orlando Poleo",
-          "url": "https://open.spotify.com/artist/0VNkHMk153dbnBF7MbzUOX"
-        }
-      ],
-      "duration_ms": 369797,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1039,6 +1019,26 @@
       "duration_ms": 238786,
       "name": "Milonga gris",
       "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Meetings",
+        "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
+      },
+      "artists": [
+        {
+          "name": "Adrien Brandeis",
+          "url": "https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1"
+        },
+        {
+          "name": "Orlando Poleo",
+          "url": "https://open.spotify.com/artist/0VNkHMk153dbnBF7MbzUOX"
+        }
+      ],
+      "duration_ms": 369797,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Havana Nocturne (Latin Jazz Vocal)",
-        "url": "https://open.spotify.com/album/7610lSB81OET6JFHaahIp7"
-      },
-      "artists": [
-        {
-          "name": "Aym\u00e9e Nuviola",
-          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
-        },
-        {
-          "name": "Kemuel Roig",
-          "url": "https://open.spotify.com/artist/1ZJJTYGhxNqzqUqCLJoBbQ"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 250080,
       "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Havana Nocturne (Latin Jazz Vocal)",
+        "url": "https://open.spotify.com/album/7610lSB81OET6JFHaahIp7"
+      },
+      "artists": [
+        {
+          "name": "Aym\u00e9e Nuviola",
+          "url": "https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY"
+        },
+        {
+          "name": "Kemuel Roig",
+          "url": "https://open.spotify.com/artist/1ZJJTYGhxNqzqUqCLJoBbQ"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/6tulqYEcEWv8qXJrQzXZZG"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Virtual Birdland",
-        "url": "https://open.spotify.com/album/1qouuaGobt64P5Rp54XI70"
-      },
-      "artists": [
-        {
-          "name": "Arturo O'Farrill",
-          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
-        },
-        {
-          "name": "The Afro Latin Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/2anikrWpubwqzddpGqGsuK"
-        }
-      ],
-      "duration_ms": 440053,
-      "name": "Para Los Rumberos",
-      "url": "https://open.spotify.com/track/34gC58ZqCXKRkZF4Ws0ttU"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Pr\u00f3logo: Hoy",
         "url": "https://open.spotify.com/album/3bYh3iEf42l5HYD5Ir5Wqp"
       },
@@ -1583,22 +1563,38 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB"
+        "name": "Virtual Birdland",
+        "url": "https://open.spotify.com/album/1qouuaGobt64P5Rp54XI70"
       },
       "artists": [
         {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+          "name": "Arturo O'Farrill",
+          "url": "https://open.spotify.com/artist/5LHgdJhFO2hT2gu877UPKV"
         },
         {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+          "name": "The Afro Latin Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/2anikrWpubwqzddpGqGsuK"
         }
       ],
-      "duration_ms": 198783,
-      "name": "JazzT\u00f3n",
-      "url": "https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO"
+      "duration_ms": 440053,
+      "name": "Para Los Rumberos",
+      "url": "https://open.spotify.com/track/34gC58ZqCXKRkZF4Ws0ttU"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 293020,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1623,18 +1619,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB"
       },
       "artists": [
         {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
         }
       ],
-      "duration_ms": 293020,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
+      "duration_ms": 198783,
+      "name": "JazzT\u00f3n",
+      "url": "https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Stringwise",
+        "url": "https://open.spotify.com/album/2MG0iMoEPcF2qqgjqOndzA"
+      },
+      "artists": [
+        {
+          "name": "Cesar Orozco",
+          "url": "https://open.spotify.com/artist/0eO6MjeuzzOF9gOUVdDRfx"
+        },
+        {
+          "name": "Jorge Glem",
+          "url": "https://open.spotify.com/artist/4fFCGaz0oMwRLzJIu13ba5"
+        }
+      ],
+      "duration_ms": 240733,
+      "name": "Merengue Today",
+      "url": "https://open.spotify.com/track/0G1w6A1w7LVJXjyOZoxBgd"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1823,22 +1843,6 @@
       "duration_ms": 344606,
       "name": "Guarajazz",
       "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "I'll Call You Later",
-      "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
     }
   ],
   "unique_name": "Latin Jazz",

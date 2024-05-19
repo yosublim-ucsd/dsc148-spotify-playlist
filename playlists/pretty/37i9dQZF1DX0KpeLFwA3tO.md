@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Anti\-Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,685 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,736 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 49 | [Who You Were](https://open.spotify.com/track/0KIeTb1BJat07H7yWhUjeB) | [AWOL](https://open.spotify.com/artist/7GmixEjYEfCEw0Kxr1TM6U) | [Tear 'Em To Bits](https://open.spotify.com/album/4zK4HlpZEhlk876TKidah0) | 3:01 |
 | 50 | [kool\-aid](https://open.spotify.com/track/0ga279jRPt6sSXX3K9bf4e) | [Sessions](https://open.spotify.com/artist/4EYXC856iZB8nZSNWkcD9J) | [kool\-aid](https://open.spotify.com/album/62aTO7RzPq8ComYCEioldz) | 4:02 |
 | 51 | [Rootstyle](https://open.spotify.com/track/3kF7nQ7kZxxhztWOjRjebe) | [The Calamatix](https://open.spotify.com/artist/2HLlKi7xuZMKMIQQFCuYys) | [Rootstyle](https://open.spotify.com/album/24AsFEXTVIevsCZbX140ve) | 4:33 |
-| 52 | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u) | 3:23 |
+| 52 | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u) | 3:23 |
 | 53 | [Best Imposter](https://open.spotify.com/track/4P1jAyChjeXdPbj5BDw6fI) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Best Imposter](https://open.spotify.com/album/4t1mS6c0iepFdit4iRM2Tp) | 3:07 |
 | 54 | [⁠You Should Know By Now](https://open.spotify.com/track/3zexE7ac4H7sHb9yc8udUv) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [You Should Know By Now](https://open.spotify.com/album/1n81zB7AkLY9irxI5MhquI) | 3:26 |
 | 55 | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/track/6S0qDB8PnXMyU5xhsYxcGI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/album/3tUsrj0Qe62M6wz71Ulbh0) | 2:24 |
 | 56 | [ATM](https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Our Brand Could Be Yr Life](https://open.spotify.com/album/2bPeqXdzzjatAWeCI09gF1) | 2:40 |
 | 57 | [Day By Day](https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Liminal](https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk) | 3:44 |
-| 58 | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/6P3lvFpPSQi8kCbiExoKg9) | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 |
+| 58 | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 |
 | 59 | [Application For Release From The Dream](https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Application For Release From The Dream](https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw) | 4:29 |
 | 60 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 |
 | 61 | [Dead To Me](https://open.spotify.com/track/3jZ9j6pqDnZKpwuXU2QnKV) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Dead to Me](https://open.spotify.com/album/7ITI3SiDikWH4ivHKBnUkF) | 2:50 |

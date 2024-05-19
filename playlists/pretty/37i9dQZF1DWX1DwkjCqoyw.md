@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands and the diaspora\. Cover: Kes & Sean Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,324 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,327 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 34 | [Rio Grande](https://open.spotify.com/track/2mqYYL6mGOyvmyhfwk9zmi) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Rio Grande](https://open.spotify.com/album/1KQNMs6pSnaIuyBVi3r0Gh) | 2:58 |
 | 35 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 |
 | 36 | [Say Yeah](https://open.spotify.com/track/3ADGtqZCtTetrqQUCdpYA5) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj), [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh) | [Sweet 7 Riddim](https://open.spotify.com/album/6PpGjthPOrc4SGkWwWCS7o) | 3:04 |
-| 37 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
-| 38 | [Feelings \(Remix\)](https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Feelings \(Remix\)](https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba) | 3:37 |
+| 37 | [Feelings \(Remix\)](https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Feelings \(Remix\)](https://open.spotify.com/album/3DgIXwqAlgbDSIJZhLj3ba) | 3:37 |
+| 38 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
 | 39 | [BYE x2](https://open.spotify.com/track/5xXw6bjT1JLD9QbsFckVJv) | [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Saddis](https://open.spotify.com/artist/3HojWTmKQLc551be6992rL) | [BYE x2](https://open.spotify.com/album/6v6aDPum8qb0CQ7oihwfNg) | 3:09 |
 | 40 | [Currency Called Time](https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Currency Called Time](https://open.spotify.com/album/5pCiaqaJQiTzbSRSP2rd2s) | 3:41 |
 | 41 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |

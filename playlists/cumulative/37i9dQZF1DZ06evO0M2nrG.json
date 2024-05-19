@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
+  "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
   "name": "This Is Mike Bah\u00eda",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 209669,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2DIhapIzZgaCojayfVUNc7"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 193125,
       "name": "De Qu\u00e9 Manera",
       "url": "https://open.spotify.com/track/503M75Hh6JciFgZ4xi8XTw"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "La M\u00eda",
       "url": "https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 201040,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 197013,
       "name": "T\u00fa Tienes Raz\u00f3n (feat. Mike Bah\u00eda) - Versi\u00f3n Urbana",
       "url": "https://open.spotify.com/track/22ZDZQspD6nmT9krDjb8zO"

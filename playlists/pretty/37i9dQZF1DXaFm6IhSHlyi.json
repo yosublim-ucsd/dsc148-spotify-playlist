@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 143557,
+  "num_followers": 143572,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Like I'm Gonna Lose You",
-        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 232338,
-      "name": "Like I'm Gonna Lose You",
-      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "FANTAS\u00cdA",
         "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 221386,
       "name": "En Guerra",
       "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Like I'm Gonna Lose You",
+        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 232338,
+      "name": "Like I'm Gonna Lose You",
+      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "My Only One (No Hay Nadie M\u00e1s)",
-        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "My Only One (No Hay Nadie M\u00e1s)",
-      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "A Little Bit Yours",
         "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "My Only One (No Hay Nadie M\u00e1s)",
+        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "My Only One (No Hay Nadie M\u00e1s)",
+      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Sushi Season (The First)",
+        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
+      },
+      "artists": [
+        {
+          "name": "Garry Mapanzure",
+          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
+        }
+      ],
+      "duration_ms": 243504,
+      "name": "Pindirai",
+      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Benar Cinta",
         "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 239330,
       "name": "Benar Cinta",
       "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Sushi Season (The First)",
-        "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
-      },
-      "artists": [
-        {
-          "name": "Garry Mapanzure",
-          "url": "https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "Pindirai",
-      "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Ana Mesh Magroha",
         "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 155013,
       "name": "Ana Mesh Magroha",
       "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How We Love",
-        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "How We Love",
-      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 228541,
       "name": "You Are",
       "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "How We Love",
+        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "How We Love",
+      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Dahan",
-        "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 297500,
-      "name": "Dahan",
-      "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Global Citizen \u2162",
         "url": "https://open.spotify.com/album/31Ix6KE9PSLzRnj9nqoW2t"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Dahan",
+        "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 297500,
+      "name": "Dahan",
+      "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sa Paghimig Mo",
-        "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 236516,
-      "name": "Sa Paghimig Mo",
-      "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
@@ -1955,22 +1939,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 237882,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
         "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
       },
@@ -1983,6 +1951,38 @@
       "duration_ms": 219689,
       "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
       "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sa Paghimig Mo",
+        "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 236516,
+      "name": "Sa Paghimig Mo",
+      "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 237882,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
     },
     {
       "added_at": "2022-10-17 15:00:00",

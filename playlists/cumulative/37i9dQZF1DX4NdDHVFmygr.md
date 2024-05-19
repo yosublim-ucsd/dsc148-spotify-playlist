@@ -4,7 +4,7 @@
 
 > Les hits marocains du moment\. Cover: Lbenj
 
-361 songs - 19 hr 22 min
+362 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bohdi li fiha](https://open.spotify.com/track/0bmWRMSelJl8IOGxrd8q3P) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 2:53 | 2023-01-04 | 2023-01-14 |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-04-25 |  |
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 | 2023-06-04 | 2023-12-19 |
+| [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-05-18 |  |
 | [Campeónes](https://open.spotify.com/track/7ECCF1vFZ97wnYukjbUYsO) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G), [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [ElMarocchino](https://open.spotify.com/album/252TA0tbVv9K773Z33o8W2) | 2:44 | 2022-06-27 | 2022-09-27 |
 | [Cariño](https://open.spotify.com/track/43WGG3jUSVGStwAByFIKkC) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Cariño](https://open.spotify.com/album/2mLtZR6hCt81DOYsiWkniJ) | 3:02 | 2021-12-25 | 2022-01-25 |
 | [Casa \- Arabic Version](https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Casa \(Arabic version\)](https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I) | 2:25 | 2024-04-25 |  |
@@ -149,7 +150,7 @@
 | [Je M'en Fous](https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Je M'en Fous](https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd) | 2:57 | 2024-01-03 | 2024-02-18 |
 | [Je sais que t'as mal](https://open.spotify.com/track/3TwCVgOkFhx6CBFYUYnPzP) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Je sais que t'as mal](https://open.spotify.com/album/6kKGhPm6m2GagsZdW34Qui) | 2:35 | 2023-03-22 | 2023-05-14 |
 | [Jelaba](https://open.spotify.com/track/2R3LdO45fHZvI0emsSyu8j) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Jelaba](https://open.spotify.com/album/7iQGFJd51Xe1UA1dseLtmM) | 3:06 | 2024-04-18 |  |
-| [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 | 2023-02-26 |  |
+| [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 | 2023-02-26 | 2024-05-19 |
 | [JMI](https://open.spotify.com/track/1PlEAxwiW6xk3rrVDlztcB) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [JMI](https://open.spotify.com/album/7gwIZVNyGFEZf9993pp78W) | 3:37 | 2023-05-08 | 2023-09-06 |
 | [JOANA](https://open.spotify.com/track/2uIua5r0wjdDpnLb50j1w6) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [JOANA](https://open.spotify.com/album/1vVJee8FApTIXNgiQXxf2O) | 3:01 | 2023-02-09 | 2023-02-21 |
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2022-06-11 | 2023-05-10 |

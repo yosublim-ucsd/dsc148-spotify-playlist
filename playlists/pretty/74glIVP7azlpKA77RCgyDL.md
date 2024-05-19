@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Body Count
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,561 likes - 112 songs - 6 hr 50 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,564 likes - 112 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

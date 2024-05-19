@@ -1,12 +1,12 @@
 {
-  "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 2676,
+  "description": "This is N.I.N.A. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 2680,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAACSuhThbKj1p0CLegi0194s",
+  "snapshot_id": "ZkaeAAAAAACs4rovpgajaXAYTpfPF8P5",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tanto Faz",
-        "url": "https://open.spotify.com/album/3C0DYA08H30vEvi78i7A2B"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/0kgVCF1GMXafogX6R2Dpc5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
         "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 301182,
       "name": "Met\u00e1fora",
       "url": "https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tanto Faz",
+        "url": "https://open.spotify.com/album/3C0DYA08H30vEvi78i7A2B"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/0kgVCF1GMXafogX6R2Dpc5"
     },
     {
       "added_at": null,

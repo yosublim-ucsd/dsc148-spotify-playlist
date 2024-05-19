@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 18 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 42 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Eternal Flame](https://open.spotify.com/track/5g3ZD7PmrEQlQZKDW91yGG) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Everything](https://open.spotify.com/album/7mpaRCyqIZ5Tj5wTB5612U) | 3:55 |
-| 2 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0egYMfS7hjEneR86a9K61w) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2011 Remaster\)](https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF) | 3:35 |
-| 3 | [Another State of Mind](https://open.spotify.com/track/7i07Fh97z974E9wqK7iWES) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/5nKs4LNpHgz0xggy0piMCK) | 2:45 |
-| 4 | [El Es Mi Idolo](https://open.spotify.com/track/1Hm7NfFyUUlcRRsozsSTkQ) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Antología: Su Historia y Sus Éxitos](https://open.spotify.com/album/7m8AqShFcldsxokXFksDZ4) | 4:19 |
-| 5 | [You Keep on Moving](https://open.spotify.com/track/4LzsO8ewUfRB17oB6axEiU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best Of \(Special Edition\)](https://open.spotify.com/album/0XmL85owcwkhqvKLgJObQx) | 4:30 |
-| 6 | [Jardín de Gente](https://open.spotify.com/track/1zYeS19z1Ucwgj5ovzCeQT) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 2:35 |
-| 7 | [i can](https://open.spotify.com/track/2zZ2W6aATb8fue7MK1sqAf) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [i can](https://open.spotify.com/album/0xIikGAXipJFQvGzFP24Wl) | 4:21 |
-| 8 | [Capitán Futuro \(Ending\)](https://open.spotify.com/track/5XPnRxX3GpIJUGmIR2aWWK) | [Capitán Memo](https://open.spotify.com/artist/1FDCc3riVX2xwfErmIvblg) | [El Regreso de Los Robots](https://open.spotify.com/album/6QKswFWlrRThrH4iKwnKRg) | 3:03 |
-| 9 | [The Foolish One](https://open.spotify.com/track/3jmG2J73bqjw3n6RabNNnq) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [My Damnation](https://open.spotify.com/album/2EMR0QHL2rN2MGdF37skwu) | 3:39 |
-| 10 | [Bluffs, Lies & Alibis](https://open.spotify.com/track/5yq1sQrmhtWzrhNO93rpfW) | [Knuckledust](https://open.spotify.com/artist/5kaBE5Mjm28IuAVoXBl6Gj) | [Bluffs, Lies & Alibis](https://open.spotify.com/album/6ufHT5hPkyjgcbxFWHUdSp) | 3:05 |
-| 11 | [El Truco](https://open.spotify.com/track/5V4RGwhnegHnS1B7Phojjj) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [Autentik](https://open.spotify.com/album/2D6xZEsQTk4NbqiRugGVUv) | 3:49 |
-| 12 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
+| 1 | [Seed](https://open.spotify.com/track/5hEP0OCjrNcz81hfLeuSNV) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Original Album Classics](https://open.spotify.com/album/1A43UjWWhahOC0pViqCuaF) | 5:54 |
+| 2 | [Crimson Day](https://open.spotify.com/track/28JSZ4KyzDXnnC2XnJX1db) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:57 |
+| 3 | [Sun Sets](https://open.spotify.com/track/6aPhXa3KCjTgjp4SSkpHdm) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Sun Sets](https://open.spotify.com/album/2An0Q8iHL4kb3AfO09Y0so) | 2:58 |
+| 4 | [Run for a Fall \- Orchestral Version](https://open.spotify.com/track/75fB8YzJxfgEMN0D2aWk5X) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 6:28 |
+| 5 | [Yoshi's Island](https://open.spotify.com/track/6ihkzzUSEP52s29NLdIXYv) | [3000m](https://open.spotify.com/artist/0YEn7M93t6cNjEaupEsa1r) | [Super Mario World \(Original Game Soundtrack\)](https://open.spotify.com/album/5koBIXFGpUrroTwJPMYLSk) | 0:42 |
+| 6 | [My Dogs](https://open.spotify.com/track/0kB7iVkFzXpksZcHN1KPoc) | [Maxin Passion](https://open.spotify.com/artist/1Aidz3aAdIWDsnem9cfT2c) | [My Dogs](https://open.spotify.com/album/5PIft1LQ9QV65pf16ZnlIm) | 1:44 |
+| 7 | [Good Golly, Miss Molly](https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:09 |
+| 8 | [CALMA](https://open.spotify.com/track/6GHN1yz4xoCLnlPuG80lFh) | [Emiliano Athie](https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr) | [CALMA](https://open.spotify.com/album/2Qo5wqgAGGIRMRxPMHTxD3) | 4:04 |
+| 9 | [Courage The Cowardly Dog](https://open.spotify.com/track/0qtynlyuOKJI6SQ5Pe9IFo) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [Speed Dial](https://open.spotify.com/album/5CuMwbjasxbqS7YkrwUark) | 0:58 |
+| 10 | [Grandes Pasos](https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Edición Especial](https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ) | 3:38 |
+| 11 | [Lorelei](https://open.spotify.com/track/2ipjxno6sXhDjXUWl1iRmE) | [Cultus Black](https://open.spotify.com/artist/0ewxVjVDEPkyLPaOQCA937) | [Cultus Black](https://open.spotify.com/album/33K1p1q1b07UM0MIOt1Scs) | 4:44 |
+| 12 | [Be Near Me](https://open.spotify.com/track/1l3fRzoUngJr6hSMIT1Hfq) | [ABC](https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh) | [How To Be A Zillionaire](https://open.spotify.com/album/3XV87qO2zZj6o7q9rgYXxE) | 3:39 |
 
-Snapshot ID: `AAAAdupiZ8fDoRtOg/GLAewnS8K79Ser`
+Snapshot ID: `AAAAd2EUTHUXy3Rk8PThQ3C3Cv5/ftoP`

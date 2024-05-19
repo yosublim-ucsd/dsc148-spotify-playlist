@@ -4,7 +4,7 @@
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Nicole Zignago
 
-333 songs - 18 hr 19 min
+334 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 | 2022-07-05 | 2023-01-25 |
 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 | 2021-12-09 |  |
 | [Brillo](https://open.spotify.com/track/3hPgU45si92VnVuNyFFVFF) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Brillo](https://open.spotify.com/album/704X09kwq2A7jPVFAZMHF7) | 2:50 | 2022-06-01 | 2023-01-25 |
-| [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 | 2022-06-14 |  |
+| [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 | 2022-06-14 | 2024-05-19 |
 | [Búscame](https://open.spotify.com/track/05Qmn8QFzBhRNzSvgBP3YF) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 2:37 | 2021-12-09 | 2023-01-25 |
 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 | 2022-06-01 | 2023-01-25 |
 | [cambiarte](https://open.spotify.com/track/4WnGtjG4gnE49sXLBJbiHN) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [cambiarte](https://open.spotify.com/album/0PuUNo37BZ2P0M0ajTo0GG) | 2:43 | 2022-06-01 | 2022-10-15 |
@@ -188,6 +188,7 @@
 | [Me, Myself](https://open.spotify.com/track/3GCPuPA5qv2kjLw0PAVgQH) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 | 2021-12-09 | 2023-01-25 |
 | [Mequetrefe](https://open.spotify.com/track/5KYv08Ue0nCUJCcrC1NtrN) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Mequetrefe](https://open.spotify.com/album/6ZFw6WWg6Xgu3EIyiTCf09) | 2:20 | 2021-12-09 | 2022-07-29 |
 | [Mequetrefe](https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:20 | 2022-07-05 | 2023-01-25 |
+| [Mexican Mafia \(Flow Kbrón\)](https://open.spotify.com/track/20WTMgqNj3JVFaAC6sXRhd) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Serko Fu](https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw) | [Raíces](https://open.spotify.com/album/45TstgyaYPPDLbUhuJMHGG) | 2:58 | 2024-05-17 |  |
 | [Mezcal](https://open.spotify.com/track/61gf88ThSKi09u3XZedKe2) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 3:14 | 2021-12-09 | 2022-06-01 |
 | [MFD](https://open.spotify.com/track/0jw9L7QvjqCavzMtquLKOS) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [MFD](https://open.spotify.com/album/4Bor5SNuJ51FlsqaNcXAkF) | 2:30 | 2023-01-24 | 2023-04-01 |
 | [Mi Amor Soy Yo](https://open.spotify.com/track/6xmOayNDOlODulcAQbOrJQ) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg), [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI) | [Mi Amor Soy Yo](https://open.spotify.com/album/6FsVroaX5PfjHfXHIeorQz) | 2:51 | 2021-12-09 | 2022-06-01 |

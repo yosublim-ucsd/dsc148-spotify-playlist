@@ -1129,6 +1129,28 @@
     },
     {
       "album": {
+        "name": "Puro Pinche Pari (PPP)",
+        "url": "https://open.spotify.com/album/4rATRjPNbTx9SCII7VsWYs"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150413,
+      "name": "Puro Pinche Pari (PPP)",
+      "url": "https://open.spotify.com/track/0KV2Dy7DpMXI6C7bBGCdgu"
+    },
+    {
+      "album": {
         "name": "Sangria",
         "url": "https://open.spotify.com/album/3va92qGHP3fn8ZU859S4nD"
       },

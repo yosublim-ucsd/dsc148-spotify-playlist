@@ -15349,6 +15349,24 @@
     },
     {
       "album": {
+        "name": "Valedictorian",
+        "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94619,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4rHsZed1xDsqr92JPLlxxo"
+    },
+    {
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q"
       },
@@ -15360,7 +15378,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 94666,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la"
@@ -15710,7 +15728,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 235354,
       "name": "Fisherrr - Remix",
       "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
@@ -18194,6 +18212,24 @@
       "duration_ms": 119999,
       "name": "Grand Slam",
       "url": "https://open.spotify.com/track/0Z2LsEV0DSI9u7lr6XRDxR"
+    },
+    {
+      "album": {
+        "name": "Valedictorian",
+        "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "Grand Slam",
+      "url": "https://open.spotify.com/track/4Cp8qjyEzCAkUBlfCz9mam"
     },
     {
       "album": {

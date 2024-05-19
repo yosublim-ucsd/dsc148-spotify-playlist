@@ -752,7 +752,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 179936,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC"
@@ -1160,6 +1160,24 @@
       "duration_ms": 197373,
       "name": "Fou fou fou mon minou",
       "url": "https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG"
+    },
+    {
+      "album": {
+        "name": "G4ME0VER",
+        "url": "https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9Li",
+          "url": "https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "G4ME0VER",
+      "url": "https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW"
     },
     {
       "album": {

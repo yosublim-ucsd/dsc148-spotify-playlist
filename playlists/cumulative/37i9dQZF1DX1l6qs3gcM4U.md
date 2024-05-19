@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Djodje
 
-368 songs - 21 hr 54 min
+369 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Tua Boca](https://open.spotify.com/track/1ouCqdGHx92VMOXXbpyVSU) | [Tó Semedo](https://open.spotify.com/artist/7hZz6sSgoppxbAW4lTjopa) | [A Tua Boca](https://open.spotify.com/album/3YxkgTCDCHOXEwKDvi33M1) | 3:48 | 2021-12-10 | 2024-05-11 |
 | [A Tua Escolha](https://open.spotify.com/track/2u5cgh9JUK1wXwsepgMzME) | [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Kizomba All Stars 3](https://open.spotify.com/album/0hYj2Vo9dKrsTg203dRXJ4) | 4:05 | 2022-01-27 | 2022-04-18 |
 | [Abençoado](https://open.spotify.com/track/3Fv6efYeL4WLpwkE797BDO) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Abençoado](https://open.spotify.com/album/7hjGHtEkGnnds18e6CPIVV) | 2:49 | 2022-05-26 | 2022-06-16 |
-| [Acerta](https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Acerta](https://open.spotify.com/album/01XtjVLIMkMasJ6OJLYiSn) | 3:55 | 2021-12-10 |  |
+| [Acerta](https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Acerta](https://open.spotify.com/album/01XtjVLIMkMasJ6OJLYiSn) | 3:55 | 2021-12-10 | 2024-05-19 |
 | [Adoço](https://open.spotify.com/track/7ffN1srH0lM39dddrG84Gs) | [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Adoço](https://open.spotify.com/album/78htzYNaNcNaB3TN7W8cD5) | 3:03 | 2022-07-22 | 2023-03-03 |
 | [Adoço](https://open.spotify.com/track/61MbzsETAezqjjsx15Lh5U) | [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Adoço](https://open.spotify.com/album/3YUW6ZXd6useT4DogVHd6N) | 3:03 | 2021-12-10 | 2022-07-29 |
 | [Africana](https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Africana](https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt) | 3:20 | 2021-12-10 | 2023-10-27 |
@@ -208,6 +208,7 @@
 | [Na tua Back \- Afro Love Remix](https://open.spotify.com/track/3WCKvFMwZvSlktfxRWyvq2) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Stephane Silva Dos Santos](https://open.spotify.com/artist/23jd0fVNwCP8zdInSnIvp9) | [Na tua Back \(Afro Love Remix\)](https://open.spotify.com/album/1IlGaHNPxLUvxzry42ojNS) | 2:31 | 2022-01-21 | 2022-02-04 |
 | [Na Via](https://open.spotify.com/track/0QUHa76fheJJ4dFetV2MhV) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr), [Sarissari](https://open.spotify.com/artist/3RxLhhb4DGlxpXnmSDqC8b) | [Na Via](https://open.spotify.com/album/5wp8n4cf3laS677a8a3MNZ) | 3:38 | 2021-12-10 | 2022-02-14 |
 | [Nca Ta Skeci Di Bo](https://open.spotify.com/track/1AiyJdcuWjyBQvr284pEKy) | [Tony Fika](https://open.spotify.com/artist/2eOz5uQonlXVK464N4pVUt), [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Nca Ta Skeci Di Bo](https://open.spotify.com/album/2s2vZp87q6mM87iQLdNfCW) | 3:51 | 2022-05-26 | 2022-06-07 |
+| [Nha bebé](https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Nha bebé](https://open.spotify.com/album/4dlOwAga2XZZ2QHYp9XUAu) | 3:25 | 2024-05-16 |  |
 | [Nha Love](https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Nha Love](https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T) | 3:14 | 2023-04-27 | 2024-03-23 |
 | [Nha Mos](https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nha Mos](https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0) | 3:16 | 2021-12-10 |  |
 | [Nha Mundo](https://open.spotify.com/track/51xWDxwBkvHSOit4VP6hYz) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Nha Mundo](https://open.spotify.com/album/2UzfdDx3DTlRau6nFKPe90) | 3:18 | 2021-12-10 | 2022-02-16 |

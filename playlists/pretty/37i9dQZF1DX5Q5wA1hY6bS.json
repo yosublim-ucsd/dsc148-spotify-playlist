@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1438872,
+  "num_followers": 1438870,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": "2024-04-22 22:29:15",
-      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
+    },
+    {
+      "added_at": "2024-04-22 22:29:15",
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
-        "name": "Time in the Sun",
-        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 201892,
-      "name": "Good Right Now",
-      "url": "https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9"
-    },
-    {
-      "added_at": "2024-04-22 22:29:15",
-      "album": {
         "name": "Getting It Right",
         "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 170280,
       "name": "Getting It Right",
       "url": "https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8"
+    },
+    {
+      "added_at": "2024-04-22 22:29:15",
+      "album": {
+        "name": "Time in the Sun",
+        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 201892,
+      "name": "Good Right Now",
+      "url": "https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
-        "name": "Daniel",
-        "url": "https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb"
+        "name": "Prospector's Blues",
+        "url": "https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW"
       },
       "artists": [
         {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
         }
       ],
-      "duration_ms": 220205,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/16rosLVYEGV8TO8VQqxxmm"
+      "duration_ms": 239733,
+      "name": "Prospector's Blues",
+      "url": "https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 220205,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/16rosLVYEGV8TO8VQqxxmm"
+    },
+    {
+      "added_at": "2024-04-22 22:29:15",
+      "album": {
         "name": "Valapriso",
         "url": "https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys"
       },
@@ -1579,38 +1595,6 @@
       "duration_ms": 187500,
       "name": "Valapriso",
       "url": "https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z"
-    },
-    {
-      "added_at": "2024-04-22 22:29:15",
-      "album": {
-        "name": "Prospector's Blues",
-        "url": "https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Prospector's Blues",
-      "url": "https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc"
-    },
-    {
-      "added_at": "2024-04-22 22:29:15",
-      "album": {
-        "name": "Gimme the Beat Back",
-        "url": "https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Gimme the Beat Back",
-      "url": "https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
-        "name": "The Weakness",
-        "url": "https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v"
+        "name": "Gimme the Beat Back",
+        "url": "https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY"
       },
       "artists": [
         {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
         }
       ],
-      "duration_ms": 242173,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/2m557twwp7RuyMQxYT55I1"
+      "duration_ms": 165133,
+      "name": "Gimme the Beat Back",
+      "url": "https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -1659,6 +1643,22 @@
       "duration_ms": 276087,
       "name": "Taking Me Back (Gently)",
       "url": "https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw"
+    },
+    {
+      "added_at": "2024-04-22 22:29:15",
+      "album": {
+        "name": "The Weakness",
+        "url": "https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/2m557twwp7RuyMQxYT55I1"
     },
     {
       "added_at": "2024-04-22 22:29:15",

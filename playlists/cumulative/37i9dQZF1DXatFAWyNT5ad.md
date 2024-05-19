@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Imagine Dragons
 
-774 songs - 1 day 16 hr 0 min
+777 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 | 2022-08-19 |  |
 | [3, 2, 1](https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:11 | 2022-07-07 | 2023-03-18 |
 | [3, 2, 1](https://open.spotify.com/track/1bFoCHXsP2qd4YWi2JmlCN) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [3, 2, 1](https://open.spotify.com/album/2gt7MlxyMKUl6LUDcc2etd) | 2:11 | 2022-03-17 | 2022-05-25 |
-| [30 Somehow](https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [How Do You Love Me](https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s) | 4:41 | 2023-12-15 |  |
+| [30 Somehow](https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [How Do You Love Me](https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s) | 4:41 | 2023-12-15 | 2024-05-19 |
 | [6AM](https://open.spotify.com/track/5AJ9oWWYzHvSJYX6IBEvMK) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [6AM](https://open.spotify.com/album/0rRFHYaPCKGwQ7pWB3H2JG) | 3:10 | 2022-03-17 | 2022-07-29 |
 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 | 2022-06-23 | 2024-01-18 |
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-23 | 2023-05-20 |
@@ -119,6 +119,7 @@
 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 | 2022-03-17 | 2022-07-27 |
 | [Bones](https://open.spotify.com/track/7zwQ9mduS7Fzf4PlirJxuO) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [DDMN 1.2](https://open.spotify.com/album/3XDnwKSA0JXsygKK3ILJto) | 3:27 | 2022-03-24 | 2022-04-16 |
 | [Born for This](https://open.spotify.com/track/4Rnoh5o8CINTEkz9r86SbL) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [This Is Not the End](https://open.spotify.com/album/4mgBj6yfX8hVbBZUJTxQxT) | 2:19 | 2022-03-24 | 2022-04-01 |
+| [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 | 2024-05-17 |  |
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2022-08-05 |  |
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-03 | 2022-06-26 |
 | [Break My Baby](https://open.spotify.com/track/5NnFkbEjahUGx5T3qxbNCW) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Want More / Break My Baby](https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY) | 4:25 | 2022-03-24 | 2023-03-25 |
@@ -216,7 +217,7 @@
 | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/track/3PgrntbrI5racVaswTt6Ms) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Drop Dead \(with Kesha and Travis Barker\)](https://open.spotify.com/album/5itvLffAqxFdNjEmbtPMvo) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-24 | 2022-08-13 |
 | [Dullshine](https://open.spotify.com/track/2ndDKpjgNOFDl6ZH63arC4) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Dullshine](https://open.spotify.com/album/47yoU0ZF9KINsCzrDBbC3b) | 3:51 | 2022-03-24 | 2022-04-19 |
-| [DUMB](https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [DUMB](https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD) | 3:25 | 2024-04-19 |  |
+| [DUMB](https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [DUMB](https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD) | 3:25 | 2024-04-19 | 2024-05-19 |
 | [dumb with you](https://open.spotify.com/track/0nJbXArCCbkRflshkWQUJM) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 2:59 | 2024-02-20 | 2024-04-20 |
 | [Dying Breed](https://open.spotify.com/track/1cS6quzGhImyJPMiNxfxkA) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Dying Breed](https://open.spotify.com/album/3UL8kVLqJVXaS3tYsYpqf2) | 4:06 | 2022-03-24 | 2022-04-19 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-03-17 | 2023-11-18 |
@@ -543,6 +544,7 @@
 | [Painkiller](https://open.spotify.com/track/4HlOAHN6xvtJJSYOMC9sCa) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Painkiller](https://open.spotify.com/album/2PQ4deXFHAAx3yf60jlXuF) | 2:18 | 2022-03-24 | 2022-05-10 |
 | [Pandemonium](https://open.spotify.com/track/2kuk7yrOcOjEjOhcrJ31Hy) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:29 | 2022-03-24 | 2022-04-18 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2022-03-24 | 2023-03-25 |
+| [Paperweight](https://open.spotify.com/track/6rL8VTEBaWTWBK9eGeXoz8) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Paperweight](https://open.spotify.com/album/7iF0XrBnBkv0fUaTbeLDLe) | 2:39 | 2024-05-17 |  |
 | [Paranoia](https://open.spotify.com/track/4Hz1TXZ942m4W0nYuajJ2R) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Paranoia](https://open.spotify.com/album/6Ian4PAL9WBViBcTQ5vYi6) | 2:38 | 2022-03-24 | 2022-07-07 |
 | [Parasite](https://open.spotify.com/track/3HyJYXsq26fIGGYzBAUGBD) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Parasite](https://open.spotify.com/album/0qekqVMt0XLAPHrPf5FbfN) | 2:26 | 2023-12-15 |  |
 | [parents](https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 2:51 | 2022-03-17 | 2023-03-18 |
@@ -561,6 +563,7 @@
 | [Pollyanna](https://open.spotify.com/track/4b2h4jQxgHpiWuLH8rp8Vu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Pollyanna](https://open.spotify.com/album/21i1bokXCRyRyszxxNvX19) | 3:15 | 2022-03-24 | 2022-04-16 |
 | [Pop Culture Radio](https://open.spotify.com/track/5mAlQORMN7wwblaO6erw9H) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Pop Culture Radio](https://open.spotify.com/album/4GdieFGu6B28UCXob05ELp) | 3:20 | 2022-03-24 | 2022-05-09 |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-03-17 | 2023-10-07 |
+| [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 | 2024-05-17 |  |
 | [Pretend](https://open.spotify.com/track/6L0CV2dKwROWygdfPUXKI2) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Let's Go Camping](https://open.spotify.com/album/4hKEjXh28wr4AcWB2FBZ6Q) | 3:02 | 2022-03-24 | 2022-04-16 |
 | [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 | 2024-02-20 |  |
 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 | 2023-03-24 |  |
@@ -634,7 +637,7 @@
 | [Sonder](https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU) | 3:20 | 2024-03-08 | 2024-04-20 |
 | [Sonder](https://open.spotify.com/track/75CAy481QzLqCOKggIpsFi) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:20 | 2023-11-17 | 2024-04-19 |
 | [Sorry](https://open.spotify.com/track/7CURMjvpE285aV8VGBhznH) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Sorry](https://open.spotify.com/album/0lptWsj6UNwuRbcMg3WOfe) | 3:00 | 2022-03-24 | 2022-04-20 |
-| [Sorry Brody](https://open.spotify.com/track/7I38u9kvZwZdFseFdFqzcO) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Sorry Brody](https://open.spotify.com/album/0gSPIJGyXhraeebrMXYnXr) | 2:35 | 2024-02-20 |  |
+| [Sorry Brody](https://open.spotify.com/track/7I38u9kvZwZdFseFdFqzcO) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Sorry Brody](https://open.spotify.com/album/0gSPIJGyXhraeebrMXYnXr) | 2:35 | 2024-02-20 | 2024-05-19 |
 | [SOS](https://open.spotify.com/track/3SSC5g9auGK1JfNdnA5hzQ) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [SOS](https://open.spotify.com/album/36OibxF0mtieO9z1yxmMZJ) | 3:37 | 2022-03-24 | 2022-04-20 |
 | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/track/38X7LavheHbSg0UwjRUNcf) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/album/0n7Nnzxv7WBKDdpUdhL8C2) | 2:49 | 2022-03-17 | 2022-07-21 |
 | [sound off](https://open.spotify.com/track/5nCWUq99mmY6yMzcxSBU1o) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [sound off](https://open.spotify.com/album/78fvUggdmI7wpbma4KhqVo) | 1:39 | 2022-03-24 | 2022-04-08 |

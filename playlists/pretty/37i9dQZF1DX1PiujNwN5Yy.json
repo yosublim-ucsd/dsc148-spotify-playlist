@@ -1,6 +1,6 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 22694,
+  "num_followers": 4573,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Ausente",
-        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Perd\u00f3n (Acabo de ver tu llamada)",
-      "url": "https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "TE FALL\u00c9",
         "url": "https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 197474,
       "name": "TE FALL\u00c9",
       "url": "https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Ausente",
+        "url": "https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Perd\u00f3n (Acabo de ver tu llamada)",
+      "url": "https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Canciones Tristes",
         "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 186266,
       "name": "Canciones Tristes",
       "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Por Si Apareces",
-        "url": "https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU"
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
       "artists": [
         {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
         }
       ],
-      "duration_ms": 273506,
-      "name": "Por Si Apareces",
-      "url": "https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2"
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+        "name": "Por Si Apareces",
+        "url": "https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU"
       },
       "artists": [
         {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
         }
       ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+      "duration_ms": 273506,
+      "name": "Por Si Apareces",
+      "url": "https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Q Tiempos Aquellos",
-        "url": "https://open.spotify.com/album/1WZwWa3cFAbvSRrSRTHLB9"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 109986,
-      "name": "Q Tiempos Aquellos",
-      "url": "https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Q Tiempos Aquellos",
+        "url": "https://open.spotify.com/album/1WZwWa3cFAbvSRrSRTHLB9"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 109986,
+      "name": "Q Tiempos Aquellos",
+      "url": "https://open.spotify.com/track/4tedbGJnsJ8KTVy5pheOWG"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/7s3a776EyXjlyP0YofUlQ3"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 208378,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/60YrZoQNcy90opzVnfoUrA"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Ojos Vac\u00edos",
-        "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 221580,
-      "name": "A La Quien Quieres",
-      "url": "https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Ojos Vac\u00edos",
+        "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 221580,
+      "name": "A La Quien Quieres",
+      "url": "https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "A Estas Horas Del Amor",
         "url": "https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 302426,
       "name": "A Estas Horas Del Amor",
       "url": "https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "OJALA",
-        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "OJALA",
-      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Por Estar Contigo",
-        "url": "https://open.spotify.com/album/6eCZlfCzaShuICSx5fEPOT"
+        "name": "Autosabotear",
+        "url": "https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a"
       },
       "artists": [
         {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 284681,
-      "name": "Por Estar Contigo",
-      "url": "https://open.spotify.com/track/3XTgaNy24GSjOgBSczr6Oq"
+      "duration_ms": 192104,
+      "name": "Autosabotear",
+      "url": "https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Autosabotear",
-        "url": "https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a"
+        "name": "Por Estar Contigo",
+        "url": "https://open.spotify.com/album/6eCZlfCzaShuICSx5fEPOT"
       },
       "artists": [
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
         }
       ],
-      "duration_ms": 192104,
-      "name": "Autosabotear",
-      "url": "https://open.spotify.com/track/4zU95QAkAF4AdMMtpus2xo"
+      "duration_ms": 284681,
+      "name": "Por Estar Contigo",
+      "url": "https://open.spotify.com/track/3XTgaNy24GSjOgBSczr6Oq"
     },
     {
       "added_at": "2024-03-01 05:00:00",

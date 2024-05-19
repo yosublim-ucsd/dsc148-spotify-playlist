@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,185 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,209 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 | 2 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 |
 | 3 | [Kannoram \- From Naam Series](https://open.spotify.com/track/7xTmIc0MszfsbUOpXK5FeJ) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kannoram \(From Naam Series\)](https://open.spotify.com/album/0OX03EF2d7QRRzx8YtANXQ) | 5:21 |
 | 4 | [Pagal Iravai \| Maraigirai](https://open.spotify.com/track/2jQQTuzwJWEtwayffAADIe) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI) | [Pagal Iravai \| Maraigirai](https://open.spotify.com/album/4Et3flF6ldGOucwRw22VEd) | 4:48 |
-| 5 | [Neethaney](https://open.spotify.com/track/4nBLO0QAckCUSVaT24xjAV) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Priya Jerson](https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Neethaney](https://open.spotify.com/album/2dO7hYYYZUaoGIQvAmtDnK) | 4:13 |
+| 5 | [Neethaney](https://open.spotify.com/track/4nBLO0QAckCUSVaT24xjAV) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Priya Jerson](https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2) | [Neethaney](https://open.spotify.com/album/2dO7hYYYZUaoGIQvAmtDnK) | 4:13 |
 | 6 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 |
 | 7 | [Nile Nadiye](https://open.spotify.com/track/5EM0SF9j9UmDPIWaJtrY3y) | [Amruta Natu](https://open.spotify.com/artist/05oLd4emUQsLievloAOyy5), [Gaurav Bangia](https://open.spotify.com/artist/6gCjKmhyFa8lfu1JSlAIpN) | [Nile Nadiye](https://open.spotify.com/album/1aaICsKcjO6IWmT3KcF4PU) | 3:34 |
 | 8 | [Inimel](https://open.spotify.com/track/6PxEQ1dXyhuZQtTClI6TiR) | [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Inimel](https://open.spotify.com/album/3VTNd5Fcti1lc9ASdEpiWz) | 4:00 |

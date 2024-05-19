@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,362 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,387 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 32 | [Think Twice](https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Think Twice](https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a) | 2:58 |
 | 33 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 |
 | 34 | [Rita Ora](https://open.spotify.com/track/2bPbyTiplZXroFIvW8Fjo0) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Rita Ora](https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk) | 2:02 |
-| 35 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
-| 36 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 |
+| 35 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 |
+| 36 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
 | 37 | [Lovesome](https://open.spotify.com/track/6563duTX83eTMkc2AGETfE) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Peaky Beats](https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd) | [Business As Usual EP](https://open.spotify.com/album/30URyJrwzIsoabTOMRncJw) | 4:33 |
 | 38 | [Run It](https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Run It](https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF) | 3:31 |
 | 39 | [Shadows Pt\. 3](https://open.spotify.com/track/6QndKEhGoxbCDixi6FPOGD) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Shadows Pt\. 3](https://open.spotify.com/album/0oWr4r89kkWmeZ5dQqHcHy) | 3:14 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 51 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 |
 | 52 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
 | 53 | [Rain](https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Rain](https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l) | 4:16 |
-| 54 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
+| 54 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
 | 55 | [The Streets](https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Stop Dawdling / The Streets](https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX) | 4:25 |
-| 56 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
-| 57 | [Lost2TheSound](https://open.spotify.com/track/1xooD0EkUnwr1yRL8yK5ad) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Manny Noir](https://open.spotify.com/artist/3YAdlYloykgwECqb1Mtpas) | [Lost2TheSound](https://open.spotify.com/album/0dzEElBKQIeLCMMkmRrVSi) | 3:20 |
+| 56 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
+| 57 | [Dream Theme](https://open.spotify.com/track/2rJDMsj2932cAAQsMFa3uB) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Dream Theme / How We Feelin' \(In The Party\)](https://open.spotify.com/album/22cv1K8eWKAdgXYOp1tVva) | 3:34 |
 | 58 | [Henney & Coke](https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi) | [Deadly Habitz](https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy) | [Lost City Archives, Vol\. 7](https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp) | 4:05 |
-| 59 | [Dream Theme](https://open.spotify.com/track/2rJDMsj2932cAAQsMFa3uB) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Dream Theme / How We Feelin' \(In The Party\)](https://open.spotify.com/album/22cv1K8eWKAdgXYOp1tVva) | 3:34 |
+| 59 | [Lost2TheSound](https://open.spotify.com/track/1xooD0EkUnwr1yRL8yK5ad) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Manny Noir](https://open.spotify.com/artist/3YAdlYloykgwECqb1Mtpas) | [Lost2TheSound](https://open.spotify.com/album/0dzEElBKQIeLCMMkmRrVSi) | 3:20 |
 | 60 | [Pressure](https://open.spotify.com/track/15UU4ZRs2H51EerpEoGhZ7) | [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Pressure](https://open.spotify.com/album/1BfBUqYMPQF0N3GGM5QJEU) | 2:37 |
 
 Snapshot ID: `Zj41+gAAAAAG31OSWcLD18cpJsu/loK3`

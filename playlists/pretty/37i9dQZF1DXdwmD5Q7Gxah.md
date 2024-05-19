@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > 🪩 ft billie eilish, luna li, 4batz, the marias, royel otis and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,275 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,398 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

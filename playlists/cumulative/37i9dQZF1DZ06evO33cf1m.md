@@ -2,7 +2,7 @@
 
 ### [This Is La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33cf1m)
 
-> This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
+> This Is La Arrolladora Banda El Limón De Rene Camacho\. Los temas esenciales, todos en una lista.
 
 72 songs - 4 hr 5 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [ABC](https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [ABC](https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp) | 3:34 | 2024-01-27 | 2024-03-28 |
 | [Ahora Que Me Acuerdo](https://open.spotify.com/track/7r81SDmiDwPX4rcZJ6ULAp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Labios Mentirosos](https://open.spotify.com/album/7bHWxQdY2ys61jxpYMdicP) | 3:31 | 2023-08-08 | 2024-01-27 |
-| [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 | 2024-04-21 |  |
+| [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 | 2024-04-21 | 2024-05-19 |
 | [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 | 2023-08-08 |  |
 | [Belleza Pura](https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Belleza Pura](https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5) | 3:24 | 2023-08-08 | 2023-08-28 |
 | [Cabecita Dura](https://open.spotify.com/track/1y8vhYug05asslmpY8bFel) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 2:54 | 2023-08-08 |  |
@@ -20,7 +20,7 @@
 | [Como Pez En El Agua](https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:02 | 2023-08-08 |  |
 | [Compárame](https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 3:45 | 2023-08-08 |  |
 | [Confesión](https://open.spotify.com/track/2tth2JJ9zhSGVUj9VQGefc) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:41 | 2023-08-08 |  |
-| [Contigo](https://open.spotify.com/track/5jQ1icvyDOmfrJzTc4hmja) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 3:54 | 2024-02-02 | 2024-02-06 |
+| [Contigo](https://open.spotify.com/track/5jQ1icvyDOmfrJzTc4hmja) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 3:54 | 2024-02-02 |  |
 | [Cosas Que Nunca Te Dije](https://open.spotify.com/track/0HGXbI146t5TEeqC2KopAq) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:49 | 2024-03-18 |  |
 | [Cuéntame](https://open.spotify.com/track/7KfNNSQO6UCfvvsppqpD7q) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 3:28 | 2023-08-08 |  |
 | [De Memoria Me Las Sé](https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [De Memoria Me Las Sé](https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl) | 2:43 | 2023-08-08 | 2023-11-11 |
@@ -30,7 +30,7 @@
 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 | 2023-08-08 |  |
 | [El Ligue](https://open.spotify.com/track/259VEaK1wY5bNcsBSIlWz1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [El Ligue](https://open.spotify.com/album/4LIf95boqsTUKsZroY1Pqy) | 2:29 | 2024-03-02 | 2024-03-31 |
 | [El Precio De Mis Errores](https://open.spotify.com/track/4fwe0tALTJGY5OGX9v9NGf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:47 | 2023-12-30 |  |
-| [El Ruido De Tus Zapatos](https://open.spotify.com/track/3VhupipSGvOXrNrNvUwhs1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 4:25 | 2023-08-08 |  |
+| [El Ruido De Tus Zapatos](https://open.spotify.com/track/3VhupipSGvOXrNrNvUwhs1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 4:25 | 2023-08-08 | 2024-05-19 |
 | [El Tarasco](https://open.spotify.com/track/2CERhSl038O4NVErqwjzNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores](https://open.spotify.com/album/6X8lyLxsx0CjQC2zmB5tBM) | 3:09 | 2023-09-15 | 2024-02-22 |
 | [El Vaso Derrama](https://open.spotify.com/track/1Y9ngFP6W8X5sCswNZVRVH) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:23 | 2023-08-08 | 2023-12-14 |
 | [En Los Puritos Huesos](https://open.spotify.com/track/3EbJCtH2eZ3XdtEgW5OjYf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Acabó El Amor](https://open.spotify.com/album/3RQE9EK4sgE56SgXnVq7t3) | 2:53 | 2023-08-08 |  |

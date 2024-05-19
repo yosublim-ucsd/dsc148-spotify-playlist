@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Komorebi sunlight through trees",
+        "url": "https://open.spotify.com/album/6VcOA76z5hcfhy4NzBLQGw"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283114,
+      "name": "Anemoi",
+      "url": "https://open.spotify.com/track/2JQ2wFAD9tEooUsnIwMKiz"
+    },
+    {
+      "album": {
         "name": "East of the Full Moon",
         "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
       },

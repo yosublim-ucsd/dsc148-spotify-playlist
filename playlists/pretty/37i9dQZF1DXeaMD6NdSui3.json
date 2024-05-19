@@ -1,6 +1,6 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 145626,
+  "num_followers": 145676,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 230480,
-      "name": "La Grange - 2005 Remaster",
-      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
+      "duration_ms": 305053,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
       },
       "artists": [
         {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 305053,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -169,6 +169,38 @@
       "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
     },
     {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+      },
+      "artists": [
+        {
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+        }
+      ],
+      "duration_ms": 261920,
+      "name": "Good Texan",
+      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+    },
+    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Too Much is not enough",
@@ -191,38 +223,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Wait On Time",
-      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -239,18 +239,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
       "artists": [
         {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
         }
       ],
-      "duration_ms": 261920,
-      "name": "Good Texan",
-      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+      "duration_ms": 183560,
+      "name": "Wait On Time",
+      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -307,6 +307,22 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Me And My Guitar",
+      "url": "https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
         "name": "Too Much is not enough",
         "url": "https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 189040,
       "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
       "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Me And My Guitar",
-      "url": "https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7"
     },
     {
       "added_at": "2016-03-18 21:56:19",

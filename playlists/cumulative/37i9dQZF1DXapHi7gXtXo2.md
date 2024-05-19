@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-136 songs - 7 hr 37 min
+137 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [El Tesoro \- Picnic En el Piso Doce](https://open.spotify.com/track/32MBMGvoLp04yGrHnkNEh4) | [Picnic En el Piso Doce](https://open.spotify.com/artist/3d43bwt9N0fKfP5JRCzbO1), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El Tesoro \- Picnic En el Piso Doce](https://open.spotify.com/album/5ChGm7ffNc5DUPp9qjLhDj) | 4:02 | 2023-12-01 |  |
 | [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 3:56 | 2023-12-14 |  |
 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 | 2023-12-01 |  |
+| [En tu casa o en la mía \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conducción Temeraria](https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0) | 3:32 | 2024-05-17 |  |
 | [Epitafio](https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Epitafio](https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK) | 2:37 | 2023-12-01 |  |
 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 | 2024-01-19 |  |
 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 | 2023-12-01 | 2024-04-19 |
@@ -88,8 +89,8 @@
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2023-12-01 |  |
 | [Natación \- Acústico](https://open.spotify.com/track/1yBoSHwB98478ukWVGp0Qq) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Natación \(Acústico\)](https://open.spotify.com/album/4kzkWxw8Mx0O2jvphkJuVh) | 3:41 | 2024-04-12 | 2024-05-18 |
 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 | 2023-12-01 |  |
-| [No Me Quiero Ir Lejos](https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [No Me Quiero Ir Lejos](https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy) | 3:24 | 2024-04-12 |  |
-| [No Te Quedes Solo](https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [No Te Quedes Solo](https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U) | 3:30 | 2024-04-25 |  |
+| [No Me Quiero Ir Lejos](https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [No Me Quiero Ir Lejos](https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy) | 3:24 | 2024-04-12 | 2024-05-19 |
+| [No Te Quedes Solo](https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [No Te Quedes Solo](https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U) | 3:30 | 2024-04-25 | 2024-05-19 |
 | [Ojitos de Md](https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Ojitos de Md](https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv) | 2:17 | 2023-12-01 |  |
 | [Ojitos de Md \- Remix](https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ojitos de Md \(Remix\)](https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik) | 2:50 | 2023-12-01 |  |
 | [Oler A Ti](https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Oler A Ti](https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5) | 3:45 | 2024-04-12 |  |
@@ -100,7 +101,7 @@
 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 | 2023-12-01 |  |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-12-01 |  |
 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 | 2023-12-01 |  |
-| [Pinamar](https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Pinamar](https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k) | 2:59 | 2024-04-25 | 2024-05-06 |
+| [Pinamar](https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Pinamar](https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k) | 2:59 | 2024-04-25 |  |
 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 | 2023-12-01 |  |
 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 | 2024-04-12 |  |
 | [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 | 2024-05-17 |  |

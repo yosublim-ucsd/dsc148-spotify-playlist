@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,588 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,725 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 44 | [秘密警察](https://open.spotify.com/track/4yuoWqZccnf2YsaCS2nNQP) | [Buriru](https://open.spotify.com/artist/5Xxsr2TqEUrfMjGFp0vLzv) | [秘密警察](https://open.spotify.com/album/6js8o0Or77nO3bUUV7SUPe) | 3:30 |
 | 45 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
 | 46 | [恋愛裁判](https://open.spotify.com/track/6FAu0o2lio1akrQbnf877P) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Download feat.初音ミク](https://open.spotify.com/album/3mXJ1X0bSZ8qF1pl6nQvdD) | 3:42 |
-| 47 | [Knife](https://open.spotify.com/track/3Ihw9dUCollBvcOIqyByx1) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Knife](https://open.spotify.com/album/6egL3SdcmszqLuVd3Fw2DW) | 4:33 |
-| 48 | [東京テディベア](https://open.spotify.com/track/6m5Rk67linNHu66VBK434T) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [世界征服](https://open.spotify.com/album/6bUhLpHUvNZmABsIWHV3F9) | 3:14 |
+| 47 | [東京テディベア](https://open.spotify.com/track/6m5Rk67linNHu66VBK434T) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [世界征服](https://open.spotify.com/album/6bUhLpHUvNZmABsIWHV3F9) | 3:14 |
+| 48 | [Knife](https://open.spotify.com/track/3Ihw9dUCollBvcOIqyByx1) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Knife](https://open.spotify.com/album/6egL3SdcmszqLuVd3Fw2DW) | 4:33 |
 | 49 | [Blackjack](https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy) | [yuchaP](https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT) | [Trump](https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ) | 2:38 |
 | 50 | [ジターバグ](https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [ジターバグ](https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW) | 3:30 |
 | 51 | [リモコン](https://open.spotify.com/track/4ZaoxEyujcMzowX3WgPY0w) | [Wonderful★opportunity!](https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B) | [ワン☆オポ!vol.04](https://open.spotify.com/album/0PTi0Gqs5rzHlH4rH2TqBq) | 5:11 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cPo2t5Hqf.md) - [plain]
 | 65 | [SPiCa](https://open.spotify.com/track/0zRJAU4bV3GYa5CVxAKokG) | [tokuP](https://open.spotify.com/artist/4hSzJm2YTXFH8VRgPX2IkU) | [SPiCa](https://open.spotify.com/album/7CoAfW1ZHIfjN4RHdVcrxm) | 3:39 |
 | 66 | [すろぉもぉしょん](https://open.spotify.com/track/1X9bR5ap587qs7r1KSCIKN) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [しぼう](https://open.spotify.com/album/01FmZ0KiPJKElbvQjro8vx) | 5:13 |
 | 67 | [メテオ](https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s) | [John Zeroness](https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg) | [メテオ](https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr) | 8:36 |
-| 68 | [ピアノ×フォルテ×スキャンダル \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6UFEn1vSVfMx9MUN8ccdj0) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:56 |
-| 69 | [アドレサンス](https://open.spotify.com/track/0ckDfdfwk3CRAtWN2bRSze) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
-| 70 | [スキキライ](https://open.spotify.com/track/43571bfzMoPeXhUCVWayue) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:45 |
+| 68 | [アドレサンス](https://open.spotify.com/track/0ckDfdfwk3CRAtWN2bRSze) | [Dios/signalP](https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1) | [ReRections](https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t) | 4:37 |
+| 69 | [スキキライ](https://open.spotify.com/track/43571bfzMoPeXhUCVWayue) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 4:45 |
+| 70 | [ピアノ×フォルテ×スキャンダル \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6UFEn1vSVfMx9MUN8ccdj0) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:56 |
 | 71 | [テオ](https://open.spotify.com/track/6LpbtlqwvwxnRKC3xyu1CR) | [Omoi](https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq) | [ファーストワルツ](https://open.spotify.com/album/6WDtVilnzePTUujzcVKq59) | 3:30 |
 | 72 | [Last Night, Good Night](https://open.spotify.com/track/3rYSsIpkwI11kkBhAYvDSO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 6:20 |
 | 73 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 |

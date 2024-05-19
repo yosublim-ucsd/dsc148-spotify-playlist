@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 244893,
+  "num_followers": 245054,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Pasi\u00f3n Y Cumbia",
         "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 213026,
       "name": "Amor Regresa",
       "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Qu\u00e9 Cante El Amor",
-        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Al Despertar",
-      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Separece A Ti",
         "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
@@ -283,22 +267,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
       },
@@ -311,6 +279,22 @@
       "duration_ms": 162920,
       "name": "Como Agua en las Manos",
       "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -379,6 +363,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "Qu\u00e9 Cante El Amor",
+        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Al Despertar",
+      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Como un Dulce Poema, Vol. 3",
         "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 176560,
       "name": "Entrega De Amor",
       "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "A Donde Iras Ahora",
+      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -471,22 +487,6 @@
       "duration_ms": 187200,
       "name": "Matamoros Querido",
       "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "A Donde Iras Ahora",
-      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 287896,
-      "name": "En Mi Escritorio (La Carta)",
-      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 247000,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+        "name": "El Sonido Joven De La Cumbia",
+        "url": "https://open.spotify.com/album/5JEU6bHi5pXsQwNMjOA5Hr"
       },
       "artists": [
         {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+          "name": "Arturo Jaimes Y Los Cantantes",
+          "url": "https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx"
         }
       ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+      "duration_ms": 211533,
+      "name": "Fue En Diciembre",
+      "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "El Sonido Joven De La Cumbia",
-        "url": "https://open.spotify.com/album/5JEU6bHi5pXsQwNMjOA5Hr"
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
       },
       "artists": [
         {
-          "name": "Arturo Jaimes Y Los Cantantes",
-          "url": "https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx"
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
         }
       ],
-      "duration_ms": 211533,
-      "name": "Fue En Diciembre",
-      "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Nunca Me Faltes",
         "url": "https://open.spotify.com/album/4IERX704YcJHePC2n4irxt"
       },
@@ -1911,6 +1927,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "Historia Musical de Lisandro Meza",
+        "url": "https://open.spotify.com/album/0V8RCVW3lYuvm85lPDmhi9"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/330D8XpYEkoAZO7cqAnFOb"
+        }
+      ],
+      "duration_ms": 253082,
+      "name": "Te Llevar\u00e9",
+      "url": "https://open.spotify.com/track/2cn3mFX1JMuas2e41ZEbP1"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us"
       },
@@ -1947,6 +1979,38 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
+        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
+      },
+      "artists": [
+        {
+          "name": "Perla Colombiana",
+          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
+        }
+      ],
+      "duration_ms": 218853,
+      "name": "Agua de vida",
+      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Amor de Internet",
         "url": "https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW"
       },
@@ -1975,70 +2039,6 @@
       "duration_ms": 232756,
       "name": "No Te Voy A Perdonar",
       "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "Cumbia Sabrosa",
-        "url": "https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 255164,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9"
-      },
-      "artists": [
-        {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "Suavecito Suavecito",
-      "url": "https://open.spotify.com/track/6Ysnd9T4uIhQesbWK672GF"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "Con Carino A Oaxaca",
-        "url": "https://open.spotify.com/album/0IuDm4Z0RGNVsPZBDcNnUJ"
-      },
-      "artists": [
-        {
-          "name": "Simba Musical",
-          "url": "https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J"
-        }
-      ],
-      "duration_ms": 354520,
-      "name": "Mix Juguito De Pina",
-      "url": "https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "21 Black Jack (Nueva Edici\u00f3n Remasterizada)",
-        "url": "https://open.spotify.com/album/0rKlN9fAqM0pRc3h0P4txO"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/1cOy0Jd1F4VO7ry3ZdixWI"
     }
   ],
   "unique_name": "Cumbias Viejitas",

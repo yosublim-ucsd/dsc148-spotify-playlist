@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,760 likes - 510 songs - 1 day 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,761 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,8 +287,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 277 | [Nothing Hurts Like Love](https://open.spotify.com/track/72HPQqLjTB273IrE7cnHNx) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/2IGzeXqhpPyj3hsblRnUA1) | 3:04 |
 | 278 | [Body to Body, Heart to Heart](https://open.spotify.com/track/4DKnzfWjpSw77g9hW82qXx) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 3:58 |
 | 279 | [Was It Something I Didn't Say \- Acoustic Version](https://open.spotify.com/track/4pJTZYH1Zq4Z9kQ6Zr42Ku) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Was It Something I Didn't Say](https://open.spotify.com/album/50pwpeDPHfLatchFCRCyGE) | 5:11 |
-| 280 | [Chasin' the Wind \- 2009 Remaster](https://open.spotify.com/track/1HkwWmPgucFhkf3znwiKHE) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:19 |
-| 281 | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/track/2X4SVUKg4wvQFJjdt8vPZx) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/album/29dax1uaLwWUkIfArGqGjP) | 3:35 |
+| 280 | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/track/2X4SVUKg4wvQFJjdt8vPZx) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/album/29dax1uaLwWUkIfArGqGjP) | 3:35 |
+| 281 | [Chasin' the Wind \- 2009 Remaster](https://open.spotify.com/track/1HkwWmPgucFhkf3znwiKHE) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:19 |
 | 282 | [Give Our Love A Fightin' Chance](https://open.spotify.com/track/2AAncJGhaot7e3Be7QSQlB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:06 |
 | 283 | [Every Road Leads Back to You](https://open.spotify.com/track/2Rqjs2uSnjmbpAMG4T4G64) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [For the Boys \(Music from the Motion Picture\)](https://open.spotify.com/album/478uzZcKkV2fmQx6hmNYIv) | 3:47 |
 | 284 | [If I Was A River](https://open.spotify.com/track/4rR7VsNybSF84FRMho7DGU) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [In Deep](https://open.spotify.com/album/3btFeEZj2oDNbNKK2YHr6a) | 5:20 |
@@ -303,8 +303,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 293 | [Don't Make Me Live Without You](https://open.spotify.com/track/4QamiGJ7vPuJvBCeCQgRMx) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:00 |
 | 294 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 |
 | 295 | [No Cambies Nunca](https://open.spotify.com/track/1OJWlKLKnn08aK89mr44I6) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Renaissance \(Boxset\)](https://open.spotify.com/album/2nXdt2kzRDGDTDbrudfms9) | 4:38 |
-| 296 | [Real](https://open.spotify.com/track/2QpPdXi2P1faOWJF7sCpbR) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Natalia Jiménez](https://open.spotify.com/album/0dX49zpwRsHhSbS8FydkNn) | 3:38 |
-| 297 | [Couldn't We](https://open.spotify.com/track/6WHzVPpUITX9rh6SgoI9uV) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:32 |
+| 296 | [Couldn't We](https://open.spotify.com/track/6WHzVPpUITX9rh6SgoI9uV) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:32 |
+| 297 | [Real](https://open.spotify.com/track/2QpPdXi2P1faOWJF7sCpbR) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Natalia Jiménez](https://open.spotify.com/album/0dX49zpwRsHhSbS8FydkNn) | 3:38 |
 | 298 | [Where Do I Go From You](https://open.spotify.com/track/6Z4z8B5DQiDJSB9iWOi1G0) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:25 |
 | 299 | [The Plumbing Song](https://open.spotify.com/track/4feL1rU1EcDRDQHetpFYlr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Off The Deep End](https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL) | 4:06 |
 | 300 | [Stop Time Tonight](https://open.spotify.com/track/2XmSd93cDzMcFoZR3JYTrL) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Life](https://open.spotify.com/album/37QTLk15OwBegvWfBWk36J) | 4:00 |
@@ -411,8 +411,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 401 | [I'm Not the Only One](https://open.spotify.com/track/3xZGfL0rWt7zFTzp6Xg7Sf) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Branigan 2](https://open.spotify.com/album/7KYSQrbIraNspxKXbXoJ8e) | 3:23 |
 | 402 | [Kiss The Tears Away](https://open.spotify.com/track/4T1jx2xp7eMhHs5goliNrG) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Healing](https://open.spotify.com/album/0sPRYfrksFvUr6eq4jdgSe) | 4:02 |
 | 403 | [I Miss U Missing Me](https://open.spotify.com/track/2F4LgGTiUPzdUcdxYnTcPg) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [I, 魚, 光, 鏡](https://open.spotify.com/album/40j9k1XSwTJzxJI0DKc1qO) | 3:19 |
-| 404 | [Call Me Crazy](https://open.spotify.com/track/0juYo9rDBAi3egwH9OVdmV) | [Patricia Kelly](https://open.spotify.com/artist/1kJJf3Y5B4VatTp5CRhic7) | [One More Year](https://open.spotify.com/album/1X3YuXpeC9M2OZQ4Xn0u8P) | 4:36 |
-| 405 | [If I Ever See Heaven Again](https://open.spotify.com/track/16dv6e38orR41IbHdzMqzO) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 4:22 |
+| 404 | [If I Ever See Heaven Again](https://open.spotify.com/track/16dv6e38orR41IbHdzMqzO) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 4:22 |
+| 405 | [Call Me Crazy](https://open.spotify.com/track/0juYo9rDBAi3egwH9OVdmV) | [Patricia Kelly](https://open.spotify.com/artist/1kJJf3Y5B4VatTp5CRhic7) | [One More Year](https://open.spotify.com/album/1X3YuXpeC9M2OZQ4Xn0u8P) | 4:36 |
 | 406 | [Wreck You](https://open.spotify.com/track/7fdyO2uOxnVTF9tvJMxRfC) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 3:48 |
 | 407 | [Boardwalk Baby](https://open.spotify.com/track/2BlJkmdl1UqKdIMMU2lTzd) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Nothing to Lose](https://open.spotify.com/album/6gqWlgSc7BV8Dv5DSW6HNz) | 5:03 |
 | 408 | [When We Dance Slow](https://open.spotify.com/track/1q7VFI76pvu6wrmWADHL24) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:34 |
@@ -516,7 +516,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 506 | [I want it to be me](https://open.spotify.com/track/02AL6ZhgaPtegJ1ZsGUB1O) | [Kyle Grant](https://open.spotify.com/artist/0AQwmvhVn1UuoGOG5DOynX) | [When Dreams Go Out To Play](https://open.spotify.com/album/7fohMuB9oEyVTzjenU9xvY) | 3:53 |
 | 507 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 |
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
-| 509 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
-| 510 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
+| 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbRmogAAAADK0tFP2E9lPIjXNXEjthsm`
+Snapshot ID: `AbRsggAAAAAz7Y8Io7v53I7hqnIyXohB`

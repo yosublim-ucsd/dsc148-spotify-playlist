@@ -4,7 +4,7 @@
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-268 songs - 17 hr 1 min
+269 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 | 2023-07-28 |  |
 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 | 2021-12-09 |  |
 | [Bailar Contigo](https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bailar Contigo](https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf) | 3:40 | 2021-12-09 | 2023-03-08 |
-| [Bailo Pa' Mí](https://open.spotify.com/track/3tpnKVGsD8uX8osFIpXuGs) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Rojo Rubí](https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe) | 3:20 | 2024-05-17 |  |
+| [Bailo Pa' Mí](https://open.spotify.com/track/3tpnKVGsD8uX8osFIpXuGs) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Rojo Rubí](https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe) | 3:20 | 2024-05-17 | 2024-05-19 |
 | [Bamboleo](https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:23 | 2022-01-01 | 2023-03-08 |
 | [Bamboleo](https://open.spotify.com/track/7zyC7ZYx9bzhZE7OQvIIxO) | [Jahloul Bouchikhi](https://open.spotify.com/artist/7yLLhvAgtCLYy4jQjdvim8), [Nicolas Reyes](https://open.spotify.com/artist/4ZEbnHVcQHXbtkOhg8mDAT), [Simón Díaz](https://open.spotify.com/artist/29GjVRVQSln078FWYOX4r4), [Tonino Baliardo](https://open.spotify.com/artist/3pUWmkSef9vJOPDViYGZ5L), [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Best of Gipsy Kings](https://open.spotify.com/album/6GGrPncyfzwZwfgJEwTodp) | 3:24 | 2022-08-31 | 2022-11-13 |
 | [Bamboléo](https://open.spotify.com/track/3qzVJh6INW1CzSDVR9MRgS) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/21Hxqmg032UyDlZydqS4DW) | 3:23 | 2021-12-09 | 2022-07-28 |
@@ -115,6 +115,7 @@
 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 | 2024-05-17 |  |
 | [Grietas](https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Grietas](https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3) | 5:13 | 2023-10-27 |  |
 | [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 | 2021-12-09 |  |
+| [Guapachosa](https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Eric Chacón](https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR) | [Guapachosa](https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj) | 3:06 | 2024-05-17 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-12-09 |  |
 | [Jogando Capoeira](https://open.spotify.com/track/38gAlHeR2U1ptn4mPC1cal) | [Beatfanatic](https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA) | [Latin Concrete: A Modern Latin Beat Suite mixed and compiled by Chris Read](https://open.spotify.com/album/5sImLUIHsB11XCDNHSBfgf) | 6:45 | 2021-12-09 | 2022-07-29 |
 | [Jogando Capoiera](https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi) | [Beatfanatic](https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA) | [Jogando Capoiera / Cookin'](https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi) | 6:50 | 2022-01-01 | 2024-01-22 |

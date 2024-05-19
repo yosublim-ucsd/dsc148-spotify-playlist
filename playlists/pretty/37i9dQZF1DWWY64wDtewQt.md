@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,116,239 likes - 100 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,124,778 likes - 100 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 97 | [ASTRO](https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm), [zaichkou888](https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte) | [ASTRO](https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC) | 2:24 |
 | 98 | [ENOUGH!](https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [ENOUGH!](https://open.spotify.com/album/79JiT9zVDCmny1DRigOe9X) | 1:30 |
 | 99 | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/album/367E0XjthTZ3hHVkN5ezJr) | 2:39 |
-| 100 | [DEMONÍACO MANO](https://open.spotify.com/track/1Ucdq5ig5JvlNis649Q7GY) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [ENZYYYPHONK](https://open.spotify.com/artist/2Ku04T3w1OrFWsJ3ahbZNF) | [DEMONÍACO MANO](https://open.spotify.com/album/3dAc7764DFSY7BanqbUVOU) | 1:24 |
+| 100 | [DEMONÍACO MANO](https://open.spotify.com/track/1Ucdq5ig5JvlNis649Q7GY) | [DJ FKU, ENZYYYPHONK, Mc Gw](https://open.spotify.com/artist/4wnV4vJESezU3lmU9y4LVC) | [DEMONÍACO MANO](https://open.spotify.com/album/3dAc7764DFSY7BanqbUVOU) | 1:24 |
 
 Snapshot ID: `ZkdjywAAAAA5iuKxC6t+DCUzhKQ1A0+T`

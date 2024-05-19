@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Celo1st
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,779 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,787 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 16 | [Imaginando Coisas](https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Imaginando Coisas](https://open.spotify.com/album/19fl2xItHFfkV3zzZtGYXf) | 3:33 |
 | 17 | [Superficial](https://open.spotify.com/track/1e0gwbwYDglB5jDzACIxzj) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Superficial](https://open.spotify.com/album/3vhZlqpbymc0Ur4X6ZKBZJ) | 2:58 |
 | 18 | [Vida ou Fama ?](https://open.spotify.com/track/3dFAEAV1s05SXwpC9LPo7u) | [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV) | [Vida ou Fama ?](https://open.spotify.com/album/5kgS3c4fDuFxhuj35Kk62w) | 2:38 |
-| 19 | [MLK MONSTRO](https://open.spotify.com/track/3bV84mm4scfSDw6AmALYfs) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [MLK MONSTRO](https://open.spotify.com/album/3eksBWsguoaZ5DmowEP8rz) | 2:00 |
+| 19 | [MLK MONSTRO](https://open.spotify.com/track/3bV84mm4scfSDw6AmALYfs) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [MLK MONSTRO](https://open.spotify.com/album/3eksBWsguoaZ5DmowEP8rz) | 2:00 |
 | 20 | [Nem sei](https://open.spotify.com/track/0S7Vwa5qvtRyWum2LWtjrP) | [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p), [paniagonobeat](https://open.spotify.com/artist/3Z3KpO4RqycQD8f4hfnT3g), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Nem sei](https://open.spotify.com/album/73PDX2aGlYnBR7oHjfiiGJ) | 2:37 |
 | 21 | [ME DIZ QUEM](https://open.spotify.com/track/05sxyHW2Kc1iUE23LPLUPK) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [ME DIZ QUEM](https://open.spotify.com/album/5Nu3kt1PhXlhDalF9k9WPi) | 4:24 |
 | 22 | [The Box Freestyle](https://open.spotify.com/track/7tTveHsCrd7NTGQDT9PxfP) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [The Box Freestyle](https://open.spotify.com/album/30BrIOSHXUQCNXz2mGW4cN) | 2:41 |

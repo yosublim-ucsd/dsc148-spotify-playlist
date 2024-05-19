@@ -1,6 +1,6 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 276909,
+  "num_followers": 277040,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
         "name": "Wanted (Piano & Cello Version) / Haven\u2019t Seen It Yet (Acoustic)",
         "url": "https://open.spotify.com/album/2lpiHMogTupT75qNnleilE"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 262889,
       "name": "Wide Place",
       "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
-        "name": "Meadow",
-        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Meadow",
-      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Christ Be In My Heart",
-        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
-      },
-      "artists": [
-        {
-          "name": "Sam McCabe",
-          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 288529,
-      "name": "Christ Be In My Heart",
-      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -655,18 +635,22 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "The Things We Did at First",
-        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
+        "name": "Christ Be In My Heart",
+        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
       },
       "artists": [
         {
-          "name": "Sean Feucht",
-          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
         }
       ],
-      "duration_ms": 238478,
-      "name": "When My Heart Became Aware",
-      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
+      "duration_ms": 288529,
+      "name": "Christ Be In My Heart",
+      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -687,6 +671,22 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "The Things We Did at First",
+        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
+      },
+      "artists": [
+        {
+          "name": "Sean Feucht",
+          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
+        }
+      ],
+      "duration_ms": 238478,
+      "name": "When My Heart Became Aware",
+      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "On Christ (House Church)",
-        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "On Christ (House Church)",
-      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Valley (CalledOut Music Remix)",
         "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
       },
@@ -947,6 +931,38 @@
       "duration_ms": 187124,
       "name": "Valley - CalledOut Music Remix",
       "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "On Christ (House Church)",
+        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "On Christ (House Church)",
+      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Thank God I Do",
         "url": "https://open.spotify.com/album/0E1Ip2z8HR4ZYobvGTSlbJ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 169188,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/1V89zM9vgYVK4wyuasc74p"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Simple Song",
-        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 202117,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "YOUR NAME IS POWER (Acoustic)",
         "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 274546,
       "name": "Ashes to Skies",
       "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Simple Song",
+        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 202117,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Holy Forever (Acoustic)",
         "url": "https://open.spotify.com/album/2PbAV9JMhQr8Rk5myr5AOc"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 289315,
       "name": "The Word Remains",
       "url": "https://open.spotify.com/track/5PfYj5wpkr3whpuydlL5pR"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
-      },
-      "artists": [
-        {
-          "name": "Finding Favour",
-          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
-        }
-      ],
-      "duration_ms": 221684,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Fortress (Acoustic)",
         "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 249485,
       "name": "Fortress (Acoustic)",
       "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
+      },
+      "artists": [
+        {
+          "name": "Finding Favour",
+          "url": "https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM"
+        }
+      ],
+      "duration_ms": 221684,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Just As I Am (Nothing to Prove)",
         "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 216436,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2024-05-03 04:30:27",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-05-03 04:30:27",
       "album": {
-        "name": "Letting Go (Alternate Version)",
-        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 212739,
-      "name": "Letting Go - Alternate Version",
-      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
-    },
-    {
-      "added_at": "2024-05-03 04:30:27",
-      "album": {
         "name": "Worth Mine",
         "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 280054,
       "name": "Worth Mine",
       "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
+    },
+    {
+      "added_at": "2024-05-03 04:30:27",
+      "album": {
+        "name": "Letting Go (Alternate Version)",
+        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 212739,
+      "name": "Letting Go - Alternate Version",
+      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
     },
     {
       "added_at": "2024-05-03 04:30:27",

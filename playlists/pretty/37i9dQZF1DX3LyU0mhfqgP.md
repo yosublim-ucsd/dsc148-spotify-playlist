@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Luisa Almaguer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,312 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,303 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,23 +22,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 12 | [all\-american bitch!](https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [all\-american bitch!](https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT) | 2:28 |
 | 13 | [TODOS LOS DÍAS](https://open.spotify.com/track/2qTIRmguqQTQaeWbDdeH31) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [TODOS LOS DÍAS](https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf) | 3:56 |
 | 14 | [Sexed & Sexual](https://open.spotify.com/track/6sV5HbMxga42MODRJqdH85) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Sexed & Sexual](https://open.spotify.com/album/7AJq7TVlbNRZqTFFB0C6px) | 2:54 |
-| 15 | [World's End](https://open.spotify.com/track/4vUF4Iw4grur04S5yOm5Vs) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [World's End](https://open.spotify.com/album/1SMSn40SBGpox80IyftsEO) | 2:37 |
-| 16 | [false gold](https://open.spotify.com/track/026wFwWe0DnvTvUAiVtiwL) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [false gold](https://open.spotify.com/album/6IReN9wvy1EKmJIETCBI9Z) | 2:54 |
-| 17 | [Io voglio te](https://open.spotify.com/track/3AeJSXkD5OUyIN13QNWXaT) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Sei nel l'anima](https://open.spotify.com/album/3qoUOO1m5BrCOagNHlCG3H) | 4:25 |
-| 18 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 |
-| 19 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 |
-| 20 | [Berlin Nightlife](https://open.spotify.com/track/4ZfGaeQIGPLEid3GTGI5tz) | [Harrison McClary](https://open.spotify.com/artist/2l8YMGXFLdgBJzXivf4xkT) | [A Rare Collection Of My Fantasies](https://open.spotify.com/album/4Fbe1j52WikTsZzccSKNtE) | 3:45 |
-| 21 | [Instructions For Fate](https://open.spotify.com/track/4SipYhkCTVqcDqGb7Uv5cw) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Instructions For Fate](https://open.spotify.com/album/1l4qaqIHAbv7ANmpjgjJy3) | 2:04 |
-| 22 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 |
-| 23 | [Rockabye](https://open.spotify.com/track/1yMzSOuuTWGG4HEGNJYqWE) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [Rockabye](https://open.spotify.com/album/1KqHxx5Q7SHF9u7ws1up2v) | 2:30 |
-| 24 | [Sám](https://open.spotify.com/track/4DYUH42RaIlbw5BOyCKZQ2) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Sám](https://open.spotify.com/album/1GuSjk4uLoEQk2AbXv0TJL) | 3:04 |
-| 25 | [Heavy Pour](https://open.spotify.com/track/0QAc3lLqDEseK9I3G18fiF) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Heavy Pour](https://open.spotify.com/album/3Wts0iKSOrE244mqwSS0kN) | 3:50 |
-| 26 | [loose ends](https://open.spotify.com/track/41ebdHkSEAtXHiDEv4FION) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [loose ends](https://open.spotify.com/album/0jvScbCxaPwBztE5hufbUV) | 2:48 |
-| 27 | [His car](https://open.spotify.com/track/1COQ1NcGoreiQRKnxQkWXA) | [Matt Terry](https://open.spotify.com/artist/2JLqTvFXmC87BksiCsBezV) | [His car](https://open.spotify.com/album/1HPvXQcys0sKb8KMxFXGHq) | 3:06 |
-| 28 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 |
-| 29 | [Would You \- From the Movie „Summer with Maria"](https://open.spotify.com/track/4J8zIgcx4Zxd9t4il7uyH4) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Would You \(From the Movie „Summer with Maria"\)](https://open.spotify.com/album/57E5ATNsiZ7wQ1bU5xBbVD) | 2:50 |
-| 30 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
-| 31 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 |
+| 15 | [Feel My Feelings](https://open.spotify.com/track/0m2PIy7YXNPK44p7LRoFwA) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:44 |
+| 16 | [World's End](https://open.spotify.com/track/4vUF4Iw4grur04S5yOm5Vs) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [World's End](https://open.spotify.com/album/1SMSn40SBGpox80IyftsEO) | 2:37 |
+| 17 | [false gold](https://open.spotify.com/track/026wFwWe0DnvTvUAiVtiwL) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [false gold](https://open.spotify.com/album/6IReN9wvy1EKmJIETCBI9Z) | 2:54 |
+| 18 | [encore](https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [encore](https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k) | 2:49 |
+| 19 | [Io voglio te](https://open.spotify.com/track/3AeJSXkD5OUyIN13QNWXaT) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Sei nel l'anima](https://open.spotify.com/album/3qoUOO1m5BrCOagNHlCG3H) | 4:25 |
+| 20 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 |
+| 21 | [Berlin Nightlife](https://open.spotify.com/track/4ZfGaeQIGPLEid3GTGI5tz) | [Harrison McClary](https://open.spotify.com/artist/2l8YMGXFLdgBJzXivf4xkT) | [A Rare Collection Of My Fantasies](https://open.spotify.com/album/4Fbe1j52WikTsZzccSKNtE) | 3:45 |
+| 22 | [Instructions For Fate](https://open.spotify.com/track/4SipYhkCTVqcDqGb7Uv5cw) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Instructions For Fate](https://open.spotify.com/album/1l4qaqIHAbv7ANmpjgjJy3) | 2:04 |
+| 23 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 |
+| 24 | [Rockabye](https://open.spotify.com/track/1yMzSOuuTWGG4HEGNJYqWE) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [Rockabye](https://open.spotify.com/album/1KqHxx5Q7SHF9u7ws1up2v) | 2:30 |
+| 25 | [Sám](https://open.spotify.com/track/4DYUH42RaIlbw5BOyCKZQ2) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Sám](https://open.spotify.com/album/1GuSjk4uLoEQk2AbXv0TJL) | 3:04 |
+| 26 | [Heavy Pour](https://open.spotify.com/track/0QAc3lLqDEseK9I3G18fiF) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Heavy Pour](https://open.spotify.com/album/3Wts0iKSOrE244mqwSS0kN) | 3:50 |
+| 27 | [loose ends](https://open.spotify.com/track/41ebdHkSEAtXHiDEv4FION) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [loose ends](https://open.spotify.com/album/0jvScbCxaPwBztE5hufbUV) | 2:48 |
+| 28 | [His car](https://open.spotify.com/track/1COQ1NcGoreiQRKnxQkWXA) | [Matt Terry](https://open.spotify.com/artist/2JLqTvFXmC87BksiCsBezV) | [His car](https://open.spotify.com/album/1HPvXQcys0sKb8KMxFXGHq) | 3:06 |
+| 29 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 |
+| 30 | [Would You \- From the Movie „Summer with Maria"](https://open.spotify.com/track/4J8zIgcx4Zxd9t4il7uyH4) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Would You \(From the Movie „Summer with Maria"\)](https://open.spotify.com/album/57E5ATNsiZ7wQ1bU5xBbVD) | 2:50 |
+| 31 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 |
 | 32 | [LOVE ME MORE](https://open.spotify.com/track/3Vo4iueKVM9o2BurvSJagg) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [LOVE ME MORE](https://open.spotify.com/album/1rruN0RVM5GRpYwaLXZLoR) | 2:46 |
 | 33 | [Jennifer's Body](https://open.spotify.com/track/71Z9lVx6sqrTDt1u6CVjFG) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/12GilM96PJR4LBKqJ8e1dk) | 1:57 |
 | 34 | [本世紀最怪](https://open.spotify.com/track/7k5eVvETDVDNJUrqBWdnGi) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [本世紀最怪](https://open.spotify.com/album/41XHCYpNdlcPtgyM6gORc7) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Oh Lord](https://open.spotify.com/track/4jdB1yZ4qT6UqMk8ZgFZbj) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Oh Lord](https://open.spotify.com/album/5LDKT2LTboIOCLmeMAnkKW) | 2:57 |
 | 50 | [Love Myself Instead](https://open.spotify.com/track/5bCcGYOhitThd1TcVzLI04) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Love Myself Instead](https://open.spotify.com/album/1RBPuehtgS8FzuqVuk18qN) | 3:36 |
 
-Snapshot ID: `ZkSVsAAAAADIhuuPKcrKjai+fUwz6rB5`
+Snapshot ID: `ZkiR0AAAAADJgeYMgdrF+53gbP3wcK9K`

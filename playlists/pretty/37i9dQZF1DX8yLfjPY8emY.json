@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1109781,
+  "num_followers": 1110019,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
@@ -859,18 +859,26 @@
     {
       "added_at": "2023-11-10 07:11:00",
       "album": {
-        "name": "Triste y Vac\u00eda",
-        "url": "https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV"
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
       },
       "artists": [
         {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Kumbia Kings",
+          "url": "https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir"
         }
       ],
-      "duration_ms": 194506,
-      "name": "El Viejo Panz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
+      "duration_ms": 232480,
+      "name": "Tu Y Yo - Cumbia Remix",
+      "url": "https://open.spotify.com/track/5ZYR17P7sT73hcIMn9tmZ8"
     }
   ],
   "unique_name": "100% Cumbia",

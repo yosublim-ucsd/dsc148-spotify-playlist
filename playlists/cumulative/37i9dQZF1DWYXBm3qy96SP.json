@@ -16209,6 +16209,24 @@
     },
     {
       "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198748,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
+    },
+    {
+      "album": {
         "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
         "url": "https://open.spotify.com/album/3Thd54fS872SfhVe35JckI"
       },
@@ -16386,6 +16404,24 @@
       "duration_ms": 304812,
       "name": "Rain on the Graves",
       "url": "https://open.spotify.com/track/2DYquEUcjmMjxZYFKPON4L"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },
     {
       "album": {
@@ -20176,7 +20212,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 237533,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ"
@@ -20580,7 +20616,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 224044,
       "name": "This Is Nowhere",
       "url": "https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr"

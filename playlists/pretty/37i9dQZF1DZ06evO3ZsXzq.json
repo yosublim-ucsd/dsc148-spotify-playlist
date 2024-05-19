@@ -1,12 +1,12 @@
 {
-  "description": "This is Harry Styles. The essential tracks, all in one playlist.",
+  "description": "This Is Harry Styles. Los temas esenciales, todos en una lista.",
   "num_followers": 11807,
   "original_name": "This Is Harry Styles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAjVPCCpKVaj/Ky+VH0FDbV",
+  "snapshot_id": "ZkaeAAAAAAAp8Ffywnk5YdNT2C7J1pFy",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 164533,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
+      "duration_ms": 140241,
+      "name": "Keep Driving",
+      "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 140241,
-      "name": "Keep Driving",
-      "url": "https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE"
+      "duration_ms": 164533,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
     },
     {
       "added_at": null,

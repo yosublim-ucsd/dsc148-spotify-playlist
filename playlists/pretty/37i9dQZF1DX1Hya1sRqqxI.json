@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 415467,
+  "num_followers": 415898,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/6YlOxoHWLjH6uVQvxUIUug"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "War And Peace",
-        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
-      },
-      "artists": [
-        {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "War",
-      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Glitter",
@@ -1591,6 +1575,22 @@
       "duration_ms": 193253,
       "name": "Rock 'n' Roll (Part 2)",
       "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "War And Peace",
+        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
-        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
-      },
-      "artists": [
-        {
-          "name": "Santa Esmeralda",
-          "url": "https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS"
-        }
-      ],
-      "duration_ms": 628546,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Dancing In The Moonlight",
         "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
       },
@@ -1775,18 +1759,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Santa Esmeralda",
+          "url": "https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS"
         }
       ],
-      "duration_ms": 186093,
-      "name": "Back Stabbers",
-      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
+      "duration_ms": 628546,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1803,6 +1787,22 @@
       "duration_ms": 348066,
       "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Back Stabbers",
+      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2141,22 +2141,6 @@
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N"
-      },
-      "artists": [
-        {
-          "name": "The Rubettes",
-          "url": "https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Sugar Baby Love",
-      "url": "https://open.spotify.com/track/294ii3rwz6bTJ2XMn5BDu0"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
@@ -2191,6 +2175,22 @@
       "duration_ms": 295480,
       "name": "Hot Love - A Side",
       "url": "https://open.spotify.com/track/4R5qHNB2gdxBM2LDNaJZeO"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N"
+      },
+      "artists": [
+        {
+          "name": "The Rubettes",
+          "url": "https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Sugar Baby Love",
+      "url": "https://open.spotify.com/track/294ii3rwz6bTJ2XMn5BDu0"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 127493,
+      "name": "Travelin' Band",
+      "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Just Another Way To Say I Love You",
         "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
       },
@@ -2407,34 +2423,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+        "name": "Vehicle",
+        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "The Ides Of March",
+          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
         }
       ],
-      "duration_ms": 127493,
-      "name": "Travelin' Band",
-      "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Once Upon A Star",
-        "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
-      },
-      "artists": [
-        {
-          "name": "Bay City Rollers",
-          "url": "https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
+      "duration_ms": 178066,
+      "name": "Vehicle",
+      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
     }
   ],
   "unique_name": "70s Party",

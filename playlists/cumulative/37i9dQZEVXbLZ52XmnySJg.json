@@ -646,7 +646,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho (From \"Tamasha\")",
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
@@ -5996,10 +5996,6 @@
         {
           "name": "Karan Aujla",
           "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Mxrci",
-          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
         }
       ],
       "date_added": "2024-05-11",
@@ -9118,7 +9114,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 213344,
       "name": "Kinni Kinni",
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
@@ -13568,7 +13564,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 247286,
       "name": "Pal",
       "url": "https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC"
@@ -19602,6 +19598,24 @@
       "duration_ms": 273499,
       "name": "Wild Flower (with youjeen)",
       "url": "https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q"
+    },
+    {
+      "album": {
+        "name": "Winning Speech",
+        "url": "https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "Winning Speech",
+      "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
     },
     {
       "album": {

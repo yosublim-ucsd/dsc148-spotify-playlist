@@ -3015,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Flagstaff",
+        "url": "https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM"
+      },
+      "artists": [
+        {
+          "name": "Ax and the Hatchetmen",
+          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
+        }
+      ],
+      "date_added": "2024-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167370,
+      "name": "Flagstaff",
+      "url": "https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u"
+    },
+    {
+      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/4uDAyNO819g7fiZBdkHQGw"
       },
@@ -6366,7 +6384,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 206640,
       "name": "Nobody (feat. dodie)",
       "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"

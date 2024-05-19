@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,991 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,002 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 53 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
 | 54 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 |
 | 55 | [Kijk Naar Mij](https://open.spotify.com/track/6nfPKQFw339Ym4FVwNAxgB) | [David Vandyck](https://open.spotify.com/artist/52OZ481qchFO5O93MbsLsJ) | [Kijk Naar Mij](https://open.spotify.com/album/5tngCoiTncnWsBVvJrxYQR) | 3:06 |
-| 56 | [New Generation](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
+| 56 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
 | 57 | [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 |
 | 58 | [Wonderful](https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Wonderful](https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw) | 3:46 |
 | 59 | [Saint\-Tropez](https://open.spotify.com/track/21LD1TkBuAbfwvVdBSxftY) | [Hugo](https://open.spotify.com/artist/6QhPY5EuK8fFw2ldrKdR3X) | [Saint\-Tropez](https://open.spotify.com/album/1rv3XvCtfqrgElxIDevsIH) | 3:09 |

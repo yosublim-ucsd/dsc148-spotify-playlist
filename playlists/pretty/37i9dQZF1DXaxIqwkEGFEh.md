@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,543 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,655 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 39 | [350](https://open.spotify.com/track/42TFM7pxF8mRUJTWJdGMeS) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:13 |
 | 40 | [Heavy Fraud](https://open.spotify.com/track/2nmzuZy2eg8c9xmcdCG6IB) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Forget Me Not](https://open.spotify.com/album/1IOxq6YB4Rb5kANFxa5Vbe) | 3:23 |
 | 41 | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/track/5RknKQS8uPXks3pCETEUKY) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/album/18xz1i3XiHFJolH6VNqYQ3) | 2:46 |
-| 42 | [GTA \(feat\. Skilla Baby\)](https://open.spotify.com/track/20trBihLuFOnNKVzRhGctQ) | [DJ Bandz](https://open.spotify.com/artist/5udyUlqdlwMbNkGseDKypM), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [GTA \(feat\. Skilla Baby\)](https://open.spotify.com/album/5Npm2NijowUYnwURf6wbrw) | 2:31 |
+| 42 | [GTA \(feat\. Skilla Baby\)](https://open.spotify.com/track/20trBihLuFOnNKVzRhGctQ) | [DJ Bandz](https://open.spotify.com/artist/7KnXSV7gkQLmGczm2akVOk), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [GTA \(feat\. Skilla Baby\)](https://open.spotify.com/album/5Npm2NijowUYnwURf6wbrw) | 2:31 |
 | 43 | [Act A Donkey](https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Act A Donkey](https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg) | 3:23 |
 | 44 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 |
 | 45 | [R.I.C.O.](https://open.spotify.com/track/1xwwiCARYUFeKtmPoT048O) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [R.I.C.O.](https://open.spotify.com/album/67YBVlnEXCvoBsr6lSI231) | 4:08 |

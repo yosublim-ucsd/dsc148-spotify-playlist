@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2024\. See you on the dancefloor.
 
-280 songs - 17 hr 7 min
+281 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-08-26 | 2023-08-21 |
 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 | 2023-04-04 | 2023-10-01 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-04-04 | 2024-04-20 |
+| [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-17 |  |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 |  |
 | [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0pD9kpqznUhnLSLnYcGPGo) | [AZARI](https://open.spotify.com/artist/4eQ3rdpKpUppzKWHnnly5S), [III](https://open.spotify.com/artist/1PIdgDl8Y7v2CilSXqSqs2), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Hungry For The Power](https://open.spotify.com/album/16vwGGPzqZ4Ldc0Fi3N6go) | 6:46 | 2022-08-26 | 2022-11-13 |
 | [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Remix Album](https://open.spotify.com/album/2M8DuRnkOsYlM9MAa2XLGr) | 6:46 | 2022-08-26 | 2023-04-05 |
@@ -265,7 +266,7 @@
 | [Wait](https://open.spotify.com/track/0xRflBVc8IbRXvuCMtAOpX) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Fritz Helder](https://open.spotify.com/artist/4GZe67NHX5PVbVsLcR65Qc) | [Wait EP](https://open.spotify.com/album/2ZwZWiZLS9dEFUS08IZR6O) | 6:31 | 2022-08-26 | 2023-03-11 |
 | [Wait feat\. Fritz Helder](https://open.spotify.com/track/6UDlAXM5IdygV4YzGb37T3) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Fritz Helder](https://open.spotify.com/artist/4GZe67NHX5PVbVsLcR65Qc) | [Wait EP](https://open.spotify.com/album/6ar2JvS2nst9YFwJ5td3cw) | 6:31 | 2022-08-26 | 2023-04-05 |
 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 | 2023-04-04 | 2024-04-20 |
-| [Warning Signs \- CamelPhat Remix](https://open.spotify.com/track/7h3nba8wF1zxpiOQc9reFR) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Machine Therapy \(Remixed\)](https://open.spotify.com/album/62EyKPoEDKP4R0zgq5JyzB) | 3:14 | 2024-05-17 |  |
+| [Warning Signs \- CamelPhat Remix](https://open.spotify.com/track/7h3nba8wF1zxpiOQc9reFR) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Machine Therapy \(Remixed\)](https://open.spotify.com/album/62EyKPoEDKP4R0zgq5JyzB) | 3:14 | 2024-05-17 | 2024-05-19 |
 | [We Back](https://open.spotify.com/track/2iBhkMErE3uUN0h8PEZdB1) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270), [Rileasa Slaves](https://open.spotify.com/artist/6hmC2zCfacf0G0u7jMkBlB) | [We Back](https://open.spotify.com/album/2oFRsgPtTNtWwN4DG0AC2n) | 2:41 | 2022-08-26 | 2023-04-05 |
 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 | 2022-08-26 | 2023-05-27 |
 | [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-04-19 |  |

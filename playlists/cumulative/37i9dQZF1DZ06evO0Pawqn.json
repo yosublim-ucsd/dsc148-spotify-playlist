@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 202631,
       "name": "Crei",
       "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 177502,
       "name": "Extravio",
       "url": "https://open.spotify.com/track/4WpmldTXZXmy2n2SQi3HQE"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 216120,
       "name": "Hasta la Miel Amarga",
       "url": "https://open.spotify.com/track/1Q1yISpMwHLn4SMo6VJVaa"
@@ -760,6 +760,28 @@
       "duration_ms": 206236,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Los Grandes: Si No Hay Dinero",
+        "url": "https://open.spotify.com/album/4FQQsHsftxdwECY3ixNwLk"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Grupo Silverado",
+          "url": "https://open.spotify.com/artist/1vM02XMErBg8ukQrjgtprm"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147243,
+      "name": "Homenaje A Los Grandes: Si No Hay Dinero",
+      "url": "https://open.spotify.com/track/7EvjaFNG178iozRotq59ke"
     },
     {
       "album": {

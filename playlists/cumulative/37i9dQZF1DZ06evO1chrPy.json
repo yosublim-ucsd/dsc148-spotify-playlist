@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/3m0CF4HewwireSxJJQ3uOt"
+    },
+    {
+      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 208760,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 134407,
       "name": "Doctor Doctor Doctor Help Me Help Me Help Me",
       "url": "https://open.spotify.com/track/4gXR7fBdUXGGulPrQp5Uqh"
@@ -254,6 +272,24 @@
       "duration_ms": 147853,
       "name": "Drones In The Valley",
       "url": "https://open.spotify.com/track/2Tv7qvpjiI3xnHdvBtGLoZ"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "Float Into The Sky",
+      "url": "https://open.spotify.com/track/35VPGInrefWbfj8c8S2wXu"
     },
     {
       "album": {
@@ -329,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "HiFi (True Light)",
+      "url": "https://open.spotify.com/track/6W2pDHqWoU81UsvMSFN6pz"
+    },
+    {
+      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -358,7 +412,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 248986,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/1PmaWG47wJRCIOM9v8Bauo"
@@ -567,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
+    },
+    {
+      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -639,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "Same",
+      "url": "https://open.spotify.com/track/2rBwN8iTEzecsWjksIJMXG"
+    },
+    {
+      "album": {
         "name": "Thank You Happy Birthday (Expanded Edition)",
         "url": "https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9"
       },
@@ -690,6 +780,42 @@
       "duration_ms": 237060,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/54W4dN6L58ySaW7WkWlTQ5"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Shy Eyes",
+      "url": "https://open.spotify.com/track/4nO1CkQRa3y8dgnv6D1AsA"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225773,
+      "name": "Silent Picture",
+      "url": "https://open.spotify.com/track/4zEeVJMVdmPjP5Hw9NR9Ou"
     },
     {
       "album": {
@@ -812,7 +938,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 353568,
       "name": "The Unforgiven",
       "url": "https://open.spotify.com/track/0Iixb2jL2s6BMqHtwnhG8H"

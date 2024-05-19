@@ -2,7 +2,7 @@
 
 ### [This Is Banda Vallarta Show](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rZXin)
 
-> This is Banda Vallarta Show\. The essential tracks, all in one playlist.
+> This Is Banda Vallarta Show\. Los temas esenciales, todos en una lista.
 
 78 songs - 3 hr 49 min
 
@@ -24,7 +24,7 @@
 | [Corrido De Los Perez](https://open.spotify.com/track/6cWMgbBpfV4bNSKGSBLWit) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 3:23 | 2022-06-01 | 2023-02-21 |
 | [Corrido De Nayarit](https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 | 2022-06-01 |  |
 | [Dicembre Del 63](https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 3:15 | 2022-10-22 |  |
-| [Domingo Corrales](https://open.spotify.com/track/2WogPzSF1nbc0oA2bbPab9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:45 | 2022-06-05 | 2022-10-13 |
+| [Domingo Corrales](https://open.spotify.com/track/2WogPzSF1nbc0oA2bbPab9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:45 | 2022-06-05 |  |
 | [Donde Andara](https://open.spotify.com/track/0AyrlaMKDLV7fA2w6vhA15) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:08 | 2022-06-01 | 2023-06-09 |
 | [El Amante Apasionado](https://open.spotify.com/track/43yeCckECVY2axQt9qhaKq) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:38 | 2022-09-08 | 2022-09-10 |
 | [El Botecito](https://open.spotify.com/track/1Tmtcb57PhTfpsxEPCREXT) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:43 | 2022-06-01 |  |
@@ -79,7 +79,7 @@
 | [Siempre En Mi Mente](https://open.spotify.com/track/0G1YgtrjrXQ5GHN8FeJP3r) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:17 | 2022-06-01 | 2023-03-03 |
 | [Tabaco Mascao](https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 2:04 | 2022-06-01 | 2024-02-17 |
 | [Tabaco Mascao](https://open.spotify.com/track/30Q48f3hKqmUaTP4s35JeD) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 2:08 | 2024-02-16 |  |
-| [Te Ves Bien Buena](https://open.spotify.com/track/1EuYHwXDrj771cIMKEHIzU) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/2ZOXz5yT9CkrDlZuABMDmg) | 2:48 | 2023-02-20 |  |
+| [Te Ves Bien Buena](https://open.spotify.com/track/1EuYHwXDrj771cIMKEHIzU) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/2ZOXz5yT9CkrDlZuABMDmg) | 2:48 | 2023-02-20 | 2024-05-19 |
 | [Te Voy A Olvidar](https://open.spotify.com/track/6eXRwbKnntPjOejDfmDUaf) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:00 | 2023-06-04 | 2023-06-09 |
 | [Tu Abandono](https://open.spotify.com/track/1Y7kdmFXeDAbe5oqtPhDKY) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:53 | 2022-06-28 | 2023-06-09 |
 | [Tu Eres](https://open.spotify.com/track/1X7Hd8e5UMupAtXmMkAN9f) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 2:17 | 2022-06-01 | 2023-06-09 |

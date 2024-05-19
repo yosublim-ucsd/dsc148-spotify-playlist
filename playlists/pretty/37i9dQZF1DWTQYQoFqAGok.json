@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 59907,
+  "num_followers": 59913,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/4g9iO9ga0CveiTQKOeR3W4"
     },
     {
-      "added_at": "2023-01-07 01:43:47",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Adoro",
@@ -119,6 +103,22 @@
       "duration_ms": 327653,
       "name": "Voy a Apagar la Luz",
       "url": "https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8"
+    },
+    {
+      "added_at": "2023-01-07 01:43:47",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
-      "added_at": "2023-03-16 20:51:30",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Raz\u00f3n de Vivir (Desde Casa)",
@@ -239,6 +223,22 @@
       "duration_ms": 254269,
       "name": "Raz\u00f3n de Vivir (Desde Casa)",
       "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
+    },
+    {
+      "added_at": "2023-03-16 20:51:30",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Guidum",
         "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 167026,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mujer De Luna",
-        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
-      },
-      "artists": [
-        {
-          "name": "Patricia Carri\u00f3n",
-          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "Ana's Song",
-      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
-    },
-    {
       "added_at": "2023-04-13 19:45:15",
       "album": {
         "name": "Calladito Te Ves Mejor",
@@ -731,22 +715,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
-      },
-      "artists": [
-        {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
-        }
-      ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Andamos Huyendo",
         "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 291647,
       "name": "Andamos Huyendo",
       "url": "https://open.spotify.com/track/4utJIPfz1GOEnp3KNWkW1J"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mujer De Luna",
+        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "Ana's Song",
+      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+      },
+      "artists": [
+        {
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+        }
+      ],
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -799,18 +799,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
+        "name": "Semillas De Copinol",
+        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
       },
       "artists": [
         {
-          "name": "Aaron Cruz Tr\u00edo",
-          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
+          "name": "Juanjo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
+        },
+        {
+          "name": "Xuc Tr\u00edo",
+          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
         }
       ],
-      "duration_ms": 378493,
-      "name": "A la Ventana Carolina",
-      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
+      "duration_ms": 352952,
+      "name": "En Cualquier Momento",
+      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -831,22 +835,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Semillas De Copinol",
-        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
       },
       "artists": [
         {
-          "name": "Juanjo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
-        },
-        {
-          "name": "Xuc Tr\u00edo",
-          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
+          "name": "Aaron Cruz Tr\u00edo",
+          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
         }
       ],
-      "duration_ms": 352952,
-      "name": "En Cualquier Momento",
-      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
+      "duration_ms": 378493,
+      "name": "A la Ventana Carolina",
+      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
     },
     {
       "added_at": "2021-07-28 16:44:28",

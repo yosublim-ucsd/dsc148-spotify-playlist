@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "Blanco Y Negro",
+        "url": "https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212852,
+      "name": "Blanco Y Negro",
+      "url": "https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f"
+    },
+    {
+      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },

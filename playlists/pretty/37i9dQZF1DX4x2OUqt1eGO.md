@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,638 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,649 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 13 | [Kapla Bhati](https://open.spotify.com/track/74HMbs5LeHYxv53RVzssJS) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 7:18 |
 | 14 | [Calming Flute](https://open.spotify.com/track/3ablKOyiPbAe7tq0DVdqR7) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Bansuri Bliss](https://open.spotify.com/album/3voMuaFlAmyMsitqhYCKcM) | 3:22 |
 | 15 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
-| 16 | [Kabira](https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Nirmal Mann](https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG) | 3:51 |
+| 16 | [Inner Peace](https://open.spotify.com/track/2YMUsN8bE7GfGBxCdnT1ox) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Inner Peace](https://open.spotify.com/album/4FoTmbikEtF6Jj4mzvpWQD) | 6:40 |
 | 17 | [Grateful Mind](https://open.spotify.com/track/54crKFXpXRuqt8EXf79yeB) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Sleep Meditation](https://open.spotify.com/album/7C5Jj9bLdoC9ig586ZBdvM) | 2:21 |
-| 18 | [Inner Peace](https://open.spotify.com/track/2YMUsN8bE7GfGBxCdnT1ox) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Inner Peace](https://open.spotify.com/album/4FoTmbikEtF6Jj4mzvpWQD) | 6:40 |
+| 18 | [Kabira](https://open.spotify.com/track/20nB2JG804edG8Dvudr9zJ) | [Dyal Dalavi](https://open.spotify.com/artist/3L4z8r6PG78sYh5wtXDw0u) | [Nirmal Mann](https://open.spotify.com/album/1R8PSYd2anNIBCLkcXuRJG) | 3:51 |
 | 19 | [Flute Music \- Krishna flute](https://open.spotify.com/track/0yfD9XIMKAbySuM7cmsEYc) | [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV), [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U) | [Flute Music \(Krishna flute\)](https://open.spotify.com/album/58gnufbwqLbNE0OZQbUfDT) | 1:21 |
 | 20 | [Shiva Medicine](https://open.spotify.com/track/5e1m5IOaefA2QOzl9ADGEm) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX) | [Shiva Medicine](https://open.spotify.com/album/47FfjcwJOPkJa59P9IgwZe) | 2:59 |
 | 21 | [Light of Night](https://open.spotify.com/track/7rjWPpOeQPWtan08othxfi) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY) | [Light of Night](https://open.spotify.com/album/4hxC0op0FiyhjcMHWwHGvb) | 3:17 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 55 | [Annapurna \(Hindustani Bansuri\) \[Live\]](https://open.spotify.com/track/2kpkGEpXCwvDXFJBnYHSrm) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Nada Aradhana: An Offering of Sounds, Vol\. 3 \(Live\)](https://open.spotify.com/album/36w1DR4UGdXss7AgJLMeb4) | 10:20 |
 | 56 | [Between Thoughts](https://open.spotify.com/track/1CRP3o6j10DCJ4HMbBQvnj) | [Deepak Ram](https://open.spotify.com/artist/0IRHoIb1ZFEVrwdm0SzPh5) | [Flute For Thought](https://open.spotify.com/album/5SSsDneKbYQb2blJsE49Xe) | 10:09 |
 | 57 | [Karunardra Sneham \- Flute](https://open.spotify.com/track/5jzIRp19kymwPoRqijcNYP) | [Rajesh Cherthala](https://open.spotify.com/artist/4anJMRin2Eu12jUJKHvuDw) | [Karunardra Sneham \- Single](https://open.spotify.com/album/0F3b5PTSBU9GUkgU593Jh0) | 4:50 |
-| 58 | [Sadhana](https://open.spotify.com/track/6UcidIpOnWyscCvNWKnaPa) | [Vinayak A](https://open.spotify.com/artist/0rdwBKdUKRIp2t05MeQ7KV), [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Manoj Kumar](https://open.spotify.com/artist/5tgOvwp2QxSAhnnK2s3FX2) | [Sadhana](https://open.spotify.com/album/6JOn66aAncnEDWp31GKfjV) | 4:53 |
-| 59 | [Shiva Moon II \(The Ocean Mudra\)](https://open.spotify.com/track/6SVgR78FFm40IVlIVn5LsU) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Mudra](https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD) | 2:44 |
+| 58 | [Shiva Moon II \(The Ocean Mudra\)](https://open.spotify.com/track/6SVgR78FFm40IVlIVn5LsU) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Mudra](https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD) | 2:44 |
+| 59 | [Sadhana](https://open.spotify.com/track/6UcidIpOnWyscCvNWKnaPa) | [Vinayak A](https://open.spotify.com/artist/0rdwBKdUKRIp2t05MeQ7KV), [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Manoj Kumar](https://open.spotify.com/artist/5tgOvwp2QxSAhnnK2s3FX2) | [Sadhana](https://open.spotify.com/album/6JOn66aAncnEDWp31GKfjV) | 4:53 |
 | 60 | [Varanasi My Soul \- Banarasi Kajri \- Raga Pilu](https://open.spotify.com/track/0S9Uklvmnxs5uUSt8UQikf) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:26 |
 | 61 | [Sukoon](https://open.spotify.com/track/6j6fiOB0h2VQPgq865WrbG) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Sukoon](https://open.spotify.com/album/7Hsk3m0X0kqyOJtmpEUPdA) | 2:30 |
 | 62 | [Bansuri & Tabla \(Live\)](https://open.spotify.com/track/1OPqzUmJ6cWgmeHrZ27T3s) | [Pandit Atul Shankar](https://open.spotify.com/artist/2BH0PQI32fInzYixUio497), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:18 |

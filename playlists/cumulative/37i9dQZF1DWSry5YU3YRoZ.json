@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 231482,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ"
@@ -984,6 +984,24 @@
       "duration_ms": 325066,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn"
+    },
+    {
+      "album": {
+        "name": "\ub0a8\ud574",
+        "url": "https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Sparkling Sunshine",
+      "url": "https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g"
     },
     {
       "album": {

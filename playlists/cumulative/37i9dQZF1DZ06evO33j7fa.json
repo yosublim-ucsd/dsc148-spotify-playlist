@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Nick Drake. The essential tracks, all in one playlist.",
+  "description": "This is Nick Drake. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Nick Drake",
   "tracks": [
     {
@@ -324,6 +324,24 @@
     {
       "album": {
         "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bryter Layter",
+      "url": "https://open.spotify.com/track/7KkWvoKjDrmoOIK4Rf4DRG"
+    },
+    {
+      "album": {
+        "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
       "artists": [
@@ -518,7 +536,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 286280,
       "name": "Fruit Tree",
       "url": "https://open.spotify.com/track/6x3HF1SdlVeZqOb7soisuh"
@@ -602,6 +620,24 @@
     {
       "album": {
         "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225291,
+      "name": "Hazey Jane II",
+      "url": "https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh"
+    },
+    {
+      "album": {
+        "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
       "artists": [
@@ -612,7 +648,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 226426,
       "name": "Hazey Jane II",
       "url": "https://open.spotify.com/track/1Juj6Rg5MhutU8gW43934B"
@@ -630,7 +666,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 81850,
       "name": "Horn",
       "url": "https://open.spotify.com/track/4A1t2K9lsLZWb5oHAtT9xs"
@@ -648,10 +684,28 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 92306,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/7unUg1rIAVXyYVH5LPHc4R"
+    },
+    {
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92986,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8"
     },
     {
       "album": {
@@ -702,7 +756,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 231906,
       "name": "Man In A Shed",
       "url": "https://open.spotify.com/track/7rDJymAeuDbAKmRO07dGHS"
@@ -810,7 +864,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 224013,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
@@ -882,7 +936,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 160925,
       "name": "Place To Be",
       "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
@@ -936,7 +990,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 258680,
       "name": "River Man",
       "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
@@ -972,7 +1026,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 245013,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R"

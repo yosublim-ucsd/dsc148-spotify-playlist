@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: MARK\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,628 likes - 165 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,708 likes - 165 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 6 | [Down \(feat\. DUT2\)](https://open.spotify.com/track/36gdkjpjIysyCbWLRenueH) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Down](https://open.spotify.com/album/7c12zaCPAPKHKryuHKHX3f) | 3:15 |
 | 7 | [Jealousyvalhalla](https://open.spotify.com/track/53pgU100GX5E2EDp50eIvZ) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [Jealousyvalhalla](https://open.spotify.com/album/3ueZQ3a7zXCt4neaJnZX0w) | 2:28 |
 | 8 | [BLACK OUT](https://open.spotify.com/track/1SCulYtN96U3upw6M1DSjC) | [257](https://open.spotify.com/artist/0whM0PalKF2w1SZlV4gGMR) | [257 1st Album \- BLACK OUT](https://open.spotify.com/album/7oKGFmT4xXHs1uMu2zyrof) | 2:50 |
-| 9 | [the Promised Flower \(feat\. Byeol Eun\)](https://open.spotify.com/track/0btRH1Odm2iD7ZJP5BCU1k) | [MEANSHOCK](https://open.spotify.com/artist/2Otq81RfPVZVYlMzuBSQq4), [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [The Promised Flower](https://open.spotify.com/album/3HfUFpon6j6VWl76x3vAvL) | 3:00 |
+| 9 | [the Promised Flower \(feat\. Byeol Eun, Danny Koo\)](https://open.spotify.com/track/0btRH1Odm2iD7ZJP5BCU1k) | [MEANSHOCK](https://open.spotify.com/artist/2Otq81RfPVZVYlMzuBSQq4), [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [The Promised Flower](https://open.spotify.com/album/3HfUFpon6j6VWl76x3vAvL) | 3:00 |
 | 10 | [Pressure Night](https://open.spotify.com/track/7eoo4DPfwvXpAsGCSFAeLi) | [SSunder](https://open.spotify.com/artist/1J32y4hGK3ovIslMNGuKDR) | [Pressure Night](https://open.spotify.com/album/7cTlgscY4iYJtao4pxS38T) | 3:37 |
 | 11 | [What Are We Out Here For](https://open.spotify.com/track/7vGdYiKibgTMvPvcYZetex) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF) | [What Are We Out Here For](https://open.spotify.com/album/5LfwiYC60J0p1NDvtn0DqH) | 2:43 |
 | 12 | [여호와](https://open.spotify.com/track/3y5fFi4bOSCFRiUfAWxhEV) | [Men's Tear](https://open.spotify.com/artist/3Kf9OnmHudWe9wrpPOtEtc), [뷰티풀너드](https://open.spotify.com/artist/7pA8ZjAUu7fzSOd8uQgQJY), [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp) | [여호와](https://open.spotify.com/album/2VrLQzWbWvVLrP0XnE59Pb) | 3:18 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 63 | [No words](https://open.spotify.com/track/2FLe4SpTYl1zhtQGC9pUBM) | [Benzamin](https://open.spotify.com/artist/0MfEPnKo5ZZ1KFyCPe68yJ) | [No words](https://open.spotify.com/album/37dWvKkan4qMbcyUiVNbrQ) | 3:21 |
 | 64 | [이런 \(eeron\)](https://open.spotify.com/track/6plc7yUPFgDzGbeiaJeK73) | [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18) | [eemm](https://open.spotify.com/album/4NUaSRt6QZmzwVB8UPWJwC) | 2:42 |
 | 65 | [Actually, I like you](https://open.spotify.com/track/15VnBCBvBnZMwo8hbiP2Bb) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [Actually, I like you](https://open.spotify.com/album/7cZmTUCc7Gxj9Rno7UyxmW) | 4:10 |
-| 66 | [It will be okey](https://open.spotify.com/track/67KJYYDTneF5OGL5dxK6B0) | [정가이](https://open.spotify.com/artist/0u4K1Tr32rIXpmYUhHhqP8) | [It will be okey](https://open.spotify.com/album/1IENDjRqmZl4vUtz18TQBT) | 2:54 |
+| 66 | [It will be okey](https://open.spotify.com/track/67KJYYDTneF5OGL5dxK6B0) | [Jeong Gayi](https://open.spotify.com/artist/0u4K1Tr32rIXpmYUhHhqP8) | [It will be okey](https://open.spotify.com/album/1IENDjRqmZl4vUtz18TQBT) | 2:54 |
 | 67 | [Still Yours](https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Still Yours](https://open.spotify.com/album/7t74Fo6KoIZcCxwfgB8pkf) | 4:00 |
 | 68 | [How about you?](https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [How about you? \(No Office Romance! X THE BOYZ\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N) | 3:27 |
 | 69 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 |

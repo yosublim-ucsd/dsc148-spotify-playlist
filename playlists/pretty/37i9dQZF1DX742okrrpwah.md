@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > BILLIE EILISH au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,768 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,820 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 62 | [Mr Nobody](https://open.spotify.com/track/1vHHFR9nx6wbvEFfI5ncjq) | [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [If I Were To Paint It](https://open.spotify.com/album/5Q88UdBbRQwNot4nY0Utdf) | 3:51 |
 | 63 | [Loyal](https://open.spotify.com/track/31jAMlQROymLLmcuQnzVrd) | [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Loyal](https://open.spotify.com/album/3pjMzz24snuEk74bsTsnM0) | 2:47 |
 | 64 | [Gyal Go Down Low](https://open.spotify.com/track/2VQm61CP8UlqnUJcXxPVxf) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Team DAMP](https://open.spotify.com/artist/3SPO1zOMgh106pZzibM1sP) | [Gyal Go Down Low](https://open.spotify.com/album/1vHFd8NH0ZZlhimZIW2jVS) | 2:23 |
-| 65 | [C'EST VRAI OU PAS](https://open.spotify.com/track/7E15SgpsnmFGl8rCJhSriL) | [Allan](https://open.spotify.com/artist/7tJ1ZtOt4EOPyQnT8LE6rH) | [C'EST VRAI OU PAS](https://open.spotify.com/album/7fTIIvEY1iZRor9IJumqpB) | 2:58 |
+| 65 | [C'EST VRAI OU PAS](https://open.spotify.com/track/7E15SgpsnmFGl8rCJhSriL) | [Allan](https://open.spotify.com/artist/7tJ1ZtOt4EOPyQnT8LE6rH) | [C'EST VRAI OU PAS](https://open.spotify.com/album/7fTIIvEY1iZRor9IJumqpB) | 2:59 |
 | 66 | [Even Now](https://open.spotify.com/track/32uVxq9URcY70dGwm0EzF5) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp), [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Even Now](https://open.spotify.com/album/1XrUW4FChuC6EjR99b8xPh) | 3:00 |
 | 67 | [Bear The Cross](https://open.spotify.com/track/7yhAitRlEOyWIgui3JXSOs) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Bear The Cross](https://open.spotify.com/album/52BtGeqnHnI4UjBqPIYQKf) | 5:16 |
 | 68 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 |

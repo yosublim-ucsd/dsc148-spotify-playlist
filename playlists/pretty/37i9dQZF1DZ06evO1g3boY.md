@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 ### [This Is Emicida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g3boY)
 
-> This is Emicida\. The essential tracks, all in one playlist.
+> This is Emicida\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,505 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,524 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 22 | [9nha / Eu Gosto Dela \- Ao Vivo](https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:05 |
 | 23 | [Seu Jogo](https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:57 |
 | 24 | [Cananéia, Iguape e Ilha Comprida](https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 5:35 |
-| 25 | [A Cada Vento \- Live](https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:03 |
-| 26 | [A Cada Vento \(feat\. Rael\) \- Ao Vivo](https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 5:12 |
-| 27 | [Quem Tem Um Amigo \(Tem Tudo\) / A Amizade \- Ao Vivo](https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 6:11 |
+| 25 | [A Cada Vento \(feat\. Rael\) \- Ao Vivo](https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 5:12 |
+| 26 | [Quem Tem Um Amigo \(Tem Tudo\) / A Amizade \- Ao Vivo](https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 6:11 |
+| 27 | [A Cada Vento \- Live](https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:03 |
 | 28 | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy) | 3:29 |
 | 29 | [Alma Gêmea](https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rafa Kabelo](https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 4:00 |
 | 30 | [Pantera Negra](https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj) | 3:19 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 44 | [A Chapa é Quente \- Ao Vivo](https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 3:52 |
 | 45 | [Antes Que a Bala Perdida Me Ache](https://open.spotify.com/track/07OvVAqHyJi4ffgeLbAPUe) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Jaddy](https://open.spotify.com/artist/4mZA1cH9B0SBDue0fa1ok6) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux) | 3:36 |
 | 46 | [Mãe](https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Dona Jacira](https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax), [Anna Tréa](https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 4:58 |
-| 47 | [Melhor Remédio](https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 3:00 |
-| 48 | [Acabou, mas tem...](https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1) | 3:55 |
+| 47 | [Acabou, mas tem...](https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Acabou, mas tem...](https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1) | 3:55 |
+| 48 | [Melhor Remédio](https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 3:00 |
 | 49 | [Linha De Frente \- Live](https://open.spotify.com/track/6KzAGApzyPBttDCH9rKUNv) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:00 |
 | 50 | [Oi Compadre \- Ao Vivo](https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:06 |
 
-Snapshot ID: `ZkVMgAAAAADYtsMcUtzrRdo28hKdAhc1`
+Snapshot ID: `ZkaeAAAAAAC5jBKt5KUaVmtWNOfpGd2I`

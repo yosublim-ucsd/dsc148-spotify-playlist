@@ -1,6 +1,6 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 321715,
+  "num_followers": 321696,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
-      },
-      "artists": [
-        {
-          "name": "Sister Ray",
-          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
-        }
-      ],
-      "duration_ms": 239917,
-      "name": "Pressing Down",
-      "url": "https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0"
+      },
+      "artists": [
+        {
+          "name": "Sister Ray",
+          "url": "https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC"
+        }
+      ],
+      "duration_ms": 239917,
+      "name": "Pressing Down",
+      "url": "https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Let Me Tell You Something",
-        "url": "https://open.spotify.com/album/6v5akaxg5phcFicnoMbCDu"
-      },
-      "artists": [
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Let Me Tell You Something",
-      "url": "https://open.spotify.com/track/5GV0Yeo76b1UubEPVOQKUd"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "L\u00e9g\u00e8rement",
         "url": "https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 195494,
       "name": "Paula Collins",
       "url": "https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Let Me Tell You Something",
+        "url": "https://open.spotify.com/album/6v5akaxg5phcFicnoMbCDu"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Let Me Tell You Something",
+      "url": "https://open.spotify.com/track/5GV0Yeo76b1UubEPVOQKUd"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Prove It",
-        "url": "https://open.spotify.com/album/0nUe42yrUWiUl7pTUhPwGy"
-      },
-      "artists": [
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 167262,
-      "name": "Prove It",
-      "url": "https://open.spotify.com/track/6DK7eKgThVAYH0VtQhtG6x"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "The Man I\u2019ll Never Find (Piano Version)",
         "url": "https://open.spotify.com/album/2HwvAWiMQyCsyLXdXPmuQb"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 221135,
       "name": "The Man I\u2019ll Never Find - Piano Version",
       "url": "https://open.spotify.com/track/4J9RndiuV5PB08Za5bgr9q"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Prove It",
+        "url": "https://open.spotify.com/album/0nUe42yrUWiUl7pTUhPwGy"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 167262,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/6DK7eKgThVAYH0VtQhtG6x"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/3wMaqh7xUYaBWsf4hLGbIC"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 249146,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/7sqxbAwB1tl6MfQXHhA2R5"
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5g97GAdru7XfeJyJhViIll"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1479,18 +1479,34 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Garden Song",
-        "url": "https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/3wMaqh7xUYaBWsf4hLGbIC"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 220065,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa"
+      "duration_ms": 249146,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/7sqxbAwB1tl6MfQXHhA2R5"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "Henry St.",
+      "url": "https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI"
     },
     {
       "added_at": "2023-10-13 19:48:40",
@@ -1559,6 +1575,22 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
+        "name": "Garden Song",
+        "url": "https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220065,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa"
+    },
+    {
+      "added_at": "2023-10-13 19:48:40",
+      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/2AlIFCfesogvLsAr80Pa6b"
       },
@@ -1623,22 +1655,6 @@
     {
       "added_at": "2023-10-13 19:48:40",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5g97GAdru7XfeJyJhViIll"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
         "name": "Idle Mind",
         "url": "https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9"
-    },
-    {
-      "added_at": "2023-10-13 19:48:40",
-      "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/3qlFvxg4y1POFOyIn6lPXb"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 229501,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/68JDi93FyrXp06NIQjkUWD"
     }
   ],
   "unique_name": "noir",

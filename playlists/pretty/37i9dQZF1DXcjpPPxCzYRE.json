@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 400268,
+  "num_followers": 400301,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Marvin The Album - 21st Anniversary Edition",
         "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 257533,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -847,6 +831,22 @@
       "duration_ms": 156000,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Don't You Cry For Me (Acoustic)",
         "url": "https://open.spotify.com/album/2YK6l9mVcjDHrw7cLyT7j7"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 275564,
       "name": "Don't You Cry For Me - Acoustic",
       "url": "https://open.spotify.com/track/2okaCGJegLC7oK8z7OXutm"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "the man",
-        "url": "https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI"
-      },
-      "artists": [
-        {
-          "name": "de clair.",
-          "url": "https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o"
-        }
-      ],
-      "duration_ms": 159635,
-      "name": "the man",
-      "url": "https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
         "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 177854,
       "name": "Renegades - Acoustic Version",
       "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "the man",
+        "url": "https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI"
+      },
+      "artists": [
+        {
+          "name": "de clair.",
+          "url": "https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o"
+        }
+      ],
+      "duration_ms": 159635,
+      "name": "the man",
+      "url": "https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "No deber\u00eda quererte EP",
-        "url": "https://open.spotify.com/album/7rgrfYTpZObZ6NPHI946PQ"
-      },
-      "artists": [
-        {
-          "name": "Marina",
-          "url": "https://open.spotify.com/artist/5pzsYBjgMTBW6r3B69yK9X"
-        }
-      ],
-      "duration_ms": 157400,
-      "name": "No deber\u00eda quererte - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/77oNNJ8T6ZVHbCPhqM9Fry"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Una y otra vez",
         "url": "https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 190754,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "No deber\u00eda quererte EP",
+        "url": "https://open.spotify.com/album/7rgrfYTpZObZ6NPHI946PQ"
+      },
+      "artists": [
+        {
+          "name": "Marina",
+          "url": "https://open.spotify.com/artist/5pzsYBjgMTBW6r3B69yK9X"
+        }
+      ],
+      "duration_ms": 157400,
+      "name": "No deber\u00eda quererte - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/77oNNJ8T6ZVHbCPhqM9Fry"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
-      },
-      "artists": [
-        {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 336330,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "_BCN626",
-        "url": "https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA"
+        "name": "Ojos de Miel",
+        "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
       },
       "artists": [
         {
-          "name": "_juno",
-          "url": "https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP"
+          "name": "Valhua",
+          "url": "https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK"
+        },
+        {
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
         }
       ],
-      "duration_ms": 184746,
-      "name": "_El Infinito",
-      "url": "https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB"
+      "duration_ms": 202886,
+      "name": "Ojos de Miel",
+      "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
     }
   ],
   "unique_name": "Relax en casa",

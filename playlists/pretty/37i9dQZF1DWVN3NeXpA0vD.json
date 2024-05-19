@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 25869,
+  "num_followers": 25866,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
         "url": "https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 192452,
       "name": "Way Back Home (feat. Conor Maynard) - Sam Feldt Edit",
       "url": "https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "Looking for Me",
         "url": "https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 211452,
       "name": "Looking for Me",
       "url": "https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
+        "name": "Bones (feat. OneRepublic)",
+        "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 205792,
+      "name": "Bones (feat. OneRepublic)",
+      "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
         "name": "All Day And Night (Jax Jones & Martin Solveig Present Europa)",
         "url": "https://open.spotify.com/album/1VQjtx21AAQnQe442bJssW"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 169303,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/33CfD8UkDEcSdAP9j4QpUY"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
-        "name": "Bones (feat. OneRepublic)",
-        "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 205792,
-      "name": "Bones (feat. OneRepublic)",
-      "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
     },
     {
       "added_at": "2024-03-01 13:18:16",

@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Gerardo Coronel en portada.
 
-368 songs - 19 hr 31 min
+369 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 | 2022-09-23 |  |
 | [La Bruja \- Radio Edit](https://open.spotify.com/track/11lwWnUgcjlGTzGv4WnDnP) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [La Bruja](https://open.spotify.com/album/3ryD37i3Mw2gYL5PJwytTf) | 2:26 | 2023-03-11 |  |
 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 | 2022-01-28 |  |
-| [La Chacalosa](https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [La Chacalosa](https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT) | 3:33 | 2023-04-07 |  |
+| [La Chacalosa](https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [La Chacalosa](https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT) | 3:33 | 2023-04-07 | 2024-05-19 |
 | [La Contraseña De Tu Cuerpo](https://open.spotify.com/track/0JGxubIP9h6x5JDYUzyrTH) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Eladio Flores LR](https://open.spotify.com/artist/79L55hJR2nKHrFkWbJO0RG) | [La Contraseña De Tu Cuerpo](https://open.spotify.com/album/1ODDDgLFksy7YfvDvaqAXp) | 3:22 | 2023-02-17 | 2023-08-05 |
 | [La Despedida](https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Despedida](https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5) | 2:59 | 2022-07-15 |  |
 | [La Humilde Opinion](https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1) | [Tony Montoya](https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [La Humilde Opinion](https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP) | 2:43 | 2023-09-22 |  |
@@ -225,6 +225,7 @@
 | [No Hay Nada Mas Que Decir](https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4) | [Banda Todo Terreno](https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX) | [No Hay Nada Mas Que Decir](https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF) | 3:32 | 2023-06-09 |  |
 | [No Le Digas](https://open.spotify.com/track/2WMz8fentsrb9TpRmymAeY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [No Le Digas](https://open.spotify.com/album/7MZMipgR6C5gGVbhNDxLxd) | 3:25 | 2022-11-03 | 2022-12-03 |
 | [No Le Digas](https://open.spotify.com/track/6bSd8Ci51Q4AoBdhDNFuyG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 3:25 | 2022-12-03 | 2023-08-04 |
+| [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 | 2024-05-17 |  |
 | [No Me Mires Así](https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [No Me Mires Así](https://open.spotify.com/album/6GeiFac3GbqLEIWwxYYRXe) | 2:45 | 2023-06-09 | 2024-04-01 |
 | [No Se Lo Deseo a Nadie](https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [No Se Lo Deseo a Nadie](https://open.spotify.com/album/0lbdKFAhe6W8r2FEKczlMs) | 2:23 | 2022-07-01 | 2023-12-16 |
 | [No Sé Qué Hacer](https://open.spotify.com/track/3deqAF6BY2oTiJgylyElNX) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V) | 2:51 | 2023-01-27 | 2023-12-02 |

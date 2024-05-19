@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Cash Cobain and Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,344 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,374 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 28 | [Blick \(feat\. NLE Choppa\) \- Remix](https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Blick \(feat\. NLE Choppa\) \[Remix\]](https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc) | 3:08 |
 | 29 | [No More Questions](https://open.spotify.com/track/3KqTdLH4cAm14Of7KDeJ2o) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [ALONE](https://open.spotify.com/album/7CQWEPM5BVSDy3QS4Eb38H) | 3:18 |
 | 30 | [Crazy Story](https://open.spotify.com/track/0YQQWN2wpo5qHSwmWmhRoG) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [Crazy Story](https://open.spotify.com/album/0PLMeXmt7b9iT01li0lzZm) | 1:56 |
-| 31 | [My Town \(feat\. Edai Gunz\)](https://open.spotify.com/track/3QsxS5jJ5aSOE66GfJJYil) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Kha Structure](https://open.spotify.com/artist/1npzTrxFene8P6jap4i0Qz), [Edai Gunz](https://open.spotify.com/artist/38WiooUPRdg7DKqqCICTkQ) | [My Town](https://open.spotify.com/album/4tUNMkwL1gEC9QEC4Mn4N8) | 4:43 |
+| 31 | [My Town](https://open.spotify.com/track/3QsxS5jJ5aSOE66GfJJYil) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Kha Structure](https://open.spotify.com/artist/1npzTrxFene8P6jap4i0Qz), [Edai Gunz](https://open.spotify.com/artist/38WiooUPRdg7DKqqCICTkQ) | [My Town](https://open.spotify.com/album/4tUNMkwL1gEC9QEC4Mn4N8) | 4:43 |
 | 32 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 33 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 |
 | 34 | [Whatever I Want](https://open.spotify.com/track/6BqnF9KSPIgLqO4EG9erJr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:20 |

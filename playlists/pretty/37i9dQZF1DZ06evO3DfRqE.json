@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 7829,
+  "num_followers": 7834,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAADgeHOieeRv7xrYUlCXP8ED",
+  "snapshot_id": "ZkaeAAAAAABUxmdRR0mXW40FscZjeQP5",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
       },
       "artists": [
         {
@@ -432,13 +432,13 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         },
         {
-          "name": "Henry Kapono",
-          "url": "https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 339546,
-      "name": "Sailin'",
-      "url": "https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ"
+      "duration_ms": 429346,
+      "name": "Smokin' Strings",
+      "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jake & Friends",
-        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
       },
       "artists": [
         {
@@ -476,13 +476,13 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         },
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Henry Kapono",
+          "url": "https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E"
         }
       ],
-      "duration_ms": 429346,
-      "name": "Smokin' Strings",
-      "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
+      "duration_ms": 339546,
+      "name": "Sailin'",
+      "url": "https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 277813,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u7c9b\u3005\u697d\u3005",
         "url": "https://open.spotify.com/album/0RDe2OUHLjxNUNJLPXCV1f"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 174529,
       "name": "\u7c9b\u3005\u697d\u3005",
       "url": "https://open.spotify.com/track/4wO2MH90CDQTzs1PNRpFdp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 277813,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30c9\u30e9\u30b4\u30f3",
+        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "\u30bf\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time For Three",
         "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 239906,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30c9\u30e9\u30b4\u30f3",
-        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "\u30bf\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Train Ride",
-      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
+      "duration_ms": 93466,
+      "name": "\u30b6\u30fb\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/5cSeRkCQaQ7ByIse0QmYfc"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
       "artists": [
         {
@@ -848,9 +848,25 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 93466,
-      "name": "\u30b6\u30fb\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/5cSeRkCQaQ7ByIse0QmYfc"
+      "duration_ms": 224960,
+      "name": "Train Ride",
+      "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live in Japan",
+        "url": "https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "NADA SOUSOU(LIVE)",
+      "url": "https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys"
     },
     {
       "added_at": null,
@@ -883,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Japan",
-        "url": "https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL"
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
       "artists": [
         {
@@ -892,25 +908,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 232466,
-      "name": "NADA SOUSOU(LIVE)",
-      "url": "https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "Hi'ilawe",
-      "url": "https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6"
+      "duration_ms": 183853,
+      "name": "Ukulele Bros",
+      "url": "https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV"
     }
   ],
   "unique_name": "This Is Jake Shimabukuro",

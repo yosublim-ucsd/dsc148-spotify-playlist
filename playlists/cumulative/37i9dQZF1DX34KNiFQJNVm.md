@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Ferrugem, Billie Eilish, MC Caveirinha e muito mais!
 
-10,756 songs - 22 day 17 hr 43 min
+10,757 songs - 22 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5834,7 +5834,7 @@
 | [Mistério Solar](https://open.spotify.com/track/2285beJSt5Jh4XYssg4jDr) | [Duda Brack](https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab) | [Mistério Solar](https://open.spotify.com/album/1cKgSLrlNvt4Tqt1sjE4Kz) | 2:38 | 2024-02-23 | 2024-03-02 |
 | [Miudinho](https://open.spotify.com/track/2A59HbqCzekn6QbepGggfX) | [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Miudinho](https://open.spotify.com/album/0iFchnrlmmxgKASQzNz5Ba) | 2:35 | 2022-12-02 | 2022-12-10 |
 | [Mlk Mala](https://open.spotify.com/track/2VMZmUtw4fWht4Lc7fngrH) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Mlk Mala](https://open.spotify.com/album/2isX48AF8iI8eyRyDWp3Lb) | 2:28 | 2023-07-21 | 2023-07-29 |
-| [MLK MONSTRO](https://open.spotify.com/track/3bV84mm4scfSDw6AmALYfs) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [MLK MONSTRO](https://open.spotify.com/album/3eksBWsguoaZ5DmowEP8rz) | 2:00 | 2024-05-17 |  |
+| [MLK MONSTRO](https://open.spotify.com/track/3bV84mm4scfSDw6AmALYfs) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [MLK MONSTRO](https://open.spotify.com/album/3eksBWsguoaZ5DmowEP8rz) | 2:00 | 2024-05-17 |  |
 | [Mlk É Luz, Al Rihla](https://open.spotify.com/track/7G9r7Fgk4wX4843dogdslD) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Mlk É Luz, al Rihla](https://open.spotify.com/album/6mKfXcZkaicpv2O3nE8gJV) | 3:23 | 2022-04-01 | 2022-04-09 |
 | [mmadu](https://open.spotify.com/track/4QzOS4y283J1iizwxgTEk8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [mmadu](https://open.spotify.com/album/7bIxgdSCV9HbRrGOgXyxCT) | 3:16 | 2022-09-23 | 2022-10-01 |
 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 | 2022-07-08 | 2022-07-16 |
@@ -7466,6 +7466,7 @@
 | [Positividade](https://open.spotify.com/track/7EqkBaphRYOfRjKZS3OoJz) | [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Positividade, Vol\. 1](https://open.spotify.com/album/0oGGVctKZRduZwuyCi2MVJ) | 3:09 | 2023-07-21 | 2023-07-29 |
 | [Posição de Ataque](https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Posição de Ataque](https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs) | 2:29 | 2023-05-12 | 2023-05-20 |
 | [Posse \- Ao Vivo](https://open.spotify.com/track/1EdFJkOVJiJ5XlO1jKMPL2) | [Gah Bernardes](https://open.spotify.com/artist/7u8RGJqTNFz0AOP74ok20D) | [Descontrole Emocional, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5izCMK0Tz3wWM0eHhDwhl3) | 2:27 | 2023-07-14 | 2023-07-22 |
+| [Posso Beijar Sua Boca ?](https://open.spotify.com/track/2hfFx87JTjkpvlxyeOScMK) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Posso Beijar Sua Boca ?](https://open.spotify.com/album/4mmpyA7NacZC06umlw77zr) | 2:16 | 2024-05-18 |  |
 | [Posta Foto, Faz Carão](https://open.spotify.com/track/6WyjEf9Wzj37T5LHHds1RD) | [Mc Lzyn](https://open.spotify.com/artist/4CjwZ3c0XNrtf2JkXV0Ss6), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq) | [Posta Foto, Faz Carão](https://open.spotify.com/album/2xtdOPau2XcCzHL3ieg2lt) | 1:00 | 2023-08-04 | 2023-08-12 |
 | [Posta Foto, Faz Carão](https://open.spotify.com/track/4C6Sq4qzp1rUKeEgiQhuXA) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [Mc Lzyn](https://open.spotify.com/artist/4CjwZ3c0XNrtf2JkXV0Ss6) | [Posta Foto, Faz Carão](https://open.spotify.com/album/1U5FyDPP7Uym9jtt700P0h) | 2:52 | 2023-09-29 | 2023-10-07 |
 | [Poster Child](https://open.spotify.com/track/4ILJxejqqWk4y8oWsxYDtE) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 5:18 | 2022-03-04 | 2022-03-12 |

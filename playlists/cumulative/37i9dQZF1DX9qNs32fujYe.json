@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "1589",
+        "url": "https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244780,
+      "name": "1589",
+      "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
+    },
+    {
+      "album": {
         "name": "A Brave New Hope",
         "url": "https://open.spotify.com/album/4R7CBA3wk2lrj9tkglsnQh"
       },
@@ -262,6 +280,24 @@
       "duration_ms": 266427,
       "name": "A Thousand Shades (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz"
+    },
+    {
+      "album": {
+        "name": "A.F. Day",
+        "url": "https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO"
+      },
+      "artists": [
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227335,
+      "name": "A.F. Day",
+      "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
     },
     {
       "album": {
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 277186,
       "name": "Blood Of The Elves",
       "url": "https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG"
@@ -6320,7 +6356,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 276653,
       "name": "Hungry and Angry",
       "url": "https://open.spotify.com/track/57PT761NIApIzfORTkmwWU"
@@ -8547,6 +8583,24 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/3PTuQBSaljC8mpbQVbWtkI"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215066,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/58J1gfmMIdfOUYnqt7Qhtu"
+    },
+    {
+      "album": {
         "name": "Moonlight Rendezvous",
         "url": "https://open.spotify.com/album/4Hzr7Tgtvn9QQX3HQmLktH"
       },
@@ -9788,7 +9842,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 236038,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/2J9bFFDcOBsoNmK4dUHATi"

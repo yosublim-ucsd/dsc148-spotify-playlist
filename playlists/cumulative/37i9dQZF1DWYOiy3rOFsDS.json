@@ -2163,6 +2163,28 @@
     },
     {
       "album": {
+        "name": "La Barca",
+        "url": "https://open.spotify.com/album/78FMbZCEDk8whyk5hqCcLj"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        },
+        {
+          "name": "Lucero Mijares",
+          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192123,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1qdncO7O7jMjJsXjhOFfaq"
+    },
+    {
+      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },

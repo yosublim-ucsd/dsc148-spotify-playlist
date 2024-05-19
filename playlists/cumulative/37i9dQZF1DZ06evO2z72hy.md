@@ -2,9 +2,9 @@
 
 ### [This Is Gondwana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2z72hy)
 
-> This is Gondwana\. The essential tracks, all in one playlist.
+> This Is Gondwana\. Los temas esenciales, todos en una lista.
 
-78 songs - 5 hr 18 min
+79 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,10 @@
 | [Dulce Amor \(Sólo Un Latido\)](https://open.spotify.com/track/23d6sogOKvZOx7XtSEeNVs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 3:47 | 2022-05-25 |  |
 | [El Beso Que Me da una Rosa](https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:28 | 2022-06-11 | 2022-08-14 |
 | [El Rito](https://open.spotify.com/track/5iccBUGytEmsMoJhaFeRag) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 5:00 | 2022-05-25 | 2023-05-12 |
-| [Felicidad](https://open.spotify.com/track/3TilMZ5wdTBPrDYPNY9Kc8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:41 | 2022-05-25 |  |
+| [Felicidad](https://open.spotify.com/track/3TilMZ5wdTBPrDYPNY9Kc8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:41 | 2022-05-25 | 2024-05-19 |
 | [Fight](https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:38 | 2022-10-12 |  |
 | [Fluye](https://open.spotify.com/track/2crdEEBy8ja6mBGjPxfpxZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 5:54 | 2022-05-25 |  |
+| [Fuego](https://open.spotify.com/track/6AdoFjOG4HSzceG4EAHii8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 3:59 | 2024-05-19 |  |
 | [Fuego Bendito](https://open.spotify.com/track/1K93QCRJlYigCeTG5SsfvY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9) | 4:08 | 2022-05-25 | 2022-07-01 |
 | [Fuego bendito](https://open.spotify.com/track/5n5oi19eI8icBWVrHHECKw) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 4:08 | 2022-07-02 |  |
 | [Give Your Love](https://open.spotify.com/track/6SCxbGzB7xJBPqkEvobpFf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 3:41 | 2022-05-25 |  |

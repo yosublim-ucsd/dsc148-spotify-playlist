@@ -1,6 +1,6 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 766894,
+  "num_followers": 767058,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
         "name": "Agua e pipa",
         "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 202553,
       "name": "Agua e pipa",
       "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
+      },
+      "artists": [
+        {
+          "name": "Antaares",
+          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
+        }
+      ],
+      "duration_ms": 396960,
+      "name": "Ciclos",
+      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 187118,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
-      },
-      "artists": [
-        {
-          "name": "Antaares",
-          "url": "https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3"
-        }
-      ],
-      "duration_ms": 396960,
-      "name": "Ciclos",
-      "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
+        "name": "Persian Nights",
+        "url": "https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "Persian Nights",
+      "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
         "name": "Bosque",
         "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
@@ -975,26 +995,6 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
-        "name": "Persian Nights",
-        "url": "https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Persian Nights",
-      "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
         "name": "Eternal Road",
         "url": "https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc"
       },
@@ -1011,26 +1011,6 @@
       "duration_ms": 185739,
       "name": "Eternal Road - Edit",
       "url": "https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
-        "name": "Unsichtbar (Behrooz Zandi Remix)",
-        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
-      },
-      "artists": [
-        {
-          "name": "Tiefe Wasser Berlin",
-          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
-        },
-        {
-          "name": "Behrooz Zandi",
-          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
-        }
-      ],
-      "duration_ms": 370196,
-      "name": "Unsichtbar - Behrooz Zandi Remix",
-      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -1055,6 +1035,26 @@
       "duration_ms": 337714,
       "name": "Bem a Tempo - Yemanjo Remix",
       "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
+        "name": "Unsichtbar (Behrooz Zandi Remix)",
+        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
+      },
+      "artists": [
+        {
+          "name": "Tiefe Wasser Berlin",
+          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+        },
+        {
+          "name": "Behrooz Zandi",
+          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
+        }
+      ],
+      "duration_ms": 370196,
+      "name": "Unsichtbar - Behrooz Zandi Remix",
+      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 427000,
       "name": "Chaghaf",
       "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2024-04-26 15:15:25",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
+        "name": "Rummen",
+        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
+      },
+      "artists": [
+        {
+          "name": "Pulli & Chomba",
+          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
+        }
+      ],
+      "duration_ms": 466750,
+      "name": "Rummen",
+      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP"
       },
@@ -1355,42 +1371,6 @@
     {
       "added_at": "2024-04-26 15:15:25",
       "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/3Cl07dg658G4zsCSKJNEae"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6W",
-          "url": "https://open.spotify.com/artist/0ntJM1ZVyO8oyZGkhTEaTo"
-        },
-        {
-          "name": "Gaia Ekho",
-          "url": "https://open.spotify.com/artist/3IGkmJjeqJE1ZNmV9NQtsO"
-        }
-      ],
-      "duration_ms": 400695,
-      "name": "Tribal Rhythms",
-      "url": "https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
-        "name": "Rummen",
-        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
-      },
-      "artists": [
-        {
-          "name": "Pulli & Chomba",
-          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
-        }
-      ],
-      "duration_ms": 466750,
-      "name": "Rummen",
-      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
-    },
-    {
-      "added_at": "2024-04-26 15:15:25",
-      "album": {
         "name": "Raga",
         "url": "https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 201818,
       "name": "Raga",
       "url": "https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G"
+    },
+    {
+      "added_at": "2024-04-26 15:15:25",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/3Cl07dg658G4zsCSKJNEae"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6W",
+          "url": "https://open.spotify.com/artist/0ntJM1ZVyO8oyZGkhTEaTo"
+        },
+        {
+          "name": "Gaia Ekho",
+          "url": "https://open.spotify.com/artist/3IGkmJjeqJE1ZNmV9NQtsO"
+        }
+      ],
+      "duration_ms": 400695,
+      "name": "Tribal Rhythms",
+      "url": "https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS"
     }
   ],
   "unique_name": "Org\u00e1nica",

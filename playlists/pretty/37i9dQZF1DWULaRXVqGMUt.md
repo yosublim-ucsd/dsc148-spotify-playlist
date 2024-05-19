@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,666 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,709 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 27 | [Slider](https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:08 |
 | 28 | [Boogie Woogie Man](https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:42 |
 | 29 | [Swanee River Hop](https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Rock and Rollin' With Fats](https://open.spotify.com/album/02ygc0A5WNjd5HnDI1xzs0) | 2:51 |
-| 30 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
-| 31 | [Mac's Boogie](https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Plays Mac Rebennack](https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS) | 3:58 |
-| 32 | [Swanee River Boogie](https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7) | [Jon Cleary](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX) | [So Swell](https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO) | 2:31 |
+| 30 | [Swanee River Boogie](https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7) | [Jon Cleary](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX) | [So Swell](https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO) | 2:31 |
+| 31 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
+| 32 | [Mac's Boogie](https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Plays Mac Rebennack](https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS) | 3:58 |
 | 33 | [Let Me Go Home Whiskey](https://open.spotify.com/track/33343QHpDEcf022acPZMw8) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Let's Have A Party! \(The Aladdin Recordings\)](https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF) | 2:47 |
 | 34 | [Junco Partner \#2](https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [The Lost Paramount Tapes](https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr) | 3:55 |
 | 35 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 56 | [Boogie Woogie Storm](https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg) | [Martin Pyrker, Sabine Pyrker](https://open.spotify.com/artist/2N2wagQUl3I4BMG5KYvHEt) | [Boogie Woogie Storm](https://open.spotify.com/album/5NWhuQ7FyaDlEClXQ26QsW) | 2:54 |
 | 57 | [Get in the Groove, Boys!](https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS) | [Henning Pertiet](https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5) | [Boogie Woogie](https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE) | 3:18 |
 | 58 | [Boyd's Boogie Woogie](https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2), [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ), [Speckled Red](https://open.spotify.com/artist/2TLqxQWKzeqnaovkTxI3TV), [Little Brother Montgomery](https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz), [Jack Dupree](https://open.spotify.com/artist/0Ay8TJXZ9sY3Z6rBWTZLBn) | [Barrelhouse, Blues & Boogie Woogie Vol\. II](https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN) | 2:11 |
-| 59 | [Marie](https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Boogie Woogie 50](https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK) | 2:30 |
-| 60 | [Count Basie's Red Bank Cafe](https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2) | [Floyd Domino](https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2) | [Hightower Boogie Woogie](https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0) | 2:39 |
+| 59 | [Count Basie's Red Bank Cafe](https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2) | [Floyd Domino](https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2) | [Hightower Boogie Woogie](https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0) | 2:39 |
+| 60 | [Marie](https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Boogie Woogie 50](https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK) | 2:30 |
 | 61 | [Chicago Breakdown](https://open.spotify.com/track/5tpdMbPniXLbNNCnPCT3dG) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [Big Maceo](https://open.spotify.com/album/050Om28lQNAArTUuKzIEzs) | 3:01 |
 | 62 | [Chimes Blues](https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd) | [Cow Cow Davenport Vol\. 1 \(1925\-1929\)](https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs) | 3:19 |
 | 63 | [Detroit Rocks](https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn) | [Montana Taylor](https://open.spotify.com/artist/0jpobPHlTpZ0Z8lFNNfCYM) | [Detroit Rocks](https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH) | 3:25 |

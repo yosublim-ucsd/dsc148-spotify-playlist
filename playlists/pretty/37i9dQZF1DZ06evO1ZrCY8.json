@@ -1,12 +1,12 @@
 {
   "description": "This is Heroes Del Silencio. The essential tracks, all in one playlist.",
-  "num_followers": 185001,
+  "num_followers": 185056,
   "original_name": "This Is Heroes Del Silencio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAD2YjkGu3eYUPhbfW+hvnml",
+  "snapshot_id": "ZkaeAAAAAACSHnTlzAesGiuM9BWXnfOJ",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Senderos De Traici\u00f3n",
+        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 368320,
+      "name": "Entre dos tierras",
+      "url": "https://open.spotify.com/track/4rJdaSwOCHLBhxdMsymeMw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Esp\u00edritu Del Vino- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3"
       },
@@ -59,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalancha",
-        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 287640,
-      "name": "Deshacer el mundo",
-      "url": "https://open.spotify.com/track/3ZNs9tTAIX7gzA0G7TUTKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
@@ -84,9 +84,25 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 368320,
-      "name": "Entre dos tierras",
-      "url": "https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt"
+      "duration_ms": 187520,
+      "name": "La carta",
+      "url": "https://open.spotify.com/track/2RzZSZbfu3jir4udOhyd75"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avalancha",
+        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 327426,
+      "name": "La chispa adecuada (Bendecida 3)",
+      "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
     },
     {
       "added_at": null,
@@ -123,6 +139,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "Malas intenciones",
+      "url": "https://open.spotify.com/track/7Fi4oyVjarzUUZHTUwS3Wu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avalancha",
+        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 287640,
+      "name": "Deshacer el mundo",
+      "url": "https://open.spotify.com/track/3ZNs9tTAIX7gzA0G7TUTKr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Senderos De Traici\u00f3n",
         "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
       },
@@ -139,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "La carta",
-      "url": "https://open.spotify.com/track/2RzZSZbfu3jir4udOhyd75"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tour 2007",
         "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
       },
@@ -167,6 +199,22 @@
       "duration_ms": 280560,
       "name": "El estanque - Live",
       "url": "https://open.spotify.com/track/2vrVlidqD4TPASvwqlBztv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 256546,
+      "name": "Con nombre de guerra",
+      "url": "https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P"
     },
     {
       "added_at": null,
@@ -203,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Malas intenciones",
-      "url": "https://open.spotify.com/track/7Fi4oyVjarzUUZHTUwS3Wu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3"
       },
@@ -231,6 +263,22 @@
       "duration_ms": 414920,
       "name": "La herida",
       "url": "https://open.spotify.com/track/2aegLCwIWlVYvCjUf641Qr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Oraci\u00f3n",
+      "url": "https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v"
     },
     {
       "added_at": null,
@@ -267,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 256546,
-      "name": "Con nombre de guerra",
-      "url": "https://open.spotify.com/track/2W0SOlPRDSxLLbMNR9tR7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tour 2007",
         "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
       },
@@ -295,22 +327,6 @@
       "duration_ms": 271320,
       "name": "Agosto - Live",
       "url": "https://open.spotify.com/track/2UDS1eIYjO5iAuggMGQTbo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avalancha",
-        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 285560,
-      "name": "En brazos de la fiebre",
-      "url": "https://open.spotify.com/track/7LGH6CjdyJAFxzuqcGF381"
     },
     {
       "added_at": null,
@@ -331,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+        "name": "Avalancha",
+        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
       },
       "artists": [
         {
@@ -340,25 +356,9 @@
           "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Oraci\u00f3n",
-      "url": "https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tour 2007",
-        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Flor venenosa - Live",
-      "url": "https://open.spotify.com/track/10nkc8YgPxgH2FODwpIudJ"
+      "duration_ms": 285560,
+      "name": "En brazos de la fiebre",
+      "url": "https://open.spotify.com/track/7LGH6CjdyJAFxzuqcGF381"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
       "duration_ms": 359866,
       "name": "Bendecida",
       "url": "https://open.spotify.com/track/6VvWFKYrRyvlfz4ddteFqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tour 2007",
+        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Flor venenosa - Live",
+      "url": "https://open.spotify.com/track/10nkc8YgPxgH2FODwpIudJ"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 274573,
       "name": "La visi\u00f3n de vuestras almas",
       "url": "https://open.spotify.com/track/4XlSm46b9mQs4yuKTojhXh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avalancha",
-        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Parasiempre",
-      "url": "https://open.spotify.com/track/60iCTsV9HhgNQ6p0reBXHb"
     },
     {
       "added_at": null,

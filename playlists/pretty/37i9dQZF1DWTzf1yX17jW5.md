@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,874 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,886 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 30 | [GOOD LOYAL THOTS 2 \- Demo](https://open.spotify.com/track/5KiSXkMuL521ohdw8t2SAt) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [GOOD LOYAL THOTS 2 \(Demo\)](https://open.spotify.com/album/5xkTQakddnZplfymuKyPIa) | 1:42 |
 | 31 | [Need \(Bonus Track\)](https://open.spotify.com/track/01aojvlRe3mwlEwTnLVUbs) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [B2B](https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8) | 2:37 |
 | 32 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
-| 33 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 |
-| 34 | [Honesty \- Jersey Club Remix](https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe) | 2:10 |
+| 33 | [Honesty \- Jersey Club Remix](https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Honesty \(Jersey Club Remix\)](https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe) | 2:10 |
+| 34 | [Whip It Up](https://open.spotify.com/track/1dUnXEhm7ShBQYb0qbwtSl) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Whip It Up](https://open.spotify.com/album/3S4fDwnkGpQjGFgESE3afw) | 2:10 |
 | 35 | [Im Loop \(feat\. Bilderbuch\)](https://open.spotify.com/track/29svgRT6R8PuLBjKGPJjz5) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Bilderbuch](https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Insomnia](https://open.spotify.com/album/7flMvR3hmHgwMpnTsdVApW) | 2:43 |
 | 36 | [Rump \(feat\. Chow Lee\)](https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:49 |
 | 37 | [7/7](https://open.spotify.com/track/5xoIhHhgZAoph1bz0o2Rtt) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:37 |

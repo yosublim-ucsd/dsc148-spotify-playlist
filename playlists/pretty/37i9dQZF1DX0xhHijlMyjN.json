@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 342359,
+  "num_followers": 342353,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 267160,
-      "name": "Suavemente",
-      "url": "https://open.spotify.com/track/7JIjUx3GsL0upxmNJacmtz"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 196933,
       "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 267160,
+      "name": "Suavemente",
+      "url": "https://open.spotify.com/track/7JIjUx3GsL0upxmNJacmtz"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Moulin Rouge",
         "url": "https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
         }
       ],
-      "duration_ms": 261360,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1251,6 +1235,22 @@
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1371,6 +1371,42 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        },
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Mucho mejor (feat. Coque Malla)",
+      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Djobi, Djoba",
+      "url": "https://open.spotify.com/track/2Mz7HwloqFNdA6iZeZk5PJ"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
         "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
       },
@@ -1399,42 +1435,6 @@
       "duration_ms": 209946,
       "name": "Ave Mar\u00eda",
       "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Djobi, Djoba",
-      "url": "https://open.spotify.com/track/2Mz7HwloqFNdA6iZeZk5PJ"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        },
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Mucho mejor (feat. Coque Malla)",
-      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
       "artists": [
         {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
         }
       ],
-      "duration_ms": 202146,
-      "name": "Pan y mantequilla",
-      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
       },
       "artists": [
         {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
         }
       ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
+      "duration_ms": 202146,
+      "name": "Pan y mantequilla",
+      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Tacat\u00e0",
         "url": "https://open.spotify.com/album/6Th9OWjLOcPPw08RcgvjvF"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 210000,
       "name": "Tacat\u00e0 - Radio Edit",
       "url": "https://open.spotify.com/track/51RBDu31r3ynFswDJmidLW"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "El Venao",
-      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 311866,
       "name": "Dolores se llamaba Lola",
       "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "El Venao",
+      "url": "https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Puerto Presente",
-        "url": "https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Cucaracha",
         "url": "https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 244500,
       "name": "La Cucaracha",
       "url": "https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Puerto Presente",
+        "url": "https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA"
     },
     {
       "added_at": "2023-06-09 09:38:51",

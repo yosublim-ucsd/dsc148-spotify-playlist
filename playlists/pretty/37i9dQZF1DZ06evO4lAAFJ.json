@@ -1,12 +1,12 @@
 {
-  "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 619121,
+  "description": "This Is ROSAL\u00cdA. Los temas esenciales, todos en una lista.",
+  "num_followers": 619187,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAD1UcL2AOO+IjOKMnzBRIkI",
+  "snapshot_id": "ZkaeAAAAAACiIbRMsxtc2C6wOuDwidAE",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 161266,
       "name": "LA COMBI VERSACE",
       "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": null,
@@ -307,26 +307,6 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9"
     },
     {
       "added_at": null,
@@ -579,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aute Cuture",
+        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 147626,
+      "name": "Aute Cuture",
+      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -595,22 +591,6 @@
       "duration_ms": 196426,
       "name": "PROMESA",
       "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aute Cuture",
-        "url": "https://open.spotify.com/album/23irnvaijPHVE7682D4G3f"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 147626,
-      "name": "Aute Cuture",
-      "url": "https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf"
     },
     {
       "added_at": null,
@@ -699,6 +679,26 @@
       "duration_ms": 269538,
       "name": "QUE NO SALGA LA LUNA - Cap.2: Boda",
       "url": "https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blinding Lights (Remix)",
+        "url": "https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 216123,
+      "name": "Blinding Lights (with ROSAL\u00cdA) - Remix",
+      "url": "https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3"
     },
     {
       "added_at": null,

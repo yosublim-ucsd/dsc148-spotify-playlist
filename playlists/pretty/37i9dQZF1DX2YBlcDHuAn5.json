@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7392,
+  "num_followers": 7398,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Love Is A Place",
-        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "The Epic Tale of the Stranded Man",
         "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 212139,
       "name": "Lola with the Light Eyes",
       "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Love Is A Place",
+        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Big Grey Boxes",
-        "url": "https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK"
+        "name": "Love to See You Cry",
+        "url": "https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD"
       },
       "artists": [
         {
-          "name": "Timo de Jong",
-          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+          "name": "Robbert Duijf",
+          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
         }
       ],
-      "duration_ms": 259374,
-      "name": "Big Grey Boxes",
-      "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
+      "duration_ms": 262286,
+      "name": "Love to See You Cry",
+      "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
     }
   ],
   "unique_name": "Route Americana",

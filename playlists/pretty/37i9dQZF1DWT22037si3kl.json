@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Rudies Flacko",
-  "num_followers": 137631,
+  "num_followers": 137643,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 184277,
+      "name": "cora\u00e7\u00e3o gelado",
+      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -595,22 +615,26 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+        "name": "Mimo Caro",
+        "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
       },
       "artists": [
         {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
         }
       ],
-      "duration_ms": 184277,
-      "name": "cora\u00e7\u00e3o gelado",
-      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
+      "duration_ms": 249600,
+      "name": "Mimo Caro",
+      "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -639,26 +663,30 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Mimo Caro",
-        "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
+        "name": "J\u00f3ias do Bairro",
+        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
       "artists": [
         {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Mc Dena",
-          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Mimo Caro",
-      "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
+      "duration_ms": 171285,
+      "name": "J\u00f3ias do Bairro",
+      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -679,6 +707,42 @@
       "duration_ms": 202451,
       "name": "Sem Compaix\u00e3o",
       "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Morrer De Amor",
+        "url": "https://open.spotify.com/album/4SwlZmYs7EIx8Ipbi8HOgi"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
+        }
+      ],
+      "duration_ms": 243471,
+      "name": "Morrer De Amor",
+      "url": "https://open.spotify.com/track/6dRr2YljG54MTLMyGZc1Q0"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -751,70 +815,6 @@
       "duration_ms": 209013,
       "name": "N\u00e3o Me Para",
       "url": "https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "J\u00f3ias do Bairro",
-        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        }
-      ],
-      "duration_ms": 171285,
-      "name": "J\u00f3ias do Bairro",
-      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Morrer De Amor",
-        "url": "https://open.spotify.com/album/4SwlZmYs7EIx8Ipbi8HOgi"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "H4lfmeasures",
-          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
-        }
-      ],
-      "duration_ms": 243471,
-      "name": "Morrer De Amor",
-      "url": "https://open.spotify.com/track/6dRr2YljG54MTLMyGZc1Q0"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -911,54 +911,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 127602,
-      "name": "Milion\u00e1rio e Jos\u00e9 Rico",
-      "url": "https://open.spotify.com/track/0VtURljcxQxeuCmeVZ6bsx"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "RELATOS",
         "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
       },
@@ -987,6 +939,30 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -1011,30 +987,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 170647,
-      "name": "N\u00fameros da Sorte",
-      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -1055,6 +1007,54 @@
       "duration_ms": 148525,
       "name": "Cheiro de Sexo",
       "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 127602,
+      "name": "Milion\u00e1rio e Jos\u00e9 Rico",
+      "url": "https://open.spotify.com/track/0VtURljcxQxeuCmeVZ6bsx"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 170647,
+      "name": "N\u00fameros da Sorte",
+      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
     },
     {
       "added_at": "2024-05-17 03:01:00",

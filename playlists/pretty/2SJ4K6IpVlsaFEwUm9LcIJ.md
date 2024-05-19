@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,535 likes - 16 songs - 40 min 43 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 19,534 likes - 17 songs - 43 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,5 +24,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 14 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 |
 | 15 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 |
 | 16 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 |
+| 17 | [I'm Sorry I Left Him To Bleed](https://open.spotify.com/track/7AwMd4z4jV8p5A791fxD7A) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 2:47 |
 
-Snapshot ID: `AAAKZJR6DDMv762pwoIFglnXJksw+zOB`
+Snapshot ID: `AAAKZR3ZaMISGHtrArAA5rsDpr5R3Bgx`

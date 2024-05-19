@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,872 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,911 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 87 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 |
 | 88 | [Como un Rayo](https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle) | [Gato López](https://open.spotify.com/artist/07HWPf2PLYzx38I3lJIsCH), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Como un Rayo](https://open.spotify.com/album/5pIR00URS8Wn6g5UZBGzSd) | 2:37 |
 | 89 | [Wir sind wieder wer](https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb) | [100 Kilo Herz](https://open.spotify.com/artist/6sKOC3XdcoRZHh70zwnWFg) | [Wir sind wieder wer](https://open.spotify.com/album/5RvndlPhi6eqt0QxN2hP0q) | 3:27 |
-| 90 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 3:10 |
-| 91 | [Chupasangre](https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Chupasangre](https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU) | 3:16 |
-| 92 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
+| 90 | [Chupasangre](https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Chupasangre](https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU) | 3:16 |
+| 91 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
+| 92 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 3:10 |
 | 93 | [Blessed with a Melody](https://open.spotify.com/track/2VOPWmLCCfSKDtxiQBxKsx) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Blessed with a Melody](https://open.spotify.com/album/06rxIyt9gHCan4NA9puzRL) | 4:27 |
 | 94 | [Yes It's True](https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Yes It's True](https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ) | 4:03 |
 | 95 | [Where Did All My Friends Go?](https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Where Did All My Friends Go?](https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd) | 3:50 |
 | 96 | [Noc je ještě mladá](https://open.spotify.com/track/66DzNV3HkTmYlYA9shXAr2) | [Sto zvířat](https://open.spotify.com/artist/4fLCFZWbgAALL8veJBj8lX) | [Noční ptáci](https://open.spotify.com/album/23jNX9AOg5j9mQNwktCgcM) | 3:29 |
 | 97 | [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 |
 | 98 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
-| 99 | [Behin Eta Berriz](https://open.spotify.com/track/7aThCw2poPhq4ydLBS8Mt3) | [Esne Beltza](https://open.spotify.com/artist/2XPWNtVJSENbUVjYZSPnUP), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Behin Eta Berriz](https://open.spotify.com/album/68fXEXnGqM6UL0Z2QXGZK1) | 3:14 |
-| 100 | [Old Friend](https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 2:53 |
+| 99 | [Old Friend](https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 2:53 |
+| 100 | [Behin Eta Berriz](https://open.spotify.com/track/7aThCw2poPhq4ydLBS8Mt3) | [Esne Beltza](https://open.spotify.com/artist/2XPWNtVJSENbUVjYZSPnUP), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Behin Eta Berriz](https://open.spotify.com/album/68fXEXnGqM6UL0Z2QXGZK1) | 3:14 |
 
 Snapshot ID: `ZjWWGgAAAAD3ock9foR1oj19r1AE1CyE`

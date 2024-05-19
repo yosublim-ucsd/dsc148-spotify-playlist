@@ -1,12 +1,12 @@
 {
   "description": "This is Felicity Urquhart. The essential tracks, all in one playlist.",
-  "num_followers": 358,
+  "num_followers": 359,
   "original_name": "This Is Felicity Urquhart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAlLKjggYs9Ps7s3q7tuICn",
+  "snapshot_id": "ZkaeAAAAAADM3brQacqIVsLpkQYtqldM",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
         }
       ],
-      "duration_ms": 204005,
-      "name": "At Your Table",
-      "url": "https://open.spotify.com/track/3yDSaSwCiSW6oXRDaOlDzp"
+      "duration_ms": 297872,
+      "name": "Catching a Feeling",
+      "url": "https://open.spotify.com/track/1U9DtRapn4xV6VgFCAJHj4"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
         }
       ],
-      "duration_ms": 211594,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/09kXXHGLVV86lRYiXAb4k1"
+      "duration_ms": 212420,
+      "name": "Softer Side",
+      "url": "https://open.spotify.com/track/5qz43mUFzrB1W7SsKmp1mV"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
         }
       ],
-      "duration_ms": 297872,
-      "name": "Catching a Feeling",
-      "url": "https://open.spotify.com/track/1U9DtRapn4xV6VgFCAJHj4"
+      "duration_ms": 204005,
+      "name": "At Your Table",
+      "url": "https://open.spotify.com/track/3yDSaSwCiSW6oXRDaOlDzp"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
         }
       ],
-      "duration_ms": 212420,
-      "name": "Softer Side",
-      "url": "https://open.spotify.com/track/5qz43mUFzrB1W7SsKmp1mV"
+      "duration_ms": 211594,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/09kXXHGLVV86lRYiXAb4k1"
     },
     {
       "added_at": null,
@@ -516,9 +516,109 @@
           "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Rain Fall",
-      "url": "https://open.spotify.com/track/2YoaUpKgLpouPql0iD7UEl"
+      "duration_ms": 260415,
+      "name": "Open Sea",
+      "url": "https://open.spotify.com/track/0Yplqtaw3VsNLd8Sk2Juy3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/7GM1YkGnS0LoyImur8d3os"
+      },
+      "artists": [
+        {
+          "name": "Nick Barker",
+          "url": "https://open.spotify.com/artist/4VZy32PZdwxcefnsvE5PBM"
+        },
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/4Bu1Vw72PMIvlNNrXs3dj8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 259706,
+      "name": "Western Lullaby",
+      "url": "https://open.spotify.com/track/3bQ61KuOqk5SWV8zxLazey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 282013,
+      "name": "Lonely Girl",
+      "url": "https://open.spotify.com/track/54stbe8ngYu7gvx0ApTKjs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Landing Lights",
+        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "Old Man Trouble",
+      "url": "https://open.spotify.com/track/6sis4M3L5lOGd1rzxOKkba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Send It Down Hughie, Vol. 2",
+        "url": "https://open.spotify.com/album/5FcbXiBe7YMTsJBsvJRQgy"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Give",
+      "url": "https://open.spotify.com/track/0KGleGbyZDjFW9NqCf6Hai"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3kFjXyELd3JVdqHS14h0t0"
     },
     {
       "added_at": null,
@@ -559,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+        "name": "Nothing to Hide",
+        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
       },
       "artists": [
         {
@@ -568,57 +668,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 259706,
-      "name": "Western Lullaby",
-      "url": "https://open.spotify.com/track/3bQ61KuOqk5SWV8zxLazey"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Send It Down Hughie, Vol. 2",
-        "url": "https://open.spotify.com/album/5FcbXiBe7YMTsJBsvJRQgy"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Give",
-      "url": "https://open.spotify.com/track/0KGleGbyZDjFW9NqCf6Hai"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "Lonely Girl",
-      "url": "https://open.spotify.com/track/54stbe8ngYu7gvx0ApTKjs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Landing Lights",
-        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "I Fall",
-      "url": "https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk"
+      "duration_ms": 192226,
+      "name": "Summerfly",
+      "url": "https://open.spotify.com/track/734yjL9rQgaKw9J8Zr2NVn"
     },
     {
       "added_at": null,
@@ -632,29 +684,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 158266,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/1cLgDaM4VxS45nETiCI424"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/7GM1YkGnS0LoyImur8d3os"
-      },
-      "artists": [
-        {
-          "name": "Nick Barker",
-          "url": "https://open.spotify.com/artist/4VZy32PZdwxcefnsvE5PBM"
-        },
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/4Bu1Vw72PMIvlNNrXs3dj8"
+      "duration_ms": 131333,
+      "name": "Too Many Secrets",
+      "url": "https://open.spotify.com/track/55GAlB5vrAuTYDZ9ml1pcu"
     },
     {
       "added_at": null,
@@ -684,25 +716,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 191293,
-      "name": "Old Man Trouble",
-      "url": "https://open.spotify.com/track/6sis4M3L5lOGd1rzxOKkba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "Too Many Secrets",
-      "url": "https://open.spotify.com/track/55GAlB5vrAuTYDZ9ml1pcu"
+      "duration_ms": 199880,
+      "name": "I Fall",
+      "url": "https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk"
     },
     {
       "added_at": null,
@@ -716,9 +732,25 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 252813,
-      "name": "Country Girl (In the Urban World)",
-      "url": "https://open.spotify.com/track/7pgPBsGjUAy5aOe6yN1uBS"
+      "duration_ms": 295253,
+      "name": "Til the Rivers All Run Dry",
+      "url": "https://open.spotify.com/track/33ayQ0Ef5zPfjAaSxnegzp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/1cLgDaM4VxS45nETiCI424"
     },
     {
       "added_at": null,
@@ -755,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 291626,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3kFjXyELd3JVdqHS14h0t0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing to Hide",
         "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
       },
@@ -780,9 +796,25 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Tropical Fever",
-      "url": "https://open.spotify.com/track/7h0GNlpLMYxRW78zFdRoIo"
+      "duration_ms": 261200,
+      "name": "Sugarloaf Hill",
+      "url": "https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/2iMbuC3ankWOtNRlKsgnzw"
     },
     {
       "added_at": null,
@@ -799,6 +831,38 @@
       "duration_ms": 235413,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/4ZV6Kp0kdbPqxilUuJ8hDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Landing Lights",
+        "url": "https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "So Go On",
+      "url": "https://open.spotify.com/track/3bEUhd1DWfzij3LGECFGni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing to Hide",
+        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Tropical Fever",
+      "url": "https://open.spotify.com/track/7h0GNlpLMYxRW78zFdRoIo"
     },
     {
       "added_at": null,
@@ -823,38 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/2iMbuC3ankWOtNRlKsgnzw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing to Hide",
-        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 295253,
-      "name": "Til the Rivers All Run Dry",
-      "url": "https://open.spotify.com/track/33ayQ0Ef5zPfjAaSxnegzp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
       },
@@ -864,45 +896,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 220866,
-      "name": "That Boy Sure Can Jump a Train",
-      "url": "https://open.spotify.com/track/2wjpcNq46nxOdhjKJwWUT9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Good Fun (Live @ Studio Goonga, 2019)",
-        "url": "https://open.spotify.com/album/37BOImeDfA77dEkVWqvAJG"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 223365,
-      "name": "All Good Fun - Live @ Studio Goonga, 2019",
-      "url": "https://open.spotify.com/track/6b051VFccFPDnLXwDOJX2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spin! Spin! Spin!",
-        "url": "https://open.spotify.com/album/4RmxqMBODWQhJqmw573xyx"
-      },
-      "artists": [
-        {
-          "name": "Mick Thomas",
-          "url": "https://open.spotify.com/artist/5PPjTs0rzmF3EQUiRBMge2"
-        },
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 170560,
-      "name": "As You Lay Sleeping",
-      "url": "https://open.spotify.com/track/2uRYWpRboWnVCnyICEDXuO"
+      "duration_ms": 202546,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d"
     }
   ],
   "unique_name": "This Is Felicity Urquhart",

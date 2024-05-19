@@ -1,12 +1,12 @@
 {
-  "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 8243,
+  "description": "This is Yaeji. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 8246,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAtyGu809alhlyhj3aTPqNG",
+  "snapshot_id": "ZkaeAAAAAAB5ODzGB+qfAy186eD1kCZV",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAVE:N, The Remixes",
-        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+        "name": "Feel It Out",
+        "url": "https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9"
       },
       "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 149982,
-      "name": "Enough For Love - Yaeji heart+beat Remix",
-      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
+      "duration_ms": 196364,
+      "name": "Feel It Out",
+      "url": "https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ"
     },
     {
       "added_at": null,
@@ -215,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel It Out",
-        "url": "https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9"
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
       },
       "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 196364,
-      "name": "Feel It Out",
-      "url": "https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ"
+      "duration_ms": 149982,
+      "name": "Enough For Love - Yaeji heart+beat Remix",
+      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
     },
     {
       "added_at": null,

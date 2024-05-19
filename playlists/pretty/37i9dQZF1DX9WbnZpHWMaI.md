@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Elkka
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,597 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,608 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 7 | [IT MIGHT BE THE DRUGS](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [IT MIGHT BE THE DRUGS](https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V) | 3:39 |
 | 8 | [Better Days](https://open.spotify.com/track/6xmMBY754l7guTzNokbzos) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Better Days](https://open.spotify.com/album/23TwGNiTdCvHnZXqm4tJsp) | 3:31 |
 | 9 | [Ice u out](https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [girl EDM](https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu) | 3:23 |
-| 10 | [New Generation](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
+| 10 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
 | 11 | [BIG UP](https://open.spotify.com/track/78QfJ1zk7Tae5gTOHFI6I2) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BIG UP](https://open.spotify.com/album/0iTK7j6vohHdBI7DwdUf1d) | 2:40 |
 | 12 | [Up2U](https://open.spotify.com/track/3qWOOjBP5l8Ape2h0MQH5Z) | [Anna Prior](https://open.spotify.com/artist/5MEm3oZhv8zkqd8iepxnCP) | [Up2U](https://open.spotify.com/album/21mV7OfXhLECU1XPkBFuRE) | 4:30 |
 | 13 | [I Am Free](https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free](https://open.spotify.com/album/4OVnJ158DZVugZc1ePgtG3) | 3:42 |

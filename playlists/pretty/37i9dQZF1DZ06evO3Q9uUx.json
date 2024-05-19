@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14208,
+  "num_followers": 14209,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAClujb/ARrM7rf4ouifcFcZ",
+  "snapshot_id": "ZkaeAAAAAABfosm0dNz4T9rSottJldxd",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
       "duration_ms": 229601,
       "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Mami (feat. BIA)",
-      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
     },
     {
       "added_at": null,
@@ -991,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 156519,
-      "name": "PLATE",
-      "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR CERTAIN (Deluxe)",
         "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
       },
@@ -1023,6 +987,22 @@
       "duration_ms": 153618,
       "name": "BIG DEAL (feat. Sevyn Streeter)",
       "url": "https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 156519,
+      "name": "PLATE",
+      "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"
     },
     {
       "added_at": null,
@@ -1075,6 +1055,22 @@
       "duration_ms": 97013,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/1ZvcFWX1gRGhkCQJwtPANZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 114602,
+      "name": "FREE BIA (1ST DAY OUT)",
+      "url": "https://open.spotify.com/track/7g3hyRYCjM27HBHgYRp8MI"
     }
   ],
   "unique_name": "This Is BIA",

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2GlwF5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2GlwF5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2GlwF5)
 
-### [This Is Maaya Sakamoto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
+### [This Is 坂本真綾](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is Maaya Sakamoto\. The essential tracks, all in one playlist.
+> This is 坂本真綾\. The essential tracks, all in one playlist.
 
-113 songs - 8 hr 33 min
+114 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,13 +87,14 @@
 | [レコード](https://open.spotify.com/track/6wozmCqO8767ylHwjgqrZC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLEAR](https://open.spotify.com/album/0YbibgkIYu30V8Zz0pEJNd) | 4:43 | 2022-08-10 | 2022-10-07 |
 | [レプリカ](https://open.spotify.com/track/0XBq9Gk2ikiyDWJOuwNiP3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [レプリカ](https://open.spotify.com/album/4De7ETw90nNYeBADeq3EGN) | 4:00 | 2022-10-14 |  |
 | [一度きりでいい](https://open.spotify.com/track/0h4AsQi0Mov21Y8nYXV58n) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:13 | 2023-06-01 | 2023-12-14 |
-| [三日月](https://open.spotify.com/track/7ywH1zVrid4wNCFosahE1p) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 5:03 | 2024-05-17 |  |
+| [三日月](https://open.spotify.com/track/7ywH1zVrid4wNCFosahE1p) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 5:03 | 2024-05-17 | 2024-05-19 |
 | [今日だけの音楽](https://open.spotify.com/track/6ccqATIWELf8GnICLpKENP) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 5:05 | 2022-08-11 | 2022-10-14 |
 | [体温](https://open.spotify.com/track/3YVx1paxbHPuaMiPyOGa8e) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:18 | 2023-06-01 |  |
 | [光あれ](https://open.spotify.com/track/7cv8CwFSNrGgINxFhDFnfh) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [少年アリス](https://open.spotify.com/album/5C1IE2qoBSHKwp8U8mlNec) | 4:23 | 2022-10-07 | 2024-03-28 |
 | [光の中へ](https://open.spotify.com/track/56OSarBvrLXbNuFwy9DGng) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:40 | 2022-08-10 | 2022-10-13 |
 | [千里の道 \-studio live\-](https://open.spotify.com/track/0XDm0Nqa2jkyAxbn6tGwNs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:26 | 2022-08-22 | 2023-06-16 |
 | [卒業写真](https://open.spotify.com/track/5kxHVUrCHeyB0Y6Hhczqow) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:38 | 2022-08-10 | 2022-10-13 |
+| [君に会いにいこう](https://open.spotify.com/track/3j9ZxKCVFA89dxGbk9se1k) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 5:13 | 2024-05-19 |  |
 | [夜](https://open.spotify.com/track/3mugDYU2Mz7xzTw0XAFfsB) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [少年アリス](https://open.spotify.com/album/5C1IE2qoBSHKwp8U8mlNec) | 4:41 | 2024-02-17 | 2024-02-21 |
 | [奇跡の海](https://open.spotify.com/track/3SvHpNm2zWsogFk9IVJdNQ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere I](https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G) | 4:18 | 2022-08-10 |  |
 | [宇宙の記憶](https://open.spotify.com/track/3uaZprGpodif2hd4GPEZGA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [宇宙の記憶](https://open.spotify.com/album/4dqKz3OlI0w5ug6Gd9wI7p) | 3:15 | 2022-09-08 |  |

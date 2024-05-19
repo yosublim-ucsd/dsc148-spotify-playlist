@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-18",
-  "description": "This is Talking Heads. The essential tracks, all in one playlist.",
+  "description": "This is Talking Heads. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Talking Heads",
   "tracks": [
     {
@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "Listening Wind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/438kAOxGJQtpEkVMom9WXJ"
+    },
+    {
+      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
       },
@@ -535,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159426,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
+    },
+    {
+      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -618,7 +654,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 204520,
       "name": "Seen and Not Seen - 2005 Remaster",
       "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
@@ -636,7 +672,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 240960,
       "name": "Slippery People - Live",
       "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"

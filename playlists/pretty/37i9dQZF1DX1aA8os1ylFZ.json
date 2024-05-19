@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241622,
+  "num_followers": 241643,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "NICE GIRLS",
-        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "NICE GIRLS",
-      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Obsidian",
         "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "NICE GIRLS",
+        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "NICE GIRLS",
+      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "Wanna Come Thru",
         "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 131900,
       "name": "Wanna Come Thru",
       "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Make You Remember Me",
-        "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
       },
       "artists": [
         {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
         }
       ],
-      "duration_ms": 145751,
-      "name": "Make You Remember Me",
-      "url": "https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s"
+      "duration_ms": 233826,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1151,18 +1151,34 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
+        "name": "Make You Remember Me",
+        "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
       },
       "artists": [
         {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
         }
       ],
-      "duration_ms": 233826,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
+      "duration_ms": 145751,
+      "name": "Make You Remember Me",
+      "url": "https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 149966,
+      "name": "Hurts Me To Know",
+      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 151569,
       "name": "Save Me, Pt. 2",
       "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "Drop In",
         "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Boys Lie",
-        "url": "https://open.spotify.com/album/4fg11InEwQRikdTiBWstPG"
-      },
-      "artists": [
-        {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        }
-      ],
-      "duration_ms": 150602,
-      "name": "Boys Lie",
-      "url": "https://open.spotify.com/track/6VH7CHJl7t9pvUUyQOKVhf"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Something True",
         "url": "https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 163040,
       "name": "Something True",
       "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Boys Lie",
+        "url": "https://open.spotify.com/album/4fg11InEwQRikdTiBWstPG"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "duration_ms": 150602,
+      "name": "Boys Lie",
+      "url": "https://open.spotify.com/track/6VH7CHJl7t9pvUUyQOKVhf"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1431,26 +1447,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Out of Touch",
-        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Sha\u00e9 Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 212574,
-      "name": "Out of Touch",
-      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
@@ -1467,6 +1463,26 @@
       "duration_ms": 186666,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1731,26 +1747,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "majestic exclusives",
-        "url": "https://open.spotify.com/album/7uOqjUeVTPctM8NINdY4Cn"
-      },
-      "artists": [
-        {
-          "name": "1STVIRGINIA",
-          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
-        }
-      ],
-      "duration_ms": 152347,
-      "name": "Feelin'",
-      "url": "https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "We're through",
         "url": "https://open.spotify.com/album/4wPDZWxj7CB4xUBLQ7hIJn"
       },
@@ -1771,18 +1767,22 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Flexible",
-        "url": "https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI"
+        "name": "majestic exclusives",
+        "url": "https://open.spotify.com/album/7uOqjUeVTPctM8NINdY4Cn"
       },
       "artists": [
         {
-          "name": "Jazz Carta",
-          "url": "https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif"
+          "name": "1STVIRGINIA",
+          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
         }
       ],
-      "duration_ms": 141176,
-      "name": "Flexible",
-      "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
+      "duration_ms": 152347,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K"
     }
   ],
   "unique_name": "R&B Magic",

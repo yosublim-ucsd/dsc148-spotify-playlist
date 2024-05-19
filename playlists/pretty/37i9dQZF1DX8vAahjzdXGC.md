@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BILLIE EILISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,012 likes - 106 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,065 likes - 106 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 43 | [On It](https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Midnight Notion](https://open.spotify.com/album/6B0zS4VpKLy0R7WyeaetbI) | 5:40 |
 | 44 | [Pon It](https://open.spotify.com/track/0xlnJ2dcvIeTPprHRvuPhP) | [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Pon It](https://open.spotify.com/album/2ZtN4k88qToFwIflalaCfg) | 2:52 |
 | 45 | [\[STILL ON\] REPEAT](https://open.spotify.com/track/6ZPBJ8uWEAiit8PcVk4uOS) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [\[STILL ON\] REPEAT](https://open.spotify.com/album/3Y3xfXevhPYBy4YqJpbCwU) | 4:10 |
-| 46 | [For the First Time](https://open.spotify.com/track/6inMymbAB1obAUtUPVeWjU) | [Ringgo 5](https://open.spotify.com/artist/73kWDkoIKhN58ALBh7cF3t), [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Love & Light](https://open.spotify.com/album/1Y2i1JvNR7mXb2mAxpth65) | 3:10 |
+| 46 | [For the First Time](https://open.spotify.com/track/6inMymbAB1obAUtUPVeWjU) | [Ringgo 5](https://open.spotify.com/artist/73kWDkoIKhN58ALBh7cF3t) | [Love & Light](https://open.spotify.com/album/1Y2i1JvNR7mXb2mAxpth65) | 3:10 |
 | 47 | [Archimedes](https://open.spotify.com/track/1wQdjj9ou8kSlfzTiGuIKa) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Archimedes](https://open.spotify.com/album/7vwy0PVW5kybvDKygVguhz) | 2:46 |
 | 48 | [CLOUD 9](https://open.spotify.com/track/1EV5az9KISodiYS8CmfRY0) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Levent Geiger](https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG) | [CLOUD 9](https://open.spotify.com/album/0KyciVZWjNOZkzvFpnHqb5) | 2:22 |
 | 49 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 61 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 62 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 |
 | 63 | [Dont You Forget About Me](https://open.spotify.com/track/1RXPiPo2mhZOdcxcOflPzL) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Sorry for Everything Goodbye Forever](https://open.spotify.com/album/3bk7YFSrS1PAMIb8Lyp0dI) | 4:25 |
-| 64 | [Friends and Family \(Denting\) \[with Melly Goeslaw\]](https://open.spotify.com/track/55DUApDmxt7jRLCOjPcaAs) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y), [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Friends and Family \(Denting\) \[with Melly Goeslaw\]](https://open.spotify.com/album/1oGuWphCGDfZVjLYsScNL8) | 2:48 |
+| 64 | [Friends and Family](https://open.spotify.com/track/55DUApDmxt7jRLCOjPcaAs) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Friends and Family](https://open.spotify.com/album/1oGuWphCGDfZVjLYsScNL8) | 2:48 |
 | 65 | [Plastic Romance](https://open.spotify.com/track/7AxZFaSZFX9QhTiWHwh06g) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Plastic Romance](https://open.spotify.com/album/2zOwVX7gdy7Ufc8BxAqKux) | 4:53 |
 | 66 | [Good Guy](https://open.spotify.com/track/0iaXdS4yDgZCXMiV7tuTJP) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Good Guy](https://open.spotify.com/album/0RyA2xMwkkHI46spLAOZ5V) | 2:45 |
 | 67 | [surrender](https://open.spotify.com/track/6xylbEim7Wc6PiEt0QaS7a) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [surrender](https://open.spotify.com/album/0WDBggtAl8PzkzTsvn1Lvk) | 2:34 |

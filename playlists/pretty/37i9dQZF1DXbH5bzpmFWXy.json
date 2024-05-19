@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Lefty SM  en portada.",
-  "num_followers": 166266,
+  "num_followers": 166312,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 168677,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 168677,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -355,8 +355,8 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "ROMPE LA DOMPE",
-        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
@@ -364,17 +364,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 165634,
-      "name": "ROMPE LA DOMPE",
-      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+      "duration_ms": 153031,
+      "name": "LA PEOPLE",
+      "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -487,8 +483,8 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "ROMPE LA DOMPE",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
       },
       "artists": [
         {
@@ -496,13 +492,17 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 153031,
-      "name": "LA PEOPLE",
-      "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
+      "duration_ms": 165634,
+      "name": "ROMPE LA DOMPE",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -875,6 +875,30 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
+        "name": "Ando Enfocado",
+        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Ando Enfocado",
+      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
         "name": "KLK",
         "url": "https://open.spotify.com/album/12OCyIviCYgQF87NHlb5Qi"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 225789,
       "name": "KLK",
       "url": "https://open.spotify.com/track/1J2oUHUEhtReLHOuzFIKCO"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
-        "name": "Ando Enfocado",
-        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Ando Enfocado",
-      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
+        "name": "GPI",
+        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
       },
       "artists": [
         {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
         }
       ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
+      "duration_ms": 154632,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "GPI",
-        "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
       },
       "artists": [
         {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 154632,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "Lujo y Detalle",
-        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Lujo y Detalle",
-      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Lo Intent\u00e9",
         "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 199139,
       "name": "Lo Intent\u00e9",
       "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "Lujo y Detalle",
+        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Lujo y Detalle",
+      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "CUMBIA 85",
-        "url": "https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/3Q9o67LGB9NA9MyHC4SewA"
-        }
-      ],
-      "duration_ms": 221330,
-      "name": "CUMBIA 85",
-      "url": "https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 179080,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "CUMBIA 85",
+        "url": "https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/3Q9o67LGB9NA9MyHC4SewA"
+        }
+      ],
+      "duration_ms": 221330,
+      "name": "CUMBIA 85",
+      "url": "https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X"
     },
     {
       "added_at": "2024-04-26 06:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-04-26 06:00:00",
       "album": {
-        "name": "El Aferrafter",
-        "url": "https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 205647,
-      "name": "El Aferrafter",
-      "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
-    },
-    {
-      "added_at": "2024-04-26 06:00:00",
-      "album": {
         "name": "Besito Con Humo",
         "url": "https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 145658,
       "name": "Besito Con Humo",
       "url": "https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU"
+    },
+    {
+      "added_at": "2024-04-26 06:00:00",
+      "album": {
+        "name": "El Aferrafter",
+        "url": "https://open.spotify.com/album/0CneLezycb7bQwm9E4ZHWo"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 205647,
+      "name": "El Aferrafter",
+      "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
     },
     {
       "added_at": "2024-04-26 06:00:00",

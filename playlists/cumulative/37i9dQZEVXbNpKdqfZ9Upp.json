@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "1000CANCIONES",
+      "url": "https://open.spotify.com/track/4TUu0QxrNe0Mz6RMVoMda1"
+    },
+    {
+      "album": {
         "name": "10:10",
         "url": "https://open.spotify.com/album/7b2yJGGSgLWMENS1LROLaN"
       },
@@ -976,7 +998,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 123293,
       "name": "Abyss - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
@@ -4110,7 +4132,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -5410,6 +5432,28 @@
       "duration_ms": 216346,
       "name": "BYAK",
       "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
+    },
+    {
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "BYAK",
+      "url": "https://open.spotify.com/track/6zMWAKMDVH1uHHDOrm2RdL"
     },
     {
       "album": {
@@ -15706,7 +15750,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -18683,6 +18727,24 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "LENTITO",
+      "url": "https://open.spotify.com/track/5cqeTJhPAfHU4ROwcgG5L4"
+    },
+    {
+      "album": {
         "name": "All The Little Lights",
         "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
       },
@@ -18814,7 +18876,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -28725,6 +28787,24 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "RAMONA FLOWERS",
+      "url": "https://open.spotify.com/track/6cOjQjg8GRhLozpoyiqvfp"
+    },
+    {
+      "album": {
         "name": "MM...FOOD",
         "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
       },
@@ -29886,7 +29966,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 165261,
       "name": "SC-9",
       "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
@@ -31764,7 +31844,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 228800,
       "name": "So High School",
       "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
@@ -35938,7 +36018,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 223783,
       "name": "Un Desperdicio",
       "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
@@ -38862,6 +38942,24 @@
       "duration_ms": 230704,
       "name": "Yo No Soy Celoso",
       "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"
+    },
+    {
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/5JHB8QusYhTWdRw2KJekj6"
     },
     {
       "album": {

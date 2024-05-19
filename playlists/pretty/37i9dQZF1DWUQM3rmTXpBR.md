@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Bigsam
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,990 likes - 82 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,003 likes - 82 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 11 | [Ya Khsara](https://open.spotify.com/track/3NHzvUVVmkNQ6hQ9VJMbJq) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Ya Khsara](https://open.spotify.com/album/4PSYyfCAw0opDo9xKlv1tz) | 2:52 |
 | 12 | [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 |
 | 13 | [Alby Madas](https://open.spotify.com/track/769lMW5dJ1ooeFzWUlBlxI) | [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Alby Madas](https://open.spotify.com/album/1pFcWhghTl4YSWaDV4ViH3) | 4:47 |
-| 14 | [Louloua](https://open.spotify.com/track/18D5vLLBehtz7zH7pJdvzL) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [Louloua](https://open.spotify.com/album/16qzDSHZVmTOFNgJez0DqP) | 4:10 |
+| 14 | [Louloua](https://open.spotify.com/track/18D5vLLBehtz7zH7pJdvzL) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks), [Maii and Zeid](https://open.spotify.com/artist/1kqQvcNxWvkzK55bwDvHGP) | [Louloua](https://open.spotify.com/album/16qzDSHZVmTOFNgJez0DqP) | 4:10 |
 | 15 | [Ya Waladi](https://open.spotify.com/track/7zbYGEskyxeEosmYlbDXSa) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Ya Waladi](https://open.spotify.com/album/2h0Xnc0qp8ABNOpkmcQRGZ) | 3:12 |
 | 16 | [Al Hamdullah](https://open.spotify.com/track/1I7EiwtCU8q7oB68P6lEJN) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Al Hamdullah](https://open.spotify.com/album/6Juo9kUV5BTp1DbY3Vv2mB) | 3:28 |
 | 17 | [وسط الدوامة](https://open.spotify.com/track/5xHyfIDDVOMdhtOUBZ1SmA) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [وسط الدوامة](https://open.spotify.com/album/6m42mTl7UmDxA7OqhWmO3i) | 5:24 |

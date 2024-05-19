@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. LI YILEI  cover. Artwork by Thami Nabil",
-  "num_followers": 160843,
+  "num_followers": 160967,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/3NpUOvq2too7UVtt1yJXSM"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "Kalma Meli Melo",
-        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 1202372,
-      "name": "Breathing Flute 88",
-      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
-    },
-    {
       "added_at": "2024-04-24 04:00:00",
       "album": {
         "name": "Bizou",
@@ -655,6 +639,22 @@
       "duration_ms": 184745,
       "name": "Fleur en poly\u00e9thyl\u00e8ne",
       "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
+    },
+    {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Kalma Meli Melo",
+        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 1202372,
+      "name": "Breathing Flute 88",
+      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -725,20 +725,24 @@
       "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
     },
     {
-      "added_at": "2024-04-24 04:00:00",
+      "added_at": "2024-03-13 03:47:45",
       "album": {
-        "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
-        "url": "https://open.spotify.com/album/5rKypiGobuT88237XpiA26"
+        "name": "Espuma de Mar ~ remixes",
+        "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
       },
       "artists": [
         {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        },
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
         }
       ],
-      "duration_ms": 447810,
-      "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
-      "url": "https://open.spotify.com/track/5FqKkGaJsjzfqeMtSmSPSH"
+      "duration_ms": 224064,
+      "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
+      "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -773,24 +777,20 @@
       "url": "https://open.spotify.com/track/5E32NyBpHy9VAiOAeF0qSX"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
+      "added_at": "2024-04-24 04:00:00",
       "album": {
-        "name": "Espuma de Mar ~ remixes",
-        "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
+        "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
+        "url": "https://open.spotify.com/album/5rKypiGobuT88237XpiA26"
       },
       "artists": [
         {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        },
-        {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
         }
       ],
-      "duration_ms": 224064,
-      "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
-      "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
+      "duration_ms": 447810,
+      "name": "\u72c2\u60f3\u30fb\u672a\u6765\u30fb\u30ed\u30de\u30f3\u30c1\u30ab",
+      "url": "https://open.spotify.com/track/5FqKkGaJsjzfqeMtSmSPSH"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Us, In Between The Blinded",
-        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
-      },
-      "artists": [
-        {
-          "name": "Unblinded Society",
-          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
-        }
-      ],
-      "duration_ms": 157646,
-      "name": "Virtual Forrest",
-      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "onomatopoeia",
         "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 269812,
       "name": "tdU_du_tdu_tdu",
       "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Us, In Between The Blinded",
+        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
+      },
+      "artists": [
+        {
+          "name": "Unblinded Society",
+          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
+        }
+      ],
+      "duration_ms": 157646,
+      "name": "Virtual Forrest",
+      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
       "added_at": "2024-01-10 04:24:05",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/3hJyVn1GKQthsNbg7rTwKx"
     },
     {
-      "added_at": "2024-03-20 13:59:17",
-      "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 68110,
-      "name": "wearywatergod",
-      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
-    },
-    {
       "added_at": "2024-01-10 04:07:01",
       "album": {
         "name": "THE QUANTA SERIES",
@@ -1031,6 +1015,22 @@
       "duration_ms": 209722,
       "name": "Neo Blu",
       "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
+    },
+    {
+      "added_at": "2024-03-20 13:59:17",
+      "album": {
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+      },
+      "artists": [
+        {
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+        }
+      ],
+      "duration_ms": 68110,
+      "name": "wearywatergod",
+      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -1125,26 +1125,6 @@
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "the REAL (HAAi Remix)",
-        "url": "https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 336600,
-      "name": "the REAL - HAAi Remix",
-      "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"
-    },
-    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "Sleepless",
@@ -1193,28 +1173,24 @@
       "url": "https://open.spotify.com/track/0m3FbejKZ3KVTpZa1KjdmR"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
+      "added_at": "2024-04-03 15:21:45",
       "album": {
-        "name": "Sweety Chant",
-        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
+        "name": "the REAL (HAAi Remix)",
+        "url": "https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j"
       },
       "artists": [
         {
-          "name": "Tiny Griffi",
-          "url": "https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0"
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
         },
         {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 164083,
-      "name": "Sweety Chant",
-      "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"
+      "duration_ms": 336600,
+      "name": "the REAL - HAAi Remix",
+      "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1257,6 +1233,30 @@
       "url": "https://open.spotify.com/track/3VXnOLGKahjTbkiulsFjox"
     },
     {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Sweety Chant",
+        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
+      },
+      "artists": [
+        {
+          "name": "Tiny Griffi",
+          "url": "https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0"
+        },
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 164083,
+      "name": "Sweety Chant",
+      "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"
+    },
+    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "Night Plotters",
@@ -1271,38 +1271,6 @@
       "duration_ms": 194901,
       "name": "Night Plotters",
       "url": "https://open.spotify.com/track/0F2wG8xPitaD0mw6KC6O1W"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "the REAL",
-        "url": "https://open.spotify.com/album/3tAt2SzorK7JaZdvM8GvFg"
-      },
-      "artists": [
-        {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "the REAL",
-      "url": "https://open.spotify.com/track/3RwZGa13Iv5Wk1XYnQ90ya"
-    },
-    {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Unknown Fate",
-        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
-      },
-      "artists": [
-        {
-          "name": "UF",
-          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Unknown Fate",
-      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -1323,6 +1291,38 @@
       "duration_ms": 191733,
       "name": "cyanotype memories - edit - joe goddard remix",
       "url": "https://open.spotify.com/track/1qTLK7XA1zRMcrmXQ2VLsr"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Unknown Fate",
+        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
+      },
+      "artists": [
+        {
+          "name": "UF",
+          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Unknown Fate",
+      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "the REAL",
+        "url": "https://open.spotify.com/album/3tAt2SzorK7JaZdvM8GvFg"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "the REAL",
+      "url": "https://open.spotify.com/track/3RwZGa13Iv5Wk1XYnQ90ya"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Lose",
-        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
-      },
-      "artists": [
-        {
-          "name": "Boeckner",
-          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
-        }
-      ],
-      "duration_ms": 291037,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "\u3042\u306a\u305f\u306e\u9aa8\u304c\u3001\u30aa\u30d1\u30fc\u30eb\u306b\u304b\u308f\u308b\u9803",
         "url": "https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 224022,
       "name": "\u80ce\u76e4 (feat. Salyu, Magn\u00fas J\u00f3hann, Siggi String Quartet)",
       "url": "https://open.spotify.com/track/3T42zYzfImtTxNdep9QS06"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/53enCvgjbPueMfdhw5wrzt"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Forgotten Flower",
-        "url": "https://open.spotify.com/album/7j9Cx2dJNKoAPVVU1LPye4"
-      },
-      "artists": [
-        {
-          "name": "Henryne Girls",
-          "url": "https://open.spotify.com/artist/5ihXHvY7jBzaYC1RVJLp0R"
-        }
-      ],
-      "duration_ms": 136317,
-      "name": "Forgotten Flower",
-      "url": "https://open.spotify.com/track/0Hjd5PfLJYEKEb6G4RIXqG"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "The 39 Steps",
@@ -1535,6 +1519,22 @@
       "duration_ms": 288509,
       "name": "Medio Viva",
       "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Forgotten Flower",
+        "url": "https://open.spotify.com/album/7j9Cx2dJNKoAPVVU1LPye4"
+      },
+      "artists": [
+        {
+          "name": "Henryne Girls",
+          "url": "https://open.spotify.com/artist/5ihXHvY7jBzaYC1RVJLp0R"
+        }
+      ],
+      "duration_ms": 136317,
+      "name": "Forgotten Flower",
+      "url": "https://open.spotify.com/track/0Hjd5PfLJYEKEb6G4RIXqG"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/63RgD8yCcqNOdch68VVX35"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "KAPITA\u0141KA",
-        "url": "https://open.spotify.com/album/7oIE4EIPA8YWRCTlfC5uwP"
-      },
-      "artists": [
-        {
-          "name": "Lemta Toro",
-          "url": "https://open.spotify.com/artist/5zV6CMiyKoWIfV1f5nSpwf"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "KAPITA\u0141KA 7",
-      "url": "https://open.spotify.com/track/0WKspchMAunLRrhBUNgeX2"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "EXHALATION Vol.3 The Great Silence",
@@ -1587,6 +1571,22 @@
       "duration_ms": 315428,
       "name": "Dacey's Patent Automatic Nanny",
       "url": "https://open.spotify.com/track/2iEfmDxnxBtUShAQdNjErT"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "KAPITA\u0141KA",
+        "url": "https://open.spotify.com/album/7oIE4EIPA8YWRCTlfC5uwP"
+      },
+      "artists": [
+        {
+          "name": "Lemta Toro",
+          "url": "https://open.spotify.com/artist/5zV6CMiyKoWIfV1f5nSpwf"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "KAPITA\u0141KA 7",
+      "url": "https://open.spotify.com/track/0WKspchMAunLRrhBUNgeX2"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/1VrZ1GXJ7ung4o9uLMnqzU"
     },
     {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "EXHALATION Vol.2 - The Lifecycle of Software Objects",
-        "url": "https://open.spotify.com/album/2vSgnsHg2s8uCcvn6pTwCi"
-      },
-      "artists": [
-        {
-          "name": "Cam Lasky",
-          "url": "https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph"
-        }
-      ],
-      "duration_ms": 356571,
-      "name": "Intelligence",
-      "url": "https://open.spotify.com/track/1ijy62PDVeq0rVya0kZPo4"
-    },
-    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "Ki moun ou ye",
@@ -1711,6 +1695,22 @@
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "EXHALATION Vol.2 - The Lifecycle of Software Objects",
+        "url": "https://open.spotify.com/album/2vSgnsHg2s8uCcvn6pTwCi"
+      },
+      "artists": [
+        {
+          "name": "Cam Lasky",
+          "url": "https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph"
+        }
+      ],
+      "duration_ms": 356571,
+      "name": "Intelligence",
+      "url": "https://open.spotify.com/track/1ijy62PDVeq0rVya0kZPo4"
     },
     {
       "added_at": "2024-03-06 06:00:00",

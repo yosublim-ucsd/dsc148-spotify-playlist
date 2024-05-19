@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 296 songs - 17 hr 38 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 297 songs - 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,5 +304,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 294 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 |
 | 295 | [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 |
 | 296 | [Ej, od kad sam se rodio](https://open.spotify.com/track/1mRyfUZUbIsNDEou1wfqkK) | [Sinan Sakic](https://open.spotify.com/artist/4EONnXMzBhHTIOwjlpoTGl) | [Ej od kad sam se rodio](https://open.spotify.com/album/4CfdY8BiLKxZfLZZXPsH8P) | 3:36 |
+| 297 | [Swagg Talk](https://open.spotify.com/track/78ENPjhPvvJXuuyjz4eJqT) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [I Couldn't Decide](https://open.spotify.com/album/4u6Uuddlg5CTfnopDoEUaX) | 2:58 |
 
-Snapshot ID: `AAADO/VnhK9W7WsNp50L/tvHXV7Vf+01`
+Snapshot ID: `AAADPAQVB9K8MCD+0Av/Fq5fguHDj9wq`

@@ -1,12 +1,12 @@
 {
-  "description": "This is: LUDMILLA. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 291314,
+  "description": "This is LUDMILLA. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 291346,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAD1ZIZV81826+F0PzE3Ca5Z",
+  "snapshot_id": "ZkaeAAAAAACIbUlFR2kn+vR7te/dC37O",
   "tracks": [
     {
       "added_at": null,
@@ -602,15 +602,11 @@
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 215304,
-      "name": "N\u00e3o \u00c9 Por Maldade - Ao vivo",
-      "url": "https://open.spotify.com/track/19IIiuViFv6TsPDXV2ZWB3"
+      "duration_ms": 401511,
+      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
+      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
     },
     {
       "added_at": null,
@@ -687,6 +683,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #2 (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 187796,
+      "name": "N\u00e3o v\u00e1 me enganar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Q3JFwQ0EoAO7gosrWI3na"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 160455,
+      "name": "Um P\u00f4r do Sol na Praia - Ao vivo",
+      "url": "https://open.spotify.com/track/7M1YydD0jJ9teSC62fhfY9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -707,22 +739,6 @@
       "duration_ms": 165111,
       "name": "DA BRABA",
       "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 401511,
-      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
-      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
     },
     {
       "added_at": null,
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 160455,
-      "name": "Um P\u00f4r do Sol na Praia - Ao vivo",
-      "url": "https://open.spotify.com/track/7M1YydD0jJ9teSC62fhfY9"
+      "duration_ms": 325002,
+      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
+      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
     },
     {
       "added_at": null,

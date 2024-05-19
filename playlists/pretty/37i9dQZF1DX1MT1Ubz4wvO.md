@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con The Warning en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,581 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,612 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 7 | [Jartos de Aguantar](https://open.spotify.com/track/3ZroRM5GlHUmgr1j08UCGR) | [Javier Sólo](https://open.spotify.com/artist/2rPLx3GznmaTtZ0W7y0GEy), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX), [Velázquez](https://open.spotify.com/artist/3ZcqrlFRoa1lDIlGXbzcGo), [Fernando Madina](https://open.spotify.com/artist/4usHPlBSMWlZogHG9zMozx) | [Jartos de Aguantar](https://open.spotify.com/album/6JNixf7baUY84B8beoMXpW) | 3:47 |
 | 8 | [Antes Del Primer Beso](https://open.spotify.com/track/2DCcztF48CNFJGDs72ofJB) | [Tres Caladas](https://open.spotify.com/artist/5vJHQhuW7TKYzEavWb6V3l) | [Antes Del Primer Beso](https://open.spotify.com/album/27ehCTfOBNH7uwu8GU5iIO) | 3:34 |
 | 9 | [Niño Salvaje](https://open.spotify.com/track/16qQQT947U4HNA88Mkn6S1) | [Colores Santos](https://open.spotify.com/artist/5c9epmcDnbf7CBNBdYYdSA) | [Ranchero Star](https://open.spotify.com/album/1zd2Tkg8SuJguwcUZC3AGw) | 3:10 |
-| 10 | [Déjame Ir](https://open.spotify.com/track/3jWsQr0g2beZgdaWj1Pv0y) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Déjame Ir](https://open.spotify.com/album/6rH83cKM2JX2Mp2xg9PeMJ) | 3:19 |
+| 10 | [Déjame Ir \- Sesión En Vivo](https://open.spotify.com/track/3jWsQr0g2beZgdaWj1Pv0y) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Déjame Ir \(Sesión En Vivo\)](https://open.spotify.com/album/6rH83cKM2JX2Mp2xg9PeMJ) | 3:19 |
 | 11 | [Mujer Galactica](https://open.spotify.com/track/6F9HkuQ63wkKFDzeOPBhPU) | [Zaravia](https://open.spotify.com/artist/2zPRXZSRA4OLTLIBUdHIaK) | [Mujer Galactica](https://open.spotify.com/album/2lN0CdfDNu3ee5s7tqw5KJ) | 4:12 |
 | 12 | [Perdóname](https://open.spotify.com/track/7u18KLVPXmxdpJgCgBo1r2) | [Automático](https://open.spotify.com/artist/0HiaC6yJUDlEjZUj8axdWk), [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Perdóname](https://open.spotify.com/album/4pTsGEHo0esfiWZaC0pXUV) | 3:39 |
 | 13 | [Es Muy Tarde](https://open.spotify.com/track/3z0s0FygM8SjS3JLz4VRFj) | [Radio Nostalgia](https://open.spotify.com/artist/3LpKwYWtxi8j0lPjfi6ySB) | [Radio Nostalgia](https://open.spotify.com/album/6H6aCMlQ2KYOpcCjMmv2Sw) | 2:36 |

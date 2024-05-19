@@ -1,12 +1,12 @@
 {
-  "description": "This is M\u00e5neskin. The essential tracks, all in one playlist.",
-  "num_followers": 5144,
+  "description": "This Is M\u00e5neskin. Los temas esenciales, todos en una lista.",
+  "num_followers": 5143,
   "original_name": "This Is M\u00e5neskin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAADvYEnCVSLNZ/3VI7G6uEtb",
+  "snapshot_id": "ZkaeAAAAAAACAJmHQufcfDZ23oztf+h7",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+      "duration_ms": 300413,
+      "name": "CORALINE",
+      "url": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 300413,
-      "name": "CORALINE",
-      "url": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": null,

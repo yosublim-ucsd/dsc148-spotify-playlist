@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Harper Grace, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,796 likes - 151 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,863 likes - 151 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 2 | [Drinking Out Loud](https://open.spotify.com/track/4OpmfykqMpCGdgQWHoMnMn) | [Richie Allen](https://open.spotify.com/artist/2QycgFiuMbf6EiyqH9jeyY) | [Drinking Out Loud](https://open.spotify.com/album/5zJmJZaABEaQwZPub14Brv) | 2:49 |
 | 3 | [Dancing on a Dirt Road](https://open.spotify.com/track/3nkmtU8LDGpQtaUtMUbsaB) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Dancing on a Dirt Road](https://open.spotify.com/album/4o9Dm5JRlMPBDzaklhoJl5) | 3:21 |
 | 4 | [Breeze](https://open.spotify.com/track/3vysuK5GwPyUGqUfthWnOm) | [Megan Knight](https://open.spotify.com/artist/2Y4m8BAZwXLSPulBEGx1h7) | [Breeze](https://open.spotify.com/album/628RbP6vdMHtgDO6TiCo3z) | 4:00 |
-| 5 | [NYC](https://open.spotify.com/track/3VPGFbz6Wju25OndOKlBwd) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [NYC](https://open.spotify.com/album/1wYs67rvnvygkLLW4blXU5) | 3:37 |
+| 5 | [NYC \- with Lauren Weintraub](https://open.spotify.com/track/3VPGFbz6Wju25OndOKlBwd) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [NYC \(with Lauren Weintraub\)](https://open.spotify.com/album/1wYs67rvnvygkLLW4blXU5) | 3:37 |
 | 6 | [Love Won't Wait](https://open.spotify.com/track/1MsJJCVOoD2ZYxzzi5G9uE) | [Jimmy Wooten](https://open.spotify.com/artist/0sZlzSKhjreEO385HbTo0y) | [Collision Course](https://open.spotify.com/album/1DIcRCTm6LTdqtQR5p8BWD) | 4:01 |
 | 7 | [5x7](https://open.spotify.com/track/0pw9wzi9c09RutqLNxZROh) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [5x7](https://open.spotify.com/album/4RLd52kpnkccrWAcKU3UbY) | 3:17 |
 | 8 | [All Night Longer](https://open.spotify.com/track/5ghnOczB4zS0OITiHL69y9) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [All Night Longer](https://open.spotify.com/album/0X9fkLvLhiBjbMigGPw3qw) | 2:55 |

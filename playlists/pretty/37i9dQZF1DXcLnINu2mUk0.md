@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bluay
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,568 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,588 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 64 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
 | 65 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos, Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 |
 | 66 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 |
-| 67 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
-| 68 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
+| 67 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
+| 68 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
 | 69 | [PESSOAS MUDAM](https://open.spotify.com/track/41QyQzP9N0Ue1xggj9kh5X) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Raptorxy](https://open.spotify.com/artist/4pVtBTmZCA85SaQ0sM3J6z), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [PESSOAS MUDAM](https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3) | 2:27 |
 | 70 | [É Mentira](https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP), [MIRZA Lauchand](https://open.spotify.com/artist/2V7xK1JcbZfn0IoTHnbiVl), [YINIH](https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL) | [É Mentira](https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD) | 4:04 |
 | 71 | [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 |

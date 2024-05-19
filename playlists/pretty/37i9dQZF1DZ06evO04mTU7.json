@@ -1,12 +1,12 @@
 {
   "description": "This is Ajuliacosta. The essential tracks, all in one playlist.",
-  "num_followers": 3403,
+  "num_followers": 3451,
   "original_name": "This Is Ajuliacosta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAABVml4VyxqyeAGFn0+0DdKS",
+  "snapshot_id": "ZkaeAAAAAACpIKmq3HY+ALxsgIuQhdSh",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Chavosa",
-        "url": "https://open.spotify.com/album/35LfnqgsWFtiDY2AeWmepB"
+        "name": "Unic\u00f3rnio",
+        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
       },
       "artists": [
         {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
         },
         {
-          "name": "Diabelsmusic",
-          "url": "https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA"
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 217297,
-      "name": "Mina Chavosa",
-      "url": "https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o"
+      "duration_ms": 183005,
+      "name": "P\u00e2nico",
+      "url": "https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT"
     },
     {
       "added_at": null,
@@ -423,22 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unic\u00f3rnio",
-        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
+        "name": "Mina Chavosa",
+        "url": "https://open.spotify.com/album/35LfnqgsWFtiDY2AeWmepB"
       },
       "artists": [
         {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
           "name": "Ajuliacosta",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Diabelsmusic",
+          "url": "https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA"
         }
       ],
-      "duration_ms": 183005,
-      "name": "P\u00e2nico",
-      "url": "https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT"
+      "duration_ms": 217297,
+      "name": "Mina Chavosa",
+      "url": "https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o"
     },
     {
       "added_at": null,

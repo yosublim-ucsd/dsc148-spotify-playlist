@@ -1,12 +1,12 @@
 {
   "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
-  "num_followers": 66478,
+  "num_followers": 66485,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAWL87XkmQQJWSLGos/1QvV",
+  "snapshot_id": "ZkaeAAAAAADWbKfBY9PMgLIDttUnhwYk",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Baby (with Lunay)",
+      "url": "https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Boca (Remix)",
         "url": "https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 188467,
       "name": "La Boca - Remix",
       "url": "https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Baby (with Lunay)",
-      "url": "https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Susan Soltero",
-          "url": "https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx"
-        }
-      ],
-      "duration_ms": 43008,
-      "name": "INTERLUDE / REPORTE DEL TIEMPO",
-      "url": "https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ll\u00e9gale",
         "url": "https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 253333,
       "name": "Ll\u00e9gale",
       "url": "https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Susan Soltero",
+          "url": "https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx"
+        }
+      ],
+      "duration_ms": 43008,
+      "name": "INTERLUDE / REPORTE DEL TIEMPO",
+      "url": "https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 229955,
+      "name": "Mi Favorita",
+      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hora y Lugar",
         "url": "https://open.spotify.com/album/20VhZUhCHS0vS64kCSaGq4"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 228267,
       "name": "Hora y Lugar",
       "url": "https://open.spotify.com/track/2kuWpL0C8LFcZSIbI3e35z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 229955,
-      "name": "Mi Favorita",
-      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
     },
     {
       "added_at": null,

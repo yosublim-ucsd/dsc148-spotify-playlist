@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This Is Grupo Arriesgado. Los temas esenciales, todos en una lista.",
+  "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
   "name": "This Is Grupo Arriesgado",
   "tracks": [
     {
@@ -1151,6 +1151,32 @@
     },
     {
       "album": {
+        "name": "Son Cosas De La Peda",
+        "url": "https://open.spotify.com/album/27dr3cYlhnh0gCCXdctJXZ"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141566,
+      "name": "Son Cosas De La Peda",
+      "url": "https://open.spotify.com/track/4jj418EQiugASJj07JuiMs"
+    },
+    {
+      "album": {
         "name": "Soy Benjam\u00edn",
         "url": "https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd"
       },
@@ -1184,7 +1210,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 125225,
       "name": "Soy El Alucin Remix",
       "url": "https://open.spotify.com/track/2TLkItiSWsEoJqb3ROSzKn"

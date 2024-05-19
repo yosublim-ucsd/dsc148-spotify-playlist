@@ -2,13 +2,13 @@
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This is Rashid\. The essential tracks, all in one playlist.
+> This is Rashid\. Todos os maiores hits em uma só playlist.
 
 64 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Fila Anda](https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:26 | 2024-05-18 |  |
+| [A Fila Anda](https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:26 | 2024-05-18 | 2024-05-19 |
 | [A Lua Atrás Do Prédio](https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 3:07 | 2023-09-18 |  |
 | [A Trilha do Fim do Filme](https://open.spotify.com/track/7B0PA9fMc8sSAUYmiz87gD) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [A Trilha do Fim do Filme](https://open.spotify.com/album/7qwu0QksoBnKwErXsjaZ3O) | 3:16 | 2023-11-10 | 2024-03-18 |
 | [A Vida É Um Sopro](https://open.spotify.com/track/1o8ttNku9lspk3dFOfBmY9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve) | [A Vida É Um Sopro](https://open.spotify.com/album/31kxbEqB4x5lpqEvRIgF7z) | 4:21 | 2023-09-25 | 2024-01-15 |
@@ -32,7 +32,7 @@
 | [Gênesis](https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Gênesis](https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB) | 4:00 | 2024-03-28 |  |
 | [Homem do Mundo \(feat\. Criolo\)](https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:17 | 2023-09-18 |  |
 | [Idas e Vindas](https://open.spotify.com/track/4Y6MdVgOnurwvWIDNjlNKh) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Idas e Vindas](https://open.spotify.com/album/3qEeYYqHLCt9zzu2qil1bZ) | 3:36 | 2024-03-17 | 2024-05-15 |
-| [Interior \(feat\. Rapadura\)](https://open.spotify.com/track/4CHH0nG7OthqoT6U07s1B8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rapadura](https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j) | [Interior \(feat\. Rapadura\)](https://open.spotify.com/album/6nklPfPkWzG6XZHfeMdIWM) | 4:39 | 2023-09-18 | 2024-05-18 |
+| [Interior \(feat\. Rapadura\)](https://open.spotify.com/track/4CHH0nG7OthqoT6U07s1B8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rapadura](https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j) | [Interior \(feat\. Rapadura\)](https://open.spotify.com/album/6nklPfPkWzG6XZHfeMdIWM) | 4:39 | 2023-09-18 |  |
 | [Jogo Sério](https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marissol Mwaba](https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 | 2023-09-18 |  |
 | [Laranja Mecânica \(feat\. Xênia França\)](https://open.spotify.com/track/5vE1nlg6T3641s1yGpWIXv) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:05 | 2023-09-18 | 2024-02-05 |
 | [Linha De Frente](https://open.spotify.com/track/4ASow1CEoS3GQ1zOiQCViB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 5:03 | 2023-09-18 |  |

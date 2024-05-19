@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
-  "num_followers": 83515,
+  "num_followers": 83544,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 180986,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
+        "name": "Amor En Cuarentena",
+        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Amor En Cuarentena",
+      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
         "name": "Trebol (II)",
         "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 84558,
       "name": "Aunque Me Cueste La Vida",
       "url": "https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "Amor En Cuarentena",
-        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Amor En Cuarentena",
-      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
+        "name": "Fantas\u00edas",
+        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
+      },
+      "artists": [
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 226336,
+      "name": "Fantas\u00edas",
+      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
         "name": "Tengo Algo Que Decirte",
         "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
       },
@@ -1039,38 +1059,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Fantas\u00edas",
-        "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
       "artists": [
         {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 226336,
-      "name": "Fantas\u00edas",
-      "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "Bolero Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 189077,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     }
   ],
   "unique_name": "Lento.",

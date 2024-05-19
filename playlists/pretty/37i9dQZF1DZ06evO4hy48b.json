@@ -1,12 +1,12 @@
 {
-  "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 198483,
+  "description": "This Is Aitana. Los temas esenciales, todos en una lista.",
+  "num_followers": 198512,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAADX2iE/Nj7hMszzXZJCXZet",
+  "snapshot_id": "ZkaeAAAAAAAntEC6GtR6cAYmJLwKWl6Q",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1s De Lo Que Apost\u00e9",
         "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
       },
@@ -131,6 +151,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
@@ -151,26 +191,6 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "miamor",
-      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
     },
     {
       "added_at": null,
@@ -211,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si T\u00fa La Quieres",
         "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
       },
@@ -227,22 +263,6 @@
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "alpha",
-        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
     },
     {
       "added_at": null,
@@ -319,30 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llueve sobre mojado",
-        "url": "https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 228783,
-      "name": "Llueve sobre mojado",
-      "url": "https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -355,22 +351,6 @@
       "duration_ms": 170346,
       "name": "Darar\u00ed",
       "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En El Coche",
-        "url": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 125080,
-      "name": "En El Coche",
-      "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
     },
     {
       "added_at": null,
@@ -391,6 +371,22 @@
       "duration_ms": 160986,
       "name": "Las Dudas",
       "url": "https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El Coche",
+        "url": "https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 125080,
+      "name": "En El Coche",
+      "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
     },
     {
       "added_at": null,
@@ -463,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Foto Del DNI",
-        "url": "https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8"
+        "name": "11 RAZONES",
+        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
       "artists": [
         {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 179653,
-      "name": "Tu Foto Del DNI",
-      "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
+      "duration_ms": 153787,
+      "name": "ESTUPIDEZ",
+      "url": "https://open.spotify.com/track/2La58UY7zeXryNx0g6GIG2"
     },
     {
       "added_at": null,
@@ -499,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 RAZONES",
-        "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4"
       },
       "artists": [
         {
@@ -508,9 +504,9 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 213179,
-      "name": "11 RAZONES",
-      "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
+      "duration_ms": 155498,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc"
     },
     {
       "added_at": null,
@@ -527,22 +523,6 @@
       "duration_ms": 153750,
       "name": "El cine",
       "url": "https://open.spotify.com/track/5aBiUxjZM1Tvf324Fu2oQF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 155498,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc"
     },
     {
       "added_at": null,
@@ -648,13 +628,13 @@
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 153787,
-      "name": "ESTUPIDEZ",
-      "url": "https://open.spotify.com/track/2La58UY7zeXryNx0g6GIG2"
+      "duration_ms": 167192,
+      "name": "CUANDO TE FUISTE",
+      "url": "https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q"
     },
     {
       "added_at": null,
@@ -723,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TEL\u00c9FONO",
+        "url": "https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "TEL\u00c9FONO",
+      "url": "https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11 RAZONES",
         "url": "https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D"
       },
@@ -730,31 +726,11 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 167192,
-      "name": "CUANDO TE FUISTE",
-      "url": "https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Una M\u00e1s",
-        "url": "https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 208378,
-      "name": "Ni Una M\u00e1s",
-      "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
+      "duration_ms": 210726,
+      "name": "NO TE HAS IDO Y YA TE EXTRA\u00d1O",
+      "url": "https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4"
     },
     {
       "added_at": null,
@@ -775,6 +751,22 @@
       "duration_ms": 168933,
       "name": "La Canci\u00f3n Que No Quiero Cantarte",
       "url": "https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Una M\u00e1s",
+        "url": "https://open.spotify.com/album/07qDUnbnhjLruMXRxa5PsU"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 208378,
+      "name": "Ni Una M\u00e1s",
+      "url": "https://open.spotify.com/track/7aogFQAg0TrYKwGHurgNPg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: Paramore
 
-352 songs - 22 hr 47 min
+354 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Crazy](https://open.spotify.com/track/0jh3Rey2X3m5DOHiRGGGCM) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Crazy](https://open.spotify.com/album/31VU7DWHqZ3kqutbuZD6ZW) | 4:38 | 2022-03-25 | 2022-11-26 |
 | [Creep](https://open.spotify.com/track/7qhX4rQE1Z7YndaF6SBwPs) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9) | [Episode I](https://open.spotify.com/album/3RrQW08C8THSayARHysvOU) | 3:21 | 2020-12-16 | 2022-04-20 |
 | [Creep \- Spotify Singles](https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 5:02 | 2024-01-20 |  |
+| [Dancing On My Own](https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Disco Loadout \(Volume 1\)](https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh) | 3:50 | 2024-05-17 |  |
 | [Dancing On My Own](https://open.spotify.com/track/23WqyY1EGAKBG8Wms2bFp2) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Dancing On My Own](https://open.spotify.com/album/7gEOv7G4cnqH0FJ0iucRoN) | 3:17 | 2022-03-25 | 2022-04-20 |
 | [Dancing on My Own](https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Dancing on My Own](https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa) | 3:29 | 2023-03-24 |  |
 | [Dancing With Myself](https://open.spotify.com/track/19X7O2SlQNMkiJEjVYN6ts) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Loose Change \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7opMW41JT9bEA2cqXTnjTb) | 2:56 | 2020-12-16 | 2022-07-29 |
@@ -108,6 +109,7 @@
 | [Feeling Good](https://open.spotify.com/track/4QTZCaX7Xs1hiApvK93dpF) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Feeling Good](https://open.spotify.com/album/0Ybt2bnCBFHh8opWZE0ITt) | 4:35 | 2022-03-25 | 2022-04-18 |
 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 | 2022-03-25 |  |
 | [Fly Away](https://open.spotify.com/track/1exxuu9LFRjU12jZFmYjc5) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Fly Away](https://open.spotify.com/album/4bEqT3WEG6xMGuHs5XPEbr) | 3:30 | 2020-12-16 | 2022-07-29 |
+| [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 | 2024-05-17 |  |
 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 | 2022-10-26 |  |
 | [For What It’s Worth \- Acoustic](https://open.spotify.com/track/4CE87dn3A0PIln5HKfqo55) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [For What It’s Worth \(Acoustic\)](https://open.spotify.com/album/5hBO2Vq4w0jbT7slr9ZIhi) | 2:54 | 2020-12-16 | 2022-11-17 |
 | [Fortunate Son](https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Fortunate Son](https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg) | 3:23 | 2020-12-16 |  |
@@ -175,7 +177,7 @@
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-24 |  |
 | [Just Like Heaven](https://open.spotify.com/track/2taiFEr466TWMGPZN719m5) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/7LpjAJON4CNX6PmY9SICs3) | 2:53 | 2022-03-25 | 2022-07-24 |
 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 | 2022-06-17 | 2024-04-19 |
-| [Just What I Needed](https://open.spotify.com/track/0CdbUHOAfMAvvtkSg22AM8) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Just What I Needed](https://open.spotify.com/album/0rIB0XxACqySHkiaoF1JmK) | 3:44 | 2020-12-16 |  |
+| [Just What I Needed](https://open.spotify.com/track/0CdbUHOAfMAvvtkSg22AM8) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Just What I Needed](https://open.spotify.com/album/0rIB0XxACqySHkiaoF1JmK) | 3:44 | 2020-12-16 | 2024-05-19 |
 | [Karma Police](https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Karma Police](https://open.spotify.com/album/0lsE84fafmngJgIwvVcr8S) | 4:28 | 2024-04-19 |  |
 | [Karma Police \- triple j Like A Version](https://open.spotify.com/track/5GHgwDW4lz4dnqDpamq1bd) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Karma Police \(triple j Like A Version\)](https://open.spotify.com/album/7q2xzrYWXiL14x4YNIMUiq) | 4:37 | 2024-01-20 | 2024-04-20 |
 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 | 2020-12-16 |  |
@@ -244,7 +246,7 @@
 | [PSYCHO KILLER \(featuring Victoria De Angelis\)](https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif) | 4:25 | 2023-10-27 |  |
 | [Radioactive](https://open.spotify.com/track/2okeBtFNVJ4n33NEV1RxBm) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/2beLSssJ0YzmRbExW9IreE) | 3:13 | 2020-12-16 | 2023-05-04 |
 | [Radioactive](https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:13 | 2023-04-07 | 2024-04-19 |
-| [Ramble On](https://open.spotify.com/track/0OQLMQBKeaFuA2PJRdMuik) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Ramble On](https://open.spotify.com/album/6wFpk4lFTAhrmfkvZxf6Gg) | 4:22 | 2020-12-16 |  |
+| [Ramble On](https://open.spotify.com/track/0OQLMQBKeaFuA2PJRdMuik) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Ramble On](https://open.spotify.com/album/6wFpk4lFTAhrmfkvZxf6Gg) | 4:22 | 2020-12-16 | 2024-05-19 |
 | [Ramble On](https://open.spotify.com/track/6j5zFSiZO1BZmTl9RZ0Xc0) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Does Led Zeppelin II](https://open.spotify.com/album/5V8EDmYhUJLNkq7g74NtIL) | 4:22 | 2022-10-26 | 2022-11-13 |
 | [Reach Out I'll Be There](https://open.spotify.com/track/6R37NiT3mXUqY9op3H5SRD) | [The Jaded Hearts Club](https://open.spotify.com/artist/7qZ3cinlwpZtJpylqOLFCA), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP) | [We'll Meet Again / Reach Out I'll Be There](https://open.spotify.com/album/5NVd5iw4FLWuyohR5WHmHa) | 3:06 | 2020-12-16 | 2022-07-29 |
 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 | 2020-12-16 |  |

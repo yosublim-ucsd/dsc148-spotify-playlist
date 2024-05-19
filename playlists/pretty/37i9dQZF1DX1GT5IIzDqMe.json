@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 90887,
+  "num_followers": 90906,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Curse Breaker / What You Need",
-        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "The Curse Breaker",
-      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "The Sound / How To Play Our Music",
         "url": "https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 408404,
       "name": "The Sound - Extended Mix",
       "url": "https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "The Curse Breaker / What You Need",
+        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "The Curse Breaker",
+      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
     },
     {
       "added_at": "2023-10-26 20:41:14",

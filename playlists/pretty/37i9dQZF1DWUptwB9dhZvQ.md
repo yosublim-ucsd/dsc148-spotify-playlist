@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,294 likes - 85 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,306 likes - 85 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 37 | [Kabadi](https://open.spotify.com/track/5TLFiGnxajzsG9aSdkFzep) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ) | [Ghilli](https://open.spotify.com/album/7Bdcd9jHBes2xdvxuzto28) | 1:44 |
 | 38 | [Theme Music 1](https://open.spotify.com/track/5U9EsOlN3BOGKSDTlOKNkA) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Kadhal Kondaen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FEBJg0kJl4axCBYzktGI) | 1:06 |
 | 39 | [Allia Ceaser](https://open.spotify.com/track/7yxJl6QoMEKGf3QveuGA7P) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda DoubleX \(Original Score\)](https://open.spotify.com/album/5mOvkOWuNDJ4knaJFMHgRo) | 3:11 |
-| 40 | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/track/2r0ROhr7pRN4MXDMT1fEmd) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/album/1zPUq6zLrJyDUtNJBN7eQh) | 1:37 |
-| 41 | [Alappara Theme \- Instrumental](https://open.spotify.com/track/4ui3hCbu9ERDqVMENogH3e) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:17 |
+| 40 | [Alappara Theme \- Instrumental](https://open.spotify.com/track/4ui3hCbu9ERDqVMENogH3e) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:17 |
+| 41 | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/track/2r0ROhr7pRN4MXDMT1fEmd) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Leo Das Entry \(From "Leo"\)](https://open.spotify.com/album/1zPUq6zLrJyDUtNJBN7eQh) | 1:37 |
 | 42 | [Pablo Sandhanam \- Background Score](https://open.spotify.com/track/5iUbq311UD3MZYmfi2a1Ob) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 |
 | 43 | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Niranjana Ramanan](https://open.spotify.com/artist/3GB9ulskXfPOQCzw0SNEDx) | [Soul of Doctor \(Theme\) \[From "Doctor"\]](https://open.spotify.com/album/2ftkMy4ttkkdjFsFReYdWg) | 1:03 |
 | 44 | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/track/3yW4gZOr48Fy1DvGKDz2wj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/album/5RfVPpQcw0qYFS6I93s9gF) | 0:40 |

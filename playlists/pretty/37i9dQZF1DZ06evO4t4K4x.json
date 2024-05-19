@@ -1,12 +1,12 @@
 {
-  "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
+  "description": "This is Delia Derbyshire. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 1992,
   "original_name": "This Is Delia Derbyshire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAD1wFLNChRECAkoBqIqSc65",
+  "snapshot_id": "ZkaeAAAAAAAsqrxQ7fdF8MGDRL0Fdkzr",
   "tracks": [
     {
       "added_at": null,
@@ -71,18 +71,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do What You Love",
-        "url": "https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj"
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
       },
       "artists": [
         {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Standard Music Library",
+          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
         }
       ],
-      "duration_ms": 54053,
-      "name": "About Bridges Polyphonic Theme (From The Hooykaas / Stansfield Film)",
-      "url": "https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn"
+      "duration_ms": 114533,
+      "name": "Gothic Submarine",
+      "url": "https://open.spotify.com/track/4IpQr5HGDqqxJfjqg0hqID"
     },
     {
       "added_at": null,
@@ -131,26 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electronic",
-        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+        "name": "Do What You Love",
+        "url": "https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj"
       },
       "artists": [
         {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Brian Hodgson",
-          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
-        },
-        {
-          "name": "Standard Music Library",
-          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
         }
       ],
-      "duration_ms": 114533,
-      "name": "Gothic Submarine",
-      "url": "https://open.spotify.com/track/4IpQr5HGDqqxJfjqg0hqID"
+      "duration_ms": 54053,
+      "name": "About Bridges Polyphonic Theme (From The Hooykaas / Stansfield Film)",
+      "url": "https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Synth And Electronic Recording Exchanges",
-        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Martin Hannett",
-          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
-        }
-      ],
-      "duration_ms": 66080,
-      "name": "Hannett and Delia synth exchanges track 20",
-      "url": "https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electronic",
         "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 96112,
       "name": "Planetarium",
       "url": "https://open.spotify.com/track/0Wa15c9B3MbHekgmlbj5KD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "duration_ms": 66080,
+      "name": "Hannett and Delia synth exchanges track 20",
+      "url": "https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+        "name": "Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol. 1",
+        "url": "https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v"
       },
       "artists": [
         {
@@ -360,29 +360,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 31760,
-      "name": "Environmental Studies",
-      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Synth And Electronic Recording Exchanges",
-        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Martin Hannett",
-          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
-        }
-      ],
-      "duration_ms": 46946,
-      "name": "Hannett and Delia synth exchanges track 1",
-      "url": "https://open.spotify.com/track/1BhubvIhpbae9mlwxFAQce"
+      "duration_ms": 526068,
+      "name": "Falling, From the Dreams - Radio Version 1964",
+      "url": "https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU"
     },
     {
       "added_at": null,
@@ -403,6 +383,26 @@
       "duration_ms": 80200,
       "name": "Delia's Theme",
       "url": "https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "duration_ms": 46946,
+      "name": "Hannett and Delia synth exchanges track 1",
+      "url": "https://open.spotify.com/track/1BhubvIhpbae9mlwxFAQce"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol. 1",
-        "url": "https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v"
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
       },
       "artists": [
         {
@@ -440,29 +440,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 526068,
-      "name": "Falling, From the Dreams - Radio Version 1964",
-      "url": "https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Synth And Electronic Recording Exchanges",
-        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Martin Hannett",
-          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
-        }
-      ],
-      "duration_ms": 47506,
-      "name": "Hannett and Delia synth exchanges track 8",
-      "url": "https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1"
+      "duration_ms": 31760,
+      "name": "Environmental Studies",
+      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
     },
     {
       "added_at": null,
@@ -487,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "duration_ms": 47506,
+      "name": "Hannett and Delia synth exchanges track 8",
+      "url": "https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moogies Bloogies",
         "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
       },
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workshop",
-        "url": "https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8"
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
       },
       "artists": [
         {
@@ -516,29 +516,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 150039,
-      "name": "Lure of the Space Goddess (Full Broadcast Version)",
-      "url": "https://open.spotify.com/track/2799P6BYTMwnrYPqKuVLxr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Synth And Electronic Recording Exchanges",
-        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Martin Hannett",
-          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
-        }
-      ],
-      "duration_ms": 89813,
-      "name": "Hannett and Delia synth exchanges track 18",
-      "url": "https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32"
+      "duration_ms": 41293,
+      "name": "A New View of Politics",
+      "url": "https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6"
     },
     {
       "added_at": null,
@@ -563,8 +543,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "duration_ms": 89813,
+      "name": "Hannett and Delia synth exchanges track 18",
+      "url": "https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 41293,
-      "name": "A New View of Politics",
-      "url": "https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6"
+      "duration_ms": 150039,
+      "name": "Lure of the Space Goddess (Full Broadcast Version)",
+      "url": "https://open.spotify.com/track/2799P6BYTMwnrYPqKuVLxr"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Synth And Electronic Recording Exchanges",
-        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Martin Hannett",
-          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Hannett and Delia synth exchanges track 14",
-      "url": "https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electronic",
         "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 111640,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/0aoAksB3m0uQxKWreBH0zx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Hannett and Delia synth exchanges track 14",
+      "url": "https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Synth And Electronic Recording Exchanges",
-        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Martin Hannett",
-          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
-        }
-      ],
-      "duration_ms": 163413,
-      "name": "Hannett and Delia synth exchanges track 3",
-      "url": "https://open.spotify.com/track/1xI597kDPd4Z7eZHZaaJ9L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Circle of Light (Original Electronic Soundtrack Recording)",
         "url": "https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 1274745,
       "name": "Circle of Light, Pt. 1",
       "url": "https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "duration_ms": 67800,
+      "name": "Hannett and Delia synth exchanges track 11",
+      "url": "https://open.spotify.com/track/2boj4w0TsIZtkT25yPo1zg"
     },
     {
       "added_at": null,

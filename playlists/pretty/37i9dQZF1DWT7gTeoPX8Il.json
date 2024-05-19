@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 115930,
+  "num_followers": 116067,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-05-16 17:00:00",
       "album": {
-        "name": "Bersamamu",
-        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
+        "name": "Menari Dengan Bayangan",
+        "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
       },
       "artists": [
         {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
         }
       ],
-      "duration_ms": 220945,
-      "name": "Bersamamu",
-      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
+      "duration_ms": 205466,
+      "name": "Secukupnya",
+      "url": "https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5"
     },
     {
       "added_at": "2024-05-16 17:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-16 17:00:00",
       "album": {
-        "name": "Menari Dengan Bayangan",
-        "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
-      },
-      "artists": [
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Secukupnya",
-      "url": "https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5"
-    },
-    {
-      "added_at": "2024-05-16 17:00:00",
-      "album": {
         "name": "Lelaki Hebat",
         "url": "https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2024-05-16 17:00:00",
       "album": {
-        "name": "Tak Kan Hilang",
-        "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
+        "name": "Bersamamu",
+        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
       },
       "artists": [
         {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
         }
       ],
-      "duration_ms": 241714,
-      "name": "Tak Kan Hilang",
-      "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
+      "duration_ms": 220945,
+      "name": "Bersamamu",
+      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
     },
     {
       "added_at": "2024-05-16 17:00:00",
@@ -491,6 +475,22 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
+    },
+    {
+      "added_at": "2024-05-16 17:00:00",
+      "album": {
+        "name": "Tak Kan Hilang",
+        "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Tak Kan Hilang",
+      "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
     },
     {
       "added_at": "2024-05-16 17:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-05-16 17:00:00",
       "album": {
-        "name": "Muak",
-        "url": "https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq"
-      },
-      "artists": [
-        {
-          "name": "Aruma",
-          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
-        }
-      ],
-      "duration_ms": 264939,
-      "name": "Muak",
-      "url": "https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C"
-    },
-    {
-      "added_at": "2024-05-16 17:00:00",
-      "album": {
         "name": "Kisah Tanpa Dirimu",
         "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-05-16 17:00:00",
       "album": {
+        "name": "Muak",
+        "url": "https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq"
+      },
+      "artists": [
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        }
+      ],
+      "duration_ms": 264939,
+      "name": "Muak",
+      "url": "https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C"
+    },
+    {
+      "added_at": "2024-05-16 17:00:00",
+      "album": {
         "name": "Rayuan Perempuan Gila",
         "url": "https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO"
       },
@@ -735,6 +735,26 @@
       "duration_ms": 320000,
       "name": "Rayuan Perempuan Gila",
       "url": "https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA"
+    },
+    {
+      "added_at": "2024-05-16 17:00:00",
+      "album": {
+        "name": "Bermuara",
+        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 287465,
+      "name": "Bermuara",
+      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
     },
     {
       "added_at": "2024-05-16 17:00:00",
@@ -815,26 +835,6 @@
       "duration_ms": 220230,
       "name": "Cukup",
       "url": "https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V"
-    },
-    {
-      "added_at": "2024-05-16 17:00:00",
-      "album": {
-        "name": "Bermuara",
-        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        },
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 287465,
-      "name": "Bermuara",
-      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
     },
     {
       "added_at": "2024-05-16 17:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: O Daapun, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,473 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,495 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 96 | [Saavan](https://open.spotify.com/track/0kTTSKEauNeCYp9YWYDu8d) | [miraan](https://open.spotify.com/artist/5ZHUg7zjQ8sM9X650bodAt) | [Saavan](https://open.spotify.com/album/4CANhyg7rbVrzJvba2TJnA) | 2:51 |
 | 97 | [Dil Ke Dhaage](https://open.spotify.com/track/2kgy2YRT9Sw63x1cTIQyeI) | [Purple Stringz](https://open.spotify.com/artist/4Iehn39e1T1sd4LfVqHXWB), [Prim4l](https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9) | [Dil Ke Dhaage](https://open.spotify.com/album/4lrkdUlFIwbchQ8s0ySYcc) | 4:03 |
 | 98 | [Banjarey](https://open.spotify.com/track/2wVDyZGwSWGJ9iwCt6uvte) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Banjarey](https://open.spotify.com/album/0WirgKpQ4KzU5cWngSlO3M) | 5:18 |
-| 99 | [Guzra Zamana](https://open.spotify.com/track/1CFXr04gdUgdu72Hq8sTt5) | [Ankkit Singh](https://open.spotify.com/artist/3UXS7C1BeRwPNkwj5DNvxd), [Moolmantra](https://open.spotify.com/artist/1f9q5W6Ex45WBNhKunAEwB), [Unnati Davara](https://open.spotify.com/artist/50xHBUBYRbSZ9NVmkcHvBj), [Sehban Azim](https://open.spotify.com/artist/0dQJx01PdA03SaWcncZvLX) | [Guzra Zamana](https://open.spotify.com/album/2crcjqZRtaYMEMN6qnaYtG) | 6:03 |
+| 99 | [Guzra Zamana](https://open.spotify.com/track/1CFXr04gdUgdu72Hq8sTt5) | [Ankkit Singh](https://open.spotify.com/artist/3UXS7C1BeRwPNkwj5DNvxd), [Lavraj](https://open.spotify.com/artist/4ogsLEXdDFAMN7bt3WneXw), [Moolmantra](https://open.spotify.com/artist/1f9q5W6Ex45WBNhKunAEwB) | [Guzra Zamana](https://open.spotify.com/album/2crcjqZRtaYMEMN6qnaYtG) | 6:03 |
 | 100 | [Jahan Aab Hai Beheta](https://open.spotify.com/track/6RfWSpfzJYU9mgwE94N6dn) | [HEMANSHI](https://open.spotify.com/artist/2xdamRjIF9E9zAI11rT0Vx) | [Jahan Aab Hai Beheta](https://open.spotify.com/album/0Rk3Lb5oXMNGt06jQ4JTLG) | 2:55 |
 
 Snapshot ID: `ZkRuLwAAAAA+F64fI41TbxqvPo34rMIj`

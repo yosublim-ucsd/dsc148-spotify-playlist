@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: TK from 凛として時雨
 
-1,058 songs - 2 day 21 hr 56 min
+1,059 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 | 2023-07-04 | 2023-07-06 |
 | [so far so good](https://open.spotify.com/track/0T9Xn3cCZvMfoqT2TFUvF1) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:26 | 2022-06-14 | 2022-06-22 |
 | [Sokonashi Beauty](https://open.spotify.com/track/3aEN8WxAZJdgWAr0UY68Qm) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [PINEAPPLE](https://open.spotify.com/album/7H6O4bSyIxIKD5mavo8JMc) | 4:10 | 2023-04-11 | 2023-04-19 |
-| [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-04-23 |  |
+| [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-04-23 | 2024-05-19 |
 | [Sono Keshiki o](https://open.spotify.com/track/0fXg4PLGmNOOgC8Bbs9O9s) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [LOVE&PEACE!MASTERPEACE!](https://open.spotify.com/album/4BMVhIUdTJ8tos2dDXm3nt) | 2:08 | 2023-11-14 | 2023-12-09 |
 | [Sosue](https://open.spotify.com/track/6WlA1bKvy4WFbcaNowEIVG) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA \(Bonus Ver.\)](https://open.spotify.com/album/5rETW5Yvhihl1GjprrPris) | 3:46 | 2024-04-30 |  |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-09-29 | 2024-02-07 |
@@ -596,7 +596,7 @@
 | [Vanilla](https://open.spotify.com/track/0ScnRmW5aehQSRTbHSBMS8) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [Vanilla](https://open.spotify.com/album/3gpNbqNmHS6M3jIrcg05DW) | 3:15 | 2023-01-17 | 2023-02-01 |
 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 | 2024-02-13 |  |
 | [Very Special](https://open.spotify.com/track/3LXHBMFOo9h9BemsSp9NDq) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Very Special](https://open.spotify.com/album/2QzJ56blkzDzS50a9xZcNa) | 3:03 | 2022-11-29 | 2022-12-21 |
-| [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-10 | 2024-05-07 |
+| [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-10 |  |
 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 | 2023-07-18 |  |
 | [VOX](https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1) | 4:10 | 2023-02-07 | 2023-05-10 |
 | [VOX](https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f) | 4:10 | 2023-02-07 | 2023-02-09 |
@@ -705,6 +705,7 @@
 | [アイムリアル](https://open.spotify.com/track/2ILWgaW2fK1IzShTZdOhqe) | [Yoshiharu Shiina](https://open.spotify.com/artist/2YoEsDFl4XsjRk3j22YfbH) | [アイムリアル](https://open.spotify.com/album/0BcbumwHjdJ1fEa7m9vH56) | 3:23 | 2022-05-12 | 2022-07-27 |
 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 | 2023-08-15 | 2023-08-23 |
 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 | 2023-06-27 |  |
+| [アフタースクール](https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 1](https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F) | 3:24 | 2024-05-14 |  |
 | [アフターダーク](https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ワールド ワールド ワールド](https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI) | 3:12 | 2023-06-27 | 2024-02-07 |
 | [アポフェニア](https://open.spotify.com/track/2LMMdR5vkNpm6v1AwXg7l9) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [ANTHEMICS](https://open.spotify.com/album/5ft76H4MMIeRPiWF50v9VW) | 4:06 | 2022-08-30 | 2022-09-01 |
 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-07-11 | 2023-10-11 |
@@ -839,7 +840,7 @@
 | [三叉路のふたり](https://open.spotify.com/track/2dxI9SqqEO00D4RyHeCKEz) | [Moonriders](https://open.spotify.com/artist/01o8KYRik9Eb3RbAm4T2hh) | [It's the moooonriders](https://open.spotify.com/album/0S2eED52dbq75kYgRghQuc) | 2:56 | 2022-05-12 | 2022-05-18 |
 | [下を向いて歩こう](https://open.spotify.com/track/1asktHGEURdlQRGFGWLpi9) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [下を向いて歩こう](https://open.spotify.com/album/17UUaCzdhyI4M9lXWP5qUK) | 5:02 | 2023-10-17 | 2023-11-11 |
 | [世界の真昼](https://open.spotify.com/track/7CvhO8yF4Xw0mbrBLQXrSB) | [割礼](https://open.spotify.com/artist/4BrmvqrDvcagflvt6lFNJ1) | [セカイノマヒル](https://open.spotify.com/album/7keZGSUJVc4X1Dbfcxro6m) | 4:12 | 2022-05-12 | 2022-06-06 |
-| [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2023-12-12 |  |
+| [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2023-12-12 | 2024-05-19 |
 | [世界はこのまま変わらない](https://open.spotify.com/track/5LWAMBZqkfFzZ4lJvI4pNP) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [感覚は道標](https://open.spotify.com/album/0ueyYjPqJg4dWaDDTlnPfz) | 4:14 | 2023-10-03 | 2023-10-05 |
 | [世界は変わる](https://open.spotify.com/track/6uUXrI5TQTnrDgWj08OuoL) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [世界は変わる](https://open.spotify.com/album/5LdgdWiTXcrbTI5qkUh244) | 3:22 | 2022-06-09 | 2022-07-14 |
 | [乱土](https://open.spotify.com/track/3XOQImZq2wMFCJXFRPbsqU) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 2:05 | 2024-01-23 | 2024-01-31 |

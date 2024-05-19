@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=KSw0R\-1dRNmhVaqTzh\-ZxA">Tito M</a>, <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=FUQtT2lMSDKowOkSCw5fQQ">Burna Boy</a>, <a href="https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0?si=oM6IBWHoQLylpGQBv\-IJIA">Yuppe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,797 likes - 66 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,893 likes - 66 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 39 | [P&E \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/1qtxlxXIBKhe3AOXSRhesO) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [P&E \(feat\. Mariah the Scientist\)](https://open.spotify.com/album/0Y5Vw8X32Wg269ZFqnER8a) | 2:30 |
 | 40 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |
 | 41 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
-| 42 | [Amalanga \(feat\. Anzo\)](https://open.spotify.com/track/7tnq2E3TfEwXY2QegHfV2I) | [Kiddo CSA](https://open.spotify.com/artist/2qqLz1yakvHUg0QRzAY5WF), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [Amalanga \(feat\. Anzo\)](https://open.spotify.com/album/46TKYZNKng1jLSBarvKPm4) | 4:08 |
+| 42 | [Amalanga \(feat\. Anzo\)](https://open.spotify.com/track/7tnq2E3TfEwXY2QegHfV2I) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [Amalanga \(feat\. Anzo\)](https://open.spotify.com/album/46TKYZNKng1jLSBarvKPm4) | 4:08 |
 | 43 | [Honey \- Single Version](https://open.spotify.com/track/60QsPPI3raXwut6iyO2gsk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Honey](https://open.spotify.com/album/6gBBt9gof7vgnhgacXRv2T) | 2:54 |
 | 44 | [Best Life](https://open.spotify.com/track/2dXMAzJqvBPreykgeNIXdV) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Best Life](https://open.spotify.com/album/7gvgZlzFcTZndfDmyeIIJi) | 2:45 |
 | 45 | [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 |

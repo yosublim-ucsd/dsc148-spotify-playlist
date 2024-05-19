@@ -7961,6 +7961,36 @@
     },
     {
       "album": {
+        "name": "Spinback Remixes",
+        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "WYNNE",
+          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249114,
+      "name": "Line Of Sight - longstoryshort Remix",
+      "url": "https://open.spotify.com/track/6D21uj826czZVHvyj4ZQyF"
+    },
+    {
+      "album": {
         "name": "The Art Of Change",
         "url": "https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK"
       },
@@ -10936,7 +10966,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 132134,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/3tI9Nc1gHcstyY5frjJnXH"
@@ -12256,7 +12286,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 300677,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3LFxQUYxND86brbqUeJM8c"
@@ -13048,6 +13078,32 @@
       "duration_ms": 210266,
       "name": "The Gallery",
       "url": "https://open.spotify.com/track/709Id9rqQlqUKubz0dCN7S"
+    },
+    {
+      "album": {
+        "name": "Spinback Remixes",
+        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163008,
+      "name": "The Last Goodbye - Biicla Remix",
+      "url": "https://open.spotify.com/track/29k2X2TJz1ocPanE3OLQFh"
     },
     {
       "album": {

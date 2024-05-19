@@ -1,6 +1,6 @@
 {
   "description": "?! ft. Tommy Richman",
-  "num_followers": 743097,
+  "num_followers": 743136,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
     },
     {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/6pMYtOdrMJqGhVdat8yLV3"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 192705,
+      "name": "SELFISH",
+      "url": "https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB"
+    },
+    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": ">one (greater than one)",
@@ -601,20 +617,36 @@
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
+      "added_at": "2024-05-10 17:22:13",
       "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/6pMYtOdrMJqGhVdat8yLV3"
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
       },
       "artists": [
         {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 192705,
-      "name": "SELFISH",
-      "url": "https://open.spotify.com/track/5eK3fdNouqjL8YpX2tCWHB"
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 164312,
+      "name": "Alien Boy",
+      "url": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -635,38 +667,6 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 164312,
-      "name": "Alien Boy",
-      "url": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
-    },
-    {
-      "added_at": "2024-05-10 17:22:13",
-      "album": {
-        "name": "Kimbara",
-        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 189816,
-      "name": "Kimbara",
-      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "How Do You Sleep At Night? With You",
+        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 184335,
+      "name": "Up And Down",
+      "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "New Friends (feat. Eem Triplin)",
         "url": "https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 130434,
       "name": "New Friends (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "How Do You Sleep At Night? With You",
-        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 184335,
-      "name": "Up And Down",
-      "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1149,6 +1149,26 @@
       "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
+      },
+      "artists": [
+        {
+          "name": "Bien et Toi",
+          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 211846,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
+    },
+    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "light! (with Lil Nas X & 9lives)",
@@ -1173,26 +1193,6 @@
       "url": "https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "So Long",
-        "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
-      },
-      "artists": [
-        {
-          "name": "Bien et Toi",
-          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
-        },
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 211846,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Catching Chickens EP",
@@ -1207,6 +1207,22 @@
       "duration_ms": 223986,
       "name": "Hell of A Ride",
       "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
     },
     {
       "added_at": "2024-05-14 15:37:12",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 126233,
       "name": "Ant Pile",
       "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": "i dont even own prada shoes lol",
-        "url": "https://open.spotify.com/album/1dn2JSwF9ULVnQzDprTaiQ"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 130440,
-      "name": "i dont even own prada shoes lol",
-      "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2024-04-19 05:00:00",
       "album": {
+        "name": "i dont even own prada shoes lol",
+        "url": "https://open.spotify.com/album/1dn2JSwF9ULVnQzDprTaiQ"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 130440,
+      "name": "i dont even own prada shoes lol",
+      "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
+    },
+    {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
         "name": "Spaceman (ft. RIZ LA VIE)",
         "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
       },
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "me and all my niggas",
-        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 114698,
-      "name": "me and all my niggas",
-      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
-    },
-    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "Wonder Where We Land",
@@ -1411,6 +1395,22 @@
       "duration_ms": 180575,
       "name": "NEW DORP. NEW YORK",
       "url": "https://open.spotify.com/track/2QFHyK2SV2YWyJzu6kpGhk"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "me and all my niggas",
+        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 114698,
+      "name": "me and all my niggas",
+      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        },
+        {
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/44C4c70Ni7VpXkCAmg8TXn"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
       },
@@ -1491,22 +1511,6 @@
       "duration_ms": 165333,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Sweet Boy Pt. 2",
-        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Sore Throat",
-      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1527,22 +1531,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+        "name": "Sweet Boy Pt. 2",
+        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
       },
       "artists": [
         {
-          "name": "Superfan",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        },
-        {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/44C4c70Ni7VpXkCAmg8TXn"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+      "duration_ms": 175200,
+      "name": "Sore Throat",
+      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Younger Than I Was Before",
-        "url": "https://open.spotify.com/album/2rISSRCKbgCn4aUxeznpqN"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 155536,
-      "name": "Crazy Stupid Love",
-      "url": "https://open.spotify.com/track/5gZmKbISqeyhHl63nMFvi0"
-    },
-    {
       "added_at": "2024-03-19 20:25:15",
       "album": {
         "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
@@ -1647,6 +1631,22 @@
       "duration_ms": 131215,
       "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
       "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Younger Than I Was Before",
+        "url": "https://open.spotify.com/album/2rISSRCKbgCn4aUxeznpqN"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 155536,
+      "name": "Crazy Stupid Love",
+      "url": "https://open.spotify.com/track/5gZmKbISqeyhHl63nMFvi0"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1725,6 +1725,26 @@
       "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
     },
     {
+      "added_at": "2024-05-10 17:22:13",
+      "album": {
+        "name": "ROLE MODEL",
+        "url": "https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 118603,
+      "name": "ROLE MODEL",
+      "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
+    },
+    {
       "added_at": "2024-04-19 05:00:00",
       "album": {
         "name": "Stacy's Chips",
@@ -1771,22 +1791,6 @@
       "duration_ms": 191711,
       "name": "true",
       "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Suburbia",
-      "url": "https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh"
     }
   ],
   "unique_name": "anti pop",

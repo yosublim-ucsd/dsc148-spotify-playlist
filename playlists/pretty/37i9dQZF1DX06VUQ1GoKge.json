@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 557766,
+  "num_followers": 557735,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "system_failure",
-      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "Hornet's Nest",
         "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 279811,
       "name": "Hornet's Nest",
       "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "system_failure",
+      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
-      },
-      "artists": [
-        {
-          "name": "Betraying The Martyrs",
-          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
-        }
-      ],
-      "duration_ms": 231762,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "Disobedient",
         "url": "https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H"
       },
@@ -1307,22 +1291,18 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "DOWN (feat. Malevolence)",
-        "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
       },
       "artists": [
         {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        },
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+          "name": "Betraying The Martyrs",
+          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
         }
       ],
-      "duration_ms": 234549,
-      "name": "DOWN (Feat. Malevolence)",
-      "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
+      "duration_ms": 231762,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1363,6 +1343,26 @@
       "duration_ms": 314446,
       "name": "CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
       "url": "https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "DOWN (feat. Malevolence)",
+        "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        },
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "duration_ms": 234549,
+      "name": "DOWN (Feat. Malevolence)",
+      "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
     },
     {
       "added_at": "2024-01-19 09:32:47",

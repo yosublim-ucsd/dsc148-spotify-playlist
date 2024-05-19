@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACc+oTDS2C1lbvByMXpJkLY",
+  "snapshot_id": "AAAAAAAAAADUTnAJ7/aWXbu6Ugn6ATNz",
   "tracks": [
     {
       "added_at": "2024-05-17 04:00:00",
@@ -54,10 +54,18 @@
         {
           "name": "Apocalyptica",
           "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "James Hetfield",
+          "url": "https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
         }
       ],
       "duration_ms": 574634,
-      "name": "One",
+      "name": "One (feat. James Hetfield & Robert Trujillo)",
       "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
     },
     {
@@ -83,6 +91,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Jag trodde \u00e4nglarna fanns (Metal Version)",
+        "url": "https://open.spotify.com/album/6xJCdvVI71G86Y2Ro9Jhur"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 216631,
+      "name": "Jag trodde \u00e4nglarna fanns (Metal Version)",
+      "url": "https://open.spotify.com/track/5T99dg42jtn06OHb0VbUzt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -95,42 +119,6 @@
       "duration_ms": 181046,
       "name": "Back In My Bag",
       "url": "https://open.spotify.com/track/0rFpErCI4zTGkjb0tCuaLh"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -187,6 +175,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Pair Of Hammers",
         "url": "https://open.spotify.com/album/3x2nnUuUhnQJaSESvRUFQm"
       },
@@ -207,6 +211,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Devil Inside (12\" Mix)",
         "url": "https://open.spotify.com/album/6jtZefm9Qkmr0Ry8GLx0NA"
       },
@@ -219,26 +243,6 @@
       "duration_ms": 390213,
       "name": "Devil Inside - 12\" Mix",
       "url": "https://open.spotify.com/track/3exSAvLVRkjjphLziPZoEi"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Rx",
-        "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "One Cry (feat. Rosa Linn)",
-      "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -323,6 +327,26 @@
       "duration_ms": 218666,
       "name": "where is your pride?",
       "url": "https://open.spotify.com/track/4oeUEps9lJueoPlVDwTwFq"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "One Cry (feat. Rosa Linn)",
+      "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -459,22 +483,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Organized Chaos",
-        "url": "https://open.spotify.com/album/1Df27BVXsW6YBBblbdNBNa"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 175520,
-      "name": "Organized Chaos",
-      "url": "https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Ship of Fools (Live at University of Nevada, Reno, NV, 5/12/74)",
         "url": "https://open.spotify.com/album/3xpzDCDc3xbxds8j1YaqH7"
       },
@@ -487,6 +495,22 @@
       "duration_ms": 375853,
       "name": "Ship of Fools - Live at University of Nevada, Reno, NV, 5/12/74",
       "url": "https://open.spotify.com/track/64BahXhOSEBLlwQymfa4S9"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Organized Chaos",
+        "url": "https://open.spotify.com/album/1Df27BVXsW6YBBblbdNBNa"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 175520,
+      "name": "Organized Chaos",
+      "url": "https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -567,22 +591,6 @@
       "duration_ms": 295062,
       "name": "TATAR Warrior - Live at Glastonbury",
       "url": "https://open.spotify.com/track/5lWXz92dZub9MRyEZvnzSY"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Sweet Home Alabama (Metal Version)",
-        "url": "https://open.spotify.com/album/0T4I9hCy8o0ohoQxvOH18T"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 244503,
-      "name": "Sweet Home Alabama (Metal Version)",
-      "url": "https://open.spotify.com/track/7pznb32u27lYL0cbNuSK9e"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -868,13 +876,17 @@
           "url": "https://open.spotify.com/artist/1oBNw3AgFohk2z2BjUka6u"
         },
         {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+          "name": "Casual",
+          "url": "https://open.spotify.com/artist/4OpQJMrOpOEYgYoU0Ihku3"
+        },
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
         }
       ],
-      "duration_ms": 226876,
-      "name": "Gauntlet",
-      "url": "https://open.spotify.com/track/5lpsmXWgjHtE6Py1bBuqFR"
+      "duration_ms": 244043,
+      "name": "Manik",
+      "url": "https://open.spotify.com/track/3ptOM6ofoPCbS4SowH8zd4"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -923,50 +935,6 @@
       "duration_ms": 240130,
       "name": "Key to the Streets (feat. Migos & Trouble) - Sped Up",
       "url": "https://open.spotify.com/track/3m9jjMhcXhUVQ6S7uL5qhQ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "I Got Away",
-        "url": "https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        }
-      ],
-      "duration_ms": 180149,
-      "name": "He Got Me",
-      "url": "https://open.spotify.com/track/08XkpS8iuYUEUuSyA1xbWO"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
-        "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        },
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        },
-        {
-          "name": "Aaron Pauley",
-          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
-        }
-      ],
-      "duration_ms": 208054,
-      "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
-      "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

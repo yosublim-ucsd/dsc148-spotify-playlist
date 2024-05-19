@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "So Medieval",
+        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
+      },
+      "artists": [
+        {
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167262,
+      "name": "I'm Sorry I Left Him To Bleed",
+      "url": "https://open.spotify.com/track/7AwMd4z4jV8p5A791fxD7A"
+    },
+    {
+      "album": {
         "name": "ice",
         "url": "https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA"
       },

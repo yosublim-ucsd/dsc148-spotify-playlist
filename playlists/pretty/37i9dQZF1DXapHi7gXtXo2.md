@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,521 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,532 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 79 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
 | 80 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 |
 | 81 | [CURSI](https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [CURSI](https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd) | 3:01 |
-| 82 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
-| 83 | [Fractal](https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Fractal](https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2) | 4:25 |
+| 82 | [Fractal](https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Fractal](https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2) | 4:25 |
+| 83 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 84 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 |
 | 85 | [Cállame](https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Cállame](https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w) | 3:07 |
 | 86 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 |
 | 87 | [Oler A Ti](https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Oler A Ti](https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5) | 3:45 |
 | 88 | [La Declaración](https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 4:37 |
 | 89 | [You](https://open.spotify.com/track/76p149xwpgu1LkSmYKfqeI) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [You](https://open.spotify.com/album/0EeRsz6rD97ujvUvtvdCF6) | 3:54 |
-| 90 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 |
-| 91 | [Quiero Que Me Llames](https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Quiero Que Me Llames \- Single](https://open.spotify.com/album/4v6mDMydcXb3vp69Jw6yta) | 4:17 |
-| 92 | [Tu Nombre](https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Tu Nombre](https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB) | 2:55 |
-| 93 | [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 3:56 |
-| 94 | [Vete De Una Vez](https://open.spotify.com/track/4avGqRWheA5WMIxaN72bNw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Vete De Una Vez](https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX) | 4:12 |
-| 95 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 |
+| 90 | [En tu casa o en la mía \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conducción Temeraria](https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0) | 3:32 |
+| 91 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 |
+| 92 | [Quiero Que Me Llames](https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Quiero Que Me Llames \- Single](https://open.spotify.com/album/4v6mDMydcXb3vp69Jw6yta) | 4:17 |
+| 93 | [Tu Nombre](https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Tu Nombre](https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB) | 2:55 |
+| 94 | [El Tiempo](https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [El Tiempo](https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7) | 3:56 |
+| 95 | [Vete De Una Vez](https://open.spotify.com/track/4avGqRWheA5WMIxaN72bNw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Vete De Una Vez](https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX) | 4:12 |
 | 96 | [Retrato](https://open.spotify.com/track/62zJRyfUtWI67iXWBY5e3p) | [Los Makenzy](https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s) | [Monstruos y Animales](https://open.spotify.com/album/77A8qiPR3ShVSfqR1UhpY3) | 3:18 |
-| 97 | [El Milagro](https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Milagro](https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh) | 3:38 |
-| 98 | [Bajo la Lluvia 雨曝](https://open.spotify.com/track/6Dhfh7KXJeFd8CgXRXSxo9) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL), [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [A.B.R.E.](https://open.spotify.com/artist/3the51I9ttPNpimr44pxCv) | [Bajo la Lluvia 雨曝](https://open.spotify.com/album/0Iyw9dVFeyy2BPgRzMpb0P) | 4:07 |
-| 99 | [No Te Quedes Solo](https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [No Te Quedes Solo](https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U) | 3:30 |
-| 100 | [No Me Quiero Ir Lejos](https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [No Me Quiero Ir Lejos](https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy) | 3:24 |
+| 97 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 |
+| 98 | [El Milagro](https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Milagro](https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh) | 3:38 |
+| 99 | [Bajo la Lluvia 雨曝](https://open.spotify.com/track/6Dhfh7KXJeFd8CgXRXSxo9) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL), [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [A.B.R.E.](https://open.spotify.com/artist/3the51I9ttPNpimr44pxCv) | [Bajo la Lluvia 雨曝](https://open.spotify.com/album/0Iyw9dVFeyy2BPgRzMpb0P) | 4:07 |
+| 100 | [Pinamar](https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Pinamar](https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k) | 2:59 |
 
 Snapshot ID: `ZkbIMAAAAADtlPIt8aoYc/9QQOmupnYa`

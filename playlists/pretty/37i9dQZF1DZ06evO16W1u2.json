@@ -1,12 +1,12 @@
 {
   "description": "This is Rio. The essential tracks, all in one playlist.",
-  "num_followers": 2457,
+  "num_followers": 2459,
   "original_name": "This Is Rio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAACx9ryw4/qhBtpzdRc50FJD",
+  "snapshot_id": "ZkaeAAAAAABOOagshXMsqsKOjYbifkqg",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Pierdo la Raz\u00f3n",
-      "url": "https://open.spotify.com/track/4M8gxBy9CHY07oSatlOTN6"
+      "duration_ms": 214173,
+      "name": "No Me Cabe Duda",
+      "url": "https://open.spotify.com/track/6yMRSurr1MAlIhGhEPYFTv"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 214173,
-      "name": "No Me Cabe Duda",
-      "url": "https://open.spotify.com/track/6yMRSurr1MAlIhGhEPYFTv"
+      "duration_ms": 255160,
+      "name": "Pierdo la Raz\u00f3n",
+      "url": "https://open.spotify.com/track/4M8gxBy9CHY07oSatlOTN6"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 217106,
-      "name": "Apago la Luz",
-      "url": "https://open.spotify.com/track/6MeZ1xweBv7AoaURo1z70c"
+      "duration_ms": 191306,
+      "name": "No Es Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/6P1Fsr66GfD5IAsKd2mDJt"
     },
     {
       "added_at": null,
@@ -495,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Cumbia",
-        "url": "https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/2SMTjH1GEiQjCglxk1IXgt"
       },
       "artists": [
-        {
-          "name": "Lucho Paz",
-          "url": "https://open.spotify.com/artist/0eRJ3cGidTcm4CiXrn68W0"
-        },
         {
           "name": "Rio",
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Tu Amor Fue Una Mentira",
-      "url": "https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk"
+      "duration_ms": 184732,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/3ZT7FaIZK71LhluS9LF39S"
     },
     {
       "added_at": null,
@@ -524,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 191306,
-      "name": "No Es Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/6P1Fsr66GfD5IAsKd2mDJt"
+      "duration_ms": 217106,
+      "name": "Apago la Luz",
+      "url": "https://open.spotify.com/track/6MeZ1xweBv7AoaURo1z70c"
     },
     {
       "added_at": null,
@@ -563,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/2SMTjH1GEiQjCglxk1IXgt"
+        "name": "Nuestra Cumbia",
+        "url": "https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK"
       },
       "artists": [
+        {
+          "name": "Lucho Paz",
+          "url": "https://open.spotify.com/artist/0eRJ3cGidTcm4CiXrn68W0"
+        },
         {
           "name": "Rio",
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 184732,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/3ZT7FaIZK71LhluS9LF39S"
+      "duration_ms": 228000,
+      "name": "Tu Amor Fue Una Mentira",
+      "url": "https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 240013,
-      "name": "Est\u00e1 en la M\u00fasica",
-      "url": "https://open.spotify.com/track/77Mmist7d3DDNtqVF70bKT"
+      "duration_ms": 239720,
+      "name": "Si No",
+      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 239720,
-      "name": "Si No",
-      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
+      "duration_ms": 240013,
+      "name": "Est\u00e1 en la M\u00fasica",
+      "url": "https://open.spotify.com/track/77Mmist7d3DDNtqVF70bKT"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
-  "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 147935,
+  "description": "This Is \u00c1ngela Aguilar. Los temas esenciales, todos en una lista.",
+  "num_followers": 147959,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAMlXIIy3WrOZ+d6bbJHooK",
+  "snapshot_id": "ZkaeAAAAAACeBAyYm/k94i5NTk6vrZwd",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 205236,
       "name": "En Realidad",
       "url": "https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": null,
@@ -371,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Troca",
         "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
       },
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 209181,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2"
+      "duration_ms": 113619,
+      "name": "Amor, Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 113619,
-      "name": "Amor, Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL"
+      "duration_ms": 209181,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2"
     },
     {
       "added_at": null,
@@ -615,42 +615,6 @@
       "duration_ms": 324365,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 183817,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
-        }
-      ],
-      "duration_ms": 162480,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q"
     },
     {
       "added_at": null,
@@ -679,6 +643,42 @@
       "duration_ms": 261133,
       "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 183817,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
     },
     {
       "added_at": null,
@@ -1003,22 +1003,6 @@
       "duration_ms": 182390,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/28t4WNpkljCOcCSADHqJ3q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 207526,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/5fQaUabTHuTq8EIrpudwnb"
     }
   ],
   "unique_name": "This Is \u00c1ngela Aguilar",

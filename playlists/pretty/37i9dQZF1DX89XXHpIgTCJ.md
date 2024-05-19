@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,901 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,957 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 38 | [Diamonds And Guns](https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Transplants](https://open.spotify.com/album/0lf0Mw6dwcAWxIIVXEv0fQ) | 4:01 |
 | 39 | [Game On \(feat\. Good Charlotte\) \- From "Pixels \- The Movie"](https://open.spotify.com/track/2qUTxCqJW2Irez1eYZcGNx) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Game On \(feat\. Good Charlotte\) \[from "Pixels \- The Movie"\]](https://open.spotify.com/album/45qTcdlqFuZfj25pnYxeVL) | 3:47 |
 | 40 | [It's Goin' Down \(feat\. Mike Shinoda & Mr\. Hahn\)](https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq) | [X\-Ecutioners](https://open.spotify.com/artist/7eVbT3G1ggf2sz6s7ZV0Ap), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Mr\. Hahn](https://open.spotify.com/artist/73yonhSeG9UY7shqUfk6cd) | [Built From Scratch](https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv) | 4:08 |
-| 41 | [I Love You Mary Jane](https://open.spotify.com/track/4eObWNJwTvfQe66wIzfHjb) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Judgement Night: Music From The Motion Picture](https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh) | 3:49 |
+| 41 | [I Love You Mary Jane](https://open.spotify.com/track/4eObWNJwTvfQe66wIzfHjb) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Judgment Night](https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh) | 3:49 |
 | 42 | [Ready To Go](https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Ready To Go](https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur) | 6:01 |
 | 43 | [Pure 90 \(Rapping Queen\)](https://open.spotify.com/track/24ZEVCdOTKgdcM41B598NM) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Apelogies](https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV) | 4:36 |
 | 44 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |

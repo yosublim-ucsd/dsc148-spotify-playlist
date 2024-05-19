@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 178633,
+  "num_followers": 178645,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 222203,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Wildflowers in the Graveyard",
+        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
+      },
+      "artists": [
+        {
+          "name": "Amber Rubarth",
+          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Wildflowers in the Graveyard",
+      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 282586,
       "name": "Quasheba, Quasheba",
       "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Wildflowers in the Graveyard",
-        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
-      },
-      "artists": [
-        {
-          "name": "Amber Rubarth",
-          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Wildflowers in the Graveyard",
-      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Quicksand EP",
-        "url": "https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK"
+        "name": "Raise The Roof",
+        "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
       "artists": [
         {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 238453,
-      "name": "Endless Running Out of Time",
-      "url": "https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01"
+      "duration_ms": 257920,
+      "name": "You Led Me To The Wrong",
+      "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1327,22 +1331,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Raise The Roof",
-        "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
+        "name": "Quicksand EP",
+        "url": "https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK"
       },
       "artists": [
         {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
         }
       ],
-      "duration_ms": 257920,
-      "name": "You Led Me To The Wrong",
-      "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
+      "duration_ms": 238453,
+      "name": "Endless Running Out of Time",
+      "url": "https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Gold Record",
         "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 325093,
       "name": "Pigeons",
       "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2023-06-23 04:00:00",

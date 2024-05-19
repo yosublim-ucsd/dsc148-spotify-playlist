@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-185 songs - 9 hr 50 min
+186 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 | 2022-02-11 | 2024-04-19 |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2023-12-08 |  |
 | [Murvlana](https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:18 | 2022-02-11 | 2024-01-13 |
+| [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-05-17 |  |
 | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV) | 3:00 | 2023-06-22 | 2024-03-06 |
 | [Never Again](https://open.spotify.com/track/2QcwNQJSvOgHpyfcsDNLrx) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Never Again](https://open.spotify.com/album/3sd1vb7D2yUEkT4bYciLlC) | 3:04 | 2022-02-11 | 2022-07-29 |
 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 | 2022-07-28 | 2022-08-10 |
@@ -173,7 +174,7 @@
 | [Thunder Fire You](https://open.spotify.com/track/7tBHoZDrhRacTiBMrlbvTb) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 2:59 | 2023-11-03 | 2024-03-06 |
 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 | 2024-05-08 |  |
 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 | 2022-03-11 | 2022-09-12 |
-| [Toxic Love](https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Toxic Love](https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK) | 2:19 | 2024-04-19 |  |
+| [Toxic Love](https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Toxic Love](https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK) | 2:19 | 2024-04-19 | 2024-05-19 |
 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 |  |
 | [Toxic Relationship](https://open.spotify.com/track/4jcTly5eRO1DfGlQ4v9IJY) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [Toxic Relationship](https://open.spotify.com/album/0qtTsSO5vZej8tfvc3pn9v) | 2:46 | 2024-03-01 | 2024-03-06 |
 | [truth](https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [truth](https://open.spotify.com/album/3UKFqVZGA0X7bFBVM6bXy8) | 2:32 | 2024-05-17 |  |

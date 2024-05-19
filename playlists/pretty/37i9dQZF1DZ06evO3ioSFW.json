@@ -1,12 +1,12 @@
 {
-  "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 435184,
+  "description": "This Is Yuridia. Los temas esenciales, todos en una lista.",
+  "num_followers": 435451,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAD0OvsGy/6fPn8Wsl3wvtEE",
+  "snapshot_id": "ZkaeAAAAAAClgH6Y2IpBPTGEMTJ4INfi",
   "tracks": [
     {
       "added_at": null,
@@ -791,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+        "name": "Pensando Positivo",
+        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
       },
       "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 248360,
-      "name": "Polos Opuestos / Noche de Copas (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/38YaOFMuwa5EBaaVB4Y2LO"
+      "duration_ms": 193300,
+      "name": "Pensando Positivo",
+      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
     },
     {
       "added_at": null,
@@ -839,22 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensando Positivo",
-        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
       "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 193300,
-      "name": "Pensando Positivo",
-      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
+      "duration_ms": 248360,
+      "name": "Polos Opuestos / Noche de Copas (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/38YaOFMuwa5EBaaVB4Y2LO"
     },
     {
       "added_at": null,

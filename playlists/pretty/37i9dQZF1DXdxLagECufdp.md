@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,161 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,178 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 24 | [Opa Cupa](https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [BalkanBeats](https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi) | 4:40 |
 | 25 | [No Corro, No Grito, No Empujo](https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 3:04 |
 | 26 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
-| 27 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
-| 28 | [When Life Was A Miracle \- 'Life Is A Miracle' Original Soundtrack](https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Life Is A Miracle](https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje) | 4:12 |
+| 27 | [When Life Was A Miracle \- 'Life Is A Miracle' Original Soundtrack](https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Life Is A Miracle](https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje) | 4:12 |
+| 28 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
 | 29 | [Baila Leila](https://open.spotify.com/track/10JeR9uqMHMDwfF2mtxgQb) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Three Letters From Sarajevo \(Opus 1\)](https://open.spotify.com/album/2kg4rl6ejCMSjrj1lfHnam) | 4:39 |
-| 30 | [Cumbia del Este](https://open.spotify.com/track/2HjnxDwW0FJgsTEiFscWtP) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 4:03 |
-| 31 | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/track/1Lf4Dp7RTPwNI1pw9uOLrK) | [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn), [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/album/29eTnHPHnGirFCGrmApdAG) | 3:37 |
+| 30 | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/track/1Lf4Dp7RTPwNI1pw9uOLrK) | [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn), [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/album/29eTnHPHnGirFCGrmApdAG) | 3:37 |
+| 31 | [Cumbia del Este](https://open.spotify.com/track/2HjnxDwW0FJgsTEiFscWtP) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 4:03 |
 | 32 | [Estos Celos](https://open.spotify.com/track/4d51QRhki1EM2qaNYYjfvK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Estos Celos](https://open.spotify.com/album/2E1f852SuXQRCGGh9ml4Hf) | 3:29 |
 | 33 | [Misourlou](https://open.spotify.com/track/5oxVimkWhxcePBKHoLGGLz) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerson](https://open.spotify.com/album/3CnREo12brFqZFotExitha) | 6:57 |
 | 34 | [A Tapdancer's Dilema](https://open.spotify.com/track/3RJtaxRtxOvvIj6DESm4gh) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Sing\-Along Songs for the Damned and Delirious](https://open.spotify.com/album/36j0yWKLk5a6rLgJEhUghU) | 5:12 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 42 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
 | 43 | [Cruzando el Campo](https://open.spotify.com/track/7IEMXZrmEJXgZSfKaZMOJK) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Cruzando el Campo](https://open.spotify.com/album/0j515BtyhDDr3KKqvWNDjx) | 2:22 |
 | 44 | [Go](https://open.spotify.com/track/3ClMIPI0OAW6SgPAPG0lDB) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Steal the Light](https://open.spotify.com/album/7Blq3llvFZhKNAZvj6XwWg) | 3:25 |
-| 45 | [Cumbia Klezmer](https://open.spotify.com/track/2bsNIf7cT3PYRriUSNcnck) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [Radio Galena](https://open.spotify.com/album/1Ra9M1mo2LU1TQRSYJ7Vjg) | 2:49 |
-| 46 | [Opa Tsupa](https://open.spotify.com/track/0un7jg786f0J1cp9wpmfq6) | [Bratsch](https://open.spotify.com/artist/6FZfkhy0yUI4DAkrN8wZrd) | [Sans Domicile Fixe](https://open.spotify.com/album/5spBXqMdI07H9f2yAqXETb) | 2:44 |
+| 45 | [Opa Tsupa](https://open.spotify.com/track/0un7jg786f0J1cp9wpmfq6) | [Bratsch](https://open.spotify.com/artist/6FZfkhy0yUI4DAkrN8wZrd) | [Sans Domicile Fixe](https://open.spotify.com/album/5spBXqMdI07H9f2yAqXETb) | 2:44 |
+| 46 | [Cumbia Klezmer](https://open.spotify.com/track/2bsNIf7cT3PYRriUSNcnck) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [Radio Galena](https://open.spotify.com/album/1Ra9M1mo2LU1TQRSYJ7Vjg) | 2:49 |
 | 47 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
 | 48 | [Cuervos Main Theme](https://open.spotify.com/track/6mYdLLjsJHVkvZnn5C3FZe) | [Benjamin Shwartz](https://open.spotify.com/artist/2GjgSEFTQRiOZDmqcmuKqC) | [Música Original Club de Cuervos](https://open.spotify.com/album/2GT8NnhshovgEod3XGOvE0) | 1:34 |
 | 49 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 |

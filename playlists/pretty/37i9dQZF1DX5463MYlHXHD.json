@@ -1,6 +1,6 @@
 {
   "description": "Cumbia pa' volar la chapa con Damas Gratis.",
-  "num_followers": 564664,
+  "num_followers": 564692,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,26 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
-        "name": "DIME SI ERES FELIZ VOL.2",
-        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
+        "name": "Butakera",
+        "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
       },
       "artists": [
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         },
         {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
         }
       ],
-      "duration_ms": 171667,
-      "name": "DIME SI ERES FELIZ VOL.2",
-      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
+      "duration_ms": 143402,
+      "name": "Butakera",
+      "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -355,26 +359,22 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
-        "name": "Butakera",
-        "url": "https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3"
+        "name": "DIME SI ERES FELIZ VOL.2",
+        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         },
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 143402,
-      "name": "Butakera",
-      "url": "https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH"
+      "duration_ms": 171667,
+      "name": "DIME SI ERES FELIZ VOL.2",
+      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
-        "name": "Tamo Chelo",
-        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
       "artists": [
         {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
         }
       ],
-      "duration_ms": 112507,
-      "name": "Tamo Chelo",
-      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
+      "duration_ms": 214120,
+      "name": "La resaka",
+      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+        "name": "Tamo Chelo",
+        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
       },
       "artists": [
         {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
         }
       ],
-      "duration_ms": 214120,
-      "name": "La resaka",
-      "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
+      "duration_ms": 112507,
+      "name": "Tamo Chelo",
+      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2024-05-18 00:14:39",
+      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 225280,
       "name": "A Chillar a Otra Parte",
       "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
-    },
-    {
-      "added_at": "2024-05-18 00:14:39",
-      "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
-    },
-    {
-      "added_at": "2024-05-18 00:14:39",
-      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 215666,
       "name": "La Lata",
       "url": "https://open.spotify.com/track/6vuVjYLw5uW8dOFitAtMzc"
+    },
+    {
+      "added_at": "2024-05-18 00:14:39",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 313190,
+      "name": "Sentimiento Villero",
+      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
+    },
+    {
+      "added_at": "2024-05-18 00:14:39",
+      "album": {
         "name": "El Retutu",
         "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 152176,
       "name": "Session en el Barrio #4",
       "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
-    },
-    {
-      "added_at": "2024-05-18 00:14:39",
-      "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 313190,
-      "name": "Sentimiento Villero",
-      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
-        "name": "Supermerk2 & Meta Guacha: 2x1",
-        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
-      },
-      "artists": [
-        {
-          "name": "Meta Guacha",
-          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Para la Gilada",
-      "url": "https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt"
-    },
-    {
-      "added_at": "2024-05-18 00:14:39",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 220160,
       "name": "La Marca de la Gorra",
       "url": "https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR"
+    },
+    {
+      "added_at": "2024-05-18 00:14:39",
+      "album": {
+        "name": "Supermerk2 & Meta Guacha: 2x1",
+        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
+      },
+      "artists": [
+        {
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Para la Gilada",
+      "url": "https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
-        "name": "Moviendo la Cola",
-        "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
-      },
-      "artists": [
-        {
-          "name": "Barrabox",
-          "url": "https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Siempre Es la Misma Situaci\u00f3n",
-      "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
-    },
-    {
-      "added_at": "2024-05-18 00:14:39",
-      "album": {
         "name": "Cual Fue? (Remix)",
         "url": "https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 204022,
       "name": "Cual Fue? - Remix",
       "url": "https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7"
+    },
+    {
+      "added_at": "2024-05-18 00:14:39",
+      "album": {
+        "name": "Moviendo la Cola",
+        "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
+      },
+      "artists": [
+        {
+          "name": "Barrabox",
+          "url": "https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Siempre Es la Misma Situaci\u00f3n",
+      "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -2199,22 +2199,18 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
-        "name": "FUMAN TWO",
-        "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
+        "name": "Supermerk2 & Meta Guacha: 2x1",
+        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
       },
       "artists": [
         {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
         }
       ],
-      "duration_ms": 114860,
-      "name": "FUMAN TWO",
-      "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
+      "duration_ms": 250346,
+      "name": "Alma Blanca",
+      "url": "https://open.spotify.com/track/7fP1GwN7MokxTLoMPxeN9p"
     },
     {
       "added_at": "2024-05-18 00:14:39",
@@ -2255,18 +2251,22 @@
     {
       "added_at": "2024-05-18 00:14:39",
       "album": {
-        "name": "Supermerk2 & Meta Guacha: 2x1",
-        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
+        "name": "FUMAN TWO",
+        "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
       },
       "artists": [
         {
-          "name": "Meta Guacha",
-          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
         }
       ],
-      "duration_ms": 250346,
-      "name": "Alma Blanca",
-      "url": "https://open.spotify.com/track/7fP1GwN7MokxTLoMPxeN9p"
+      "duration_ms": 114860,
+      "name": "FUMAN TWO",
+      "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
     },
     {
       "added_at": "2024-05-18 00:14:39",

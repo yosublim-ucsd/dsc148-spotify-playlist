@@ -267,6 +267,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "O Embaixador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 178208,
+      "name": "Sujeito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Estrelinha",
         "url": "https://open.spotify.com/album/3r3WEUzmwBtgKqWtNxssu1"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "O Embaixador (Ao Vivo)",
-        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 178208,
-      "name": "Sujeito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Realidade - Ao Vivo Em Manaus",
         "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 180001,
-      "name": "choque t\u00e9rmico - ao vivo",
-      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Jo\u00e3o Bosco & Vinicius E Seus \u00cddolos - Estrada De Ch\u00e3o",
         "url": "https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 166600,
       "name": "Amiga Linda",
       "url": "https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 180001,
+      "name": "choque t\u00e9rmico - ao vivo",
+      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -411,22 +411,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Live-M\u00f3vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
       "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
         {
           "name": "Jorge & Mateus",
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 187378,
-      "name": "Sofazinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
+      "duration_ms": 166517,
+      "name": "Cora\u00e7\u00e3o Calejado - Ao Vivo",
+      "url": "https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -515,18 +511,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+        "name": "Live-M\u00f3vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
       },
       "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
         {
           "name": "Jorge & Mateus",
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 166517,
-      "name": "Cora\u00e7\u00e3o Calejado - Ao Vivo",
-      "url": "https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId"
+      "duration_ms": 187378,
+      "name": "Sofazinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Do Jeito que N\u00f3is Gosta 2",
+        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        }
+      ],
+      "duration_ms": 161529,
+      "name": "Se Eu Te Procurar",
+      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Surra de Cama",
         "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 178216,
       "name": "Surra de Cama",
       "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Do Jeito que N\u00f3is Gosta 2",
-        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
-      },
-      "artists": [
-        {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Se Eu Te Procurar",
-      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1711,22 +1711,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Esquece de Me Esquecer",
-        "url": "https://open.spotify.com/album/4Cv439w6zA8dOOFcPVggMv"
+        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
         }
       ],
-      "duration_ms": 180905,
-      "name": "Esquece de Me Esquecer",
-      "url": "https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr"
+      "duration_ms": 176835,
+      "name": "Terapinga - Ao Vivo",
+      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
     },
     {
       "added_at": "2023-10-13 11:44:55",

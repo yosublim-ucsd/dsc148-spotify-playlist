@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: BILLIE EILISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,941 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,947 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 32 | [i let it happen](https://open.spotify.com/track/1uKWgZMkBwlee7ep3J8FNb) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Learn to Love](https://open.spotify.com/album/1xCkWUeMBwr4qw0Uy7k8pU) | 1:34 |
 | 33 | [Don't Feel Anything](https://open.spotify.com/track/6Thtj9MSgPYhRvirIAJ2OC) | [Kuizz](https://open.spotify.com/artist/6x8oQWq0xiL4aIJTXCUx7u) | [Don't Feel Anything](https://open.spotify.com/album/1pYAeq8q1oiUa5H5fPBEyG) | 2:46 |
 | 34 | [CANDYRELLA \- sweeter](https://open.spotify.com/track/4qG74FcxHBeDcveHfOlqtQ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [CANDYRELLA](https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh) | 3:10 |
-| 35 | [Friends and Family \(Denting\) \[with Melly Goeslaw\]](https://open.spotify.com/track/55DUApDmxt7jRLCOjPcaAs) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y), [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Friends and Family \(Denting\) \[with Melly Goeslaw\]](https://open.spotify.com/album/1oGuWphCGDfZVjLYsScNL8) | 2:48 |
+| 35 | [Friends and Family](https://open.spotify.com/track/55DUApDmxt7jRLCOjPcaAs) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Friends and Family](https://open.spotify.com/album/1oGuWphCGDfZVjLYsScNL8) | 2:48 |
 | 36 | [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 |
 | 37 | [Little Time For Love](https://open.spotify.com/track/3MlLMBQxcbhAToQvMYiRoB) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Roadtrip](https://open.spotify.com/album/6udjCLHRuFO5Yjxy2pBlky) | 4:16 |
 | 38 | [Louder](https://open.spotify.com/track/660CX4lTKJFgOgoSmRrkSs) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Louder](https://open.spotify.com/album/0yx4JsRKHVe7JLgKIyebOp) | 3:00 |

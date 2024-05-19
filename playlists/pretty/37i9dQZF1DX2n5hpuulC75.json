@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 258791,
+  "num_followers": 51884,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Edition",
-        "url": "https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Edition",
-      "url": "https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Where Will We Go, Pt. 2",
         "url": "https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 299839,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Edition",
+        "url": "https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Edition",
+      "url": "https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -583,6 +583,22 @@
       "duration_ms": 144000,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "White Gemini",
+        "url": "https://open.spotify.com/album/7IXVOxHTpOMXaMQivGKfuE"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/4PuTvnil6uy4m6DGSnxrHE"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1015,22 +1031,6 @@
       "duration_ms": 168919,
       "name": "Frozen Away",
       "url": "https://open.spotify.com/track/4hboEacHpNTLg2xPmAfjR3"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Island - EP",
-        "url": "https://open.spotify.com/album/0Tfyv7ejRsl3zr8xm16XAr"
-      },
-      "artists": [
-        {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
-        }
-      ],
-      "duration_ms": 185747,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/3EIrhX6rhOZZ9tageWD5Om"
     }
   ],
   "unique_name": "Mellow Mood",

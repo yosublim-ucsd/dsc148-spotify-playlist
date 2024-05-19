@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 54807,
+  "num_followers": 54837,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "A Conversation With My Innocence",
+      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Lost At Sea (Kelly Moran remix)",
         "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "A Conversation With My Innocence",
-      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        }
-      ],
-      "duration_ms": 276305,
-      "name": "Tendril",
-      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Shifting Winds",
         "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 252000,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        }
+      ],
+      "duration_ms": 276305,
+      "name": "Tendril",
+      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
-      },
-      "artists": [
-        {
-          "name": "YL Hooi",
-          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Hush Now Baby",
         "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
       },
@@ -831,22 +815,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Honest Labour",
-        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
       },
       "artists": [
         {
-          "name": "Space Afrika",
-          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
-        },
-        {
-          "name": "Guest",
-          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
+          "name": "YL Hooi",
+          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
         }
       ],
-      "duration_ms": 112980,
-      "name": "Indigo Grit (feat. guest)",
-      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
+      "duration_ms": 250440,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -887,6 +867,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Honest Labour",
+        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
+      },
+      "artists": [
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        },
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
+        }
+      ],
+      "duration_ms": 112980,
+      "name": "Indigo Grit (feat. guest)",
+      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Cliodynamics",
         "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
       },
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 89661,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Ode to the blue",
-        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
+        "name": "Respite",
+        "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        },
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
         }
       ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
+      "duration_ms": 227631,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Respite",
-        "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
+        "name": "Ode to the blue",
+        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
       },
       "artists": [
         {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        },
-        {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 227631,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "You Make It Look so Easy (Reverbed by Malibu)",
-        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
-      },
-      "artists": [
-        {
-          "name": "Himera",
-          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
-        },
-        {
-          "name": "Petal Supply",
-          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 239232,
-      "name": "You Make It Look so Easy - Reverbed by Malibu",
-      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "A Model of Reality Reworks",
         "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
@@ -1203,18 +1179,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "in altar wine",
-        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+        "name": "You Make It Look so Easy (Reverbed by Malibu)",
+        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
       "artists": [
         {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+        },
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 334038,
-      "name": "in altar wine",
-      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
+      "duration_ms": 239232,
+      "name": "You Make It Look so Easy - Reverbed by Malibu",
+      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1231,6 +1215,22 @@
       "duration_ms": 211942,
       "name": "Japanese Summer Lost",
       "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "in altar wine",
+        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+      },
+      "artists": [
+        {
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+        }
+      ],
+      "duration_ms": 334038,
+      "name": "in altar wine",
+      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "A Map With No Memory",
+        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
+      },
+      "artists": [
+        {
+          "name": "Jay Chakravorty",
+          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
+        }
+      ],
+      "duration_ms": 193644,
+      "name": "Hannah",
+      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Bones Knowing",
         "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
       },
@@ -1639,38 +1655,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "A Map With No Memory",
-        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
-      },
-      "artists": [
-        {
-          "name": "Jay Chakravorty",
-          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
-        }
-      ],
-      "duration_ms": 193644,
-      "name": "Hannah",
-      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Bardo Landscape (Reimagined)",
-        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 196698,
-      "name": "Bardo Landscape (Reimagined)",
-      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "The 90s Was A Feeling",
         "url": "https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 410000,
       "name": "The 90s Was A Feeling",
       "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Bardo Landscape (Reimagined)",
+        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        }
+      ],
+      "duration_ms": 196698,
+      "name": "Bardo Landscape (Reimagined)",
+      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1723,38 +1723,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Time Is Local",
-        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
       },
       "artists": [
         {
-          "name": "We like We",
-          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
-        },
-        {
-          "name": "Jacob Kirkegaard",
-          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
         }
       ],
-      "duration_ms": 96450,
-      "name": "Clotho",
-      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
-      },
-      "artists": [
-        {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
+      "duration_ms": 650794,
+      "name": "Sospiro",
+      "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1779,18 +1759,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
       "artists": [
         {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
         }
       ],
-      "duration_ms": 650794,
-      "name": "Sospiro",
-      "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
+      "duration_ms": 242000,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1807,6 +1787,26 @@
       "duration_ms": 314036,
       "name": "L\u00e4mp\u00f6",
       "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Time Is Local",
+        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
+      },
+      "artists": [
+        {
+          "name": "We like We",
+          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
+        },
+        {
+          "name": "Jacob Kirkegaard",
+          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+        }
+      ],
+      "duration_ms": 96450,
+      "name": "Clotho",
+      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
     },
     {
       "added_at": "2023-10-12 18:05:50",

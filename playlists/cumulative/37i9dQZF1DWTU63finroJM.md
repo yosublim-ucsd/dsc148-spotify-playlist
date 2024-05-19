@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Indien.
 
-1,420 songs - 3 day 6 hr 12 min
+1,423 songs - 3 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Bbye](https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude\(s\)](https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58) | 3:16 | 2024-04-12 |  |
 | [Be My Bagel](https://open.spotify.com/track/2nWvhCdzgFIHNCnhKZk24e) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Be My Bagel](https://open.spotify.com/album/22LXxmQKYgIKAXZx7WD12Z) | 2:13 | 2022-02-03 | 2022-03-18 |
 | [Be Okay](https://open.spotify.com/track/1kJ9iysFb93KSeorhV109C) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Be Okay](https://open.spotify.com/album/5VXh2yi3JTIRgn1zaeQe19) | 2:45 | 2022-06-29 | 2022-08-02 |
+| [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 | 2024-05-17 |  |
 | [BEAUTIFUL](https://open.spotify.com/track/406szmvIaQo0EATtjcf19k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/26fSKnWlEA0pohjSLBfeum) | 3:49 | 2022-02-03 | 2022-03-18 |
 | [Beautiful Everything](https://open.spotify.com/track/73RorSjAZnRkFzUWYFx4yg) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Beautiful Everything](https://open.spotify.com/album/6h6vVbN20Moi61HDllYhR9) | 4:18 | 2024-01-19 | 2024-02-25 |
 | [Beautiful Everything](https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 4:18 | 2024-01-19 | 2024-04-19 |
@@ -172,6 +173,7 @@
 | [Born To Lose](https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Born To Lose](https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW) | 3:00 | 2024-02-02 |  |
 | [Born To Win](https://open.spotify.com/track/0zTmcNKTKyxMohxIvjpIAV) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 2:53 | 2022-03-24 | 2022-08-02 |
 | [BOW](https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [BOW](https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8) | 3:02 | 2024-01-12 | 2024-01-27 |
+| [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-05-17 |  |
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM) | 2:21 | 2022-11-11 | 2023-05-31 |
 | [break me](https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [break me](https://open.spotify.com/album/0Ggs1jxnP1Sby1NLum8mRu) | 2:50 | 2024-04-05 |  |
 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 | 2023-05-30 | 2024-01-20 |
@@ -233,7 +235,7 @@
 | [citrus](https://open.spotify.com/track/3mfOVetD3j0ktS34Kk7enH) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [citrus](https://open.spotify.com/album/0dx5H6SFArLI4tiIRmbHMK) | 3:10 | 2022-02-03 | 2022-04-01 |
 | [City Life](https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [City Life \- Single](https://open.spotify.com/album/2q1dmnBWQqQAYxcXybUNAr) | 2:40 | 2022-03-24 | 2022-12-15 |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2022-08-04 | 2022-08-27 |
-| [Close To You](https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Close To You](https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189) | 5:41 | 2024-03-08 |  |
+| [Close To You](https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Close To You](https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189) | 5:41 | 2024-03-08 | 2024-05-19 |
 | [Cloudy Love](https://open.spotify.com/track/6gBX0GeCjv70GVWptj4ZW9) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [Horizon](https://open.spotify.com/album/4tzg5PxQyc4cFVdMCwd8mK) | 3:00 | 2024-04-19 | 2024-05-15 |
 | [Coast](https://open.spotify.com/track/23KRFSsLa3UQ8FMY6KQ63i) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Coast](https://open.spotify.com/album/4HeAegQf8B2jW03zpL1X0T) | 2:52 | 2022-03-24 | 2022-08-02 |
 | [Cocoa Beach](https://open.spotify.com/track/26MSlKdM2gVnImkA5lU8G0) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage to Mars](https://open.spotify.com/album/68SvNn3ZiomWkxVeeBANvP) | 3:58 | 2022-03-24 | 2022-08-02 |
@@ -435,6 +437,7 @@
 | [Girls Night](https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Girls Night](https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4) | 3:17 | 2024-02-09 |  |
 | [Gist](https://open.spotify.com/track/2hgBaouS3Vg6fg70GCBMAQ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy) | [Gist](https://open.spotify.com/album/5kvBQ9BN4PwSd2mAQtdPTT) | 3:25 | 2024-04-26 |  |
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2022-03-24 | 2023-01-21 |
+| [Glorious](https://open.spotify.com/track/0nexrndpXBZLP2GIiwHBT4) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Glorious](https://open.spotify.com/album/6Ds19IWuhiVi2iBqyKVRyF) | 3:52 | 2024-05-17 |  |
 | [Glücklich](https://open.spotify.com/track/0PoorhuDSZ7hgvFT7C6fgf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Altbau](https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA) | 2:23 | 2022-03-24 | 2022-09-16 |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-09-15 | 2022-12-15 |
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/0dkPo2Tvo0PhGJaUAvk4pC) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [go \(feat\. Sam Smith\)](https://open.spotify.com/album/3zTbB7N63JZkS6I6zuooMs) | 3:35 | 2022-06-29 | 2022-08-23 |
@@ -1157,7 +1160,7 @@
 | [Two Cents](https://open.spotify.com/track/6hqJupJkVQmwHzOYeeO7fE) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Two Cents](https://open.spotify.com/album/1aXviDV63VHVx0bYgySnvf) | 3:55 | 2024-03-08 |  |
 | [TY \(for ruining my life\)](https://open.spotify.com/track/7ry0hUCtzs54MaGmYo1kON) | [Adib Sin](https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [TY \(for ruining my life\)](https://open.spotify.com/album/3nP9a6GXTFbE9I9f3XEOqQ) | 2:10 | 2023-05-30 | 2023-07-08 |
 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 | 2023-05-30 | 2023-11-18 |
-| [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-04-19 |  |
+| [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-04-19 | 2024-05-19 |
 | [Tết Real Khum?](https://open.spotify.com/track/5rvn7zGZYmFDq27Y2P7tPu) | [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Tết Real Khum?](https://open.spotify.com/album/73Pkh381e7WaWIBbbdksA8) | 3:38 | 2022-03-24 | 2023-04-18 |
 | [U](https://open.spotify.com/track/0AqiXztTD2a0aeHkQsS1Lm) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [U](https://open.spotify.com/album/0cXPw9gEzyMguXppD8E0Ii) | 2:57 | 2022-02-03 | 2023-01-21 |
 | [U+](https://open.spotify.com/track/1eWE9MBcX8cqYPXhdf2d38) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [U+](https://open.spotify.com/album/2PzmUiqcZUdaje0jkKmHkn) | 2:35 | 2022-02-03 | 2022-12-15 |
@@ -1274,7 +1277,7 @@
 | [Нет дела](https://open.spotify.com/track/1jBkgehBXNIURp4ATVAbRp) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Когда были волны](https://open.spotify.com/album/2S6dLBYwOhyepLH33Fv6VJ) | 4:41 | 2022-03-24 | 2022-04-21 |
 | [ночь](https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:29 | 2022-03-24 | 2022-08-03 |
 | [Счастье](https://open.spotify.com/track/4yX76KyCqxcPdKWaxUIeZG) | [Сёстры](https://open.spotify.com/artist/1anDkNxpUwY1IiJViMZZf6) | [Дальше](https://open.spotify.com/album/7EQBos4tq7LHQ7vzHswwuc) | 2:15 | 2022-03-24 | 2022-08-02 |
-| [กลางใจไกลจัง](https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [กลางใจไกลจัง](https://open.spotify.com/album/7j4BfqLpnYhARG7K4JVPNW) | 3:23 | 2024-04-19 |  |
+| [กลางใจไกลจัง](https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [กลางใจไกลจัง](https://open.spotify.com/album/7j4BfqLpnYhARG7K4JVPNW) | 3:23 | 2024-04-19 | 2024-05-19 |
 | [กลิ่นดอกไม้](https://open.spotify.com/track/5OaXaynJZgklXEwzhouey5) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลิ่นดอกไม้](https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl) | 3:52 | 2024-04-19 |  |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv) | 4:36 | 2022-10-06 | 2022-12-15 |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 | 2022-02-03 | 2022-10-14 |

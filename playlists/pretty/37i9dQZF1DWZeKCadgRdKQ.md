@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,430,909 likes - 145 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,431,440 likes - 145 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 2 | [Orange Sky](https://open.spotify.com/track/2MveOWtavb89Lk09bcPoi8) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [Orange Sky](https://open.spotify.com/album/3NfqH1vIsjFpQnmBkNJrAp) | 2:09 |
 | 3 | [the echoing truth](https://open.spotify.com/track/1HsNwZPWvrN8gZ44YnjOCo) | [Tall Towers](https://open.spotify.com/artist/2cJFgnxR5epddHrdwxNPvw) | [the echoing truth](https://open.spotify.com/album/6klNuRg1l3cNvgJU6zWI6b) | 2:06 |
 | 4 | [Tell A Story](https://open.spotify.com/track/4FmITkvf6U8iH4nQqDf29F) | [BBG's](https://open.spotify.com/artist/0rKBlryjOUk7Oy1v0RCG0o) | [Tell A Story](https://open.spotify.com/album/4KyvtmlaX3whEj3VOA12kf) | 2:40 |
-| 5 | [Photographic](https://open.spotify.com/track/1K2pzcuinGj4FEzIgruh4B) | [Skeru](https://open.spotify.com/artist/579775ikDoHL7F0HSFYK9l) | [Photographic](https://open.spotify.com/album/19oaWHGwgVl7fgXmn6PHZM) | 2:19 |
+| 5 | [Photographic](https://open.spotify.com/track/1K2pzcuinGj4FEzIgruh4B) | [Skeru](https://open.spotify.com/artist/2VtgVsxxb33b7iZ71BNDg7) | [Photographic](https://open.spotify.com/album/19oaWHGwgVl7fgXmn6PHZM) | 2:19 |
 | 6 | [Oscillation](https://open.spotify.com/track/0rZ0wSyuHnIb5ViR9EDdgH) | [Mimber](https://open.spotify.com/artist/4L3x3vTCpJgWtpD1wd4L01) | [Oscillation](https://open.spotify.com/album/6IMdxAN1dBLS1l0doB7D8y) | 2:23 |
 | 7 | [Extension](https://open.spotify.com/track/7cpZLMamKPbJnV3hMAof98) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Extension](https://open.spotify.com/album/5dZ9B7wDetwuHLmxHsEeJS) | 2:30 |
 | 8 | [Long Distances](https://open.spotify.com/track/47tOl9FF9r6tNJypRo3Pe9) | [Barkérby](https://open.spotify.com/artist/6mqsrh86husSPgTkw7L9w6) | [Long Distances](https://open.spotify.com/album/4JnKnvZH0YyEAD1bB5v7sa) | 2:04 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 53 | [Light Beams](https://open.spotify.com/track/1amYIBBF2YFyGSZD7EpiUR) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [Light Beams](https://open.spotify.com/album/4J5be4oSDzSg42E1XAoBNm) | 2:44 |
 | 54 | [Celestial Harmony](https://open.spotify.com/track/1xrLPVOfsDFkNubTm0u9RK) | [Hillside Dreams](https://open.spotify.com/artist/28ARkny6d5xO2f45bbhwJr) | [Celestial Harmony](https://open.spotify.com/album/4yTHENwJqKZxdhBEpaqAom) | 2:32 |
 | 55 | [Aerial](https://open.spotify.com/track/03gaqN3aWm9TQxuHay0G8R) | [Gajaka](https://open.spotify.com/artist/1pTns3zLC3U3F8LjY4y5rO) | [Aerial](https://open.spotify.com/album/7b5h7MJ70KC92FrwSvRaQi) | 2:12 |
-| 56 | [Here Too](https://open.spotify.com/track/79HMfdrQ7yi8SIoz2e65W5) | [Skeru](https://open.spotify.com/artist/579775ikDoHL7F0HSFYK9l) | [Here Too](https://open.spotify.com/album/40TtUNcPLG1C8QEzAW4Y5Q) | 2:04 |
+| 56 | [Here Too](https://open.spotify.com/track/79HMfdrQ7yi8SIoz2e65W5) | [Skeru](https://open.spotify.com/artist/2VtgVsxxb33b7iZ71BNDg7) | [Here Too](https://open.spotify.com/album/40TtUNcPLG1C8QEzAW4Y5Q) | 2:04 |
 | 57 | [Particles of Harmony](https://open.spotify.com/track/0ImRdVdVTOvnK8p1ngu6Ad) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Particles of Harmony](https://open.spotify.com/album/7zfGI0XWc6xyPA6J1ZGRlR) | 2:52 |
 | 58 | [light up the sky](https://open.spotify.com/track/0j6Ej4SbxM9Qy9dXFLeNkS) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [light up the sky](https://open.spotify.com/album/6YnhyH6pvKC4g3opPtqfNl) | 3:29 |
 | 59 | [Nostalgic Traces](https://open.spotify.com/track/3e2AwUGFYM8FvtfETbTH23) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Nostalgic Traces](https://open.spotify.com/album/5qbDZ0Uet2jnV1PmoOajfE) | 2:51 |

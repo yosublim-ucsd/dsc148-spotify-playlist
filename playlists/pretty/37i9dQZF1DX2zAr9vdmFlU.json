@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 429531,
+  "num_followers": 429583,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Bailables",
-        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
-      },
-      "artists": [
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Chocolat (Swing)",
-      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "bossa nova",
         "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 188070,
       "name": "bossa nova",
       "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bailables",
+        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
+      },
+      "artists": [
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Chocolat (Swing)",
+      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Tregua",
-        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        },
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Ay\u00fadame Inspiraci\u00f3n",
         "url": "https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 247504,
       "name": "Ay\u00fadame Inspiraci\u00f3n",
       "url": "https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Tregua",
+        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        },
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Si estuvieras aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 302962,
+      "name": "Si estuvieras aqu\u00ed",
+      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Today Ma\u00f1ana",
         "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
       },
@@ -1747,6 +1763,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Guapachosa",
+        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Guapachosa",
+      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "A Toda Cuba Le Gusta",
         "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
       },
@@ -1759,42 +1795,6 @@
       "duration_ms": 396440,
       "name": "Amor verdadero",
       "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Si estuvieras aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 302962,
-      "name": "Si estuvieras aqu\u00ed",
-      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Rojo Rub\u00ed",
-        "url": "https://open.spotify.com/album/0XteKwNr7uXZXz92CIE1Xe"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        },
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bailo Pa' M\u00ed",
-      "url": "https://open.spotify.com/track/3tpnKVGsD8uX8osFIpXuGs"
     }
   ],
   "unique_name": "Latin Dinner",

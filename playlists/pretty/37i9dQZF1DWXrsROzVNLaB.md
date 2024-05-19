@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,645 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,646 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 39 | [Sunday Is Coming](https://open.spotify.com/track/4VC8MVxUm6Pb57MaJXz7iQ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/408vh14ZAvgmakxejGEmka) | 4:52 |
 | 40 | [Greater Things](https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke) | 4:40 |
 | 41 | [Mercy \- Live](https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Your Grace Finds Me \(Live\)](https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU) | 5:34 |
-| 42 | [Alive In You \- Studio Version](https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Alive In You \(Studio Version\)](https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH) | 3:59 |
+| 42 | [He Lives](https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [He Lives](https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi) | 4:46 |
 | 43 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/6AsJ2pB08SKZ0j96U7F1pr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:27 |
-| 44 | [He Lives](https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [He Lives](https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi) | 4:46 |
+| 44 | [Alive In You \- Studio Version](https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Alive In You \(Studio Version\)](https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH) | 3:59 |
 | 45 | [This Is My Song \- Live](https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [Our God Will See Us Through \(Live\)](https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2) | 4:13 |
 | 46 | [Because He Lives \(Amen\)](https://open.spotify.com/track/5UVAPfV3T15X23qdYUWp7f) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Because He Lives \(Amen\)](https://open.spotify.com/album/3NxtPWkRme5IO95JZyOl6H) | 3:20 |
 | 47 | [At The Cross \(Love Ran Red\) \- Live](https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Take It All \(Live\)](https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB) | 7:08 |

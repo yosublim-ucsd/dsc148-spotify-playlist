@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "BAL",
+        "url": "https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcl\u015fen",
+          "url": "https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157625,
+      "name": "BAL",
+      "url": "https://open.spotify.com/track/2RojZW2380o281z4LF0wTh"
+    },
+    {
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW"
       },
@@ -3975,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "Cennet",
+        "url": "https://open.spotify.com/album/0nGdlxWVdcHbjaf4CvKAXm"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140315,
+      "name": "Cennet",
+      "url": "https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE"
+    },
+    {
+      "album": {
         "name": "Yineleme",
         "url": "https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3"
       },
@@ -4168,6 +4204,24 @@
       "duration_ms": 268542,
       "name": "Dal",
       "url": "https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x"
+    },
+    {
+      "album": {
+        "name": "Dale Don Dale",
+        "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118104,
+      "name": "Dale Don Dale",
+      "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
     },
     {
       "album": {
@@ -8114,7 +8168,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -9348,7 +9402,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 147136,
       "name": "Kapak Olsun",
       "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
@@ -16858,7 +16912,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 213812,
       "name": "Yara",
       "url": "https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9"

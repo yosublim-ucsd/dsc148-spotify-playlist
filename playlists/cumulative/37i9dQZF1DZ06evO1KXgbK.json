@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-10",
-  "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "name": "This Is Dolly Parton",
+  "description": "This is \u30c9\u30ea\u30fc\u30fb\u30d1\u30fc\u30c8\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30c9\u30ea\u30fc\u30fb\u30d1\u30fc\u30c8\u30f3",
   "tracks": [
     {
       "album": {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 178675,
       "name": "Gonna Be You (feat. Gloria Estefan and Debbie Harry)",
       "url": "https://open.spotify.com/track/7u0qPfX0sXCdYfN6juC2Fh"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 191928,
       "name": "Words",
       "url": "https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH"

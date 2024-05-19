@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 \#MéxicoPerrea
 
-526 songs - 1 day 2 hr 7 min
+527 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Barby Bellaka](https://open.spotify.com/track/0lElx1mc1PV0oZYlCRehU9) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Barby Bellaka](https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR) | 2:42 | 2024-04-19 |  |
 | [bb q paso contigo.mpeg](https://open.spotify.com/track/32yiSOgDYDc54n2bWG8uyT) | [Neithan](https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl) | [bb q paso contigo.mpeg](https://open.spotify.com/album/4pEm5CZqLpRG3WScAh2M4X) | 2:46 | 2023-07-14 | 2023-12-16 |
 | [Bebe Ricota](https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Bebe Ricota](https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l) | 2:31 | 2024-05-03 |  |
+| [BEIBY](https://open.spotify.com/track/2QGrlOTCxANQOfgKf7kTzH) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [BEIBY](https://open.spotify.com/album/2P9GoHvBQi1nblhXAjWfYi) | 2:19 | 2024-05-18 |  |
 | [Belize](https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:41 | 2023-07-28 | 2023-12-16 |
 | [Bellakita](https://open.spotify.com/track/1W4KsFR7GDrLztA25T3eKT) | [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam) | [Bellakita](https://open.spotify.com/album/0oV153ZO9LCnIVzXNOh7CF) | 2:55 | 2023-12-22 |  |
 | [Bellatonika](https://open.spotify.com/track/5LZmNN1i28G1paszTfCGZh) | [Dj Aza](https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6) | [Bellatonika](https://open.spotify.com/album/7KYtXp1eUTDVaNnyFZ8jEA) | 2:54 | 2023-10-20 |  |
@@ -511,7 +512,7 @@
 | [Ven](https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Ven](https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK) | 3:18 | 2022-02-15 | 2022-08-04 |
 | [Vente \(Como Moctezuma\) \- Remix](https://open.spotify.com/track/6H0Qwk2OdvMGsrrN60bhsP) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Vente \(Como Moctezuma\) \[Remix\]](https://open.spotify.com/album/69IoQ69L6srLfViw4QwEXC) | 2:32 | 2022-01-07 | 2022-05-07 |
 | [Verde](https://open.spotify.com/track/5tze5L2cxNRp4qBTJQD94k) | [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh), [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Verde](https://open.spotify.com/album/2yHAABT6RPFulcihhh7uL1) | 2:15 | 2023-02-24 | 2023-08-05 |
-| [Vergazo](https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE) | [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Vergazo](https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA) | 2:58 | 2024-04-12 |  |
+| [Vergazo](https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE) | [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Vergazo](https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA) | 2:58 | 2024-04-12 | 2024-05-19 |
 | [Viaje](https://open.spotify.com/track/2sjSvezxv5VLgWxUr5eMdW) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl), [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [Viaje](https://open.spotify.com/album/2Aj0hl0s4JqVMOgMnSUWlI) | 3:24 | 2022-11-25 | 2023-04-15 |
 | [Viaje](https://open.spotify.com/track/3wkpoLenkZHdgVV4QXG2gT) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0) | [Viaje](https://open.spotify.com/album/2rRowMHqOG5nxwV9W5tSCi) | 3:22 | 2022-01-07 | 2022-03-03 |
 | [Vibras](https://open.spotify.com/track/6OlF9IPCCVc6vtxvqtvp96) | [Vanillamilkshake](https://open.spotify.com/artist/4NBCWmojfdzwHIImMmFkRl), [Gats\. B](https://open.spotify.com/artist/1HmRqLMbuen6z9ApUFkp6F), [J Mauri](https://open.spotify.com/artist/5e2QMokByimjpy5prPACGj) | [Vibras](https://open.spotify.com/album/6KVdzdnXHb9gWWfWTxBLnY) | 3:09 | 2023-06-02 | 2023-07-29 |

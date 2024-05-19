@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 19737,
+  "num_followers": 19770,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAACe23sdHUTXc7os6OSqPUw0",
+  "snapshot_id": "ZkaeAAAAAABzd/6zJQHlM+mo+lA48CQW",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 110926,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/7cI7i7fXPWFvRf9l4eBGHX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homixide Lifestyle",
         "url": "https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 178285,
       "name": "Stunt",
       "url": "https://open.spotify.com/track/5hzkAD8nloXDHk62KsVtyG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 110926,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/7cI7i7fXPWFvRf9l4eBGHX"
     },
     {
       "added_at": null,

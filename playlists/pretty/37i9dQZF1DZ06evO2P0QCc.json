@@ -1,12 +1,12 @@
 {
   "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
-  "num_followers": 108418,
+  "num_followers": 108450,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAn+sZLoOD0KWOyrcHTmwLC",
+  "snapshot_id": "ZkaeAAAAAAATX/7qnhIm3c5+lB/V/vGB",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 230207,
+      "name": "Deja Ya de Mentir",
+      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 200613,
       "name": "Noviembre (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 230207,
-      "name": "Deja Ya de Mentir",
-      "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
     },
     {
       "added_at": null,

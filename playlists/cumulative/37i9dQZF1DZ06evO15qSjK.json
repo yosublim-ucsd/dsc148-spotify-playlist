@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180021,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 2024",
         "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 179247,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 184000,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5"
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 206413,
       "name": "Party In The USA - Redo Version",
       "url": "https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n"

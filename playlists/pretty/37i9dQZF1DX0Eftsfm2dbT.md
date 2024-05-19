@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: JJJ, BLASÉ, Bonbero
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,474 likes - 92 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,510 likes - 92 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 37 | [百鬼夜行](https://open.spotify.com/track/3aq2WFMHb3zM9Ltjt59YxG) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [百鬼夜行](https://open.spotify.com/album/6MQ5X2QZOJRFJIYkUgJWul) | 3:49 |
 | 38 | [もう一度キスをして](https://open.spotify.com/track/3mdyNzxy8EfEhitWY71KL2) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [もう一度キスをして](https://open.spotify.com/album/2vBJrNRG3j0CYzqV5iD8gs) | 2:37 |
 | 39 | [Playground feat\. \(sic\)boy, HIYADAM](https://open.spotify.com/track/2sdFvhkpMzHCj2CyvhvGOh) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [TSUBAME](https://open.spotify.com/artist/5fBPKr4eFuZBnB8OCzo5QF) | [Playground feat\. \(sic\)boy, HIYADAM](https://open.spotify.com/album/4EUdDcEs1klHCudQrikdYx) | 3:44 |
-| 40 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5c6lWvTCMWDYRraVAEIm9G) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 |
+| 40 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 |
 | 41 | [Drink \(feat.JJJ\)](https://open.spotify.com/track/69T7tPlyIhqAD7k0BWWnsg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:34 |
 | 42 | [City of Dreams](https://open.spotify.com/track/6XzzEK2IOp8uRpdFvYLtk7) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [City of Dreams](https://open.spotify.com/album/4VdDCndn5OJvBt5DVNO0kw) | 2:54 |
 | 43 | [Ready To Fight](https://open.spotify.com/track/2k1JY21H2w4RbrvbJ3iHFC) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 2:52 |

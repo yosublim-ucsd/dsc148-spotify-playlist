@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,521 likes - 25 songs - 1 hr 17 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,522 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 6 | [Lonely Girl](https://open.spotify.com/track/58sqgpGAPAWNKvSIhVompE) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Hand Clap](https://open.spotify.com/album/2ZRQc6ZGlugiVhBWuMx3qr) | 2:50 |
 | 7 | [Once Again](https://open.spotify.com/track/1PFQamzP6e8UlGE366ELUB) | [Hinev](https://open.spotify.com/artist/55bTfginp2PdoGP7xPZC5N) | [Once Again](https://open.spotify.com/album/3mBP26tAEqLSWsynRsteCH) | 2:37 |
 | 8 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 |
-| 9 | [Turn it Up](https://open.spotify.com/track/6GQ8k7n7CSNjSXN42cTYlE) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Turn It Up](https://open.spotify.com/album/66pannmlBSJYnwyeMiFQR3) | 2:53 |
+| 9 | [Turn it Up](https://open.spotify.com/track/6GQ8k7n7CSNjSXN42cTYlE) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Turn It Up](https://open.spotify.com/album/66pannmlBSJYnwyeMiFQR3) | 2:53 |
 | 10 | [Hustlin'](https://open.spotify.com/track/08j5W9R5lK3sBXo1A4zgGz) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Hustlin'](https://open.spotify.com/album/4xHL13vhsW8TZ6EQcjVgJJ) | 2:39 |
 | 11 | [In My Soul](https://open.spotify.com/track/0DkWdu3IQVFzNxVqLC6iKC) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [In My Soul](https://open.spotify.com/album/1eDkTJGusL0TYZEzxH4vbb) | 2:45 |
 | 12 | [Desire](https://open.spotify.com/track/24Gv8fomuWc1usQayn2yOu) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [Desire](https://open.spotify.com/album/20zG6Tg485owXOyMzL2YND) | 3:23 |

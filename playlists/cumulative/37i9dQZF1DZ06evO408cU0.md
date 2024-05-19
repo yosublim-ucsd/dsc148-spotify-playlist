@@ -2,7 +2,7 @@
 
 ### [This Is Banda Carnaval](https://open.spotify.com/playlist/37i9dQZF1DZ06evO408cU0)
 
-> This Is Banda Carnaval\. Sus mejores éxitos, todos en una playlist.
+> This is Banda Carnaval\. The essential tracks, all in one playlist.
 
 94 songs - 4 hr 57 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [118 Balazos](https://open.spotify.com/track/7rSQQD13gfhbidmiCfrKpH) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 2:53 | 2022-12-12 | 2023-02-11 |
 | [A Ver A Qué Horas \- En Vivo](https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [A Ver A Qué Horas \(En Vivo\)](https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a) | 2:33 | 2022-06-01 |  |
-| [Ahí Les Encargo](https://open.spotify.com/track/0kiGIbCbOmQPl7a5SZhnzI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Segunda Temporada](https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt) | 2:04 | 2023-06-12 | 2024-05-11 |
+| [Ahí Les Encargo](https://open.spotify.com/track/0kiGIbCbOmQPl7a5SZhnzI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Segunda Temporada](https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt) | 2:04 | 2023-06-12 |  |
 | [Ando Que Me Lleva \- En Vivo Desde El Rancho](https://open.spotify.com/track/71e45Mjq3Tlda9o2J9Xv4n) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 3:02 | 2022-06-01 | 2022-10-13 |
 | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK) | 3:19 | 2024-03-14 |  |
 | [Así Te Necesito](https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:00 | 2022-06-01 |  |
@@ -72,11 +72,11 @@
 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/1ZHeQ45MzbjfN2mz1l375g) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 3:11 | 2022-06-05 | 2022-10-07 |
 | [Porque Así Tenía Que Ser](https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 2:33 | 2022-06-01 |  |
 | [Porque Me Importas](https://open.spotify.com/track/6078F7dFzJzLEKshvo9zgd) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:33 | 2022-07-25 | 2022-10-13 |
-| [Profundamente](https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Profundamente](https://open.spotify.com/album/6PjcA0YN8Tz9JcVjOeWid0) | 3:11 | 2023-09-25 |  |
+| [Profundamente](https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Profundamente](https://open.spotify.com/album/6PjcA0YN8Tz9JcVjOeWid0) | 3:11 | 2023-09-25 | 2024-05-19 |
 | [Pídeme](https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Lo Más Romántico De](https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ) | 3:18 | 2022-06-01 |  |
 | [Rendido A Tus Pies](https://open.spotify.com/track/6CxTdAoG4OX4gvnoonTudO) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:42 | 2022-06-01 | 2022-11-21 |
 | [Sabes Que Lo Hago](https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Sabes Que Lo Hago](https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz) | 3:13 | 2022-11-20 |  |
-| [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 | 2023-09-15 |  |
+| [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 | 2023-09-15 | 2024-05-19 |
 | [Se Vale Enamorarse](https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Vale Enamorarse](https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY) | 2:56 | 2022-12-04 | 2024-04-08 |
 | [Segunda Opción](https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:18 | 2022-06-01 |  |
 | [Soy Así](https://open.spotify.com/track/5O5vy1yeRas4o7JYgdKPu2) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 3:36 | 2022-12-13 | 2023-01-16 |
@@ -100,7 +100,7 @@
 | [Ya Me Vi Contigo](https://open.spotify.com/track/3wvf2xLgmbgJIFyKuJVH3R) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:28 | 2022-06-01 | 2023-08-11 |
 | [¿Cómo Le Digo?](https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:05 | 2022-06-01 |  |
 | [¿Desde Cuándo No Me Quieres?](https://open.spotify.com/track/6kKP6onITDDHShtAeOFRRt) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Bandas Románticas](https://open.spotify.com/album/0nhYBDq7AGkaOFqrqYwN2I) | 3:26 | 2022-06-01 |  |
-| [¿Quién Es El Patrón? \- En Vivo](https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos Y Rancheras En Vivo \(En Vivo Desde Mazatlán, Sinaloa/México 2016\)](https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r) | 2:41 | 2022-10-12 | 2024-05-18 |
+| [¿Quién Es El Patrón? \- En Vivo](https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos Y Rancheras En Vivo \(En Vivo Desde Mazatlán, Sinaloa/México 2016\)](https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r) | 2:41 | 2022-10-12 |  |
 | [¿Quién?](https://open.spotify.com/track/4ApLEBkOlTh2KSwocjsULe) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:21 | 2022-06-01 | 2022-10-13 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

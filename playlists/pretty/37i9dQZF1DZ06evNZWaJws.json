@@ -1,29 +1,13 @@
 {
-  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 300402,
+  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
+  "num_followers": 300504,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAB0CRRsD3yLEYYTKlCTgHkn",
+  "snapshot_id": "ZkaeAAAAAADmE+/FQP48apDW0x9F2tXd",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "El LP",
-        "url": "https://open.spotify.com/album/03znBeyglN3fms5BClz1mv"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 219002,
-      "name": "El LP",
-      "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
-    },
     {
       "added_at": null,
       "album": {
@@ -759,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "El Jefe De La Sierra",
-      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -791,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "El Jefe De La Sierra",
+      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tucanes De Plata ... Tucanazos Censurados",
         "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 207893,
       "name": "Se Desgran\u00f3 La Mazorca",
       "url": "https://open.spotify.com/track/0sjpjZQYvnssMQ34lUpfpY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El LP",
+        "url": "https://open.spotify.com/album/03znBeyglN3fms5BClz1mv"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 219002,
+      "name": "El LP",
+      "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
       "duration_ms": 141871,
       "name": "El Jefe X",
       "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Mas Buscados",
-        "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Los Mas Buscados",
-      "url": "https://open.spotify.com/track/3UmOoT3QzBqX0wDly4eHoA"
     }
   ],
   "unique_name": "This Is Los Tucanes De Tijuana",

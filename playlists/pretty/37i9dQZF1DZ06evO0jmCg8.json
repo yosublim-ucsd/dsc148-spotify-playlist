@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30a2\u30fc\u30c1\u30fb\u30a8\u30cd\u30df\u30fc\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 68959,
-  "original_name": "This Is \u30a2\u30fc\u30c1\u30fb\u30a8\u30cd\u30df\u30fc",
+  "description": "This Is Arch Enemy. Los temas esenciales, todos en una lista.",
+  "num_followers": 68993,
+  "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAABATdPJb5KFu+X+l/lL+Dx2",
+  "snapshot_id": "ZkaeAAAAAACwS8KH8dxwwmYRaJ4nS6rM",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 254893,
-      "name": "Silent Wars",
-      "url": "https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE"
+      "duration_ms": 215800,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 215800,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
+      "duration_ms": 254893,
+      "name": "Silent Wars",
+      "url": "https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 242813,
-      "name": "Symphony of Destruction - cover version",
-      "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
+      "duration_ms": 285213,
+      "name": "Shout - cover version",
+      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
     },
     {
       "added_at": null,
@@ -759,24 +759,8 @@
       "duration_ms": 255560,
       "name": "The Last Enemy",
       "url": "https://open.spotify.com/track/2PZLY7ybYMSzbk5WjKGF35"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered In Blood",
-        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 285213,
-      "name": "Shout - cover version",
-      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
     }
   ],
-  "unique_name": "This Is \u30a2\u30fc\u30c1\u30fb\u30a8\u30cd\u30df\u30fc",
+  "unique_name": "This Is Arch Enemy",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0jmCg8"
 }

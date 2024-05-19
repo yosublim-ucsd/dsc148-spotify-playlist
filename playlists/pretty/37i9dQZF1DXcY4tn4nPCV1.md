@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,367 likes - 186 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,399 likes - 186 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

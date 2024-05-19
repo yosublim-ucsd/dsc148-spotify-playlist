@@ -4,7 +4,7 @@
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-174 songs - 12 hr 4 min
+175 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Then Then Then](https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7) | [Supreme Team](https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [Ames Room](https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh) | 4:23 | 2022-06-13 |  |
 | [This Is Not a Love Song](https://open.spotify.com/track/0xOPz9Ukeiae0fahAamCWt) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:47 | 2022-06-13 |  |
 | [This Is Not a Love Song](https://open.spotify.com/track/1TKDZ1RNuYUoyZYTUA1fBj) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Nouvelle vague](https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY) | 3:47 | 2022-06-13 | 2024-04-19 |
-| [Tic Tac Toe](https://open.spotify.com/track/6aNc2VAWYiXklUN0sqy3tR) | [부가킹즈](https://open.spotify.com/artist/4uO7l2PC3obqQDjsBsyF7U) | [The Renaissance](https://open.spotify.com/album/1QMiVLQPf0OascUKHDg37l) | 3:55 | 2022-06-13 |  |
+| [Tic Tac Toe](https://open.spotify.com/track/6aNc2VAWYiXklUN0sqy3tR) | [부가킹즈](https://open.spotify.com/artist/4uO7l2PC3obqQDjsBsyF7U) | [The Renaissance](https://open.spotify.com/album/1QMiVLQPf0OascUKHDg37l) | 3:55 | 2022-06-13 | 2024-05-19 |
 | [Time Walking on Memory](https://open.spotify.com/track/1kqmsG932UIAB67TQW5ZXd) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Cyworld BGM 2021](https://open.spotify.com/album/5fddR7cpgW2J8ctiCb9b75) | 5:09 | 2022-06-13 | 2023-06-02 |
 | [Time Walking on Memory](https://open.spotify.com/track/4rvNw5ZkbuMYraAmkY8Qei) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Cyworld BGM 2021](https://open.spotify.com/album/6xH8OVNf4jcjQWwbs3UbS6) | 5:09 | 2022-06-13 |  |
 | [Timeless](https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [SG Wanna Be＋](https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs) | 3:57 | 2022-06-13 | 2024-04-19 |
@@ -178,6 +178,7 @@
 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 | 2022-06-13 |  |
 | [칵테일 사랑](https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB), [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:33 | 2022-06-13 |  |
 | [해바라기 \(그녀에게..\)](https://open.spotify.com/track/7zARJQchG2thlF1o1Px9J6) | [Park Sang Min](https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu) | [Sunflower](https://open.spotify.com/album/07gANgRTKm7Zlw2xwvTXzt) | 4:09 | 2022-06-13 | 2023-09-08 |
+| [해바라기도가끔목이아프죠](https://open.spotify.com/track/5wuAv1WFV6mL8dm0UXSzEv) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 4:44 | 2022-06-13 |  |
 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 | 2022-06-13 |  |
 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 | 2022-06-13 |  |
 | [회상](https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [터보 HISTORY](https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa) | 4:35 | 2022-06-13 |  |

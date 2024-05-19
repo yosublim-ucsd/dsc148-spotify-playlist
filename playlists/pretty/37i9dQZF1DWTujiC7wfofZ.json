@@ -1,6 +1,6 @@
 {
   "description": "All the indie disco platters that matter.",
-  "num_followers": 436330,
+  "num_followers": 436364,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 296146,
       "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 183440,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "The Essential Bangles",
         "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 387866,
       "name": "Just an Illusion",
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Razorlight",
-        "url": "https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj"
+        "name": "So Long, See You Tomorrow",
+        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
       },
       "artists": [
         {
-          "name": "Razorlight",
-          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 222453,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/64IcdRqfcN5rwqSqJpQDDe"
+      "duration_ms": 190866,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2047,18 +2047,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "So Long, See You Tomorrow",
-        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
+        "name": "Razorlight",
+        "url": "https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
+      "duration_ms": 222453,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/64IcdRqfcN5rwqSqJpQDDe"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Bad Dream Baby",
-        "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 178150,
-      "name": "Bad Dream Baby",
-      "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Parallel Lines (Remastered)",
         "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
@@ -2243,12 +2227,28 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
+        "name": "Bad Dream Baby",
+        "url": "https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 178150,
+      "name": "Bad Dream Baby",
+      "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
         "name": "Stars Of CCTV",
         "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
       },
       "artists": [
         {
-          "name": "Hard-FI",
+          "name": "Hard-Fi",
           "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
         }
       ],
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
+        "name": "Tom Tom Club - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0n4nGny616qpi5I087S8ur"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 339053,
+      "name": "Genius Of Love",
+      "url": "https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
         "name": "The Age Of The Understatement",
         "url": "https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 189560,
       "name": "The Age Of The Understatement",
       "url": "https://open.spotify.com/track/5WXMS6w7Gvb02b6bx4eBSF"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "Tom Tom Club - Deluxe Edition",
-        "url": "https://open.spotify.com/album/0n4nGny616qpi5I087S8ur"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 339053,
-      "name": "Genius Of Love",
-      "url": "https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2591,18 +2591,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Get To Heaven (Deluxe)",
-        "url": "https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J"
+        "name": "Just Enough Hip to Be Woman",
+        "url": "https://open.spotify.com/album/1YZo1LnGe8GoT0mCbQ5R8J"
       },
       "artists": [
         {
-          "name": "Everything Everything",
-          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
+          "name": "BRONCHO",
+          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Distant Past",
-      "url": "https://open.spotify.com/track/4L2F0LcDVtNrFc1K4lmx3m"
+      "duration_ms": 212236,
+      "name": "Class Historian",
+      "url": "https://open.spotify.com/track/73i6MgP5CKhhnZ69Go6u2X"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2623,18 +2623,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Just Enough Hip to Be Woman",
-        "url": "https://open.spotify.com/album/1YZo1LnGe8GoT0mCbQ5R8J"
+        "name": "Get To Heaven (Deluxe)",
+        "url": "https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J"
       },
       "artists": [
         {
-          "name": "BRONCHO",
-          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
+          "name": "Everything Everything",
+          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
         }
       ],
-      "duration_ms": 212236,
-      "name": "Class Historian",
-      "url": "https://open.spotify.com/track/73i6MgP5CKhhnZ69Go6u2X"
+      "duration_ms": 221693,
+      "name": "Distant Past",
+      "url": "https://open.spotify.com/track/4L2F0LcDVtNrFc1K4lmx3m"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2739,22 +2739,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Combat Sports",
-        "url": "https://open.spotify.com/album/3lgzoi5buvKM7M01qh6WAY"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 162746,
-      "name": "I Can't Quit",
-      "url": "https://open.spotify.com/track/4DBeUcBD2zVZzhf2oX1PLc"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU"
       },
@@ -2767,6 +2751,22 @@
       "duration_ms": 145266,
       "name": "Cousins",
       "url": "https://open.spotify.com/track/4tFOkEWNXiheSDnURpmGTp"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Combat Sports",
+        "url": "https://open.spotify.com/album/3lgzoi5buvKM7M01qh6WAY"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 162746,
+      "name": "I Can't Quit",
+      "url": "https://open.spotify.com/track/4DBeUcBD2zVZzhf2oX1PLc"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Stoned and Dethroned",
-        "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Sometimes Always",
-      "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Fantastic Playroom",
         "url": "https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA"
       },
@@ -2919,6 +2903,22 @@
       "duration_ms": 188080,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Stoned and Dethroned",
+        "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Sometimes Always",
+      "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3227,6 +3227,26 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
+        "name": "Broken Boy (feat. Iggy Pop)",
+        "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 163207,
+      "name": "Broken Boy (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
         "name": "Cinematic Youth",
         "url": "https://open.spotify.com/album/2wBpM9PabheEQVUFWgh6Zo"
       },
@@ -3255,26 +3275,6 @@
       "duration_ms": 158106,
       "name": "King of the Beach",
       "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "Broken Boy (feat. Iggy Pop)",
-        "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 163207,
-      "name": "Broken Boy (feat. Iggy Pop)",
-      "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3407,22 +3407,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Raw Data Feel",
-        "url": "https://open.spotify.com/album/5EVRkU1hii3VvUFblfexze"
-      },
-      "artists": [
-        {
-          "name": "Everything Everything",
-          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Teletype",
-      "url": "https://open.spotify.com/track/6o0IytQVis0KjQCkcFtqGD"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG"
       },
@@ -3439,6 +3423,38 @@
       "duration_ms": 227543,
       "name": "OnlyL",
       "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "The Magic Numbers",
+        "url": "https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL"
+      },
+      "artists": [
+        {
+          "name": "The Magic Numbers",
+          "url": "https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Love Me Like You",
+      "url": "https://open.spotify.com/track/2ijit5crURH5jhIc4YoKgA"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Raw Data Feel",
+        "url": "https://open.spotify.com/album/5EVRkU1hii3VvUFblfexze"
+      },
+      "artists": [
+        {
+          "name": "Everything Everything",
+          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Teletype",
+      "url": "https://open.spotify.com/track/6o0IytQVis0KjQCkcFtqGD"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3475,22 +3491,6 @@
       "duration_ms": 268146,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1XU6JOnyH8fSW0vzofEMCb"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "The Magic Numbers",
-        "url": "https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL"
-      },
-      "artists": [
-        {
-          "name": "The Magic Numbers",
-          "url": "https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Love Me Like You",
-      "url": "https://open.spotify.com/track/2ijit5crURH5jhIc4YoKgA"
     },
     {
       "added_at": "2023-10-19 23:30:37",
@@ -3867,6 +3867,22 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
+        "name": "Misanthropulsar",
+        "url": "https://open.spotify.com/album/3VBsDNs0P2Qo1seyo2V0IP"
+      },
+      "artists": [
+        {
+          "name": "Dumbo Gets Mad",
+          "url": "https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO"
+        }
+      ],
+      "duration_ms": 207537,
+      "name": "Misanthropulsar",
+      "url": "https://open.spotify.com/track/1doeB8uJMZVf2A5ePRVKh0"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/0SVNUvUTd8ab9VmvguVIQf"
       },
@@ -3895,22 +3911,6 @@
       "duration_ms": 222186,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "Misanthropulsar",
-        "url": "https://open.spotify.com/album/3VBsDNs0P2Qo1seyo2V0IP"
-      },
-      "artists": [
-        {
-          "name": "Dumbo Gets Mad",
-          "url": "https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO"
-        }
-      ],
-      "duration_ms": 207537,
-      "name": "Misanthropulsar",
-      "url": "https://open.spotify.com/track/1doeB8uJMZVf2A5ePRVKh0"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -4027,22 +4027,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Attention Seeker",
-        "url": "https://open.spotify.com/album/237iOHOkZOBZfMyc371XdW"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/4jffdXWrVYgBNw0bFoc6MZ"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "They Want My Soul",
         "url": "https://open.spotify.com/album/2qGq0iQFEjrcDprsd7QSFx"
       },
@@ -4055,6 +4039,22 @@
       "duration_ms": 301960,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/08gZhsKw1Z141iz8OA7Qbi"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Attention Seeker",
+        "url": "https://open.spotify.com/album/237iOHOkZOBZfMyc371XdW"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/4jffdXWrVYgBNw0bFoc6MZ"
     },
     {
       "added_at": "2023-07-21 10:44:31",

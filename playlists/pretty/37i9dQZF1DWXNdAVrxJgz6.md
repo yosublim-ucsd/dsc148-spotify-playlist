@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,139 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,268 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 81 | [Tomando Ando](https://open.spotify.com/track/3cx4KfxfE4BKIaz4wL72ln) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Tomando Ando](https://open.spotify.com/album/7hY5xMTxLVWpQGBJo2qOSP) | 3:18 |
 | 82 | [Imborrable](https://open.spotify.com/track/32dQ0OMFB5CvAvJwgrEYsk) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Imborrable](https://open.spotify.com/album/6itA48DhQhvjtGQvSm3BUu) | 3:18 |
 | 83 | [De Mi Te Acuerdas \- En Vivo](https://open.spotify.com/track/0G8nR1fvVtXq21ENdUN60F) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que Te Duela Más Que a Mí, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/0Kswt6kIqoNCmd7UHRLHK7) | 2:55 |
-| 84 | [24 Horas \- Balada](https://open.spotify.com/track/52xcdIfyArxZ7cyZHVsrRi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Un Hombre Normal](https://open.spotify.com/album/7745vTDBPHucOrTZ8OOhh6) | 3:34 |
-| 85 | [Aunque Te Pongas Dulce](https://open.spotify.com/track/0U2HYhkxiNLtKXH6dLbpfy) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Mi Posición](https://open.spotify.com/album/4lonmfUL3C3fX6q2D1iT8g) | 3:35 |
-| 86 | [Vanidosa](https://open.spotify.com/track/767Lvz98OdXrwJmR37w8ge) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Vanidosa](https://open.spotify.com/album/6C4fwzvUKYzmm9jRzd0KpH) | 3:07 |
-| 87 | [Colores Alegres](https://open.spotify.com/track/4bHsVBo4y4pdYNZg7OO6Sw) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD) | 3:52 |
+| 84 | [Colores Alegres](https://open.spotify.com/track/4bHsVBo4y4pdYNZg7OO6Sw) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD) | 3:52 |
+| 85 | [24 Horas \- Balada](https://open.spotify.com/track/52xcdIfyArxZ7cyZHVsrRi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Un Hombre Normal](https://open.spotify.com/album/7745vTDBPHucOrTZ8OOhh6) | 3:34 |
+| 86 | [Aunque Te Pongas Dulce](https://open.spotify.com/track/0U2HYhkxiNLtKXH6dLbpfy) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Mi Posición](https://open.spotify.com/album/4lonmfUL3C3fX6q2D1iT8g) | 3:35 |
+| 87 | [Vanidosa](https://open.spotify.com/track/767Lvz98OdXrwJmR37w8ge) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Vanidosa](https://open.spotify.com/album/6C4fwzvUKYzmm9jRzd0KpH) | 3:07 |
 | 88 | [Capilla y Catedral \- En Vivo](https://open.spotify.com/track/1HUUmOYX87HzNNvteTnTeM) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Capilla y Catedral \(En Vivo\)](https://open.spotify.com/album/6IvwBKe0ZkMBAg52KWN8Mt) | 4:25 |
 | 89 | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/track/3J4LQVHwlOrppENUjFb0B7) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Eres Lo Mejor Que Me Pasó](https://open.spotify.com/album/0A7y77cQkjOnLL9s2vnyfc) | 3:54 |
 | 90 | [Casao Amargao](https://open.spotify.com/track/4jSjq8eCQkgj4b6hnv8Djz) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/2T0jMFLwnKREZV00ySlQcK) | 3:43 |

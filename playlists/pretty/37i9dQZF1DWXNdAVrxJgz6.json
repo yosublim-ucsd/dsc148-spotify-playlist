@@ -1,6 +1,6 @@
 {
   "description": "El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.",
-  "num_followers": 142139,
+  "num_followers": 142268,
   "original_name": "Cancionero Espinoza Paz",
   "owner": {
     "name": "Spotify",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "La Joya",
+        "url": "https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 232965,
+      "name": "Colores Alegres",
+      "url": "https://open.spotify.com/track/4bHsVBo4y4pdYNZg7OO6Sw"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Un Hombre Normal",
         "url": "https://open.spotify.com/album/7745vTDBPHucOrTZ8OOhh6"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 187783,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/767Lvz98OdXrwJmR37w8ge"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "La Joya",
-        "url": "https://open.spotify.com/album/0Su53HgEKsJ2q9CchXKoYD"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 232965,
-      "name": "Colores Alegres",
-      "url": "https://open.spotify.com/track/4bHsVBo4y4pdYNZg7OO6Sw"
     },
     {
       "added_at": "2023-10-06 06:00:00",

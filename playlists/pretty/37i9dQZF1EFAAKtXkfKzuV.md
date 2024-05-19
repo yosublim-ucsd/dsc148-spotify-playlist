@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 63 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 64 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 24 | [If This Ain't Love](https://open.spotify.com/track/7oBIOtw4TmPPEHB9mxnfoS) | [LOFLY](https://open.spotify.com/artist/6Nq0fa6pYLroAcMDPenPsk), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [If This Ain't Love](https://open.spotify.com/album/54f7eAbmDVQTMCv7XMikTL) | 2:18 |
 | 25 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
 | 26 | [Patience](https://open.spotify.com/track/6KOUe5ChPxS3CCXhwfdcAc) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ) | [Change](https://open.spotify.com/album/3eVo6FsmJqf8yooeCUiJFC) | 2:49 |
-| 27 | [Moonlight](https://open.spotify.com/track/5KrBTqQJlYtKyn3JU3MXOA) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Moonlight](https://open.spotify.com/album/44RntYU90KXg2eCH9zj9Lq) | 2:20 |
-| 28 | [Gewissenlos](https://open.spotify.com/track/5ggxyRAcTN1PFVNGgw4wmM) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:00 |
+| 27 | [Gewissenlos](https://open.spotify.com/track/5ggxyRAcTN1PFVNGgw4wmM) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:00 |
+| 28 | [Moonlight](https://open.spotify.com/track/5KrBTqQJlYtKyn3JU3MXOA) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Moonlight](https://open.spotify.com/album/44RntYU90KXg2eCH9zj9Lq) | 2:20 |
 | 29 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
 | 30 | [Guilty](https://open.spotify.com/track/1acexIzypi1joCwS2hbkiY) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/4a8rIXcOFlaNyvXKoO9GOQ) | 2:17 |
 | 31 | [Heart Never Broke](https://open.spotify.com/track/4LfuwwWPuYzZ2vxnHK2cog) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Heart Never Broke](https://open.spotify.com/album/5wpqFQLm7lBr8HNVWq7m6q) | 2:38 |
@@ -63,13 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 53 | [Was zu verlieren](https://open.spotify.com/track/1WTCA1SufiRLvmWo528Yzf) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:28 |
 | 54 | [Help Me Remember \(feat\. Dyson\)](https://open.spotify.com/track/0eAHSsGHWWXcNl9cOad785) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Letters To Remember](https://open.spotify.com/album/5ewnC9DmcClqT2cqKvvNCe) | 2:47 |
 | 55 | [Not Together, Together](https://open.spotify.com/track/6Yhly15am79BzKhAHSEqcI) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Not Together, Together](https://open.spotify.com/album/0o9FIqLRuDzmSeHkwr5QkN) | 2:42 |
-| 56 | [Roter Faden](https://open.spotify.com/track/2BPcjLnDQJRjWpE9ZVpBbU) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Im Augenblick](https://open.spotify.com/album/3jRxbPw4QFookuslpPgygA) | 2:39 |
-| 57 | [I Tried](https://open.spotify.com/track/3QSogFXUWdiZ2akyXQQpWI) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Watching You \- EP](https://open.spotify.com/album/3ZMFWfliUQROBkFP5oPBWa) | 3:07 |
-| 58 | [Version von mir](https://open.spotify.com/track/5bUwD8idvi8RpRF4Yuewbk) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 |
-| 59 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 |
-| 60 | [miss you](https://open.spotify.com/track/2p5PjL2TLhongka8qsHTco) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [this is iggy](https://open.spotify.com/album/0kyjMpCVzimrmEspVwx8TX) | 2:29 |
-| 61 | [My Fault](https://open.spotify.com/track/1YcoVVvOeJRCPD8P7zvvmX) | [Jenna Lotti](https://open.spotify.com/artist/7dIm02RDiyp2Nmdsx4H8Gc) | [My Fault](https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL) | 1:57 |
-| 62 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
-| 63 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
+| 56 | [Not There Yet](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Not There Yet](https://open.spotify.com/album/6xBMreivdSXzUr2Mbotv7E) | 2:14 |
+| 57 | [Roter Faden](https://open.spotify.com/track/2BPcjLnDQJRjWpE9ZVpBbU) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Im Augenblick](https://open.spotify.com/album/3jRxbPw4QFookuslpPgygA) | 2:39 |
+| 58 | [I Tried](https://open.spotify.com/track/3QSogFXUWdiZ2akyXQQpWI) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Watching You \- EP](https://open.spotify.com/album/3ZMFWfliUQROBkFP5oPBWa) | 3:07 |
+| 59 | [Version von mir](https://open.spotify.com/track/5bUwD8idvi8RpRF4Yuewbk) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 |
+| 60 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 |
+| 61 | [miss you](https://open.spotify.com/track/2p5PjL2TLhongka8qsHTco) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [this is iggy](https://open.spotify.com/album/0kyjMpCVzimrmEspVwx8TX) | 2:29 |
+| 62 | [My Fault](https://open.spotify.com/track/1YcoVVvOeJRCPD8P7zvvmX) | [Jenna Lotti](https://open.spotify.com/artist/7dIm02RDiyp2Nmdsx4H8Gc) | [My Fault](https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL) | 1:57 |
+| 63 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
+| 64 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AbRmrAAAAABuPsmlNmXc89fI04IiffHM`
+Snapshot ID: `AbRsTAAAAADR9P9srrJAfdpCduLb6hOc`

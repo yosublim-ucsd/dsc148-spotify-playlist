@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-2,705 songs - 6 day 0 hr 14 min
+2,707 songs - 6 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,7 +784,8 @@
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-05-16 | 2023-05-19 |
 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 | 2023-02-28 | 2023-03-15 |
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-10-31 | 2023-11-22 |
-| [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 | 2024-04-06 |  |
+| [Figure It Out](https://open.spotify.com/track/4rHsZed1xDsqr92JPLlxxo) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian](https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x) | 1:34 | 2024-05-18 |  |
+| [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 | 2024-04-06 | 2024-05-19 |
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-02-07 | 2023-02-22 |
 | [Fine](https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Fine](https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg) | 2:30 | 2022-10-11 | 2023-01-18 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-03-29 | 2022-05-04 |
@@ -801,7 +802,7 @@
 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2023-12-26 | 2024-02-14 |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-10-24 | 2023-11-01 |
 | [Fisherrr](https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr](https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI) | 3:56 | 2024-03-27 | 2024-04-28 |
-| [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 | 2024-04-27 |  |
+| [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 | 2024-04-27 | 2024-05-19 |
 | [Five Nights at Freddy's](https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Five Nights at Freddy's](https://open.spotify.com/album/1dq5N7M7pxFso51oa79BTI) | 2:45 | 2023-10-29 | 2023-11-14 |
 | [Five Nights at Freddy's](https://open.spotify.com/track/0DdYEWziPqBCMFniUUEF0G) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Five Nights at Freddy's \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01KywY7C5p1Vv2BNyKci34) | 2:16 | 2023-11-15 | 2023-11-29 |
 | [Flex](https://open.spotify.com/track/5cD0SQXZshc0DLmfVFaT8v) | [Piff Marti](https://open.spotify.com/artist/4yJPiziKjwvjKUnsnsOixM) | [Flex](https://open.spotify.com/album/7kyn9TqffJenfvItf0KqUY) | 2:27 | 2022-05-09 | 2022-05-23 |
@@ -930,6 +931,7 @@
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-10-10 | 2023-10-15 |
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-10-14 | 2023-10-25 |
 | [Grand Slam](https://open.spotify.com/track/0Z2LsEV0DSI9u7lr6XRDxR) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Grand Slam](https://open.spotify.com/album/2AULzRNSBebiwnKELoVxHV) | 1:59 | 2024-05-06 | 2024-05-15 |
+| [Grand Slam](https://open.spotify.com/track/4Cp8qjyEzCAkUBlfCz9mam) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian](https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x) | 1:59 | 2024-05-18 |  |
 | [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-02-14 | 2023-02-17 |
 | [Granite](https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/35zx0t2picyGskSU3QceVr) | 3:45 | 2023-02-16 | 2023-03-15 |
 | [Granite](https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:45 | 2023-05-24 | 2023-05-30 |

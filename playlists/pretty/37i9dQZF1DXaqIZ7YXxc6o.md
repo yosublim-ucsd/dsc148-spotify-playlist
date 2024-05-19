@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Baauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,621 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,630 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 9 | [Nirvana](https://open.spotify.com/track/6UORRBZMfhTpqQRQy9TBwP) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf), [CLUBWRK](https://open.spotify.com/artist/1SBbv5nJw69OqrklyYaaWg) | [Nirvana](https://open.spotify.com/album/596QDlYgrp1C3l1NzSBW8A) | 2:30 |
 | 10 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 |
 | 11 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 |
-| 12 | [Storm \(With Nooky\)](https://open.spotify.com/track/5gpV9T2fp9wvAQMwLhsFtg) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Nooky](https://open.spotify.com/artist/5CCyr43Q4JJ85Cz6Ln28gs) | [Storm \(With Nooky\)](https://open.spotify.com/album/40Jvuvbk4ZouJr6qU7MWWZ) | 3:55 |
+| 12 | [STORM \(With Nooky\)](https://open.spotify.com/track/5gpV9T2fp9wvAQMwLhsFtg) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Nooky](https://open.spotify.com/artist/5CCyr43Q4JJ85Cz6Ln28gs) | [STORM \(With Nooky\)](https://open.spotify.com/album/40Jvuvbk4ZouJr6qU7MWWZ) | 3:55 |
 | 13 | [I WOZ HOME](https://open.spotify.com/track/3CHUA6wInWJtRStWosd0am) | [BLVTH](https://open.spotify.com/artist/4blNBKcFhLQ0rhwAe4JQ1e), [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [YIN YANG](https://open.spotify.com/album/4rki27oL9zztufmroF5imS) | 2:05 |
 | 14 | [Light](https://open.spotify.com/track/2KFxQFG0DWSQ4GPw8InpUL) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Light](https://open.spotify.com/album/3LjR2gCeVeFzoOV6DK7qZQ) | 3:15 |
 | 15 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 |

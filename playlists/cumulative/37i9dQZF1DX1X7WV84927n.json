@@ -569,6 +569,28 @@
     },
     {
       "album": {
+        "name": "ANGEL SONG (feat. David Draiman)",
+        "url": "https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "David Draiman",
+          "url": "https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186905,
+      "name": "ANGEL SONG (feat. David Draiman)",
+      "url": "https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9"
+    },
+    {
+      "album": {
         "name": "Angels Landing",
         "url": "https://open.spotify.com/album/7xsDnMioueCDm9yn5EVuUn"
       },
@@ -2314,7 +2336,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 220591,
       "name": "DAHLIA",
       "url": "https://open.spotify.com/track/4vgPAXTYnTEjk7zevnYNKv"
@@ -2566,7 +2588,7 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         },
         {
-          "name": "Bert McCracken",
+          "name": "robbietheused",
           "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
         }
       ],
@@ -5850,7 +5872,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 221060,
       "name": "Incinerator",
       "url": "https://open.spotify.com/track/3uAdXOqP7pbGh2eCJuGhd1"
@@ -6777,6 +6799,24 @@
     },
     {
       "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219346,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
+    },
+    {
+      "album": {
         "name": "Lord Of Chaos",
         "url": "https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s"
       },
@@ -7110,6 +7150,24 @@
       "duration_ms": 167454,
       "name": "Medicate Me",
       "url": "https://open.spotify.com/track/1EusMjYm7PZftlZn87vPWE"
+    },
+    {
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165868,
+      "name": "MEDZ",
+      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
     },
     {
       "album": {
@@ -8874,6 +8932,24 @@
       "duration_ms": 236953,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w"
+    },
+    {
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198748,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
     },
     {
       "album": {
@@ -11972,7 +12048,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 231204,
       "name": "Tired Of Lying",
       "url": "https://open.spotify.com/track/1ipYgQ1THFKqTBH5D5Cg25"
@@ -11994,7 +12070,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 259946,
       "name": "To The Dance Floor For Shelter",
       "url": "https://open.spotify.com/track/56Vtx5Pdhg0sgmbczxJ5b5"
@@ -12068,6 +12144,24 @@
       "duration_ms": 261644,
       "name": "Tohu Bohu",
       "url": "https://open.spotify.com/track/7DB9ke3uWGxz0ecs1pzhoD"
+    },
+    {
+      "album": {
+        "name": "TOMBSTONE",
+        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "TOMBSTONE",
+      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
     },
     {
       "album": {
@@ -12260,7 +12354,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 252000,
       "name": "Under The Skin",
       "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
@@ -13796,7 +13890,7 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         },
         {
-          "name": "Bert McCracken",
+          "name": "robbietheused",
           "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
         }
       ],

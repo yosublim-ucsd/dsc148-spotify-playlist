@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "Deb\u00ed decir que no",
+        "url": "https://open.spotify.com/album/5o9IDJby9JX093elzIItHT"
+      },
+      "artists": [
+        {
+          "name": "Jet Rodeo",
+          "url": "https://open.spotify.com/artist/1itxF65N0tWoPtKPWhTjBM"
+        },
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221654,
+      "name": "Deb\u00ed decir que no",
+      "url": "https://open.spotify.com/track/6MFp3LAgfCKFKmpNllLI3K"
+    },
+    {
+      "album": {
         "name": "Un D\u00eda Nuevo",
         "url": "https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY"
       },

@@ -488,7 +488,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 200000,
       "name": "Bailo Pa' M\u00ed",
       "url": "https://open.spotify.com/track/3tpnKVGsD8uX8osFIpXuGs"
@@ -2104,6 +2104,28 @@
       "duration_ms": 210461,
       "name": "Guajira",
       "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
+    },
+    {
+      "album": {
+        "name": "Guapachosa",
+        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Guapachosa",
+      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
     },
     {
       "album": {

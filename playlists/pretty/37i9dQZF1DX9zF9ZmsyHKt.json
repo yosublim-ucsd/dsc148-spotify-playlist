@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 328455,
+  "num_followers": 328466,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "O Que Voc\u00ea Quer Saber de Verdade",
-        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Ainda Bem",
-      "url": "https://open.spotify.com/track/43BCxznTSBLcXzu4lJ8KW5"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "O Tempo \u00c9 Agora",
         "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 220566,
       "name": "Ai, Amor",
       "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "O Que Voc\u00ea Quer Saber de Verdade",
+        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Ainda Bem",
+      "url": "https://open.spotify.com/track/43BCxznTSBLcXzu4lJ8KW5"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Z\u00e9lia Duncan",
         "url": "https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 170800,
       "name": "Catedral",
       "url": "https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sorriso Aberto",
-        "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
-      },
-      "artists": [
-        {
-          "name": "Jovelina Perola Negra",
-          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
-        }
-      ],
-      "duration_ms": 276426,
-      "name": "Sorriso Aberto",
-      "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Frevo Mulher",
         "url": "https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 241093,
       "name": "Frevo Mulher",
       "url": "https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sorriso Aberto",
+        "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
+      },
+      "artists": [
+        {
+          "name": "Jovelina Perola Negra",
+          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
+        }
+      ],
+      "duration_ms": 276426,
+      "name": "Sorriso Aberto",
+      "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "LoveSong",
+        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 142268,
+      "name": "LoveSong",
+      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Sol e Mar, Vol. 2",
         "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 193004,
       "name": "JBL",
       "url": "https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "LoveSong",
-        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 142268,
-      "name": "LoveSong",
-      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Tropix",
-        "url": "https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "Varanda Suspensa",
-      "url": "https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Falei de voc\u00ea pra minha m\u00e3e",
         "url": "https://open.spotify.com/album/1n9846xOm1ExjM92ZL4RL8"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 162929,
       "name": "Falei de voc\u00ea pra minha m\u00e3e",
       "url": "https://open.spotify.com/track/33b5dsChMBIwsSwMqYm0wZ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Tropix",
+        "url": "https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "Varanda Suspensa",
+      "url": "https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum"
     },
     {
       "added_at": "2022-10-07 03:01:33",

@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
-  "num_followers": 83401,
+  "num_followers": 83415,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 214850,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/3ibXZkzvCPZ6lWbfubSolQ"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 214850,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Nicely",
         "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 189115,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1huNgVKuv17Ay4K2AXzXqa"
+      },
+      "artists": [
+        {
+          "name": "Blake Proehl",
+          "url": "https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO"
+        }
+      ],
+      "duration_ms": 205114,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5UZA60oOUECRdAhA9KNG60"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "So Much To Say (Pt. III)",
         "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 164542,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1huNgVKuv17Ay4K2AXzXqa"
-      },
-      "artists": [
-        {
-          "name": "Blake Proehl",
-          "url": "https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO"
-        }
-      ],
-      "duration_ms": 205114,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5UZA60oOUECRdAhA9KNG60"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/5gSJCn1pRrda6kv5EPQIyB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 209045,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/0Msp58EKLK7rxTbwQewtdC"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "Captured (with Trulah)",
         "url": "https://open.spotify.com/album/4tk3i1oLFGMjC9shHslFTp"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 312307,
       "name": "Captured - with Trulah",
       "url": "https://open.spotify.com/track/2E0HUOrgjtVfMYCeKw9ZoQ"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "Misunderstood",
-        "url": "https://open.spotify.com/album/5gSJCn1pRrda6kv5EPQIyB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 209045,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/0Msp58EKLK7rxTbwQewtdC"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Peace Over Anxiety",
+        "url": "https://open.spotify.com/album/7K4cdHFnPlcNBMkQbWCkxC"
+      },
+      "artists": [
+        {
+          "name": "Savannah Locke",
+          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Peace Over Anxiety",
+      "url": "https://open.spotify.com/track/1EiyEqsOHVi2VXtvX0Qq6D"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv"
       },
@@ -1603,30 +1619,6 @@
       "duration_ms": 223524,
       "name": "NOW",
       "url": "https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "Never Abandoned You (Acoustic)",
-        "url": "https://open.spotify.com/album/11THsrkGDPzKiFwEpJ7iiZ"
-      },
-      "artists": [
-        {
-          "name": "Meyta",
-          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
-        },
-        {
-          "name": "Cole Swensen",
-          "url": "https://open.spotify.com/artist/2Hhs5G5jxtbxhOUzm32YxR"
-        },
-        {
-          "name": "Emily Mohrman",
-          "url": "https://open.spotify.com/artist/6J4nTCtUs0u1jZrqhNwPF9"
-        }
-      ],
-      "duration_ms": 248307,
-      "name": "Never Abandoned You - Acoustic Version",
-      "url": "https://open.spotify.com/track/7bows2EMDBOfbuqS3pBF5o"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1663,6 +1655,30 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Never Abandoned You (Acoustic)",
+        "url": "https://open.spotify.com/album/11THsrkGDPzKiFwEpJ7iiZ"
+      },
+      "artists": [
+        {
+          "name": "Meyta",
+          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
+        },
+        {
+          "name": "Cole Swensen",
+          "url": "https://open.spotify.com/artist/2Hhs5G5jxtbxhOUzm32YxR"
+        },
+        {
+          "name": "Emily Mohrman",
+          "url": "https://open.spotify.com/artist/6J4nTCtUs0u1jZrqhNwPF9"
+        }
+      ],
+      "duration_ms": 248307,
+      "name": "Never Abandoned You - Acoustic Version",
+      "url": "https://open.spotify.com/track/7bows2EMDBOfbuqS3pBF5o"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "START AGAIN",
         "url": "https://open.spotify.com/album/5JSKAiL91po3N9ondgSFY1"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 181944,
       "name": "START AGAIN",
       "url": "https://open.spotify.com/track/52Vy5fDKlXOzCLzguIyOkT"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "Peace Over Anxiety",
-        "url": "https://open.spotify.com/album/7K4cdHFnPlcNBMkQbWCkxC"
-      },
-      "artists": [
-        {
-          "name": "Savannah Locke",
-          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Peace Over Anxiety",
-      "url": "https://open.spotify.com/track/1EiyEqsOHVi2VXtvX0Qq6D"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Veil",
-        "url": "https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol"
-      },
-      "artists": [
-        {
-          "name": "Tobi Adey",
-          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
-        }
-      ],
-      "duration_ms": 236667,
-      "name": "Lift Me",
-      "url": "https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/1eNFSWubs0WkDEme69zu4j"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 160941,
       "name": "Good God",
       "url": "https://open.spotify.com/track/5j9qyTzGm87m41stQi6i4w"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Veil",
+        "url": "https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol"
+      },
+      "artists": [
+        {
+          "name": "Tobi Adey",
+          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
+        }
+      ],
+      "duration_ms": 236667,
+      "name": "Lift Me",
+      "url": "https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/0ZMC35dN3tfvrgD19tA3mt"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/2wNRIrTy0HPWNziz0S4qp4"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Can I Get a Witness",
         "url": "https://open.spotify.com/album/3SGtDcEbFg8ilsXmwEs1RM"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 189941,
       "name": "Restless",
       "url": "https://open.spotify.com/track/7hjnTV6828YbUjZJ3TGfUS"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/0ZMC35dN3tfvrgD19tA3mt"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/2wNRIrTy0HPWNziz0S4qp4"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "More of You",
-        "url": "https://open.spotify.com/album/2rJNkjLikHU9wxVt59h9fA"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
       },
       "artists": [
         {
-          "name": "Chandler Letner",
-          "url": "https://open.spotify.com/artist/2ArkBVGieVsFCjv7XS589P"
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
         }
       ],
-      "duration_ms": 261818,
-      "name": "More of You",
-      "url": "https://open.spotify.com/track/11Ij9r73c1bIwqwQ5zruZD"
+      "duration_ms": 195034,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4u7R5vQA7ahPBeDclxLcof"
+        "name": "More of You",
+        "url": "https://open.spotify.com/album/2rJNkjLikHU9wxVt59h9fA"
       },
       "artists": [
         {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+          "name": "Chandler Letner",
+          "url": "https://open.spotify.com/artist/2ArkBVGieVsFCjv7XS589P"
         }
       ],
-      "duration_ms": 195034,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/7aV3ibwH3k0aAd3GgSbB0I"
+      "duration_ms": 261818,
+      "name": "More of You",
+      "url": "https://open.spotify.com/track/11Ij9r73c1bIwqwQ5zruZD"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -2239,26 +2239,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Carried",
-        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 137223,
-      "name": "Carried",
-      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "who am i?",
         "url": "https://open.spotify.com/album/4EGPWSYyl05FB6JqMromvO"
       },
@@ -2311,6 +2291,42 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Carried",
+        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 137223,
+      "name": "Carried",
+      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "burning roses",
+        "url": "https://open.spotify.com/album/7yHSF0unveiLFVbH5LzRJT"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "burning roses",
+      "url": "https://open.spotify.com/track/1ur0UApzybGEhxpHzdCy2S"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4"
       },
@@ -2347,22 +2363,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "burning roses",
-        "url": "https://open.spotify.com/album/7yHSF0unveiLFVbH5LzRJT"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "burning roses",
-      "url": "https://open.spotify.com/track/1ur0UApzybGEhxpHzdCy2S"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Headfirst",
         "url": "https://open.spotify.com/album/15Z76iMILaxea4yJkCkdLS"
       },
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 144574,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Love With A Crown",
         "url": "https://open.spotify.com/album/6pXR9aK9gsmGCJ0bGe6GIE"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 195986,
       "name": "Love with a Crown",
       "url": "https://open.spotify.com/track/15bKbuJJpONaikCvZPIsGz"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 144574,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Let A Little Light In",
-        "url": "https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 258980,
-      "name": "Let A Little Light In",
-      "url": "https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "honestly",
         "url": "https://open.spotify.com/album/1SeuTEIP5GPOmQWHgH8vuc"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 167741,
       "name": "honestly",
       "url": "https://open.spotify.com/track/39Oza9lQutyyjBIeXc8Osv"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Let A Little Light In",
+        "url": "https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 258980,
+      "name": "Let A Little Light In",
+      "url": "https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -2679,22 +2679,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Song Of Victory",
-        "url": "https://open.spotify.com/album/2eXAQQqcOQXzk53Q4qT8Ti"
-      },
-      "artists": [
-        {
-          "name": "Jack Cassidy",
-          "url": "https://open.spotify.com/artist/4mkHQk6HAQc82NESFcw4bs"
-        }
-      ],
-      "duration_ms": 250263,
-      "name": "Song Of Victory",
-      "url": "https://open.spotify.com/track/0SpUmGswitajAi8UBshRqD"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/7vUvBevQvFFcFJhLN2VNnM"
       },
@@ -2707,6 +2691,22 @@
       "duration_ms": 184816,
       "name": "Pray",
       "url": "https://open.spotify.com/track/0AcGzTpohxYqE0y2vn8vwy"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Song Of Victory",
+        "url": "https://open.spotify.com/album/2eXAQQqcOQXzk53Q4qT8Ti"
+      },
+      "artists": [
+        {
+          "name": "Jack Cassidy",
+          "url": "https://open.spotify.com/artist/4mkHQk6HAQc82NESFcw4bs"
+        }
+      ],
+      "duration_ms": 250263,
+      "name": "Song Of Victory",
+      "url": "https://open.spotify.com/track/0SpUmGswitajAi8UBshRqD"
     }
   ],
   "unique_name": "Indie Spirit",

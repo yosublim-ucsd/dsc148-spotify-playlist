@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "1000CANCIONES",
+      "url": "https://open.spotify.com/track/4TUu0QxrNe0Mz6RMVoMda1"
+    },
+    {
+      "album": {
         "name": "10:10",
         "url": "https://open.spotify.com/album/7b2yJGGSgLWMENS1LROLaN"
       },
@@ -868,7 +890,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 142235,
       "name": "a new star (2 0 2 4)",
       "url": "https://open.spotify.com/track/1IqkIEAKwZknVHpxjT7Vbq"
@@ -5932,7 +5954,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 120000,
       "name": "BUNKER/PREROLL",
       "url": "https://open.spotify.com/track/4nPeNi0XkuoYcuIshqcYVn"
@@ -6098,6 +6120,28 @@
       "duration_ms": 216346,
       "name": "BYAK",
       "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
+    },
+    {
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "BYAK",
+      "url": "https://open.spotify.com/track/6zMWAKMDVH1uHHDOrm2RdL"
     },
     {
       "album": {
@@ -14050,7 +14094,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -21003,6 +21047,24 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "LENTITO",
+      "url": "https://open.spotify.com/track/5cqeTJhPAfHU4ROwcgG5L4"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb"
       },
@@ -21522,7 +21584,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 152721,
       "name": "lo que no sabes",
       "url": "https://open.spotify.com/track/0G8bu5RzbQv3krzlWIBQah"
@@ -21548,7 +21610,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 259200,
       "name": "Lo Que Tiene",
       "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
@@ -22168,6 +22230,24 @@
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "album": {
@@ -23314,7 +23394,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 164365,
       "name": "Martini",
       "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
@@ -24626,7 +24706,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 237605,
       "name": "Mi peor enemigo",
       "url": "https://open.spotify.com/track/2icnkjMudyHcjCHbxvYo2l"
@@ -26670,7 +26750,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
@@ -30739,6 +30819,24 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165386,
+      "name": "PLN",
+      "url": "https://open.spotify.com/track/3T3kxmb4QWwrnzoa3eOakp"
+    },
+    {
+      "album": {
         "name": "PLN",
         "url": "https://open.spotify.com/album/5gPi0LEcwWMCg6WJEYpLUg"
       },
@@ -32475,6 +32573,24 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "RAMONA FLOWERS",
+      "url": "https://open.spotify.com/track/6cOjQjg8GRhLozpoyiqvfp"
+    },
+    {
+      "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
@@ -33942,6 +34058,24 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "album": {
+        "name": "Segundo Primer Amor",
+        "url": "https://open.spotify.com/album/5TOCkzQYYsiqwRLRD5VPOz"
+      },
+      "artists": [
+        {
+          "name": "Analu Dada",
+          "url": "https://open.spotify.com/artist/0mpt8ROBEshZB7HgURSRwx"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121290,
+      "name": "Segundo Primer Amor",
+      "url": "https://open.spotify.com/track/7d14TAxAo8pbXJSpxYVzyX"
     },
     {
       "album": {
@@ -44118,6 +44252,24 @@
       "duration_ms": 232253,
       "name": "Yo Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/0mGvaKpwLYoybnIoboC3uS"
+    },
+    {
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/5JHB8QusYhTWdRw2KJekj6"
     },
     {
       "album": {

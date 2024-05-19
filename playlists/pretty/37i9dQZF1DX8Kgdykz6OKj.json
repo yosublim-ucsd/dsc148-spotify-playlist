@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1278292,
+  "num_followers": 1278728,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "ARE WE STILL DREAMING?",
         "url": "https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ"
       },
@@ -359,22 +379,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Ziplock / Rich Don't Stop",
-        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Ziplock",
-      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Pertenecer",
         "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
       },
@@ -387,6 +391,22 @@
       "duration_ms": 207801,
       "name": "Pertenecer",
       "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Ziplock / Rich Don't Stop",
+        "url": "https://open.spotify.com/album/6b8FK7hZBmoR4GaaeFIqCk"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Ziplock",
+      "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -499,6 +519,30 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Metaphorical Music",
+        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        },
+        {
+          "name": "Pase Rock",
+          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
+      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Blowout Comb",
         "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
@@ -607,30 +651,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Metaphorical Music",
-        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
-        },
-        {
-          "name": "Pase Rock",
-          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
-      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Done By The Forces Of Nature",
         "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
       },
@@ -703,6 +723,46 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Sleep Is the Cousin of Death",
+        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Dephlow",
+          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 154837,
+      "name": "Street Jazz",
+      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "POETRY JAM (feat. Foggieraw)",
         "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
       },
@@ -747,30 +807,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Sleep Is the Cousin of Death",
-        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Dephlow",
-          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 154837,
-      "name": "Street Jazz",
-      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -811,22 +847,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Stand Tall",
-        "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 129498,
-      "name": "Stand Tall",
-      "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Figure Numatic",
         "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
       },
@@ -839,6 +859,22 @@
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Stand Tall",
+        "url": "https://open.spotify.com/album/2FUM8dpooyuVtEoWyLxwh8"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 129498,
+      "name": "Stand Tall",
+      "url": "https://open.spotify.com/track/4kia4JAVdfeMtCPrVoC5UH"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -875,26 +911,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "You Don\u2019t Know",
-        "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
+        "name": "Escape Music",
+        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
       },
       "artists": [
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
         },
         {
-          "name": "Rebel Kleff",
-          "url": "https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6"
-        },
-        {
-          "name": "Kiko Bun",
-          "url": "https://open.spotify.com/artist/7yMruV2Y0a7ib9RLj9mLQQ"
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
         }
       ],
-      "duration_ms": 250450,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+      "duration_ms": 223772,
+      "name": "Got Me Thinkin' (feat. Sparkz)",
+      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -919,22 +951,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Escape Music",
-        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+        "name": "You Don\u2019t Know",
+        "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
       "artists": [
         {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         },
         {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+          "name": "Rebel Kleff",
+          "url": "https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6"
+        },
+        {
+          "name": "Kiko Bun",
+          "url": "https://open.spotify.com/artist/7yMruV2Y0a7ib9RLj9mLQQ"
         }
       ],
-      "duration_ms": 223772,
-      "name": "Got Me Thinkin' (feat. Sparkz)",
-      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
+      "duration_ms": 250450,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -955,30 +991,6 @@
       "duration_ms": 201011,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
-        "url": "https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4"
-      },
-      "artists": [
-        {
-          "name": "Jay Exodus",
-          "url": "https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        }
-      ],
-      "duration_ms": 253590,
-      "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
-      "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1015,6 +1027,30 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
+        "url": "https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4"
+      },
+      "artists": [
+        {
+          "name": "Jay Exodus",
+          "url": "https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        }
+      ],
+      "duration_ms": 253590,
+      "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
+      "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1247,26 +1283,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Articuno",
-        "url": "https://open.spotify.com/album/5PoZ4iwuanehqnO2BZlPKM"
-      },
-      "artists": [
-        {
-          "name": "Ben Beal",
-          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
-        },
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Articuno",
-      "url": "https://open.spotify.com/track/6FvptLjpTE8ymMN8yHhL6e"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1283,6 +1299,26 @@
       "duration_ms": 135529,
       "name": "It's Nice Outside",
       "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Articuno",
+        "url": "https://open.spotify.com/album/5PoZ4iwuanehqnO2BZlPKM"
+      },
+      "artists": [
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        },
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Articuno",
+      "url": "https://open.spotify.com/track/6FvptLjpTE8ymMN8yHhL6e"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1499,22 +1535,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/07xQoYhMMM1fjl3y8eQPTo"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        }
-      ],
-      "duration_ms": 242093,
-      "name": "One",
-      "url": "https://open.spotify.com/track/2jZ7QU2zzb4upMpVXAm1nb"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "One of Those Feelings",
         "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
       },
@@ -1551,6 +1571,22 @@
       "duration_ms": 200775,
       "name": "Super Rare (feat. Hello O'Shay)",
       "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/07xQoYhMMM1fjl3y8eQPTo"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "duration_ms": 242093,
+      "name": "One",
+      "url": "https://open.spotify.com/track/2jZ7QU2zzb4upMpVXAm1nb"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1671,6 +1707,30 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Jazzmatazz: The New Reality",
+        "url": "https://open.spotify.com/album/4muPpXUkiFbHhEQG7OugQV"
+      },
+      "artists": [
+        {
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        },
+        {
+          "name": "iNi Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+        }
+      ],
+      "duration_ms": 259533,
+      "name": "Insert A (Mental Relaxation) / Medicine",
+      "url": "https://open.spotify.com/track/6xtJxtnu4IWDMOn824Dd7i"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "YHWH is LOVE",
         "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
       },
@@ -1715,30 +1775,6 @@
       "duration_ms": 221333,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Jazzmatazz: The New Reality",
-        "url": "https://open.spotify.com/album/4muPpXUkiFbHhEQG7OugQV"
-      },
-      "artists": [
-        {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
-        },
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        },
-        {
-          "name": "iNi Kamoze",
-          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
-        }
-      ],
-      "duration_ms": 259533,
-      "name": "Insert A (Mental Relaxation) / Medicine",
-      "url": "https://open.spotify.com/track/6xtJxtnu4IWDMOn824Dd7i"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1803,26 +1839,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Cosca",
-        "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        }
-      ],
-      "duration_ms": 116756,
-      "name": "Cosca",
-      "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Connection (Remix)",
         "url": "https://open.spotify.com/album/2GrNc5KugrKao4k6JPFwfY"
       },
@@ -1839,6 +1855,26 @@
       "duration_ms": 126666,
       "name": "Connection - Remix",
       "url": "https://open.spotify.com/track/3VKjKet2Tr9TRKyC6wJl8p"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Cosca",
+        "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "duration_ms": 116756,
+      "name": "Cosca",
+      "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1983,46 +2019,6 @@
       "duration_ms": 168000,
       "name": "Premium",
       "url": "https://open.spotify.com/track/4d2VRSpCPthFd4UUZdRVTf"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Evil Cute",
-        "url": "https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa"
-      },
-      "artists": [
-        {
-          "name": "Shunaji",
-          "url": "https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx"
-        }
-      ],
-      "duration_ms": 128914,
-      "name": "Evil Cute",
-      "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/2fmuNIYhWvhlYocZZJgMl7"
-      },
-      "artists": [
-        {
-          "name": "Revolutionary Rhythm",
-          "url": "https://open.spotify.com/artist/5d0FKWSfoD6MNcoevKzaV4"
-        },
-        {
-          "name": "Kid Abstrakt",
-          "url": "https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w"
-        },
-        {
-          "name": "Predominance",
-          "url": "https://open.spotify.com/artist/1BkTMajRH3wIlinOsyjn3i"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/7Et3XDHUjTjNs6CaUgpikz"
     }
   ],
   "unique_name": "Jazz Rap",

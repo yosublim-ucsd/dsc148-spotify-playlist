@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-19",
-  "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
+  "description": "This Is A Boogie Wit da Hoodie. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
   "name": "This Is A Boogie Wit da Hoodie",
   "tracks": [
     {
@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139840,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/2y5ufPCn1z5JRTWuUB2b4C"
+    },
+    {
+      "album": {
         "name": "Artist 2.0 (Deluxe)",
         "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
       },
@@ -240,10 +258,32 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 196618,
       "name": "Blood On My Denim",
       "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
+    },
+    {
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Body (feat. Cash Cobain)",
+      "url": "https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW"
     },
     {
       "album": {
@@ -276,7 +316,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 136973,
       "name": "Booby Trap",
       "url": "https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR"
@@ -390,7 +430,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 156511,
       "name": "Come Closer (feat. Queen Naija)",
       "url": "https://open.spotify.com/track/3UhRsQVrELOATEiY7E9X2T"
@@ -430,6 +470,24 @@
       "duration_ms": 166986,
       "name": "D.T.N.",
       "url": "https://open.spotify.com/track/2BVhDSkTX5YUIsgnAtoWsI"
+    },
+    {
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Dark King",
+      "url": "https://open.spotify.com/track/5UCsKE3UPS5kcRRbRVeI0F"
     },
     {
       "album": {
@@ -562,7 +620,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 158994,
       "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
@@ -646,7 +704,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 161120,
       "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
@@ -664,7 +722,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 235776,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ"
@@ -726,7 +784,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 231111,
       "name": "Head Melodies",
       "url": "https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK"
@@ -858,7 +916,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 135017,
       "name": "It's Crazy (feat. Melody)",
       "url": "https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH"
@@ -1052,7 +1110,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 157862,
       "name": "Love Drugs and Sex",
       "url": "https://open.spotify.com/track/1Gno5IBUHh6vUKp4nxu2Yd"
@@ -1088,7 +1146,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 161764,
       "name": "Me and My Guitar",
       "url": "https://open.spotify.com/track/6cZH4rX1KTt1aJ3Ql6Ynja"
@@ -1106,7 +1164,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 191861,
       "name": "Money Conversations",
       "url": "https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y"
@@ -1226,7 +1284,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 128156,
       "name": "My Shit",
       "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
@@ -1454,7 +1512,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 163655,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/14RRHdmfjGPhuWBhkl4Ne4"
@@ -1524,7 +1582,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 171938,
       "name": "Run It Up (feat. Sleepy Hallow & A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/1GjWE4T7qZNeIy1hgm98R9"
@@ -1560,7 +1618,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 133331,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
@@ -1850,7 +1908,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 185806,
       "name": "Tip Toe (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ"

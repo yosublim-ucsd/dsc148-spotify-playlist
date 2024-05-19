@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "This is Limp Bizkit. The essential tracks, all in one playlist.",
+  "description": "This Is Limp Bizkit. Los temas esenciales, todos en una lista.",
   "name": "This Is Limp Bizkit",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 166706,
       "name": "Break Stuff",
       "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 239160,
       "name": "I'm Broke",
       "url": "https://open.spotify.com/track/12IRA5MdLZL5hiBAPVRJpc"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 306226,
       "name": "It'll Be OK",
       "url": "https://open.spotify.com/track/5QYwIidpvmcqBWYx6hy8AT"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 354733,
       "name": "Re-Arranged",
       "url": "https://open.spotify.com/track/6IPJ7LeWIOhxPW8Sq3nIGc"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"

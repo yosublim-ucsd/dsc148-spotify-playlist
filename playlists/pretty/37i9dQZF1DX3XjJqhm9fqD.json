@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 87494,
+  "num_followers": 87544,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
         "name": "Liki Tiki",
         "url": "https://open.spotify.com/album/3HOMvaJTUweoeIdDEGGdQv"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 195000,
       "name": "Liki Tiki",
       "url": "https://open.spotify.com/track/0qv8QT3o58t8rt2iG20HU8"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
+        "name": "Ti Kabrit",
+        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 161717,
+      "name": "Ti Kabrit",
+      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
         "name": "Party Girls (feat. Buju Banton) [Micha\u00ebl Brun Dancehall Remix]",
         "url": "https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU"
       },
@@ -1047,38 +1063,6 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Ti Kabrit",
-        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 161717,
-      "name": "Ti Kabrit",
-      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
-        "name": "Premye Fwa",
-        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
-      },
-      "artists": [
-        {
-          "name": "DANOLA",
-          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Premye Fwa",
-      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
         "name": "Teke Fren",
         "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 177748,
       "name": "Teke Fren",
       "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
+        "name": "Premye Fwa",
+        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
+      },
+      "artists": [
+        {
+          "name": "DANOLA",
+          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Premye Fwa",
+      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
         "name": "Bizou",
         "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Thug Love",
-        "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
+        "name": "Vodoo Adjae",
+        "url": "https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
         }
       ],
-      "duration_ms": 188250,
-      "name": "Thug Love",
-      "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
+      "duration_ms": 574693,
+      "name": "Ke M Pa Sote",
+      "url": "https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1259,22 +1275,6 @@
       "duration_ms": 291120,
       "name": "A.k.i.ko.",
       "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
-        "name": "Vodoo Adjae",
-        "url": "https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 574693,
-      "name": "Ke M Pa Sote",
-      "url": "https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Bwa Kale",
-        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
-      },
-      "artists": [
-        {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        },
-        {
-          "name": "T-Babas",
-          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
-        }
-      ],
-      "duration_ms": 185965,
-      "name": "Bwa Kale",
-      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
       },
@@ -1351,26 +1331,54 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Sol\u00e8y",
-        "url": "https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r"
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
       },
       "artists": [
         {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        },
-        {
-          "name": "Maureen Boyer",
-          "url": "https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr"
-        },
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 284991,
-      "name": "HOLLOW.",
-      "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
+        "name": "Anthology, Vol. IV",
+        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
+      },
+      "artists": [
+        {
+          "name": "Tabou Combo",
+          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
+        }
+      ],
+      "duration_ms": 526373,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
+        "name": "Bwa Kale",
+        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
+      },
+      "artists": [
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        },
+        {
+          "name": "T-Babas",
+          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
+        }
+      ],
+      "duration_ms": 185965,
+      "name": "Bwa Kale",
+      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1407,34 +1415,26 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+        "name": "Sol\u00e8y",
+        "url": "https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
-        "name": "Anthology, Vol. IV",
-        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
-      },
-      "artists": [
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        },
         {
-          "name": "Tabou Combo",
-          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
+          "name": "Maureen Boyer",
+          "url": "https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr"
+        },
+        {
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
         }
       ],
-      "duration_ms": 526373,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
+      "duration_ms": 284991,
+      "name": "HOLLOW.",
+      "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1479,6 +1479,22 @@
       "duration_ms": 296666,
       "name": "Ogou (Pran Ka Mwen)",
       "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1603,38 +1619,6 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
-        "name": "Imitate",
-        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
-      },
-      "artists": [
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 200568,
-      "name": "Imitate",
-      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 190143,
       "name": "BIDIBAM",
       "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
+        "name": "Imitate",
+        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
+      },
+      "artists": [
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 200568,
+      "name": "Imitate",
+      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
     },
     {
       "added_at": "2024-04-16 14:38:31",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,613 songs - 5 day 18 hr 36 min
+2,615 songs - 5 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,7 +722,8 @@
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-05-16 | 2023-05-31 |
 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 | 2023-02-28 | 2023-03-15 |
 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 | 2023-10-31 | 2023-11-22 |
-| [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 | 2024-05-16 |  |
+| [Figure It Out](https://open.spotify.com/track/4rHsZed1xDsqr92JPLlxxo) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian](https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x) | 1:34 | 2024-05-18 |  |
+| [Figure It Out](https://open.spotify.com/track/1M2Fk3MPiaG0Rbdze5h3la) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/77ON91XcjMK9KUYnOMwS2q) | 1:34 | 2024-05-16 | 2024-05-19 |
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-04-04 | 2023-04-06 |
 | [Fine](https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Fine](https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg) | 2:30 | 2022-10-16 | 2022-11-30 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-08-04 | 2023-08-09 |
@@ -871,6 +872,7 @@
 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 | 2022-03-01 | 2022-03-09 |
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-10-10 | 2023-10-14 |
 | [Got Me Started](https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:18 | 2023-10-14 | 2023-10-18 |
+| [Grand Slam](https://open.spotify.com/track/4Cp8qjyEzCAkUBlfCz9mam) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian](https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x) | 1:59 | 2024-05-18 |  |
 | [Granite](https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/35zx0t2picyGskSU3QceVr) | 3:45 | 2023-02-17 | 2023-02-26 |
 | [GRAVITY \(FEAT\. TYLER, THE CREATOR\)](https://open.spotify.com/track/3zakx7RAwdkUQlOoQ7SJRt) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:34 | 2022-07-15 | 2022-07-17 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-07-19 |
@@ -1306,7 +1308,7 @@
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-04-18 | 2023-04-26 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-04-18 | 2023-04-26 |
 | [Like I Do](https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG) | [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ) | [Like I Do](https://open.spotify.com/album/4AT7V0zZ0B3xWDef7sPCyJ) | 2:29 | 2024-01-27 | 2024-02-14 |
-| [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-04-09 |  |
+| [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-04-09 | 2024-05-19 |
 | [Like That!](https://open.spotify.com/track/28ZwgrsyIbpX4diz92ACnm) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Like That!](https://open.spotify.com/album/3yye4vuTGdJWHqDHwxaTF6) | 2:49 | 2024-04-20 | 2024-05-01 |
 | [Like That!](https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Like That!](https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g) | 2:49 | 2024-04-16 | 2024-04-21 |
 | [Like You Mean It](https://open.spotify.com/track/27qo8wD02bPb4tbunUm8w8) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Like You Mean It](https://open.spotify.com/album/3qKgpfBcTIztyYMxoRzwFz) | 2:38 | 2024-02-05 | 2024-02-07 |

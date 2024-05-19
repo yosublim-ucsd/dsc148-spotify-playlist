@@ -4,7 +4,7 @@
 
 > This Is Herencia de Patrones\. Los temas esenciales, todos en una lista.
 
-62 songs - 3 hr 15 min
+63 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Its Over](https://open.spotify.com/track/36H3mjns9xZJAYOwj5qsM9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:43 | 2024-01-29 | 2024-02-15 |
 | [Jarabe Con Sprite](https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:26 | 2024-01-29 | 2024-02-19 |
 | [La Verdad](https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [La Verdad](https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA) | 2:21 | 2024-01-29 |  |
+| [LC Farmz](https://open.spotify.com/track/7yTBJsvM1cM1uQ4pkrrPGr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [LC Farmz](https://open.spotify.com/album/3g0RbWxKKblUCqujoPGCas) | 2:44 | 2024-05-19 |  |
 | [Llegue Pa Hacer Billetes](https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Oregel](https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO) | [Llegue Pa Hacer Billetes](https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt) | 3:31 | 2024-01-29 | 2024-03-19 |
 | [Lo Que Es](https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:22 | 2024-01-29 |  |
 | [Lo Que Pudo Ser](https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:33 | 2024-01-29 |  |

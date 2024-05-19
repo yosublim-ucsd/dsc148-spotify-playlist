@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 68240,
+  "num_followers": 68286,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZkaePAAAAACnW3lEZoR+WITj6XrMaXm8",
   "tracks": [
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148517,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
-    },
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -211,18 +211,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "Dealer",
+        "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 166956,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
+      "duration_ms": 180594,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -263,22 +267,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Dealer",
-        "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
       "artists": [
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 180594,
-      "name": "Dealer",
-      "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
+      "duration_ms": 166956,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/75c5cm8y5Fzb6aTZM3MOpN"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -435,30 +435,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 233571,
-      "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
-      "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
@@ -471,26 +447,6 @@
       "duration_ms": 166350,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -523,6 +479,50 @@
       "duration_ms": 285034,
       "name": "Wadibusa (feat. OHP Sage, Pcee, & Djy Biza)",
       "url": "https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 233571,
+      "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
+      "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -563,6 +563,34 @@
       "duration_ms": 143111,
       "name": "Twe Twe",
       "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Tshwala Bam (feat. S.N.E) [Remix]",
+        "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
+      },
+      "artists": [
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Tshwala Bam (feat. S.N.E) - Remix",
+      "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -719,6 +747,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -751,46 +795,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+        "name": "Rodo",
+        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Tshwala Bam (feat. S.N.E) [Remix]",
-        "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
-      },
-      "artists": [
-        {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
-        },
-        {
-          "name": "Yuppe",
-          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Tshwala Bam (feat. S.N.E) - Remix",
-      "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
+      "duration_ms": 143756,
+      "name": "Rodo",
+      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -835,6 +851,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
       },
@@ -859,22 +891,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Rodo",
-        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 143756,
-      "name": "Rodo",
-      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -891,38 +907,6 @@
       "duration_ms": 210194,
       "name": "Ololufe (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -947,22 +931,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+      "duration_ms": 152307,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1035,6 +1015,26 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Puff & Pass (Remix)",
         "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/5CQmHT9zoHQnwvfvP6tEYg"
       },
@@ -1111,22 +1095,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Rave & Roses (Ultra)",
-        "url": "https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Charm",
-      "url": "https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "STREET ANTHEM / 7 DAYS",
         "url": "https://open.spotify.com/album/3VzQebEG0O7rIklEQvUbwg"
       },
@@ -1139,26 +1107,6 @@
       "duration_ms": 154200,
       "name": "7 DAYS",
       "url": "https://open.spotify.com/track/4G5IYu1QYKo7DeSecKtNXA"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Masculine (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1183,6 +1131,54 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Rave & Roses (Ultra)",
+        "url": "https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Danger Zee",
         "url": "https://open.spotify.com/album/2TX0HjxPDTYVrHjbmKuD2k"
       },
@@ -1199,18 +1195,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
       "artists": [
         {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 154455,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
+      "duration_ms": 204880,
+      "name": "Masculine (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Disconnect + Go Hard",
-        "url": "https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Small Money",
         "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
       },
@@ -1283,18 +1267,34 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Pick Up",
-        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 156550,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Disconnect + Go Hard",
+        "url": "https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 156550,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "100 MILLION",
         "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
+      "duration_ms": 185739,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1371,22 +1387,6 @@
       "duration_ms": 155500,
       "name": "NYEM EGO (feat. Jeriq)",
       "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
     },
     {
       "added_at": "2024-05-17 00:01:00",

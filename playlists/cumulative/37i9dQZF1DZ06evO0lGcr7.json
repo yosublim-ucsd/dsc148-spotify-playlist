@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-03",
-  "description": "This is mxmtoon. The essential tracks, all in one playlist.",
+  "description": "This is mxmtoon. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is mxmtoon",
   "tracks": [
     {
@@ -110,6 +110,28 @@
       "duration_ms": 198640,
       "name": "asking for a friend",
       "url": "https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1"
+    },
+    {
+      "album": {
+        "name": "back from the dead",
+        "url": "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158060,
+      "name": "back from the dead (with mxmtoon)",
+      "url": "https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh"
     },
     {
       "album": {
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 212506,
       "name": "the sideline",
       "url": "https://open.spotify.com/track/1KqtqSDSN2TCmXS4kP32bw"

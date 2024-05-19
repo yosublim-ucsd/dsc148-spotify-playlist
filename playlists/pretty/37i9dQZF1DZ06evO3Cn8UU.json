@@ -1,12 +1,12 @@
 {
-  "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 34052,
+  "description": "This is Teddy Pendergrass. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 34062,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAB34OH7z34s0/b5jf386AsG",
+  "snapshot_id": "ZkaeAAAAAACpgQEo2vF8rk7W3l0cR5X2",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
-      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 231920,
       "name": "In My Time",
       "url": "https://open.spotify.com/track/4IB3mrQpsbQiJ8tOId1rlm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
+      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
       "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 279426,
-      "name": "To Be True (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
+      "duration_ms": 272773,
+      "name": "Cold, Cold World",
+      "url": "https://open.spotify.com/track/2JeGn2P5XAoyFegt3zfNIq"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
       "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 272773,
-      "name": "Cold, Cold World",
-      "url": "https://open.spotify.com/track/2JeGn2P5XAoyFegt3zfNIq"
+      "duration_ms": 210186,
+      "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truly Blessed",
         "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
       },
@@ -639,6 +619,22 @@
       "duration_ms": 279013,
       "name": "How Can You Mend a Broken Heart",
       "url": "https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 311933,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
     },
     {
       "added_at": null,
@@ -659,22 +655,6 @@
       "duration_ms": 449426,
       "name": "Be for Real (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2xxe3FVwBs4iBbPpcVJUlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 311933,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
     },
     {
       "added_at": null,
@@ -715,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 357333,
-      "name": "It's Time for Love",
-      "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teddy Pendergrass",
         "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
       },
@@ -743,6 +707,22 @@
       "duration_ms": 292560,
       "name": "Easy, Easy, Got To Take It Easy",
       "url": "https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 357333,
+      "name": "It's Time for Love",
+      "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
     },
     {
       "added_at": null,
@@ -783,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "I Can't Live Without Your Love",
-      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -811,6 +775,22 @@
       "duration_ms": 323546,
       "name": "Get Up, Get Down, Get Funky, Get Loose",
       "url": "https://open.spotify.com/track/53i3FnA4AZEZ8xfC4Rw6bB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "I Can't Live Without Your Love",
+      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
     },
     {
       "added_at": null,
@@ -891,6 +871,22 @@
       "duration_ms": 296906,
       "name": "You Can't Hide / You Can't Hide From Yourself (Touch of Class GMF Remix)",
       "url": "https://open.spotify.com/track/1mptorrisuiE0miwVYqW06"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven Only Knows",
+        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "I Want My Baby Back",
+      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
     }
   ],
   "unique_name": "This Is Teddy Pendergrass",

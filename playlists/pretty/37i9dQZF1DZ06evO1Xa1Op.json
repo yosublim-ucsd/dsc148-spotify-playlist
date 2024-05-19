@@ -1,12 +1,12 @@
 {
-  "description": "This is: Ali Farka Tour\u00e9. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 19784,
+  "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
+  "num_followers": 19790,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAABM26IqH5YbPJRZB59OHaVR",
+  "snapshot_id": "ZkaeAAAAAADt8p3JFm5zUtkrtRSgPmyj",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3XFCgzW3ZikK6wuajGQqMV"
+      "duration_ms": 197106,
+      "name": "Samba Geladio",
+      "url": "https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 197106,
-      "name": "Samba Geladio",
-      "url": "https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z"
+      "duration_ms": 138840,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3XFCgzW3ZikK6wuajGQqMV"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red & Green",
-        "url": "https://open.spotify.com/album/1unfmLA8C89Ay8uOVCEEyQ"
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 226880,
-      "name": "Green: Sidi Gouro",
-      "url": "https://open.spotify.com/track/45OnVsQZv5gc1LW4VMQwzy"
+      "duration_ms": 253226,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/1unfmLA8C89Ay8uOVCEEyQ"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 253226,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
+      "duration_ms": 226880,
+      "name": "Green: Sidi Gouro",
+      "url": "https://open.spotify.com/track/45OnVsQZv5gc1LW4VMQwzy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Fahimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,403 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,490 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 37 | [99](https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7) | 3:03 |
 | 38 | [Rasa Cinta](https://open.spotify.com/track/44iGMVHHZnGHCFRvBDqi3i) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Rasa Cinta](https://open.spotify.com/album/2MvVHoriOzq3WeVsKUhBYx) | 3:25 |
 | 39 | [Delulu](https://open.spotify.com/track/7GENXA5mHtCX9ZAzHTSPcm) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Delulu](https://open.spotify.com/album/4nan9Qu8HMGOuBJuu4hAdc) | 2:22 |
-| 40 | [Orang Yang Salah](https://open.spotify.com/track/6KRm2So5GG89uilaTpv4rL) | [Luvia band](https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a) | [Orang Yang Salah](https://open.spotify.com/album/1RBbHtYeLqhXOxFJ0BJdRa) | 4:38 |
+| 40 | [Orang Yang Salah](https://open.spotify.com/track/6KRm2So5GG89uilaTpv4rL) | [Luvia Band](https://open.spotify.com/artist/1Aasm1FvaXxp0QHsUa0FwZ) | [Orang Yang Salah](https://open.spotify.com/album/1RBbHtYeLqhXOxFJ0BJdRa) | 4:38 |
 | 41 | [Langit Yang Sama](https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama](https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ) | 4:05 |
 | 42 | [Terasa Ada](https://open.spotify.com/track/1VGVxZIHPiKh3Y4vZv6ChL) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Terasa Ada](https://open.spotify.com/album/0vYQ7xIaQQhh8fZAsbFSdf) | 4:02 |
 | 43 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |

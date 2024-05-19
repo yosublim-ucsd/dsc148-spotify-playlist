@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,603 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,802 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 95 | [Te Llame Borracho](https://open.spotify.com/track/3ZqYV9HnAVVdMB4TjO8RBx) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Te Llame Borracho](https://open.spotify.com/album/2y7qQImK0WUCdvYLAWpzoR) | 3:18 |
 | 96 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 |
 | 97 | [Sigo Fresh](https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [You're Welcome](https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ) | 3:09 |
-| 98 | [PARA SACARMELO \(prod\. OMAR VARELA\)](https://open.spotify.com/track/7vVBHIVPewg2rCkiSMFquc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:36 |
-| 99 | [Como Soy](https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G) | 5:12 |
+| 98 | [Como Soy](https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G) | 5:12 |
+| 99 | [PARA SACARMELO \(prod\. OMAR VARELA\)](https://open.spotify.com/track/7vVBHIVPewg2rCkiSMFquc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:36 |
 | 100 | [Viernes 13](https://open.spotify.com/track/1WRIN4Liz3nmoE5njV8aNO) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Viernes 13](https://open.spotify.com/album/40dw575mb3ge8Rz84fJlAs) | 3:04 |
 
 Snapshot ID: `Zes5ZgAAAAB4jE2BJsxb3hNsg5knePgD`

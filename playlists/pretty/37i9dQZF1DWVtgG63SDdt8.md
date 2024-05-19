@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,659 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,703 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 23 | [Particularly](https://open.spotify.com/track/5mAkFGshHceNUuw6GOwnz8) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Particularly](https://open.spotify.com/album/6wdvPGkqiUVd3vxtxBXzA1) | 3:08 |
 | 24 | [Church Hurt](https://open.spotify.com/track/4M9mHff1cJWomOFKVYmX63) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Church Hurt](https://open.spotify.com/album/49GvqGkhsCzPCWKhi452ZL) | 3:21 |
 | 25 | [Songs About Jesus](https://open.spotify.com/track/7BIpImnCKnk5PHVYRC9vfa) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Songs About Jesus](https://open.spotify.com/album/7oWHCY0bUwwvVvj2saT4UR) | 3:17 |
-| 26 | [God's Not Mad At You](https://open.spotify.com/track/3TqehKljRuTF2FYcORawr3) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [God's Not Mad At You](https://open.spotify.com/album/01lqkqxQB3H4fkNlYcpDyq) | 2:43 |
+| 26 | [God's Not Mad at You](https://open.spotify.com/track/3TqehKljRuTF2FYcORawr3) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [God's Not Mad at You](https://open.spotify.com/album/01lqkqxQB3H4fkNlYcpDyq) | 2:43 |
 | 27 | [This Is Not the End](https://open.spotify.com/track/1OficLwvViwXAclaeZWOfX) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [That's Who He Is](https://open.spotify.com/album/2VJiayqzVfy98yPFkkJuWz) | 3:48 |
 | 28 | [Somebody Say Amen](https://open.spotify.com/track/6Vwt1in82gTOatE0tO3sZM) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Somebody Say Amen](https://open.spotify.com/album/3uHEcChrWFhp5pFDfl3Jy2) | 2:54 |
 | 29 | [Obvious](https://open.spotify.com/track/720RxsY5ld3olcgY2rzhVM) | [Chandler Letner](https://open.spotify.com/artist/2ArkBVGieVsFCjv7XS589P) | [Obvious](https://open.spotify.com/album/5YhiiV33r9JuHxX8zedrhs) | 3:06 |

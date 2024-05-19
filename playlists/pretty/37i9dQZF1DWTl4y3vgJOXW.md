@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Anthony Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,265,314 likes - 92 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267,200 likes - 92 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

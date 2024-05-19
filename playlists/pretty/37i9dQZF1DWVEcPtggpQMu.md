@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW?si=5nzDloq6RvuXrbVc\_cDLNQ">Kiddo CSA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,613 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,667 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BABY JACKSON](https://open.spotify.com/track/6Y7t0IzxHdPAIbEVssTW6V) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [BABY JACKSON](https://open.spotify.com/album/4Hc4dP1qHW62OMcekMkPAp) | 2:06 |
-| 2 | [Amalanga \(feat\. Anzo\)](https://open.spotify.com/track/7tnq2E3TfEwXY2QegHfV2I) | [Kiddo CSA](https://open.spotify.com/artist/2qqLz1yakvHUg0QRzAY5WF), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [Amalanga \(feat\. Anzo\)](https://open.spotify.com/album/46TKYZNKng1jLSBarvKPm4) | 4:08 |
+| 2 | [Amalanga \(feat\. Anzo\)](https://open.spotify.com/track/7tnq2E3TfEwXY2QegHfV2I) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [Amalanga \(feat\. Anzo\)](https://open.spotify.com/album/46TKYZNKng1jLSBarvKPm4) | 4:08 |
 | 3 | [Cheque](https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Cheque](https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr) | 2:24 |
 | 4 | [Race](https://open.spotify.com/track/4XuI5vJYWazWdUe6dec2Zf) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [K\-Shine](https://open.spotify.com/artist/1c0v0T4NyzHDEk4JWD9Owr) | [Isibuko \(Deluxe\)](https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U) | 4:50 |
 | 5 | [On God](https://open.spotify.com/track/46hGl4NbQr1ZhLBSrOcmQx) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX) | [On God](https://open.spotify.com/album/2e05DnXVskws7fdHKL8Rzk) | 2:27 |

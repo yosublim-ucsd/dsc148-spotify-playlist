@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-167 songs - 7 hr 16 min
+168 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [MiMiMaMaMu](https://open.spotify.com/track/476dvxGAAmX276frToEqcy) | [Exile](https://open.spotify.com/artist/42rZstEQvY674V2GLw50XP), [STOPBAN](https://open.spotify.com/artist/65EH7lOIu7ZCy7Hlynm6Es), [DILBLIN](https://open.spotify.com/artist/4G9g3ebaBdoEKVKNn7t7ra) | [MiMiMaMaMu](https://open.spotify.com/album/4Ygq7DTs7xabVV97WKfAYG) | 3:04 | 2024-04-10 | 2024-04-12 |
 | [Miu Miu](https://open.spotify.com/track/71QJGJwpOwzpZEEinX345r) | [VisaGangBeatz](https://open.spotify.com/artist/5DlS0oWdN1UCcF7uiMzLuN), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Miu Miu](https://open.spotify.com/album/4mCdKqEsGhI7i7ZneWdQcC) | 2:21 | 2024-01-30 | 2024-02-01 |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-29 | 2024-04-06 |
+| [NARCOTIK](https://open.spotify.com/track/3kkA5knVG6LY5SsicXkNL1) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm) | [NARCOTIK](https://open.spotify.com/album/5J6ZJjNjEQgqjE2qzft6Ub) | 2:00 | 2024-05-18 |  |
 | [Never Broke Again](https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX) | [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [Never Broke Again](https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI) | 1:48 | 2024-03-10 |  |
 | [Not the same](https://open.spotify.com/track/6fc44ZlFFyTxX5FTMrpcIB) | [DIMA SP](https://open.spotify.com/artist/3V2y7WZiaDdH0lBDAXou8d), [favor](https://open.spotify.com/artist/2z2h9JKWPNVqjnfCFNlPEU) | [Not the same](https://open.spotify.com/album/4nfVHwiNX7Hn8gEBfhC0qk) | 2:17 | 2024-05-11 | 2024-05-14 |
 | [Ome Robert](https://open.spotify.com/track/4hFLAgCvQdngAtIhb3KaVI) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Albino](https://open.spotify.com/album/2X87EHKVeyoKrjMfaGpJfR) | 2:32 | 2024-05-17 |  |
@@ -58,7 +59,7 @@
 | [SAVE DAT](https://open.spotify.com/track/7l8Q5hVtKz2Ztold6N2gLh) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [SAVE DAT](https://open.spotify.com/album/5CrotczMtH0A2uHaCOPYb7) | 2:29 | 2024-03-23 | 2024-04-21 |
 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-04-16 |  |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 | 2024-02-21 |
-| [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2024-05-15 |  |
+| [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2024-05-15 | 2024-05-19 |
 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-02-16 | 2024-03-17 |
 | [Song 404](https://open.spotify.com/track/3xaNTJk9G0yoKkkjlkOYv5) | [7hvrdx](https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o) | [Song 404](https://open.spotify.com/album/1GPbNVvuhI1JSinBRNIUS9) | 2:45 | 2024-04-28 | 2024-05-04 |
 | [Song 404](https://open.spotify.com/track/4i65zW2W1sHvWjOQpl5hVe) | [7hvrdx](https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Song 404](https://open.spotify.com/album/3RcGBHZuXCRcPoajHshmJw) | 2:45 | 2024-05-03 |  |

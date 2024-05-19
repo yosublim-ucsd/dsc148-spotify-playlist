@@ -1,13 +1,29 @@
 {
-  "description": "This Is El de La Guitarra. Los temas esenciales, todos en una lista.",
-  "num_followers": 88552,
+  "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
+  "num_followers": 88578,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAABuQHkKc6w2QUcfHYtLzyYB",
+  "snapshot_id": "ZkaeAAAAAABvpVysc3ZejAzWktfGDxNF",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/0E0NF6LtPOz3ZejtCnAXnp"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 206701,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/5b7UcPpRAGQ8fc9d8jvq64"
+    },
     {
       "added_at": null,
       "album": {
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.4)",
-        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 138272,
-      "name": "Alex Valencia",
-      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
+      "duration_ms": 186261,
+      "name": "Se Oyen Recio Los Disparos",
+      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
     },
     {
       "added_at": null,
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
       },
       "artists": [
         {
@@ -520,9 +536,29 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 186261,
-      "name": "Se Oyen Recio Los Disparos",
-      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
+      "duration_ms": 138272,
+      "name": "Alex Valencia",
+      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Aqu\u00ed Para All\u00e1",
+        "url": "https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 216841,
+      "name": "De Aqu\u00ed Para All\u00e1",
+      "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
     },
     {
       "added_at": null,
@@ -547,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqu\u00ed Para All\u00e1",
-        "url": "https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q"
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 216841,
-      "name": "De Aqu\u00ed Para All\u00e1",
-      "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
+      "duration_ms": 206861,
+      "name": "Vida De Locura",
+      "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
     },
     {
       "added_at": null,
@@ -599,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
       },
       "artists": [
         {
@@ -608,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 206861,
-      "name": "Vida De Locura",
-      "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
+      "duration_ms": 120749,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
     },
     {
       "added_at": null,
@@ -647,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 120749,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vida De Jefe",
         "url": "https://open.spotify.com/album/5oaYRUViQpFhtJmvdmKNME"
       },
@@ -695,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 197247,
+      "name": "WAX",
+      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -723,22 +755,6 @@
       "duration_ms": 153289,
       "name": "JJ Es La Clave",
       "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 197247,
-      "name": "WAX",
-      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
     },
     {
       "added_at": null,

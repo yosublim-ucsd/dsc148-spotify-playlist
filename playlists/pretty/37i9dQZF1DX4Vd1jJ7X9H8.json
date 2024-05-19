@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 315781,
+  "num_followers": 315871,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,22 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        },
+        {
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
         }
       ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+      "duration_ms": 246266,
+      "name": "Peaceful Life",
+      "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
     },
     {
       "added_at": "2024-02-16 18:16:21",
@@ -515,22 +519,18 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
       },
       "artists": [
         {
-          "name": "Guts",
-          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
-        },
-        {
-          "name": "Lorine Chia",
-          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 246266,
-      "name": "Peaceful Life",
-      "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "added_at": "2024-02-16 18:16:21",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
+        "name": "Tetra",
+        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
+      },
+      "artists": [
+        {
+          "name": "C2C",
+          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/6IrbtLsuCh1AAnK5Br72lR"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 152181,
       "name": "Let's go to Hell",
       "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
-        "name": "Tetra",
-        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
-      },
-      "artists": [
-        {
-          "name": "C2C",
-          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Down The Road",
-      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
     }
   ],
   "unique_name": "Soir\u00e9e",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: NxWorries
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,657 likes - 76 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,659 likes - 76 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

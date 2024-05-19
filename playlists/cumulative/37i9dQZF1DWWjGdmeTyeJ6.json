@@ -73632,6 +73632,24 @@
     {
       "album": {
         "name": "NYC",
+        "url": "https://open.spotify.com/album/68LQAWu2yYJ09PiPSGh4rG"
+      },
+      "artists": [
+        {
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-03-21",
+      "duration_ms": 219680,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/0BdJW0Js73JMsJFyiRhDsf"
+    },
+    {
+      "album": {
+        "name": "NYC (with Lauren Weintraub)",
         "url": "https://open.spotify.com/album/1wYs67rvnvygkLLW4blXU5"
       },
       "artists": [
@@ -73648,26 +73666,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217280,
-      "name": "NYC",
+      "name": "NYC - with Lauren Weintraub",
       "url": "https://open.spotify.com/track/3VPGFbz6Wju25OndOKlBwd"
-    },
-    {
-      "album": {
-        "name": "NYC",
-        "url": "https://open.spotify.com/album/68LQAWu2yYJ09PiPSGh4rG"
-      },
-      "artists": [
-        {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
-        }
-      ],
-      "date_added": "2024-02-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
-      "duration_ms": 219680,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/0BdJW0Js73JMsJFyiRhDsf"
     },
     {
       "album": {

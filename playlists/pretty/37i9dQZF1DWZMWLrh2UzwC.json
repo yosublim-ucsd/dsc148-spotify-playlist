@@ -1,6 +1,6 @@
 {
   "description": "The best newly released songs of the week. Cover: BILLIE EILISH",
-  "num_followers": 60941,
+  "num_followers": 60947,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
@@ -575,21 +575,17 @@
     {
       "added_at": "2024-05-16 16:02:11",
       "album": {
-        "name": "Friends and Family (Denting) [with Melly Goeslaw]",
+        "name": "Friends and Family",
         "url": "https://open.spotify.com/album/1oGuWphCGDfZVjLYsScNL8"
       },
       "artists": [
         {
           "name": "Abe Hoed",
           "url": "https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y"
-        },
-        {
-          "name": "Melly Goeslaw",
-          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
         }
       ],
       "duration_ms": 168370,
-      "name": "Friends and Family (Denting) [with Melly Goeslaw]",
+      "name": "Friends and Family",
       "url": "https://open.spotify.com/track/55DUApDmxt7jRLCOjPcaAs"
     },
     {

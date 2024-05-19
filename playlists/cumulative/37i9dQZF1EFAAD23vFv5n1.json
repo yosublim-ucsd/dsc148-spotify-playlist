@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Scelte Sbagliate",
+        "url": "https://open.spotify.com/album/69N3eqTYOS0XO2H21bOU3S"
+      },
+      "artists": [
+        {
+          "name": "ISIDE",
+          "url": "https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178597,
+      "name": "Scelte Sbagliate",
+      "url": "https://open.spotify.com/track/0m2yFNIjmifqV4aJiYEaSK"
+    },
+    {
+      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: swetty
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,616 likes - 107 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,624 likes - 107 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 13 | [Swag](https://open.spotify.com/track/3lc4wRpHe4BsM8kSkrfoyv) | [Miyauchi](https://open.spotify.com/artist/3aj6QgNq3sqlvW2PvB3bCB) | [”The Mixtape”](https://open.spotify.com/album/2pvB77LnWsX2BCzG9vN3Wy) | 2:41 |
 | 14 | [黄色](https://open.spotify.com/track/7Lew3PsdlHJTsiYxIfkIL7) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [黄色](https://open.spotify.com/album/0TfaHWQ8E8hmEuVitvXE43) | 3:12 |
 | 15 | [s2000](https://open.spotify.com/track/4o5e4C8yItyb107bggqWfe) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [s2000](https://open.spotify.com/album/3HZopZsgwsotS6jhQeNsUa) | 2:42 |
-| 16 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5c6lWvTCMWDYRraVAEIm9G) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 |
+| 16 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 |
 | 17 | [aye aye aye](https://open.spotify.com/track/2RzPZJ71gGaEAn7SZIym1x) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [aye aye aye](https://open.spotify.com/album/1MIacxx1FTmgQNKMBcPqxJ) | 2:25 |
 | 18 | [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 |
 | 19 | [Air Life](https://open.spotify.com/track/7A9KmkPlvVdOIBHvACeJOq) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [Air Life](https://open.spotify.com/album/4QmOWv5uZvrcLfqUCeUIRz) | 2:46 |

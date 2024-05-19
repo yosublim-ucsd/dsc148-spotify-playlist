@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98481,
+  "num_followers": 98491,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZiEEdwAAAAA8cC37x+sTtz/AvZ1/BBZ6",
   "tracks": [
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "If U Need It",
+        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "If U Need It",
+      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
+    },
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 136000,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "If U Need It",
-        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "If U Need It",
-      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "V I B R A T I O N",
-        "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 169831,
-      "name": "V I B R A T I O N (w/ Shift K3Y)",
-      "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "BLACK WIDOW",
         "url": "https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 129289,
       "name": "BLACK WIDOW",
       "url": "https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "V I B R A T I O N",
+        "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 169831,
+      "name": "V I B R A T I O N (w/ Shift K3Y)",
+      "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -519,30 +519,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "What a Night",
-        "url": "https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "VAMERO",
-          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
-        },
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/7F7GWudunJXNKCIczRet5O"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "What a Night",
-      "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "On My Love (Hypaton Remix)",
         "url": "https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 191250,
       "name": "On My Love - Hypaton Remix",
       "url": "https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "What a Night",
+        "url": "https://open.spotify.com/album/203rSwQJ4j3HSbE0aoXRh0"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/7F7GWudunJXNKCIczRet5O"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "What a Night",
+      "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 167630,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "Mission Control",
         "url": "https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 136846,
       "name": "Mission Control",
       "url": "https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167630,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 183495,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Elektro",
-        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "Elektro",
-      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
       },
       "artists": [
         {
-          "name": "DJ YUKI",
-          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
-        },
-        {
-          "name": "Kate Wild",
-          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
         }
       ],
-      "duration_ms": 170039,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
+      "duration_ms": 154831,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
       },
       "artists": [
         {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+          "name": "DJ YUKI",
+          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
         }
       ],
-      "duration_ms": 154831,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
+      "duration_ms": 170039,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
       },
@@ -1627,26 +1647,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
       },
@@ -1663,26 +1663,6 @@
       "duration_ms": 162712,
       "name": "Got a Friend",
       "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Could You Be The One",
-        "url": "https://open.spotify.com/album/56VRXsZ7MUAz421NkITjmK"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Katy Alex",
-          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
-        }
-      ],
-      "duration_ms": 121750,
-      "name": "Could You Be The One",
-      "url": "https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1711,6 +1691,26 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Could You Be The One",
+        "url": "https://open.spotify.com/album/56VRXsZ7MUAz421NkITjmK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "duration_ms": 121750,
+      "name": "Could You Be The One",
+      "url": "https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/0f75aP4uE3xyqL3DMIBTZg"
       },
@@ -1723,6 +1723,26 @@
       "duration_ms": 182769,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7l0EE7nSalFQrV4Nf60xhQ"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Nothing In Common",
+        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nothing In Common",
+      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1771,26 +1791,6 @@
       "duration_ms": 160949,
       "name": "Everytime Next To Me (feat. Robin Bengtsson)",
       "url": "https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Nothing In Common",
-        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nothing In Common",
-      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
+      },
+      "artists": [
+        {
+          "name": "HEATT",
+          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/6Y7JwDOKKOZPjvcLVQxoDc"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 180000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1fg2EDQRqMdrkDZE0JS2Wu"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
-      },
-      "artists": [
-        {
-          "name": "HEATT",
-          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
     },
     {
       "added_at": "2024-04-18 11:31:03",

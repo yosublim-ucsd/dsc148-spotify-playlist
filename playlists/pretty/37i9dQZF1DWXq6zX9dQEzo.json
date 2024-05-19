@@ -1,6 +1,6 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 231684,
+  "num_followers": 231834,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "The End.",
-        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 140554,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/56Q2OtRzToYHKxU9p6XWsn"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Saved You Too",
         "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 118413,
       "name": "Saved You Too",
       "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "The End.",
+        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 140554,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/56Q2OtRzToYHKxU9p6XWsn"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "I: The Arrow",
+        "url": "https://open.spotify.com/album/4sKgdSpmHk1Tth5QnMlKLo"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 215060,
+      "name": "I Ain't Done",
+      "url": "https://open.spotify.com/track/4mKyB23qqYwpatX1VAVCUz"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "YOU KNOW WHAT I MEAN",
         "url": "https://open.spotify.com/album/1QZUAkjbqzDudg78GJ87Up"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 142221,
       "name": "YOU KNOW WHAT I MEAN",
       "url": "https://open.spotify.com/track/7uomhQZto3zjn7LuUGjfBP"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "I: The Arrow",
-        "url": "https://open.spotify.com/album/4sKgdSpmHk1Tth5QnMlKLo"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 215060,
-      "name": "I Ain't Done",
-      "url": "https://open.spotify.com/track/4mKyB23qqYwpatX1VAVCUz"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "BREAK ME DOWN",
-        "url": "https://open.spotify.com/album/4KaVPVFVdQwGqZZODLkHfI"
-      },
-      "artists": [
-        {
-          "name": "DizzyEight",
-          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
-        },
-        {
-          "name": "Musicality",
-          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
-        }
-      ],
-      "duration_ms": 196736,
-      "name": "BREAK ME DOWN",
-      "url": "https://open.spotify.com/track/2WRTsWXngQLDtvv9geDEah"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 163500,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "BREAK ME DOWN",
+        "url": "https://open.spotify.com/album/4KaVPVFVdQwGqZZODLkHfI"
+      },
+      "artists": [
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        },
+        {
+          "name": "Musicality",
+          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
+        }
+      ],
+      "duration_ms": 196736,
+      "name": "BREAK ME DOWN",
+      "url": "https://open.spotify.com/track/2WRTsWXngQLDtvv9geDEah"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "We Already Won",
-        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 177587,
-      "name": "The City Is Mine",
-      "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Marvelous",
         "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 142826,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "We Already Won",
+        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 177587,
+      "name": "The City Is Mine",
+      "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "MAN DOWN",
-        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 151663,
-      "name": "MAN DOWN",
-      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Cinematic Songs (Vol. 8)",
         "url": "https://open.spotify.com/album/2zl3L4ks7mWHd4J6MZRkeG"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 132472,
       "name": "What?",
       "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "MAN DOWN",
+        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 151663,
+      "name": "MAN DOWN",
+      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Play!",
-        "url": "https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 195045,
-      "name": "Press Play",
-      "url": "https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/3BePNExIOm54F4e5h40r86"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 159200,
       "name": "BLESSED",
       "url": "https://open.spotify.com/track/51I93kSJksxIWnjO2S47II"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Play!",
+        "url": "https://open.spotify.com/album/376W7E1CjMqgBrYZK5GTuM"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 195045,
+      "name": "Press Play",
+      "url": "https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 219399,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "HE BACK!",
         "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Get Out The Way",
-        "url": "https://open.spotify.com/album/5tu0jIj10M3NQ5aUVRBpeo"
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 115535,
-      "name": "Get Out The Way",
-      "url": "https://open.spotify.com/track/1YVt8oina9APslIHQjIjOI"
+      "duration_ms": 219399,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1479,6 +1463,22 @@
       "duration_ms": 193653,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/5kYJsf5JPK5Iyqcv92FsmS"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Get Out The Way",
+        "url": "https://open.spotify.com/album/5tu0jIj10M3NQ5aUVRBpeo"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 115535,
+      "name": "Get Out The Way",
+      "url": "https://open.spotify.com/track/1YVt8oina9APslIHQjIjOI"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "ALOT",
+        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 145011,
+      "name": "ALOT",
+      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "RIVALS",
         "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
       },
@@ -1607,42 +1623,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
-      },
-      "artists": [
-        {
-          "name": "Drika Will",
-          "url": "https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB"
-        },
-        {
-          "name": "Jekasole",
-          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
-        }
-      ],
-      "duration_ms": 196578,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "ALOT",
-        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 145011,
-      "name": "ALOT",
-      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Working it out",
         "url": "https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 176470,
       "name": "Working it out",
       "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
+      },
+      "artists": [
+        {
+          "name": "Drika Will",
+          "url": "https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB"
+        },
+        {
+          "name": "Jekasole",
+          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
+        }
+      ],
+      "duration_ms": 196578,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Code of Conduct",
-        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 138154,
-      "name": "Code of Conduct",
-      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "For A Reason",
         "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
       },
@@ -1907,6 +1891,26 @@
       "duration_ms": 161872,
       "name": "For A Reason",
       "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
+      },
+      "artists": [
+        {
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 184238,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
     }
   ],
   "unique_name": "Beast Mode Christian",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 133454,
+  "num_followers": 133482,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAB1pF3UIXG+sapwcmyRk4pC",
+  "snapshot_id": "ZkaeAAAAAACqqV3VJG0r6b8dfXGafkw3",
   "tracks": [
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selma Songs",
-        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 329360,
-      "name": "I\u2019ve Seen It All",
-      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
+      "duration_ms": 204853,
+      "name": "Oceania",
+      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 204853,
-      "name": "Oceania",
-      "url": "https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z"
+      "duration_ms": 329360,
+      "name": "I\u2019ve Seen It All",
+      "url": "https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv"
     },
     {
       "added_at": null,

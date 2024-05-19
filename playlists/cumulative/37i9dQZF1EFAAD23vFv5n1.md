@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-95 songs - 4 hr 33 min
+96 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Ricordi](https://open.spotify.com/track/1AQqSrJYbCeRtzO7EApqYX) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 3:23 | 2024-04-29 |  |
 | [Sad Love](https://open.spotify.com/track/3dln34GJ0WsCKixaM1ZoDV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:24 | 2024-04-29 |  |
 | [Sberla](https://open.spotify.com/track/0XPw6ytd9PxgCh1wUWNzqR) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 2:51 | 2024-04-29 |  |
+| [Scelte Sbagliate](https://open.spotify.com/track/0m2yFNIjmifqV4aJiYEaSK) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Scelte Sbagliate](https://open.spotify.com/album/69N3eqTYOS0XO2H21bOU3S) | 2:58 | 2024-05-18 |  |
 | [Scooby Doo](https://open.spotify.com/track/1P6TlFb8EVH2nCX3luVpZW) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 2:59 | 2024-04-29 |  |
 | [scs](https://open.spotify.com/track/12DobhGFGfjMKrziqgRl5T) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [scs](https://open.spotify.com/album/1P2mDmojDqS8CDDn6pOM7o) | 3:06 | 2024-04-29 |  |
 | [SCS](https://open.spotify.com/track/5XX8i1pvt6kbekzJ0an7id) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:52 | 2024-04-29 |  |

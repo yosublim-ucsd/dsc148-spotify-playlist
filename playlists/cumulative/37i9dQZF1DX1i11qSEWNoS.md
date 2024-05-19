@@ -4,7 +4,7 @@
 
 > und macht laune
 
-204 songs - 9 hr 48 min
+205 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 | 2023-09-08 |  |
 | [Sad Slut](https://open.spotify.com/track/0qJ4bwg8hk82VdGGMTnU9R) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [Tootsie Pop](https://open.spotify.com/album/4EDYffZjJHQq6BOIPUSCKJ) | 4:57 | 2023-12-28 | 2024-01-02 |
 | [Sangria](https://open.spotify.com/track/3TYj2ld7j4q4fq7zSMHjqe) | [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Climax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JAhLYEWnwTheAh0aIcYd2) | 5:43 | 2023-12-28 | 2024-01-02 |
-| [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 | 2023-10-28 |  |
+| [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 | 2023-10-28 | 2024-05-19 |
 | [Say It Right](https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Say It Right](https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH) | 2:45 | 2023-09-15 | 2024-04-19 |
 | [Scheiß auf eure Party 2.0](https://open.spotify.com/track/5GkGYgozRCsEtaqLnBc2nz) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Scheiß auf eure Party 2.0](https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte) | 2:29 | 2023-08-25 | 2023-10-18 |
 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 | 2023-08-18 | 2024-05-11 |
@@ -197,6 +197,7 @@
 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 | 2023-07-21 |  |
 | [UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [UGG BOOTS](https://open.spotify.com/album/4wBDoWAXFkchW4zuTbEUhH) | 1:32 | 2023-12-28 | 2024-01-02 |
 | [Unendlichkeit \(Remix\)](https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [The Boy The G](https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO) | [Unendlichkeit \(Remix\)](https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o) | 2:52 | 2023-10-28 |  |
+| [Up, Up, Up \(Nobody's perfect\)](https://open.spotify.com/track/1WYDoHtHLJ3mt3SRohiYto) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp) | [Up, Up, Up \(Nobody’s perfect\)](https://open.spotify.com/album/1kO0Z2pXZXPagFnuBcXwby) | 2:06 | 2024-05-10 |  |
 | [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 | 2023-11-10 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-11 |  |
 | [Von Party zu Party](https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO) | [SXTN](https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3) | [Leben am Limit](https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h) | 3:44 | 2023-07-21 |  |

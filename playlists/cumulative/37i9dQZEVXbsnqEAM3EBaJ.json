@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 172120,
       "name": "atame",
       "url": "https://open.spotify.com/track/496CwTqTiS1STcigZhzUJE"
@@ -6268,7 +6268,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 207333,
       "name": "Don't Give Me No Lip, Child",
       "url": "https://open.spotify.com/track/6tHQ8Sr8Wt7vzTSAgjwmb9"
@@ -7396,7 +7396,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 592736,
       "name": "Energ\u00eda Metatr\u00f3nica",
       "url": "https://open.spotify.com/track/2huBwg6qOQko6AlGNHcMSM"
@@ -7894,7 +7894,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 296463,
       "name": "Fade Away And Radiate - Live 1978",
       "url": "https://open.spotify.com/track/0oZE5u43K5Kt6BMYWsVCdy"
@@ -8158,7 +8158,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 219195,
       "name": "Feral",
       "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
@@ -8470,7 +8470,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ggbblU7Tn5hz3cDTTFXxS"
@@ -9026,7 +9026,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 254387,
       "name": "Ghost On The Canvas (with Sting)",
       "url": "https://open.spotify.com/track/36EFjdli7tKnbdxs40NcS6"
@@ -9218,7 +9218,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 216325,
       "name": "Go Right Ahead - Live At Terminal 5",
       "url": "https://open.spotify.com/track/1HnJc4osG1J0xfkKpeg6bX"
@@ -10440,7 +10440,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 229158,
       "name": "High Life",
       "url": "https://open.spotify.com/track/2T0g9577uRQOo9LHkp0TOb"
@@ -10590,7 +10590,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 258443,
       "name": "Holding out for a Hero - Live in Berlin",
       "url": "https://open.spotify.com/track/2wSEWnlWfO5y8PS6m0ZEq2"
@@ -12116,7 +12116,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 213000,
       "name": "In The Mean Time feat. Ash Costello",
       "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
@@ -13406,7 +13406,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 268005,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk"
@@ -14612,7 +14612,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 412351,
       "name": "Lisa Says - Live",
       "url": "https://open.spotify.com/track/0QWjzTyqJNW7eyhVQWjjgn"
@@ -17888,13 +17888,21 @@
         {
           "name": "Apocalyptica",
           "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "James Hetfield",
+          "url": "https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
         }
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 574634,
-      "name": "One",
+      "name": "One (feat. James Hetfield & Robert Trujillo)",
       "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
     },
     {
@@ -17958,7 +17966,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 208054,
       "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
       "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
@@ -19261,6 +19269,24 @@
     },
     {
       "album": {
+        "name": "Got Nothing To Say (Live)",
+        "url": "https://open.spotify.com/album/0AnsrDv1dSyNKMVcd0Aqpc"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246543,
+      "name": "Pretty Baby - Live 1978",
+      "url": "https://open.spotify.com/track/0N5H2xcY4LG3fvizwj67wn"
+    },
+    {
+      "album": {
         "name": "Pretty Boy (Robert Smith Remix)",
         "url": "https://open.spotify.com/album/18MpyB64oNSNnRMJOAc9XZ"
       },
@@ -20430,7 +20456,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 210275,
       "name": "Ritual - Acoustic",
       "url": "https://open.spotify.com/track/25OC29froPIcszfB8J0I8l"
@@ -21156,7 +21182,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 264188,
       "name": "Scared Of Fear",
       "url": "https://open.spotify.com/track/3Zhf5rGA0fHo4dOYRlTIfX"
@@ -22278,7 +22304,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 182666,
       "name": "Solemos Levitar",
       "url": "https://open.spotify.com/track/7Jg67YmXkQzh5EKeWJX1jE"
@@ -24468,7 +24494,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 263413,
       "name": "The Devil In Me",
       "url": "https://open.spotify.com/track/57prMTCyOqhfOs042UrRf2"
@@ -24770,7 +24796,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 370939,
       "name": "The Last Drag",
       "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
@@ -26202,7 +26228,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 227044,
       "name": "Timing",
       "url": "https://open.spotify.com/track/41oqR5tkYYJWNRI0efZfcA"
@@ -26426,7 +26452,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 230066,
       "name": "Too Hot To Handle - Live, Blind Melon's, Buffalo, NY, USA, 11 September 1995",
       "url": "https://open.spotify.com/track/7qMSo3gtxYwZvqWU3EekKs"
@@ -27668,6 +27694,24 @@
       "duration_ms": 187629,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
+    },
+    {
+      "album": {
+        "name": "A Night Like This (Live San Francisco '78)",
+        "url": "https://open.spotify.com/album/3RHRDGZYmq2zbd0iKzDX6S"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304752,
+      "name": "Walk on the Wild Side - Live",
+      "url": "https://open.spotify.com/track/1afpYweKCuEhLOeeMLuP6e"
     },
     {
       "album": {

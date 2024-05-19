@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: \u30b2\u30b7\u30e5\u30bf\u30eb\u30c8\u4e59\u5973",
-  "num_followers": 50775,
+  "num_followers": 50782,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-05-17 09:25:53",
       "album": {
-        "name": "\u65b0\u8ff7\u5bae ep",
-        "url": "https://open.spotify.com/album/5yPpH5dGq2fpjRaIGqJQYJ"
-      },
-      "artists": [
-        {
-          "name": "FINLANDS",
-          "url": "https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9"
-        }
-      ],
-      "duration_ms": 185096,
-      "name": "\u65b0\u8ff7\u5bae",
-      "url": "https://open.spotify.com/track/5pto8srVXclIjXNlS7tyFB"
-    },
-    {
-      "added_at": "2024-05-17 09:25:53",
-      "album": {
         "name": "\u30d8\u30a4\u30df\u30fc\uff01",
         "url": "https://open.spotify.com/album/7IKQOdEkaf6z2KcLKSpCtG"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 260377,
       "name": "\u30d8\u30a4\u30df\u30fc\uff01",
       "url": "https://open.spotify.com/track/0Jj8qToTYk0LMzm6UDLFv1"
+    },
+    {
+      "added_at": "2024-05-17 09:25:53",
+      "album": {
+        "name": "\u65b0\u8ff7\u5bae ep",
+        "url": "https://open.spotify.com/album/5yPpH5dGq2fpjRaIGqJQYJ"
+      },
+      "artists": [
+        {
+          "name": "FINLANDS",
+          "url": "https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9"
+        }
+      ],
+      "duration_ms": 185096,
+      "name": "\u65b0\u8ff7\u5bae",
+      "url": "https://open.spotify.com/track/5pto8srVXclIjXNlS7tyFB"
     },
     {
       "added_at": "2024-05-17 09:25:53",

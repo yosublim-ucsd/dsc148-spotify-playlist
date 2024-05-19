@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Oliver Huntemann, Marc Romboy
 
-3,570 songs - 13 day 0 hr 51 min
+3,570 songs - 13 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,7 +866,7 @@
 | [Drive\-In Burger \- Marek Hemmann Remix](https://open.spotify.com/track/239YbN4geFC5IzFx4QOz5Z) | [ASIA IMBISS](https://open.spotify.com/artist/0MgbhdwRWSyOHBnXaaYcwi), [Marek Hemmann](https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6) | [Drive\-In Burger \(Marek Hemmann Remix\)](https://open.spotify.com/album/1lwpy5AmgltxE370HDNAcv) | 5:05 | 2022-09-16 | 2022-09-30 |
 | [Droid Solo \- Extrawelt Remix](https://open.spotify.com/track/5O4A7KYSKAPB4LLcwhhH2y) | [Raxon](https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID), [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [Sound Of Mind Remixes](https://open.spotify.com/album/0UtD0Kcy0L5HWHBXwmJmL0) | 4:50 | 2022-04-14 | 2022-04-22 |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-04-14 | 2022-04-29 |
-| [Drop Out \- Karla Blum Remix](https://open.spotify.com/track/7m5efjUaZHHe9dwgTPdEqo) | [Jan Oberlaender](https://open.spotify.com/artist/5dHNRKuv0Zd6Lcxlw8oKtj), [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Drop Out \(Karla Blum Remix\)](https://open.spotify.com/album/4FHN9LpwyiocOBJ1sJaclj) | 5:49 | 2024-05-16 |  |
+| [Drop Out \- Karla Blum Remix](https://open.spotify.com/track/7m5efjUaZHHe9dwgTPdEqo) | [Jan Oberlaender](https://open.spotify.com/artist/5dHNRKuv0Zd6Lcxlw8oKtj), [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Drop Out \(Karla Blum Remix\)](https://open.spotify.com/album/4FHN9LpwyiocOBJ1sJaclj) | 3:53 | 2024-05-16 |  |
 | [Drowning](https://open.spotify.com/track/0VqzQ7TOqavkEa4uDYkGnH) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Drowning](https://open.spotify.com/album/0XXxllyCo8iylhxOqwne94) | 4:20 | 2023-09-07 | 2023-09-29 |
 | [Drugs](https://open.spotify.com/track/4SircgaOfDo7vYWXl40vy6) | [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Drugs](https://open.spotify.com/album/5mgmFyQQ7ASwPwgLnyEE6p) | 6:16 | 2023-07-20 | 2023-08-11 |
 | [Drumatic](https://open.spotify.com/track/6clmYFXstTRD9NxrcTXLXm) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Drumatic](https://open.spotify.com/album/203IbJxFDfRFJ57VKdgbxW) | 5:55 | 2023-10-20 | 2023-11-03 |
@@ -2166,7 +2166,7 @@
 | [Neverland](https://open.spotify.com/track/42m7Fe7XBu2VWiKs1WyNeO) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Giza Djs](https://open.spotify.com/artist/1qdcEzD1e7TMb4w33aO6R8), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc) | 7:17 | 2022-10-06 | 2022-10-28 |
 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-09-29 | 2022-10-21 |
 | [New Generation](https://open.spotify.com/track/12d8vS5cvAKuso7ziDN9aC) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [New Generation](https://open.spotify.com/album/2gD7MdOPC6zsiWSKwusE6M) | 6:11 | 2023-12-14 | 2024-01-26 |
-| [New Generation](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-16 |  |
+| [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-16 |  |
 | [New Moon](https://open.spotify.com/track/4WyLRhTLiGcJVHKFxzQZDj) | [Doctor Dru](https://open.spotify.com/artist/3vjQVx1KiW9b8VpbRMWfpl) | [New Moon](https://open.spotify.com/album/3I4fsbH1PRFuHPPLkBc0dg) | 6:34 | 2022-06-17 | 2022-07-08 |
 | [New Time](https://open.spotify.com/track/4SOZtpW3x4JRH89evORpL6) | [Benjamin Fröhlich](https://open.spotify.com/artist/3FT44aaqR7vqBzvXCZPjn1) | [New Time](https://open.spotify.com/album/7tmS6cPUguSgr7jWVBwMVJ) | 3:23 | 2024-04-25 | 2024-05-10 |
 | [Next Life](https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Running In A Dream](https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E) | 4:52 | 2024-02-08 | 2024-03-01 |

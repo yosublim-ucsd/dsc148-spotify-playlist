@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,779 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,808 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 31 | [Te conozco bacalao](https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb) | [El Combo Belga](https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve) | [Rompiendo clave](https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v) | 4:24 |
 | 32 | [Fuego Y Pa' Lante](https://open.spotify.com/track/5HpLBkDWIhJpehZMNRSKi5) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Latino Con Soul](https://open.spotify.com/album/5BMrkLARvj0c5GkY9aGl8V) | 4:53 |
 | 33 | [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 |
-| 34 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
-| 35 | [¿Qué Quiere la Niña?](https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV) | [Kako y Totico](https://open.spotify.com/artist/0vlcfJoJQgepEhvhNSMg0w) | [Siguen Pa' Lante y Pa' Lante](https://open.spotify.com/album/0ggUsuE3sanuha2Ju1DTvm) | 3:53 |
+| 34 | [¿Qué Quiere la Niña?](https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV) | [Kako y Totico](https://open.spotify.com/artist/0vlcfJoJQgepEhvhNSMg0w) | [Siguen Pa' Lante y Pa' Lante](https://open.spotify.com/album/0ggUsuE3sanuha2Ju1DTvm) | 3:53 |
+| 35 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
 | 36 | [Candela](https://open.spotify.com/track/4BxlXBQAOeS7Ibt3mjaz0q) | [La Conquistadora](https://open.spotify.com/artist/4vZku8ZYAWFXuHgWoYxxp2) | [Salsa de Barrio, Vol\. 1](https://open.spotify.com/album/0DvKoiscNjaxAyDURcVzOD) | 5:07 |
 | 37 | [El Yerbero Del Barrio](https://open.spotify.com/track/0u8lmRThcVenfXivdewmFM) | [Roberto y Su Nuevo Montuno](https://open.spotify.com/artist/3IQ3oRmLQtb71i2TcO5Sxv) | [The Best](https://open.spotify.com/album/7sHJqlDvN5uK8WgcKlkw3e) | 4:54 |
 | 38 | [Lloraras \- Edit](https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Billo's Caracas Boys vs\. Dimension Latina](https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu) | 3:45 |

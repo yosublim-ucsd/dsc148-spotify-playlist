@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACcn8Idy5q0Ip0D0FOs0J+c",
+  "snapshot_id": "AAAAAAAAAAASaWILf/i+P7Ka5AIB83hT",
   "tracks": [
     {
       "added_at": "2024-05-17 04:00:00",
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 296463,
-      "name": "Fade Away And Radiate - Live 1978",
-      "url": "https://open.spotify.com/track/0oZE5u43K5Kt6BMYWsVCdy"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "One (feat. James Hetfield & Robert Trujillo)",
-        "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 574634,
-      "name": "One",
-      "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
+      "duration_ms": 246543,
+      "name": "Pretty Baby - Live 1978",
+      "url": "https://open.spotify.com/track/0N5H2xcY4LG3fvizwj67wn"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -59,6 +43,30 @@
       "duration_ms": 251334,
       "name": "Anteroom of Death - Edit Version",
       "url": "https://open.spotify.com/track/1Im4cmAI1RgziR0Kohz5Cn"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "One (feat. James Hetfield & Robert Trujillo)",
+        "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "James Hetfield",
+          "url": "https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "duration_ms": 574634,
+      "name": "One (feat. James Hetfield & Robert Trujillo)",
+      "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -95,42 +103,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Awful Dream feat. Iggy Pop",
-        "url": "https://open.spotify.com/album/1ZebWUR1DtqIiH96WtCmkR"
-      },
-      "artists": [
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 332253,
-      "name": "Awful Dream feat. Iggy Pop",
-      "url": "https://open.spotify.com/track/3RiJyQYWyk8cGAl5xPMgDT"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Here To Eternity",
-        "url": "https://open.spotify.com/album/4ZRomgX1r7Fam2zytYHwP6"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 294840,
-      "name": "Keep It On Track",
-      "url": "https://open.spotify.com/track/13PYRY0Z8gek8xPKbhHqpb"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "A Night Like This (Live San Francisco '78)",
         "url": "https://open.spotify.com/album/3RHRDGZYmq2zbd0iKzDX6S"
       },
@@ -140,25 +112,9 @@
           "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 412351,
-      "name": "Lisa Says - Live",
-      "url": "https://open.spotify.com/track/0QWjzTyqJNW7eyhVQWjjgn"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 219346,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
+      "duration_ms": 304752,
+      "name": "Walk on the Wild Side - Live",
+      "url": "https://open.spotify.com/track/1afpYweKCuEhLOeeMLuP6e"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -175,6 +131,26 @@
       "duration_ms": 360234,
       "name": "Mind Games - Evolution Documentary",
       "url": "https://open.spotify.com/track/0VoBWt11cnl7IKXeejkByE"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Awful Dream feat. Iggy Pop",
+        "url": "https://open.spotify.com/album/1ZebWUR1DtqIiH96WtCmkR"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 332253,
+      "name": "Awful Dream feat. Iggy Pop",
+      "url": "https://open.spotify.com/track/3RiJyQYWyk8cGAl5xPMgDT"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -239,22 +215,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Everybody's Alone",
-        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
+        "name": "Here To Eternity",
+        "url": "https://open.spotify.com/album/4ZRomgX1r7Fam2zytYHwP6"
       },
       "artists": [
         {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
         }
       ],
-      "duration_ms": 151600,
-      "name": "Everybody's Alone",
-      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
+      "duration_ms": 294840,
+      "name": "Keep It On Track",
+      "url": "https://open.spotify.com/track/13PYRY0Z8gek8xPKbhHqpb"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -291,22 +263,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Wasteland (orchestral)",
-        "url": "https://open.spotify.com/album/42GDExicxE2HmHmwIpmiYw"
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
       },
       "artists": [
         {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        },
-        {
-          "name": "THE DAY WE LEFT EARTH",
-          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 145324,
-      "name": "Wasteland - orchestral",
-      "url": "https://open.spotify.com/track/36wIxrvx8BXA0g2cv1TXyz"
+      "duration_ms": 219346,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -335,6 +303,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Everybody's Alone",
+        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Everybody's Alone",
+      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Circular (BVSMV Sunset Mix)",
         "url": "https://open.spotify.com/album/1llzlwanfn739rdbRJzyO7"
       },
@@ -355,6 +343,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Wasteland (orchestral)",
+        "url": "https://open.spotify.com/album/42GDExicxE2HmHmwIpmiYw"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        },
+        {
+          "name": "THE DAY WE LEFT EARTH",
+          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+        }
+      ],
+      "duration_ms": 145324,
+      "name": "Wasteland - orchestral",
+      "url": "https://open.spotify.com/track/36wIxrvx8BXA0g2cv1TXyz"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Remorse? No!",
         "url": "https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3"
       },
@@ -367,30 +375,6 @@
       "duration_ms": 269800,
       "name": "Killed By Death - Demo",
       "url": "https://open.spotify.com/track/44alqIie0HSc9LCxnm4UEf"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "You Won't Go Before You're Supposed To",
-        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        },
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Chris Motionless",
-          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
-        }
-      ],
-      "duration_ms": 183721,
-      "name": "Slaughterhouse 2 (feat. Chris Motionless)",
-      "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -415,6 +399,30 @@
       "duration_ms": 207750,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/5ta6pYaNvesXHJv7sq6DKC"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "You Won't Go Before You're Supposed To",
+        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Chris Motionless",
+          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
+        }
+      ],
+      "duration_ms": 183721,
+      "name": "Slaughterhouse 2 (feat. Chris Motionless)",
+      "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -467,18 +475,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Seven / Pitiful (Live)",
-        "url": "https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu"
+        "name": "It Could Have Been You",
+        "url": "https://open.spotify.com/album/4QWGEvI0AmucuLlG5xiPlk"
       },
       "artists": [
         {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+          "name": "The Effect",
+          "url": "https://open.spotify.com/artist/2Rx1y8dP2QwQI7XEqDBkYc"
+        },
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
         }
       ],
-      "duration_ms": 312149,
-      "name": "Seven - Live",
-      "url": "https://open.spotify.com/track/01Qou0Jb4jUyCRfBhDSa74"
+      "duration_ms": 258629,
+      "name": "It Could Have Been You",
+      "url": "https://open.spotify.com/track/5vwU0pW1bncbAUruvJrpwA"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -503,22 +515,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "It Could Have Been You",
-        "url": "https://open.spotify.com/album/4QWGEvI0AmucuLlG5xiPlk"
+        "name": "Seven / Pitiful (Live)",
+        "url": "https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu"
       },
       "artists": [
         {
-          "name": "The Effect",
-          "url": "https://open.spotify.com/artist/2Rx1y8dP2QwQI7XEqDBkYc"
-        },
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 258629,
-      "name": "It Could Have Been You",
-      "url": "https://open.spotify.com/track/5vwU0pW1bncbAUruvJrpwA"
+      "duration_ms": 312149,
+      "name": "Seven - Live",
+      "url": "https://open.spotify.com/track/01Qou0Jb4jUyCRfBhDSa74"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -635,22 +643,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Unforgivable",
-        "url": "https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad"
-      },
-      "artists": [
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Unforgivable",
-      "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Portable Door",
         "url": "https://open.spotify.com/album/6qoTQ5Q1HvFMl9OkBw7tNe"
       },
@@ -663,6 +655,22 @@
       "duration_ms": 228040,
       "name": "Portable Door",
       "url": "https://open.spotify.com/track/6Mbp62WPHLo8oiRtKMSAsg"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Unforgivable",
+        "url": "https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad"
+      },
+      "artists": [
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Unforgivable",
+      "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -699,22 +707,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 255774,
-      "name": "Song to the Siren",
-      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
       },
@@ -727,6 +719,22 @@
       "duration_ms": 219676,
       "name": "Divine",
       "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 255774,
+      "name": "Song to the Siren",
+      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -803,22 +811,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "The Devil In Me",
-        "url": "https://open.spotify.com/album/3xkbf6N5kOoxqJugkKaShu"
-      },
-      "artists": [
-        {
-          "name": "DIR EN GREY",
-          "url": "https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA"
-        }
-      ],
-      "duration_ms": 263413,
-      "name": "The Devil In Me",
-      "url": "https://open.spotify.com/track/57prMTCyOqhfOs042UrRf2"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "QWERTY (Live in Tokyo, 2006)",
         "url": "https://open.spotify.com/album/7bYai93piRObiZD6utMG8Y"
       },
@@ -851,22 +843,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Crooked Boy",
-        "url": "https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 179680,
-      "name": "Gonna Need Someone",
-      "url": "https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Nonetheless",
         "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
       },
@@ -879,6 +855,22 @@
       "duration_ms": 292964,
       "name": "New London boy",
       "url": "https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Crooked Boy",
+        "url": "https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 179680,
+      "name": "Gonna Need Someone",
+      "url": "https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -903,22 +895,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "The Artone Sessions (Acoustic)",
-        "url": "https://open.spotify.com/album/0H1UXZy1pbzxsNNjy5WOfk"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 210275,
-      "name": "Ritual - Acoustic",
-      "url": "https://open.spotify.com/track/25OC29froPIcszfB8J0I8l"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Pyromania (Super Deluxe)",
         "url": "https://open.spotify.com/album/75QVg7IDnVXir5SDsZXGMB"
       },
@@ -931,46 +907,6 @@
       "duration_ms": 250920,
       "name": "Action! Not Words - Rough Mix Version",
       "url": "https://open.spotify.com/track/0AQpu60F021SyCDGsLiLH5"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/1d8W5sDOh6xY7y6UYp2rcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Fortnight (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5ggbblU7Tn5hz3cDTTFXxS"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Solemos Levitar",
-        "url": "https://open.spotify.com/album/1NwoRMYsqqjPsDmnbrDA4Q"
-      },
-      "artists": [
-        {
-          "name": "PelySayon",
-          "url": "https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T"
-        },
-        {
-          "name": "LPC",
-          "url": "https://open.spotify.com/artist/26ZyZfHEwAKy6zgzUeL88m"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Solemos Levitar",
-      "url": "https://open.spotify.com/track/7Jg67YmXkQzh5EKeWJX1jE"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1011,22 +947,42 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "100PRE YORO",
-        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+        "name": "Be Ok (RMX)",
+        "url": "https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV"
       },
       "artists": [
         {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+          "name": "Petti Hendrix",
+          "url": "https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ"
         },
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        },
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 172120,
-      "name": "atame",
-      "url": "https://open.spotify.com/track/496CwTqTiS1STcigZhzUJE"
+      "duration_ms": 212853,
+      "name": "Be Ok - RMX",
+      "url": "https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "To Save A Child: An Intimate Live Concert",
+        "url": "https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 568000,
+      "name": "Got To Get Better In A Little While - Live",
+      "url": "https://open.spotify.com/track/3lNHwRPfFHckwPm1nTIuu9"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1055,66 +1011,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Be Ok (RMX)",
-        "url": "https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV"
-      },
-      "artists": [
-        {
-          "name": "Petti Hendrix",
-          "url": "https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ"
-        },
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        },
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Be Ok - RMX",
-      "url": "https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Niebla",
-        "url": "https://open.spotify.com/album/7K0rkFuaN2l85ZMNdnV9UB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 222965,
-      "name": "Niebla",
-      "url": "https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "To Save A Child: An Intimate Live Concert",
-        "url": "https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 568000,
-      "name": "Got To Get Better In A Little While - Live",
-      "url": "https://open.spotify.com/track/3lNHwRPfFHckwPm1nTIuu9"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "What's Love Got to Do with It (30th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0LqFtawEnmutBvNiV6Ngq7"
       },
@@ -1135,270 +1031,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "High Life",
-        "url": "https://open.spotify.com/album/35ZYlfY7YaHSJoCQx24rgu"
+        "name": "Niebla",
+        "url": "https://open.spotify.com/album/7K0rkFuaN2l85ZMNdnV9UB"
       },
       "artists": [
         {
-          "name": "High Authority",
-          "url": "https://open.spotify.com/artist/4JtG2M1dMeYG6qD8cvfhvv"
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
         },
         {
-          "name": "Kdee",
-          "url": "https://open.spotify.com/artist/360aDToSXxz17ZBVF9iNCr"
-        },
-        {
-          "name": "The Ghost",
-          "url": "https://open.spotify.com/artist/7CWbiyST9bmwTDQ14H3fVl"
-        },
-        {
-          "name": "Dumplin",
-          "url": "https://open.spotify.com/artist/6D8bY2IhfXYCvr5q9hANbD"
-        },
-        {
-          "name": "Focus",
-          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
-        },
-        {
-          "name": "Morgan James",
-          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 229158,
-      "name": "High Life",
-      "url": "https://open.spotify.com/track/2T0g9577uRQOo9LHkp0TOb"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Karma Police",
-        "url": "https://open.spotify.com/album/0lsE84fafmngJgIwvVcr8S"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 268005,
-      "name": "Karma Police",
-      "url": "https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/12a47fBQQvcKqEQ9Nz3fBp"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 264188,
-      "name": "Scared Of Fear",
-      "url": "https://open.spotify.com/track/3Zhf5rGA0fHo4dOYRlTIfX"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "The Filth & The Fury (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2PcE9fHUKAW6Zhjz8hr8i3"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Don't Give Me No Lip, Child",
-      "url": "https://open.spotify.com/track/6tHQ8Sr8Wt7vzTSAgjwmb9"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "In The Mean Time feat. Ash Costello",
-        "url": "https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        },
-        {
-          "name": "New Years Day",
-          "url": "https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "In The Mean Time feat. Ash Costello",
-      "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Half Album",
-        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 370939,
-      "name": "The Last Drag",
-      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "In Berlin",
-        "url": "https://open.spotify.com/album/0Q66TaAigeYo3etuN3gOqb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 258443,
-      "name": "Holding out for a Hero - Live in Berlin",
-      "url": "https://open.spotify.com/track/2wSEWnlWfO5y8PS6m0ZEq2"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Lex Hives (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3aq6thwayiK3ykgOVe51hx"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 216325,
-      "name": "Go Right Ahead - Live At Terminal 5",
-      "url": "https://open.spotify.com/track/1HnJc4osG1J0xfkKpeg6bX"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
-        "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        },
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        },
-        {
-          "name": "Aaron Pauley",
-          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
-        }
-      ],
-      "duration_ms": 208054,
-      "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
-      "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Covenant + Sharks",
-        "url": "https://open.spotify.com/album/1GXcOZVvAxXlXTMZ0JkYGs"
-      },
-      "artists": [
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Too Hot To Handle - Live, Blind Melon's, Buffalo, NY, USA, 11 September 1995",
-      "url": "https://open.spotify.com/track/7qMSo3gtxYwZvqWU3EekKs"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Out Of The Shadows 2.0",
-        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 219195,
-      "name": "Feral",
-      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Vibraciones Superiores",
-        "url": "https://open.spotify.com/album/42Ed8WBO3fkq08LkjqHnI5"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Donalson",
-          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
-        }
-      ],
-      "duration_ms": 592736,
-      "name": "Energ\u00eda Metatr\u00f3nica",
-      "url": "https://open.spotify.com/track/2huBwg6qOQko6AlGNHcMSM"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Krime Iz a Bizness 2",
-        "url": "https://open.spotify.com/album/3bwCpDBUwK2tiYVC4fRfwq"
-      },
-      "artists": [
-        {
-          "name": "SLIME LUCIANO",
-          "url": "https://open.spotify.com/artist/68l669NzUI8hsO01iaatmo"
-        },
-        {
-          "name": "Forrest Moon",
-          "url": "https://open.spotify.com/artist/4NERy4EVRUgQNMUji6dBJ8"
-        },
-        {
-          "name": "Asia",
-          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
-        }
-      ],
-      "duration_ms": 227044,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/41oqR5tkYYJWNRI0efZfcA"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Glen Campbell Duets: Ghost On The Canvas Sessions",
-        "url": "https://open.spotify.com/album/5YFkGhaiIJVkOqfmq3IvAw"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 254387,
-      "name": "Ghost On The Canvas (with Sting)",
-      "url": "https://open.spotify.com/track/36EFjdli7tKnbdxs40NcS6"
+      "duration_ms": 222965,
+      "name": "Niebla",
+      "url": "https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

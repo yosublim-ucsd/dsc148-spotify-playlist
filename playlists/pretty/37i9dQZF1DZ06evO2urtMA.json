@@ -1,12 +1,12 @@
 {
   "description": "This is Narrow Head. The essential tracks, all in one playlist.",
-  "num_followers": 1798,
+  "num_followers": 1800,
   "original_name": "This Is Narrow Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAB1chHhXgCVk0VnAA87bjKB",
+  "snapshot_id": "ZkaeAAAAAADvReYMFq0jfVwg2IDyduvi",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday / Medicine",
-        "url": "https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1"
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/4K1HLxFkJcMx9D56R217nZ"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 256466,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/3R4BxYnIdB6GwbCZjk88af"
+      "duration_ms": 149175,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/3wSBw0krlZtyHIpJiYDIXJ"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/4K1HLxFkJcMx9D56R217nZ"
+        "name": "Sunday / Medicine",
+        "url": "https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 149175,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/3wSBw0krlZtyHIpJiYDIXJ"
+      "duration_ms": 256466,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3R4BxYnIdB6GwbCZjk88af"
     },
     {
       "added_at": null,

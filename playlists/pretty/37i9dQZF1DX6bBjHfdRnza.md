@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Tsu Nami\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,040 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,133 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 57 | [Heaven \(feat\. Marlene\)](https://open.spotify.com/track/0JpPjzoVsd8Zi4yiowKQK6) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Heaven \(feat\. Marlene\)](https://open.spotify.com/album/2nHfdDZe6Kt8ovaDij2i4K) | 2:35 |
 | 58 | [Superfresh](https://open.spotify.com/track/3HiSqtOz3jb298Adsvrc7B) | [Sasha GiGi](https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5) | [Superfresh / Unfinished Bizzness](https://open.spotify.com/album/0z15dG26VgTHy60azJhnCj) | 2:30 |
 | 59 | [GOLDEN](https://open.spotify.com/track/1CBKVh2cLLuWyaJR1jE6BC) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [DREAM CATCHER](https://open.spotify.com/album/11zWCu7qahLX9hERV7mvwF) | 5:39 |
-| 60 | [Mister DJ](https://open.spotify.com/track/3g7fzHY2ieDM7RaAYbItLK) | [Ruze](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:15 |
+| 60 | [Mister DJ](https://open.spotify.com/track/3g7fzHY2ieDM7RaAYbItLK) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:15 |
 | 61 | [Chaos](https://open.spotify.com/track/4gobAVFoc3Skr3xWxe6USU) | [Easttown](https://open.spotify.com/artist/60BcxlrIyqHOIjd9dBvld3) | [Chaos EP](https://open.spotify.com/album/7050hhnfVETno9KINWdFNa) | 5:58 |
 | 62 | [MY LOVER'S MIND](https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [MY LOVER'S MIND](https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is) | 3:23 |
 | 63 | [Higher](https://open.spotify.com/track/3AfHjDjQcA8yyMyCMCZ77V) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Higher](https://open.spotify.com/album/46nHHymUyr3YZlxNRK9Y5h) | 3:32 |

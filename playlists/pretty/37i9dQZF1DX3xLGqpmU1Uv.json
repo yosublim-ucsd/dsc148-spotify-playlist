@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 156051,
+  "num_followers": 156084,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Cuentame",
-        "url": "https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs"
-      },
-      "artists": [
-        {
-          "name": "Massiel",
-          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Rosas en el Mar",
-      "url": "https://open.spotify.com/track/3I88eZa7wG0HrbOQeVRKMM"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
         "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 145253,
       "name": "Mu\u00e9vanse todos - Twist and Shout",
       "url": "https://open.spotify.com/track/1BaZlroFKDgIlNc7JQ5LOq"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Cuentame",
+        "url": "https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs"
+      },
+      "artists": [
+        {
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Rosas en el Mar",
+      "url": "https://open.spotify.com/track/3I88eZa7wG0HrbOQeVRKMM"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -335,22 +335,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
-        "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
-      },
-      "artists": [
-        {
-          "name": "Vianey Valdez",
-          "url": "https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Hey Paula - Dueto con Arturo",
-      "url": "https://open.spotify.com/track/3pay7GhZw0W6rJKej4Lz0C"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
         "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
+        "name": "Al Claro de Luna",
+        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
+      },
+      "artists": [
+        {
+          "name": "Rafael V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
+        }
+      ],
+      "duration_ms": 111493,
+      "name": "Al Claro de Luna",
+      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
         "name": "Rock Con los Locos del Ritmo",
         "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
       },
@@ -399,18 +399,34 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Al Claro de Luna",
-        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
+        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
+        "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
       },
       "artists": [
         {
-          "name": "Rafael V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
+          "name": "Vianey Valdez",
+          "url": "https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs"
         }
       ],
-      "duration_ms": 111493,
-      "name": "Al Claro de Luna",
-      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
+      "duration_ms": 155480,
+      "name": "Hey Paula - Dueto con Arturo",
+      "url": "https://open.spotify.com/track/3pay7GhZw0W6rJKej4Lz0C"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
+        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Popotitos (Bonie Moroni)",
+      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -511,22 +527,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
-        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Popotitos (Bonie Moroni)",
-      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Enlaces Hermanas Navarro y Andy Russell",
         "url": "https://open.spotify.com/album/18IOQIjI0rPJhnZcIStz8D"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "Los Rockin' Devils",
-          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
-        }
-      ],
-      "duration_ms": 139546,
-      "name": "Juego De Amor",
-      "url": "https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Los Originales",
         "url": "https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 165154,
       "name": "Si me quieres",
       "url": "https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Rockin' Devils",
+          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
+        }
+      ],
+      "duration_ms": 139546,
+      "name": "Juego De Amor",
+      "url": "https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe"
     },
     {
       "added_at": "2020-03-18 04:18:26",

@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 1919850,
+  "num_followers": 1920162,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAfB+sdT+FQ7KL602O73JqN",
+  "snapshot_id": "ZkaeAAAAAABWF2b2je5ClABt1kI2zRXl",
   "tracks": [
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 330453,
-      "name": "Screaming Suicide",
-      "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 273693,
-      "name": "Too Far Gone?",
-      "url": "https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF"
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
+      "duration_ms": 345706,
+      "name": "Harvester Of Sorrow",
+      "url": "https://open.spotify.com/track/1V3wAgMB4ESaN4rStlrUNz"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...And Justice For All",
-        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 345706,
-      "name": "Harvester Of Sorrow",
-      "url": "https://open.spotify.com/track/1V3wAgMB4ESaN4rStlrUNz"
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
     },
     {
       "added_at": null,

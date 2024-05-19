@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/druski/?hl=en">Druski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,273 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,302 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 22 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 |
 | 23 | [5500 Degrees \(feat\. Lil Baby, 42 Dugg & Rylo Rodriguez\)](https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:04 |
 | 24 | [Forever Set In Stone](https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Forever Set In Stone](https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A) | 2:59 |
-| 25 | [Outside](https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Outside](https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ) | 1:27 |
-| 26 | [Charlie, Last Name Wilson](https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 3:35 |
+| 25 | [Charlie, Last Name Wilson](https://open.spotify.com/track/6UZqMYYQQThvV55IQPvscO) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 3:35 |
+| 26 | [Outside](https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Outside](https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ) | 1:27 |
 | 27 | [Face Of My City \(feat\. Lil Baby\)](https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:03 |
 | 28 | [Been Turnt](https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Young & Turnt 2](https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq) | 1:59 |
 | 29 | [That's Facts](https://open.spotify.com/track/6dug6dIV40JMz2myhafHrm) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 489983,
+  "num_followers": 489973,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -147,8 +147,8 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Never Be Lonely",
-        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
       "artists": [
         {
@@ -156,13 +156,13 @@
           "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 134570,
-      "name": "Never Be Lonely",
-      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -283,6 +283,42 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
+        "name": "Birds In The Sky",
+        "url": "https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X"
+      },
+      "artists": [
+        {
+          "name": "NewEra",
+          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
+        }
+      ],
+      "duration_ms": 133548,
+      "name": "Birds In The Sky",
+      "url": "https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "Never Be Lonely",
+        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 134570,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
       },
@@ -299,42 +335,6 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
-        "name": "Birds In The Sky",
-        "url": "https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X"
-      },
-      "artists": [
-        {
-          "name": "NewEra",
-          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
-        }
-      ],
-      "duration_ms": 133548,
-      "name": "Birds In The Sky",
-      "url": "https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -499,6 +499,26 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
+        "name": "Pachamama",
+        "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
         "name": "One By One (feat. Oaks)",
         "url": "https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 161276,
       "name": "One By One (feat. Oaks)",
       "url": "https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
-        "name": "Pachamama",
-        "url": "https://open.spotify.com/album/4pyp9BJdIT2rqRiavNpiWL"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -575,30 +575,6 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Mercy (feat. Jacob Lusk)",
-        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
-        },
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 178242,
-      "name": "Mercy (feat. Jacob Lusk)",
-      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 162857,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "Mercy (feat. Jacob Lusk)",
+        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 178242,
+      "name": "Mercy (feat. Jacob Lusk)",
+      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
-      },
-      "artists": [
-        {
-          "name": "Drenchill",
-          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
-        },
-        {
-          "name": "Jorik Burema",
-          "url": "https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
         "name": "Lifeline (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 155076,
       "name": "Phone",
       "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/7xWgrLBIQVECzOsNvo2OHU"
+      },
+      "artists": [
+        {
+          "name": "Drenchill",
+          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
+        },
+        {
+          "name": "Jorik Burema",
+          "url": "https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/01a7nB3AywapMgbLi3LGbZ"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Magic Moment (feat. Chris de Sarandy)",
-        "url": "https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 145131,
-      "name": "Magic Moment (feat. Chris de Sarandy)",
-      "url": "https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 196224,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "Magic Moment (feat. Chris de Sarandy)",
+        "url": "https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 145131,
+      "name": "Magic Moment (feat. Chris de Sarandy)",
+      "url": "https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Dirty Dancing",
-        "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 160842,
-      "name": "Dirty Dancing",
-      "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "Dirty Dancing",
+        "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 160842,
+      "name": "Dirty Dancing",
+      "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
         "name": "Hopeless Heart",
         "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 151903,
       "name": "Hopeless Heart",
       "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Dominic Neill",
-          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Better Me",
-        "url": "https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL"
+        "name": "About U",
+        "url": "https://open.spotify.com/album/2r3VXU9V3fKvRysjsVy766"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "Reel Mood",
+          "url": "https://open.spotify.com/artist/1O3qb3qngNizhIxjy9hFxO"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
         }
       ],
-      "duration_ms": 166080,
-      "name": "Better Me",
-      "url": "https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB"
+      "duration_ms": 193920,
+      "name": "About U",
+      "url": "https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP"
     }
   ],
   "unique_name": "Wochenende",

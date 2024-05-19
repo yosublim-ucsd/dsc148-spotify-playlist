@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,786 likes - 50 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,816 likes - 50 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 27 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
 | 28 | [Reminiscence](https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:51 |
 | 29 | [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 |
-| 30 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 |
-| 31 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
+| 30 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
+| 31 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 |
 | 32 | [sleepless](https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [sleepless](https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr) | 2:29 |
 | 33 | [Past, Present & Future \- Intro](https://open.spotify.com/track/254QTqbIfInFIF38D2N48W) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 1:00 |
 | 34 | [Pueblo Man](https://open.spotify.com/track/6Hbnhac6poCnife9O5aCeZ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 2:48 |

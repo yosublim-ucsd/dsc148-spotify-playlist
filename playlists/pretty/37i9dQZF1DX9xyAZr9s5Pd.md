@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,025 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,032 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Amor Es un Juego de Perdedores](https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Amor Es un Juego de Perdedores](https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La) | 3:28 |
 | 2 | [Viento](https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Viento](https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9) | 2:48 |
 | 3 | [Sed](https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Sed](https://open.spotify.com/album/6taEnbo5tcuo1hY11NeZEK) | 3:08 |
-| 4 | [Déjame Ir](https://open.spotify.com/track/3jWsQr0g2beZgdaWj1Pv0y) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Déjame Ir](https://open.spotify.com/album/6rH83cKM2JX2Mp2xg9PeMJ) | 3:19 |
+| 4 | [Déjame Ir \- Sesión En Vivo](https://open.spotify.com/track/3jWsQr0g2beZgdaWj1Pv0y) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Déjame Ir \(Sesión En Vivo\)](https://open.spotify.com/album/6rH83cKM2JX2Mp2xg9PeMJ) | 3:19 |
 | 5 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
 | 6 | [No Te Vayas Nunca](https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [No Te Vayas Nunca](https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx) | 3:21 |
 | 7 | [Alma y Olvido](https://open.spotify.com/track/1P2DlRsIhnvUawboqQzArG) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Los Balcones Amarillos](https://open.spotify.com/artist/2Tsj2XMyZc1hIsarvh9Vk1) | [Alma y Olvido](https://open.spotify.com/album/1NbfewHSHakpdQPzfmqZ0x) | 3:47 |

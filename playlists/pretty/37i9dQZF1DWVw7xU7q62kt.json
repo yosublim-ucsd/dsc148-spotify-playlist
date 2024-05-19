@@ -1,6 +1,6 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
-  "num_followers": 50858,
+  "num_followers": 50910,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Filigrani",
+        "url": "https://open.spotify.com/album/6UFvVhCn9womYqY42Qj0Z3"
+      },
+      "artists": [
+        {
+          "name": "Gianni Brezzo",
+          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Filigrani",
+      "url": "https://open.spotify.com/track/4IWWbsB2He38Nt6TPpwghj"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Chance of a Day, Pt. 3",
         "url": "https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 387693,
       "name": "Chance of a Day, Pt. 3",
       "url": "https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Filigrani",
-        "url": "https://open.spotify.com/album/6UFvVhCn9womYqY42Qj0Z3"
-      },
-      "artists": [
-        {
-          "name": "Gianni Brezzo",
-          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Filigrani",
-      "url": "https://open.spotify.com/track/4IWWbsB2He38Nt6TPpwghj"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -263,38 +263,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Speaker",
-        "url": "https://open.spotify.com/album/6qo41SZD3ARTd5aleSDmHn"
-      },
-      "artists": [
-        {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
-        }
-      ],
-      "duration_ms": 123529,
-      "name": "Speaker",
-      "url": "https://open.spotify.com/track/3D9u3OmkBeEV7g9FUgg5ip"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Keep Cruising",
-        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
-      },
-      "artists": [
-        {
-          "name": "Erik von Spreckelsen",
-          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Keep Cruising",
-      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "THE HEIST",
         "url": "https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W"
       },
@@ -311,6 +279,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Speaker",
+        "url": "https://open.spotify.com/album/6qo41SZD3ARTd5aleSDmHn"
+      },
+      "artists": [
+        {
+          "name": "DisHand",
+          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+        }
+      ],
+      "duration_ms": 123529,
+      "name": "Speaker",
+      "url": "https://open.spotify.com/track/3D9u3OmkBeEV7g9FUgg5ip"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Stilo",
         "url": "https://open.spotify.com/album/2rfVcCqLV42c7FCOyLSIm9"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 189970,
       "name": "Stilo",
       "url": "https://open.spotify.com/track/3tBTtLW2GhWdwV42EQkBLO"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Keep Cruising",
+        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
+      },
+      "artists": [
+        {
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Keep Cruising",
+      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "OLDRICH",
-        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
-      },
-      "artists": [
-        {
-          "name": "Tamotsu LeftGroove",
-          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
-        }
-      ],
-      "duration_ms": 141020,
-      "name": "OLDRICH",
-      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Beginner's Mind",
         "url": "https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "folding edges",
-        "url": "https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p"
+        "name": "OLDRICH",
+        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
       },
       "artists": [
         {
-          "name": "betahost",
-          "url": "https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W"
+          "name": "Tamotsu LeftGroove",
+          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
         }
       ],
-      "duration_ms": 141882,
-      "name": "folding edges",
-      "url": "https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4"
+      "duration_ms": 141020,
+      "name": "OLDRICH",
+      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -495,6 +479,22 @@
       "duration_ms": 259583,
       "name": "Tapir & Pomme De Pin",
       "url": "https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "folding edges",
+        "url": "https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p"
+      },
+      "artists": [
+        {
+          "name": "betahost",
+          "url": "https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "folding edges",
+      "url": "https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "limonene",
-        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
-      },
-      "artists": [
-        {
-          "name": "Jfab",
-          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "limonene",
-      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Sun Drops",
         "url": "https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 184500,
       "name": "Sun Drops",
       "url": "https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "limonene",
+        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
+      },
+      "artists": [
+        {
+          "name": "Jfab",
+          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "limonene",
+      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Deciphering The Message",
-        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 131160,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Extra Careless",
         "url": "https://open.spotify.com/album/32IDleorcUx73pIkV3IBeR"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 170451,
       "name": "Extra Careless",
       "url": "https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Deciphering The Message",
+        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 131160,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Never Doubt",
-        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
-      },
-      "artists": [
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 250399,
-      "name": "Never Doubt",
-      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Caterpillar",
         "url": "https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 186500,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Never Doubt",
+        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 250399,
+      "name": "Never Doubt",
+      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Subdivis\u00e3o",
+        "url": "https://open.spotify.com/album/2WaviSBDrps4BxMTdog2ql"
+      },
+      "artists": [
+        {
+          "name": "Thomas Asselman",
+          "url": "https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "Subdivis\u00e3o",
+      "url": "https://open.spotify.com/track/3I5VB6Zfemby4tyyXIHpmP"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Lila",
         "url": "https://open.spotify.com/album/6UjzxcdveHA76f4W4K71Uf"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 356642,
       "name": "Not Water But Rest",
       "url": "https://open.spotify.com/track/5M7ZhcrCafzjLN18pHokNA"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Subdivis\u00e3o",
-        "url": "https://open.spotify.com/album/2WaviSBDrps4BxMTdog2ql"
-      },
-      "artists": [
-        {
-          "name": "Thomas Asselman",
-          "url": "https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "Subdivis\u00e3o",
-      "url": "https://open.spotify.com/track/3I5VB6Zfemby4tyyXIHpmP"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Jazzbois Goes Blunt II",
-        "url": "https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3"
-      },
-      "artists": [
-        {
-          "name": "Jazzbois",
-          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
-        }
-      ],
-      "duration_ms": 320279,
-      "name": "Lockdown Drive",
-      "url": "https://open.spotify.com/track/1OMr7DcjwxiqbyMclrScD1"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "fugla",
         "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 130240,
       "name": "fugla",
       "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Jazzbois Goes Blunt II",
+        "url": "https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        }
+      ],
+      "duration_ms": 320279,
+      "name": "Lockdown Drive",
+      "url": "https://open.spotify.com/track/1OMr7DcjwxiqbyMclrScD1"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn"
-      },
-      "artists": [
-        {
-          "name": "Ajmw",
-          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "Blue Notes",
-      "url": "https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "KARPEH",
         "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn"
+      },
+      "artists": [
+        {
+          "name": "Ajmw",
+          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "Blue Notes",
+      "url": "https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Loaf Mode",
         "url": "https://open.spotify.com/album/4ovwMfCyMoFgOdnW4gH6KP"
       },
@@ -1239,6 +1239,26 @@
       "duration_ms": 137000,
       "name": "Loaf Mode",
       "url": "https://open.spotify.com/track/0rKzqlcGgZv3vuNM6BKqTb"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Post Koma",
+        "url": "https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh"
+      },
+      "artists": [
+        {
+          "name": "Koma Saxo",
+          "url": "https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        }
+      ],
+      "duration_ms": 98173,
+      "name": "Koma",
+      "url": "https://open.spotify.com/track/58GkabYcH4AIf4Mb6IuyQL"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1295,26 +1315,6 @@
       "duration_ms": 138795,
       "name": "Hypnagogia Wakefull Dreams",
       "url": "https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Post Koma",
-        "url": "https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh"
-      },
-      "artists": [
-        {
-          "name": "Koma Saxo",
-          "url": "https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        }
-      ],
-      "duration_ms": 98173,
-      "name": "Koma",
-      "url": "https://open.spotify.com/track/58GkabYcH4AIf4Mb6IuyQL"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Blue Heart",
-        "url": "https://open.spotify.com/album/2HtQz0eVFEMY8iZjK4NxOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Diamond",
-          "url": "https://open.spotify.com/artist/7uLxDJELvSU1oFe1V7jLhW"
-        },
-        {
-          "name": "RMB Justize",
-          "url": "https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd"
-        }
-      ],
-      "duration_ms": 148736,
-      "name": "Blue Heart",
-      "url": "https://open.spotify.com/track/2sCmLqb2PhUeL4sHw6mp8l"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Deciphering The Message",
         "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
       },
@@ -1479,26 +1459,6 @@
       "duration_ms": 197373,
       "name": "C.F.D.",
       "url": "https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Realm of Ideas",
-        "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
-      },
-      "artists": [
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        },
-        {
-          "name": "Sandro S\u00e1ez",
-          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Minding My Business",
-      "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1523,18 +1483,42 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Is This Jazz?",
-        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
+        "name": "Blue Heart",
+        "url": "https://open.spotify.com/album/2HtQz0eVFEMY8iZjK4NxOF"
       },
       "artists": [
         {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+          "name": "Eric Diamond",
+          "url": "https://open.spotify.com/artist/7uLxDJELvSU1oFe1V7jLhW"
+        },
+        {
+          "name": "RMB Justize",
+          "url": "https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd"
         }
       ],
-      "duration_ms": 181855,
-      "name": "Is This Jazz?",
-      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
+      "duration_ms": 148736,
+      "name": "Blue Heart",
+      "url": "https://open.spotify.com/track/2sCmLqb2PhUeL4sHw6mp8l"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Realm of Ideas",
+        "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        },
+        {
+          "name": "Sandro S\u00e1ez",
+          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Minding My Business",
+      "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1563,6 +1547,22 @@
       "duration_ms": 153044,
       "name": "Old Royalty",
       "url": "https://open.spotify.com/track/2DcG3Xwrjv0XRLQVlJjXqM"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Is This Jazz?",
+        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Is This Jazz?",
+      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Even the Sun",
-        "url": "https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 206326,
-      "name": "Even the Sun",
-      "url": "https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Floatin'",
         "url": "https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 112985,
       "name": "Floatin'",
       "url": "https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Saucisses",
+        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Saucisses",
+      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Saucisses",
-        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+        "name": "Even the Sun",
+        "url": "https://open.spotify.com/album/7AmueUKQ7wH3hkpUc827JG"
       },
       "artists": [
         {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Saucisses",
-      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
+      "duration_ms": 206326,
+      "name": "Even the Sun",
+      "url": "https://open.spotify.com/track/2TWkH2N07GzwDHBeKE11Gz"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1767,22 +1767,6 @@
       "duration_ms": 176000,
       "name": "Byzantine",
       "url": "https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Long Time",
-        "url": "https://open.spotify.com/album/3YXiuYi4tXYdR3AX3f5Wbh"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 153002,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/6ZK9plJc7ahA9ML8Q6IRww"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Long Time",
+        "url": "https://open.spotify.com/album/3YXiuYi4tXYdR3AX3f5Wbh"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 153002,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/6ZK9plJc7ahA9ML8Q6IRww"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "Blue Turn",
         "url": "https://open.spotify.com/album/1gfJzf9Hu6HKzlGtfbg4km"
       },
@@ -1919,6 +1919,26 @@
       "duration_ms": 168000,
       "name": "Lament",
       "url": "https://open.spotify.com/track/1RGNKh9SaJr6UNXiUe33UM"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Machete",
+        "url": "https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO"
+      },
+      "artists": [
+        {
+          "name": "SamuW",
+          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
+        },
+        {
+          "name": "Mendeville",
+          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
+        }
+      ],
+      "duration_ms": 165606,
+      "name": "Machete",
+      "url": "https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1955,26 +1975,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Machete",
-        "url": "https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO"
-      },
-      "artists": [
-        {
-          "name": "SamuW",
-          "url": "https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio"
-        },
-        {
-          "name": "Mendeville",
-          "url": "https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD"
-        }
-      ],
-      "duration_ms": 165606,
-      "name": "Machete",
-      "url": "https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/1V1A4f4DmJJfrDjWETEU4C"
       },
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "The Changing Tides of Dreams",
-        "url": "https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I"
-      },
-      "artists": [
-        {
-          "name": "SHOLTO",
-          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
-        }
-      ],
-      "duration_ms": 181761,
-      "name": "The Pleasure Principle",
-      "url": "https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Bror",
         "url": "https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 419133,
       "name": "Hejd\u00e5 Kalvsn\u00e4s",
       "url": "https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "The Changing Tides of Dreams",
+        "url": "https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "duration_ms": 181761,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls"
     },
     {
       "added_at": "2024-03-20 12:30:49",

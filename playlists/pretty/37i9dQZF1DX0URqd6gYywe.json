@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Hilda Lizarazu",
-  "num_followers": 129469,
+  "num_followers": 129574,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Esperando el Milagro",
-        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "LA NIEBLA",
-      "url": "https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -523,18 +503,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
       },
       "artists": [
         {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+      "duration_ms": 211119,
+      "name": "LA NIEBLA",
+      "url": "https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 264840,
       "name": "Cr\u00edmenes perfectos",
       "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Delator",
-        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Coraz\u00f3n Delator",
-      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "En La Vereda del Sol",
         "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 173746,
       "name": "Inconsciente Colectivo",
       "url": "https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n Delator",
+        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Coraz\u00f3n Delator",
+      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Fuera de Moda",
-        "url": "https://open.spotify.com/album/0IVrP8hRUEnOiPYKln5wNV"
-      },
-      "artists": [
-        {
-          "name": "Ella Es Tan Cargosa",
-          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
-        }
-      ],
-      "duration_ms": 255995,
-      "name": "Lina",
-      "url": "https://open.spotify.com/track/5urCjeuoAnawvoBxlzJRTF"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "El Universo",
         "url": "https://open.spotify.com/album/3TOpU3w0sTPPSKl8yt323D"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 136747,
       "name": "El Universo",
       "url": "https://open.spotify.com/track/0YBn48a0CAaS8I7FpcWAvv"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Fuera de Moda",
+        "url": "https://open.spotify.com/album/0IVrP8hRUEnOiPYKln5wNV"
+      },
+      "artists": [
+        {
+          "name": "Ella Es Tan Cargosa",
+          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
+        }
+      ],
+      "duration_ms": 255995,
+      "name": "Lina",
+      "url": "https://open.spotify.com/track/5urCjeuoAnawvoBxlzJRTF"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/2J0X6FPGlp14rymZQQN1ZD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Wirzt",
+          "url": "https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/1UZCVYRJ2qZaUEMrsqIJkI"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Arariyo",
         "url": "https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/2J0X6FPGlp14rymZQQN1ZD"
+        "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
+        "url": "https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ"
       },
       "artists": [
         {
-          "name": "Manuel Wirzt",
-          "url": "https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra"
+          "name": "Antonio Birabent",
+          "url": "https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ"
         }
       ],
-      "duration_ms": 254142,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/1UZCVYRJ2qZaUEMrsqIJkI"
+      "duration_ms": 185590,
+      "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
+      "url": "https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 234674,
       "name": "La Llama",
       "url": "https://open.spotify.com/track/6uT7AhIuuUnzNA3KUc2Vk4"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
-        "url": "https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ"
-      },
-      "artists": [
-        {
-          "name": "Antonio Birabent",
-          "url": "https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ"
-        }
-      ],
-      "duration_ms": 185590,
-      "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
-      "url": "https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 289654,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/3pMo77B4r1NwwIK78lO4xf"
+      "duration_ms": 256190,
+      "name": "Mirenla",
+      "url": "https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL"
     },
     {
       "added_at": "2024-05-10 03:00:00",

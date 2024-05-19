@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Pedropiedra",
-  "num_followers": 191817,
+  "num_followers": 191808,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Cahu\u00edn",
-        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Cahu\u00edn",
-      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 281037,
       "name": "Privado",
       "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Cahu\u00edn",
+        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Cahu\u00edn",
+      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -931,6 +931,38 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
+      },
+      "artists": [
+        {
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        }
+      ],
+      "duration_ms": 218735,
+      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Camino a Casa",
         "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
       },
@@ -947,22 +979,6 @@
       "duration_ms": 173664,
       "name": "Camino a Casa",
       "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        }
-      ],
-      "duration_ms": 218735,
-      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+        "name": "Pol\u00edticamente Incorrectos (Soeces y Anacr\u00f3nicos)",
+        "url": "https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
         }
       ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
+      "duration_ms": 161101,
+      "name": "Los Ni\u00f1os Cuicos No Saben Rockear",
+      "url": "https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 235626,
       "name": "T\u00da",
       "url": "https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Pol\u00edticamente Incorrectos (Soeces y Anacr\u00f3nicos)",
-        "url": "https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 161101,
-      "name": "Los Ni\u00f1os Cuicos No Saben Rockear",
-      "url": "https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1083,6 +1083,22 @@
       "duration_ms": 272133,
       "name": "Para Estar",
       "url": "https://open.spotify.com/track/2VQJKuneBaDNwjBHbWn5FK"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1151,38 +1167,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
-      },
-      "artists": [
-        {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Dignidad",
         "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 228530,
       "name": "Sangre y Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
+      },
+      "artists": [
+        {
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Destino Final",
-        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
         }
       ],
-      "duration_ms": 329875,
-      "name": "Destino Final",
-      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
+      "duration_ms": 319903,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1391,8 +1391,8 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I"
+        "name": "Destino Final",
+        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
       },
       "artists": [
         {
@@ -1400,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
         }
       ],
-      "duration_ms": 319903,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3"
+      "duration_ms": 329875,
+      "name": "Destino Final",
+      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
     },
     {
       "added_at": "2024-05-10 03:00:00",

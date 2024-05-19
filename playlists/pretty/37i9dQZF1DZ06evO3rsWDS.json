@@ -1,13 +1,33 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 4727,
+  "num_followers": 4729,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAAH9mmsVq2s2lgOVJrfnHh",
+  "snapshot_id": "ZkaeAAAAAAD7Txa2gFksCZGTKC7v8JGq",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Pinche Pari (PPP)",
+        "url": "https://open.spotify.com/album/4rATRjPNbTx9SCII7VsWYs"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Puro Pinche Pari (PPP)",
+      "url": "https://open.spotify.com/track/0KV2Dy7DpMXI6C7bBGCdgu"
+    },
     {
       "added_at": null,
       "album": {
@@ -359,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHIQUIS - BEE SIDE",
-        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "LA QUE MANDA",
-      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa\u2019Delante",
         "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
       },
@@ -391,6 +395,22 @@
       "duration_ms": 190906,
       "name": "J\u00f3dete",
       "url": "https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "LA QUE MANDA",
+      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
     },
     {
       "added_at": null,
@@ -655,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Gracias Por Tu Participaci\u00f3n",
+      "url": "https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amandote (Mariachi)",
         "url": "https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6"
       },
@@ -671,22 +707,6 @@
       "duration_ms": 181521,
       "name": "Amandote - Mariachi",
       "url": "https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "La Malquerida",
-      "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
     },
     {
       "added_at": null,
@@ -711,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+        "name": "An\u00edmate Y Ver\u00e1s",
+        "url": "https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI"
       },
       "artists": [
         {
@@ -720,9 +740,25 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Gracias Por Tu Participaci\u00f3n",
-      "url": "https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl"
+      "duration_ms": 144226,
+      "name": "An\u00edmate Y Ver\u00e1s",
+      "url": "https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "La Malquerida",
+      "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
     },
     {
       "added_at": null,
@@ -739,22 +775,6 @@
       "duration_ms": 170106,
       "name": "No Regresar\u00e1s",
       "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An\u00edmate Y Ver\u00e1s",
-        "url": "https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "An\u00edmate Y Ver\u00e1s",
-      "url": "https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V"
     },
     {
       "added_at": null,

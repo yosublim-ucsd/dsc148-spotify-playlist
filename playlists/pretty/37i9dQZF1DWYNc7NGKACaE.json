@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 80269,
+  "num_followers": 80284,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Se a Saudade Bater (Workout Version)",
+        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
+      },
+      "artists": [
+        {
+          "name": "MC Tairon",
+          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+        }
+      ],
+      "duration_ms": 131280,
+      "name": "Se a Saudade Bater (Workout Version)",
+      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Conto do Pescador (Speed Version)",
         "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 174701,
       "name": "Conto do Pescador (Speed Version)",
       "url": "https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Se a Saudade Bater (Workout Version)",
-        "url": "https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 131280,
-      "name": "Se a Saudade Bater (Workout Version)",
-      "url": "https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2"
     },
     {
       "added_at": "2023-12-27 14:18:14",

@@ -2,7 +2,7 @@
 
 ### [This Is Static\-X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4A7YBu)
 
-> This is: Static\-X\. Alle wichtigen Tracks in einer Playlist.
+> This is Static\-X\. The essential tracks, all in one playlist.
 
 53 songs - 2 hr 57 min
 
@@ -17,7 +17,7 @@
 | [Bring You Down \(Project Regeneration\)](https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:35 | 2024-01-30 |  |
 | [Cannibal](https://open.spotify.com/track/3i7SFm1X8kHXfa9saDtxIW) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 3:13 | 2024-01-30 |  |
 | [Chroma\-Matic](https://open.spotify.com/track/6kI9g6skgFFrKdmEeATr6c) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 2:44 | 2024-01-30 |  |
-| [Cold](https://open.spotify.com/track/7r7NIoBZynrYIKZnIS5Z1Q) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:38 | 2024-01-30 |  |
+| [Cold](https://open.spotify.com/track/7r7NIoBZynrYIKZnIS5Z1Q) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:38 | 2024-01-30 | 2024-05-19 |
 | [Control It](https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 3:05 | 2024-01-30 |  |
 | [Destroy All](https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:18 | 2024-01-30 |  |
 | [Destroyer](https://open.spotify.com/track/4fQIMU0neeR5XlQp0ol1c9) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Cannibal](https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5) | 2:45 | 2024-01-30 |  |

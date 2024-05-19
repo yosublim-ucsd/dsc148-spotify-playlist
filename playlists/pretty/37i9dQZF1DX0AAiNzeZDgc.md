@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AAiNzeZDgc.md) - [plain]
 
 > This Is STAYC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,400 likes - 34 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,434 likes - 34 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

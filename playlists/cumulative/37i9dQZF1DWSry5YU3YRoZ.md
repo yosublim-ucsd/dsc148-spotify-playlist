@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-78 songs - 5 hr 6 min
+79 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Glass](https://open.spotify.com/track/45xFvznhVt4u8RzHMhC8hc) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Glass](https://open.spotify.com/album/4Ek9ovRZi20qAA9Y3M6BAn) | 4:15 | 2023-11-03 | 2024-04-19 |
 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 | 2023-11-03 |  |
 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 | 2023-11-03 |  |
-| [Good Night](https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [Good Night](https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ) | 3:51 | 2024-03-08 |  |
+| [Good Night](https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [Good Night](https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ) | 3:51 | 2024-03-08 | 2024-05-19 |
 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 | 2024-01-08 | 2024-04-19 |
 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2023-11-03 | 2024-02-04 |
 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 | 2023-11-03 |  |
@@ -61,6 +61,7 @@
 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 | 2023-11-03 |  |
 | [Small Talk About Everything](https://open.spotify.com/track/68lrtGou1rovK9aYHlr660) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Small Talk About Everything](https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX) | 4:10 | 2024-03-08 |  |
 | [Snowman](https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 5:25 | 2023-11-03 |  |
+| [Sparkling Sunshine](https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [남해](https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G) | 4:07 | 2024-03-08 |  |
 | [Star](https://open.spotify.com/track/0UZHbXhLZAsE71qeHbMlJZ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/7facF0CcVOiN1r8L1FquZg) | 3:20 | 2024-03-08 | 2024-04-19 |
 | [Star](https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:20 | 2023-11-03 | 2024-05-03 |
 | [Stay](https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 4:10 | 2023-11-03 |  |

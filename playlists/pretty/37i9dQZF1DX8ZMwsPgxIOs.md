@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Eli Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,692 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,726 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 21 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 |
 | 22 | [The Incident](https://open.spotify.com/track/07RiiENqLJMuIKmiDWUUch) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [The Incident](https://open.spotify.com/album/3DXftMckzQPpMJzQ2c2LH3) | 3:37 |
 | 23 | [Oh My](https://open.spotify.com/track/0sgh2BTw3Rgckpu04xmJGe) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Oh My](https://open.spotify.com/album/35IaeVYU7soMmkdDbWVUo5) | 2:40 |
-| 24 | [New Generation](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
+| 24 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
 | 25 | [When I Push \- Edit](https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [When I Push \(Edit\)](https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy) | 3:33 |
 | 26 | [The Way](https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [The Way](https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co) | 2:39 |
 | 27 | [Killa](https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Killa](https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB) | 5:34 |

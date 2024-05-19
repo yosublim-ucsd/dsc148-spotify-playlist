@@ -1,6 +1,6 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31259,
+  "num_followers": 31262,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "nasty",
         "url": "https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 175505,
       "name": "nasty",
       "url": "https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -651,42 +651,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Unavailable",
-        "url": "https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "R3LL",
-          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
-        }
-      ],
-      "duration_ms": 201459,
-      "name": "Unavailable",
-      "url": "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Club Soda, Vol. 2",
-        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
@@ -711,22 +675,38 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "It's Giving EP",
-        "url": "https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ"
+        "name": "Club Soda, Vol. 2",
+        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
       },
       "artists": [
         {
-          "name": "Baby Weight",
-          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
-        },
-        {
-          "name": "Jesse Fields",
-          "url": "https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe"
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
         }
       ],
-      "duration_ms": 219999,
-      "name": "Slay 4 Me (feat. Jesse Fields) - Edit",
-      "url": "https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON"
+      "duration_ms": 145655,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Unavailable",
+        "url": "https://open.spotify.com/album/1AMwkyhrdiuLaRksmvT6kS"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        }
+      ],
+      "duration_ms": 201459,
+      "name": "Unavailable",
+      "url": "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -747,6 +727,26 @@
       "duration_ms": 301950,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "It's Giving EP",
+        "url": "https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ"
+      },
+      "artists": [
+        {
+          "name": "Baby Weight",
+          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
+        },
+        {
+          "name": "Jesse Fields",
+          "url": "https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe"
+        }
+      ],
+      "duration_ms": 219999,
+      "name": "Slay 4 Me (feat. Jesse Fields) - Edit",
+      "url": "https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -819,34 +819,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Hold Up",
-        "url": "https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 124096,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Banter",
         "url": "https://open.spotify.com/album/2CrWMemgMF8qnp8r2dg814"
       },
@@ -871,6 +843,34 @@
       "duration_ms": 150000,
       "name": "Banter - Sak Noel, Franklin Dam Remix",
       "url": "https://open.spotify.com/track/6BcgLpYUrgWdupgoq3pNIQ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 124096,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "INTO THE COCOON",
-        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
-      },
-      "artists": [
-        {
-          "name": "THE BLVCK BUTTAFLY",
-          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "BALTIMORE",
-      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Blessed More Blessed (Dance Remixes)",
         "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 170981,
       "name": "Blessed - DJ Sliink Remix",
       "url": "https://open.spotify.com/track/0K7U3HXP57djVDMYEha4m4"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "INTO THE COCOON",
+        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
+      },
+      "artists": [
+        {
+          "name": "THE BLVCK BUTTAFLY",
+          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "BALTIMORE",
+      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Get Freaky",
+        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
+      },
+      "artists": [
+        {
+          "name": "TateKo",
+          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
+        },
+        {
+          "name": "Da Yo Boyz",
+          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
+        }
+      ],
+      "duration_ms": 178872,
+      "name": "Get Freaky",
+      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "STAND BACK (RELOADED)",
         "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 157714,
       "name": "STAND BACK (RELOADED)",
       "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Get Freaky",
-        "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
-      },
-      "artists": [
-        {
-          "name": "TateKo",
-          "url": "https://open.spotify.com/artist/0mvV3dQKJObqwGdWszYW3K"
-        },
-        {
-          "name": "Da Yo Boyz",
-          "url": "https://open.spotify.com/artist/5hfqwT02GtAzIfY2Ea5lAp"
-        }
-      ],
-      "duration_ms": 178872,
-      "name": "Get Freaky",
-      "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Another Chance (SBF17)",
-        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 183345,
-      "name": "Another Chance - SBF17",
-      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Bombtrack (Roska Remix)",
         "url": "https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 268057,
       "name": "Bombtrack (Roska Remix)",
       "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Another Chance (SBF17)",
+        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 183345,
+      "name": "Another Chance - SBF17",
+      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
+        "name": "Black Rave Culture Vol 2",
+        "url": "https://open.spotify.com/album/6soc0L7CgYTEVEx3dNBLoy"
       },
       "artists": [
         {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+          "name": "Black Rave Culture",
+          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
         }
       ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
+      "duration_ms": 348000,
+      "name": "Something Else",
+      "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Black Rave Culture Vol 2",
-        "url": "https://open.spotify.com/album/6soc0L7CgYTEVEx3dNBLoy"
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
       },
       "artists": [
         {
-          "name": "Black Rave Culture",
-          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
         }
       ],
-      "duration_ms": 348000,
-      "name": "Something Else",
-      "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1991,6 +1991,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Beat It",
+        "url": "https://open.spotify.com/album/2UtT9FpmI9msvUab9DQIUg"
+      },
+      "artists": [
+        {
+          "name": "LadyStorm",
+          "url": "https://open.spotify.com/artist/3SowffHci9iQf0ssqOYltv"
+        },
+        {
+          "name": "Beautiful Perfection",
+          "url": "https://open.spotify.com/artist/60yXqNTmZSg8FOSV1SDXeX"
+        }
+      ],
+      "duration_ms": 184529,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/4wbOo8y5y3C96cXLZaSbER"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "I Said",
         "url": "https://open.spotify.com/album/3dRwrDrZAVZuUnPQ0mZCde"
       },
@@ -2027,26 +2047,6 @@
       "duration_ms": 166060,
       "name": "Ride It - SBF17",
       "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Beat It",
-        "url": "https://open.spotify.com/album/2UtT9FpmI9msvUab9DQIUg"
-      },
-      "artists": [
-        {
-          "name": "LadyStorm",
-          "url": "https://open.spotify.com/artist/3SowffHci9iQf0ssqOYltv"
-        },
-        {
-          "name": "Beautiful Perfection",
-          "url": "https://open.spotify.com/artist/60yXqNTmZSg8FOSV1SDXeX"
-        }
-      ],
-      "duration_ms": 184529,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/4wbOo8y5y3C96cXLZaSbER"
     }
   ],
   "unique_name": "Global Club Music",

@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. Cover: Omar Apollo
 
-730 songs - 1 day 16 hr 15 min
+731 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [The Blue](https://open.spotify.com/track/4LAeAtcbEAFYTRsZRpua6Z) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 4:05 | 2024-03-04 | 2024-03-09 |
 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 | 2024-01-12 | 2024-04-27 |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2022-03-18 | 2022-04-21 |
+| [The Golden Years](https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf) | 3:34 | 2024-05-17 |  |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-08 |  |
 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 | 2022-07-22 | 2023-04-29 |
 | [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-05-27 | 2022-07-29 |
@@ -689,7 +690,7 @@
 | [What I Put You Through](https://open.spotify.com/track/4JCcXmANxb48z3WTeUHiJp) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [What I Put You Through](https://open.spotify.com/album/7mbGfCiWRq2uX7AxmYLCQC) | 3:22 | 2022-01-07 | 2023-04-01 |
 | [What Was](https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [What Was](https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T) | 3:35 | 2023-04-14 | 2023-10-21 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-14 |  |
-| [What You Wanted](https://open.spotify.com/track/6id2Exr8Jp9bO1uFUC2i9B) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [What You Wanted](https://open.spotify.com/album/2ChOLNTVc64tdbcmkXygbe) | 2:57 | 2024-04-26 |  |
+| [What You Wanted](https://open.spotify.com/track/6id2Exr8Jp9bO1uFUC2i9B) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [What You Wanted](https://open.spotify.com/album/2ChOLNTVc64tdbcmkXygbe) | 2:57 | 2024-04-26 | 2024-05-19 |
 | [What You'll Never Say](https://open.spotify.com/track/6kvEvPFpC7v5aJeA6FREpR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Autumn Leaves](https://open.spotify.com/album/6DGGxFMQTmxzUInGRbCiwR) | 3:40 | 2023-10-13 | 2023-11-11 |
 | [What's The Point?](https://open.spotify.com/track/7CiI3YwYn2RWhzlifKMYcP) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [What's The Point?](https://open.spotify.com/album/6Lu7fKadh6NxAnH1oICXMX) | 2:54 | 2022-12-09 | 2022-12-17 |
 | [When I Hate Myself](https://open.spotify.com/track/4UHp0zxbh8ft26PSigDO0f) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [When I Hate Myself](https://open.spotify.com/album/2128hWtqbtGzK9HzKEGUAC) | 2:56 | 2023-08-11 | 2023-08-19 |

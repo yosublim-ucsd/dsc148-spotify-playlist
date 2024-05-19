@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,539 likes - 100 songs - 5 hr 8 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,538 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 42 | [Missing](https://open.spotify.com/track/76NaifBaniFGCEFSbvwiMz) | [Alvin Anthony](https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H), [BLUTH](https://open.spotify.com/artist/0gemmZ2Ruimn75T84xdjlq) | [Missing](https://open.spotify.com/album/5cWfIUWnJ3skaZah58Jag3) | 2:23 |
 | 43 | [Momma Always Told Me \(feat\. Stanaj & Yung Bae\) \- Matoma Remix](https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Momma Always Told Me \(feat\. Stanaj & Yung Bae\) \[Matoma Remixes\]](https://open.spotify.com/album/6YdrjkUXEFaQwmsPn5fxCD) | 3:22 |
 | 44 | [Something Good](https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN) | [MOUNT](https://open.spotify.com/artist/4DMDkM0xOw9eBeCpW60ycz), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Something Good](https://open.spotify.com/album/22ns2k6WNp5LLcYXwRhBLo) | 2:58 |
-| 45 | [Black & Gold](https://open.spotify.com/track/74b97PUQzW3oaDKj77rsWf) | [Valentina Star](https://open.spotify.com/artist/2JDNtZp5FSjWeMK4C4hFFU), [Jack Fruit](https://open.spotify.com/artist/3PKBUs6yX8imvyQp0E8ePe), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr) | [Black & Gold](https://open.spotify.com/album/1d81mkh0SRljSFqIJrL39N) | 3:34 |
+| 45 | [Black & Gold](https://open.spotify.com/track/74b97PUQzW3oaDKj77rsWf) | [Valentina Star](https://open.spotify.com/artist/2JDNtZp5FSjWeMK4C4hFFU), [Jack Fruit](https://open.spotify.com/artist/0n0HpcvEJoZvQSPwkBKkSE), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr) | [Black & Gold](https://open.spotify.com/album/1d81mkh0SRljSFqIJrL39N) | 3:34 |
 | 46 | [Désolée \(Paris/Paname\)](https://open.spotify.com/track/00KCwnrvIXX8GRU3ZMOIBW) | [SHANGUY](https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs) | [Désolée \(Paris/Paname\)](https://open.spotify.com/album/380jows5YkchH1mDjAHdk4) | 3:27 |
 | 47 | [By My Side \(feat\. Anthony Valadez\)](https://open.spotify.com/track/6eSWdCAvzD4danVK3OlqYU) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Anthony Valadez](https://open.spotify.com/artist/1q6CJpl89vkfPuYnRqKl5H) | [By My Side \(feat\. Anthony Valadez\)](https://open.spotify.com/album/5SaunZEkzpXuY7R8GKpFkV) | 2:37 |
 | 48 | [By My Side \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [By My Side \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y) | 2:45 |

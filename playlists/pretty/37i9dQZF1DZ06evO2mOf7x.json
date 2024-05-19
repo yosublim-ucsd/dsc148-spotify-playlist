@@ -1,13 +1,29 @@
 {
-  "description": "This Is Ana B\u00e1rbara. Los temas esenciales, todos en una lista.",
-  "num_followers": 42419,
+  "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
+  "num_followers": 42433,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAABfNEHGnA3AhHR6Zri/OKdt",
+  "snapshot_id": "ZkaeAAAAAABM4Vinkrh7lRVlzq4N/WWQ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Bail\u00e9",
+        "url": "https://open.spotify.com/album/5o7L09EuQZyl5c4QrxuEvu"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 135818,
+      "name": "As\u00ed Bail\u00e9",
+      "url": "https://open.spotify.com/track/45U5juthNlaAGEIFoq5Ehj"
+    },
     {
       "added_at": null,
       "album": {
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 151973,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Enga\u00f1ada",
-      "url": "https://open.spotify.com/track/7fK66suUITQzGu4zynSEBE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Enga\u00f1ada",
+      "url": "https://open.spotify.com/track/7fK66suUITQzGu4zynSEBE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rompiendo Cadenas",
         "url": "https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Extra\u00f1arte Tanto",
-        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 233536,
-      "name": "Para No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Regalo La Lluvia",
         "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 191733,
       "name": "Eso No Es De Hombres",
       "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para No Extra\u00f1arte Tanto",
+        "url": "https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 233536,
+      "name": "Para No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z"
     },
     {
       "added_at": null,
@@ -831,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Los Besos No Se Dan En La Camisa",
-      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Veinticinco",
         "url": "https://open.spotify.com/album/5kMOVXa9KmVVgZSOE6xA96"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 184546,
       "name": "Enamorado Y Sin Ti",
       "url": "https://open.spotify.com/track/4YPp8ZNDC7Mwoxl378F1d8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Los Besos No Se Dan En La Camisa",
+      "url": "https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc"
     },
     {
       "added_at": null,

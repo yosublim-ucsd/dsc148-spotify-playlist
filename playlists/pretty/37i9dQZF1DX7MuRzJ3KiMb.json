@@ -1,6 +1,6 @@
 {
   "description": "el amor es <3",
-  "num_followers": 90202,
+  "num_followers": 90225,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "YOKO",
         "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 207426,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Sensaciones",
-        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 68733,
-      "name": "86.400",
-      "url": "https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 200510,
       "name": "atravesao",
       "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "Sensaciones",
+        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 68733,
+      "name": "86.400",
+      "url": "https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "Amantes - Su Majestad La Eternidad",
         "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 232066,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -959,22 +959,18 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Como Si Fuera La Primera Vez",
-        "url": "https://open.spotify.com/album/2ZWunVkn3GD7klxMoCZHLQ"
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
       "artists": [
         {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
         }
       ],
-      "duration_ms": 176538,
-      "name": "Como Si Fuera La Primera Vez",
-      "url": "https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96"
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -995,18 +991,22 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+        "name": "Como Si Fuera La Primera Vez",
+        "url": "https://open.spotify.com/album/2ZWunVkn3GD7klxMoCZHLQ"
       },
       "artists": [
         {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+      "duration_ms": 176538,
+      "name": "Como Si Fuera La Primera Vez",
+      "url": "https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96"
     },
     {
       "added_at": "2024-05-16 00:12:45",

@@ -4,7 +4,7 @@
 
 > ?! ft\. Tommy Richman
 
-1,675 songs - 3 day 8 hr 32 min
+1,676 songs - 3 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1205,6 +1205,7 @@
 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 | 2021-10-15 | 2022-10-05 |
 | [Rivers of Another Town](https://open.spotify.com/track/1uAmnhfgtyacNRPnpvyqnX) | [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Sugar World](https://open.spotify.com/album/6dEA8sTmywhnEKxfshZghx) | 4:47 | 2023-02-03 | 2023-04-15 |
 | [Rocket Ship](https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Rocket Ship](https://open.spotify.com/album/7xytf2QWXPKWqI0FhAAUSW) | 1:43 | 2023-04-14 | 2023-07-22 |
+| [ROLE MODEL](https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ROLE MODEL](https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG) | 1:58 | 2024-05-10 |  |
 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-11-19 | 2022-03-01 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 | 2023-01-14 |
 | [Romanticist](https://open.spotify.com/track/5YixskhSGNwmqjUrG0DTEY) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 1:46 | 2022-05-09 | 2022-07-01 |
@@ -1371,7 +1372,7 @@
 | [Stunnin'](https://open.spotify.com/track/2LUdpPCiiza6UQugipjMeS) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Stunnin'](https://open.spotify.com/album/3UelVbXKapujAhLoeJ3bri) | 2:24 | 2020-10-13\* | 2021-02-13 |
 | [sub 32](https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sub 32](https://open.spotify.com/album/1ayf7TVmz3NSRUD1q36mMJ) | 1:48 | 2023-06-23 | 2023-09-16 |
 | [Suburban Sociopath](https://open.spotify.com/track/0iiNKiK5BeNGMzxGi6ap0A) | [Afourteen](https://open.spotify.com/artist/1yfmP9tNARpez6v4p31zqg), [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [Suburban Sociopath](https://open.spotify.com/album/4gglL5UEFKSEnYR7vaErSW) | 3:54 | 2021-12-16 | 2022-04-09 |
-| [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 | 2022-08-05 |  |
+| [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 | 2022-08-05 | 2024-05-19 |
 | [SUCKAPUNCH](https://open.spotify.com/track/6191y55iGLlhi8N1yrynBs) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [SUCKAPUNCH](https://open.spotify.com/album/1bdKi7R0oAgdOnXFCRSQkB) | 2:27 | 2022-03-22 | 2022-06-18 |
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2022-04-09 | 2022-05-19 |
 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 | 2022-07-29 | 2023-03-21 |

@@ -1,6 +1,6 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:5d1JhBfyb58upMXCZOdbQu\">Phil Wickham</a>",
-  "num_followers": 350829,
+  "num_followers": 350982,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "Love Me Like I Am (with Jordin Sparks)",
         "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 187306,
       "name": "Love Me Like I Am (with Jordin Sparks)",
       "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Where Can I Go - Psalm 139",
-        "url": "https://open.spotify.com/album/79urTMskFiBnMovdMAwUw1"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Where Can I Go - Psalm 139",
-      "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "If I Got Jesus",
         "url": "https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 231320,
       "name": "If I Got Jesus",
       "url": "https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Where Can I Go - Psalm 139",
+        "url": "https://open.spotify.com/album/79urTMskFiBnMovdMAwUw1"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Where Can I Go - Psalm 139",
+      "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "Somebody Loves You",
+        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 191944,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "The Commission (Go Tell The World)",
         "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 245475,
       "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
       "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "Somebody Loves You",
-        "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 191944,
-      "name": "Somebody Loves You",
-      "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "Friend In Jesus (Live)",
+        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 348141,
+      "name": "Friend In Jesus - Live",
+      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "Crowns Down (Live / Deluxe)",
         "url": "https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 448179,
       "name": "Joy (What The World Calls Foolish) - Live",
       "url": "https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "Friend In Jesus (Live)",
-        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 348141,
-      "name": "Friend In Jesus - Live",
-      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "Jesus Music",
+        "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Jesus Music",
+      "url": "https://open.spotify.com/track/2XaoDKLrO6WjtsAImXM6dz"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "New Creation",
         "url": "https://open.spotify.com/album/2Z7wHh6bogC6Lc5qqsHWV8"
       },
@@ -1191,34 +1207,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O"
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
       },
       "artists": [
         {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 179604,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "Jesus Music",
-        "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
-      },
-      "artists": [
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 250840,
-      "name": "Jesus Music",
-      "url": "https://open.spotify.com/track/2XaoDKLrO6WjtsAImXM6dz"
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "My Tribute (To God Be The Glory)",
-        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O"
       },
       "artists": [
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 341986,
-      "name": "My Tribute (To God Be The Glory)",
-      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
+      "duration_ms": 179604,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/3f09hTkQJplZaTQ0r6XJRj"
-      },
-      "artists": [
-        {
-          "name": "Chad Graham",
-          "url": "https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep"
-        },
-        {
-          "name": "Fallon Graham",
-          "url": "https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg"
-        }
-      ],
-      "duration_ms": 222115,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/3nEQk6WLLLjcFkGNKYDylL"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "Hold Me Jesus (The Songs of Rich Mullins)",
         "url": "https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 236806,
       "name": "Worthy One",
       "url": "https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/3f09hTkQJplZaTQ0r6XJRj"
+      },
+      "artists": [
+        {
+          "name": "Chad Graham",
+          "url": "https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep"
+        },
+        {
+          "name": "Fallon Graham",
+          "url": "https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/3nEQk6WLLLjcFkGNKYDylL"
     },
     {
       "added_at": "2024-05-10 04:44:05",

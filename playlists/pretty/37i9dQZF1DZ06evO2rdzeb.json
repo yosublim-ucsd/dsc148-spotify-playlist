@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 6175,
+  "num_followers": 6197,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAACCofdx68k6QSd/3nngWSIV",
+  "snapshot_id": "ZkaeAAAAAAAcFbC8lk0j+74kmGwXqEs0",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 174539,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 248386,
-      "name": "ingydar",
-      "url": "https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc"
+      "duration_ms": 189464,
+      "name": "forwards beckon rebound",
+      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
     },
     {
       "added_at": null,
@@ -271,38 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 57679,
-      "name": "To Violet",
-      "url": "https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 189464,
-      "name": "forwards beckon rebound",
-      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -323,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bright Future",
-        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
       "artists": [
         {
@@ -332,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 145738,
-      "name": "Donut Seam",
-      "url": "https://open.spotify.com/track/789Uf6zgvPqwbCcpw6zSiI"
+      "duration_ms": 248386,
+      "name": "ingydar",
+      "url": "https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc"
     },
     {
       "added_at": null,
@@ -348,15 +316,15 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 173253,
-      "name": "A Love of Some Kind",
-      "url": "https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny"
+      "duration_ms": 57679,
+      "name": "To Violet",
+      "url": "https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
       "artists": [
         {
@@ -364,9 +332,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 164224,
-      "name": "zombie girl",
-      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+      "duration_ms": 145738,
+      "name": "Donut Seam",
+      "url": "https://open.spotify.com/track/789Uf6zgvPqwbCcpw6zSiI"
     },
     {
       "added_at": null,
@@ -387,6 +355,38 @@
       "duration_ms": 248066,
       "name": "Angels",
       "url": "https://open.spotify.com/track/2DsQ4PopTlUlheqyPgPwQz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 164224,
+      "name": "zombie girl",
+      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "A Love of Some Kind",
+      "url": "https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny"
     },
     {
       "added_at": null,

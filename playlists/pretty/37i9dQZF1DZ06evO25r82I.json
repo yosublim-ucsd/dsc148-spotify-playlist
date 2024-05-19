@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 43158,
+  "num_followers": 43170,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAADXDgXxBri4rALgAhmVviJM",
+  "snapshot_id": "ZkaeAAAAAAACl+c/snkRp5PgOlf6QzH8",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 220026,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Bleed American",
-      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
+      "duration_ms": 220026,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+      "duration_ms": 191253,
+      "name": "Criminal Energy",
+      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -568,25 +584,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 191253,
-      "name": "Criminal Energy",
-      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "I Will Steal You Back",
-      "url": "https://open.spotify.com/track/32Cimaqis8qkGRMACGsOkh"
+      "duration_ms": 184773,
+      "name": "Surviving",
+      "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
       "duration_ms": 188400,
       "name": "Believe In What You Want",
       "url": "https://open.spotify.com/track/1MiVBh1JWUmplMqR79UjzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "I Will Steal You Back",
+      "url": "https://open.spotify.com/track/32Cimaqis8qkGRMACGsOkh"
     },
     {
       "added_at": null,
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 184773,
-      "name": "Surviving",
-      "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
+      "duration_ms": 193386,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
     },
     {
       "added_at": null,
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 193386,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
+      "duration_ms": 174346,
+      "name": "Love Never",
+      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
     },
     {
       "added_at": null,
@@ -751,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
       "artists": [
         {
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 174346,
-      "name": "Love Never",
-      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 318373,
       "name": "You With Me",
       "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 198506,
-      "name": "Heart Is Hard To Find",
-      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
     },
     {
       "added_at": null,

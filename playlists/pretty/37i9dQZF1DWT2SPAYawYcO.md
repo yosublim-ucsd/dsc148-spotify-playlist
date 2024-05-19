@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,595 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,648 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 41 | [Panic](https://open.spotify.com/track/5npEtCmoXWlNbm0FcPUyir) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Panic](https://open.spotify.com/album/5AZzwwhtrbfRecHZgPQDuK) | 3:16 |
 | 42 | [Long Story Short](https://open.spotify.com/track/3CUqLwmzODoWGFOTqNxk0m) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Sunnysoposted](https://open.spotify.com/artist/0U3uMh2JMp81V2hup0bJdt) | [Long Story Short](https://open.spotify.com/album/40v4KvGFgKSqukX8Ah7r7a) | 4:27 |
 | 43 | [Cowboys Cry](https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o) | 3:12 |
-| 44 | [Storm \(With Nooky\)](https://open.spotify.com/track/5gpV9T2fp9wvAQMwLhsFtg) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Nooky](https://open.spotify.com/artist/5CCyr43Q4JJ85Cz6Ln28gs) | [Storm \(With Nooky\)](https://open.spotify.com/album/40Jvuvbk4ZouJr6qU7MWWZ) | 3:55 |
+| 44 | [STORM \(With Nooky\)](https://open.spotify.com/track/5gpV9T2fp9wvAQMwLhsFtg) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Nooky](https://open.spotify.com/artist/5CCyr43Q4JJ85Cz6Ln28gs) | [STORM \(With Nooky\)](https://open.spotify.com/album/40Jvuvbk4ZouJr6qU7MWWZ) | 3:55 |
 | 45 | [One Cry \(feat\. Rosa Linn\)](https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:06 |
 | 46 | [Can't Be U](https://open.spotify.com/track/6LNr3mKcFsxfJoRWCyPQ86) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [Can't Be U](https://open.spotify.com/album/1s85gTSokL8dHa3B8opvhj) | 2:53 |
 | 47 | [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 |

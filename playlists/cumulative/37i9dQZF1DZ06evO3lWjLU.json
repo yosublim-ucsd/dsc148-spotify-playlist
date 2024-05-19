@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
+  "description": "This Is Danny Ocean. Los temas esenciales, todos en una lista.",
   "name": "This Is Danny Ocean",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 145787,
       "name": "BEBE",
       "url": "https://open.spotify.com/track/3qIKikzA0EypwZJjK4k9PG"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 209268,
       "name": "Felices Perdidos",
       "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 205210,
       "name": "Fino",
       "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 159849,
       "name": "Fuera del mercado",
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 246947,
       "name": "Midsummer Madness 20 (feat. Joji, Rich Brian, Higher Brothers & AUGUST 08)",
       "url": "https://open.spotify.com/track/0VmMIGnMGIwOEiqueyS9vw"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 178413,
       "name": "NO ES AMOR",
       "url": "https://open.spotify.com/track/0YarQTTvWdA8qnalK79fdD"

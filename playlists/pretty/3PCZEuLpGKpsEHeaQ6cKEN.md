@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: TELYKAST
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,861 likes - 213 songs - 11 hr 24 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,850 likes - 213 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 12 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 |
 | 13 | [Blow My Mind](https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Blow My Mind](https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1) | 2:31 |
 | 14 | [Blank Page](https://open.spotify.com/track/7LouCwDci7mPh8gjirHV0o) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [Florence Bird](https://open.spotify.com/artist/4TNk3AroApHY9cXRR4WD7I) | [Blank Page](https://open.spotify.com/album/2oOsDB4zEpzz5Qa95SEtE5) | 3:58 |
-| 15 | [New Generation](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
+| 15 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 |
 | 16 | [Whole Lotta Drugs](https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Whole Lotta Drugs / Over The Edge](https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn) | 3:28 |
 | 17 | [Weekend Love](https://open.spotify.com/track/1ZmgRaIKH95RpfP59UkkCS) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Weekend Love](https://open.spotify.com/album/5tVct9zbyZZUF50wb3rlpN) | 3:44 |
 | 18 | [Dreaming](https://open.spotify.com/track/7ilI1BbEZgxPRrUiaTTOjI) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Dreaming](https://open.spotify.com/album/37J5A2UvvwnQMOb6Q6wJa4) | 2:49 |

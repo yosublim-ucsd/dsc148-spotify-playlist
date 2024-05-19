@@ -206,7 +206,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 177338,
       "name": "Algo Sencillito",
       "url": "https://open.spotify.com/track/3cHYqc8Wc2SNWjzxy2A1FS"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 170809,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/2dK99lWPkBVwNen6gK1AtI"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 232645,
       "name": "El Patio",
       "url": "https://open.spotify.com/track/0PtLrH95CQ2lKf6pym5LmA"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 138510,
       "name": "ESCALOFR\u00cdOS",
       "url": "https://open.spotify.com/track/5CVMsPYtSJ3l7UxYiI2lt7"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -4530,10 +4530,28 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 158728,
       "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
+    },
+    {
+      "album": {
+        "name": "Rim Tim Tagi Dim",
+        "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
+      },
+      "artists": [
+        {
+          "name": "Baby Lasagna",
+          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179062,
+      "name": "Rim Tim Tagi Dim",
+      "url": "https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ"
     },
     {
       "album": {
@@ -5475,6 +5493,28 @@
     },
     {
       "album": {
+        "name": "M\u00fasica Buena Para D\u00edas Malos",
+        "url": "https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258461,
+      "name": "Textos Fr\u00edos",
+      "url": "https://open.spotify.com/track/0aTmQfJO43j5wC0pDzWuEI"
+    },
+    {
+      "album": {
         "name": "Thal\u00eda",
         "url": "https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og"
       },
@@ -6380,7 +6420,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 175456,
       "name": "YO LO SO\u00d1\u00c9",
       "url": "https://open.spotify.com/track/68qjM8nSoUj8YQOJuu6hZ8"

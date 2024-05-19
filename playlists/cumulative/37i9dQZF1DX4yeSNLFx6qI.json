@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 82833,
       "name": "flores",
       "url": "https://open.spotify.com/track/0hhPjc9JW9AFSrB58erX5X"
@@ -2255,6 +2255,28 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137933,
+      "name": "MAMI 100PRE SABE (INTERLUDE)",
+      "url": "https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ"
+    },
+    {
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -2475,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "mi momento",
+        "url": "https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130212,
+      "name": "mi momento",
+      "url": "https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o"
+    },
+    {
+      "album": {
         "name": "Modo Ofendida",
         "url": "https://open.spotify.com/album/4BodBh6T2yaVLoANvzjWBB"
       },
@@ -2638,7 +2678,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 158283,
       "name": "nadie",
       "url": "https://open.spotify.com/track/4w5QBgzGUrxwk6MU2v8gTN"

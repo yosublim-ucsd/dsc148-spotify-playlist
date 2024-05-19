@@ -2,7 +2,7 @@
 
 ### [This Is Perdidos De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO407nKU)
 
-> This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
+> This is: Perdidos De Sinaloa\. Alle wichtigen Tracks in einer Playlist.
 
 111 songs - 6 hr 19 min
 
@@ -40,7 +40,7 @@
 | [Estas Perdida](https://open.spotify.com/track/7M4QBn5HeBqWvMZvDrP6Jn) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:08 | 2022-06-01 | 2023-02-09 |
 | [Ex de Verdad \(En Vivo\)](https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ex de Verdad \(En Vivo\)](https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU) | 3:38 | 2024-05-05 |  |
 | [Inventame \- En Vivo](https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:15 | 2022-06-01 |  |
-| [Juro Por Dios \- En Vivo](https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:22 | 2022-06-01 |  |
+| [Juro Por Dios \- En Vivo](https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:22 | 2022-06-01 | 2024-05-19 |
 | [La Bruta \(En Vivo\)](https://open.spotify.com/track/7IVjHkw0xPgHsswmRDUDLD) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [La Bruta \(En Vivo\)](https://open.spotify.com/album/583SjEIDcYrSXrOYWa0V3Z) | 4:16 | 2022-12-24 |  |
 | [La Historia Del Joven](https://open.spotify.com/track/0kClhVs8LbgcdnhBHVpyff) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [No La Hagas Sufrir](https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As) | 4:06 | 2022-06-01 | 2022-10-13 |
 | [La Hungara \- En Vivo](https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:21 | 2022-06-01 |  |

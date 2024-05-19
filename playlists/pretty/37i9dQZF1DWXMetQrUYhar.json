@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 106680,
+  "num_followers": 106688,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -664,22 +664,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 248895,
-      "name": "Believe - Spotify Singles",
-      "url": "https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
       "artists": [
@@ -691,6 +675,22 @@
       "duration_ms": 226981,
       "name": "Skinny Love - Spotify Singles",
       "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 248895,
+      "name": "Believe - Spotify Singles",
+      "url": "https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -760,6 +760,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 233854,
+      "name": "Partner in Crime - Spotify Singles",
+      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
       "artists": [
@@ -803,22 +819,6 @@
       "duration_ms": 236644,
       "name": "Feeling Like I Do - Spotify Singles",
       "url": "https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 233854,
-      "name": "Partner in Crime - Spotify Singles",
-      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -984,17 +984,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
+        "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 214750,
-      "name": "Hunger - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
+      "duration_ms": 463336,
+      "name": "Taste - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1016,17 +1016,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
+        "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 463336,
-      "name": "Taste - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6sCUJD28AaThoqhras0jcu"
+      "duration_ms": 214750,
+      "name": "Hunger - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
     },
     {
       "added_at": "2023-11-07 19:15:28",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
-        "url": "https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        },
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 181828,
-      "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
-      "url": "https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
       },
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
+        "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
+        "url": "https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 181828,
+      "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
+      "url": "https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB"
       },
@@ -1308,22 +1308,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 234473,
-      "name": "Breathe - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
       },
       "artists": [
@@ -1335,6 +1319,22 @@
       "duration_ms": 214410,
       "name": "Lay It on Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 234473,
+      "name": "Breathe - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1372,22 +1372,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 142643,
-      "name": "Consideration - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy"
       },
       "artists": [
@@ -1403,6 +1387,22 @@
       "duration_ms": 257712,
       "name": "Come On Up To The House (feat. X Ambassadors) - Spotify Singles",
       "url": "https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 142643,
+      "name": "Consideration - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1480,22 +1480,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 210355,
-      "name": "El Rey de la Popola - Spotify Singles",
-      "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
       },
       "artists": [
@@ -1507,6 +1491,22 @@
       "duration_ms": 155797,
       "name": "Go Away - Spotify Singles",
       "url": "https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 210355,
+      "name": "El Rey de la Popola - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1640,17 +1640,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
+        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
       },
       "artists": [
         {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 261586,
-      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
+      "duration_ms": 253514,
+      "name": "Los Ageless - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1672,17 +1672,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
         }
       ],
-      "duration_ms": 253514,
-      "name": "Los Ageless - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
+      "duration_ms": 261586,
+      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1848,22 +1848,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 225090,
-      "name": "Welcome to Your Life - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2cN7H31DES22HCjYitKggF"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
       },
       "artists": [
@@ -1875,6 +1859,22 @@
       "duration_ms": 237997,
       "name": "Rockstar - Recorded At Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 225090,
+      "name": "Welcome to Your Life - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2cN7H31DES22HCjYitKggF"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1944,22 +1944,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "Fire Escape - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
       },
       "artists": [
@@ -1971,6 +1955,22 @@
       "duration_ms": 344666,
       "name": "tonite - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "Fire Escape - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se"
     },
     {
       "added_at": "2023-01-11 22:54:33",

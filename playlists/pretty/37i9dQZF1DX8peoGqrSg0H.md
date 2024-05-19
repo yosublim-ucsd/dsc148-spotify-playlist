@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,823 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,868 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,19 +18,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 8 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 |
 | 9 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 |
 | 10 | [hot2hot](https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [hot2hot](https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH) | 4:13 |
-| 11 | [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 |
-| 12 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
-| 13 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
-| 14 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
-| 15 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
-| 16 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
-| 17 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 |
-| 18 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
-| 19 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
-| 20 | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 |
-| 21 | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/track/7i6avkKQTEF9g69OcNvECT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U) | 2:52 |
-| 22 | [แล้วยังไงต่อ](https://open.spotify.com/track/2qjarpGRrdp2IkGjvvfftb) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [แล้วยังไงต่อ](https://open.spotify.com/album/3Iqn3Dv3ku88Lyu748tV6B) | 3:07 |
-| 23 | [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 |
+| 11 | [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 |
+| 12 | [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 |
+| 13 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
+| 14 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
+| 15 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
+| 16 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
+| 17 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
+| 18 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 |
+| 19 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
+| 20 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
+| 21 | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ที่ไม่รัก \(Unnoticed\)](https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV) | 4:26 |
+| 22 | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/track/7i6avkKQTEF9g69OcNvECT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U) | 2:52 |
+| 23 | [แล้วยังไงต่อ](https://open.spotify.com/track/2qjarpGRrdp2IkGjvvfftb) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [แล้วยังไงต่อ](https://open.spotify.com/album/3Iqn3Dv3ku88Lyu748tV6B) | 3:07 |
 | 24 | [รักจริง \(แค่เมื่อวาน\)](https://open.spotify.com/track/0lpAUU1G9B5QOaJqt4t8OH) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [รักจริง \(แค่เมื่อวาน\)](https://open.spotify.com/album/1U2jRB2eu7E7aIVGED2GrC) | 3:35 |
 | 25 | [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 |
 | 26 | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/track/5xdmFkq5uVLzhogUK8wRQk) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/album/1X4Je0roqbsKnR5EQwUv4g) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 59 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 |
 | 60 | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/album/19X9OKv7wLrVkfZRwksheZ) | 3:09 |
 
-Snapshot ID: `ZkYVCQAAAADJ1jCbBPYcSKoxD2TbvsDq`
+Snapshot ID: `ZkhyjwAAAABj1pUHBLX33RrWn5AOYjjP`

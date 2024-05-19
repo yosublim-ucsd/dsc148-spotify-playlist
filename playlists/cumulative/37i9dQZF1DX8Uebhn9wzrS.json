@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 127991,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/0FOde8zqSfkBbmIToMoE2K"
@@ -8022,7 +8022,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 121500,
       "name": "Dig!",
       "url": "https://open.spotify.com/track/05K5nIFNQD6BR44OMUgd3T"
@@ -8152,7 +8152,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 130666,
       "name": "disclosure",
       "url": "https://open.spotify.com/track/6QwKvEiS7g4ZmwEcTv0ZVj"
@@ -30693,6 +30693,24 @@
     },
     {
       "album": {
+        "name": "Sunlight Groove",
+        "url": "https://open.spotify.com/album/7EjuIse1z5YfTo5sVJtBiE"
+      },
+      "artists": [
+        {
+          "name": "Paleni",
+          "url": "https://open.spotify.com/artist/1jXT1b0mGSoneZuX4AHSqa"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Sunlight Groove",
+      "url": "https://open.spotify.com/track/7mPUARBaVhZasKOkctAYQK"
+    },
+    {
+      "album": {
         "name": "sunny day dreaming",
         "url": "https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm"
       },
@@ -34676,7 +34694,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 113339,
       "name": "Walk Through the Sky",
       "url": "https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f"
@@ -36450,6 +36468,24 @@
       "duration_ms": 120666,
       "name": "Zen A.M.",
       "url": "https://open.spotify.com/track/2Hv9wGHbkfIBScQg4Tti11"
+    },
+    {
+      "album": {
+        "name": "Zen Garden",
+        "url": "https://open.spotify.com/album/0kPvB9y4kz1T6LlUnxD3uE"
+      },
+      "artists": [
+        {
+          "name": "vibesment",
+          "url": "https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128194,
+      "name": "Zen Garden",
+      "url": "https://open.spotify.com/track/1n67UFilzbUI9i8wsbyCYi"
     },
     {
       "album": {

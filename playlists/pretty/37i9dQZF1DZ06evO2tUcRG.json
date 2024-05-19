@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 259820,
+  "num_followers": 259825,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAADhE9Cdz6eR3PzspdbjkCIc",
+  "snapshot_id": "ZkaeAAAAAAA/kYjuTEoX+uSTotiQONiP",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 473955,
-      "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 264374,
       "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
       "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 473955,
+      "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 Transbordar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 316013,
+      "name": "Me Aproximou - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Jonr4Mb95BeP3gVX9KHcS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 338218,
       "name": "Believe For It",
       "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 Transbordar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 316013,
-      "name": "Me Aproximou - Ao Vivo",
-      "url": "https://open.spotify.com/track/0Jonr4Mb95BeP3gVX9KHcS"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Flow sudamericano con Gino Mella, Sayian Jimmy, LIT killah, Jun, Jairo Vera & Dani Flow.",
-  "num_followers": 331606,
+  "num_followers": 331622,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "TRANKY FUNKY",
         "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
       },
       "artists": [
         {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 186096,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+      "duration_ms": 148321,
+      "name": "AL BORDE",
+      "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -727,22 +743,6 @@
       "duration_ms": 192517,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "511",
-        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 148321,
-      "name": "AL BORDE",
-      "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Duki: Bzrp Music Sessions, Vol. 50",
-        "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 221303,
-      "name": "Duki: Bzrp Music Sessions, Vol. 50",
-      "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "+Q1 Jenner",
         "url": "https://open.spotify.com/album/1Mt0EJwCMaB5MtziKTikg1"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 154794,
       "name": "+Q1 Jenner",
       "url": "https://open.spotify.com/track/3aXtPQQ4xp8MSWPcHSRo6r"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Duki: Bzrp Music Sessions, Vol. 50",
+        "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 221303,
+      "name": "Duki: Bzrp Music Sessions, Vol. 50",
+      "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1403,6 +1403,50 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) [Remix]",
+        "url": "https://open.spotify.com/album/7szreH35LFWOfHayYZoE5v"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Tunvao",
+          "url": "https://open.spotify.com/artist/1zdSbv2pR3OIFKselYbJsC"
+        }
+      ],
+      "duration_ms": 318259,
+      "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) - Remix",
+      "url": "https://open.spotify.com/track/3MhpTdIHlgg5uxNPXSfFOJ"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Marisola",
         "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
       },
@@ -1447,50 +1491,6 @@
       "duration_ms": 225864,
       "name": "Dime T\u00fa",
       "url": "https://open.spotify.com/track/4lLl2TEcaKFcP6m9Xzx3rI"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) [Remix]",
-        "url": "https://open.spotify.com/album/7szreH35LFWOfHayYZoE5v"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Tunvao",
-          "url": "https://open.spotify.com/artist/1zdSbv2pR3OIFKselYbJsC"
-        }
-      ],
-      "duration_ms": 318259,
-      "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) - Remix",
-      "url": "https://open.spotify.com/track/3MhpTdIHlgg5uxNPXSfFOJ"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "QUICKIE",
+        "url": "https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "QUICKIE",
+      "url": "https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Antezana 247 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH"
       },
@@ -1671,8 +1687,8 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+        "name": "Salimo de Noche",
+        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
       },
       "artists": [
         {
@@ -1680,13 +1696,13 @@
           "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+      "duration_ms": 177857,
+      "name": "Salimo de Noche",
+      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1703,26 +1719,6 @@
       "duration_ms": 160482,
       "name": "OJAL\u00c1",
       "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "DE LA P*TA",
-        "url": "https://open.spotify.com/album/4EQQS0BePhv05UCnGivIFt"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 188572,
-      "name": "DE LA P*TA",
-      "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1751,6 +1747,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "DE LA P*TA",
+        "url": "https://open.spotify.com/album/4EQQS0BePhv05UCnGivIFt"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 188572,
+      "name": "DE LA P*TA",
+      "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Vida Gangster",
         "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
       },
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "QUICKIE",
-        "url": "https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "QUICKIE",
-      "url": "https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Cheto Mal",
         "url": "https://open.spotify.com/album/2oJxZbquPWkGZOlsRIIl2k"
       },
@@ -1795,6 +1795,26 @@
       "duration_ms": 122307,
       "name": "Cheto Mal",
       "url": "https://open.spotify.com/track/32299N6IyNvtw1O3eTmWbv"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1831,26 +1851,6 @@
       "duration_ms": 164322,
       "name": "Baila para Mi",
       "url": "https://open.spotify.com/track/2KxfFzjyd5mpJu66s66w2S"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Salimo de Noche",
-        "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Salimo de Noche",
-      "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Mayor Que Yo",
+        "url": "https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 160937,
+      "name": "Mayor Que Yo",
+      "url": "https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "NO APAGUES LA LUZ",
         "url": "https://open.spotify.com/album/15LhVFnUqO0v3N4oPWiQ6B"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 248571,
       "name": "NO APAGUES LA LUZ",
       "url": "https://open.spotify.com/track/1w0gzlVggcvSf3BPd9q8CL"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Mayor Que Yo",
-        "url": "https://open.spotify.com/album/3IYDWHpVnmeM5t5Me43iQm"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 160937,
-      "name": "Mayor Que Yo",
-      "url": "https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu"
     },
     {
       "added_at": "2024-05-17 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,170 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,211 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 37 | [Desma](https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Desma](https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf) | 2:38 |
 | 38 | [Costars](https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o) | [DJ TETRIS](https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA) | [Que Suene Mexico, Vol\. 3](https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3) | 3:15 |
 | 39 | [Alócate](https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR) | [Kanimals](https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp) | [Alócate](https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk) | 3:21 |
-| 40 | [DIABLA VS SALTANDO TRIBAL](https://open.spotify.com/track/1qBaGLAqI5RbSNP6Yau5fU) | [DJ Erandes](https://open.spotify.com/artist/2ei2Mrr1GJnHhxF8pLZCeZ) | [DIABLA VS SALTANDO TRIBAL](https://open.spotify.com/album/3lMY8jkSEY1cE1ZNBUKs75) | 2:37 |
+| 40 | [La Guarachita](https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [La Guarachita](https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG) | 2:59 |
 | 41 | [Gettin' Hype](https://open.spotify.com/track/61ypk11tHPK6NvkapbYap1) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Terror, Ep\. 2](https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2) | 2:36 |
 | 42 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 |
-| 43 | [La Guarachita](https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [La Guarachita](https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG) | 2:59 |
-| 44 | [Dale Candela Dale Sabor](https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO) | [Alan Mendoza DJ](https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa) | [Dale Candela Dale Sabor](https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG) | 2:35 |
+| 43 | [Dale Candela Dale Sabor](https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO) | [Alan Mendoza DJ](https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa) | [Dale Candela Dale Sabor](https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG) | 2:35 |
+| 44 | [DIABLA VS SALTANDO TRIBAL](https://open.spotify.com/track/1qBaGLAqI5RbSNP6Yau5fU) | [DJ Erandes](https://open.spotify.com/artist/2ei2Mrr1GJnHhxF8pLZCeZ) | [DIABLA VS SALTANDO TRIBAL](https://open.spotify.com/album/3lMY8jkSEY1cE1ZNBUKs75) | 2:37 |
 | 45 | [Dawn](https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE) | [HAMAL](https://open.spotify.com/artist/3f36c30ZfChG7KA6MaBEI1) | [Dawn](https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6) | 3:29 |
 | 46 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |
 | 47 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |

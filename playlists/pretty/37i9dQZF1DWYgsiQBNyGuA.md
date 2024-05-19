@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,657 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,696 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 74 | [Joy In The Battle](https://open.spotify.com/track/085xF3tCAXlTmaWDczmwmv) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [The Hope of My Soul](https://open.spotify.com/album/7ghSniRwAWBJiW6PKfMbC5) | 3:40 |
 | 75 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 |
 | 76 | [Starry Eyes](https://open.spotify.com/track/58xH2AxeyFjJ1o7vWKqUrt) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq) | 4:18 |
-| 77 | [Call Me](https://open.spotify.com/track/0W5qBuHbbBfCzszFxrQWMc) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ) | 2:51 |
-| 78 | [Positivity](https://open.spotify.com/track/2agIeYLyjyxLwQV09f2NCA) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Positivity](https://open.spotify.com/album/3q2UpV35Krzbcf7Wqk2uyv) | 3:20 |
+| 77 | [Montego Sunset](https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 3:18 |
+| 78 | [Call Me](https://open.spotify.com/track/0W5qBuHbbBfCzszFxrQWMc) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ) | 2:51 |
 | 79 | [100 Days, 100 Nights](https://open.spotify.com/track/69YW4FrGpsjzt9lr517bUz) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/5AaBCtOPHVJMYcDyLgu5BD) | 3:45 |
 | 80 | [Follow the Sunshine](https://open.spotify.com/track/17boAXaTEv9JwuSo2vnxh8) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Follow the Sunshine](https://open.spotify.com/album/0nlNfR2ijY767dFDKaX3DB) | 3:01 |
 

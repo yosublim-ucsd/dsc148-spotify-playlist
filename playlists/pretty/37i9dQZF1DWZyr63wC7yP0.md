@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyr63wC7yP0.md) - [plain]
 
 > Be like water....<br/>Get into the flow with calming sounds of running streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,900 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,958 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyr63wC7yP0.md) - [plain]
 | 59 | [Flod i skogen](https://open.spotify.com/track/3RfktG11RapLgNH1qgHWgc) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Floden](https://open.spotify.com/album/59DYy1L2g1AQu8OvnRoccW) | 3:18 |
 | 60 | [Gentle Stream Ambience](https://open.spotify.com/track/1FCp5LjTO2YsW9zmQJ7nOk) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Soothing Nature Sounds](https://open.spotify.com/album/6vbXz5ZRueTrOsNwC8pFFv) | 3:05 |
 | 61 | [Waterfall Stream](https://open.spotify.com/track/6C8eyK8mC1cmqaTx99v36x) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:24 |
-| 62 | [Big Waterfall Noise](https://open.spotify.com/track/0pO9qE6D7shEievEUJtCld) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Waterfall Sleep Noises](https://open.spotify.com/album/6cyRxitvNynnQFZqkZLNuE) | 4:22 |
-| 63 | [focus water stream](https://open.spotify.com/track/1pEJlVzcCKCLV8JW0TYCB2) | [Sounds of Beauty](https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala) | [Water Sounds](https://open.spotify.com/album/1NEKfuhrHdM1r7hDVe01EK) | 3:39 |
+| 62 | [focus water stream](https://open.spotify.com/track/1pEJlVzcCKCLV8JW0TYCB2) | [Sounds of Beauty](https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala) | [Water Sounds](https://open.spotify.com/album/1NEKfuhrHdM1r7hDVe01EK) | 3:39 |
+| 63 | [Big Waterfall Noise](https://open.spotify.com/track/0pO9qE6D7shEievEUJtCld) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Waterfall Sleep Noises](https://open.spotify.com/album/6cyRxitvNynnQFZqkZLNuE) | 4:22 |
 | 64 | [Take Me Down the River](https://open.spotify.com/track/0dUdMzVlqyCZzrLr2eCkyB) | [Ebb&Flod](https://open.spotify.com/artist/1IsJosONX2G4ekmLMfjTO4) | [Gentle Stream](https://open.spotify.com/album/2FzwA8tmqu4QccprXAb8PH) | 3:16 |
 | 65 | [Winter River](https://open.spotify.com/track/5FXaMOQhFTRqTq2srk6EU0) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [JBE River Sounds 2 \(Deluxe Edition\)](https://open.spotify.com/album/3EO82RP4AsdHuoKNc1cpDm) | 2:36 |
 | 66 | [Waterfall Flow](https://open.spotify.com/track/3vutaIPu6s4ylCPr5rwvAB) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 3:20 |
-| 67 | [Rushing River](https://open.spotify.com/track/4V7dNNQvwoGgC5DB6dTTro) | [Calming Water](https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn) | [Flowing Water Sounds](https://open.spotify.com/album/1UQ0LjwnbWi1jxwpT6U1nn) | 2:35 |
-| 68 | [Burbling Riverfall](https://open.spotify.com/track/6X3QzkvdFTwyNyOYMXS4Fl) | [Riverfall Science](https://open.spotify.com/artist/2zCsCmVmbXdxPPfrQzaRfJ) | [Studies of a River](https://open.spotify.com/album/6cYG51oG7P8Qrc8FbShQI9) | 3:58 |
+| 67 | [Burbling Riverfall](https://open.spotify.com/track/6X3QzkvdFTwyNyOYMXS4Fl) | [Riverfall Science](https://open.spotify.com/artist/2zCsCmVmbXdxPPfrQzaRfJ) | [Studies of a River](https://open.spotify.com/album/6cYG51oG7P8Qrc8FbShQI9) | 3:58 |
+| 68 | [Rushing River](https://open.spotify.com/track/4V7dNNQvwoGgC5DB6dTTro) | [Calming Water](https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn) | [Flowing Water Sounds](https://open.spotify.com/album/1UQ0LjwnbWi1jxwpT6U1nn) | 2:35 |
 | 69 | [Steady Waterfall](https://open.spotify.com/track/1w4LsiXcSP9JyEeHPNS9Fk) | [Waterfalling](https://open.spotify.com/artist/3e0rJbfOEVSWe77JRZWGXd) | [Waterfalling](https://open.spotify.com/album/7qA6Aqaktt9X2qw9wbohuI) | 4:15 |
 | 70 | [River Water](https://open.spotify.com/track/4yFK6JDeHOiHoE8vB3cf67) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [River Water](https://open.spotify.com/album/1y3FlO2uYfIizIcqybD3OX) | 3:26 |
 | 71 | [Mellow Rapids](https://open.spotify.com/track/2KnTHZruPqFsvYlcKMcXUg) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Relaxation](https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj) | 3:08 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyr63wC7yP0.md) - [plain]
 | 83 | [Shallow Rapid Flow](https://open.spotify.com/track/14EgXws2q9leMgGCukpRXS) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Shallow River Sounds](https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00) | 3:00 |
 | 84 | [Calming River Water](https://open.spotify.com/track/5zIcCaYCJ6aoYas8nl7k6q) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Snowmelt and Rivers for Sleeping](https://open.spotify.com/album/3WomUrOQJWJknkjRYQiMIn) | 3:11 |
 | 85 | [Rock's Ledge](https://open.spotify.com/track/1XLPyzE89oRKQIpvXBRI9n) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Waterfalls in Winter](https://open.spotify.com/album/4tOaz7j4Juvd82I4qa29Rz) | 4:04 |
-| 86 | [Rapids](https://open.spotify.com/track/3gopInHfz9y4iTE6F9qp99) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 3:34 |
+| 86 | [relaxing with a water stream](https://open.spotify.com/track/5vaqeuk3pPXM1calI5O71T) | [Natural World Sounds](https://open.spotify.com/artist/7fjnlmgSy4rNjBhZgSzZ5D) | [Relaxing Water](https://open.spotify.com/album/4jWY1h7KcnXjqCXa65pmGy) | 3:02 |
 | 87 | [Floating Stream](https://open.spotify.com/track/4nFKWdiu58GCEps0qmcbfj) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Floating Stream](https://open.spotify.com/album/6zCw3WHLqjCvc3EhEstCYo) | 2:24 |
-| 88 | [relaxing with a water stream](https://open.spotify.com/track/5vaqeuk3pPXM1calI5O71T) | [Natural World Sounds](https://open.spotify.com/artist/7fjnlmgSy4rNjBhZgSzZ5D) | [Relaxing Water](https://open.spotify.com/album/4jWY1h7KcnXjqCXa65pmGy) | 3:02 |
+| 88 | [Rapids](https://open.spotify.com/track/3gopInHfz9y4iTE6F9qp99) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 3:34 |
 | 89 | [Calming Water Flow](https://open.spotify.com/track/0fb9npEOOwMWBLsTD3XeWq) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rivers Around The World](https://open.spotify.com/album/6eKBN3G0v2JCSkTCwoq0M5) | 2:49 |
 | 90 | [Fresh Water Creek](https://open.spotify.com/track/2abI6AK0NtBGWcs88MaBQH) | [The Creek and Me](https://open.spotify.com/artist/27WOWyLnBchuxHCdKYHphD) | [Fresh Water Creek](https://open.spotify.com/album/46aqTvuefUOYCEorqvOWfW) | 2:35 |
 | 91 | [Fast River on Rocks](https://open.spotify.com/track/6vhtvMNhtj2207rx9j5lH9) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Jungle River Rapids](https://open.spotify.com/album/0ICLrHqdJ36IN30dyM7B7T) | 3:00 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyr63wC7yP0.md) - [plain]
 | 93 | [Laying by the River](https://open.spotify.com/track/68YKMwrRM0oHatS3oRH8Lq) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Shallow River Sounds](https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00) | 2:59 |
 | 94 | [Tha Chin \(River\)](https://open.spotify.com/track/1XNqqFV11ACz26hvxEz9FI) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:36 |
 | 95 | [Mountain Snowmelt](https://open.spotify.com/track/3VeU3XKHuNepDCNokM1NXu) | [Snow and Creeks](https://open.spotify.com/artist/1sDbuRwpEJFQIm4pnCGWQE) | [Mountain Snowmelt](https://open.spotify.com/album/6xeXqENXQPrVayEiSPI7X4) | 3:34 |
-| 96 | [River Spirit](https://open.spotify.com/track/0SRZfXcQVjqwDxFGfGgLvY) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Rivers and Forest Sounds](https://open.spotify.com/album/7epwX2vgkWFTttxGVlQ45m) | 2:44 |
-| 97 | [River Pouring](https://open.spotify.com/track/6xTKO3rKSnCIdgoeAaH0tz) | [Pacific Ocean Samples](https://open.spotify.com/artist/106N4a97oNA9CmfY5BqOT1) | [River Pouring](https://open.spotify.com/album/1Hm1R4vEmbeaPCFx8YT6q7) | 2:28 |
-| 98 | [Arroyo \(River\)](https://open.spotify.com/track/3jtIL1U6ENaRtAs2GYypJd) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [Streamflow](https://open.spotify.com/album/0sQfyuAuP8HPE8HHyLCRxT) | 2:36 |
-| 99 | [Virginia Rain Stream](https://open.spotify.com/track/7x4Vesze0f8QkPTBLxDYze) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [East Coast Nature Sounds](https://open.spotify.com/album/0D7YeoAg1SXbJXYP3uvWia) | 2:40 |
-| 100 | [River In The Forest](https://open.spotify.com/track/4PZ6DYSODG4ZH5yWGtfOje) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [River Sounds](https://open.spotify.com/album/2ewQue8nskwyf0lyTvZXMT) | 2:07 |
+| 96 | [River Pouring](https://open.spotify.com/track/6xTKO3rKSnCIdgoeAaH0tz) | [Pacific Ocean Samples](https://open.spotify.com/artist/106N4a97oNA9CmfY5BqOT1) | [River Pouring](https://open.spotify.com/album/1Hm1R4vEmbeaPCFx8YT6q7) | 2:28 |
+| 97 | [River Spirit](https://open.spotify.com/track/0SRZfXcQVjqwDxFGfGgLvY) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Rivers and Forest Sounds](https://open.spotify.com/album/7epwX2vgkWFTttxGVlQ45m) | 2:44 |
+| 98 | [Virginia Rain Stream](https://open.spotify.com/track/7x4Vesze0f8QkPTBLxDYze) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [East Coast Nature Sounds](https://open.spotify.com/album/0D7YeoAg1SXbJXYP3uvWia) | 2:40 |
+| 99 | [Arroyo \(River\)](https://open.spotify.com/track/3jtIL1U6ENaRtAs2GYypJd) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [Streamflow](https://open.spotify.com/album/0sQfyuAuP8HPE8HHyLCRxT) | 2:36 |
+| 100 | [Columbia River Shore](https://open.spotify.com/track/4enMSTtvfyIx4AWXLK64UK) | [West Coast Soundscape](https://open.spotify.com/artist/7hE6eTo9beS2NsfSiJHQek) | [Columbia River Shore](https://open.spotify.com/album/3gRyH9PTvT9dl2PxyCkYBv) | 2:52 |
 
 Snapshot ID: `Zh5RQAAAAACjqJvYGHBcu8JVDbX2y89C`

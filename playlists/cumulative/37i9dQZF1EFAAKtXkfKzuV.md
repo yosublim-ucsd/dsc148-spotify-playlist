@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-67 songs - 3 hr 9 min
+68 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Nightfall](https://open.spotify.com/track/13lJ85FoC72fNT6uksMa8v) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Nightfall](https://open.spotify.com/album/2vndOzLX4qVe2GTu7JF7Sk) | 2:37 | 2023-06-29 |  |
 | [Normal Fühlen](https://open.spotify.com/track/6iCHAxZFmGJu2bsGVUFhh8) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:10 | 2023-06-29 |  |
 | [Not Ready](https://open.spotify.com/track/0mtm0nHodvra53NA3n0T9B) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Not Ready](https://open.spotify.com/album/0uVoAz2Yw0dGaYbhO5D3VA) | 1:52 | 2023-06-29 |  |
+| [Not There Yet](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Not There Yet](https://open.spotify.com/album/6xBMreivdSXzUr2Mbotv7E) | 2:14 | 2024-05-18 |  |
 | [Not Together, Together](https://open.spotify.com/track/6Yhly15am79BzKhAHSEqcI) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Not Together, Together](https://open.spotify.com/album/0o9FIqLRuDzmSeHkwr5QkN) | 2:42 | 2023-06-29 |  |
 | [note to myself](https://open.spotify.com/track/2FnWOTzG3SuGmAYIjMScWn) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:06 | 2023-06-29 |  |
 | [Nur kurz glücklich](https://open.spotify.com/track/65sT9oRdZBS4sZPiJc1DaU) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 2:58 | 2023-12-13 |  |

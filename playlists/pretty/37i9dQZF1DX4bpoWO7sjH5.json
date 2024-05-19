@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 35125,
+  "num_followers": 35120,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Diciembre o Junio",
         "url": "https://open.spotify.com/album/7q3p0OYnGu4pc9ktkJ9ysR"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 161408,
       "name": "Diciembre o Junio",
       "url": "https://open.spotify.com/track/1e5W0GpegvfZWusIYaSLAG"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Pesebre",
-        "url": "https://open.spotify.com/album/3n832SITcEq5y3IALMeeLP"
-      },
-      "artists": [
-        {
-          "name": "Omar Rodriguez Music",
-          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
-        }
-      ],
-      "duration_ms": 337325,
-      "name": "Pesebre",
-      "url": "https://open.spotify.com/track/6egrj5EiSLFQZC515SD4EV"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Lleg\u00f3 La Navidad",
         "url": "https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 192171,
       "name": "Ya Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Pesebre",
+        "url": "https://open.spotify.com/album/3n832SITcEq5y3IALMeeLP"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
+        }
+      ],
+      "duration_ms": 337325,
+      "name": "Pesebre",
+      "url": "https://open.spotify.com/track/6egrj5EiSLFQZC515SD4EV"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -991,38 +991,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Nattyvidad",
-        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
-      },
-      "artists": [
-        {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
-        }
-      ],
-      "duration_ms": 264661,
-      "name": "Nattyvidad",
-      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Un Le Lo Lai Diferente",
-        "url": "https://open.spotify.com/album/7osJw3KtfYRtw2eItlqC4h"
-      },
-      "artists": [
-        {
-          "name": "Lourdes Toledo",
-          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "A Son De Plena",
-      "url": "https://open.spotify.com/track/6nVFWi33swDnsDljPodGlB"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Es Navidad (O Holy Night)",
         "url": "https://open.spotify.com/album/2nkkkt4JVY1gxY9MgIbCiq"
       },
@@ -1051,6 +1019,38 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Un Le Lo Lai Diferente",
+        "url": "https://open.spotify.com/album/7osJw3KtfYRtw2eItlqC4h"
+      },
+      "artists": [
+        {
+          "name": "Lourdes Toledo",
+          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "A Son De Plena",
+      "url": "https://open.spotify.com/track/6nVFWi33swDnsDljPodGlB"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Nattyvidad",
+        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 264661,
+      "name": "Nattyvidad",
+      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/5RjKmHfYeZTucKajDk0EuI"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 232777,
       "name": "\u00c1ngeles Cantando Est\u00e1n",
       "url": "https://open.spotify.com/track/4pbUXK8NtfkGh876JtOR6Q"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 257346,
+      "name": "Naciste en Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6Emxozbb1RmuF1UiSxJikp"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1091,22 +1107,6 @@
       "duration_ms": 202674,
       "name": "Rey de Gloria",
       "url": "https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 257346,
-      "name": "Naciste en Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6Emxozbb1RmuF1UiSxJikp"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Ya naci\u00f3",
-        "url": "https://open.spotify.com/album/2XY0WMGtFjc10QF669IerI"
-      },
-      "artists": [
-        {
-          "name": "Moises Cancel",
-          "url": "https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd"
-        }
-      ],
-      "duration_ms": 240641,
-      "name": "Ya naci\u00f3",
-      "url": "https://open.spotify.com/track/3vhw8P4IYNfTV8zVpGSyvm"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
         "name": "Folky Navidad",
         "url": "https://open.spotify.com/album/5vFb6MeUukVCeRcRyp6fi3"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 228253,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
+        "name": "Ya naci\u00f3",
+        "url": "https://open.spotify.com/album/2XY0WMGtFjc10QF669IerI"
+      },
+      "artists": [
+        {
+          "name": "Moises Cancel",
+          "url": "https://open.spotify.com/artist/1cwI3HJoAcUsUxO6266mFd"
+        }
+      ],
+      "duration_ms": 240641,
+      "name": "Ya naci\u00f3",
+      "url": "https://open.spotify.com/track/3vhw8P4IYNfTV8zVpGSyvm"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
-        "name": "Navidad en Miami",
-        "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
+        "name": "El Primer Noel",
+        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
       },
       "artists": [
         {
-          "name": "Johnny Rez",
-          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Navidad en Miami",
-      "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
+      "duration_ms": 190253,
+      "name": "El Primer Noel",
+      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
     },
     {
       "added_at": "2023-12-15 17:10:08",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-12-15 17:10:08",
       "album": {
+        "name": "Navidad en Miami",
+        "url": "https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Navidad en Miami",
+      "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
+    },
+    {
+      "added_at": "2023-12-15 17:10:08",
+      "album": {
         "name": "Mi Salvador",
         "url": "https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 247330,
       "name": "Mi Salvador",
       "url": "https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ"
-    },
-    {
-      "added_at": "2023-12-15 17:10:08",
-      "album": {
-        "name": "El Primer Noel",
-        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "El Primer Noel",
-      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
     },
     {
       "added_at": "2023-12-15 17:10:08",

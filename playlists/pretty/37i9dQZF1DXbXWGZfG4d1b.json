@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22403,
+  "num_followers": 22415,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Cae la noche",
         "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 244144,
       "name": "Cae la noche",
       "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Indie Rockera",
-        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
-      },
-      "artists": [
-        {
-          "name": "Tobias Indigo",
-          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Indie Rockera",
-      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Amor Express",
         "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 214409,
       "name": "Amor Express",
       "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Indie Rockera",
+        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Indie Rockera",
+      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "NT al sol",
+        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        },
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        },
+        {
+          "name": "El Mundo Limon",
+          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+        }
+      ],
+      "duration_ms": 202827,
+      "name": "NT al sol",
+      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/69ZNrQXyGpwQ4kp6DUquQS"
       },
@@ -1211,30 +1235,6 @@
       "duration_ms": 270566,
       "name": "Crucificame",
       "url": "https://open.spotify.com/track/4XsxZlFTmhXH3NssKrRTSu"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "NT al sol",
-        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        },
-        {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
-        },
-        {
-          "name": "El Mundo Limon",
-          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
-        }
-      ],
-      "duration_ms": 202827,
-      "name": "NT al sol",
-      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1280,7 +1280,7 @@
           "url": "https://open.spotify.com/artist/5VzE7gAS6VyRyvThR3lXbv"
         }
       ],
-      "duration_ms": 176062,
+      "duration_ms": 176015,
       "name": "Lo Haces Bien",
       "url": "https://open.spotify.com/track/2NT4AtSmyxZZloogGMA0xg"
     },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Mejor Sin Miedo",
-        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "Mejor Sin Miedo",
-      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/5DmptR4gEoK8MeXCSv9OUB"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 271451,
       "name": "Promesas",
       "url": "https://open.spotify.com/track/3asMi5LP1FVnb8D2hs0b8D"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Mejor Sin Miedo",
+        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "Mejor Sin Miedo",
+      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Puedo Con Esto (Fuera de Foco)",
-        "url": "https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id"
-      },
-      "artists": [
-        {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 234792,
-      "name": "Puedo Con Esto - Fuera de Foco",
-      "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Mi Generaci\u00f3n",
         "url": "https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 274140,
       "name": "Mi Generaci\u00f3n",
       "url": "https://open.spotify.com/track/6ikDyxIA451wrhNzdKTQGK"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Puedo Con Esto (Fuera de Foco)",
+        "url": "https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 234792,
+      "name": "Puedo Con Esto - Fuera de Foco",
+      "url": "https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx"
     },
     {
       "added_at": "2024-05-17 03:00:00",

@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAcnC+YffdZWTqGYdeIeIgEYuwh+zJi",
+  "snapshot_id": "AAAcno96ZmdTSMq2E6xDxCR20avmvpZd",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -1903,6 +1903,46 @@
       "duration_ms": 202841,
       "name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
       "url": "https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK"
+    },
+    {
+      "added_at": "2024-05-18 20:38:57",
+      "album": {
+        "name": "Dum and Dummer",
+        "url": "https://open.spotify.com/album/5QNIFVnhZn80T3EteDzvgW"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "1 Hell of a Life",
+      "url": "https://open.spotify.com/track/3DV3fcJ1Cgc5lVAdvw73Kx"
+    },
+    {
+      "added_at": "2024-05-18 20:47:26",
+      "album": {
+        "name": "High Off Life",
+        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 148246,
+      "name": "Harlem Shake (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3cFHCXuBZKMJd8Q4Wt8RB3"
     }
   ],
   "unique_name": "main ",

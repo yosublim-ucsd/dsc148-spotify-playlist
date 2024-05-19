@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,261 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,316 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 46 | [Wonderin'](https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD) | [Channell](https://open.spotify.com/artist/0USu267KXIgx4OKwhU9n5D), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS), [Lyds](https://open.spotify.com/artist/1ct2JemDGZm6FdyArw8YcI) | [Wonderin' EP](https://open.spotify.com/album/0nx1BXto7ljFknTEKnBbOR) | 4:39 |
 | 47 | [Final Render](https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [CAPSUL](https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ) | [CAPSUL](https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t) | 2:29 |
 | 48 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
-| 49 | [A Good Time](https://open.spotify.com/track/45TT90guElVnPKJrDkxYS3) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [A Good Time](https://open.spotify.com/album/3mFAqz77A9Db3tHfJSljGm) | 2:29 |
-| 50 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 49 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
+| 50 | [A Good Time](https://open.spotify.com/track/45TT90guElVnPKJrDkxYS3) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [A Good Time](https://open.spotify.com/album/3mFAqz77A9Db3tHfJSljGm) | 2:29 |
 
 Snapshot ID: `ZkY7YAAAAAAKd4pdA4q1yW152ybI/NXl`

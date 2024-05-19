@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. Ivonne Galaz en portada.
 
-403 songs - 21 hr 33 min
+404 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [La Fama de una Dama](https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [La Fama de una Dama](https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d) | 2:48 | 2024-03-01 |  |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/3SsJ5CTzlCjkdT50TnsdcL) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [A Tu Salud](https://open.spotify.com/album/2gOqmt3eRAfyhBfRUb5pjf) | 3:26 | 2021-12-17 | 2022-03-18 |
 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:23 | 2021-12-17 | 2022-03-18 |
-| [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 | 2023-06-16 |  |
+| [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 | 2023-06-16 | 2024-05-19 |
 | [La Historia Al Revés](https://open.spotify.com/track/3iF002Z7f68vsbwrVKTWWG) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [La Historia Al Revés](https://open.spotify.com/album/1I7VntMT4xGSSlPxqGiQEK) | 2:46 | 2024-03-22 | 2024-03-30 |
 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 | 2021-12-17 | 2022-09-24 |
 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 | 2022-09-23 | 2023-01-21 |
@@ -275,6 +275,7 @@
 | [Para Qué Te Daba Tanto](https://open.spotify.com/track/7yDmnC3EgAoT2UELKUxBqX) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Para Qué Te Daba Tanto](https://open.spotify.com/album/0i1ZmxU2eTbNywGGhlPrsY) | 3:44 | 2021-12-17 | 2022-04-09 |
 | [Paso A Pasito](https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Paso A Pasito](https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j) | 2:43 | 2023-04-14 | 2023-07-15 |
 | [Pedacito de Mí](https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 3:30 | 2023-06-30 | 2023-08-23 |
+| [Pedazo De Carne](https://open.spotify.com/track/4hdRY3ZWM8EjRfPhT3qaS0) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Inolvidable](https://open.spotify.com/album/4ftGvsn2yNHdvBKhSTKuSq) | 2:51 | 2024-05-17 |  |
 | [Pedir Permiso](https://open.spotify.com/track/1pUD2zi5taWDeHbYsw2wLv) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Pedir Permiso](https://open.spotify.com/album/6EzfwzcnHgoCQNDrYYwDKe) | 3:06 | 2021-12-17 | 2022-04-09 |
 | [Penas y Penas](https://open.spotify.com/track/7Gfc4GtqLEQxsHTUtv9kQh) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Penas y Penas](https://open.spotify.com/album/3VLexSKMnGGhaAkDwnRh1o) | 2:59 | 2021-12-17 | 2022-01-24 |
 | [Perdóname](https://open.spotify.com/track/0VGHUbRgbbiMNcsE5QErKG) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Perdóname](https://open.spotify.com/album/70k3vqW5xmIMhKMzSRzG1a) | 2:24 | 2021-12-17 | 2022-09-24 |

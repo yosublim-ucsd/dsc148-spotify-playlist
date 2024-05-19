@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-155 songs - 7 hr 56 min
+156 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [I Only Did It 'Cause I Felt so Lonely](https://open.spotify.com/track/50pbA8K52DbKILgZ4AiQX6) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:15 | 2024-01-05 | 2024-03-10 |
 | [I Ought To Stay Away From You](https://open.spotify.com/track/4tAkesAHyf2zsmmWPoCDWJ) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [I Ought To Stay Away From You b/w Why Do I Cry](https://open.spotify.com/album/0igbKMZKrnrO2x3TPDFL1M) | 2:39 | 2024-01-08 | 2024-03-10 |
 | [I'd Rather You Leave Me](https://open.spotify.com/track/7loaQK9Jd9RVYVj3iN4Xms) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:02 | 2024-01-05 | 2024-03-10 |
+| [I'm Sorry I Left Him To Bleed](https://open.spotify.com/track/7AwMd4z4jV8p5A791fxD7A) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 2:47 | 2024-05-18 |  |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-02-08 | 2024-03-10 |
 | [Images](https://open.spotify.com/track/1uaY7sON2Hi95MRVnWmZ0v) | [Mikey Enwright](https://open.spotify.com/artist/0ZDYUmvfOj3XAHSIkeepyn) | [Images](https://open.spotify.com/album/1ZijTOVIDEYinWZ9Wy0JRk) | 2:59 | 2024-04-25 | 2024-05-16 |
 | [In Your Eyes](https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:27 | 2024-04-13 | 2024-05-16 |

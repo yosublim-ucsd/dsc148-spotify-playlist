@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157669,
+  "num_followers": 157671,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,26 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Pegando Carona",
+      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
         "name": "Ela \u00c9 Um V\u00edcio",
         "url": "https://open.spotify.com/album/53fQ4HgmJBcrmjxC6z9NYJ"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 175000,
       "name": "Ela \u00c9 Um V\u00edcio",
       "url": "https://open.spotify.com/track/4rn4T3egGnLa8i7TsKaozp"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Pegando Carona",
-      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Revoada",
-        "url": "https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK"
-      },
-      "artists": [
-        {
-          "name": "POLLO",
-          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Revoada",
-      "url": "https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
         "name": "Alta Defini\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 123380,
       "name": "Alta Defini\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "Revoada",
+        "url": "https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK"
+      },
+      "artists": [
+        {
+          "name": "POLLO",
+          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Revoada",
+      "url": "https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Tudo Come\u00e7ou",
-        "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        },
-        {
-          "name": "Diego Thug",
-          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
-        }
-      ],
-      "duration_ms": 145953,
-      "name": "Tudo Come\u00e7ou",
-      "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "Tudo Come\u00e7ou",
+        "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        },
+        {
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
+        }
+      ],
+      "duration_ms": 145953,
+      "name": "Tudo Come\u00e7ou",
+      "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
-      },
-      "artists": [
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1379,18 +1359,42 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Noites & Noites",
-        "url": "https://open.spotify.com/album/4BKUKunzocQdmgtz1EKW1D"
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
       "artists": [
         {
-          "name": "CARTE",
-          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 180618,
-      "name": "Noites & Noites",
-      "url": "https://open.spotify.com/track/6DiJUiJiryuNDoxIj1L6nw"
+      "duration_ms": 142105,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
+        "name": "Mais uma Chance",
+        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
+      },
+      "artists": [
+        {
+          "name": "Buia Kalunga",
+          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
+        }
+      ],
+      "duration_ms": 183700,
+      "name": "Mais uma Chance",
+      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1423,22 +1427,18 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
-        "name": "Mais uma Chance",
-        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
+        "name": "Noites & Noites",
+        "url": "https://open.spotify.com/album/4BKUKunzocQdmgtz1EKW1D"
       },
       "artists": [
         {
-          "name": "Buia Kalunga",
-          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
-        },
-        {
-          "name": "Macaia",
-          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
         }
       ],
-      "duration_ms": 183700,
-      "name": "Mais uma Chance",
-      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
+      "duration_ms": 180618,
+      "name": "Noites & Noites",
+      "url": "https://open.spotify.com/track/6DiJUiJiryuNDoxIj1L6nw"
     },
     {
       "added_at": "2024-04-26 03:01:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-04-26 03:01:00",
       "album": {
+        "name": "Qualquer Maneira",
+        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
+      },
+      "artists": [
+        {
+          "name": "Inc\u00f3gnito",
+          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+        }
+      ],
+      "duration_ms": 331054,
+      "name": "Qualquer Maneira",
+      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
+    },
+    {
+      "added_at": "2024-04-26 03:01:00",
+      "album": {
         "name": "Interfone",
         "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 232000,
       "name": "Interfone",
       "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
-    },
-    {
-      "added_at": "2024-04-26 03:01:00",
-      "album": {
-        "name": "Qualquer Maneira",
-        "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
-      },
-      "artists": [
-        {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
-        }
-      ],
-      "duration_ms": 331054,
-      "name": "Qualquer Maneira",
-      "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
     },
     {
       "added_at": "2024-04-26 03:01:00",

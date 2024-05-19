@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 ### [This Is Yoss Bones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sej1C)
 
-> This Is Yoss Bones\. Los temas esenciales, todos en una lista.
+> This is Yoss Bones\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,562 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,579 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [No Es Tan Facil](https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Es Tan Facil](https://open.spotify.com/album/4fWFrEBBNuECGBw7QSsS83) | 3:14 |
 | 50 | [Contra Corriente](https://open.spotify.com/track/7JkHyShBf6RQviZ4q0C6qq) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Cordura Transitoria](https://open.spotify.com/album/5K7AF5V3irvem6pA5Oamx2) | 3:29 |
 
-Snapshot ID: `ZkVMgAAAAACLuQu54M5qS+0KeNPYMH2A`
+Snapshot ID: `ZkaeAAAAAABDGrdfOzW2nguVycbNTLxb`

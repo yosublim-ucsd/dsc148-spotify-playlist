@@ -97,6 +97,32 @@
     },
     {
       "album": {
+        "name": "Bien Motivado (feat. Banda La Fantastica)",
+        "url": "https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Banda La Fantastica",
+          "url": "https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159486,
+      "name": "Bien Motivado (feat. Banda La Fantastica)",
+      "url": "https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ"
+    },
+    {
+      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },

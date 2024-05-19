@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,942 likes - 250 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,943 likes - 250 songs - 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 116 | [Vanishing](https://open.spotify.com/track/6PP8I9FUWPIVRvV81anBnR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:11 |
 | 117 | [Dedicated](https://open.spotify.com/track/2ZCF6xZTjtwImIFPdZaN6j) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:13 |
 | 118 | [Close My Eyes](https://open.spotify.com/track/0sFTeQMlO1jJgxyfdDrAZl) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:19 |
-| 119 | [Almost Home](https://open.spotify.com/track/6JZXpVvOOiSfZVeT7UPvX9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Almost Home](https://open.spotify.com/album/4Plx5OeMybRUW6fvYKIZS3) | 3:47 |
-| 120 | [Looking In](https://open.spotify.com/track/1bnzK1Vva8X0hmXy6RRz1G) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:35 |
+| 119 | [Looking In](https://open.spotify.com/track/1bnzK1Vva8X0hmXy6RRz1G) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:35 |
+| 120 | [Almost Home](https://open.spotify.com/track/6JZXpVvOOiSfZVeT7UPvX9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Almost Home](https://open.spotify.com/album/4Plx5OeMybRUW6fvYKIZS3) | 3:47 |
 | 121 | [If It's Over](https://open.spotify.com/track/3GONDOCwJprD1lZZ32JbuJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:37 |
 | 122 | [Candy Bling](https://open.spotify.com/track/4Ahcld58IdttCXdyhdWLEq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:03 |
 | 123 | [I'm That Chick](https://open.spotify.com/track/5VGkXUGvKoE83aNzknNtXK) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:31 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 249 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 |
 | 250 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbRmogAAAAC9Nd2rrxA4HSiy/uxxmDje`
+Snapshot ID: `AbRsgAAAAAC0pnd/ynnH3HSWPZPnek3Z`

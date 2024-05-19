@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 65 | [Coattails](https://open.spotify.com/track/66uZIZ8Nz5OIuHUoLZK6X3) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:15 |
 | 66 | [Cry](https://open.spotify.com/track/0CqGCpNdOktUrsTUEkWozV) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:19 |
 | 67 | [One More](https://open.spotify.com/track/4nnKErDH3XokK9cG2tMs6a) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [One More](https://open.spotify.com/album/3T63sUIqazFcBbodR7xe10) | 3:28 |
-| 68 | [We Had Everything](https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:23 |
-| 69 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 |
+| 68 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 |
+| 69 | [We Had Everything](https://open.spotify.com/track/2YtGWoI8YM9yT41bPoyqWy) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:23 |
 | 70 | [Couldn't Believe](https://open.spotify.com/track/2SCblOXQDX2ToK7JvqCksw) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 4:04 |
 | 71 | [Sister](https://open.spotify.com/track/3zx6dcYuKX7sYrI1TaDf4y) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Solutions](https://open.spotify.com/album/1CJDBCPg27ASz4eWE7oeNz) | 3:25 |
 | 72 | [Happy Place](https://open.spotify.com/track/0Kd7GHTM4093wuWwWCs3e7) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:20 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 170 | [Suffocating Slow](https://open.spotify.com/track/6Kqyu4rJpZTSbSk9hxU8ec) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never \(Australian Version\)](https://open.spotify.com/album/0q0yIvuQStgbwJBA9ml9Ik) | 3:08 |
 | 171 | [The Way I Are \(Dance With Somebody\)](https://open.spotify.com/track/7MNy41gAOCWaWuY2OA7vl9) | [Laura Lawson](https://open.spotify.com/artist/0tHvF8kSTxJYfAq8PlwaUA), [Morgan Fox](https://open.spotify.com/artist/6lavva7uEgQhcMSQvOXrDs) | [Pop Hits Anthems](https://open.spotify.com/album/6NmPeYy79lVRBn7tzJ9mC2) | 3:11 |
 
-Snapshot ID: `AbRm1AAAAAAjjQIpgUzJ9GDSubrE7FRt`
+Snapshot ID: `AbRsegAAAAA7gLHYBfmMjsWdUgw0qE/3`

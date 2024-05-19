@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 ### [This Is Grupo Marca Registrada](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0H1xtM)
 
-> This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
+> This Is Grupo Marca Registrada\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,649 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,906 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 47 | [Linda Sonrisita](https://open.spotify.com/track/4oIwVkJYPC0Ndu2pDUgnqa) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Mismo De La Vida Ruina](https://open.spotify.com/album/1RCqTwnQDquifOW1cbLxzE) | 2:50 |
 | 48 | [Las Pacas \(En Vivo\)](https://open.spotify.com/track/3X1fjWNkSyfMOr4puy5WLD) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Las Pacas \(En Vivo\)](https://open.spotify.com/album/7suo9KoSy5DMOSpAtgVxYn) | 2:41 |
 | 49 | [Corleone](https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:47 |
-| 50 | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/track/3MbN9WUYkiJZAGfqb3Gofk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/5sJmNPcKXGfSgeaxkX0lgT) | 4:04 |
-| 51 | [El Apache \(En Vivo\)](https://open.spotify.com/track/7htXI3zf9dS7UAWkoYVMqQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Apache \(En Vivo\)](https://open.spotify.com/album/5TOmF3KlyehmdJRbkhAsTh) | 2:48 |
+| 50 | [El Apache \(En Vivo\)](https://open.spotify.com/track/7htXI3zf9dS7UAWkoYVMqQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Apache \(En Vivo\)](https://open.spotify.com/album/5TOmF3KlyehmdJRbkhAsTh) | 2:48 |
+| 51 | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/track/3MbN9WUYkiJZAGfqb3Gofk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/5sJmNPcKXGfSgeaxkX0lgT) | 4:04 |
 
-Snapshot ID: `ZkVMgAAAAADJOlNxu/cxGdBzOsVRtmtB`
+Snapshot ID: `ZkaeAAAAAADPbDHLQl2aIXuZVBj5URyc`

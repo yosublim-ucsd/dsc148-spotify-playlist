@@ -4,7 +4,7 @@
 
 > Racikan akustik dalam secangkir kopi.
 
-136 songs - 9 hr 4 min
+137 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 | 2022-12-07 | 2023-07-03 |
 | [Di Ambang Karam](https://open.spotify.com/track/1D8kctV7MtI4rWZhbYeaF9) | [Amigdala](https://open.spotify.com/artist/40wi3VPurw0e4t3Yggo2Fk) | [Di Ambang Karam](https://open.spotify.com/album/3ovZcgvyRdFCUlQXzJkFHV) | 4:34 | 2023-06-07 |  |
 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 | 2022-12-07 |  |
-| [Dia \- Hits Single](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [DIA](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 | 2024-03-05 |  |
+| [Dia \- Hits Single](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [DIA](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 | 2024-03-05 | 2024-05-19 |
 | [Fana Merah Jambu](https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 5:58 | 2022-12-07 | 2024-04-19 |
 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-12-07 | 2024-04-19 |
 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 | 2023-02-03 |  |
@@ -90,6 +90,7 @@
 | [Pelangi](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:37 | 2022-12-07 | 2024-04-19 |
 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 | 2022-12-07 |  |
 | [Perahu Kertas](https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Moments](https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI) | 3:54 | 2022-12-07 |  |
+| [Pernah Muda](https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:23 | 2024-05-08 |  |
 | [Puisi](https://open.spotify.com/track/5beFAWW2hzgUYk8Bnn0phm) | [Dinda Kirana](https://open.spotify.com/artist/3M5VT9sSef85IF0LiiptxO) | [Puisi](https://open.spotify.com/album/2EpilSwm5p3ttGKyj0Tgxn) | 4:34 | 2023-12-06 | 2024-04-19 |
 | [Puisi](https://open.spotify.com/track/7GvaaOGxD63FHoCwWlOa5o) | [Dinda Kirana](https://open.spotify.com/artist/1OmLMt4qFQvVah6yrKwQ50) | [Puisi](https://open.spotify.com/album/7qu0piAv3wqjMYZDP5k4XH) | 4:34 | 2023-08-08 | 2024-05-09 |
 | [Pulang](https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [No\-Dream Land](https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX) | 3:17 | 2024-03-05 |  |

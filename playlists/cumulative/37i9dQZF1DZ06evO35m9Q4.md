@@ -2,7 +2,7 @@
 
 ### [This Is Stevie Ray Vaughan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO35m9Q4)
 
-> This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
+> This is Stevie Ray Vaughan\. Todos os maiores hits em uma só playlist.
 
 66 songs - 4 hr 55 min
 
@@ -44,7 +44,7 @@
 | [Mary Had a Little Lamb](https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:46 | 2022-08-05 |  |
 | [Match Box Blues](https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 7:39 | 2022-09-04 | 2023-12-14 |
 | [May I Have a Talk with You](https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 5:48 | 2022-08-05 |  |
-| [Old Times](https://open.spotify.com/track/4NQKArbOy5gvTrMqByOHj0) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 1:15 | 2022-11-20 |  |
+| [Old Times](https://open.spotify.com/track/4NQKArbOy5gvTrMqByOHj0) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 1:15 | 2022-11-20 | 2024-05-19 |
 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 | 2022-08-05 |  |
 | [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 | 2022-08-05 |  |
 | [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 | 2022-08-05 |  |

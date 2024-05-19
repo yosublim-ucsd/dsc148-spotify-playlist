@@ -8896,7 +8896,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 167000,
       "name": "SONGS",
       "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
@@ -10896,7 +10896,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 236013,
       "name": "VIBES BY VIBES",
       "url": "https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp"
@@ -12868,6 +12868,24 @@
       "duration_ms": 214088,
       "name": "\u30a2\u30b2\u30a4\u30f3",
       "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
+    },
+    {
+      "album": {
+        "name": "SINGLE 1",
+        "url": "https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204106,
+      "name": "\u30a2\u30d5\u30bf\u30fc\u30b9\u30af\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy"
     },
     {
       "album": {
@@ -15326,7 +15344,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 346866,
       "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a - Primitive Version",
       "url": "https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A Boogie Wit da Hoodie, Childish Gambino, Saweetie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,922 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,089 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 38 | [Double Dippin](https://open.spotify.com/track/12hnLRsfveQumcJYIYPTuO) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Double Dippin](https://open.spotify.com/album/3NbNaRzFAuCM6SjijNAK1i) | 1:41 |
 | 39 | [100 Yrs](https://open.spotify.com/track/4KCIIUBjU0mfYQmZGnGg5o) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [100 Yrs](https://open.spotify.com/album/1U7lpOlgH6erHtuYCoXLfw) | 3:06 |
 | 40 | [Hospice](https://open.spotify.com/track/6LbNAQRJmJAeYD0CW7Rxmt) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7) | [Hospice](https://open.spotify.com/album/6bv5GpG2k0jfZv3f0eFw6t) | 2:57 |
-| 41 | [My Town \(feat\. Edai Gunz\)](https://open.spotify.com/track/3QsxS5jJ5aSOE66GfJJYil) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Kha Structure](https://open.spotify.com/artist/1npzTrxFene8P6jap4i0Qz), [Edai Gunz](https://open.spotify.com/artist/38WiooUPRdg7DKqqCICTkQ) | [My Town](https://open.spotify.com/album/4tUNMkwL1gEC9QEC4Mn4N8) | 4:43 |
+| 41 | [My Town](https://open.spotify.com/track/3QsxS5jJ5aSOE66GfJJYil) | [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr), [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Kha Structure](https://open.spotify.com/artist/1npzTrxFene8P6jap4i0Qz), [Edai Gunz](https://open.spotify.com/artist/38WiooUPRdg7DKqqCICTkQ) | [My Town](https://open.spotify.com/album/4tUNMkwL1gEC9QEC4Mn4N8) | 4:43 |
 | 42 | [Liq & X](https://open.spotify.com/track/2ZEp4yv7PZQ6xf0eNbrEGl) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Liq & X](https://open.spotify.com/album/5chN7M8HXoooEDFQ0ElOAb) | 1:39 |
 | 43 | [TWO HI \(WAVES\) \(feat\. Channel Tres, Free Nationals & George Clinton\)](https://open.spotify.com/track/0zWvchzZqTmcOHdOczrywS) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [TWO HI \(WAVES\) \[feat\. Channel Tres, Free Nationals & George Clinton\]](https://open.spotify.com/album/3nWPWMcLrc9CvMCHvtfOf8) | 3:52 |
 | 44 | [mercurymorris \- bigbad remix](https://open.spotify.com/track/3zjWkpxlooO70Dwgu5P0Da) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [mercurymorris \(bigbad remix\)](https://open.spotify.com/album/63yY0pwaIffjrBm4s0HhTl) | 2:35 |

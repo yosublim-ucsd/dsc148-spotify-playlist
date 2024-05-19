@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 9162,
+  "num_followers": 9168,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAADpR7xIoCQ1NHBfdpWXj0GV",
+  "snapshot_id": "ZkaeAAAAAACsSueEbv2m6OiGQ2Exhcvm",
   "tracks": [
     {
       "added_at": null,
@@ -207,30 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jah Eli Jah",
-        "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
-      },
-      "artists": [
-        {
-          "name": "Cobhams Asuquo",
-          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 233764,
-      "name": "Jah Eli Jah",
-      "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suh Different",
         "url": "https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7"
       },
@@ -263,6 +239,30 @@
       "duration_ms": 195030,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jah Eli Jah",
+        "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
+      },
+      "artists": [
+        {
+          "name": "Cobhams Asuquo",
+          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 233764,
+      "name": "Jah Eli Jah",
+      "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
     },
     {
       "added_at": null,
@@ -479,22 +479,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHOPLIFE (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
+        "name": "Devil Wears White",
+        "url": "https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 213870,
-      "name": "CHOPLIFE (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
+      "duration_ms": 190488,
+      "name": "Devil Wears White",
+      "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
     },
     {
       "added_at": null,
@@ -519,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHOPLIFE (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 213870,
+      "name": "CHOPLIFE (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yagi",
         "url": "https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv"
       },
@@ -535,26 +559,6 @@
       "duration_ms": 234226,
       "name": "Is It Because I Love You",
       "url": "https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2"
-      },
-      "artists": [
-        {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm"
     },
     {
       "added_at": null,
@@ -579,26 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Golden Boy",
-        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 217710,
-      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
-      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+      "duration_ms": 252200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm"
     },
     {
       "added_at": null,
@@ -619,6 +619,30 @@
       "duration_ms": 229013,
       "name": "Confirm (feat. Davido)",
       "url": "https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Golden Boy",
+        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 217710,
+      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
+      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
     },
     {
       "added_at": null,
@@ -911,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONLY ONE KING",
-        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 205137,
-      "name": "Bwana Mdogo (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highlife Konnect",
         "url": "https://open.spotify.com/album/72NulXFtskbFG6htwcte2C"
       },
@@ -947,6 +951,26 @@
       "duration_ms": 212741,
       "name": "Life",
       "url": "https://open.spotify.com/track/1N0GdFeRwgEeiDqkX0m4HB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONLY ONE KING",
+        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 205137,
+      "name": "Bwana Mdogo (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
     },
     {
       "added_at": null,
@@ -1031,26 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilmer",
-        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Bera",
-          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
-        }
-      ],
-      "duration_ms": 224597,
-      "name": "Wilmer (feat. Bera)",
-      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -1067,8 +1071,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
       },
       "artists": [
         {
@@ -1076,13 +1080,13 @@
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         },
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Bera",
+          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
         }
       ],
-      "duration_ms": 224028,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
+      "duration_ms": 224597,
+      "name": "Wilmer (feat. Bera)",
+      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
     }
   ],
   "unique_name": "This Is Patoranking",

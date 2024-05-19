@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,998 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,066 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 51 | [I Loved You \(feat\. Melissa Steel\)](https://open.spotify.com/track/4KuS9s0fuqLznp9AJTqTm7) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [I Loved You \(feat\. Melissa Steel\)](https://open.spotify.com/album/7onuwN1E6MPBFMbG4WAOoS) | 3:04 |
 | 52 | [You're On \(feat\. Kyan\)](https://open.spotify.com/track/4PTPZeJlK1rYlYr6bf11hk) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Kyan](https://open.spotify.com/artist/1fpemL1wk3ZyXVfpzlVEkL) | [Adventure \(Deluxe\)](https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR) | 3:12 |
 | 53 | [Virus \(How About Now\)](https://open.spotify.com/track/3ukWpmRHvpuDATCJkgLEkF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\)](https://open.spotify.com/album/07c9ANynLvxYlO8aHWoNqP) | 4:33 |
-| 54 | [Faded](https://open.spotify.com/track/27ImR3LOSWgzqrABxD92uq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 3:43 |
-| 55 | [Riptide \- FlicFlac Edit](https://open.spotify.com/track/6FeGkJquvWWoAOa3rMM6EB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [FlicFlac](https://open.spotify.com/artist/118tMA379KP9TjxmsQsLKY) | [Riptide \(FlicFlac Edit\)](https://open.spotify.com/album/5jQhvxw1BMfsGQ8oTCT3Yp) | 5:39 |
+| 54 | [Riptide \- FlicFlac Edit](https://open.spotify.com/track/6FeGkJquvWWoAOa3rMM6EB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [FlicFlac](https://open.spotify.com/artist/118tMA379KP9TjxmsQsLKY) | [Riptide \(FlicFlac Edit\)](https://open.spotify.com/album/5jQhvxw1BMfsGQ8oTCT3Yp) | 5:39 |
+| 55 | [Faded](https://open.spotify.com/track/27ImR3LOSWgzqrABxD92uq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 3:43 |
 | 56 | [Ah Yeah So What \- Radio Edit](https://open.spotify.com/track/37PuGmhHTzDbbaUAFKj6bJ) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Elen Levon](https://open.spotify.com/artist/3gClSlUEpEoQd4IldcqBUz) | [Ah Yeah So What](https://open.spotify.com/album/0O6VKi6sTFS7xUsG2I85C1) | 3:15 |
 | 57 | [Turn up the Speakers \- Radio Edit](https://open.spotify.com/track/7102UhVPxGoYGNE2w3duPh) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Turn Up The Speakers](https://open.spotify.com/album/1UZYYRkjn11x2mKROMeAYG) | 3:03 |
 | 58 | [High \(feat\. Nicole Millar\)](https://open.spotify.com/track/40PYeQjt149YOfq6H20vmd) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High \(feat\. Nicole Millar\)](https://open.spotify.com/album/6K62nsscCdtqdBksQpQdon) | 3:48 |

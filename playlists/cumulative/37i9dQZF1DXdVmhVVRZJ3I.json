@@ -917,6 +917,28 @@
     },
     {
       "album": {
+        "name": "My City",
+        "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
+    },
+    {
+      "album": {
         "name": "Never Be Alone (feat. Aloe Blacc)",
         "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
       },
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 181000,
       "name": "Showing Signs",
       "url": "https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut"

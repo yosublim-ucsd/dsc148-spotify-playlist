@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is League of Legends. The essential tracks, all in one playlist.",
+  "description": "This Is League of Legends. Los temas esenciales, todos en una lista.",
   "name": "This Is League of Legends",
   "tracks": [
     {
@@ -742,7 +742,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 194815,
       "name": "No Chill (Heartsteel)",
       "url": "https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO"
@@ -1062,6 +1062,32 @@
       "duration_ms": 217333,
       "name": "Run It",
       "url": "https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf"
+    },
+    {
+      "album": {
+        "name": "Seraphine, the Starry-Eyed Songstress",
+        "url": "https://open.spotify.com/album/4C4R2RGv446YfoWhIz3i8O"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Seraphine",
+          "url": "https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv"
+        },
+        {
+          "name": "Jasmine Clarke",
+          "url": "https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277674,
+      "name": "Seraphine, the Starry-Eyed Songstress",
+      "url": "https://open.spotify.com/track/29kJz9cOUnTVOKwQWbQCsh"
     },
     {
       "album": {

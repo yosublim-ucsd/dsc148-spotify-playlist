@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 15384,
+  "num_followers": 16882,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Vente",
         "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 182891,
       "name": "Vente",
       "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Tu Sabor",
+        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Pablo Alhach",
+          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Tu Sabor",
+      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Viagem Ao Centro Do Eu (Coragem)",
         "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 253770,
       "name": "Viagem Ao Centro Do Eu (Coragem)",
       "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Tu Sabor",
-        "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Pablo Alhach",
-          "url": "https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz"
-        }
-      ],
-      "duration_ms": 175357,
-      "name": "Tu Sabor",
-      "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Pliva",
         "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 244570,
       "name": "Pliva",
       "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Senta Relaxa",
-        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
-      },
-      "artists": [
-        {
-          "name": "De Qualite",
-          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "Senta Relaxa",
-      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Ay",
         "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
       },
@@ -1591,18 +1571,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
+        "name": "Senta Relaxa",
+        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "De Qualite",
+          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 263680,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
+      "duration_ms": 180014,
+      "name": "Senta Relaxa",
+      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1627,6 +1611,22 @@
       "duration_ms": 198214,
       "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
       "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Dimini",
+        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+        }
+      ],
+      "duration_ms": 142447,
+      "name": "Dimini",
+      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Que Pasa",
         "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
       },
@@ -1711,26 +1731,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Corazon",
-        "url": "https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99"
+        "name": "Adios",
+        "url": "https://open.spotify.com/album/2Y5HkAKcA98j4dugmg2yms"
       },
       "artists": [
         {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         },
         {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        },
-        {
-          "name": "Vikina",
-          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
+      "duration_ms": 200823,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/0oWyR0YlcPGZ9zuEHc6EaI"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1755,42 +1771,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dimini",
-        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
         },
         {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
-        }
-      ],
-      "duration_ms": 142447,
-      "name": "Dimini",
-      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Adios",
-        "url": "https://open.spotify.com/album/2Y5HkAKcA98j4dugmg2yms"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
         },
         {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+          "name": "Vikina",
+          "url": "https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE"
         }
       ],
-      "duration_ms": 200823,
-      "name": "Adios",
-      "url": "https://open.spotify.com/track/0oWyR0YlcPGZ9zuEHc6EaI"
+      "duration_ms": 167906,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/3bot8lUvwEKSn8yDuxHA4z"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "La Bulla",
-        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Many Malon",
-          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
-        }
-      ],
-      "duration_ms": 170403,
-      "name": "La Bulla",
-      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Tuku Tu",
         "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 171998,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "La Bulla",
+        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Many Malon",
+          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
+        }
+      ],
+      "duration_ms": 170403,
+      "name": "La Bulla",
+      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
     },
     {
       "added_at": "2024-04-19 04:00:00",

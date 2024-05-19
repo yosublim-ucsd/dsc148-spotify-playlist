@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Vacra, Louane
 
-2,542 songs - 5 day 15 hr 46 min
+2,543 songs - 5 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Caméléon](https://open.spotify.com/track/28n4yesf3IGNnsYzg6foRS) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Arès](https://open.spotify.com/album/7lN0D0jbfIEyvkk9cw0wKL) | 3:18 | 2022-08-26 | 2022-09-10 |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2022-01-07 | 2022-01-22 |
 | [Canard](https://open.spotify.com/track/5YVbHymqOaTLJbVhuxWcLp) | [Squeezie](https://open.spotify.com/artist/0xECfhlRzRRIIe2Co5HX6n) | [Canard](https://open.spotify.com/album/5AGrc7m6mGzBheXObMrAz5) | 2:12 | 2022-06-10 | 2022-06-18 |
+| [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 | 2024-05-17 |  |
 | [Carbo \(feat\. Enima\)](https://open.spotify.com/track/7cKs255Ja2MpjL4ecfIHvS) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Avant la fête](https://open.spotify.com/album/3bseLT6nZqX9Aap9UMY7SJ) | 2:26 | 2022-07-15 | 2022-08-20 |
 | [Cardio](https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [21](https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm) | 3:13 | 2023-05-26 | 2023-07-29 |
 | [Cargo](https://open.spotify.com/track/5iPLYlGTu8iCOVaqhmyWYq) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Cargo](https://open.spotify.com/album/5KGGBNenfVOJXNkTakd5jN) | 2:40 | 2024-03-15 | 2024-03-23 |
@@ -2214,7 +2215,7 @@
 | [T'en va pas](https://open.spotify.com/track/6xIeYZ5C7nEjuwU3xjDAMs) | [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb) | [T'en va pas](https://open.spotify.com/album/04TW1OQ5Dtja29cF0y4aGN) | 2:50 | 2022-10-28 | 2022-11-12 |
 | [T'es la reine](https://open.spotify.com/track/40Csh2800bOrHs9sBVGPOf) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23), [Liamliamliam](https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw) | [T'es la reine](https://open.spotify.com/album/2L5JkHz0RuT9s9FU1nawQH) | 2:32 | 2022-09-23 | 2022-10-01 |
 | [T'ES OÙ](https://open.spotify.com/track/4419T9cTFYwxi3dB5x4hGp) | [Stage Lacroix](https://open.spotify.com/artist/7tkE0AJ82mOghkNbBF1LpQ) | [T'ES OÙ](https://open.spotify.com/album/41k3kztr0SEuZ3jIzF1w9u) | 3:32 | 2023-03-10 | 2023-03-18 |
-| [T'oublier](https://open.spotify.com/track/1s8V2V6pEa5T1LXcuOdrLI) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [T'oublier](https://open.spotify.com/album/4rqWSfrrmZQDTicb0bqK5t) | 3:27 | 2024-05-03 |  |
+| [T'oublier](https://open.spotify.com/track/1s8V2V6pEa5T1LXcuOdrLI) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [T'oublier](https://open.spotify.com/album/4rqWSfrrmZQDTicb0bqK5t) | 3:27 | 2024-05-03 | 2024-05-19 |
 | [T'étais où](https://open.spotify.com/track/5ZJuJRZbFzQZH87nAMuSSV) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Bilk](https://open.spotify.com/artist/5R45oNcDnRCz29ZXOiKeMZ) | [T'étais où](https://open.spotify.com/album/6k3UCKi8O7r1qufmg4W8No) | 2:57 | 2023-02-17 | 2023-03-04 |
 | [Ta lettre](https://open.spotify.com/track/1KMY4Lf7dvGi2yEsTvySyc) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Ta lettre](https://open.spotify.com/album/1L98NQzjsRxgnW20Z1qEBl) | 1:53 | 2023-04-21 | 2023-05-06 |
 | [ta peau](https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [ta peau](https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH) | 3:48 | 2022-09-02 | 2022-09-17 |

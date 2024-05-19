@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 161958,
+  "num_followers": 161993,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
+        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
+        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
         "name": "Glitter Eyes (feat. mindfreakkk)",
         "url": "https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 225000,
       "name": "Glitter Eyes (feat. mindfreakkk)",
       "url": "https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 181046,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "MAGNET",
-        "url": "https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr"
-      },
-      "artists": [
-        {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
         "name": "\u604b\u6a19",
         "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
+        "name": "MAGNET",
+        "url": "https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
         }
       ],
-      "duration_ms": 205253,
-      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
-      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
+      "duration_ms": 221040,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 204480,
       "name": "Time is Over",
       "url": "https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
+      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "\u697d\u5712",
-        "url": "https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT"
-      },
-      "artists": [
-        {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
-        }
-      ],
-      "duration_ms": 247941,
-      "name": "\u697d\u5712",
-      "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
         "name": "snow love",
         "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 206461,
       "name": "snow love",
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
+        "name": "\u697d\u5712",
+        "url": "https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "Pacific Line",
-        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
-      },
-      "artists": [
-        {
-          "name": "Kidella",
-          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
-        }
-      ],
-      "duration_ms": 251922,
-      "name": "Pacific Line",
-      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
         "name": "AURORA TOKIO",
         "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
+        "name": "Pacific Line",
+        "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
+      },
+      "artists": [
+        {
+          "name": "Kidella",
+          "url": "https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE"
+        }
+      ],
+      "duration_ms": 251922,
+      "name": "Pacific Line",
+      "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "\u8003\u3048\u4e2d",
-        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "\u8003\u3048\u4e2d",
-      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
         "name": "\u3044\u3048\u306a\u3044",
         "url": "https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 216204,
       "name": "\u3044\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
+        "name": "\u8003\u3048\u4e2d",
+        "url": "https://open.spotify.com/album/4i5OzCtSH5HKWjeyeQItOu"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "\u8003\u3048\u4e2d",
+      "url": "https://open.spotify.com/track/71gzpjivMlR0pqFrQabbzm"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/60lMnicqMNrjCRlJxL289C"
+        "name": "Flower Garden",
+        "url": "https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7"
       },
       "artists": [
         {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 261176,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6"
+      "duration_ms": 201600,
+      "name": "Flower Garden",
+      "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "Flower Garden",
-        "url": "https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Flower Garden",
-      "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
         "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
         "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 249254,
       "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
       "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/60lMnicqMNrjCRlJxL289C"
+      },
+      "artists": [
+        {
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
+        }
+      ],
+      "duration_ms": 261176,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/4qkA3TdeAxhSebHHxIHUO6"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

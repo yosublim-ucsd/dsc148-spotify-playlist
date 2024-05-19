@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
+    },
+    {
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 284586,
       "name": "Ven a Mi",
       "url": "https://open.spotify.com/track/1g2ZA7SEOEio0tiPRuKQlS"

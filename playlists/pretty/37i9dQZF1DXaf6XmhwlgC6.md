@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,719 likes - 241 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,795 likes - 241 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 31 | [Hearsay](https://open.spotify.com/track/1LUJBuZEJMt7Rz6JmIvyjh) | [Tone Fluency](https://open.spotify.com/artist/2e5eHuSE4kABHp8Fw3WLsa) | [Hearsay](https://open.spotify.com/album/35xZ11xgT5Qc3s9QBFc3MC) | 2:10 |
 | 32 | [Palace](https://open.spotify.com/track/4yEQEFqwmlQVdtCZvCmXnQ) | [Owen Hill](https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i) | [Palace](https://open.spotify.com/album/28t1JD1UGP5VOZ84PDuDe5) | 2:52 |
 | 33 | [endless possibilities](https://open.spotify.com/track/7yxzgaWVOFqjiDYCP78JvH) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [endless possibilities](https://open.spotify.com/album/1qDJtOZZ5vMAM81YYlZya3) | 2:35 |
-| 34 | [Transmitter](https://open.spotify.com/track/068nNdcHfiYl19mA0iqZY2) | [Skeru](https://open.spotify.com/artist/579775ikDoHL7F0HSFYK9l) | [Transmitter](https://open.spotify.com/album/7or7OmqnOB5mkuAlAp8jeM) | 2:23 |
+| 34 | [Transmitter](https://open.spotify.com/track/068nNdcHfiYl19mA0iqZY2) | [Skeru](https://open.spotify.com/artist/2VtgVsxxb33b7iZ71BNDg7) | [Transmitter](https://open.spotify.com/album/7or7OmqnOB5mkuAlAp8jeM) | 2:23 |
 | 35 | [In The Ether](https://open.spotify.com/track/1et2Fg7dQYWumbZfLMlxMN) | [The River Sings](https://open.spotify.com/artist/6cmgHNLrf9rpn9gHzebyOV) | [In The Ether](https://open.spotify.com/album/3TYKAcxeoZmEbSSzUIJo04) | 3:04 |
 | 36 | [Between Light And Dark](https://open.spotify.com/track/0EGNB6MWe2OtPS0Dtc4K6A) | [Amaury Arceneaux](https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp) | [Between Light And Dark](https://open.spotify.com/album/7u3qMojHPUTiPJCTNfQhAL) | 2:32 |
 | 37 | [Cause And Effect](https://open.spotify.com/track/5N3X7h8dkZ985rpPTemy3m) | [Wimmel](https://open.spotify.com/artist/0RhOCgBChCEWoFoiyvlcYy) | [Cause And Effect](https://open.spotify.com/album/6wugLVvpkOyRRh21FenWi4) | 2:39 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 72 | [Day One](https://open.spotify.com/track/2c3R5cRQXCpJTLyanScIxH) | [Skyrios](https://open.spotify.com/artist/55uEL0DabWyI3Yv8dt1Y0Q) | [Day One](https://open.spotify.com/album/5PoIhseACEH1smxIVLYGeD) | 2:08 |
 | 73 | [Sukhbaatar](https://open.spotify.com/track/1Z3ZZ73SRFeoYwy7Iay2FZ) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Sukhbaatar](https://open.spotify.com/album/2Sf8EiJEu1aSyeDaKpu1tb) | 2:55 |
 | 74 | [Left Out In the Open](https://open.spotify.com/track/0vNaU0ExADulW8U7RXAP3T) | [Plaice Commes](https://open.spotify.com/artist/103iNifaFqCDUVVglaXb7D) | [Left Out In the Open](https://open.spotify.com/album/5akedcqnnolrF3uoK9jrxT) | 2:24 |
-| 75 | [Wilder](https://open.spotify.com/track/7oBb6Nv5gUj0IxHbDX6Ttz) | [Skeru](https://open.spotify.com/artist/579775ikDoHL7F0HSFYK9l) | [Wilder](https://open.spotify.com/album/5ZbD7BpsJ0PupqIYPtAmkb) | 2:20 |
+| 75 | [Wilder](https://open.spotify.com/track/7oBb6Nv5gUj0IxHbDX6Ttz) | [Skeru](https://open.spotify.com/artist/2VtgVsxxb33b7iZ71BNDg7) | [Wilder](https://open.spotify.com/album/5ZbD7BpsJ0PupqIYPtAmkb) | 2:20 |
 | 76 | [When No One Is Around](https://open.spotify.com/track/5WgOjxfyOkktTVX2PXcyRo) | [Portal Plan](https://open.spotify.com/artist/01yE7EbTF9j8IQAN0VA1Wi) | [Something's Different](https://open.spotify.com/album/5AOLF3evZwNuOC8cwv4KiE) | 2:15 |
 | 77 | [\(Electricity\)](https://open.spotify.com/track/0kjmjY9yvzWeSicNEAjFcD) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 2:04 |
 | 78 | [Flower Petals](https://open.spotify.com/track/2yWOw6cA9d6G26J5syTNRy) | [Modesty Plains](https://open.spotify.com/artist/6fEjztEvxaryElFpmmlBQW) | [Flower Petals](https://open.spotify.com/album/0H7JnflTfBGvQQaa708WNz) | 2:57 |

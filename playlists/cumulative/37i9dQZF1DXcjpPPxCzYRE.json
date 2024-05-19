@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 184746,
       "name": "_El Infinito",
       "url": "https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB"
@@ -3062,6 +3062,28 @@
       "duration_ms": 147761,
       "name": "ojitos caramelo",
       "url": "https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF"
+    },
+    {
+      "album": {
+        "name": "Ojos de Miel",
+        "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
+      },
+      "artists": [
+        {
+          "name": "Valhua",
+          "url": "https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK"
+        },
+        {
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "Ojos de Miel",
+      "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
     },
     {
       "album": {

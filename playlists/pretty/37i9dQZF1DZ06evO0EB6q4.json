@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 212644,
+  "num_followers": 212732,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAABOhGTrZGp1I/kjrEfMa+M7",
+  "snapshot_id": "ZkaeAAAAAAC3E94LH8eYWmEDq388tIUW",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Look",
-        "url": "https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Tu Look",
-      "url": "https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo Tu",
       "url": "https://open.spotify.com/track/5Xa7mPQbcb8sU7fReTdz1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Look",
+        "url": "https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Tu Look",
+      "url": "https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para los Dolidos",
+        "url": "https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 156403,
+      "name": "Para los Dolidos",
+      "url": "https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde el Fondo",
         "url": "https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr"
       },
@@ -623,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para los Dolidos",
-        "url": "https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm"
+        "name": "Mal Mal Mal",
+        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
       },
       "artists": [
         {
@@ -632,13 +652,13 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         },
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 156403,
-      "name": "Para los Dolidos",
-      "url": "https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY"
+      "duration_ms": 228214,
+      "name": "Mal Mal Mal",
+      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
     },
     {
       "added_at": null,
@@ -659,26 +679,6 @@
       "duration_ms": 172768,
       "name": "Contrato",
       "url": "https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal Mal Mal",
-        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Mal Mal Mal",
-      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s que reales",
+        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "M\u00e1s que reales",
+      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s que reales",
-        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "M\u00e1s que reales",
-      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
     },
     {
       "added_at": null,

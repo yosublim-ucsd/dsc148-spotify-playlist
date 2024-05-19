@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Lake Street Dive
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,460 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,487 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bright \(Fast\)](https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8) | [Sarah Pidgeon](https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila), [Will Brill](https://open.spotify.com/artist/5J7cdiHUhj1czoAsBFG4dd), [Juliana Canfield](https://open.spotify.com/artist/6Q2PaUxhasOg5BZWUDvWAK), [Tom Pecinka](https://open.spotify.com/artist/2rjaQ9SW19AqHuD5d8vyJz), [Chris Stack](https://open.spotify.com/artist/3fE1pLoa2o2aejSTzBc9ag), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Justin Craig](https://open.spotify.com/artist/7vEryrK6GxnOKI3sGyPjHN), [Original Cast of Stereophonic](https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9) | [Stereophonic \(Original Cast Recording\)](https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB) | 4:48 |
+| 1 | [Bright \(Fast\)](https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8) | [Original Cast of Stereophonic](https://open.spotify.com/artist/7mWF9KLJnw7RBibAnNOSB9), [Sarah Pidgeon](https://open.spotify.com/artist/5CHHfbhxEXG1z77bbj4ila), [Will Brill](https://open.spotify.com/artist/5J7cdiHUhj1czoAsBFG4dd), [Juliana Canfield](https://open.spotify.com/artist/6Q2PaUxhasOg5BZWUDvWAK), [Tom Pecinka](https://open.spotify.com/artist/2rjaQ9SW19AqHuD5d8vyJz), [Chris Stack](https://open.spotify.com/artist/3fE1pLoa2o2aejSTzBc9ag), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Justin Craig](https://open.spotify.com/artist/7vEryrK6GxnOKI3sGyPjHN) | [Stereophonic \(Original Cast Recording\)](https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB) | 4:48 |
 | 2 | [HUMAN](https://open.spotify.com/track/2JRsdMaavScKW5ohfCFOgz) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [HUMAN](https://open.spotify.com/album/52FucwXRUffwY88oNm8pTT) | 3:11 |
 | 3 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
 | 4 | [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 |

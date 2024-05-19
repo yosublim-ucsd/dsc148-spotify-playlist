@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "In Search Of The Antidote",
+        "url": "https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156626,
+      "name": "Attached To You",
+      "url": "https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC"
+    },
+    {
+      "album": {
         "name": "Back to Beautiful",
         "url": "https://open.spotify.com/album/4CNA4ZgPRexRwmcouZaCSp"
       },
@@ -4770,6 +4788,24 @@
       "duration_ms": 212010,
       "name": "Truth Is",
       "url": "https://open.spotify.com/track/2AAL4PF8WtOgHKHajUBbwh"
+    },
+    {
+      "album": {
+        "name": "In Search Of The Antidote",
+        "url": "https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165613,
+      "name": "Two Things Can Be True",
+      "url": "https://open.spotify.com/track/38fBiZhAfXclw5avjMiu1b"
     },
     {
       "album": {

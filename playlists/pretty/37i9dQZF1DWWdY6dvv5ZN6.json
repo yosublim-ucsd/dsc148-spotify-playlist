@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 2063,
+  "num_followers": 2082,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "on the tender spot of every calloused moment",
-        "url": "https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Roy",
-      "url": "https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Casa Guilhermina",
         "url": "https://open.spotify.com/album/6mnkadX4JLnvPxDGWnQ0Bu"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 250613,
       "name": "I'll Tell You Something",
       "url": "https://open.spotify.com/track/2LjKZMGc74SPiyO47VlMJQ"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "on the tender spot of every calloused moment",
+        "url": "https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Roy",
+      "url": "https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "I Killed Your Dog",
-        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
-      },
-      "artists": [
-        {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
-        }
-      ],
-      "duration_ms": 165413,
-      "name": "Pet Rock",
-      "url": "https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Goodnight Summerland",
         "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 213107,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/3eneNYOKfTVdaGJbdGa0Rj"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "I Killed Your Dog",
+        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "duration_ms": 165413,
+      "name": "Pet Rock",
+      "url": "https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "The Solitary Seeker",
-        "url": "https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN"
-      },
-      "artists": [
-        {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        }
-      ],
-      "duration_ms": 368402,
-      "name": "The Solitary Seeker",
-      "url": "https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Step out",
         "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Sunday In The Park",
-        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
+        "name": "The Solitary Seeker",
+        "url": "https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN"
       },
       "artists": [
         {
-          "name": "Sammy Jackson",
-          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
         }
       ],
-      "duration_ms": 265239,
-      "name": "Sunday In The Park",
-      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
+      "duration_ms": 368402,
+      "name": "The Solitary Seeker",
+      "url": "https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1711,6 +1695,22 @@
       "duration_ms": 272453,
       "name": "P+R",
       "url": "https://open.spotify.com/track/5fAcEJGYIPLFK6X5hOshXQ"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Sunday In The Park",
+        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
+      },
+      "artists": [
+        {
+          "name": "Sammy Jackson",
+          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
+        }
+      ],
+      "duration_ms": 265239,
+      "name": "Sunday In The Park",
+      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "Riddles",
+        "url": "https://open.spotify.com/album/5kLtkBWe4jnLLr5eQmJ5xQ"
+      },
+      "artists": [
+        {
+          "name": "Ed Schrader's Music Beat",
+          "url": "https://open.spotify.com/artist/5AihBcq33PSL5jtuPhz2DJ"
+        }
+      ],
+      "duration_ms": 278348,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/01ElpQ8qLuLBpVvZ6GmPtf"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "Y\u2019all Don\u2019t (Really) Care About Black Women",
         "url": "https://open.spotify.com/album/746qWwUCILB8ZILy6wkXFZ"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 297631,
       "name": "Woman Of The Ghetto - Reimagined",
       "url": "https://open.spotify.com/track/0LLrnRUnjl1NxREWcp6bCO"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Riddles",
-        "url": "https://open.spotify.com/album/5kLtkBWe4jnLLr5eQmJ5xQ"
-      },
-      "artists": [
-        {
-          "name": "Ed Schrader's Music Beat",
-          "url": "https://open.spotify.com/artist/5AihBcq33PSL5jtuPhz2DJ"
-        }
-      ],
-      "duration_ms": 278348,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/01ElpQ8qLuLBpVvZ6GmPtf"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "ACTE III",
-        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
-      },
-      "artists": [
-        {
-          "name": "Simon Leoza",
-          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
-        }
-      ],
-      "duration_ms": 95866,
-      "name": "III {serenade}",
-      "url": "https://open.spotify.com/track/1Hv6iMEG4aijKn8MAMtWWl"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Hermetism (Commentary Version)",
         "url": "https://open.spotify.com/album/4H1Ch0zFiUQcxcwu9ARMzX"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 354709,
       "name": "Paris s'enflamme",
       "url": "https://open.spotify.com/track/6GC9FilEe08p7LgwtXgO24"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "ACTE III",
+        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
+      },
+      "artists": [
+        {
+          "name": "Simon Leoza",
+          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
+        }
+      ],
+      "duration_ms": 95866,
+      "name": "III {serenade}",
+      "url": "https://open.spotify.com/track/1Hv6iMEG4aijKn8MAMtWWl"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Motewolonuwok",
-        "url": "https://open.spotify.com/album/5evC3RTGfXXhUekGgGSWuD"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Dutcher",
-          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
-        }
-      ],
-      "duration_ms": 222215,
-      "name": "Pomawsuwinuwok Wonakiyawolotuwok",
-      "url": "https://open.spotify.com/track/54RrPwnNwGk3XCIhPswkqo"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Creatures of the Late Afternoon",
         "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 144760,
       "name": "1000 Towns",
       "url": "https://open.spotify.com/track/1CVqnk1ilxgitab7JONA81"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Motewolonuwok",
+        "url": "https://open.spotify.com/album/5evC3RTGfXXhUekGgGSWuD"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "duration_ms": 222215,
+      "name": "Pomawsuwinuwok Wonakiyawolotuwok",
+      "url": "https://open.spotify.com/track/54RrPwnNwGk3XCIhPswkqo"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Kindred",
-        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
-      },
-      "artists": [
-        {
-          "name": "Doxas Brothers",
-          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
-        }
-      ],
-      "duration_ms": 353002,
-      "name": "Two's a Crowd",
-      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Bridge",
         "url": "https://open.spotify.com/album/5ggnDDpZa11EvVrt2oB3Bi"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 233583,
       "name": "Dingi Do",
       "url": "https://open.spotify.com/track/72sN8axRC8SS0hDYY7QnnJ"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
+      },
+      "artists": [
+        {
+          "name": "Doxas Brothers",
+          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
+        }
+      ],
+      "duration_ms": 353002,
+      "name": "Two's a Crowd",
+      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Love Will Be Reborn (Deluxe)",
-        "url": "https://open.spotify.com/album/27vXJV6El2FMUGMGeRWTHp"
-      },
-      "artists": [
-        {
-          "name": "Martha Wainwright",
-          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "Love Will Be Reborn",
-      "url": "https://open.spotify.com/track/0QRJoHPfeELqE6sceqDobG"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Steppin' Out!",
         "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
       },
@@ -2455,6 +2439,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "Love Will Be Reborn (Deluxe)",
+        "url": "https://open.spotify.com/album/27vXJV6El2FMUGMGeRWTHp"
+      },
+      "artists": [
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "duration_ms": 260560,
+      "name": "Love Will Be Reborn",
+      "url": "https://open.spotify.com/track/0QRJoHPfeELqE6sceqDobG"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "Parfum no.1",
         "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
       },
@@ -2467,30 +2467,6 @@
       "duration_ms": 444706,
       "name": "Promesse de souvenirs",
       "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
-        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
-      },
-      "artists": [
-        {
-          "name": "Marianne Trudel",
-          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
-        },
-        {
-          "name": "John Hollenbeck",
-          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
-        },
-        {
-          "name": "R\u00e9mi-Jean Leblanc",
-          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
-        }
-      ],
-      "duration_ms": 429943,
-      "name": "Les vagues",
-      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2519,18 +2495,26 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Walking Man",
-        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
+        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
       },
       "artists": [
         {
-          "name": "YAMA//SATO",
-          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
+          "name": "Marianne Trudel",
+          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
+        },
+        {
+          "name": "John Hollenbeck",
+          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
+        },
+        {
+          "name": "R\u00e9mi-Jean Leblanc",
+          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
         }
       ],
-      "duration_ms": 184620,
-      "name": "Walking Man",
-      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
+      "duration_ms": 429943,
+      "name": "Les vagues",
+      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2603,6 +2587,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "Walking Man",
+        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
+      },
+      "artists": [
+        {
+          "name": "YAMA//SATO",
+          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "Walking Man",
+      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "Ukubonga Gratitude",
         "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
       },
@@ -2619,38 +2619,6 @@
       "duration_ms": 376720,
       "name": "Ilanga Selishonile",
       "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Memory Blues",
-        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
-      },
-      "artists": [
-        {
-          "name": "Endrick & the Sandwiches",
-          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Memory Blues",
-      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Prevent the Future",
-        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
-      },
-      "artists": [
-        {
-          "name": "Lex French Quartet with James Muller",
-          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "Austerity",
-      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2687,6 +2655,38 @@
       "duration_ms": 498899,
       "name": "On Living",
       "url": "https://open.spotify.com/track/4OdBllSXPo0MwPxMv94W5T"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Memory Blues",
+        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
+      },
+      "artists": [
+        {
+          "name": "Endrick & the Sandwiches",
+          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Memory Blues",
+      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Prevent the Future",
+        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
+      },
+      "artists": [
+        {
+          "name": "Lex French Quartet with James Muller",
+          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "Austerity",
+      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
     },
     {
       "added_at": "2024-04-24 15:03:49",

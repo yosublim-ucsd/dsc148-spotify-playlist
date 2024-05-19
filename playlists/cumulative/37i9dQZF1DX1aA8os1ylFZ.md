@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-496 songs - 1 day 1 hr 43 min
+497 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Find Me Again](https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB) | [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5) | [Find Me Again](https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI) | 2:47 | 2023-10-09 |  |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2021-12-16 | 2023-01-13 |
 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 | 2023-09-28 |  |
-| [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 | 2023-11-09 |  |
+| [Flexible](https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM) | [Jazz Carta](https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif) | [Flexible](https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI) | 2:21 | 2023-11-09 | 2024-05-19 |
 | [Focus](https://open.spotify.com/track/1IJ9taH1AFHfrKYvBbgMq1) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/1DLqQDX8YBOFSF6SwosfsK) | 2:44 | 2022-07-22 | 2022-11-17 |
 | [Focus](https://open.spotify.com/track/4g1Ec6coJ3tGrsua8B2yio) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/33oXw6C7qblh1spcJDsved) | 2:44 | 2021-12-16 | 2022-07-29 |
 | [Focus](https://open.spotify.com/track/6OZtADZziUiDTULF8rl9ix) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Focus](https://open.spotify.com/album/6hqAU3uwagQI3eIfFGSxPu) | 2:44 | 2022-10-27 | 2023-01-13 |
@@ -204,6 +204,7 @@
 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2023-01-12 | 2023-09-01 |
 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-03-01 | 2024-03-01 |
 | [How Would It Feel](https://open.spotify.com/track/1EWwnTRGvdt3GGknXegkZS) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/50nkGRQlAXrQcpKoh4jWGQ) | 4:06 | 2021-12-16 | 2022-03-26 |
+| [Hurts Me To Know](https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 2:29 | 2024-05-16 |  |
 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 | 2023-03-30 |  |
 | [I Do](https://open.spotify.com/track/0t5Lx2P5qL2EKyFFFXiTPv) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/5tsKKRlFzh3Wzvg1FWvFMl) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [I Do](https://open.spotify.com/track/5MarIZklriKZNvAzfKdMHj) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:10 | 2022-07-22 | 2023-01-13 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 228621,
+  "description": "This is Young Thug. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 228683,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAABOPtwbAew9DDbxsruto3pl",
+  "snapshot_id": "ZkaeAAAAAABgiu7S++qeRw+VwPxvoRsA",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My wrist (with Young Thug)",
+        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "My wrist (with Young Thug)",
+      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -291,6 +311,30 @@
       "duration_ms": 366592,
       "name": "SKITZO (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "pushin P (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
     },
     {
       "added_at": null,
@@ -443,6 +487,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
+      },
+      "artists": [
+        {
+          "name": "Rich Gang",
+          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 269693,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bless",
         "url": "https://open.spotify.com/album/5J380O739v6VvloJG1Vg5n"
       },
@@ -463,6 +531,30 @@
       "duration_ms": 162778,
       "name": "Bless (feat. Young Thug)",
       "url": "https://open.spotify.com/track/2FI2cZGlZ1nmRt2IkjnoMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
     },
     {
       "added_at": null,
@@ -495,30 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "The London (feat. J. Cole & Travis Scott)",
-      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Thugger Girls",
         "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
       },
@@ -539,34 +607,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
       "artists": [
         {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 165066,
-      "name": "Bubbly (with Drake & Travis Scott)",
-      "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
+      "duration_ms": 220888,
+      "name": "Just Like Me (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Drip Season 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
       "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
@@ -576,9 +644,9 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 160776,
-      "name": "Never Hating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
+      "duration_ms": 199011,
+      "name": "Oh Okay (feat. Young Thug & Lil Baby)",
+      "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
     },
     {
       "added_at": null,
@@ -607,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 220888,
-      "name": "Just Like Me (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -647,26 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip Season 3 (Deluxe)",
-        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
       },
       "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 199011,
-      "name": "Oh Okay (feat. Young Thug & Lil Baby)",
-      "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
     },
     {
       "added_at": null,
@@ -771,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 250271,
+      "name": "ON GOD (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/5euYMGygjq2IAfpzOD08Qb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -783,70 +843,6 @@
       "duration_ms": 163800,
       "name": "Jonesboro",
       "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Mannequin Challenge (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 170157,
-      "name": "Dance with Me (feat. Thomas Rhett & Young Thug)",
-      "url": "https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard II Love",
-        "url": "https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "No Limit (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O"
     },
     {
       "added_at": null,
@@ -879,38 +875,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "D.A.B. Muzic, Vol. 1",
-        "url": "https://open.spotify.com/album/1aBzIVyoNah5QzW5LHZEXD"
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+        "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 187324,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/0fujQqs6ybS47td4sEwPcA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hookah",
-        "url": "https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG"
-      },
-      "artists": [
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 202320,
-      "name": "Hookah",
-      "url": "https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U"
+      "duration_ms": 170157,
+      "name": "Dance with Me (feat. Thomas Rhett & Young Thug)",
+      "url": "https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Mannequin Challenge (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard II Love",
+        "url": "https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "No Limit (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O"
     },
     {
       "added_at": null,
@@ -1047,6 +1071,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Halftime",
+      "url": "https://open.spotify.com/track/4BP0An7SXctTY4kF41JxIQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -1067,42 +1107,6 @@
       "duration_ms": 206813,
       "name": "Lesbian (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/6vG3Zv9VEA6YbJPJ6ar5Y7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "Halftime",
-      "url": "https://open.spotify.com/track/4BP0An7SXctTY4kF41JxIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLAME IT ON BABY (DELUXE)",
-        "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "BLIND (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/2T5NBwKRySiCR78vVk08vr"
     }
   ],
   "unique_name": "This Is Young Thug",

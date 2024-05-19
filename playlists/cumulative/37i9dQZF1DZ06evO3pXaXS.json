@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is The Police. The essential tracks, all in one playlist.",
+  "description": "This Is The Police. Los temas esenciales, todos en una lista.",
   "name": "This Is The Police",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "Born In The 50's",
       "url": "https://open.spotify.com/track/0RxrsIXyGkeV8JwEFUZMhg"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 247293,
       "name": "De Do Do Do, De Da Da Da",
       "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 251960,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/4i3SC58kB65zfKo1oOW1q9"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 260573,
       "name": "Every Little Thing She Does Is Magic",
       "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 192013,
       "name": "It's Alright For You",
       "url": "https://open.spotify.com/track/5fTI7JCaMRK09WtwG8ZrRK"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 119946,
       "name": "Miss Gradenko",
       "url": "https://open.spotify.com/track/1HAy3OuIEMm7ArA4Ec52ym"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 176973,
       "name": "On Any Other Day",
       "url": "https://open.spotify.com/track/6rN4PWNTD8AY1mfLslqrQG"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 234800,
       "name": "Peanuts",
       "url": "https://open.spotify.com/track/7Jsli31ZTv3TI28qcXzEkE"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 185133,
       "name": "Reggatta De Blanc",
       "url": "https://open.spotify.com/track/2EEp2vTGSRDSLHWUF80EZZ"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 191946,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 213693,
       "name": "Secret Journey",
       "url": "https://open.spotify.com/track/1klFQ3R5AN86f0moMUdSYS"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 289586,
       "name": "So Lonely",
       "url": "https://open.spotify.com/track/2wnsBaxrmkthIFAm6vqCuX"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Synchronicity I",
       "url": "https://open.spotify.com/track/0eZvCQAK6hsPSlcfqzREvB"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 233253,
       "name": "Voices Inside My Head",
       "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"

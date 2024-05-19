@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
 
-622 songs - 1 day 13 hr 4 min
+623 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 3:06 | 2022-10-01 | 2022-10-08 |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-07-22 | 2022-10-03 |
 | [Right Now](https://open.spotify.com/track/1lKVUxGaeT8oZomwWopXB2) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg) | [Right Now](https://open.spotify.com/album/4dAmDLs6g7QFylKgLxSkdu) | 3:49 | 2022-05-13 | 2022-07-09 |
+| [Roadrunner](https://open.spotify.com/track/0MyEVn9U5jVhuhIEmPKMoS) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner](https://open.spotify.com/album/1IwH9mpPLMI4BHueMx0ExL) | 3:39 | 2024-05-17 |  |
 | [Roan & Rope](https://open.spotify.com/track/2nSlbrfoenkW5GrShzY3y0) | [L\-7 Productions](https://open.spotify.com/artist/1j4NvacWrmlJSYryFomDgW), [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U), [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj), [Jordan Smith](https://open.spotify.com/artist/02HDPzt4jfUl4w1YEHeW9P), [Kellen Smith](https://open.spotify.com/artist/5eKwxg7wyMKGn94a8qDdM9), [Jordan Lisco](https://open.spotify.com/artist/1tHSBdFPKHSdJASL6wS6ac), [Tris Munsick & the Innocents](https://open.spotify.com/artist/4cA9YGLHMsKTL921ST5tZx), [Sam Munsick](https://open.spotify.com/artist/65kwDghVUSLY1qzOfOp5no), [Kalyn Beasley](https://open.spotify.com/artist/0GkfgLbVWYsHN6eWhiEybX) | [Roan & Rope](https://open.spotify.com/album/5jgfgKWm8UoJnBKfHP5aZ6) | 3:54 | 2022-03-04 | 2022-03-19 |
 | [Rock and Roll Should Kill You](https://open.spotify.com/track/1jW9ZOTcNbDYQlrBCQtbIo) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT) | [Rock and Roll Should Kill You](https://open.spotify.com/album/3KZ75aeOckZC6j3HS853Z4) | 4:07 | 2022-08-01 | 2022-08-12 |
 | [Roger, Miller Lite and Me \- Live at Brooklyn Bowl, Nashville, 2021](https://open.spotify.com/track/5JqTcAUYNqTIlVWwMptv25) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Roger, Miller Lite and Me \(Live at Brooklyn Bowl, Nashville, 2021\)](https://open.spotify.com/album/1O83B5W5JotBgP91GYh4xK) | 2:51 | 2022-05-20 | 2022-07-26 |
@@ -554,7 +555,7 @@
 | [Trouble With Angels](https://open.spotify.com/track/3BaVluQUA7ajqvFIp1iSkl) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Trouble With Angels](https://open.spotify.com/album/30PgSxZ5SpbUlJB6RjDmfo) | 3:15 | 2021-12-17 | 2022-03-19 |
 | [Trouble With You](https://open.spotify.com/track/5WxsXiljdTceevmqvsi4hq) | [Taylor Dunn](https://open.spotify.com/artist/1FfX9825XN0Uy6HBVoQsxr) | [Trouble With You](https://open.spotify.com/album/4aZYrGkb1ZxJql4oUQ3bfs) | 3:30 | 2021-12-17 | 2022-07-10 |
 | [Truth Like a Lie](https://open.spotify.com/track/0QqZqpe0mQJ8R7FYVgJ4qs) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Truth Like a Lie](https://open.spotify.com/album/1udk2S0wk7gC9LUYGZ5Zgu) | 4:12 | 2021-12-17 | 2022-04-29 |
-| [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 | 2023-09-01 |  |
+| [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 | 2023-09-01 | 2024-05-19 |
 | [Two Hearts in Terlingua](https://open.spotify.com/track/1xzTlHwxVsnI34HgnINYpt) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 5:01 | 2021-12-17 | 2022-07-29 |
 | [Two Left Feet](https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31) | [Cameron James Smith](https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp) | [Two Left Feet](https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK) | 3:14 | 2022-10-07 | 2022-11-28 |
 | [Under The Lights On Friday Night](https://open.spotify.com/track/43Qg7oEHfIprD4jBj54Xs2) | [Brandon Rhyder](https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD) | [Under The Lights On Friday Night](https://open.spotify.com/album/23yglCwV4MAQJdayeG7dkZ) | 3:51 | 2022-06-17 | 2022-07-19 |

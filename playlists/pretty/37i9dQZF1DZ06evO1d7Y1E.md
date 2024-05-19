@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 ### [This Is Mc Poze do Rodo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d7Y1E)
 
-> This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
+> This is Mc Poze do Rodo\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,991 likes - 48 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,999 likes - 48 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 47 | [A Cara do Crime \- Remix](https://open.spotify.com/track/1gW5XDbjG3TFOcmjAirKNI) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [A Cara do Crime \(Remix\)](https://open.spotify.com/album/295jaj4kZbKaytU5cgbp7m) | 3:00 |
 | 48 | [Safadinha](https://open.spotify.com/track/1vuRoYIGP57PR4Vf5erTqP) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [Safadinha](https://open.spotify.com/album/7qLJZYDUWFY4JhwSkhqazr) | 2:21 |
 
-Snapshot ID: `ZkVMgAAAAABpGjgU+weQH1EMN1m6roNT`
+Snapshot ID: `ZkaeAAAAAADttu885ZeY+Xe4+AT/Wuku`

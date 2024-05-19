@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 315723,
       "name": "90s Baby",
       "url": "https://open.spotify.com/track/6yBBevO7I1HTgUcNMSPbis"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 238078,
       "name": "how do you like your tea?",
       "url": "https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk"
@@ -1666,6 +1666,32 @@
       "duration_ms": 164754,
       "name": "Konye",
       "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
+    },
+    {
+      "album": {
+        "name": "Last Night (Anyma x Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256743,
+      "name": "Last Night - Anyma x Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
     },
     {
       "album": {
@@ -2030,6 +2056,36 @@
       "duration_ms": 197933,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep"
+    },
+    {
+      "album": {
+        "name": "Meet Her At The Love Parade",
+        "url": "https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        },
+        {
+          "name": "Kiki Solvej",
+          "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Meet Her At The Love Parade",
+      "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
     },
     {
       "album": {

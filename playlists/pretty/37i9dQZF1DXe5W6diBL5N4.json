@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the freshest K-Pop new releases (Cover: MARK) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 225628,
+  "num_followers": 225708,
   "original_name": "New Music K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "owner": {
     "name": "Spotify",
@@ -162,10 +162,14 @@
         {
           "name": "Byeol Eun",
           "url": "https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2"
+        },
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
       "duration_ms": 180613,
-      "name": "the Promised Flower (feat. Byeol Eun)",
+      "name": "the Promised Flower (feat. Byeol Eun, Danny Koo)",
       "url": "https://open.spotify.com/track/0btRH1Odm2iD7ZJP5BCU1k"
     },
     {
@@ -1144,7 +1148,7 @@
       },
       "artists": [
         {
-          "name": "\uc815\uac00\uc774",
+          "name": "Jeong Gayi",
           "url": "https://open.spotify.com/artist/0u4K1Tr32rIXpmYUhHhqP8"
         }
       ],

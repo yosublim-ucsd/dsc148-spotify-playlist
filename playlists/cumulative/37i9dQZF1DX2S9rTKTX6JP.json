@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Disco Loadout (Volume 1)",
+        "url": "https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230293,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl"
+    },
+    {
+      "album": {
         "name": "Dancing On My Own",
         "url": "https://open.spotify.com/album/7gEOv7G4cnqH0FJ0iucRoN"
       },
@@ -1874,6 +1892,24 @@
       "duration_ms": 210989,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1exxuu9LFRjU12jZFmYjc5"
+    },
+    {
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162411,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
     },
     {
       "album": {
@@ -3146,7 +3182,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 224090,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/0CdbUHOAfMAvvtkSg22AM8"
@@ -4476,7 +4512,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 262293,
       "name": "Ramble On",
       "url": "https://open.spotify.com/track/0OQLMQBKeaFuA2PJRdMuik"

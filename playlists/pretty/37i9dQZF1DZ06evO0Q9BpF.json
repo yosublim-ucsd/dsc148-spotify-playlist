@@ -1,12 +1,12 @@
 {
   "description": "This Is Generaci\u00f3n 12. Los temas esenciales, todos en una lista.",
-  "num_followers": 39673,
+  "num_followers": 39695,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkVMgAAAAAAhGpj3jSx6jZNJCHOoe6jw",
+  "snapshot_id": "ZkaeAAAAAAANKJ9niLHkx3T7aOQPFwR7",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 411440,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 450186,
       "name": "Pr\u00f3digo",
       "url": "https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 411440,
-      "name": "Eres Santo",
-      "url": "https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx"
     },
     {
       "added_at": null,

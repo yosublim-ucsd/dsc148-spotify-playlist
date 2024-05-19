@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,863 songs - 4 day 2 hr 14 min
+1,864 songs - 4 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [All Out of Love](https://open.spotify.com/track/13Dj9CkrgsKPHBRH0zzoNu) | [Stark](https://open.spotify.com/artist/5wNuh7FxIFmoNlRLMoVzWl), [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [All Out of Love](https://open.spotify.com/album/257gP7Vsp56gCBSWXhEaOt) | 3:47 | 2020-10-16 | 2021-05-21 |
 | [All The Things](https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [All The Things](https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3) | 3:22 | 2023-08-14 | 2023-12-03 |
 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 | 2023-07-07 | 2024-05-06 |
+| [All Your Life](https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [All Your Life](https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez) | 3:16 | 2024-05-17 |  |
 | [ALMA](https://open.spotify.com/track/3ckKmJuGCwmoXQ8VCqMrvA) | [Boxout](https://open.spotify.com/artist/45Sf6MYLYtpaoIebiLw1QB) | [ALMA](https://open.spotify.com/album/36CmpdQVKjpu7TKNnMtFjC) | 3:26 | 2021-05-11 | 2021-05-24 |
 | [Almost Happy](https://open.spotify.com/track/7z2HecEV45PlJdg7wfOOOQ) | [LACES](https://open.spotify.com/artist/6yMmGdc524t6LunXvGeffb), [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Almost Happy](https://open.spotify.com/album/0QY8w44G6ObGbFPDwx7Xpd) | 4:27 | 2021-10-13 | 2021-10-14 |
 | [alone](https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [little vice](https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl) | 3:05 | 2024-02-27 | 2024-05-04 |
@@ -884,7 +885,7 @@
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2020-10-16 | 2021-06-03 |
 | [Islands](https://open.spotify.com/track/3qcX9BuZQtCEVokWikQHim) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Islands](https://open.spotify.com/album/6XeqbY4P8cno9Q46cPbVUP) | 3:53 | 2020-10-13\* | 2021-05-24 |
 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 | 2022-12-09 | 2022-12-22 |
-| [It Is What It Is](https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [It Is What It Is](https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V) | 2:59 | 2024-04-19 | 2024-05-18 |
+| [It Is What It Is](https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [It Is What It Is](https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V) | 2:59 | 2024-04-19 |  |
 | [It Might Take a Woman](https://open.spotify.com/track/59FVrD6JZb0PsF1Ok9AoPb) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [It Might Take a Woman](https://open.spotify.com/album/7HZYjMfb9uZg2rcmbDPF1u) | 3:10 | 2020-10-13\* | 2021-06-03 |
 | [it's a landslide](https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [it's a landslide](https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER) | 2:39 | 2021-07-19 | 2022-01-15 |
 | [It's Been So Long](https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Been So Long](https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I) | 3:12 | 2022-12-07 | 2023-02-18 |
@@ -1396,7 +1397,7 @@
 | [Sad to Breathe](https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sad to Breathe](https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6) | 3:34 | 2023-04-21 | 2023-08-12 |
 | [Sad to Breathe](https://open.spotify.com/track/4lSCs7NXjDpMqWiGm4LD0Z) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:34 | 2023-04-21 | 2024-04-19 |
 | [Sad To See You Happy](https://open.spotify.com/track/6ffcV0j4CLdpOE5CLLVzWm) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Sad To See You Happy](https://open.spotify.com/album/0HxhtexTu3zoF0tqhQ0gnk) | 2:54 | 2021-05-03 | 2022-04-07 |
-| [Sadie](https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Lola](https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r) | 3:43 | 2024-01-26 |  |
+| [Sadie](https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Lola](https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r) | 3:43 | 2024-01-26 | 2024-05-19 |
 | [Safe Places](https://open.spotify.com/track/0877TMacBX9bM5cHZg6c3Q) | [Cassidy King](https://open.spotify.com/artist/04igiyo2E7vg7FxMxoTsIR) | [Safe Places](https://open.spotify.com/album/1bNGqBNK8ZqjmfRm843y1E) | 3:07 | 2020-10-13\* | 2020-11-20 |
 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 | 2022-12-09 | 2024-04-19 |
 | [Sagittarius Superstar \(feat\. Faye Webster\)](https://open.spotify.com/track/50NIEDq6xm6K4CDp8mpcTh) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/2bWRZWNWiTjrZkAH9rW6gB) | 2:53 | 2022-11-07 | 2022-12-01 |
@@ -1633,7 +1634,7 @@
 | [Talking to Myself](https://open.spotify.com/track/7t5uiTZNaSrQpTvs7fonmK) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Talking to Myself](https://open.spotify.com/album/6wkNeJH60FfISXiYHA6cpo) | 3:51 | 2020-10-20 | 2021-06-03 |
 | [Tangerine](https://open.spotify.com/track/4qzAGRJuc6vOZ7Jsf2wA5W) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Tangerine](https://open.spotify.com/album/0EU7Ds5lLkvyuxgC7jJFFJ) | 2:55 | 2020-10-20 | 2021-05-28 |
 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 | 2021-05-04 | 2021-05-26 |
-| [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-09 |  |
+| [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-09 | 2024-05-19 |
 | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP) | 3:49 | 2023-04-21 | 2023-06-24 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-18 | 2022-04-21 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-05-20 | 2022-11-26 |

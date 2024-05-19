@@ -2,13 +2,13 @@
 
 ### [This Is El Tri](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29tDB6)
 
-> This is El Tri\. The essential tracks, all in one playlist.
+> This is El Tri\. Todos os maiores hits em uma só playlist.
 
 72 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 | 2023-01-14 | 2024-05-18 |
+| [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 | 2023-01-14 |  |
 | [Bésame](https://open.spotify.com/track/1Ul3KRSxw5t5pffvUqnL5u) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [A talonear!!](https://open.spotify.com/album/0HRGrsD1AKAqShL4GtOnfp) | 4:03 | 2023-01-14 | 2023-10-11 |
 | [Caseta de cobro](https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 4:06 | 2023-10-10 | 2023-12-31 |
 | [Chavo De Onda](https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Chavo De Onda](https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT) | 3:29 | 2023-01-14 |  |
@@ -21,7 +21,7 @@
 | [Difícil](https://open.spotify.com/track/3xpjEMrSF5KdHneYqjgvWs) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [21 Años después Alex Lora y El Tri](https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu) | 2:46 | 2023-05-19 |  |
 | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/track/2GJP2ir2DePYIgdJPnKf5d) | [Té de Brujas](https://open.spotify.com/artist/39BvzssARgDTZ1Kf0uqNfj), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [El Blues del Diablo y la Enfermedad](https://open.spotify.com/album/0OVHD0GuWAKGIlDDp1qVNq) | 4:27 | 2024-02-19 |  |
 | [El hablador](https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 2:50 | 2023-01-14 |  |
-| [El maldito ritmo](https://open.spotify.com/track/47pJwRC50gCROwO6TnFV7m) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 3:05 | 2024-05-13 |  |
+| [El maldito ritmo](https://open.spotify.com/track/47pJwRC50gCROwO6TnFV7m) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Otra tocada más](https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z) | 3:05 | 2024-05-13 | 2024-05-19 |
 | [El muchacho chicho](https://open.spotify.com/track/2qGjcYq5GlLPdRlQC88q04) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 5:10 | 2023-01-14 |  |
 | [El niño sin amor](https://open.spotify.com/track/1Yu18BneXx007JcwcOh5Wa) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El niño sin amor \(Editado 7 Tracks\)](https://open.spotify.com/album/33UOKo7tuxsWlDUtTXswic) | 3:07 | 2023-01-14 |  |
 | [El rey](https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 4:23 | 2024-02-11 |  |

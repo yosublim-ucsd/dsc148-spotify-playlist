@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Sasha Alex Sloan
 
-511 songs - 1 day 5 hr 33 min
+513 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [if i were a friend](https://open.spotify.com/track/11gjN7Mh7DA6GzVJmhUvcn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [if i were a friend](https://open.spotify.com/album/6n5YzvSeJh7THkuLUAAnRE) | 2:32 | 2021-11-19 | 2022-05-20 |
 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 | 2022-07-15 | 2023-12-30 |
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2021-11-19 | 2022-03-12 |
-| [Imaan](https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/0DB3121n8MTCyE0LfhxIEX) | 3:34 | 2024-04-12 |  |
+| [Imaan](https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/0DB3121n8MTCyE0LfhxIEX) | 3:34 | 2024-04-12 | 2024-05-19 |
 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 | 2024-03-08 | 2024-04-12 |
 | [In Real Life](https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/58yGjTqTpGCIYqMYcdrzb9) | 3:52 | 2022-03-11 | 2022-07-29 |
 | [In the Light](https://open.spotify.com/track/3togwgpYsQLghLmNEJAALi) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [In the Light](https://open.spotify.com/album/52qD2robkEmyvk9aOLykTf) | 2:55 | 2022-03-25 | 2022-05-11 |
@@ -384,7 +384,7 @@
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-01-19 |  |
 | [Same Effect](https://open.spotify.com/track/4eQusHQO3bQ2ewZZougkhQ) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/5OfSLeae51B6fEflQ08R3g) | 2:42 | 2023-01-13 | 2023-02-04 |
 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 | 2022-03-11 | 2022-10-13 |
-| [Same Risk](https://open.spotify.com/track/6llgRqUx6z43bpqNUfjAJQ) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:28 | 2024-05-17 |  |
+| [Same Risk](https://open.spotify.com/track/6llgRqUx6z43bpqNUfjAJQ) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 3:28 | 2024-05-17 | 2024-05-19 |
 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 | 2021-11-19 | 2024-05-18 |
 | [Saul](https://open.spotify.com/track/6BSOURjQEYMeOILa3jH6aY) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [Saul](https://open.spotify.com/album/2DekRmPF2wvwgAHr9MS2e2) | 3:50 | 2021-11-19 | 2022-06-25 |
 | [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 | 2021-12-13 | 2023-07-01 |
@@ -393,6 +393,7 @@
 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 | 2021-11-19 | 2022-02-05 |
 | [Self Sabotage](https://open.spotify.com/track/1a9YC2FLdQSfqNU9ebIJIw) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Mantras](https://open.spotify.com/album/6gmHatBTdcFoIujxwHuZir) | 3:52 | 2024-05-17 |  |
 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2021-11-19 | 2022-02-22 |
+| [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 |  |
 | [Situation](https://open.spotify.com/track/3bpiz3jxPzSBZQ1qw5hLuf) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Situation](https://open.spotify.com/album/3q7nwxrkrt1qG6ttTtcY8a) | 3:30 | 2021-11-19 | 2022-05-20 |
 | [Skin](https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Skin](https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry) | 3:44 | 2024-01-26 |  |
 | [Skin Deep](https://open.spotify.com/track/0E2LmUQq8ud6OJz55gWgeI) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Skin Deep](https://open.spotify.com/album/2VRdIYT2tZ83PlMQbEPUdu) | 4:21 | 2021-11-19 | 2022-02-07 |
@@ -468,6 +469,7 @@
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-05-17 |  |
 | [Tractor](https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Tractor](https://open.spotify.com/album/1p0cwpoCTRfDYEvE5hoaRs) | 3:26 | 2021-11-26 | 2022-10-08 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-11-19 | 2022-02-21 |
+| [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 | 2024-05-17 |  |
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-08-12 | 2023-02-12 |
 | [two different parties \- acoustic](https://open.spotify.com/track/3C47Z2rokmHtZvt6zNHsOz) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [two different parties \(acoustic\)](https://open.spotify.com/album/76sNyWFclmUHKyAImS47JL) | 3:46 | 2022-07-15 | 2022-07-27 |
 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-06-23 | 2023-08-21 |

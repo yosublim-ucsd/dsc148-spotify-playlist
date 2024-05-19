@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,264 likes - 130 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,374 likes - 130 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 107 | [花蓮](https://open.spotify.com/track/6P1GY6LwSocFSOXxjbU33m) | [三狐神囃子 \(大橋彩香・佐咲紗花・鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/31cuTX9Vkgpxyi4B7BQHYY) | [牙狼<GARO>黄金歌集Ⅲ 牙狼響](https://open.spotify.com/album/0oY7KpdmpKmkN0micdzy78) | 4:26 |
 | 108 | [花紋](https://open.spotify.com/track/20YssuuSa8wXqutXk0Kxms) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1), [三狐神囃子 \(鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/6LYxX4EaaVoTb6sY9EobVw) | [花紋](https://open.spotify.com/album/4t6a6ILakR0UAfpHhG27ZT) | 4:24 |
 | 109 | [月華](https://open.spotify.com/track/62zL1t37STLcPl8W4oxIBw) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [月華](https://open.spotify.com/album/7lg1DgpTBfwIyzVxADXzeY) | 4:42 |
-| 110 | [紅蓮ノ月〜隠されし闇物語〜 \- JAM Project Ver\. \(Full Size.\)](https://open.spotify.com/track/4DotUtWNjhF0AuV96DrWll) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [紅蓮ノ月〜隠されし闇物語〜](https://open.spotify.com/album/2qJwreO0uy4IRbTPhBDtwU) | 4:20 |
+| 110 | [紅蓮ノ月～隠されし闇物語～ JAM Project Ver\. \(Full Size.\)](https://open.spotify.com/track/4DotUtWNjhF0AuV96DrWll) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [紅蓮ノ月～隠されし闇物語～](https://open.spotify.com/album/2qJwreO0uy4IRbTPhBDtwU) | 4:20 |
 | 111 | [決戦前夜](https://open.spotify.com/track/2MR9aMatvG861GgElAFkua) | [LUNKHEAD](https://open.spotify.com/artist/1haOQ3z2Qr7IyTDgrv6PiM) | [決戦前夜](https://open.spotify.com/album/6Bcvnvy88VUCIuh5l31uoI) | 3:45 |
 | 112 | [週替わりの奇跡の神話](https://open.spotify.com/track/34IeQAMI4bCEaIWDzja5Fq) | [Kinniku Shōjo Tai](https://open.spotify.com/artist/49Ih923DaLzIEGqAe0PirH) | [週替わりの奇跡の神話](https://open.spotify.com/album/5hMxajM9NARlytSr3XMSyg) | 3:43 |
 | 113 | [HERO](https://open.spotify.com/track/10rYKVajlQ1t2zFJ3HpR3D) | [Sonar Pocket](https://open.spotify.com/artist/4kuP7AbiovQdVXJkRHeq4w) | [HERO/Good bye 大切な人。](https://open.spotify.com/album/0t4BvgedMXBBELE75lLaaU) | 4:04 |

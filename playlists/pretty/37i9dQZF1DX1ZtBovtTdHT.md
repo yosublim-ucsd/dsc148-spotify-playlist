@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,816 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,855 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 21 | [Because The Night \(Radio Edit\)](https://open.spotify.com/track/46T7WAIHdt9v6xsqtWU6CH) | [Jan Wayne](https://open.spotify.com/artist/57QfQOhi7oyPiscoWfUSeC) | [Back Again!](https://open.spotify.com/album/5JQuXobnpxRkqE1jovr1N9) | 3:33 |
 | 22 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
 | 23 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/72lRA680a5ZWu0l14phseH) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:30 |
-| 24 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
-| 25 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
+| 24 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
+| 25 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 26 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
 | 27 | [The Heart of the Ocean \- Radio Mix](https://open.spotify.com/track/6cQT6DT7QMkQm9W5IIwlDC) | [Mythos 'N DJ Cosmo](https://open.spotify.com/artist/0i4Dxa9yaEorvpp6Ad5Zkw) | [The Heart of the Ocean](https://open.spotify.com/album/1JaM9Iym0AkNBl9yWON9Rb) | 3:01 |
 | 28 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |

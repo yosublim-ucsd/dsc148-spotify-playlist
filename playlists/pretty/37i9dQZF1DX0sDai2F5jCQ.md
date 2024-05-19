@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,692 likes - 78 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,716 likes - 78 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -15203,6 +15203,24 @@
     },
     {
       "album": {
+        "name": "Don't Understand Why",
+        "url": "https://open.spotify.com/album/5vq0A4GmKfJMKUGDhsDU4x"
+      },
+      "artists": [
+        {
+          "name": "TOUCAN",
+          "url": "https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196467,
+      "name": "Don't Understand Why",
+      "url": "https://open.spotify.com/track/038lrvLY3wWNxs4kQvgvgt"
+    },
+    {
+      "album": {
         "name": "Don't Walk Away",
         "url": "https://open.spotify.com/album/4Efsth889W0V4adLUrrDR7"
       },
@@ -36162,6 +36180,24 @@
     {
       "album": {
         "name": "Mine",
+        "url": "https://open.spotify.com/album/6yaK7mXMlN2bbhz9UjW5Zj"
+      },
+      "artists": [
+        {
+          "name": "Ch@to",
+          "url": "https://open.spotify.com/artist/6OJwgcps8fBpEgpA8OcGLI"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187394,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/5rf26vOVPkiwbqRSJ99zvs"
+    },
+    {
+      "album": {
+        "name": "Mine",
         "url": "https://open.spotify.com/album/2Y4NkvjZDlb0YqscCmdyvd"
       },
       "artists": [
@@ -41120,7 +41156,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 235500,
       "name": "only the beginning",
       "url": "https://open.spotify.com/track/2GoCmpyyMy9A794jxEWDs3"
@@ -48916,6 +48952,24 @@
       "duration_ms": 165533,
       "name": "Sincerely Signed",
       "url": "https://open.spotify.com/track/67CUhOOcF46KsToiw1Vfvm"
+    },
+    {
+      "album": {
+        "name": "singing for u",
+        "url": "https://open.spotify.com/album/7EP0LBWoiXW9edMY0Auq7M"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157540,
+      "name": "singing for u",
+      "url": "https://open.spotify.com/track/2ZpVTbsgzjXj3wt2Ygoo52"
     },
     {
       "album": {
@@ -60923,6 +60977,24 @@
     },
     {
       "album": {
+        "name": "When I Met You",
+        "url": "https://open.spotify.com/album/28skW00YxwACNgH2cuS7Q2"
+      },
+      "artists": [
+        {
+          "name": "Ato-Mik",
+          "url": "https://open.spotify.com/artist/0GHC5iFTiwth7Rf4ZAFSkG"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155384,
+      "name": "When I Met You",
+      "url": "https://open.spotify.com/track/09aBfMh7PpchZzDBr8IpqX"
+    },
+    {
+      "album": {
         "name": "when i think of you",
         "url": "https://open.spotify.com/album/4Wuy8yZITKjUg5nJS7xitX"
       },
@@ -61616,6 +61688,24 @@
       "duration_ms": 213797,
       "name": "Who's to Blame",
       "url": "https://open.spotify.com/track/4hDhSqhaoIKNveBMSdR3pa"
+    },
+    {
+      "album": {
+        "name": "WHO?",
+        "url": "https://open.spotify.com/album/6yGRsnYL5SHyJUxZJE1xYV"
+      },
+      "artists": [
+        {
+          "name": "Leona Berlin",
+          "url": "https://open.spotify.com/artist/0E8W46zqpbupCQg9MJwsTJ"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224063,
+      "name": "WHO?",
+      "url": "https://open.spotify.com/track/1XJqqDHjq1WEQ0cL9woHib"
     },
     {
       "album": {
@@ -63030,7 +63120,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-19",
       "duration_ms": 237692,
       "name": "You At Last",
       "url": "https://open.spotify.com/track/50vv6wg6hKwotk8t34p3g6"

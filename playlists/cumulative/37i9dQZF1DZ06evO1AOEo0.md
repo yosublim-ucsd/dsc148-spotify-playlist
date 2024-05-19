@@ -2,7 +2,7 @@
 
 ### [This Is Shane & Shane](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AOEo0)
 
-> This is Shane & Shane\. The essential tracks, all in one playlist.
+> This is Shane & Shane\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 66 songs - 5 hr 25 min
 

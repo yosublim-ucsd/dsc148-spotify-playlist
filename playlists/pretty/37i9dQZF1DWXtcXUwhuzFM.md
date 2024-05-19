@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Billie Eilish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,270 likes - 113 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,370 likes - 113 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 23 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 24 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 |
 | 25 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 |
-| 26 | [One](https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd) | 9:34 |
+| 26 | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [James Hetfield](https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16) | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd) | 9:34 |
 | 27 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
 | 28 | [Dancing With A Broken Heart](https://open.spotify.com/track/5quQBmhzZpJHwT58QBhwom) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Dancing With A Broken Heart](https://open.spotify.com/album/1D1EjySg6Dg95Pmo0w7y0S) | 3:22 |
 | 29 | [Shut Up And Dance](https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Shut Up And Dance](https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G) | 2:57 |

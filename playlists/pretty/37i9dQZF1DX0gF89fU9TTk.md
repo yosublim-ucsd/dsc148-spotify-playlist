@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,841 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,872 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 50 | [Kerosene](https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Kerosene](https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq) | 3:04 |
 | 51 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 |
 | 52 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
-| 53 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
-| 54 | [I’ve Got A Fire](https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [I've Got A Fire](https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI) | 3:38 |
+| 53 | [I’ve Got A Fire](https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [I've Got A Fire](https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI) | 3:38 |
+| 54 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 |
 | 55 | [We Shine](https://open.spotify.com/track/13OeoujtdpmyfhQLpq2lo1) | [Vineyard Kids](https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH), [Kat Regester](https://open.spotify.com/artist/0ereLNWXua5ueIeLKZbZdP), [David Plumb](https://open.spotify.com/artist/5oe9h1KvHeFlAOXE3opknk) | [Vineyard Kids: We Shine](https://open.spotify.com/album/0JTgsgpMUswqCUbnagqxNN) | 3:05 |
 | 56 | [Wind + Waves](https://open.spotify.com/track/2VhspIZudDKIFjevS5tcWk) | [GALLERY](https://open.spotify.com/artist/0eLzZeagdyYE52ny5kOMrA) | [Wind + Waves](https://open.spotify.com/album/3cbqGBcbTVqrRXiSgaNbAq) | 4:08 |
 | 57 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 64 | [Nothing But Good](https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Nothing But Good](https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08) | 3:45 |
 | 65 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
 | 66 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 |
-| 67 | [More](https://open.spotify.com/track/0qaN2WzhuKAARHaeNjLUW0) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 5:06 |
-| 68 | [Break Out \- Studio Single](https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8) | [Rolling Hills Worship](https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M), [Jennifer Akers](https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U) | [Break Out](https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV) | 3:55 |
+| 67 | [Break Out \- Studio Single](https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8) | [Rolling Hills Worship](https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M), [Jennifer Akers](https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U) | [Break Out](https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV) | 3:55 |
+| 68 | [More](https://open.spotify.com/track/0qaN2WzhuKAARHaeNjLUW0) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 5:06 |
 | 69 | [Nobody But You \- Live](https://open.spotify.com/track/0i337cf6Iqos7LXeuiUEop) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Heaven Life \(Live\)](https://open.spotify.com/album/5JRlSur175Jn3M9X6In0HF) | 3:16 |
 | 70 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
 | 71 | [State Of Mind \- Live](https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:41 |
 | 72 | [It's Your Love](https://open.spotify.com/track/5FiQ8fKxKN3ROICLV1aDKG) | [Marshall Marshall](https://open.spotify.com/artist/3f5eDe7KfH3eTCc94eJCad) | [Sunset Sunrise](https://open.spotify.com/album/0WolJ0CvYwNsn6wrk7VIke) | 2:52 |
-| 73 | [Surely Now](https://open.spotify.com/track/52K1h9IEMQniaGiM56pXNc) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Surely Now](https://open.spotify.com/album/13uEugblOLiVkplBEFgRe4) | 4:48 |
+| 73 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
 | 74 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 |
-| 75 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
+| 75 | [Surely Now](https://open.spotify.com/track/52K1h9IEMQniaGiM56pXNc) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Surely Now](https://open.spotify.com/album/13uEugblOLiVkplBEFgRe4) | 4:48 |
 
 Snapshot ID: `ZIxb3AAAAACspEJi2W0NyadoTNikDvxR`

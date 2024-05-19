@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: 86TVs
 
-579 songs - 1 day 8 hr 29 min
+581 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All Alone](https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou) | 2:56 | 2022-01-17 | 2022-08-19 |
 | [All Dressed Up For Nothing](https://open.spotify.com/track/2MHkWrU8EtiU6mANOCVO5t) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys \- EP](https://open.spotify.com/album/27cHXHny5VwZZndOEskS4s) | 3:46 | 2022-09-22 | 2022-11-20 |
 | [Alright](https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Alright](https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv) | 2:36 | 2022-08-18 | 2023-05-14 |
-| [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2022-08-18 |  |
+| [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2022-08-18 | 2024-05-19 |
 | [American Cockroach](https://open.spotify.com/track/1fhSSzhdcAuAOkl0S4saVk) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [American Cockroach](https://open.spotify.com/album/5ddhrGgCIVAFwaYBORbOdi) | 3:08 | 2021-06-21 | 2022-07-29 |
 | [American Cockroach](https://open.spotify.com/track/20lrGXYjB5SF92sm8Abq7J) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [American Cockroach](https://open.spotify.com/album/4gttzbvfMlUHIwWv6PboVB) | 3:08 | 2022-04-01 | 2022-08-19 |
 | [Angel](https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Angel](https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl) | 3:19 | 2023-09-15 | 2024-02-12 |
@@ -190,6 +190,7 @@
 | [Freedom](https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Freedom](https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb) | 4:08 | 2022-11-25 | 2023-08-05 |
 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 | 2024-02-16 | 2024-04-13 |
 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 | 2022-08-18 | 2022-10-07 |
+| [Garden](https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Garden](https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC) | 3:00 | 2024-05-16 |  |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-17 | 2022-02-04 |
 | [Gen\-X Cops](https://open.spotify.com/track/0UqpCnZlv5X2IJf9OOR5fh) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 3:47 | 2024-02-16 |  |
 | [Gen\-X Cops](https://open.spotify.com/track/7EBmnpMsikHSmwOoCnAKrd) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:47 | 2024-03-15 | 2024-04-19 |
@@ -296,7 +297,7 @@
 | [Knuckles](https://open.spotify.com/track/7k0dSGTAvbmKmpB6qRQKCn) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Knuckles](https://open.spotify.com/album/0K5aDBQbnRuZsXItf7qPEj) | 2:40 | 2022-09-08 | 2022-10-14 |
 | [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-10-13 | 2023-09-29 |
 | [Labrador](https://open.spotify.com/track/06LiHAhneCsoLvRPDHPrJR) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Labrador](https://open.spotify.com/album/19nKwENJSpAHPUmTjEn0pC) | 3:41 | 2021-03-09 | 2022-01-17 |
-| [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 | 2024-04-12 |  |
+| [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 | 2024-04-12 | 2024-05-19 |
 | [Lain \(phone clone\)](https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Lain \(phone clone\)](https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k) | 4:01 | 2023-01-13 | 2023-02-26 |
 | [last july](https://open.spotify.com/track/3vC1FzGYGsjUDEeZahvaRt) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [If I never know you like this again](https://open.spotify.com/album/7nMKqegypHLrmj9fN98Tyx) | 3:46 | 2022-08-18 | 2022-11-18 |
 | [Last Together](https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Last Together](https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F) | 3:18 | 2023-04-13 | 2023-06-06 |
@@ -587,5 +588,6 @@
 | [You Never Looked So Cool](https://open.spotify.com/track/1RX3QGA8CLfMj1Vr6CSluM) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Goober](https://open.spotify.com/album/0RIXLt3XKWtYwj1uKV0oIy) | 2:57 | 2021-07-30 | 2022-03-11 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-01-17 | 2022-07-29 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 | 2022-04-01 | 2022-09-02 |
+| [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 | 2024-05-16 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1761597,
+  "num_followers": 1761594,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "All in Good Time",
         "url": "https://open.spotify.com/album/6kVfufglPPPTLPWQkvHPaR"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 255338,
       "name": "All in Good Time",
       "url": "https://open.spotify.com/track/533aNRdHHLdI9tiTvqPqjt"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Daniel",
-        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Football",
-        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
-      },
-      "artists": [
-        {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Football",
-      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Football",
+        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 174539,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 219782,
       "name": "Slide Tackle",
       "url": "https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1103,42 +1103,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Right Back to It",
-        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "Right Back to It",
-      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -1159,6 +1123,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Right Back to It",
+        "url": "https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Imaan",
-        "url": "https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 214088,
-      "name": "Imaan",
-      "url": "https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Imaan",
+        "url": "https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "Imaan",
+      "url": "https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Eyez",
         "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 220533,
       "name": "Eyez",
       "url": "https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Excalibur / Toy",
-        "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "Excalibur",
-      "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Radio Silence",
         "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 222760,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Excalibur / Toy",
+        "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "Excalibur",
+      "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "I Believe in You",
-        "url": "https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G"
-      },
-      "artists": [
-        {
-          "name": "more*",
-          "url": "https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "I Believe in You",
-      "url": "https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
         "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 303626,
       "name": "Lockdown On Date Night Tuesday",
       "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "I Believe in You",
+        "url": "https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G"
+      },
+      "artists": [
+        {
+          "name": "more*",
+          "url": "https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i"
+        }
+      ],
+      "duration_ms": 249413,
+      "name": "I Believe in You",
+      "url": "https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85655,
+  "num_followers": 85666,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,22 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Apolog\u00eda de una Amigdala Inflamada",
-        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
+        "name": "Nada que hablar (feat. Aterciopelados)",
+        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
       },
       "artists": [
         {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        },
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
         }
       ],
-      "duration_ms": 152750,
-      "name": "Apolog\u00eda de una Amigdala Inflamada",
-      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
+      "duration_ms": 205180,
+      "name": "Nada que hablar (feat. Aterciopelados)",
+      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -207,22 +211,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Nada que hablar (feat. Aterciopelados)",
-        "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
+        "name": "Apolog\u00eda de una Amigdala Inflamada",
+        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
       },
       "artists": [
         {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        },
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
         }
       ],
-      "duration_ms": 205180,
-      "name": "Nada que hablar (feat. Aterciopelados)",
-      "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
+      "duration_ms": 152750,
+      "name": "Apolog\u00eda de una Amigdala Inflamada",
+      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Castillos de Arena",
-        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Punto Final",
-      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 179239,
-      "name": "Lejos De Aqui",
-      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Anaranjado, Pt. 1",
         "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 175724,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
-      },
-      "artists": [
-        {
-          "name": "Lucio Feuillet",
-          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
-        }
-      ],
-      "duration_ms": 299116,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "La Fuente",
         "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 327296,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Sed",
+        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
+      },
+      "artists": [
+        {
+          "name": "Lucio Feuillet",
+          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
+        }
+      ],
+      "duration_ms": 299116,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -875,22 +875,6 @@
       "duration_ms": 183539,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c"
-      },
-      "artists": [
-        {
-          "name": "Alfonso Espriella",
-          "url": "https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV"
-        }
-      ],
-      "duration_ms": 189702,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Metale Bravura",
-        "url": "https://open.spotify.com/album/02a3XyLmZyydCpe3a4r72h"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c"
       },
       "artists": [
         {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+          "name": "Alfonso Espriella",
+          "url": "https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Metale Bravura",
-      "url": "https://open.spotify.com/track/4ez1FnbpXeUgudedpAZYUB"
+      "duration_ms": 189702,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -963,6 +947,22 @@
       "duration_ms": 226945,
       "name": "This Is War",
       "url": "https://open.spotify.com/track/5piZGfIPJBGKuUzmfEPjvq"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Metale Bravura",
+        "url": "https://open.spotify.com/album/02a3XyLmZyydCpe3a4r72h"
+      },
+      "artists": [
+        {
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Metale Bravura",
+      "url": "https://open.spotify.com/track/4ez1FnbpXeUgudedpAZYUB"
     },
     {
       "added_at": "2023-10-07 00:35:47",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "Estallados",
         "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 270000,
       "name": "Estallados",
       "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 226451,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm"
     }
   ],
   "unique_name": "Rock Colombia",

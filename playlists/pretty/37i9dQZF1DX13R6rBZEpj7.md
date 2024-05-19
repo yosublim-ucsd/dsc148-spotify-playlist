@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,702 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,805 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 27 | [Y'all Ready For Dis](https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Y'all Ready For Dis](https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv) | 3:17 |
 | 28 | [Back](https://open.spotify.com/track/54qy9HFmqlgtngpatAAAPp) | [DubbleT](https://open.spotify.com/artist/0qFd9z9Shj28sgoLwKr0Af), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Back](https://open.spotify.com/album/4anFbEJ3IamNPrz66GJZpD) | 3:58 |
 | 29 | [Silly](https://open.spotify.com/track/1TbqxVUO2laIJoQ5fE6AZx) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl) | [Silly](https://open.spotify.com/album/0rxlHAZm41qpK7GgCirEy4) | 3:13 |
-| 30 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 |
-| 31 | [ORIGINAL STEPPA](https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [ORIGINAL STEPPA](https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc) | 2:06 |
+| 30 | [ORIGINAL STEPPA](https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [ORIGINAL STEPPA](https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc) | 2:06 |
+| 31 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 |
 | 32 | [Shutdown](https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Shutdown](https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT) | 3:43 |
 | 33 | [Badda \- Sinais VIP](https://open.spotify.com/track/2586qpfMle1fZxOkzffOjU) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Badda \(Sinais VIP\)](https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz) | 2:34 |
 | 34 | [Party Right](https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Party Right / Snake Charmer](https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx) | 3:36 |
-| 35 | [STUCK ON U](https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [BABE?](https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi) | 3:30 |
-| 36 | [Surgery](https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Surgery](https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr) | 2:09 |
+| 35 | [Surgery](https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Surgery](https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr) | 2:09 |
+| 36 | [STUCK ON U](https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [BABE?](https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi) | 3:30 |
 | 37 | [Bite Your Lip pt\. 2](https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Bite Your Lip pt\. 2](https://open.spotify.com/album/4TMaXttEPyK93NHPPoLzcL) | 3:05 |
 | 38 | [The Streets](https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Stop Dawdling / The Streets](https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX) | 4:25 |
 | 39 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
