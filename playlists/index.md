@@ -1,4 +1,4 @@
-## Playlists \(7772\)
+## Playlists \(7773\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3702,6 +3702,7 @@
 - [NARUTO \-ナルト\-シリーズ](/playlists/pretty/37i9dQZF1DXbjpNmyCn1gC.md)
 - [NCS Releases](/playlists/pretty/7sZbq8QGyMnhKPcLJvCUFD.md)
 - [NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’](/playlists/pretty/37i9dQZF1DWYDzQuH58z2X.md)
+- [NEW EDM 2024 ⚡ EDM HITS 2024 ⚡ MUSICA ELECTRONICA 2024](/playlists/pretty/3yGp845Tz2duWCORALQHFO.md)
 - [NEW SINGLES RELEASES \| UPDATED 19 MAY](/playlists/pretty/4atvqBvo5B5Fb5PjXMsuTV.md)
 - [NEÓN](/playlists/pretty/37i9dQZF1DX2vWnOprRIq7.md)
 - [NFL Draft 2021](/playlists/pretty/37i9dQZF1DXbmafsRvwS7L.md)
