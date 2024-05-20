@@ -4,7 +4,7 @@
 
 > Trending songs from Tollywood! <br/>Cover: Tillu Square
 
-161 songs - 10 hr 21 min
+162 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Endhuko Pichi Pichi](https://open.spotify.com/track/693359DlfpvoEfIYleKs05) | [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2) | [Chirutha](https://open.spotify.com/album/5KEPglkfQDPC5xMCqrrKpa) | 4:31 | 2023-08-30 |  |
 | [Evare Nuvvu](https://open.spotify.com/track/7m64tTau2Rh6hzVDA1oV6K) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Rajubhai](https://open.spotify.com/album/7IeNvR1LQ1Z8sWM8KaAB2O) | 4:10 | 2023-08-30 | 2023-09-26 |
 | [Evarevaro](https://open.spotify.com/track/0ljjmkJocnhXzP62JYNW8p) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 4:10 | 2024-01-02 |  |
+| [Fear Song \(From "Devara Part 1"\) \[Telugu\]](https://open.spotify.com/track/6b2WJDzGt5X8dYfpkWtvXW) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Fear Song \(From "Devara Part 1"\) \[Telugu\]](https://open.spotify.com/album/1OO05SXoc1JTyvGbxi75Pm) | 3:15 | 2024-05-19 |  |
 | [Gaali Vaaluga](https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 4:18 | 2023-08-30 |  |
 | [Ganagana Mogalira \(From "Mangalavaaram"\)](https://open.spotify.com/track/51KOcPgZXSV9prNhN6MBRU) | [V.M\. Mahalingam](https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Ganagana Mogalira \(From "Mangalavaaram"\)](https://open.spotify.com/album/0knqqzJEBzdR7LnSVILmj6) | 3:54 | 2023-11-21 | 2023-12-12 |
 | [Gandarabai \(From "Skanda"\)](https://open.spotify.com/track/0SQIFK6K3ZBZQnn3ocFQAe) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Soujanya Bhagavatula](https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt), [Ananth Sriram](https://open.spotify.com/artist/1ptg1bA9WLbmSqByeIwnuz) | [Gandarabai \(From "Skanda"\)](https://open.spotify.com/album/2bCgApnMK8TBJpSbhCdgfQ) | 3:51 | 2023-09-05 | 2023-11-07 |
@@ -167,7 +168,7 @@
 | [Vellake](https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vellake](https://open.spotify.com/album/5wJ35PHDoH8sL0C74s4fQL) | 3:37 | 2023-08-30 |  |
 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 | 2021-09-24 | 2023-08-31 |
 | [Wi Wi Wi Wi Wifi](https://open.spotify.com/track/4UmwA3J8jkGaTgVG6GP6LZ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Christopher Stanley](https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [S3 Yamudu 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aB0DvgVAQ1w5QijK04ceY) | 4:50 | 2021-09-24 | 2022-05-08 |
-| [Yaalo Yaalaa](https://open.spotify.com/track/5BUtT8DGziwD6l9tA7FjJu) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 3:02 | 2023-12-11 |  |
+| [Yaalo Yaalaa](https://open.spotify.com/track/5BUtT8DGziwD6l9tA7FjJu) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 3:02 | 2023-12-11 | 2024-05-20 |
 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 | 2021-09-24 | 2023-08-31 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

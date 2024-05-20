@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music from Black artists every Friday\. Happy Asian & Pacific Islander Heritage Month! Cover: <a href="spotify:artist:1OFOShsIbhy1l5x73yuVyB">Shenseea</a>
+> New music from Black artists every Friday\. Happy Asian American and Pacific Islander Heritage Month! Cover: <a href="spotify:artist:1OFOShsIbhy1l5x73yuVyB">Shenseea</a>
 
 3,232 songs - 6 day 18 hr 21 min
 

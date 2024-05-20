@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ghost. Los temas esenciales, todos en una lista.",
-  "num_followers": 402300,
+  "description": "This is Ghost. The essential tracks, all in one playlist.",
+  "num_followers": 402395,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaeAAAAAABLn9Z6S73ss6M6U9xFhMB3",
+  "snapshot_id": "ZkfvgAAAAADHF9aMAll7pHkYPBXGq3H4",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 350186,
       "name": "Year Zero",
       "url": "https://open.spotify.com/track/1MdC1WDXrEzrpQwxb5mEXC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
       "added_at": null,
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 313693,
-      "name": "Nocturnal Me",
-      "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
+      "duration_ms": 56306,
+      "name": "Sp\u00f6ksonat",
+      "url": "https://open.spotify.com/track/45E7Yc6VNL0Qoo216EoD0R"
     },
     {
       "added_at": null,
@@ -808,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 56306,
-      "name": "Sp\u00f6ksonat",
-      "url": "https://open.spotify.com/track/45E7Yc6VNL0Qoo216EoD0R"
+      "duration_ms": 313693,
+      "name": "Nocturnal Me",
+      "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
     }
   ],
   "unique_name": "This Is Ghost",

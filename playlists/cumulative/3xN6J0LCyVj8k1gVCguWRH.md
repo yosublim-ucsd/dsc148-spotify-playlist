@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,347 songs - 7 day 21 hr 46 min
+3,348 songs - 7 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1800,6 +1800,7 @@
 | [Luna y Sol](https://open.spotify.com/track/6MeGmrpBiGqSPbo4V4qes5) | [Canelibeat](https://open.spotify.com/artist/2YX2o7BVuDwJeBX6829MiD) | [Un Instante](https://open.spotify.com/album/2Eka0ngExgD3V9cvnsGnqQ) | 4:28 | 2022-04-15 | 2022-04-30 |
 | [Lush Life](https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:40 | 2021-07-11 | 2024-04-21 |
 | [Luv U Luv U Back](https://open.spotify.com/track/54y2U5I8ow66QvPVokAWhj) | [Trashy Annie](https://open.spotify.com/artist/1NE5iw2eDd0kgUlO23m1GV) | [Luv U Luv U Back](https://open.spotify.com/album/0fxrTskYVPzDv0kNCkOxKv) | 3:38 | 2022-09-23 | 2022-10-09 |
+| [Luxury](https://open.spotify.com/track/3QNtHXt8AW9tyseIuoHTlb) | [Jeff Fein](https://open.spotify.com/artist/3uVoMuOCBhrtX2zVN1XayK) | [Luxury](https://open.spotify.com/album/6X3Wi7Vq6JPFQe2Ye8B30r) | 4:10 | 2024-05-20 |  |
 | [Lychee](https://open.spotify.com/track/3ZlskCxtcYiXoontSQuQWw) | [Frankie Fame](https://open.spotify.com/artist/1n6mGzCvv5VzvZWFVAnnKl) | [Lychee](https://open.spotify.com/album/2LziAojWN3rhFFIywoM6dd) | 2:49 | 2023-08-18 | 2023-09-01 |
 | [Lying in LA](https://open.spotify.com/track/17Nv4GnG2JZJJK0aOXbW2w) | [Britta](https://open.spotify.com/artist/3t9YsSNIpCBQ6jrdaa8zA2) | [Lying in LA](https://open.spotify.com/album/1yeqhDrt1cYPozPCDad8IE) | 3:04 | 2023-03-10 | 2023-04-03 |
 | [M.A.A.d World](https://open.spotify.com/track/1fSSSSN8aBZFdzo5eAW7sa) | [MckDarko](https://open.spotify.com/artist/3kGzTtCkOYz01yx278EAwf) | [DRK BLK](https://open.spotify.com/album/6ePkGP1fYM7cFmHxHEuJR1) | 2:51 | 2023-03-26 | 2023-04-15 |
@@ -2124,7 +2125,7 @@
 | [Ojay](https://open.spotify.com/track/6l7T5UuzKpu4gh097Fbrod) | [Ari Morgan](https://open.spotify.com/artist/1EeyV1OJruocrWkphr12mX) | [Ojay](https://open.spotify.com/album/3OvXXEWQsoszMOPKVgdZUi) | 3:19 | 2023-06-25 | 2023-07-15 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-07-26 | 2024-04-30 |
 | [Ojos](https://open.spotify.com/track/1GlislujDk7CZm9gG970hR) | [Nia Padilla](https://open.spotify.com/artist/072YYOyNb2t1yNqrnrCJYy) | [Ojos](https://open.spotify.com/album/0ensfJNSOFjtXpep6z01tZ) | 3:19 | 2024-04-25 | 2024-05-12 |
-| [Ojos Marrones \- Cover](https://open.spotify.com/track/3rs2Drz2d3s328jwFGhZUW) | [Valeria Ferro](https://open.spotify.com/artist/06lo8GULrKlMZbRIHa0n83) | [Ojos Marrones \(Cover\)](https://open.spotify.com/album/7ymbeUggzWsyFzb0zWSSY0) | 3:22 | 2024-02-02 | 2024-02-15 |
+| [Ojos Marrones \- Cover](https://open.spotify.com/track/3rs2Drz2d3s328jwFGhZUW) | [Valeria Ferro](https://open.spotify.com/artist/06lo8GULrKlMZbRIHa0n83) | [Ojos Marrones \(Cover\)](https://open.spotify.com/album/7ymbeUggzWsyFzb0zWSSY0) | 3:22 | 2024-02-02 |  |
 | [Old John Blues](https://open.spotify.com/track/7zqfrCaUqVmHBcTbS8X7Tl) | [Marty Thompson](https://open.spotify.com/artist/3e2PdcbAflyA9g25SVcQiS) | [Unwind](https://open.spotify.com/album/2vquozInAKYvk5GLVkPFHs) | 6:57 | 2022-11-11 | 2022-12-03 |
 | [Old School Heart](https://open.spotify.com/track/5z2vuWBeJHd2VrocKhPqkg) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [The Watcher \- EP](https://open.spotify.com/album/64ZY4OiQIIWKdpgg5Q3dZa) | 4:49 | 2019-12-01 | 2019-12-11 |
 | [Old Town Road \- Remix](https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:37 | 2019-09-29\* | 2021-11-19 |

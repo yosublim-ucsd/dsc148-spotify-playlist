@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest tracks you want to hear, all in one playlist! Cover: Billie Eilish
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 79,618 likes - 86 songs - 4 hr 29 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 79,617 likes - 86 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

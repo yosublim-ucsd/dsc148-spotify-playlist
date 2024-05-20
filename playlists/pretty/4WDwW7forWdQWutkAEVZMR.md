@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Koe Wetzel, Miley Cyrus, and more! Cover: Koe Wetzel
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,023 likes - 38 songs - 1 hr 57 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,022 likes - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

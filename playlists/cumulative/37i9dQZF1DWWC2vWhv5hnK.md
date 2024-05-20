@@ -4,7 +4,7 @@
 
 > Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
 
-48 songs - 4 hr 34 min
+49 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [相模原討伐作戦](https://open.spotify.com/track/4tYVr7p6d7rpPzjsYFJpDg) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Ensemble FOVE](https://open.spotify.com/artist/6q6FKLC39VIDZXz2vX2ZOZ) | [相模原討伐作戦 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/0Yq0iuzrVkBqRNJufDpQVT) | 2:25 | 2024-05-18 |  |
 | [花火 \- ピアノとオーケストラのための協奏曲 Scene 5: Burst \- pt.2](https://open.spotify.com/track/7iPevK87fzR000vOZSiSr3) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [永野英樹](https://open.spotify.com/artist/1ch0mHyJqS0LlvGEKiZQ2m), [New Japan Philharmonic Orchestra](https://open.spotify.com/artist/0GlOFpRepnabV9byKzixRx), [杉山洋一](https://open.spotify.com/artist/1BT7qDWv85CB8qDosNfQ7x) | [花火](https://open.spotify.com/album/5FnR1xhyGn3ejYluhdyi1f) | 5:37 | 2024-04-13 | 2024-04-29 |
 | [防衛隊のテーマ](https://open.spotify.com/track/4QjfqDZZBsMGXFVeesU5TK) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [怪獣8号のテーマ 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16) | 0:43 | 2024-04-13 |  |
-| [＃５ MCカフカ役福西さん×キコル役ファイルーズさん×プロデューサー武井さん　「端的に言うと公の場で褒めてほしい！」](https://open.spotify.com/episode/0sQNoPWwzmOxYSziV6Ditm) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 34:37 | 2024-05-13 |  |
+| [＃6 MCカフカ役福西さん×伊春役新祐樹さん「これです。そうでございます。」「なるほど、エモーショナルです」](https://open.spotify.com/episode/2lPqzJ6BMQIEIiD8bwcjCt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 36:30 | 2024-05-20 |  |
+| [＃５ MCカフカ役福西さん×キコル役ファイルーズさん×プロデューサー武井さん　「端的に言うと公の場で褒めてほしい！」](https://open.spotify.com/episode/0sQNoPWwzmOxYSziV6Ditm) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 34:37 | 2024-05-13 | 2024-05-20 |
 
 \*This playlist was first scraped on 2024-03-15. Prior content cannot be recovered.

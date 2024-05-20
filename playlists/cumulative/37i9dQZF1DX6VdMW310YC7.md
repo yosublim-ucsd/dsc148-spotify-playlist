@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,620 songs - 4 day 15 hr 26 min
+1,621 songs - 4 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,7 +666,7 @@
 | [I Can't See](https://open.spotify.com/track/59kl6e4q6sCJlxCgLZdJGo) | [ROW](https://open.spotify.com/artist/6t6YsIZkxd0VC7mXKD9Ziw), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [I Can't See](https://open.spotify.com/album/53yZEK6S3jkxLmOkhkFAeA) | 2:15 | 2020-12-04 | 2023-09-09 |
 | [I Care \- Intro](https://open.spotify.com/track/5NMa4Z4rtWqyt6VN7h2bpo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 0:33 | 2020-05-18 | 2020-07-03 |
 | [I Do](https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [I Do](https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1) | 2:25 | 2023-04-28 |  |
-| [I Don't Mind](https://open.spotify.com/track/4oUj06hhZqGOjdDEOFZGC0) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [I Don't Mind](https://open.spotify.com/album/30uNseNC2aGePZTVoXGYQP) | 4:58 | 2024-04-19 |  |
+| [I Don't Mind](https://open.spotify.com/track/4oUj06hhZqGOjdDEOFZGC0) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [I Don't Mind](https://open.spotify.com/album/30uNseNC2aGePZTVoXGYQP) | 4:58 | 2024-04-19 | 2024-05-20 |
 | [I feel alive](https://open.spotify.com/track/7qn6DBMuuU3W6MH7IqT4k5) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [In Retrospect](https://open.spotify.com/album/33mhWPOgig7dfb0P5yFDjU) | 2:15 | 2020-03-16 | 2021-01-11 |
 | [I Found You \- Prospa Remix](https://open.spotify.com/track/2LenfxaYtwKW8LwYXu8sqw) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [I Found You \(Prospa Remix\)](https://open.spotify.com/album/0jDkEfxSXzCUK9noxG2wCL) | 4:01 | 2023-09-08 | 2023-09-22 |
 | [I Get You](https://open.spotify.com/track/6ClgdWhFNpAGAMFAjAbor1) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Get You](https://open.spotify.com/album/6C4LwRgUfaPVnbYgDHfsEC) | 3:57 | 2020-03-17 | 2020-10-09 |
@@ -820,6 +820,7 @@
 | [Liberation](https://open.spotify.com/track/134QG8C1qpCiFSY9B8mG2P) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Liberation](https://open.spotify.com/album/2B8lEl4nUDscMCFAJl5fq6) | 3:38 | 2020-05-22 | 2020-07-03 |
 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2024-01-19 |  |
 | [Life on Hold](https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Life on Hold](https://open.spotify.com/album/030x3uRQYYEtkFwpIj60ci) | 3:27 | 2021-09-03 | 2023-09-09 |
+| [LIFELINE](https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo) | 3:26 | 2024-05-10 |  |
 | [Lifted](https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Lifted](https://open.spotify.com/album/57HPihU8Vbc36hgYSqlFUh) | 3:15 | 2024-04-05 | 2024-04-11 |
 | [Light A Fire](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Light A Fire](https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl) | 2:34 | 2022-05-20 | 2022-12-29 |
 | [Light Of Day](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-07-15 | 2023-09-09 |

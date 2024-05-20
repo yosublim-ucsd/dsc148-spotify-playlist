@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 7932,
+  "num_followers": 7938,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaeAAAAAACXqSfKbnm+1TYPtmDSWQ/x",
+  "snapshot_id": "ZkfvgAAAAAAeoqTeG11iAVXFj6hFGjzQ",
   "tracks": [
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Make Room",
-      "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
+      "duration_ms": 263000,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
     },
     {
       "added_at": null,
@@ -616,25 +616,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEFT",
-        "url": "https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 101539,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/5nzkV1JORVZoWpRudZ3BAr"
+      "duration_ms": 206773,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
     },
     {
       "added_at": null,
@@ -664,9 +648,25 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 163649,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/0Wh7bvzAM3RA4iXXPG3R5S"
+      "duration_ms": 101539,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/5nzkV1JORVZoWpRudZ3BAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEFT",
+        "url": "https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 202655,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2hBa4M3vAYpmw0rVsScVVz"
     }
   ],
   "unique_name": "This Is Helmet",

@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: GOOD4NOTHING
 
-771 songs - 1 day 17 hr 9 min
+772 songs - 1 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Midnight Grow](https://open.spotify.com/track/4mhOSuIUlsmxjlfNwHTzRe) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Midnight Grow](https://open.spotify.com/album/6eeEuEu6WkeVpfR5jwMVZs) | 2:43 | 2024-01-30 | 2024-04-19 |
 | [Mind Games](https://open.spotify.com/track/6uY9CPRGav62zsZWgtAt5W) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Mind Games](https://open.spotify.com/album/3ht93iIInLepm5SvDChKX1) | 2:43 | 2022-05-12 | 2022-07-29 |
 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 | 2022-05-19 |  |
-| [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 | 2022-05-17 |  |
+| [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 | 2022-05-17 | 2024-05-20 |
 | [Miss The Limited\-Time Sale \- 2024 Ver.](https://open.spotify.com/track/4U6LXHiaOU6NqkwKIQQrHn) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 3:56 | 2024-03-07 | 2024-04-19 |
 | [Mist](https://open.spotify.com/track/0nBfNckN4Teg2ywZnLgAJX) | [S\-TALK](https://open.spotify.com/artist/4VnK7dpC4nOkUnHeBKh0ZH) | [SHOOOSE](https://open.spotify.com/album/6VZFsfNjfc1vJ3UhlDtkLo) | 3:12 | 2022-05-31 | 2022-07-19 |
 | [MMN](https://open.spotify.com/track/5YlljMMpNqa0fFjWbtriSw) | [BIZEN](https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz), [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt) | [MMN](https://open.spotify.com/album/44mxUgwetKmtJoyB4IUZyA) | 2:12 | 2023-06-01 | 2023-06-21 |
@@ -510,6 +510,7 @@
 | [Timesale Nogashitekure](https://open.spotify.com/track/3v3TVrhtFDa69MNBC6ZufV) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Attention!!](https://open.spotify.com/album/0N0p8xk7Qi0VV0x0UgKtxZ) | 3:57 | 2024-01-10 | 2024-03-08 |
 | [to be continued](https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [to be continued](https://open.spotify.com/album/2426KIh3FQjMSZfNeXktvA) | 4:04 | 2023-10-24 |  |
 | [TOKOSHIENI](https://open.spotify.com/track/2rn0JaKCLzRymIeV6H4Nmf) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [TOKOSHIENI](https://open.spotify.com/album/6EDHO33gg2AdhTBmTyScd3) | 4:06 | 2023-08-08 | 2023-10-18 |
+| [TOKYO ASH](https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [TENDOUJI](https://open.spotify.com/album/0vfzJ1M6LLhqzx6MLmvnjY) | 2:42 | 2024-05-14 |  |
 | [Tomorrow](https://open.spotify.com/track/5iKomi6VipIbpiwOZtoBsh) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:36 | 2023-10-17 | 2024-02-28 |
 | [Tomorrow Song](https://open.spotify.com/track/3HmhhB2nqkukgJkSfdIXBw) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [Tomorrow Song](https://open.spotify.com/album/46twmDeKT3UP4A4pE9z80y) | 3:08 | 2022-05-24 | 2022-07-29 |
 | [Tonight](https://open.spotify.com/track/0dnIaNDy2cRcJSbKdANRik) | [COUNTRY YARD](https://open.spotify.com/artist/7zAPELMruolERj0vMJGp76) | [The Roots Evolved](https://open.spotify.com/album/1tNSCVXD75Va3P3U0t733a) | 2:52 | 2022-05-17 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,049 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,057 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/track/2UD1csihq8aPrpM69C2XrW) | [Katja Krasavice](https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [HIGHWAY \(feat\. ELIF\)](https://open.spotify.com/album/7KvmaGO2mmsSHnPLZLUQUw) | 2:44 |
 | 21 | [hello sunshine](https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [hello sunshine](https://open.spotify.com/album/0RqvyJLJdIgR3OsSCPO8NJ) | 3:10 |
 | 22 | [blei](https://open.spotify.com/track/0lkhukcLEhY3j9Nlo4NhqL) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [blei](https://open.spotify.com/album/4IVG5q7oP8gdz1dQOPaRNx) | 3:35 |
-| 23 | [GOLDEN DAYS](https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [GOLDEN DAYS](https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB) | 3:13 |
-| 24 | [Fühl](https://open.spotify.com/track/479s4TFZOPLHaxU48yLQS3) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Hush Hush / Hamburg](https://open.spotify.com/album/3K1F9IVCnkC5PvEqTldm2t) | 3:41 |
+| 23 | [Fühl](https://open.spotify.com/track/479s4TFZOPLHaxU48yLQS3) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Hush Hush / Hamburg](https://open.spotify.com/album/3K1F9IVCnkC5PvEqTldm2t) | 3:41 |
+| 24 | [GOLDEN DAYS](https://open.spotify.com/track/4ILpHcE56e3JDNpNp0MpRN) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [GOLDEN DAYS](https://open.spotify.com/album/2ki5n6obbcJSlGr7DpZkWB) | 3:13 |
 | 25 | [without youuuuuu](https://open.spotify.com/track/17roRXWz1PpKHSAfa9loSM) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [without youuuuuu](https://open.spotify.com/album/0azPkhbOmfVecSTCAzWC0w) | 1:55 |
 | 26 | [Ohne Mich](https://open.spotify.com/track/0UZsZ6BPr4bvY1menn8cTI) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Ohne Mich](https://open.spotify.com/album/4G5OX3QAgtpFZxrVX12z5B) | 2:15 |
 | 27 | [Kreislauf](https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kreislauf](https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07) | 3:27 |
 | 28 | [schwimmen](https://open.spotify.com/track/31RHwrytSvMUs7OHsyLKof) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [schwimmen](https://open.spotify.com/album/6HsjhilXJoDkVLBRpmo1hy) | 2:07 |
 | 29 | [Erste große Freiheit](https://open.spotify.com/track/6V61cAkuLWBbCgUfInCafm) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Erste große Freiheit](https://open.spotify.com/album/7jXxuBaJyejbo3mawvLTex) | 2:21 |
 | 30 | [ich hoff du brichst mir das herz](https://open.spotify.com/track/6DhirTqLVokUliDHoeifV1) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/2xC2CRqglvHLuK0voIWseb) | 2:40 |
-| 31 | [Trippy Energy](https://open.spotify.com/track/7oxqDCr1lc2vy0RajpZZY1) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Trippy Energy](https://open.spotify.com/album/4x2l98hIcFBXfgEp6o6FWQ) | 2:01 |
-| 32 | [Two Bodies In A Bed](https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Two Bodies In A Bed](https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L) | 3:41 |
+| 31 | [Two Bodies In A Bed](https://open.spotify.com/track/2hPJCYwsZ8Os6Om0loYkmE) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Two Bodies In A Bed](https://open.spotify.com/album/6OhMuYVcOhx9CBdBUaxx1L) | 3:41 |
+| 32 | [Trippy Energy](https://open.spotify.com/track/7oxqDCr1lc2vy0RajpZZY1) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Trippy Energy](https://open.spotify.com/album/4x2l98hIcFBXfgEp6o6FWQ) | 2:01 |
 | 33 | [taugenichts](https://open.spotify.com/track/4w1VkpHjXBMn1UgGODGy7q) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [kratzer & wunden tape](https://open.spotify.com/album/3G9cr0cUDGFmxMFcWwkdIF) | 2:36 |
 | 34 | [Nicht Ich](https://open.spotify.com/track/6yYsu5AdhasHKhjP4u7V7n) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nicht Ich](https://open.spotify.com/album/7watQnItLt86vUTFSf7259) | 3:41 |
 | 35 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 |
 | 38 | [DiEBiN](https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [DiEBiN](https://open.spotify.com/album/72XnjLNVoTHGtGoJBU1dB8) | 2:36 |
 | 39 | [MOMENT](https://open.spotify.com/track/343aNgdgt5aAPa2cfaZt4C) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [MOMENT](https://open.spotify.com/album/4Ufp8bp3X5MZpqmrZ7YSkP) | 4:08 |
-| 40 | [boy with a view](https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boy with a view](https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN) | 3:07 |
-| 41 | [Neuröschen](https://open.spotify.com/track/2SMLU8tjyEWHPWzML0radC) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Neuröschen](https://open.spotify.com/album/1OZ88NMxxpwQs8PZIfeqZb) | 3:35 |
+| 40 | [Neuröschen](https://open.spotify.com/track/2SMLU8tjyEWHPWzML0radC) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Neuröschen](https://open.spotify.com/album/1OZ88NMxxpwQs8PZIfeqZb) | 3:35 |
+| 41 | [boy with a view](https://open.spotify.com/track/0bZzFF42ekiHt6RiEtg7bN) | [PENNY X](https://open.spotify.com/artist/1mZDFbH4t9JsKKvbBXf4fi) | [boy with a view](https://open.spotify.com/album/2180izgqQiuEGUHEKTZXFN) | 3:07 |
 | 42 | [Poetry](https://open.spotify.com/track/5fgS2U9sQPGyATAf2f9tHg) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Poetry \(for the scorned and lonely\)](https://open.spotify.com/album/3vPT3TO7w9bo1b8ohw4ODL) | 2:47 |
 | 43 | [wallflower seat](https://open.spotify.com/track/0lKbAgyN01m8bSyLOF6MzX) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [wallflower seat](https://open.spotify.com/album/3fV9Xejgo5j5fLENobtaxW) | 2:53 |
 | 44 | [Parisienne](https://open.spotify.com/track/6cbcJF0GK7nDxivAE49Ghj) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK) | [Parisienne](https://open.spotify.com/album/07TPulmVVkFEEAQNyL0i0G) | 2:58 |

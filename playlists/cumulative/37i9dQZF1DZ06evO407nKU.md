@@ -2,7 +2,7 @@
 
 ### [This Is Perdidos De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO407nKU)
 
-> This is: Perdidos De Sinaloa\. Alle wichtigen Tracks in einer Playlist.
+> This Is Perdidos De Sinaloa\. Los temas esenciales, todos en una lista.
 
 111 songs - 6 hr 19 min
 

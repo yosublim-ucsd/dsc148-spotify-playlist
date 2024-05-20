@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "This is Yoss Bones. Tutti i brani in un'unica playlist.",
+  "description": "This Is Yoss Bones. Los temas esenciales, todos en una lista.",
   "name": "This Is Yoss Bones",
   "tracks": [
     {
@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 193846,
       "name": "Chip S (Metal Version)",
       "url": "https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 209887,
       "name": "Contra Corriente",
       "url": "https://open.spotify.com/track/7JkHyShBf6RQviZ4q0C6qq"

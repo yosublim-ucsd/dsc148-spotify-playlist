@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
+      },
+      "artists": [
+        {
+          "name": "biblemami",
+          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
+    },
+    {
+      "album": {
         "name": "Last of the American Girls",
         "url": "https://open.spotify.com/album/3tTmTykIIa5erRQRcH5E61"
       },
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 219826,
       "name": "Be Near Me",
       "url": "https://open.spotify.com/track/1l3fRzoUngJr6hSMIT1Hfq"
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 244124,
       "name": "CALMA",
       "url": "https://open.spotify.com/track/6GHN1yz4xoCLnlPuG80lFh"
@@ -3046,7 +3064,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 58905,
       "name": "Courage The Cowardly Dog",
       "url": "https://open.spotify.com/track/0qtynlyuOKJI6SQ5Pe9IFo"
@@ -3161,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "Blizzard of Ozz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296200,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
+    },
+    {
+      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -3172,7 +3208,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 297453,
       "name": "Crimson Day",
       "url": "https://open.spotify.com/track/28JSZ4KyzDXnnC2XnJX1db"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 146225,
       "name": "crush",
       "url": "https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi"
@@ -5984,7 +6020,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 129132,
       "name": "Good Golly, Miss Molly",
       "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
@@ -6056,7 +6092,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 218697,
       "name": "Grandes Pasos",
       "url": "https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre"
@@ -6849,6 +6885,24 @@
     },
     {
       "album": {
+        "name": "Three Days Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
+    },
+    {
+      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -7604,6 +7658,24 @@
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
+    },
+    {
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT"
     },
     {
       "album": {
@@ -8638,7 +8710,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 284901,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/2ipjxno6sXhDjXUWl1iRmE"
@@ -9153,6 +9225,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Men At Work",
+        "url": "https://open.spotify.com/album/6rp1J7P9VhTZWb1CXfSucI"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234653,
+      "name": "Man with Two Hearts",
+      "url": "https://open.spotify.com/track/1nAHeNRcYlFqVicmrsfBlN"
+    },
+    {
+      "album": {
         "name": "marble arch",
         "url": "https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a"
       },
@@ -9204,6 +9294,24 @@
       "duration_ms": 249426,
       "name": "Maria",
       "url": "https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d"
+    },
+    {
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134533,
+      "name": "Marihuana",
+      "url": "https://open.spotify.com/track/3Yg1b0yhGhzlY5m0mw4FB6"
     },
     {
       "album": {
@@ -9788,7 +9896,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 104000,
       "name": "My Dogs",
       "url": "https://open.spotify.com/track/0kB7iVkFzXpksZcHN1KPoc"
@@ -10621,6 +10729,24 @@
     },
     {
       "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
+    },
+    {
+      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -10780,6 +10906,24 @@
       "duration_ms": 245066,
       "name": "One Vision - Remastered 2011",
       "url": "https://open.spotify.com/track/3eRwrwFOamx1TxrMkXlHFb"
+    },
+    {
+      "album": {
+        "name": "Out of Ashes",
+        "url": "https://open.spotify.com/album/3YEYucSn7AEwWx6N1v4ayW"
+      },
+      "artists": [
+        {
+          "name": "Katra",
+          "url": "https://open.spotify.com/artist/6cOUrOgpVQFlmvVJ4wVb1v"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249586,
+      "name": "One Wish Away",
+      "url": "https://open.spotify.com/track/26xSUP0HljUIRW2UIRR7yz"
     },
     {
       "album": {
@@ -11412,6 +11556,24 @@
       "duration_ms": 269533,
       "name": "Planet Caravan",
       "url": "https://open.spotify.com/track/2Hnxw7pp2qRDDBwHYnHhu5"
+    },
+    {
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356306,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/4BqYQ1WQ0GFE1xmIaduKLi"
     },
     {
       "album": {
@@ -12310,7 +12472,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 388466,
       "name": "Run for a Fall - Orchestral Version",
       "url": "https://open.spotify.com/track/75fB8YzJxfgEMN0D2aWk5X"
@@ -12566,7 +12728,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 354760,
       "name": "Seed",
       "url": "https://open.spotify.com/track/5hEP0OCjrNcz81hfLeuSNV"
@@ -13968,7 +14130,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 178687,
       "name": "Sun Sets",
       "url": "https://open.spotify.com/track/6aPhXa3KCjTgjp4SSkpHdm"
@@ -15108,6 +15270,24 @@
       "duration_ms": 325171,
       "name": "The Negative One",
       "url": "https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3"
+    },
+    {
+      "album": {
+        "name": "Disarm the Descent (Special Edition)",
+        "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "The New Awakening",
+      "url": "https://open.spotify.com/track/75ekIYzgzJNza1BX2xDUGI"
     },
     {
       "album": {
@@ -16765,6 +16945,24 @@
     },
     {
       "album": {
+        "name": "Warriors of the World",
+        "url": "https://open.spotify.com/album/4ncHBqf9da4Y3qosIxnrnJ"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351217,
+      "name": "Warriors of the World United",
+      "url": "https://open.spotify.com/track/02zclmxRto3GAUBdtV7D8i"
+    },
+    {
+      "album": {
         "name": "A Colour For Autumn",
         "url": "https://open.spotify.com/album/3m8WKUe7KimObwrr8VLsMn"
       },
@@ -17446,7 +17644,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 42747,
       "name": "Yoshi's Island",
       "url": "https://open.spotify.com/track/6ihkzzUSEP52s29NLdIXYv"

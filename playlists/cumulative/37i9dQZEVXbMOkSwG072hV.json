@@ -13709,6 +13709,28 @@
     },
     {
       "album": {
+        "name": "Ei Moto Taxi",
+        "url": "https://open.spotify.com/album/4AOm9ZMUyLrLpHpdT6ti8o"
+      },
+      "artists": [
+        {
+          "name": "DJ Helinho",
+          "url": "https://open.spotify.com/artist/65JO5VBS6mLrqybYlIy5s4"
+        },
+        {
+          "name": "Mc Monik do pix",
+          "url": "https://open.spotify.com/artist/6DpNrfbj0tD4MQlCPipDaf"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151510,
+      "name": "Ei Moto Taxi",
+      "url": "https://open.spotify.com/track/04XZsmTKhKMKNbRXA4oUKX"
+    },
+    {
+      "album": {
         "name": "Eis-me Aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
       },
@@ -26590,7 +26612,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
@@ -29974,7 +29996,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 159278,
       "name": "n me pergunta oq eu n\u00e3o sei",
       "url": "https://open.spotify.com/track/4FGQV3ydL4S7K5Bn94sS6f"
@@ -45396,6 +45418,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "album": {
+        "name": "A Resenha Que Deu Certo",
+        "url": "https://open.spotify.com/album/3Zt91G9UACtPJDsgekJoUh"
+      },
+      "artists": [
+        {
+          "name": "Chupando Halles",
+          "url": "https://open.spotify.com/artist/0AZuVrycUN3ZPRBIY4Wca0"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241737,
+      "name": "Torre Eiffel",
+      "url": "https://open.spotify.com/track/70rOSos9OF2rsDLFr5VU8y"
     },
     {
       "album": {

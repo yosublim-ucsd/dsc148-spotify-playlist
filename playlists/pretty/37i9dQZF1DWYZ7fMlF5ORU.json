@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 157533,
+  "num_followers": 157577,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Luz Do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Os Anjos Te Louvam - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Sonhos de Deus",
         "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
       },
@@ -127,6 +143,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        }
+      ],
+      "duration_ms": 333746,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Avante",
         "url": "https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG"
       },
@@ -139,54 +171,6 @@
       "duration_ms": 203661,
       "name": "Avante",
       "url": "https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Deus Cuida de Mim",
-        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 203081,
-      "name": "Jeova \u00e9 o Teu Cavaleiro",
-      "url": "https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Luz Do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Os Anjos Te Louvam - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
-      },
-      "artists": [
-        {
-          "name": "Juninho Black",
-          "url": "https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -207,18 +191,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
       },
       "artists": [
         {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
         }
       ],
-      "duration_ms": 333746,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
+      "duration_ms": 203081,
+      "name": "Jeova \u00e9 o Teu Cavaleiro",
+      "url": "https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -235,6 +219,22 @@
       "duration_ms": 301426,
       "name": "O Amor de Deus",
       "url": "https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 258390,
+      "name": "Dele, Com Ele - Ao Vivo",
+      "url": "https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -259,6 +259,38 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Eu Sou De Jesus",
+      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
+      },
+      "artists": [
+        {
+          "name": "Juninho Black",
+          "url": "https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Ema\u00fas",
         "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
       },
@@ -275,22 +307,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 258390,
-      "name": "Dele, Com Ele - Ao Vivo",
-      "url": "https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Luz - Parte 1",
         "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 221193,
       "name": "Zanzando",
       "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
-      },
-      "artists": [
-        {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Eu Sou De Jesus",
-      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Luz Do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 280133,
-      "name": "Crente Que Ora - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
         "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
       },
@@ -559,6 +543,42 @@
       "duration_ms": 252680,
       "name": "Pela F\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Frequ\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma"
+      },
+      "artists": [
+        {
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
+        },
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 255050,
+      "name": "Frequ\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Luz Do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Crente Que Ora - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -595,26 +615,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Frequ\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma"
-      },
-      "artists": [
-        {
-          "name": "Felipe Vilela",
-          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
-        },
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 255050,
-      "name": "Frequ\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Aleluia",
         "url": "https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 171320,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "A Noiva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 343626,
+      "name": "A Noiva - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -651,22 +667,6 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "A Noiva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 343626,
-      "name": "A Noiva - Ao Vivo",
-      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Eis-me Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        },
-        {
-          "name": "Cleber Ao Cubo",
-          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
-        }
-      ],
-      "duration_ms": 331110,
-      "name": "Eis-me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 222466,
       "name": "Alegria do C\u00e9u (feat. Banda Salluz)",
       "url": "https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        },
+        {
+          "name": "Cleber Ao Cubo",
+          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
+        }
+      ],
+      "duration_ms": 331110,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Multiforme",
-        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Ele Continua Sendo Deus",
         "url": "https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13"
       },
@@ -955,6 +939,38 @@
       "duration_ms": 225946,
       "name": "Oh Gl\u00f3ria, Aleluia",
       "url": "https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Multiforme",
+        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Eu Grito",
+        "url": "https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1"
+      },
+      "artists": [
+        {
+          "name": "Discopraise",
+          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
+        }
+      ],
+      "duration_ms": 273500,
+      "name": "Eu Grito",
+      "url": "https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Eu Grito",
-        "url": "https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1"
-      },
-      "artists": [
-        {
-          "name": "Discopraise",
-          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
-        }
-      ],
-      "duration_ms": 273500,
-      "name": "Eu Grito",
-      "url": "https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Vamos Celebrar",
         "url": "https://open.spotify.com/album/6ca7FcSsyiYN9No32sCykn"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Em Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "A Voz do Senhor",
-      "url": "https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Ele Continua Sendo Deus",
         "url": "https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 174098,
       "name": "V\u00ea Se Vigia",
       "url": "https://open.spotify.com/track/5NFTXXhjDzWhoX0jg3Azdd"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Em Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "A Voz do Senhor",
+      "url": "https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ"
     },
     {
       "added_at": "2023-12-22 03:00:00",

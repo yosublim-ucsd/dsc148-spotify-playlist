@@ -10406,7 +10406,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 167386,
       "name": "Love or Die",
       "url": "https://open.spotify.com/track/0UvOdAvaTOZAaUHkYN592J"
@@ -13324,6 +13324,28 @@
       "duration_ms": 201680,
       "name": "Play",
       "url": "https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu"
+    },
+    {
+      "album": {
+        "name": "Play With Me",
+        "url": "https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd"
+      },
+      "artists": [
+        {
+          "name": "Pagaehun",
+          "url": "https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7"
+        },
+        {
+          "name": "KKANBYEONGZ",
+          "url": "https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169999,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif"
     },
     {
       "album": {

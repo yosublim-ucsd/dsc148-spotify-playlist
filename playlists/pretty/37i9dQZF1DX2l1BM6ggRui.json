@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6500,
+  "num_followers": 6496,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 195042,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Room Vol.1",
         "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 221760,
       "name": "Reference",
       "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 195042,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
-      },
-      "artists": [
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/68A5OaBH9feTRySwoFpGSX"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "The Melody",
         "url": "https://open.spotify.com/album/749XA133WWzUmG03OCSqFn"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 191213,
       "name": "The Melody",
       "url": "https://open.spotify.com/track/5FqgslYHEkv51KtapyWsBZ"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/68A5OaBH9feTRySwoFpGSX"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -775,38 +775,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Farmers (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
-      },
-      "artists": [
-        {
-          "name": "Lee Aram",
-          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Strawberry Smoothie",
-      "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
-        "name": "Visible World",
-        "url": "https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX"
-      },
-      "artists": [
-        {
-          "name": "Fishingirls",
-          "url": "https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI"
-        }
-      ],
-      "duration_ms": 192274,
-      "name": "Tutorial",
-      "url": "https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -823,6 +791,22 @@
       "duration_ms": 171967,
       "name": "SKIP (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Farmers (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "duration_ms": 157386,
+      "name": "Strawberry Smoothie",
+      "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+        "name": "Visible World",
+        "url": "https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Fishingirls",
+          "url": "https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI"
         }
       ],
-      "duration_ms": 150000,
-      "name": "icanttellUeverything",
-      "url": "https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm"
+      "duration_ms": 192274,
+      "name": "Tutorial",
+      "url": "https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -875,6 +859,38 @@
       "duration_ms": 214906,
       "name": "You and I in this hard day",
       "url": "https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Shining Love Song",
+        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Shining Love Song",
+      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "icanttellUeverything",
+      "url": "https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -907,22 +923,6 @@
       "duration_ms": 182031,
       "name": "CAPTAIN",
       "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
-        "name": "Shining Love Song",
-        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
-      },
-      "artists": [
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Shining Love Song",
-      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -991,38 +991,42 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Happy me from today",
-        "url": "https://open.spotify.com/album/2wkTfa0Rofkwf3CN1TJvFP"
+        "name": "Cat's Nap zzZ",
+        "url": "https://open.spotify.com/album/701D0tYv2uuOmTCVSKIkMD"
       },
       "artists": [
         {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
         },
         {
-          "name": "Lee Sang Soon",
-          "url": "https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ"
+          "name": "Utopi",
+          "url": "https://open.spotify.com/artist/3yK1E102HvCIcKPvcvtSul"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Happy me from today (Feat. Lee Sangsoon)",
-      "url": "https://open.spotify.com/track/5dYHwnVY9Knvz7M3iuu8cL"
+      "duration_ms": 191375,
+      "name": "Cat's Nap zzZ (feat. Utopi)",
+      "url": "https://open.spotify.com/track/1lfmSCkroWDyBXJsdcRW3H"
     },
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Street Man Fighter Original Vol.2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5ZxaSeVDBBvSKDLXbCSLYU"
+        "name": "Is this love?",
+        "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
       },
       "artists": [
         {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        },
+        {
+          "name": "YOUN TOVEN",
+          "url": "https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr"
         }
       ],
-      "duration_ms": 183635,
-      "name": "Gulliver",
-      "url": "https://open.spotify.com/track/7HB3OUMUrZDdS0XnQ9h8Wr"
+      "duration_ms": 183296,
+      "name": "Is this love? (with YOUN TOVEN)",
+      "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 255466,
       "name": "Four Years",
       "url": "https://open.spotify.com/track/1deMF6m52RB0UQnlx8k3uU"
@@ -1046,6 +1046,24 @@
       "duration_ms": 191133,
       "name": "Liar (It Takes One To Know One)",
       "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc"
+    },
+    {
+      "album": {
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5yOQu7Ykcb7rlH6zt5jvL8"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Liar (It Takes One To Know One)",
+      "url": "https://open.spotify.com/track/6dzykD5EsopHarVtIrTE1J"
     },
     {
       "album": {

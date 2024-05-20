@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Mitchy",
-  "num_followers": 217789,
+  "num_followers": 217880,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkTNFwAAAAABEaj3SUMt0CyhpRK8Rh03",
+  "snapshot_id": "Zko1IgAAAAAvhtTUATrw4ygCL2GYyxVP",
   "tracks": [
     {
       "added_at": "2024-05-15 14:56:23",
@@ -151,6 +151,22 @@
       "duration_ms": 203491,
       "name": "falling over you",
       "url": "https://open.spotify.com/track/6MNvLsYULJDHCMaouEau1V"
+    },
+    {
+      "added_at": "2024-05-19 17:21:37",
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc"
     },
     {
       "added_at": "2024-05-15 14:56:23",

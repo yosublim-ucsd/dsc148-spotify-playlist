@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Oliver Huntemann, Marc Romboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,527 likes - 90 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,664 likes - 90 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

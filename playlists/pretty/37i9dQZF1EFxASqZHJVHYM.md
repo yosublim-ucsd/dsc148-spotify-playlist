@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 79 | [Handle My Business](https://open.spotify.com/track/3JjjOjwcvUKjt7AnJxBjUV) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:37 |
 | 80 | [Top Off](https://open.spotify.com/track/2jWVQdbJ2bCNlBRBATYQl7) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [Ugly God](https://open.spotify.com/artist/3Fdm9TFJQCLmC3AWMuGExi) | [Top Off](https://open.spotify.com/album/6LtcX6WFzp6mrRzL7bBZRL) | 2:08 |
 | 81 | [Miseducation \(feat\. Lil Wayne\)](https://open.spotify.com/track/26jblnixKDcidyOQV2UYi4) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Miseducation \(feat\. Lil Wayne\)](https://open.spotify.com/album/7LkyxPOg9v13qCJMAyaW7o) | 3:07 |
-| 82 | [The Uber Song](https://open.spotify.com/track/5aUmQKLTmVHwPMoyhgrd8p) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [The Uber Song](https://open.spotify.com/album/0ZGvbOurEuFF3nqbGwoaa9) | 3:54 |
-| 83 | [Contagious](https://open.spotify.com/track/2A3rpB8ZDbBG7ecVUDIcsE) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:30 |
+| 82 | [Contagious](https://open.spotify.com/track/2A3rpB8ZDbBG7ecVUDIcsE) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:30 |
+| 83 | [The Uber Song](https://open.spotify.com/track/5aUmQKLTmVHwPMoyhgrd8p) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [The Uber Song](https://open.spotify.com/album/0ZGvbOurEuFF3nqbGwoaa9) | 3:54 |
 | 84 | [GET THE FUCK OUT](https://open.spotify.com/track/3DCe9Tj1KsZ1K9iQh8uNQF) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 1:49 |
 | 85 | [BIG DAWG](https://open.spotify.com/track/28wtiGfwWVdxbZDW52S3kz) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 1:45 |
 | 86 | [Big Dope](https://open.spotify.com/track/2MdMP2y5mCkGVnp3DkbJ8b) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:35 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 109 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 110 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AbRsggAAAADjNUMBTEElhJ30JkQPOT3w`
+Snapshot ID: `AbRx4gAAAAAne3r6S6H48dZBQFwbstlu`

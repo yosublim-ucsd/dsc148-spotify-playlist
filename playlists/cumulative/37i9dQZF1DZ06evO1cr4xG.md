@@ -2,7 +2,7 @@
 
 ### [This Is Trivium](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cr4xG)
 
-> This Is Trivium\. Los temas esenciales, todos en una lista.
+> This is Trivium\. The essential tracks, all in one playlist.
 
 88 songs - 7 hr 1 min
 

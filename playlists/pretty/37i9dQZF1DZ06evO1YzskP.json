@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 23784,
+  "num_followers": 23824,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaeAAAAAAC6AuTdLNsqLDrfL0yybKJs",
+  "snapshot_id": "ZkfvgAAAAACKpidCoRC4ejLYZ1wPiMht",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isidro El Chapo",
-        "url": "https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz"
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 168720,
-      "name": "Isidro El Chapo",
-      "url": "https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd"
+      "duration_ms": 128759,
+      "name": "Arturon Beltran",
+      "url": "https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+        "name": "Isidro El Chapo",
+        "url": "https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 128759,
-      "name": "Arturon Beltran",
-      "url": "https://open.spotify.com/track/2C7h3MeFi2lQpYyPJYLnxQ"
+      "duration_ms": 168720,
+      "name": "Isidro El Chapo",
+      "url": "https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalo Araujo (Pistolero De Arturo Beltr\u00e1n)",
-        "url": "https://open.spotify.com/album/5WMWsNeKATwiYcN6u1XCz3"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "La Expansion",
-          "url": "https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN"
-        }
-      ],
-      "duration_ms": 135653,
-      "name": "Chalo Araujo (Pistolero De Arturo Beltr\u00e1n)",
-      "url": "https://open.spotify.com/track/2Jw4p4WIIxl8BwLyZ78HJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mauricio MG",
         "url": "https://open.spotify.com/album/7IlEh5bGSPO3OM68Tjcxbw"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 155746,
       "name": "Mauricio MG",
       "url": "https://open.spotify.com/track/7pLa01jnr3LYNq6b3jDi1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chalo Araujo (Pistolero De Arturo Beltr\u00e1n)",
+        "url": "https://open.spotify.com/album/5WMWsNeKATwiYcN6u1XCz3"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "La Expansion",
+          "url": "https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Chalo Araujo (Pistolero De Arturo Beltr\u00e1n)",
+      "url": "https://open.spotify.com/track/2Jw4p4WIIxl8BwLyZ78HJ3"
     },
     {
       "added_at": null,
@@ -851,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finta De Fresitas",
-        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
+        "name": "Bien Firme el Sombrero",
+        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
       },
       "artists": [
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Finta De Fresitas",
-      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
+      "duration_ms": 140341,
+      "name": "Bien Firme el Sombrero",
+      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
     },
     {
       "added_at": null,
@@ -883,22 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Firme el Sombrero",
-        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
+        "name": "Finta De Fresitas",
+        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
       },
       "artists": [
-        {
-          "name": "Fraccion EME",
-          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
-        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 140341,
-      "name": "Bien Firme el Sombrero",
-      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
+      "duration_ms": 175866,
+      "name": "Finta De Fresitas",
+      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
     },
     {
       "added_at": null,

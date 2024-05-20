@@ -1,12 +1,12 @@
 {
-  "description": "This Is League of Legends. Los temas esenciales, todos en una lista.",
-  "num_followers": 387476,
+  "description": "This is League of Legends. The essential tracks, all in one playlist.",
+  "num_followers": 387486,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaeAAAAAACgFfpm7GTqOU/ussz/LqED",
+  "snapshot_id": "ZkfvgAAAAABHXCPuHisKWvqQint7RLJ2",
   "tracks": [
     {
       "added_at": null,
@@ -1111,26 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes of Light",
-        "url": "https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "TELLE",
-          "url": "https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2"
-        }
-      ],
-      "duration_ms": 205529,
-      "name": "I'll Find a Way",
-      "url": "https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 150906,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes of Light",
+        "url": "https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "TELLE",
+          "url": "https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2"
+        }
+      ],
+      "duration_ms": 205529,
+      "name": "I'll Find a Way",
+      "url": "https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq"
     },
     {
       "added_at": null,
@@ -1207,8 +1207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seraphine, the Starry-Eyed Songstress",
-        "url": "https://open.spotify.com/album/4C4R2RGv446YfoWhIz3i8O"
+        "name": "The Music of League of Legends: Season 2 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5tbKnlrYfWLOS2oDNVRG1I"
       },
       "artists": [
         {
@@ -1216,17 +1216,13 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         },
         {
-          "name": "Seraphine",
-          "url": "https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv"
-        },
-        {
-          "name": "Jasmine Clarke",
-          "url": "https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc"
+          "name": "Nicki Taylor",
+          "url": "https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG"
         }
       ],
-      "duration_ms": 277674,
-      "name": "Seraphine, the Starry-Eyed Songstress",
-      "url": "https://open.spotify.com/track/29kJz9cOUnTVOKwQWbQCsh"
+      "duration_ms": 161348,
+      "name": "Vi, the Piltover Enforcer (Here Comes Vi) (From League of Legends: Season 2)",
+      "url": "https://open.spotify.com/track/7slAKPvgzuKgaTTQgrxWUd"
     }
   ],
   "unique_name": "This Is League of Legends",

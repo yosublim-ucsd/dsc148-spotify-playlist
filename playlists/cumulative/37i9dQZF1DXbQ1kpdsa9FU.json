@@ -342,7 +342,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 233216,
       "name": "Blessing I Can\u2019t See",
       "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
@@ -2653,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "We Cry Out: The Worship Project",
+        "url": "https://open.spotify.com/album/2WgiNIVBxWssJZbmdM53do"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483560,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/1xBIgVOzLS8zbi4vcFSqMK"
+    },
+    {
+      "album": {
         "name": "Love Come To Life",
         "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
@@ -3450,7 +3468,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 235760,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI"
@@ -3946,7 +3964,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 265386,
       "name": "Your Grace Is Enough",
       "url": "https://open.spotify.com/track/1sfSQ2d6rTsCSQ2cbBIj8r"

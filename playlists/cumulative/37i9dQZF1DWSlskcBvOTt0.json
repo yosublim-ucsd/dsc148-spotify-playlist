@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 253848,
       "name": "Amagugu",
       "url": "https://open.spotify.com/track/62kYBWjOtWdz0yrXVWRC72"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 228792,
       "name": "ASA",
       "url": "https://open.spotify.com/track/5CBTFqctj3Pcepk96hM0vF"
@@ -1790,6 +1790,24 @@
       "duration_ms": 313748,
       "name": "Blinding Lights - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo"
+    },
+    {
+      "album": {
+        "name": "Blomst",
+        "url": "https://open.spotify.com/album/1DUXiOusufER3z7lGvtcnP"
+      },
+      "artists": [
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553648,
+      "name": "Blomst",
+      "url": "https://open.spotify.com/track/5Iss7JRvqDjMzQqZhYKujr"
     },
     {
       "album": {
@@ -7473,6 +7491,24 @@
     },
     {
       "album": {
+        "name": "Magic Circus",
+        "url": "https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229180,
+      "name": "Magic Circus",
+      "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
+    },
+    {
+      "album": {
         "name": "Magical Signs / Humans",
         "url": "https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf"
       },
@@ -10995,6 +11031,24 @@
     },
     {
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223774,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
+    },
+    {
+      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/0px6PqdNTCVfh9iYBBtKY0"
       },
@@ -11200,7 +11254,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 466229,
       "name": "So Flute - Simon Vuarambon Remix",
       "url": "https://open.spotify.com/track/0GhZtMF0Oub3yXyDRR5ib8"

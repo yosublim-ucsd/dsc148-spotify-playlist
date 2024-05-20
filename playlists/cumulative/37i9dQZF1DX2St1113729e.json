@@ -4522,7 +4522,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 121666,
       "name": "Que m\u00e1s da",
       "url": "https://open.spotify.com/track/5iwtTGyfu9QzlXiFvCwvnw"
@@ -4566,6 +4566,24 @@
       "duration_ms": 133643,
       "name": "quiero estar muerto pero no me quiero matar",
       "url": "https://open.spotify.com/track/0ZRe0ADfPMjmX6lIXle2Q7"
+    },
+    {
+      "album": {
+        "name": "Quiz\u00e1 No Es para Mi",
+        "url": "https://open.spotify.com/album/5RXQ2ykCmUsQnSQJWvMhjy"
+      },
+      "artists": [
+        {
+          "name": "Marcos Naide",
+          "url": "https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211624,
+      "name": "Quiz\u00e1 No Es para Mi",
+      "url": "https://open.spotify.com/track/3XL5SMq4AV3m6EDf4OqaKC"
     },
     {
       "album": {

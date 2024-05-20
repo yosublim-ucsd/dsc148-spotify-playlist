@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 6165,
+  "num_followers": 6166,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaeAAAAAAD5XXB3mu4NY6TDevtTRVDF",
+  "snapshot_id": "ZkfvgAAAAAAIuCWWlTNu+V5TCUTt0dSk",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hungry Ghost (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Home Haircut",
-      "url": "https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ"
+      "duration_ms": 209946,
+      "name": "Canada",
+      "url": "https://open.spotify.com/track/7eqpBCYDhTfqDCluyE6Ssd"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is A-OK",
-        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+        "name": "Hungry Ghost (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 209946,
-      "name": "Canada",
-      "url": "https://open.spotify.com/track/7eqpBCYDhTfqDCluyE6Ssd"
+      "duration_ms": 223240,
+      "name": "Home Haircut",
+      "url": "https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
       "duration_ms": 180133,
       "name": "Son Of Sam",
       "url": "https://open.spotify.com/track/3JJm5nPQDNItljLtyIrtGv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 268519,
+      "name": "Vacation Forever",
+      "url": "https://open.spotify.com/track/0PlcJd4OgydtKD775w0y6J"
     },
     {
       "added_at": null,
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is A-OK",
-        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 268519,
-      "name": "Vacation Forever",
-      "url": "https://open.spotify.com/track/0PlcJd4OgydtKD775w0y6J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Violent Soho",
         "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho (Australia Version)",
-        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Paper Plane",
-      "url": "https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything Is A-OK",
         "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 163233,
       "name": "A-OK",
       "url": "https://open.spotify.com/track/7fRmDecaHguRLdKIlccebL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Paper Plane",
+      "url": "https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7"
     },
     {
       "added_at": null,

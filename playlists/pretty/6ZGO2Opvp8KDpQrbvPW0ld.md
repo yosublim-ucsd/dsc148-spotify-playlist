@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,334 likes - 300 songs - 10 hr 44 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,325 likes - 300 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 63 | [aisle 9](https://open.spotify.com/track/1EPVuTMHUAdb38kel8Z190) | [bloozy.](https://open.spotify.com/artist/6ioB62bEA6FijU9h8afl5y) | [aisle.](https://open.spotify.com/album/7x1aZ149nwYDt57vVlA82C) | 1:46 |
 | 64 | [Café y Vinyl](https://open.spotify.com/track/62Z8JyG9JjdOxNfcIi2za2) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Café y Vinyl](https://open.spotify.com/album/1mzEI8FZSpmmxPXjMWsQ5v) | 2:01 |
 | 65 | [Coctelao](https://open.spotify.com/track/1anF5EfZEtwpDa8fyUf2ZF) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Coctelao](https://open.spotify.com/album/2plWTNPl0xyGxwGGEZYwiw) | 2:16 |
-| 66 | [Boi Tatá](https://open.spotify.com/track/26mtzfWrlIOrAuufiqlPyG) | [Beagle Bonnie](https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3), [DJ Noé](https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3) | [Boi Tatá](https://open.spotify.com/album/1lRSw9n9K3APJ4F4Q9iIPo) | 2:04 |
+| 66 | [Boitatá](https://open.spotify.com/track/26mtzfWrlIOrAuufiqlPyG) | [Beagle Bonnie](https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3), [DJ Noé](https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3) | [Boitatá](https://open.spotify.com/album/1lRSw9n9K3APJ4F4Q9iIPo) | 2:04 |
 | 67 | [crescent](https://open.spotify.com/track/6b0GvHKFeKYX1W7aYCDkUl) | [veryolddog](https://open.spotify.com/artist/5LopculXVSHwOYUcpk3oWl) | [crescent](https://open.spotify.com/album/7HHq1ofVTM1npjOki67WaX) | 1:13 |
 | 68 | [Midnight Gospel](https://open.spotify.com/track/4rKUMDKsPMy20lU4RnaAsV) | [ᴄᴀᴍᴏᴍɪʟʟᴀ](https://open.spotify.com/artist/5HmJsQ6KlfdCz5mJxDOnwj) | [Midnight Gospel](https://open.spotify.com/album/4UrXzPS8rrNqQziV5yD3mU) | 2:44 |
 | 69 | [Bluejay](https://open.spotify.com/track/5ObKNkQmtswXCAw3vB08w1) | [Yung Dark](https://open.spotify.com/artist/0FEEkPEuD7LFWz6peeJlIY) | [Bluejay](https://open.spotify.com/album/5QDGveNokVFy0PH8hydadX) | 2:40 |

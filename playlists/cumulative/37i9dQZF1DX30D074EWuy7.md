@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-490 songs - 1 day 13 hr 7 min
+491 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Heal Me](https://open.spotify.com/track/6J46cgJj4I4aZfONRYJ2Mo) | [Daniela Spalletta](https://open.spotify.com/artist/4pZ9y1HQbossFq7FqwASQn), [Alberto Fidone](https://open.spotify.com/artist/7B1gfbTUqk04jeGIwIdCgO), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Urban Fabula](https://open.spotify.com/artist/4HDUHYRnGlKkLt2nFsPPV0), [Jani Moder](https://open.spotify.com/artist/3zlOpvNe9PQlQZAQzqj68l) | [Per Aspera Ad Astra](https://open.spotify.com/album/4DcdvUUDUhDBrgCkTYKHEV) | 1:43 | 2023-01-30 | 2023-06-05 |
 | [Ho Capito Che Ti Amo](https://open.spotify.com/track/2Yh4T6SjI1M7cAq7pFMIr9) | [Tiziana Ghiglioni](https://open.spotify.com/artist/5dGQIc5HNIp7NUZLFbXEye) | [Canta Tenco](https://open.spotify.com/album/18XNWv5F5FcvnCp08CEF8g) | 3:55 | 2022-08-31 | 2022-10-01 |
 | [How Do We Know We're Alive](https://open.spotify.com/track/1XTwr6ilGmc7M7xL0CwLiY) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/3bcqxLm9uLNsLfxDjES13Z) | 3:50 | 2024-03-28 | 2024-04-19 |
-| [How Do We Know We're Alive](https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM) | 3:51 | 2024-04-26 |  |
+| [How Do We Know We're Alive](https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM) | 3:51 | 2024-04-26 | 2024-05-20 |
 | [How Do We Know We're Alive](https://open.spotify.com/track/1zFMvBk0MCRSUU2gxNFlZz) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 3:51 | 2022-11-02 | 2022-12-06 |
 | [How Do We Know We're Alive](https://open.spotify.com/track/2ZU2uV7bH48wu7auFnw2Qy) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [How Do We Know We're Alive](https://open.spotify.com/album/3DaFZoTxOJxdxvFFbO2qZy) | 3:51 | 2022-11-07 | 2022-11-14 |
 | [How Far Can You Fly? \(Ladder\) \- Original Version](https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t) | [Luca Flores](https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O) | [For Those I Never Knew](https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2) | 4:29 | 2024-03-28 |  |
@@ -317,6 +317,7 @@
 | [My Heart in a Song](https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Simona Severini](https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l) | [My Songbook](https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E) | 5:40 | 2022-09-30 |  |
 | [My Way](https://open.spotify.com/track/3XJC0d3Yo0y17ZtOlOdC3P) | [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk) | [Chansons](https://open.spotify.com/album/7d6I7tR73f3smXLcKQNgF9) | 5:11 | 2022-09-30 |  |
 | [Na Minha Casa Mais Uma Vez](https://open.spotify.com/track/48uyu04YowGIg4uXb4k8qq) | [Francesca Corrias](https://open.spotify.com/artist/5CVqFDtjtfBpFIvtBIX4Kf) | [Songshine](https://open.spotify.com/album/0IElVERB2Ht5dsxhkOEeYO) | 5:57 | 2023-01-30 | 2023-06-05 |
+| [Napule È](https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9) | [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0) | [Senza Fine](https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3) | 2:17 | 2024-04-26 |  |
 | [Natale](https://open.spotify.com/track/4xM4ctOb3WswWUQzutFh1P) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [De Gregori](https://open.spotify.com/album/7lXs5nwf9uayxVnjDqB16J) | 2:35 | 2022-12-05 | 2023-02-01 |
 | [Natale 'Nzieme A Tte](https://open.spotify.com/track/4MgpGgFdetliH20e3NWgwt) | [Roberto Murolo](https://open.spotify.com/artist/4Y7fW86VPX4T4Ojio2fQCm) | [Natale Napoletano: Christmas In Italy \(2022 Remaster\)](https://open.spotify.com/album/4Z9LTLb1IQRK3qHLIqLPg1) | 2:18 | 2022-12-05 | 2023-02-01 |
 | [Natale allo zenzero](https://open.spotify.com/track/0YAzTMg2rOv7FbkbBJSDo2) | [Elio e le Storie Tese](https://open.spotify.com/artist/61r4cE4aoOD50wPNhQ5fF7) | [Baffo Natale Compilation \(Le canzoni di Natale di Radio Deejay\)](https://open.spotify.com/album/4GBKwwtQlTOF8GJfaht7Mz) | 4:31 | 2022-12-05 | 2023-02-01 |

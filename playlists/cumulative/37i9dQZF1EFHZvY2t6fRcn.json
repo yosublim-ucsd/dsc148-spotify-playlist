@@ -2262,10 +2262,28 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 187010,
       "name": "Stretch",
       "url": "https://open.spotify.com/track/0vJLnPPbip0ihNIavfRr4k"
+    },
+    {
+      "album": {
+        "name": "Shiny New Thing",
+        "url": "https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187010,
+      "name": "Stretch",
+      "url": "https://open.spotify.com/track/5bnOO8GMfgoErXsomIOJ8f"
     },
     {
       "album": {

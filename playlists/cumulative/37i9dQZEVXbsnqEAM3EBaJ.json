@@ -5844,7 +5844,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 333197,
       "name": "Desprotegi\u00e9ndome",
       "url": "https://open.spotify.com/track/2pgGswwIXdzyB4fVxMJkrp"
@@ -13756,7 +13756,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 268211,
       "name": "La Banquina de Alg\u00fan Lado",
       "url": "https://open.spotify.com/track/5TtB4MPzZAbyY45qn7Vo5E"
@@ -14072,6 +14072,24 @@
       "duration_ms": 186705,
       "name": "Leave a Light On (Talk Away The Dark) - Piano Vocal",
       "url": "https://open.spotify.com/track/40kA2Z9Vb76MMfC90RraZw"
+    },
+    {
+      "album": {
+        "name": "A Night Like This (Live San Francisco '78)",
+        "url": "https://open.spotify.com/album/3RHRDGZYmq2zbd0iKzDX6S"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 751797,
+      "name": "Leave Me Alone - Live",
+      "url": "https://open.spotify.com/track/7krYhM4oYH6D4NOwkT6VD4"
     },
     {
       "album": {
@@ -19280,7 +19298,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 246543,
       "name": "Pretty Baby - Live 1978",
       "url": "https://open.spotify.com/track/0N5H2xcY4LG3fvizwj67wn"
@@ -27708,7 +27726,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 304752,
       "name": "Walk on the Wild Side - Live",
       "url": "https://open.spotify.com/track/1afpYweKCuEhLOeeMLuP6e"
@@ -29366,6 +29384,24 @@
       "duration_ms": 712370,
       "name": "Yours Is No Disgrace - Live: Yale Bowl, USA 24th July 1971",
       "url": "https://open.spotify.com/track/7xhyCH2gmbWKINV4KO0Dqc"
+    },
+    {
+      "album": {
+        "name": "Got Nothing To Say (Live)",
+        "url": "https://open.spotify.com/album/0AnsrDv1dSyNKMVcd0Aqpc"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148715,
+      "name": "Youth Nabbed As Sniper - Live 1978",
+      "url": "https://open.spotify.com/track/2Hqaf8OvOna4Sq16KmzXiI"
     },
     {
       "album": {

@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAASaWILf/i+P7Ka5AIB83hT",
+  "snapshot_id": "AAAAAAAAAADKYf+7gECqpIwZcRGndztj",
   "tracks": [
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Got Nothing To Say (Live)",
-        "url": "https://open.spotify.com/album/0AnsrDv1dSyNKMVcd0Aqpc"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 246543,
-      "name": "Pretty Baby - Live 1978",
-      "url": "https://open.spotify.com/track/0N5H2xcY4LG3fvizwj67wn"
-    },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 251334,
       "name": "Anteroom of Death - Edit Version",
       "url": "https://open.spotify.com/track/1Im4cmAI1RgziR0Kohz5Cn"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Got Nothing To Say (Live)",
+        "url": "https://open.spotify.com/album/0AnsrDv1dSyNKMVcd0Aqpc"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 148715,
+      "name": "Youth Nabbed As Sniper - Live 1978",
+      "url": "https://open.spotify.com/track/2Hqaf8OvOna4Sq16KmzXiI"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -71,22 +71,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/3gEo1R7IlW4A6q5S7UKzM8"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Once",
-      "url": "https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "The Rob Ritter Tapes - Live at Starwood 1980",
         "url": "https://open.spotify.com/album/2BpjL883XkKTkfLroX8qxH"
       },
@@ -103,6 +87,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/3gEo1R7IlW4A6q5S7UKzM8"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "A Night Like This (Live San Francisco '78)",
         "url": "https://open.spotify.com/album/3RHRDGZYmq2zbd0iKzDX6S"
       },
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 304752,
-      "name": "Walk on the Wild Side - Live",
-      "url": "https://open.spotify.com/track/1afpYweKCuEhLOeeMLuP6e"
+      "duration_ms": 751797,
+      "name": "Leave Me Alone - Live",
+      "url": "https://open.spotify.com/track/7krYhM4oYH6D4NOwkT6VD4"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -175,6 +175,54 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/3PTuQBSaljC8mpbQVbWtkI"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/58J1gfmMIdfOUYnqt7Qhtu"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 219346,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) [Alternate Version]",
+        "url": "https://open.spotify.com/album/2fDySbrVTRqesjDrlgjzzo"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 362908,
+      "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) - Alternate Version",
+      "url": "https://open.spotify.com/track/2JzqrOfcAtNz7pUZnkzJAt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Kamal",
         "url": "https://open.spotify.com/album/40mydIFlgpVBK7gTSxLqB2"
       },
@@ -199,22 +247,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/3PTuQBSaljC8mpbQVbWtkI"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/58J1gfmMIdfOUYnqt7Qhtu"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Here To Eternity",
         "url": "https://open.spotify.com/album/4ZRomgX1r7Fam2zytYHwP6"
       },
@@ -227,22 +259,6 @@
       "duration_ms": 294840,
       "name": "Keep It On Track",
       "url": "https://open.spotify.com/track/13PYRY0Z8gek8xPKbhHqpb"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) [Alternate Version]",
-        "url": "https://open.spotify.com/album/2fDySbrVTRqesjDrlgjzzo"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 362908,
-      "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) - Alternate Version",
-      "url": "https://open.spotify.com/track/2JzqrOfcAtNz7pUZnkzJAt"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -263,18 +279,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
+        "name": "Everybody's Alone",
+        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
         }
       ],
-      "duration_ms": 219346,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
+      "duration_ms": 151600,
+      "name": "Everybody's Alone",
+      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -303,22 +323,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Everybody's Alone",
-        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
+        "name": "Wasteland (orchestral)",
+        "url": "https://open.spotify.com/album/42GDExicxE2HmHmwIpmiYw"
       },
       "artists": [
         {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
         },
         {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+          "name": "THE DAY WE LEFT EARTH",
+          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
         }
       ],
-      "duration_ms": 151600,
-      "name": "Everybody's Alone",
-      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
+      "duration_ms": 145324,
+      "name": "Wasteland - orchestral",
+      "url": "https://open.spotify.com/track/36wIxrvx8BXA0g2cv1TXyz"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -343,22 +363,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Wasteland (orchestral)",
-        "url": "https://open.spotify.com/album/42GDExicxE2HmHmwIpmiYw"
+        "name": "You Won't Go Before You're Supposed To",
+        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
       },
       "artists": [
         {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
         },
         {
-          "name": "THE DAY WE LEFT EARTH",
-          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Chris Motionless",
+          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
         }
       ],
-      "duration_ms": 145324,
-      "name": "Wasteland - orchestral",
-      "url": "https://open.spotify.com/track/36wIxrvx8BXA0g2cv1TXyz"
+      "duration_ms": 183721,
+      "name": "Slaughterhouse 2 (feat. Chris Motionless)",
+      "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -403,30 +427,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "You Won't Go Before You're Supposed To",
-        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        },
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Chris Motionless",
-          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
-        }
-      ],
-      "duration_ms": 183721,
-      "name": "Slaughterhouse 2 (feat. Chris Motionless)",
-      "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Totalmente Pose\u00eddos (Banda de Sonido Original de la Pel\u00edcula)",
         "url": "https://open.spotify.com/album/2HfZeLhmkDzqPVT0wq6V0q"
       },
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 333197,
-      "name": "Desprotegi\u00e9ndome",
-      "url": "https://open.spotify.com/track/2pgGswwIXdzyB4fVxMJkrp"
+      "duration_ms": 268211,
+      "name": "La Banquina de Alg\u00fan Lado",
+      "url": "https://open.spotify.com/track/5TtB4MPzZAbyY45qn7Vo5E"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "It Could Have Been You",
-        "url": "https://open.spotify.com/album/4QWGEvI0AmucuLlG5xiPlk"
-      },
-      "artists": [
-        {
-          "name": "The Effect",
-          "url": "https://open.spotify.com/artist/2Rx1y8dP2QwQI7XEqDBkYc"
-        },
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
-        }
-      ],
-      "duration_ms": 258629,
-      "name": "It Could Have Been You",
-      "url": "https://open.spotify.com/track/5vwU0pW1bncbAUruvJrpwA"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Stampede: Vol. 1",
         "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 251998,
       "name": "Saturday Night's Alright (For Fighting)",
       "url": "https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "It Could Have Been You",
+        "url": "https://open.spotify.com/album/4QWGEvI0AmucuLlG5xiPlk"
+      },
+      "artists": [
+        {
+          "name": "The Effect",
+          "url": "https://open.spotify.com/artist/2Rx1y8dP2QwQI7XEqDBkYc"
+        },
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        }
+      ],
+      "duration_ms": 258629,
+      "name": "It Could Have Been You",
+      "url": "https://open.spotify.com/track/5vwU0pW1bncbAUruvJrpwA"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 255774,
-      "name": "Song to the Siren",
-      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "VERITAS",
         "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 199067,
       "name": "I GOT THAT",
       "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 255774,
+      "name": "Song to the Siren",
+      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Breadcrumbs",
-        "url": "https://open.spotify.com/album/5STTMINKxheEifPb6aUPMO"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 156935,
-      "name": "Go Man Go - Live At Hellfest 2022",
-      "url": "https://open.spotify.com/track/75nSr7dCLyiNcHfN4wqbqY"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Nonetheless",
         "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 292964,
       "name": "New London boy",
       "url": "https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Breadcrumbs",
+        "url": "https://open.spotify.com/album/5STTMINKxheEifPb6aUPMO"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 156935,
+      "name": "Go Man Go - Live At Hellfest 2022",
+      "url": "https://open.spotify.com/track/75nSr7dCLyiNcHfN4wqbqY"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "What's Love Got to Do with It (30th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0LqFtawEnmutBvNiV6Ngq7"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "The Beatmasters",
-          "url": "https://open.spotify.com/artist/1mPzbhI5OxkyJnTeuKeD8q"
-        }
-      ],
-      "duration_ms": 230895,
-      "name": "Disco Inferno - 7\u201d Edit",
-      "url": "https://open.spotify.com/track/0KlrGXNr2OriHrZwXI7jHT"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Niebla",
         "url": "https://open.spotify.com/album/7K0rkFuaN2l85ZMNdnV9UB"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 222965,
       "name": "Niebla",
       "url": "https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "What's Love Got to Do with It (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0LqFtawEnmutBvNiV6Ngq7"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "The Beatmasters",
+          "url": "https://open.spotify.com/artist/1mPzbhI5OxkyJnTeuKeD8q"
+        }
+      ],
+      "duration_ms": 230895,
+      "name": "Disco Inferno - 7\u201d Edit",
+      "url": "https://open.spotify.com/track/0KlrGXNr2OriHrZwXI7jHT"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

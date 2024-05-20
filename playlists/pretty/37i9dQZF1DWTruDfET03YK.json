@@ -1,6 +1,6 @@
 {
   "description": "Tu familia puede visitar a todos los animales en el zool\u00f3gico con estas divertidas canciones.",
-  "num_followers": 26520,
+  "num_followers": 26560,
   "original_name": "Los Animalitos",
   "owner": {
     "name": "Spotify",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/4FyCoKl2W6GnoVy8I9xMSE"
     },
     {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 129440,
+      "name": "O Pato - El Pato",
+      "url": "https://open.spotify.com/track/7q2cOMu2tKxclf9iXDateo"
+    },
+    {
       "added_at": "2022-07-11 22:47:32",
       "album": {
         "name": "La Granja de Zen\u00f3n Vol. 2",
@@ -123,18 +139,18 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc"
+        "name": "Gallina Pintadita, Vol. 1",
+        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
         }
       ],
-      "duration_ms": 129440,
-      "name": "O Pato - El Pato",
-      "url": "https://open.spotify.com/track/7q2cOMu2tKxclf9iXDateo"
+      "duration_ms": 107674,
+      "name": "Pollito Amarillito",
+      "url": "https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -171,22 +187,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Gallina Pintadita, Vol. 1",
-        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 107674,
-      "name": "Pollito Amarillito",
-      "url": "https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Fiesta En La Aldea Encantada",
         "url": "https://open.spotify.com/album/69rQXystVGM2FksqbAO6M3"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 116586,
       "name": "Coco En Su Cueva",
       "url": "https://open.spotify.com/track/7vy0eOdRqLxWJTIQqHPYcQ"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "Canciones del Zoo Vol. 3",
-        "url": "https://open.spotify.com/album/3COabJotsgeogBvNsNpcok"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 174954,
-      "name": "El Baile de los Animales",
-      "url": "https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -287,8 +271,24 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Canciones del Zoo Vol. 4",
-        "url": "https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R"
+        "name": "100 A\u00f1os...100 Exitos",
+        "url": "https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 150373,
+      "name": "Escuela de Perritos",
+      "url": "https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Canciones del Zoo Vol. 3",
+        "url": "https://open.spotify.com/album/3COabJotsgeogBvNsNpcok"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
         }
       ],
-      "duration_ms": 134285,
-      "name": "El Cocodrilo Dante",
-      "url": "https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ"
+      "duration_ms": 174954,
+      "name": "El Baile de los Animales",
+      "url": "https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -319,38 +319,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Canciones Infantiles Y Musica Infantil",
-        "url": "https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm"
-      },
-      "artists": [
-        {
-          "name": "Canciones Infantiles En Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/0ZdnI2t7hdmu2znvokiGbp"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "100 A\u00f1os...100 Exitos",
-        "url": "https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 150373,
-      "name": "Escuela de Perritos",
-      "url": "https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Masha and the Bear Songs, Pt. 2",
         "url": "https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT"
       },
@@ -363,6 +331,22 @@
       "duration_ms": 83693,
       "name": "Bear's Song",
       "url": "https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Canciones Infantiles Y Musica Infantil",
+        "url": "https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm"
+      },
+      "artists": [
+        {
+          "name": "Canciones Infantiles En Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/0ZdnI2t7hdmu2znvokiGbp"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -431,22 +415,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Michi Guau Vol. 1",
-        "url": "https://open.spotify.com/album/1H2vED16208kBdEwf5DSRV"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 125066,
-      "name": "El Gato Tom",
-      "url": "https://open.spotify.com/track/366UU893avETSITmLAKidG"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Canciones Infantiles Y Musica Infantil",
         "url": "https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm"
       },
@@ -475,6 +443,22 @@
       "duration_ms": 111124,
       "name": "El Caballo Comisario",
       "url": "https://open.spotify.com/track/2WblKc2kdC9h3IaRpoyNqr"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Canciones del Zoo Vol. 4",
+        "url": "https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "duration_ms": 134285,
+      "name": "El Cocodrilo Dante",
+      "url": "https://open.spotify.com/track/3IZ5vpnQpmTh5TrmaCsQZJ"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -557,20 +541,20 @@
       "url": "https://open.spotify.com/track/1jx3RF8TADXBcnHLhI45SM"
     },
     {
-      "added_at": "2022-08-06 01:10:19",
+      "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Animalitos",
-        "url": "https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4"
+        "name": "Michi Guau Vol. 1",
+        "url": "https://open.spotify.com/album/1H2vED16208kBdEwf5DSRV"
       },
       "artists": [
         {
-          "name": "Ninan\u00e1",
-          "url": "https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd"
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
         }
       ],
-      "duration_ms": 139853,
-      "name": "Animalitos",
-      "url": "https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt"
+      "duration_ms": 125066,
+      "name": "El Gato Tom",
+      "url": "https://open.spotify.com/track/366UU893avETSITmLAKidG"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -587,6 +571,22 @@
       "duration_ms": 190976,
       "name": "El T\u00edo McDonald Ten\u00eda una Granja",
       "url": "https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf"
+    },
+    {
+      "added_at": "2022-08-06 01:10:19",
+      "album": {
+        "name": "Animalitos",
+        "url": "https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4"
+      },
+      "artists": [
+        {
+          "name": "Ninan\u00e1",
+          "url": "https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd"
+        }
+      ],
+      "duration_ms": 139853,
+      "name": "Animalitos",
+      "url": "https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt"
     },
     {
       "added_at": "2021-07-09 14:52:20",
@@ -719,6 +719,22 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
+        "name": "Morko y Mali - Aventuras en la selva (La m\u00fasica de la serie de Disney Junior)",
+        "url": "https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Morko y Mali",
+          "url": "https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW"
+        }
+      ],
+      "duration_ms": 150240,
+      "name": "Soy el sapo Sopa - De Morko y Mali",
+      "url": "https://open.spotify.com/track/32W3VkQuANDHNor6y0OruF"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
         "name": "Zootropolis (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M"
       },
@@ -751,66 +767,50 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Morko y Mali - Aventuras en la selva (La m\u00fasica de la serie de Disney Junior)",
-        "url": "https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb"
+        "name": "Dora The Explorer",
+        "url": "https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF"
       },
       "artists": [
         {
-          "name": "Elenco de Morko y Mali",
-          "url": "https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW"
+          "name": "Dora The Explorer",
+          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
         }
       ],
-      "duration_ms": 150240,
-      "name": "Soy el sapo Sopa - De Morko y Mali",
-      "url": "https://open.spotify.com/track/32W3VkQuANDHNor6y0OruF"
+      "duration_ms": 96533,
+      "name": "El Coqui",
+      "url": "https://open.spotify.com/track/7yufdKdMxeVRPf3S5rOdw1"
     },
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Besos, Abrazos y Apapachos",
-        "url": "https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic"
+        "name": "Adelante",
+        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
       },
       "artists": [
         {
-          "name": "Mariana Mallol",
-          "url": "https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg"
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
         }
       ],
-      "duration_ms": 131478,
-      "name": "El Cocodrilo y el Orangut\u00e1n",
-      "url": "https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb"
+      "duration_ms": 192065,
+      "name": "La Pequena Arana-Bonus",
+      "url": "https://open.spotify.com/track/5x7lPrav33GIfgBv2lVpQg"
     },
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Rondas Infantiles",
-        "url": "https://open.spotify.com/album/2KTIE0zh1TQiBh3jtHniTX"
+        "name": "Diego, Dora & Friends' Animal Jamboree",
+        "url": "https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD"
       },
       "artists": [
         {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+          "name": "Diego, Dora & Friends",
+          "url": "https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Yo Tenia Diez Perritos",
-      "url": "https://open.spotify.com/track/6FbER5h2bkMjPQ38It5jJ8"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
-        "name": "Canciones De La Granja 2",
-        "url": "https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60"
-      },
-      "artists": [
-        {
-          "name": "La Banda Cray\u00f3n",
-          "url": "https://open.spotify.com/artist/5ZG4SmWKo5clPI6X8Q4DU5"
-        }
-      ],
-      "duration_ms": 98280,
-      "name": "La gata",
-      "url": "https://open.spotify.com/track/3orResRo5W79ZiQS1bVGK0"
+      "duration_ms": 197560,
+      "name": "Animal Jam",
+      "url": "https://open.spotify.com/track/1FQMwZpGCFXkrt8GbrBVG6"
     }
   ],
   "unique_name": "Los Animalitos",

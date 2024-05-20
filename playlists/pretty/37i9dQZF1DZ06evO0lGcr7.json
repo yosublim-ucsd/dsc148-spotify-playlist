@@ -1,12 +1,12 @@
 {
-  "description": "This is mxmtoon. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 46491,
+  "description": "This is mxmtoon. The essential tracks, all in one playlist.",
+  "num_followers": 46494,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaeAAAAAAA4naWWPuex+MPAbXt0qP9J",
+  "snapshot_id": "ZkfvgAAAAABsR+8+GJTsjFkp8d336VFP",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "back from the dead",
+        "url": "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 158060,
+      "name": "back from the dead (with mxmtoon)",
+      "url": "https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "plum blossom (revisited)",
         "url": "https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN"
       },
@@ -279,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "back from the dead",
-        "url": "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x"
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
       "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        },
         {
           "name": "mxmtoon",
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 158060,
-      "name": "back from the dead (with mxmtoon)",
-      "url": "https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh"
+      "duration_ms": 156120,
+      "name": "seasonal depression",
+      "url": "https://open.spotify.com/track/0lmn3d7hn5MwQotOvPFKxy"
     },
     {
       "added_at": null,
@@ -311,22 +327,6 @@
       "duration_ms": 139386,
       "name": "frown",
       "url": "https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "seasonal depression",
-      "url": "https://open.spotify.com/track/0lmn3d7hn5MwQotOvPFKxy"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "plum blossom (revisited)",
-        "url": "https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "hong kong - revisited",
-      "url": "https://open.spotify.com/track/78Su2rZNIx5GHHKQhJkuGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't play your card",
         "url": "https://open.spotify.com/album/1TYzvjRwqBNQIy48CDnWRi"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 221422,
       "name": "don't play your card",
       "url": "https://open.spotify.com/track/5wPqSe2jbb9z50bSccR8Vo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "plum blossom (revisited)",
+        "url": "https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "hong kong - revisited",
+      "url": "https://open.spotify.com/track/78Su2rZNIx5GHHKQhJkuGE"
     },
     {
       "added_at": null,
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "plum blossom (revisited)",
-        "url": "https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN"
+        "name": "the sideline",
+        "url": "https://open.spotify.com/album/6V0Ossl8Is6h2QBPLXRKfY"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 120743,
-      "name": "1-800-DATEME - revisited",
-      "url": "https://open.spotify.com/track/5eyXlkdzR9Crpkcruu2SpB"
+      "duration_ms": 212506,
+      "name": "the sideline",
+      "url": "https://open.spotify.com/track/1KqtqSDSN2TCmXS4kP32bw"
     }
   ],
   "unique_name": "This Is mxmtoon",

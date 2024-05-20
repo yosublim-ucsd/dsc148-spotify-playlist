@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
+  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
   "name": "This Is Mau y Ricky",
   "tracks": [
     {
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 218562,
       "name": "No Hace Falta Que Lo Digas",
       "url": "https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 212053,
       "name": "Ya No Tiene Novio - Remix",
       "url": "https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x"

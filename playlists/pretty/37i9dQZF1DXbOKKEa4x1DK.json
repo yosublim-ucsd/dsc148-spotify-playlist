@@ -1,6 +1,6 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 3869,
+  "num_followers": 3910,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 280920,
+      "name": "Demasiado Romantica",
+      "url": "https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
         "name": "Historia de \u00c9xitos, Vol. 1",
         "url": "https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ"
       },
@@ -179,22 +195,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 280920,
-      "name": "Demasiado Romantica",
-      "url": "https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "20 Exitos Originales",
         "url": "https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1"
       },
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Mi Propuesta 1996",
-        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 279680,
-      "name": "Ni Tu Ni Yo",
-      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw"
       },
@@ -259,22 +243,6 @@
       "duration_ms": 255120,
       "name": "Sobrevivire",
       "url": "https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "Resistire",
-        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Resistire",
-      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -311,6 +279,22 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
+        "name": "Mi Propuesta 1996",
+        "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 279680,
+      "name": "Ni Tu Ni Yo",
+      "url": "https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
         "name": "Acusame",
         "url": "https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI"
       },
@@ -343,34 +327,18 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "La Casa de Ramon",
-        "url": "https://open.spotify.com/album/7Aav5u8nRnCQadbEtDjmjs"
+        "name": "Resistire",
+        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 213545,
-      "name": "La Casa de Ramon",
-      "url": "https://open.spotify.com/track/6ZGEQPicVG2ERQE763HBAm"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
+      "duration_ms": 310226,
+      "name": "Resistire",
+      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -395,18 +363,34 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Lo Mejor De...To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
       },
       "artists": [
         {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 281760,
-      "name": "Desnudate Mujer",
-      "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
+      "duration_ms": 303293,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "La Casa de Ramon",
+        "url": "https://open.spotify.com/album/7Aav5u8nRnCQadbEtDjmjs"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 213545,
+      "name": "La Casa de Ramon",
+      "url": "https://open.spotify.com/track/6ZGEQPicVG2ERQE763HBAm"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -475,8 +459,8 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Exclusivo",
-        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
+        "name": "Lo Mejor De...To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 287040,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
+      "duration_ms": 281760,
+      "name": "Desnudate Mujer",
+      "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -539,38 +523,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Caliente",
-        "url": "https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 306266,
-      "name": "Llego Tu Marido",
-      "url": "https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "Me Olvide de Vivir",
-        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 337800,
-      "name": "Donde",
-      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "El Mas Duro",
         "url": "https://open.spotify.com/album/0FISHOo9xahqeM8glh8m3E"
       },
@@ -583,6 +535,22 @@
       "duration_ms": 251053,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/6pGsdur9mCYPIf8ZmXBedr"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Exclusivo",
+        "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -615,6 +583,22 @@
       "duration_ms": 222053,
       "name": "Tu No Sabes Del Amor",
       "url": "https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 306266,
+      "name": "Llego Tu Marido",
+      "url": "https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
+        "name": "Me Olvide de Vivir",
+        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 337800,
+      "name": "Donde",
+      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/1HOTq1XpgcX1Gg2KWw9ike"
       },
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Vida, Canci\u00f3n y Suerte",
-        "url": "https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        },
-        {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Cuando Est\u00e9s Con \u00c9l",
-      "url": "https://open.spotify.com/track/6tBIGZ5EZzulhDdNeV5DyW"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "La Fiesta Esta Buena",
         "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
+        "name": "Vida, Canci\u00f3n y Suerte",
+        "url": "https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        },
+        {
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Cuando Est\u00e9s Con \u00c9l",
+      "url": "https://open.spotify.com/track/6tBIGZ5EZzulhDdNeV5DyW"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/2Ew3tAeAVj7VG1V4WibJft"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 224634,
       "name": "Palabritas",
       "url": "https://open.spotify.com/track/5epiks9AVbw6MoHRv41bPW"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "MamWali, Vol. 2",
-        "url": "https://open.spotify.com/album/2XAB1CdOmXJcAHhv8kLXss"
-      },
-      "artists": [
-        {
-          "name": "Ala Jaza",
-          "url": "https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW"
-        }
-      ],
-      "duration_ms": 210991,
-      "name": "Corazon en Soledad",
-      "url": "https://open.spotify.com/track/0ZscIhjqSvyozOF1z3OyVu"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -883,6 +867,22 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
+        "name": "MamWali, Vol. 2",
+        "url": "https://open.spotify.com/album/2XAB1CdOmXJcAHhv8kLXss"
+      },
+      "artists": [
+        {
+          "name": "Ala Jaza",
+          "url": "https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW"
+        }
+      ],
+      "duration_ms": 210991,
+      "name": "Corazon en Soledad",
+      "url": "https://open.spotify.com/track/0ZscIhjqSvyozOF1z3OyVu"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
         "name": "La Fiesta Esta Buena",
         "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "La Negra Mia",
-        "url": "https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 254511,
-      "name": "Maldita Sea",
-      "url": "https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/09bJwJxoqry4AZzHQLlGiH"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 237560,
       "name": "Que Levante la Mano",
       "url": "https://open.spotify.com/track/4mPgxlYJlHWiy5BrzKxBe1"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "La Negra Mia",
+        "url": "https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 254511,
+      "name": "Maldita Sea",
+      "url": "https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss"
     },
     {
       "added_at": "2024-03-28 01:30:00",

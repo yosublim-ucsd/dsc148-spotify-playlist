@@ -4,7 +4,7 @@
 
 > A happy place 🪩🕺🏽
 
-379 songs - 1 day 0 hr 1 min
+380 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Soleil](https://open.spotify.com/track/23WMleP3WZkCdYdg2j7JEP) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Soleil](https://open.spotify.com/album/1wdClJMfuGIwDnidRgglW7) | 3:48 | 2024-01-19 | 2024-02-10 |
 | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR) | 3:18 | 2022-01-14 |  |
 | [Someone To Believe In](https://open.spotify.com/track/77pkQ78HK1doqywnoc8dX0) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Someone To Believe In / Riding High \(On Your Love\)](https://open.spotify.com/album/5mPx1jRwBingmVgJtXPENA) | 2:35 | 2022-04-06 | 2022-07-25 |
+| [Something Magic](https://open.spotify.com/track/4jlbRDJ1OAqmAtRae2wIyJ) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Something Magic](https://open.spotify.com/album/0gq4fKDXIwXwpuvU135HH9) | 3:07 | 2024-05-17 |  |
 | [Something On My Mind](https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U) | 3:36 | 2024-04-19 |  |
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-10-02 | 2024-04-19 |
 | [Something's Changed \(Lenno Remix\)](https://open.spotify.com/track/452ItkQs9hI1bsntx8hA2B) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [Something's Changed \(Lenno Remix\)](https://open.spotify.com/album/2909UaUJR5AVmjlWPOpv4A) | 4:19 | 2024-02-16 |  |
@@ -376,7 +377,7 @@
 | [Waking Up](https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Waking Up](https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H) | 2:34 | 2024-01-12 |  |
 | [Wasting Time](https://open.spotify.com/track/1EFpoL0SkgjioIvPnEyh2R) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn), [Kiral](https://open.spotify.com/artist/4OG7tTJTMgFkSIZBoRmQvQ) | [Wasting Time](https://open.spotify.com/album/5UrRDAW47RZLiltgKaheTX) | 2:54 | 2022-01-14 | 2022-07-25 |
 | [Way I Feel](https://open.spotify.com/track/3LR4PJyRU1CWKgMbrGDWvp) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV) | [Way I Feel](https://open.spotify.com/album/7hfIMZ7E9jagt8UuWmeSvd) | 2:24 | 2022-01-14 | 2022-07-24 |
-| [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 | 2022-01-14 |  |
+| [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 | 2022-01-14 | 2024-05-20 |
 | [We Got Love](https://open.spotify.com/track/6pSMPGjQliPcB7JNTgVmdz) | [FNP](https://open.spotify.com/artist/0LScN4KbqXmSRk7SW6H6Pq) | [We Got Love](https://open.spotify.com/album/28Vhp93xMebJQe7cdm5a6y) | 6:34 | 2022-01-14 | 2022-07-18 |
 | [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-04-19 |  |
 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-03-01 | 2024-04-19 |

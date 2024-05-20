@@ -2079,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "nouvelle vie",
+        "url": "https://open.spotify.com/album/2SCDDp4qknjCUBufmbuEyg"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "nouvelle vie",
+      "url": "https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H"
+    },
+    {
+      "album": {
         "name": "Sade Sati (Deluxe)",
         "url": "https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K"
       },
@@ -2754,7 +2772,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 140307,
       "name": "Si oui ou non",
       "url": "https://open.spotify.com/track/0OPEi21gk2S0fg8yMRcews"

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 115392,
+  "num_followers": 115404,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "La Mami Que Mas Quiero",
+      "url": "https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
         "name": "El Gallo Rojo",
         "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 155191,
       "name": "El Gallo Rojo",
       "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "La Mami Que Mas Quiero",
-      "url": "https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -279,22 +279,18 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
         }
       ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
+      "duration_ms": 223608,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -315,18 +311,22 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt"
+        "name": "Paso la Vida Pensando",
+        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
       "artists": [
         {
-          "name": "Los Verduleros",
-          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 223608,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h"
+      "duration_ms": 242277,
+      "name": "Paso la Vida Pensando",
+      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
+        "name": "Agua Para El Mar",
+        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
+      },
+      "artists": [
+        {
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+        }
+      ],
+      "duration_ms": 185821,
+      "name": "Quiero!",
+      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
         "name": "Linea De Oro Contigo O Sin Ti",
         "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 195120,
       "name": "\u00c9l Soy Yo",
       "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
-        "name": "Mis Noches Sin Ti",
-        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
-      },
-      "artists": [
-        {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
-        }
-      ],
-      "duration_ms": 205087,
-      "name": "Mis Noches Sin Ti",
-      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Agua Para El Mar",
-        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
-      },
-      "artists": [
-        {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
-        }
-      ],
-      "duration_ms": 185821,
-      "name": "Quiero!",
-      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
         "name": "T\u00e1cito",
         "url": "https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
-        "name": "Kaimonomacaco",
-        "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
+        "name": "Mis Noches Sin Ti",
+        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
       },
       "artists": [
         {
-          "name": "Revolber",
-          "url": "https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn"
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
         }
       ],
-      "duration_ms": 267480,
-      "name": "El Solo",
-      "url": "https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6"
+      "duration_ms": 205087,
+      "name": "Mis Noches Sin Ti",
+      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-04-05 17:19:39",
       "album": {
+        "name": "Kaimonomacaco",
+        "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
+      },
+      "artists": [
+        {
+          "name": "Revolber",
+          "url": "https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn"
+        }
+      ],
+      "duration_ms": 267480,
+      "name": "El Solo",
+      "url": "https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
         "name": "El Equilibrio",
         "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 169928,
       "name": "La Semilla",
       "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
-    },
-    {
-      "added_at": "2024-04-05 17:19:39",
-      "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/7tk1J50942TGMsEGUGGlJJ"
-      },
-      "artists": [
-        {
-          "name": "Japiaguar",
-          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG"
     },
     {
       "added_at": "2024-04-05 17:19:39",
@@ -779,6 +763,22 @@
       "duration_ms": 189658,
       "name": "Soy Latino",
       "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
+    },
+    {
+      "added_at": "2024-04-05 17:19:39",
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/7tk1J50942TGMsEGUGGlJJ"
+      },
+      "artists": [
+        {
+          "name": "Japiaguar",
+          "url": "https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG"
     },
     {
       "added_at": "2024-04-05 17:19:39",

@@ -6467,6 +6467,28 @@
     },
     {
       "album": {
+        "name": "sYrup!",
+        "url": "https://open.spotify.com/album/1IqtsopYsIEaj4dLgsSKxM"
+      },
+      "artists": [
+        {
+          "name": "zxtyy",
+          "url": "https://open.spotify.com/artist/5K2mfHnYfV0ONVRHRy2DSR"
+        },
+        {
+          "name": "reiiki",
+          "url": "https://open.spotify.com/artist/5B68mBRgTMDaNza1wiz3cw"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122113,
+      "name": "Otro Level",
+      "url": "https://open.spotify.com/track/30bos35PKdBqeSMgVFsia5"
+    },
+    {
+      "album": {
         "name": "36 Questions: The Deluxe Album",
         "url": "https://open.spotify.com/album/7aIu3t8kD1qCud2uMO2wd7"
       },

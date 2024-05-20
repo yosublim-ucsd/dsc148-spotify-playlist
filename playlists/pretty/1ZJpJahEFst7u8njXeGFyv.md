@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 308,004 likes - 213 songs - 14 hr 7 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 307,990 likes - 213 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 17 | [Stay](https://open.spotify.com/track/5saIh79M2WQdA2WBakzrD8) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Stay](https://open.spotify.com/album/4Z22hUgQ17J785sqjJzLCj) | 2:35 |
 | 18 | [Myrthen, Op\. 25: No\. 24 \- Du bist wie eine Blume](https://open.spotify.com/track/30zhs5LCgnAVZWwlPhsfxS) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Night Sessions: Vol\. 2](https://open.spotify.com/album/0K7M942rxV2r60HwRJnxwD) | 1:41 |
 | 19 | [Experience](https://open.spotify.com/track/5tGGaozQBrq2TuVG6RqJtj) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Experience](https://open.spotify.com/album/7wGanYu9hC4Psgbqll3XL3) | 5:44 |
-| 20 | [Dvorák: Song to the Moon \(from Rusalka\)](https://open.spotify.com/track/66mLVHPZvRtTELZ6q7Z22d) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF) | [Dvorák: Song to the Moon \(from Rusalka\)](https://open.spotify.com/album/4T8l44AOJgKuXxwzPQOxmf) | 6:25 |
+| 20 | [Song to the Moon \(from Rusalka\)](https://open.spotify.com/track/66mLVHPZvRtTELZ6q7Z22d) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Song to the Moon \(from Rusalka\)](https://open.spotify.com/album/4T8l44AOJgKuXxwzPQOxmf) | 6:25 |
 | 21 | [Nocturnes, Op\. 55: I\. Andante \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/track/25UvpN42Ghr4OdUcDmytqU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Nocturnes, Op\. 55: I\. Andante \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/album/19URJzQHLZGf3TbfKSsN3D) | 5:17 |
 | 22 | [Midnight](https://open.spotify.com/track/7vZOGV8RLj3ylOmaWw5NSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Midnight](https://open.spotify.com/album/1jKQP76G48Kjdhk2ka3jAz) | 3:03 |
 | 23 | [The Seasons, Op\. 37b: X\. October "Autumn Song" \(Arr\. for Violin and Orchestra by Matthias Spindler\)](https://open.spotify.com/track/0FXohm4jfrf3eUa3TItqIz) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Luka Faulisi](https://open.spotify.com/artist/2KtIu7iMseGtOPctMbh6P3), [Martyna Pastuszka](https://open.spotify.com/artist/1WxdwuAJj8RrWVit3p4xVk), [{oh!} Orkiestra](https://open.spotify.com/artist/4xGOi4Iqowq0b2bSi566b8) | [The Seasons, Op\. 37b: X\. October "Autumn Song" \(Arr\. for Violin and Orchestra by Matthias Spindler\)](https://open.spotify.com/album/0cBPY4mDA6vAfWZ4ZUJtdm) | 4:15 |

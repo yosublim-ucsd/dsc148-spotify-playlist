@@ -2,9 +2,9 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: JJJ, BLASÉ, Bonbero
+> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: YENTOWN
 
-738 songs - 1 day 14 hr 9 min
+739 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [RANDO \- Double Clapperz Remix](https://open.spotify.com/track/67mOjONmixvqoEq6si4p0I) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Double Clapperz](https://open.spotify.com/artist/7tMpkHHGx888nBtdiDZ1Ql) | [Soul Quake \(Remixes, Vol\. 1\)](https://open.spotify.com/album/4T8lpJ5UXOjilulM4ZuC6G) | 2:22 | 2024-03-27 |  |
 | [RANDO \- Double Clapperz Remix](https://open.spotify.com/track/7dZH1y8Ymj3OS7MOZJoEoS) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Double Clapperz](https://open.spotify.com/artist/7tMpkHHGx888nBtdiDZ1Ql) | [Soul Quake \(Remixes, Vol\. 1\)](https://open.spotify.com/album/374C36Dszbio6pr7BwDINq) | 2:22 | 2024-03-28 | 2024-04-19 |
 | [Rarri](https://open.spotify.com/track/6tiguQlJ1ZYIfBFGPkJ0GL) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [KJ SEASON](https://open.spotify.com/album/28Tb83FZurUuUbiv17V0zE) | 3:06 | 2024-02-06 | 2024-03-13 |
+| [RASEN](https://open.spotify.com/track/7Ioe77iVs0S1enZ2X9nOUF) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru), [Bose](https://open.spotify.com/artist/5PmU3ilkp8LQzJL9NZYYy3), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [RASEN](https://open.spotify.com/album/1pCBzFKgTQJP9LuDVPVXRr) | 5:51 | 2024-05-20 |  |
 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 | 2023-10-19 | 2023-11-01 |
 | [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 | 2023-09-21 | 2023-10-28 |
 | [Raving In The Simulation](https://open.spotify.com/track/3C8fxlVxOtyofU9mS3j61X) | [Genick](https://open.spotify.com/artist/59JrOdJYiD9hbd5QjX0XKO), [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [PeanutsKun](https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc), [HAKU](https://open.spotify.com/artist/5e7WY3osdEKUSJy2LozHqC) | [Raving In The Simulation](https://open.spotify.com/album/2pUYtzjWnzP4s6MEnBY1LN) | 3:54 | 2023-12-01 | 2023-12-20 |

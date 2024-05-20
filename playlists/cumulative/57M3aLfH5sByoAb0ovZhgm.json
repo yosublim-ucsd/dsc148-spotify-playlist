@@ -2339,6 +2339,28 @@
     },
     {
       "album": {
+        "name": "Crucible - The Songs of Hunters & Collectors",
+        "url": "https://open.spotify.com/album/3ZEo5nx18byaapvwDn8dYk"
+      },
+      "artists": [
+        {
+          "name": "Neil Finn",
+          "url": "https://open.spotify.com/artist/183DuT2WcaEO2tclTJW1tU"
+        },
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "Throw Your Arms Around Me",
+      "url": "https://open.spotify.com/track/5WdStzLlaFAnJoYREQw3n9"
+    },
+    {
+      "album": {
         "name": "Ved",
         "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
       },

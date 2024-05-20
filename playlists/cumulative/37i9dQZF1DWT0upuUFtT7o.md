@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Mitchy
 
-2,412 songs - 5 day 12 hr 32 min
+2,413 songs - 5 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,6 +900,7 @@
 | [heaven](https://open.spotify.com/track/4uBfRzIzeHb1pigIlYn6QM) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [tonight i don't exist](https://open.spotify.com/album/6tS4yDevaej0mL79EuIvN5) | 2:29 | 2022-11-30 | 2023-01-12 |
 | [heaven can wait](https://open.spotify.com/track/0E3mSToDaXCpvOb7xVelOI) | [Organ Tapes](https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS) | [唱着那无人问津的歌谣 / Chang Zhe Na Wu Ren Wen Jin De Ge Yao](https://open.spotify.com/album/46TF8codHZOaBXwrlvoYWx) | 3:26 | 2022-05-04 | 2022-05-26 |
 | [heaven can wait](https://open.spotify.com/track/2Hlk0npzq5yURIRg4i0R9s) | [Organ Tapes](https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS) | [heaven can wait](https://open.spotify.com/album/6fimjfKbHxow2lKsKChMCi) | 3:26 | 2022-03-30 | 2022-04-13 |
+| [Heaven Knows](https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Heaven Knows](https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg) | 3:01 | 2024-05-19 |  |
 | [Heavenly](https://open.spotify.com/track/2FprHlXpXg9fQuA4UI8LDe) | [Diving Station](https://open.spotify.com/artist/0id6oG2yzAWJSkJNzPk5Yq) | [Massive Sunray](https://open.spotify.com/album/3rbt4L5SxTnxVtmKzFTZ1S) | 3:12 | 2023-09-13 | 2023-09-21 |
 | [Heavy Eyes](https://open.spotify.com/track/5RJVBuN4yOO5oexIPo0flc) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Grow On](https://open.spotify.com/album/2Zk9zjxFltVxqfO2Kyion4) | 4:42 | 2023-08-23 | 2023-09-14 |
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-05-19 | 2022-06-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,754 likes - 575 songs - 1 day 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,757 likes - 575 songs - 1 day 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -402,11 +402,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 392 | [My Elusive Drug](https://open.spotify.com/track/4quVhM2f0bt6DpIYUJRbhY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:12 |
 | 393 | [Hymn 2000](https://open.spotify.com/track/4sh4ALvv53VAiq2D1yszYq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:29 |
 | 394 | [All The Way Down To El Paso \- Piano Demo](https://open.spotify.com/track/0AAKvxkoLPYRr9vYDhOfxn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 2:48 |
-| 395 | [Wicked Dreams](https://open.spotify.com/track/65njIUOttrk8Q6XRlLP4Mw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:39 |
-| 396 | [On Dark Street](https://open.spotify.com/track/1eRNWai6OWRRKN7xI2OH17) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:43 |
+| 395 | [On Dark Street](https://open.spotify.com/track/1eRNWai6OWRRKN7xI2OH17) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:43 |
+| 396 | [Wicked Dreams](https://open.spotify.com/track/65njIUOttrk8Q6XRlLP4Mw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:39 |
 | 397 | [I'm Going Home \- Piano Demo](https://open.spotify.com/track/3JGVQbfKChxILPc1xJw9HT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:03 |
-| 398 | [Reverie](https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD) | [Nicholas Sirart](https://open.spotify.com/artist/5yqwvmAeSBqRq4Zf7EaFZP) | [Classical for the New Age](https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf) | 2:34 |
-| 399 | [Between Seventeen And Twenty](https://open.spotify.com/track/33vpBgjk5jRZbUdvYRaOFL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:17 |
+| 398 | [Between Seventeen And Twenty](https://open.spotify.com/track/33vpBgjk5jRZbUdvYRaOFL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:17 |
+| 399 | [Reverie](https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD) | [Nicholas Sirart](https://open.spotify.com/artist/5yqwvmAeSBqRq4Zf7EaFZP) | [Classical for the New Age](https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf) | 2:34 |
 | 400 | [The Panic In Me \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/3eG1olclVmYZCFX7fx1xUl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 5:40 |
 | 401 | [White Lady White Powder](https://open.spotify.com/track/1AC2yaxIO68p1h5gSeKsTO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:32 |
 | 402 | [All Across The Havens](https://open.spotify.com/track/48QT3qnsdEfGf1RTQaWSbT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 2:52 |
@@ -470,9 +470,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 460 | [Dear God](https://open.spotify.com/track/4i6r30m0T4qoCjjCYwvJ1c) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 3:46 |
 | 461 | [Legal Boys \- Remastered 2003](https://open.spotify.com/track/0Ttvx1AbYYFRl7tIDwuPfR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:08 |
 | 462 | [Slow Rivers](https://open.spotify.com/track/2CW3BiW1wuGFtZFILgbPkr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 3:07 |
-| 463 | [Japanese Hands](https://open.spotify.com/track/7vZaVgqgDC5GTolnvX0Bzz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:40 |
-| 464 | [Breaking Down Barriers \- Remastered 2003](https://open.spotify.com/track/0cao7zXiY3a5BTRzsO5R0Q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 4:41 |
-| 465 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 463 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 464 | [Japanese Hands](https://open.spotify.com/track/7vZaVgqgDC5GTolnvX0Bzz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:40 |
+| 465 | [Breaking Down Barriers \- Remastered 2003](https://open.spotify.com/track/0cao7zXiY3a5BTRzsO5R0Q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 4:41 |
 | 466 | [Did He Shoot Her?](https://open.spotify.com/track/4zc43tuPonqY5IJTrOVo6z) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:20 |
 | 467 | [Strangers](https://open.spotify.com/track/4Ousa0idpaZ6KpLmT1iUnF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:46 |
 | 468 | [Better Together](https://open.spotify.com/track/7nsaLraV9CGza3tqX73iPP) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Sherlock Gnomes \(Music From The Motion Picture\)](https://open.spotify.com/album/5E2AhhoDudFdOBsOv6Dzu3) | 3:29 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbRsdAAAAABsLoS6XnvG12Sm5qHrHaiS`
+Snapshot ID: `AbRyFAAAAABthn9yruylnte6xrGlhauq`

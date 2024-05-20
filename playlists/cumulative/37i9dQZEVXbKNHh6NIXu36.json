@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 140797,
       "name": "ANNE KAFFEEKANNE",
       "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
@@ -11994,7 +11994,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 121000,
       "name": "Erwischt",
       "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
@@ -19756,7 +19756,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 151285,
       "name": "KAMIKAZE",
       "url": "https://open.spotify.com/track/4PTDaRYV60NupLQdT5dhgd"
@@ -24582,6 +24582,24 @@
       "duration_ms": 356389,
       "name": "Middle of the Ocean",
       "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
+    },
+    {
+      "album": {
+        "name": "Midnight Adventures",
+        "url": "https://open.spotify.com/album/2zVGjHtAopfKY1HC5T7gyS"
+      },
+      "artists": [
+        {
+          "name": "Aerix Wild",
+          "url": "https://open.spotify.com/artist/2grPF9zvyGjyzLpKciXxmO"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238399,
+      "name": "Midnight Adventures",
+      "url": "https://open.spotify.com/track/02jy1478NteAFV1u9HCf2y"
     },
     {
       "album": {
@@ -37202,7 +37220,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 233456,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
@@ -39638,7 +39656,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 222011,
       "name": "UR IN MY HEAD",
       "url": "https://open.spotify.com/track/1myktoEXB1nLGgAIJyOFis"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-18",
-  "description": "This is Talking Heads. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Talking Heads. The essential tracks, all in one playlist.",
   "name": "This Is Talking Heads",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 159426,
       "name": "Paper",
       "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 240960,
       "name": "Slippery People - Live",
       "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"

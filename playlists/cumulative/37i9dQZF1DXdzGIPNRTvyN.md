@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-234 songs - 10 hr 59 min
+235 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 | 2023-04-06 |  |
 | [Mosaic Patterns](https://open.spotify.com/track/7MHME2ELEuXdN6NC69OpLj) | [Vadodara](https://open.spotify.com/artist/7FUOL0pd9zlLpJu7vCBO1V) | [Mosaic Patterns](https://open.spotify.com/album/4GdPy1i4mgFy8eFW2JCmot) | 2:53 | 2023-03-13 |  |
 | [Moving Forward](https://open.spotify.com/track/5wUcZKUVpLr1mA9cn542BI) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Moving Forward](https://open.spotify.com/album/0nginUJK6TyxW1XEZhdelg) | 2:36 | 2024-01-30 |  |
-| [Mt\. Seymour](https://open.spotify.com/track/3wHC0FZL6jhKzJUykiJ9Aq) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Mt\. Seymour](https://open.spotify.com/album/3RX8Jqi9TVBxm1wh6GMliY) | 3:08 | 2024-05-01 |  |
+| [Mt\. Seymour](https://open.spotify.com/track/3wHC0FZL6jhKzJUykiJ9Aq) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Mt\. Seymour](https://open.spotify.com/album/3RX8Jqi9TVBxm1wh6GMliY) | 3:08 | 2024-05-01 | 2024-05-20 |
 | [My Favorite Moment](https://open.spotify.com/track/6xDrOfy2c9pyfcPmUBIJeV) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [Watching the World Go By](https://open.spotify.com/album/4aBzckGZx3xOnljiVzE2HR) | 3:38 | 2023-03-13 | 2023-12-19 |
 | [Natural Spirit](https://open.spotify.com/track/0mWtYOhlnlUsVLCO1opzLJ) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:48 | 2023-03-13 |  |
 | [Nature Pause](https://open.spotify.com/track/6606b0Jnwb9BaYJUgcmqq2) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:31 | 2023-03-13 |  |
@@ -163,6 +163,7 @@
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-01-24 |  |
 | [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 |  |
 | [Orange Sky \(Nature\)](https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz) | [Clyde Price](https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y) | [Orange Sky \(Meditation\)](https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h) | 2:38 | 2023-09-28 |  |
+| [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 | 2024-05-01 |  |
 | [Part 15, Afternoon Melody](https://open.spotify.com/track/5UIUZitjTfmsu52npWQE7D) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Corkscrew Swamp Sanctuary Pt\. 2 Soundwalk](https://open.spotify.com/album/0TBQA6n8foPfWoamgZgGi3) | 2:38 | 2023-03-13 | 2023-04-29 |
 | [Part 15, Afternoon Melody](https://open.spotify.com/track/5fKbRySu8OEzqXL83OqGw4) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Corkscrew Swamp Sanctuary Pt\. 2 Soundwalk](https://open.spotify.com/album/5jgX1p4HWumq7VD0xurygG) | 2:38 | 2023-04-24 | 2024-04-19 |
 | [Part 2, Trailside Rivulet and Birdsong](https://open.spotify.com/track/5VDpXmKgYlhwcDRm7Mzgm8) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Forest Park Rain Soundwalk](https://open.spotify.com/album/23kRnl0gIuVBMmeOn1DWae) | 1:17 | 2023-05-30 | 2023-12-19 |

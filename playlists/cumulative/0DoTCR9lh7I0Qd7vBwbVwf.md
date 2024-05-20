@@ -4,7 +4,7 @@
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-135 songs - 4 hr 28 min
+136 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Ethereal Enchantment](https://open.spotify.com/track/2whz7ZOK3T7ZTlAHCdnTp8) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Enchanted Lullabies](https://open.spotify.com/album/2QAtObUYP4c1nTTl7ZiI0z) | 1:50 | 2024-02-05 |  |
 | [Ethereal Raindrops](https://open.spotify.com/track/0RaPTrqOcekjZrNbPv38Oe) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Echoes of Stardust](https://open.spotify.com/album/4xFwIg2DthGNA0bSRhgmsY) | 2:08 | 2024-02-05 |  |
 | [Ethereal Twilight](https://open.spotify.com/track/0GDyEVmYyjlRQeDkT4GFEs) | [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Nebulous Tranquility](https://open.spotify.com/album/306eNwTaqKJzsnxxZXdcGD) | 1:58 | 2024-02-05 |  |
+| [Fernweh](https://open.spotify.com/track/45NT6jGzWVYeoWbUHT2Yp6) | [Calm Chapter](https://open.spotify.com/artist/7Bqsbmh24Qjg1sugGDNUoh), [Karamandi](https://open.spotify.com/artist/7f767W2tNRInLUY8h38ooE) | [Wanderlust](https://open.spotify.com/album/0hqNJlLvmldKAHivr48KRD) | 2:32 | 2024-05-19 |  |
 | [Floating Bliss](https://open.spotify.com/track/2wLUgkm97OrFf8S8bH34WB) | [Burstell](https://open.spotify.com/artist/5GkPupoxyFQbeCGlEkhT5C), [Moon Neux](https://open.spotify.com/artist/42DQbGLMNeNbupqDMIe2J9), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [Crystal Clear](https://open.spotify.com/album/4PMOqn6bo9U228D2XzBoV4) | 1:36 | 2024-02-05 |  |
 | [Floating on Air](https://open.spotify.com/track/48Xj9a0vTxbUNpT7uxOTSM) | [Moon Neux](https://open.spotify.com/artist/42DQbGLMNeNbupqDMIe2J9), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG), [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV) | [Floating on Air](https://open.spotify.com/album/4vGUX1nQpp99O1kMMwJXlE) | 1:46 | 2024-02-05 |  |
 | [Gentle Whispers](https://open.spotify.com/track/10ot1rXVDEgiOEXRbpQa4f) | [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [In the Stillness](https://open.spotify.com/album/0RKqBzih1tgkqTInODST75) | 1:49 | 2024-02-05 |  |

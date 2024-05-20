@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,418 likes - 91 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,432 likes - 91 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 77 | [Inteha\-e\-Ishq \- Stereo Munk Reinterpretation](https://open.spotify.com/track/5yqM3cyY9lQLNOflyHArSG) | [Adnan Qureshi](https://open.spotify.com/artist/3F4hn6cXw4bc2RDWrAWMrL), [STEREO MUNK](https://open.spotify.com/artist/3r7gMVTtZJajmfLVhYH3Pj) | [Inteha\-e\-Ishq \(Stereo Munk Reinterpretation\)](https://open.spotify.com/album/3YZ8rrcC76UkReoBpeG2N2) | 6:30 |
 | 78 | [Siachen \[Jog Rework\]](https://open.spotify.com/track/5t91oMePoTBy68Gqx871fp) | [Fake Shamans](https://open.spotify.com/artist/3EI9a3jBhsXHQPFYZXJzQi), [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa), [Farhan Ali](https://open.spotify.com/artist/1sYPIiSyj5kE6TjQcvEvb1), [Aizaz Sohail](https://open.spotify.com/artist/69jbAALzkYxF5CgdADXfVM) | [Siachen \[Jog Rework\]](https://open.spotify.com/album/0Bj7DWZ4XIazLZHxreHGhJ) | 5:59 |
 | 79 | [Nimbu](https://open.spotify.com/track/0JaoJx1DTAr67hv0f6jlmZ) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [Nimbu](https://open.spotify.com/album/3yAtei57IWEOMO2PIh5Cua) | 4:19 |
-| 80 | [DESI TRILL](https://open.spotify.com/track/3OgRRx4Lkm5TasN179rdZh) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [DESI TRILL](https://open.spotify.com/album/4895fLdXIYE9fg9YohL1eW) | 2:38 |
+| 80 | [DESI TRILL \(feat\. Chip & Malkit Singh\)](https://open.spotify.com/track/3OgRRx4Lkm5TasN179rdZh) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [DESI TRILL \(feat\. Chip & Malkit Singh\)](https://open.spotify.com/album/4895fLdXIYE9fg9YohL1eW) | 2:38 |
 | 81 | [Ustad](https://open.spotify.com/track/4wnYjYU6MKlDc9yr4MYAqB) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN) | [Baalti](https://open.spotify.com/album/4vWnWaZS7qZWygUsHueo2d) | 6:11 |
 | 82 | [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 |
 | 83 | [Hai Hai \(Original Mix\)](https://open.spotify.com/track/4g8bzs2j3D72vm0wcguZ2q) | [Panjabi Hit Squad](https://open.spotify.com/artist/3IlSLDQTwlMSGiWDRoJ0Gj), [Ms Scandalous](https://open.spotify.com/artist/28BHtfPgUuB1w2hGu3j0mZ) | [Essential Desi](https://open.spotify.com/album/1xSOkSOQZcrwGFYYib8Bri) | 4:33 |

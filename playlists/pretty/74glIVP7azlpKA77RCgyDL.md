@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Body Count
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,564 likes - 112 songs - 6 hr 50 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,567 likes - 112 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 26 | [Ousted From Eden](https://open.spotify.com/track/4YNzsBxwOieEU3r7T3vK9s) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU), [Broken Vow](https://open.spotify.com/artist/7cbddjy4wOdhxzR4Wnypt3) | [Ousted From Eden](https://open.spotify.com/album/6ro24nyQUiS7uCJJQ5MAWT) | 2:55 |
 | 27 | [Rebirth](https://open.spotify.com/track/0COwjZLTyVMSW1nxMUq2l4) | [Statement of Pride](https://open.spotify.com/artist/62gQHnyYZuu5pegFAkKEXq) | [Rebirth](https://open.spotify.com/album/4uFIQ2nxfL9tAPQBwJwLhB) | 2:08 |
 | 28 | [Lysergic War Psychosis](https://open.spotify.com/track/1aegOIEWeGvUVm1Kavduz4) | [Antichrist Siege Machine](https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s) | [Vengeance of Eternal Fire](https://open.spotify.com/album/4MHngXy37mudMEn2H39sAg) | 2:35 |
-| 29 | [In The Mean Time feat\. Ash Costello](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time feat\. Ash Costello](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 |
+| 29 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 |
 | 30 | [Residue](https://open.spotify.com/track/6V65rowmWJM1QeAM4Nk4BG) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [Residue](https://open.spotify.com/album/36jabPLz0Cz7ZblFAmi7sD) | 4:38 |
 | 31 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 |
 | 32 | [Application For Release From The Dream](https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Application For Release From The Dream](https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw) | 4:29 |

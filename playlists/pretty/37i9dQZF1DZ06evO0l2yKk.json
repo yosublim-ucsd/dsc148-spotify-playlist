@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 150761,
+  "num_followers": 150835,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaeAAAAAACzmOZZ2YTSTrwdwBu0xlX/",
+  "snapshot_id": "ZkfvgAAAAADI6HRCRocTpkrsq9atnwkR",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 170093,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Nadie Sepa",
         "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
       },
@@ -171,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "Amor A\u00f1ejo",
-      "url": "https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Yo Fuera El",
         "url": "https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd"
       },
@@ -199,6 +167,22 @@
       "duration_ms": 168093,
       "name": "Si Yo Fuera \u00c9l",
       "url": "https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "Amor A\u00f1ejo",
+      "url": "https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U"
     },
     {
       "added_at": null,
@@ -715,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Sur Hasta el Norte",
-        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 174920,
       "name": "El Cari\u00f1o Que Perd\u00ed",
       "url": "https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde el Sur Hasta el Norte",
+        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Espejo De Cantina",
+        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 324240,
+      "name": "Popurr\u00ed: Cardenaleando La Cumbia",
+      "url": "https://open.spotify.com/track/23I3R41lcBjbXC3J0oiThk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde el Sur Hasta el Norte",
         "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
       },
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo De Cantina",
-        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 324240,
-      "name": "Popurr\u00ed: Cardenaleando La Cumbia",
-      "url": "https://open.spotify.com/track/23I3R41lcBjbXC3J0oiThk"
+      "duration_ms": 191320,
+      "name": "Te Olvid\u00e9 - Cumbia",
+      "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
     }
   ],
   "unique_name": "This Is Cardenales De Nuevo Le\u00f3n",

@@ -5210,7 +5210,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 72493,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt"
@@ -9146,6 +9146,24 @@
       "duration_ms": 246240,
       "name": "TOKOSHIENI",
       "url": "https://open.spotify.com/track/2rn0JaKCLzRymIeV6H4Nmf"
+    },
+    {
+      "album": {
+        "name": "TENDOUJI",
+        "url": "https://open.spotify.com/album/0vfzJ1M6LLhqzx6MLmvnjY"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162322,
+      "name": "TOKYO ASH",
+      "url": "https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz"
     },
     {
       "album": {

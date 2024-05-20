@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,245 likes - 110 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,252 likes - 110 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 65 | [Maintenant ou jamais](https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:24 |
 | 66 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 |
 | 67 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
-| 68 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
-| 69 | [Derrière le jour](https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Du feu dans les lilas](https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V) | 3:31 |
+| 68 | [Derrière le jour](https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Du feu dans les lilas](https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V) | 3:31 |
+| 69 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
 | 70 | [Erreur](https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Erreur](https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7) | 3:19 |
 | 71 | [Onze](https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:10 |
 | 72 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 |
-| 73 | [J'AI FAILLI](https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [OÙ EST PASSÉ ZEUDOG ?](https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB) | 3:16 |
-| 74 | [Je vais te faire danser](https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Échapper à la nuit](https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy) | 3:11 |
+| 73 | [Je vais te faire danser](https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Échapper à la nuit](https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy) | 3:11 |
+| 74 | [J'AI FAILLI](https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [OÙ EST PASSÉ ZEUDOG ?](https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB) | 3:16 |
 | 75 | [Last Call](https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:49 |
 | 76 | [Sac de sport](https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Surhomme](https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo) | 3:15 |
 | 77 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 84 | [Mort de rire](https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Mort de rire](https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7) | 4:06 |
 | 85 | [Promenade](https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 2:52 |
 | 86 | [En roulant vers Percé](https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte) | [Daniel Boucher](https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX) | [En roulant vers Percé](https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L) | 4:03 |
-| 87 | [Salut Cowboy](https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Salut Cowboy](https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a) | 3:36 |
-| 88 | [salades](https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Bons Times Bad Times](https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9) | 4:01 |
+| 87 | [salades](https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Bons Times Bad Times](https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9) | 4:01 |
+| 88 | [Salut Cowboy](https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Salut Cowboy](https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a) | 3:36 |
 | 89 | [Don't Lose The Funk](https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg) | [Arielle Roberge](https://open.spotify.com/artist/3vlFs1TJBZwN7WY1v6nkNe) | [Don't Lose The Funk](https://open.spotify.com/album/1OCeIkoYpv3BEJskCa7bQw) | 4:07 |
 | 90 | [Pour l'amour du geste II](https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Pour l'amour du geste II](https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E) | 2:06 |
 | 91 | [ÇA APPELLE](https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:49 |

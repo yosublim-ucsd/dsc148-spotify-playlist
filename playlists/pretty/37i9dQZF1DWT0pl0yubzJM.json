@@ -1,6 +1,6 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 16085,
+  "num_followers": 16092,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Secuencia Inicial - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Pasto",
         "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
       },
@@ -119,38 +103,6 @@
       "duration_ms": 230626,
       "name": "D-Generaci\u00f3n",
       "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 188639,
-      "name": "R\u00edo Paran\u00e1",
-      "url": "https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Vida Modelo",
-        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Vida Modelo",
-      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -171,18 +123,18 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
       },
       "artists": [
         {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
         }
       ],
-      "duration_ms": 250000,
-      "name": "ANDATE",
-      "url": "https://open.spotify.com/track/3LQ4SNMbPBpVY5XYxQloCT"
+      "duration_ms": 188639,
+      "name": "R\u00edo Paran\u00e1",
+      "url": "https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -203,18 +155,66 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Emporio Bizarro",
-        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
       },
       "artists": [
         {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
         }
       ],
-      "duration_ms": 169026,
-      "name": "Desaparecedor",
-      "url": "https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw"
+      "duration_ms": 250000,
+      "name": "ANDATE",
+      "url": "https://open.spotify.com/track/3LQ4SNMbPBpVY5XYxQloCT"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Secuencia Inicial - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Amor Amarillo",
+        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Rombos (Un Cuarto Lleno de Rombos)",
+      "url": "https://open.spotify.com/track/3Y1HyEI4ommUvkLuhMm7Sn"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Vida Modelo",
+        "url": "https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ"
+      },
+      "artists": [
+        {
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Vida Modelo",
+      "url": "https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -235,38 +235,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
-      },
-      "artists": [
-        {
-          "name": "Juana La Loca",
-          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Agujeros Negros",
-      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Tarde de Cansancio",
-      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Suficiente",
         "url": "https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI"
       },
@@ -283,18 +251,34 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Amor Amarillo",
-        "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
+        "name": "Emporio Bizarro",
+        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
         }
       ],
-      "duration_ms": 263093,
-      "name": "Rombos (Un Cuarto Lleno de Rombos)",
-      "url": "https://open.spotify.com/track/3Y1HyEI4ommUvkLuhMm7Sn"
+      "duration_ms": 169026,
+      "name": "Desaparecedor",
+      "url": "https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
+      },
+      "artists": [
+        {
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Tarde de Cansancio",
+      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -347,22 +331,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Emporio Bizarro",
-        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
-      },
-      "artists": [
-        {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "Microman",
-      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Los 7 Delfines",
         "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
@@ -375,6 +343,58 @@
       "duration_ms": 228466,
       "name": "Post Crucifixion",
       "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Colores Santos",
+        "url": "https://open.spotify.com/album/4erCMQs14Tol0V6EyaR5du"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        },
+        {
+          "name": "Daniel Melero",
+          "url": "https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY"
+        }
+      ],
+      "duration_ms": 262386,
+      "name": "Marea de Venus",
+      "url": "https://open.spotify.com/track/7okWsNhHC4LEaK9jqnSK9V"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O"
+      },
+      "artists": [
+        {
+          "name": "Juana La Loca",
+          "url": "https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "Agujeros Negros",
+      "url": "https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Emporio Bizarro",
+        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
+      },
+      "artists": [
+        {
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "Microman",
+      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -424,25 +444,9 @@
           "url": "https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY"
         }
       ],
-      "duration_ms": 262386,
-      "name": "Marea de Venus",
-      "url": "https://open.spotify.com/track/7okWsNhHC4LEaK9jqnSK9V"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 y Yo Sigo Volando",
-        "url": "https://open.spotify.com/album/6oCgx5mp3ZK7AbMKmMLBUz"
-      },
-      "artists": [
-        {
-          "name": "Jaime Sin Tierra",
-          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Marmota",
-      "url": "https://open.spotify.com/track/2uBslBzniJrOGbVBuUeFjB"
+      "duration_ms": 323640,
+      "name": "Pudo Ser",
+      "url": "https://open.spotify.com/track/26lEheREspOWbnNdHyXYp9"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -495,22 +499,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Los 7 Delfines",
-        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
-      },
-      "artists": [
-        {
-          "name": "Los Siete Delfines",
-          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
-        }
-      ],
-      "duration_ms": 318906,
-      "name": "Travesia",
-      "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Trance Zomba",
         "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
       },
@@ -527,6 +515,38 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "Los 7 Delfines",
+        "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
+      },
+      "artists": [
+        {
+          "name": "Los Siete Delfines",
+          "url": "https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h"
+        }
+      ],
+      "duration_ms": 318906,
+      "name": "Travesia",
+      "url": "https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "El Avi\u00f3n Ya Se Estrell\u00f3 y Yo Sigo Volando",
+        "url": "https://open.spotify.com/album/6oCgx5mp3ZK7AbMKmMLBUz"
+      },
+      "artists": [
+        {
+          "name": "Jaime Sin Tierra",
+          "url": "https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Marmota",
+      "url": "https://open.spotify.com/track/2uBslBzniJrOGbVBuUeFjB"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "Manzana De Metal",
         "url": "https://open.spotify.com/album/3NzIeLgS5p4zsUe57ySoPj"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 263187,
       "name": "Atl\u00e1ntico",
       "url": "https://open.spotify.com/track/5SBHe1oW1CsVw1hQp28bTy"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Colores Santos",
-        "url": "https://open.spotify.com/album/4erCMQs14Tol0V6EyaR5du"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        },
-        {
-          "name": "Daniel Melero",
-          "url": "https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY"
-        }
-      ],
-      "duration_ms": 323640,
-      "name": "Pudo Ser",
-      "url": "https://open.spotify.com/track/26lEheREspOWbnNdHyXYp9"
     },
     {
       "added_at": "2024-03-25 13:44:27",

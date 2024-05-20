@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 54592,
+  "num_followers": 54688,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "AWA",
-        "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Monica Blaire",
-          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
-        }
-      ],
-      "duration_ms": 239995,
-      "name": "AWA - Ralf GUM Vocal Mix Edit",
-      "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Ratata",
         "url": "https://open.spotify.com/album/4lmS4HsuJ9TgUa7AMLaDV0"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 350892,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/2lMTb7VeVVkQrhIz8uS8dP"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "AWA",
+        "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Monica Blaire",
+          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
+        }
+      ],
+      "duration_ms": 239995,
+      "name": "AWA - Ralf GUM Vocal Mix Edit",
+      "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Timeless Tales Ep",
-        "url": "https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug"
-      },
-      "artists": [
-        {
-          "name": "The AquaBlendz",
-          "url": "https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA"
-        }
-      ],
-      "duration_ms": 398275,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Breathe (Remixes)",
         "url": "https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "Timeless Tales Ep",
+        "url": "https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug"
+      },
+      "artists": [
+        {
+          "name": "The AquaBlendz",
+          "url": "https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA"
+        }
+      ],
+      "duration_ms": 398275,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/5GuOUlz4kPJxWmKFcCz3B9"
       },
@@ -551,26 +551,6 @@
       "duration_ms": 198000,
       "name": "Signs",
       "url": "https://open.spotify.com/track/0WLa7Q0oy1MftXRRfDVnMK"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "Dlali Number",
-        "url": "https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR"
-      },
-      "artists": [
-        {
-          "name": "BusyExplore",
-          "url": "https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99"
-        },
-        {
-          "name": "InQfive",
-          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
-        }
-      ],
-      "duration_ms": 281606,
-      "name": "Dlali Namba - Original Mix",
-      "url": "https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -595,6 +575,26 @@
       "duration_ms": 412631,
       "name": "The Whole Thing",
       "url": "https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Dlali Number",
+        "url": "https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR"
+      },
+      "artists": [
+        {
+          "name": "BusyExplore",
+          "url": "https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99"
+        },
+        {
+          "name": "InQfive",
+          "url": "https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a"
+        }
+      ],
+      "duration_ms": 281606,
+      "name": "Dlali Namba - Original Mix",
+      "url": "https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -635,30 +635,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Awesome God",
-        "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "Bee bar",
-          "url": "https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Nkaoza EP",
         "url": "https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 325929,
       "name": "Take Me Somewhere",
       "url": "https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Awesome God",
+        "url": "https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Bee bar",
+          "url": "https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "Red Lips Swaying Hips",
+        "url": "https://open.spotify.com/album/3zHMR9Ut0Sak00i5N0P0tp"
+      },
+      "artists": [
+        {
+          "name": "M.Patrick",
+          "url": "https://open.spotify.com/artist/0E0Ox0tBXwr7PLrm6NqDmv"
+        }
+      ],
+      "duration_ms": 431673,
+      "name": "Red Lips Swaying Hips",
+      "url": "https://open.spotify.com/track/7nKMiA8RYhSfdmsvcow86m"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Journey To the Making",
         "url": "https://open.spotify.com/album/7LQYztLMakwrD7UDMqYqvs"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 384586,
       "name": "Emadongeni",
       "url": "https://open.spotify.com/track/4NDEwkrd6uYUS6QaQqCPrV"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "Red Lips Swaying Hips",
-        "url": "https://open.spotify.com/album/3zHMR9Ut0Sak00i5N0P0tp"
-      },
-      "artists": [
-        {
-          "name": "M.Patrick",
-          "url": "https://open.spotify.com/artist/0E0Ox0tBXwr7PLrm6NqDmv"
-        }
-      ],
-      "duration_ms": 431673,
-      "name": "Red Lips Swaying Hips",
-      "url": "https://open.spotify.com/track/7nKMiA8RYhSfdmsvcow86m"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -883,26 +883,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Oh Mdali",
-        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
+        "name": "(+27) 21",
+        "url": "https://open.spotify.com/album/4deOGdgA3JOxxz48zbpiW5"
       },
       "artists": [
         {
-          "name": "Kaylow",
-          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
-        },
-        {
-          "name": "Playmaster & Smallistic",
-          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
-        },
-        {
-          "name": "Malungelo",
-          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
+          "name": "Fynn",
+          "url": "https://open.spotify.com/artist/4MWUQj6W31jtQXUNoKYWTB"
         }
       ],
-      "duration_ms": 361078,
-      "name": "Oh Mdali",
-      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
+      "duration_ms": 463728,
+      "name": "(+27) 21",
+      "url": "https://open.spotify.com/track/7yQzFKD02szd91RgeLxkxX"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -943,34 +935,26 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "(+27) 21",
-        "url": "https://open.spotify.com/album/4deOGdgA3JOxxz48zbpiW5"
+        "name": "Oh Mdali",
+        "url": "https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs"
       },
       "artists": [
         {
-          "name": "Fynn",
-          "url": "https://open.spotify.com/artist/4MWUQj6W31jtQXUNoKYWTB"
-        }
-      ],
-      "duration_ms": 463728,
-      "name": "(+27) 21",
-      "url": "https://open.spotify.com/track/7yQzFKD02szd91RgeLxkxX"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "Deep Within",
-        "url": "https://open.spotify.com/album/3AwIbt10sltXXgVPBJKYCi"
-      },
-      "artists": [
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        },
         {
-          "name": "Tebza De SouL",
-          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+          "name": "Playmaster & Smallistic",
+          "url": "https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC"
+        },
+        {
+          "name": "Malungelo",
+          "url": "https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4"
         }
       ],
-      "duration_ms": 436981,
-      "name": "Deep Within",
-      "url": "https://open.spotify.com/track/5I2QPKhv9d28heg8tzlvMt"
+      "duration_ms": 361078,
+      "name": "Oh Mdali",
+      "url": "https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 439980,
       "name": "Make My Heart Sing",
       "url": "https://open.spotify.com/track/4KTui0DbAetpOjMVRQqnhl"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Deep Within",
+        "url": "https://open.spotify.com/album/3AwIbt10sltXXgVPBJKYCi"
+      },
+      "artists": [
+        {
+          "name": "Tebza De SouL",
+          "url": "https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG"
+        }
+      ],
+      "duration_ms": 436981,
+      "name": "Deep Within",
+      "url": "https://open.spotify.com/track/5I2QPKhv9d28heg8tzlvMt"
     }
   ],
   "unique_name": "Deep House Session",

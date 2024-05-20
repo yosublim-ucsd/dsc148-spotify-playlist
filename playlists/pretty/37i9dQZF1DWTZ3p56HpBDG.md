@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Skrillex, Ahadadream, Priya Ragu
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,135 likes - 57 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,144 likes - 57 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 53 | [Good Love 2.0](https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:54 |
 | 54 | [Fingertips](https://open.spotify.com/track/6PmwtLi01pMTkQvk4Hz7xc) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5AuoX8sA4NWGHO20Y47Fr3) | 4:15 |
 | 55 | [Raavanan](https://open.spotify.com/track/5MXh9jcDFvbIEXscQyjQSX) | [Rolex Rasathy](https://open.spotify.com/artist/2N7p9fqrrUSQbfAlCqPTPY), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu) | [Raavanan](https://open.spotify.com/album/4Bz5Mfp1ond3RCJGRdgOBz) | 3:14 |
-| 56 | [DESI TRILL](https://open.spotify.com/track/3OgRRx4Lkm5TasN179rdZh) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [DESI TRILL](https://open.spotify.com/album/4895fLdXIYE9fg9YohL1eW) | 2:38 |
+| 56 | [DESI TRILL \(feat\. Chip & Malkit Singh\)](https://open.spotify.com/track/3OgRRx4Lkm5TasN179rdZh) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X) | [DESI TRILL \(feat\. Chip & Malkit Singh\)](https://open.spotify.com/album/4895fLdXIYE9fg9YohL1eW) | 2:38 |
 | 57 | [Temptation](https://open.spotify.com/track/0ulct3cASnhGvaGhFIuIyZ) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Temptation](https://open.spotify.com/album/4EWVYi8lXPirUUeVdHQCy9) | 4:08 |
 
 Snapshot ID: `ZhzycQAAAAA6JlwFOYcyloMN1PZnePwD`

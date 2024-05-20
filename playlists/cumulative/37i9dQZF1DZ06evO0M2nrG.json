@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
+  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
   "name": "This Is Mike Bah\u00eda",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 156521,
       "name": "Enfocado",
       "url": "https://open.spotify.com/track/0FvENwVY1jcqwyVjM367Mo"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 188412,
       "name": "La Falta",
       "url": "https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 166400,
       "name": "La M\u00eda",
       "url": "https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 201040,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"

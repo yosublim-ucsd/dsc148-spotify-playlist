@@ -1053,6 +1053,28 @@
     },
     {
       "album": {
+        "name": "Fear Song (From \"Devara Part 1\") [Telugu]",
+        "url": "https://open.spotify.com/album/1OO05SXoc1JTyvGbxi75Pm"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195064,
+      "name": "Fear Song (From \"Devara Part 1\") [Telugu]",
+      "url": "https://open.spotify.com/track/6b2WJDzGt5X8dYfpkWtvXW"
+    },
+    {
+      "album": {
         "name": "Agnyaathavaasi",
         "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
       },
@@ -3650,7 +3672,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 182434,
       "name": "Yaalo Yaalaa",
       "url": "https://open.spotify.com/track/5BUtT8DGziwD6l9tA7FjJu"

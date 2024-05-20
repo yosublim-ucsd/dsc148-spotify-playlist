@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1KXgbK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1KXgbK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1KXgbK)
 
-### [This Is ドリー・パートン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KXgbK)
+### [This Is Dolly Parton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KXgbK)
 
-> This is ドリー・パートン。アーティストの代表曲をひとつのプレイリストに。
+> This is Dolly Parton\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 10 min
 

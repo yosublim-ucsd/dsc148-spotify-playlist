@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Syria.",
-  "num_followers": 49093,
+  "num_followers": 49112,
   "original_name": "Syria Sounds",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
-        "name": "SAWWAN",
-        "url": "https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF"
-      },
-      "artists": [
-        {
-          "name": "Bu Kolthoum",
-          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "SAWWAN",
-      "url": "https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0"
-    },
-    {
-      "added_at": "2023-04-01 01:27:59",
-      "album": {
         "name": "Hada Omri",
         "url": "https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 210274,
       "name": "Hada Omri",
       "url": "https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA"
+    },
+    {
+      "added_at": "2023-04-01 01:27:59",
+      "album": {
+        "name": "SAWWAN",
+        "url": "https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF"
+      },
+      "artists": [
+        {
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "SAWWAN",
+      "url": "https://open.spotify.com/track/5jubtTxcLaw8R8xGWCdlG0"
     },
     {
       "added_at": "2023-04-01 01:27:59",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
-        "name": "Wall\u00e9",
-        "url": "https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3"
-      },
-      "artists": [
-        {
-          "name": "Bu Kolthoum",
-          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Wall\u00e9",
-      "url": "https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd"
-    },
-    {
-      "added_at": "2023-04-01 01:27:59",
-      "album": {
         "name": "Ba'd Elly Saar",
         "url": "https://open.spotify.com/album/3smQLsJJVePTMMMcWrMFMG"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
+        "name": "Wall\u00e9",
+        "url": "https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3"
+      },
+      "artists": [
+        {
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Wall\u00e9",
+      "url": "https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd"
+    },
+    {
+      "added_at": "2023-04-01 01:27:59",
+      "album": {
         "name": "Metwadaa",
         "url": "https://open.spotify.com/album/0rpKka1NxgkYEvogBStAj2"
       },
@@ -379,26 +379,18 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
-        "name": "You Make Me Laugh",
-        "url": "https://open.spotify.com/album/1gHpXCOHGd6Fy59HY5mi6Q"
+        "name": "Ghanni",
+        "url": "https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF"
       },
       "artists": [
         {
-          "name": "Omar Offendum",
-          "url": "https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA"
-        },
-        {
-          "name": "Thanks Joey",
-          "url": "https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk"
-        },
-        {
-          "name": "El Bles",
-          "url": "https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL"
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
         }
       ],
-      "duration_ms": 161718,
-      "name": "You Make Me Laugh",
-      "url": "https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew"
+      "duration_ms": 211893,
+      "name": "Ghanni",
+      "url": "https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs"
     },
     {
       "added_at": "2023-04-01 01:27:59",
@@ -435,34 +427,26 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
-        "name": "El'nayzak",
-        "url": "https://open.spotify.com/album/6fvtnyGSzS7gcAiPB4WDo9"
+        "name": "You Make Me Laugh",
+        "url": "https://open.spotify.com/album/1gHpXCOHGd6Fy59HY5mi6Q"
       },
       "artists": [
         {
-          "name": "Bu Kolthoum",
-          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "El'nayzak",
-      "url": "https://open.spotify.com/track/3vzZaVTN9XJpp1XKVDBGpg"
-    },
-    {
-      "added_at": "2023-04-01 01:27:59",
-      "album": {
-        "name": "Ghanni",
-        "url": "https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF"
-      },
-      "artists": [
+          "name": "Omar Offendum",
+          "url": "https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA"
+        },
         {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+          "name": "Thanks Joey",
+          "url": "https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk"
+        },
+        {
+          "name": "El Bles",
+          "url": "https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Ghanni",
-      "url": "https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs"
+      "duration_ms": 161718,
+      "name": "You Make Me Laugh",
+      "url": "https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew"
     },
     {
       "added_at": "2023-04-01 01:27:59",
@@ -483,18 +467,34 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
-        "name": "Mktifi Bhali",
-        "url": "https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ"
+        "name": "El'nayzak",
+        "url": "https://open.spotify.com/album/6fvtnyGSzS7gcAiPB4WDo9"
       },
       "artists": [
         {
-          "name": "Taim Saleh",
-          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
         }
       ],
-      "duration_ms": 257661,
-      "name": "Mktifi Bhali",
-      "url": "https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq"
+      "duration_ms": 136842,
+      "name": "El'nayzak",
+      "url": "https://open.spotify.com/track/3vzZaVTN9XJpp1XKVDBGpg"
+    },
+    {
+      "added_at": "2023-04-01 01:27:59",
+      "album": {
+        "name": "Sada Mawalena",
+        "url": "https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Sada Mawalena",
+      "url": "https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj"
     },
     {
       "added_at": "2023-04-01 01:27:59",
@@ -511,6 +511,38 @@
       "duration_ms": 287990,
       "name": "Al Tayr",
       "url": "https://open.spotify.com/track/3KtalxQzxUlkRVeBWsjEii"
+    },
+    {
+      "added_at": "2023-04-01 01:27:59",
+      "album": {
+        "name": "Mktifi Bhali",
+        "url": "https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ"
+      },
+      "artists": [
+        {
+          "name": "Taim Saleh",
+          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
+        }
+      ],
+      "duration_ms": 257661,
+      "name": "Mktifi Bhali",
+      "url": "https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq"
+    },
+    {
+      "added_at": "2023-04-01 01:27:59",
+      "album": {
+        "name": "Wala Fuse (Special Version)",
+        "url": "https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI"
+      },
+      "artists": [
+        {
+          "name": "Assasi",
+          "url": "https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz"
+        }
+      ],
+      "duration_ms": 187075,
+      "name": "Wala Fuse - Special Version",
+      "url": "https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us"
     },
     {
       "added_at": "2023-04-01 01:27:59",
@@ -579,22 +611,6 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
-        "name": "Sada Mawalena",
-        "url": "https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Sada Mawalena",
-      "url": "https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj"
-    },
-    {
-      "added_at": "2023-04-01 01:27:59",
-      "album": {
         "name": "Ana Lamma Bheb",
         "url": "https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 203987,
       "name": "Ana Lamma Bheb",
       "url": "https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ"
-    },
-    {
-      "added_at": "2023-04-01 01:27:59",
-      "album": {
-        "name": "Wala Fuse (Special Version)",
-        "url": "https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI"
-      },
-      "artists": [
-        {
-          "name": "Assasi",
-          "url": "https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz"
-        }
-      ],
-      "duration_ms": 187075,
-      "name": "Wala Fuse - Special Version",
-      "url": "https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us"
     },
     {
       "added_at": "2023-04-01 01:27:59",
@@ -755,18 +755,34 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
-        "name": "Mahlaki",
-        "url": "https://open.spotify.com/album/2JBUKhBEh1KTFRUzS4kaMx"
+        "name": "Abu Dub",
+        "url": "https://open.spotify.com/album/6VcIiBjQaMqCJxNx9Nqq1N"
       },
       "artists": [
         {
-          "name": "Hussein Al Deek",
-          "url": "https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs"
+          "name": "Jamila & The Other Heroes",
+          "url": "https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe"
         }
       ],
-      "duration_ms": 254997,
-      "name": "Mahlaki",
-      "url": "https://open.spotify.com/track/5u7fv6kikvIUdtlQ2xqDu0"
+      "duration_ms": 289201,
+      "name": "Abu Dub",
+      "url": "https://open.spotify.com/track/4PYYYrvbQZFd0aK8yKeYby"
+    },
+    {
+      "added_at": "2023-04-01 01:27:59",
+      "album": {
+        "name": "Fi Shi Ghalat",
+        "url": "https://open.spotify.com/album/1XStG3Zk6uhhqBJ4SduBeE"
+      },
+      "artists": [
+        {
+          "name": "Hazem Sharif",
+          "url": "https://open.spotify.com/artist/7rooLEqVQSdhPAG6QDbg2S"
+        }
+      ],
+      "duration_ms": 215216,
+      "name": "Fi Shi Ghalat",
+      "url": "https://open.spotify.com/track/5wjkLHD9HsO9HT8HNy3Pcg"
     },
     {
       "added_at": "2023-04-01 01:27:59",
@@ -787,34 +803,18 @@
     {
       "added_at": "2023-04-01 01:27:59",
       "album": {
-        "name": "Bhebbik Men Baad Allah",
-        "url": "https://open.spotify.com/album/04si7VoDyePF14eWHbhG9k"
+        "name": "Mahlaki",
+        "url": "https://open.spotify.com/album/2JBUKhBEh1KTFRUzS4kaMx"
       },
       "artists": [
         {
-          "name": "Anas Kareem",
-          "url": "https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS"
+          "name": "Hussein Al Deek",
+          "url": "https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs"
         }
       ],
-      "duration_ms": 257724,
-      "name": "Bhebbik Men Baad Allah",
-      "url": "https://open.spotify.com/track/4Sqi8djOYFInf9UHpacniN"
-    },
-    {
-      "added_at": "2023-04-01 01:27:59",
-      "album": {
-        "name": "Abu Dub",
-        "url": "https://open.spotify.com/album/6VcIiBjQaMqCJxNx9Nqq1N"
-      },
-      "artists": [
-        {
-          "name": "Jamila & The Other Heroes",
-          "url": "https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe"
-        }
-      ],
-      "duration_ms": 289201,
-      "name": "Abu Dub",
-      "url": "https://open.spotify.com/track/4PYYYrvbQZFd0aK8yKeYby"
+      "duration_ms": 254997,
+      "name": "Mahlaki",
+      "url": "https://open.spotify.com/track/5u7fv6kikvIUdtlQ2xqDu0"
     }
   ],
   "unique_name": "Syria Sounds",

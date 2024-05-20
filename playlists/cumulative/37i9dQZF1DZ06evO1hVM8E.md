@@ -2,7 +2,7 @@
 
 ### [This Is La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hVM8E)
 
-> This Is La Original Banda El Limón de Salvador Lizárraga\. Los temas esenciales, todos en una lista.
+> This is: La Original Banda El Limón de Salvador Lizárraga\. Alle wichtigen Tracks in einer Playlist.
 
 115 songs - 5 hr 57 min
 

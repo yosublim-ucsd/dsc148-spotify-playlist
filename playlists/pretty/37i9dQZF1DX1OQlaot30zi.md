@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Simba La Rue, Salmo, Noyz Narcos, Artie 5ive e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,244 likes - 95 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,266 likes - 95 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

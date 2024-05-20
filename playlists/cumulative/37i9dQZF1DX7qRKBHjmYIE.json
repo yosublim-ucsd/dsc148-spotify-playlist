@@ -7990,7 +7990,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 150916,
       "name": "Mi Onda",
       "url": "https://open.spotify.com/track/3Y6yikGRZOjA2SeDccoe6Z"
@@ -10082,6 +10082,28 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "album": {
+        "name": "Picor",
+        "url": "https://open.spotify.com/album/7a6t6jn2rm43eY8FOYXVHW"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "Picor",
+      "url": "https://open.spotify.com/track/1CL4KsBWs2vm3xPlrr7flj"
     },
     {
       "album": {

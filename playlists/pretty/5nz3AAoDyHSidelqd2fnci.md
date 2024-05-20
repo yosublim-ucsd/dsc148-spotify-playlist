@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 42 min 1 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Seed](https://open.spotify.com/track/5hEP0OCjrNcz81hfLeuSNV) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Original Album Classics](https://open.spotify.com/album/1A43UjWWhahOC0pViqCuaF) | 5:54 |
-| 2 | [Crimson Day](https://open.spotify.com/track/28JSZ4KyzDXnnC2XnJX1db) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:57 |
-| 3 | [Sun Sets](https://open.spotify.com/track/6aPhXa3KCjTgjp4SSkpHdm) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Sun Sets](https://open.spotify.com/album/2An0Q8iHL4kb3AfO09Y0so) | 2:58 |
-| 4 | [Run for a Fall \- Orchestral Version](https://open.spotify.com/track/75fB8YzJxfgEMN0D2aWk5X) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 6:28 |
-| 5 | [Yoshi's Island](https://open.spotify.com/track/6ihkzzUSEP52s29NLdIXYv) | [3000m](https://open.spotify.com/artist/0YEn7M93t6cNjEaupEsa1r) | [Super Mario World \(Original Game Soundtrack\)](https://open.spotify.com/album/5koBIXFGpUrroTwJPMYLSk) | 0:42 |
-| 6 | [My Dogs](https://open.spotify.com/track/0kB7iVkFzXpksZcHN1KPoc) | [Maxin Passion](https://open.spotify.com/artist/1Aidz3aAdIWDsnem9cfT2c) | [My Dogs](https://open.spotify.com/album/5PIft1LQ9QV65pf16ZnlIm) | 1:44 |
-| 7 | [Good Golly, Miss Molly](https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:09 |
-| 8 | [CALMA](https://open.spotify.com/track/6GHN1yz4xoCLnlPuG80lFh) | [Emiliano Athie](https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr) | [CALMA](https://open.spotify.com/album/2Qo5wqgAGGIRMRxPMHTxD3) | 4:04 |
-| 9 | [Courage The Cowardly Dog](https://open.spotify.com/track/0qtynlyuOKJI6SQ5Pe9IFo) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [Speed Dial](https://open.spotify.com/album/5CuMwbjasxbqS7YkrwUark) | 0:58 |
-| 10 | [Grandes Pasos](https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Edición Especial](https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ) | 3:38 |
-| 11 | [Lorelei](https://open.spotify.com/track/2ipjxno6sXhDjXUWl1iRmE) | [Cultus Black](https://open.spotify.com/artist/0ewxVjVDEPkyLPaOQCA937) | [Cultus Black](https://open.spotify.com/album/33K1p1q1b07UM0MIOt1Scs) | 4:44 |
-| 12 | [Be Near Me](https://open.spotify.com/track/1l3fRzoUngJr6hSMIT1Hfq) | [ABC](https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh) | [How To Be A Zillionaire](https://open.spotify.com/album/3XV87qO2zZj6o7q9rgYXxE) | 3:39 |
+| 1 | [Crazy Train](https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard of Ozz \(Expanded Edition\)](https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH) | 4:56 |
+| 2 | [Ocean Beat](https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 4:32 |
+| 3 | [Planets](https://open.spotify.com/track/4BqYQ1WQ0GFE1xmIaduKLi) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:56 |
+| 4 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 |
+| 5 | [One Wish Away](https://open.spotify.com/track/26xSUP0HljUIRW2UIRR7yz) | [Katra](https://open.spotify.com/artist/6cOUrOgpVQFlmvVJ4wVb1v) | [Out of Ashes](https://open.spotify.com/album/3YEYucSn7AEwWx6N1v4ayW) | 4:09 |
+| 6 | [Marihuana](https://open.spotify.com/track/3Yg1b0yhGhzlY5m0mw4FB6) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 2:14 |
+| 7 | [The New Awakening](https://open.spotify.com/track/75ekIYzgzJNza1BX2xDUGI) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:30 |
+| 8 | [Man with Two Hearts](https://open.spotify.com/track/1nAHeNRcYlFqVicmrsfBlN) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work](https://open.spotify.com/album/6rp1J7P9VhTZWb1CXfSucI) | 3:54 |
+| 9 | [Warriors of the World United](https://open.spotify.com/track/02zclmxRto3GAUBdtV7D8i) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Warriors of the World](https://open.spotify.com/album/4ncHBqf9da4Y3qosIxnrnJ) | 5:51 |
+| 10 | [2009](https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H) | [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [2009](https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk) | 2:22 |
+| 11 | [Is This Love](https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:50 |
+| 12 | [crush](https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [crush](https://open.spotify.com/album/5ARqIQFQKhOkOtELUq2ACK) | 2:26 |
 
-Snapshot ID: `AAAAd2EUTHUXy3Rk8PThQ3C3Cv5/ftoP`
+Snapshot ID: `AAAAeDH5r9eXS7TgXkrwbV5tB5Ougbm7`

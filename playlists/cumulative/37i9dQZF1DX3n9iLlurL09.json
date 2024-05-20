@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 222973,
       "name": "Doused",
       "url": "https://open.spotify.com/track/3vcEwC6bK7cmnHjsiFUdmr"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 258959,
       "name": "Man on Fire",
       "url": "https://open.spotify.com/track/5GFfRpAb26A57ao6nxjIIS"
@@ -2846,6 +2846,24 @@
       "duration_ms": 217320,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/3xqxETvPg43KWP0HOGiOmu"
+    },
+    {
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4VPZX5qq0mujdIrVhLFROu"
     },
     {
       "album": {

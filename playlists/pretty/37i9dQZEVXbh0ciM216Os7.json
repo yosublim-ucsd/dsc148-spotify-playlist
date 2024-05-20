@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADUTnAJ7/aWXbu6Ugn6ATNz",
+  "snapshot_id": "AAAAAAAAAADNVUcNY+ykFk84taLafz39",
   "tracks": [
     {
       "added_at": "2024-05-17 04:00:00",
@@ -123,22 +123,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/4qpuHdwINuEp8DfHsEM1yt"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 213566,
-      "name": "3:AM (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/37I1T0ypcJJXareD7KgcfV"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -175,38 +171,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/4qpuHdwINuEp8DfHsEM1yt"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Pair Of Hammers",
-        "url": "https://open.spotify.com/album/3x2nnUuUhnQJaSESvRUFQm"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 156136,
-      "name": "Pair Of Hammers",
-      "url": "https://open.spotify.com/track/45gkHRnetn0FJWLB6rFtv1"
+      "duration_ms": 213566,
+      "name": "3:AM (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/37I1T0ypcJJXareD7KgcfV"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -231,6 +211,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Pair Of Hammers",
+        "url": "https://open.spotify.com/album/3x2nnUuUhnQJaSESvRUFQm"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 156136,
+      "name": "Pair Of Hammers",
+      "url": "https://open.spotify.com/track/45gkHRnetn0FJWLB6rFtv1"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Devil Inside (12\" Mix)",
         "url": "https://open.spotify.com/album/6jtZefm9Qkmr0Ry8GLx0NA"
       },
@@ -243,6 +243,42 @@
       "duration_ms": 390213,
       "name": "Devil Inside - 12\" Mix",
       "url": "https://open.spotify.com/track/3exSAvLVRkjjphLziPZoEi"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "One Cry (feat. Rosa Linn)",
+      "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Mid Spiral: Chaos",
+        "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 188761,
+      "name": "Last Laugh",
+      "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -271,8 +307,8 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Enter the swarm",
-        "url": "https://open.spotify.com/album/62ElD2u33xgs9pAz9wyFsT"
+        "name": "Reign overall",
+        "url": "https://open.spotify.com/album/7IgJoCzu9LovUdspvpSa9G"
       },
       "artists": [
         {
@@ -288,25 +324,33 @@
           "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Enter the swarm",
-      "url": "https://open.spotify.com/track/5qKhOdwInRdhmJ86hBjkRe"
+      "duration_ms": 215193,
+      "name": "Reign overall",
+      "url": "https://open.spotify.com/track/6EuTNEFiSvBESrRyInKHdU"
     },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Mid Spiral: Chaos",
-        "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
+        "name": "World is yours",
+        "url": "https://open.spotify.com/album/1MbiyCoKA8bZutlJpmOKeM"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "DR. Moriarity",
+          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
+        },
+        {
+          "name": "True2kali",
+          "url": "https://open.spotify.com/artist/2Pkv7LL3z02zE0nFnlmGkG"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
         }
       ],
-      "duration_ms": 188761,
-      "name": "Last Laugh",
-      "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
+      "duration_ms": 228127,
+      "name": "World is yours",
+      "url": "https://open.spotify.com/track/7tTyBDqBDLoOb5naKaM8Mm"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -327,26 +371,6 @@
       "duration_ms": 218666,
       "name": "where is your pride?",
       "url": "https://open.spotify.com/track/4oeUEps9lJueoPlVDwTwFq"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Rx",
-        "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "One Cry (feat. Rosa Linn)",
-      "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -483,22 +507,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Ship of Fools (Live at University of Nevada, Reno, NV, 5/12/74)",
-        "url": "https://open.spotify.com/album/3xpzDCDc3xbxds8j1YaqH7"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 375853,
-      "name": "Ship of Fools - Live at University of Nevada, Reno, NV, 5/12/74",
-      "url": "https://open.spotify.com/track/64BahXhOSEBLlwQymfa4S9"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Organized Chaos",
         "url": "https://open.spotify.com/album/1Df27BVXsW6YBBblbdNBNa"
       },
@@ -511,6 +519,22 @@
       "duration_ms": 175520,
       "name": "Organized Chaos",
       "url": "https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Ship of Fools (Live at University of Nevada, Reno, NV, 5/12/74)",
+        "url": "https://open.spotify.com/album/3xpzDCDc3xbxds8j1YaqH7"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 375853,
+      "name": "Ship of Fools - Live at University of Nevada, Reno, NV, 5/12/74",
+      "url": "https://open.spotify.com/track/64BahXhOSEBLlwQymfa4S9"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -639,30 +663,6 @@
       "duration_ms": 285122,
       "name": "Boomer Rang",
       "url": "https://open.spotify.com/track/0E9M1YDzuSKcjEqcJza3YU"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Dream Cruiser Ambitions",
-        "url": "https://open.spotify.com/album/0XK3eYXnebncRGUAlGwSEA"
-      },
-      "artists": [
-        {
-          "name": "Frank Vibes",
-          "url": "https://open.spotify.com/artist/66VFh47G2r7iczBWvO9oBI"
-        },
-        {
-          "name": "Average P.I.T.",
-          "url": "https://open.spotify.com/artist/2CNbvi3n0rNRXllgDI7F2o"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 163474,
-      "name": "By The Flock",
-      "url": "https://open.spotify.com/track/05S7e9WkrfGNMqeNgL9eJK"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "D'o\u00f9 je viens",
-        "url": "https://open.spotify.com/album/3wdFp7TmiiUkKllqUl1pUd"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9phaz",
-          "url": "https://open.spotify.com/artist/4b97ZILz3BoTV7ACzCdOjJ"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 175445,
-      "name": "Caroline 2.0",
-      "url": "https://open.spotify.com/track/4Exc4h0GYt7EHGe1apM5WO"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Love & Service",
         "url": "https://open.spotify.com/album/4VqbU9p2GFvSROUxEG585D"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 244043,
       "name": "Manik",
       "url": "https://open.spotify.com/track/3ptOM6ofoPCbS4SowH8zd4"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "D'o\u00f9 je viens",
+        "url": "https://open.spotify.com/album/3wdFp7TmiiUkKllqUl1pUd"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9phaz",
+          "url": "https://open.spotify.com/artist/4b97ZILz3BoTV7ACzCdOjJ"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 175445,
+      "name": "Caroline 2.0",
+      "url": "https://open.spotify.com/track/4Exc4h0GYt7EHGe1apM5WO"
     },
     {
       "added_at": "2024-05-17 04:00:00",

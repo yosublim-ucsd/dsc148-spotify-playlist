@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Incidenti Di Percorso",
+        "url": "https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9"
+      },
+      "artists": [
+        {
+          "name": "Claudym",
+          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202941,
+      "name": "Cose che si dicono",
+      "url": "https://open.spotify.com/track/0NITryefiKERw6elK9pvnU"
+    },
+    {
+      "album": {
         "name": "ANATOMIA CRISTALLO",
         "url": "https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv"
       },

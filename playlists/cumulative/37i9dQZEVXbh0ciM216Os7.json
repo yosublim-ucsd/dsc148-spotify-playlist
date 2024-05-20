@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 163474,
       "name": "By The Flock",
       "url": "https://open.spotify.com/track/05S7e9WkrfGNMqeNgL9eJK"
@@ -7570,7 +7570,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 262000,
       "name": "Enter the swarm",
       "url": "https://open.spotify.com/track/5qKhOdwInRdhmJ86hBjkRe"
@@ -21243,6 +21243,32 @@
     },
     {
       "album": {
+        "name": "Reign overall",
+        "url": "https://open.spotify.com/album/7IgJoCzu9LovUdspvpSa9G"
+      },
+      "artists": [
+        {
+          "name": "DR. Moriarity",
+          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
+        },
+        {
+          "name": "True2kali",
+          "url": "https://open.spotify.com/artist/2Pkv7LL3z02zE0nFnlmGkG"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215193,
+      "name": "Reign overall",
+      "url": "https://open.spotify.com/track/6EuTNEFiSvBESrRyInKHdU"
+    },
+    {
+      "album": {
         "name": "Relax (Metal Version)",
         "url": "https://open.spotify.com/album/6WfT9Gp4xHqLHONzoMMAar"
       },
@@ -29784,6 +29810,32 @@
       "duration_ms": 182068,
       "name": "World",
       "url": "https://open.spotify.com/track/7jGI5qvcVypacai13L88DT"
+    },
+    {
+      "album": {
+        "name": "World is yours",
+        "url": "https://open.spotify.com/album/1MbiyCoKA8bZutlJpmOKeM"
+      },
+      "artists": [
+        {
+          "name": "DR. Moriarity",
+          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
+        },
+        {
+          "name": "True2kali",
+          "url": "https://open.spotify.com/artist/2Pkv7LL3z02zE0nFnlmGkG"
+        },
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228127,
+      "name": "World is yours",
+      "url": "https://open.spotify.com/track/7tTyBDqBDLoOb5naKaM8Mm"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is El Tri. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 131717,
+  "description": "This Is El Tri. Los temas esenciales, todos en una lista.",
+  "num_followers": 131758,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaeAAAAAADu5N4/aBzQRCzvCkn9i+Ry",
+  "snapshot_id": "ZkfvgAAAAADJT95kUbJTRZYwZtxcWbnm",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 342520,
       "name": "Triste canci\u00f3n",
       "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Pobre so\u00f1ador",
-      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
     },
     {
       "added_at": null,
@@ -763,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoyos en la bolsa",
         "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
@@ -795,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 263066,
-      "name": "El rey",
-      "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
       },
@@ -820,25 +772,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 336080,
-      "name": "Ni\u00f1o sin amor - Live",
-      "url": "https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Ya estamos hartos",
-      "url": "https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc"
+      "duration_ms": 363146,
+      "name": "Chavo de onda - Live",
+      "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
     },
     {
       "added_at": null,
@@ -859,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nezayork",
-        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
       "artists": [
         {
@@ -868,9 +804,25 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 154005,
-      "name": "Nezayork",
-      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
+      "duration_ms": 263066,
+      "name": "El rey",
+      "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Ya estamos hartos",
+      "url": "https://open.spotify.com/track/221Kj107g9kqy0bNOk6uKc"
     },
     {
       "added_at": null,
@@ -884,9 +836,25 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 363146,
-      "name": "Chavo de onda - Live",
-      "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
+      "duration_ms": 336080,
+      "name": "Ni\u00f1o sin amor - Live",
+      "url": "https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nezayork",
+        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 154005,
+      "name": "Nezayork",
+      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
     },
     {
       "added_at": null,
@@ -911,6 +879,38 @@
       "duration_ms": 267500,
       "name": "El Blues del Diablo y la Enfermedad",
       "url": "https://open.spotify.com/track/2GJP2ir2DePYIgdJPnKf5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 356880,
+      "name": "El blues de la llanta",
+      "url": "https://open.spotify.com/track/22SExSRBRXSD41VYCg71Hx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "El maldito ritmo",
+      "url": "https://open.spotify.com/track/47pJwRC50gCROwO6TnFV7m"
     }
   ],
   "unique_name": "This Is El Tri",

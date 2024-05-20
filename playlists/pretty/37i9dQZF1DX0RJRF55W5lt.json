@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 546937,
+  "num_followers": 547212,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -351,18 +351,22 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
-        "name": "Neighbourhood",
-        "url": "https://open.spotify.com/album/0PYwiBS0azY1px539lc6JR"
+        "name": "Never Gonna Let You Go",
+        "url": "https://open.spotify.com/album/0FAmqcsD2sDWlBygKeLpwl"
       },
       "artists": [
         {
-          "name": "Zed Bias",
-          "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
+          "name": "Tina Moore",
+          "url": "https://open.spotify.com/artist/0bxfUFzgizyJXJK7A3iQ8u"
+        },
+        {
+          "name": "Kelly G.",
+          "url": "https://open.spotify.com/artist/0mG3A01g7vJFOHrHRzgzEb"
         }
       ],
-      "duration_ms": 215213,
-      "name": "Neighbourhood - Radio Mix",
-      "url": "https://open.spotify.com/track/6J6QyLMIoToFr1VvDpt8jo"
+      "duration_ms": 237906,
+      "name": "Never Gonna Let You Go - Kelly G Bump-N-Go Dub Edit",
+      "url": "https://open.spotify.com/track/6ja7ocYMj2FpuENgXexBrH"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -383,22 +387,18 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
-        "name": "Never Gonna Let You Go",
-        "url": "https://open.spotify.com/album/0FAmqcsD2sDWlBygKeLpwl"
+        "name": "Neighbourhood",
+        "url": "https://open.spotify.com/album/0PYwiBS0azY1px539lc6JR"
       },
       "artists": [
         {
-          "name": "Tina Moore",
-          "url": "https://open.spotify.com/artist/0bxfUFzgizyJXJK7A3iQ8u"
-        },
-        {
-          "name": "Kelly G.",
-          "url": "https://open.spotify.com/artist/0mG3A01g7vJFOHrHRzgzEb"
+          "name": "Zed Bias",
+          "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
         }
       ],
-      "duration_ms": 237906,
-      "name": "Never Gonna Let You Go - Kelly G Bump-N-Go Dub Edit",
-      "url": "https://open.spotify.com/track/6ja7ocYMj2FpuENgXexBrH"
+      "duration_ms": 215213,
+      "name": "Neighbourhood - Radio Mix",
+      "url": "https://open.spotify.com/track/6J6QyLMIoToFr1VvDpt8jo"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
+        "name": "Execute",
+        "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
+      },
+      "artists": [
+        {
+          "name": "Oxide & Neutrino",
+          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
+        }
+      ],
+      "duration_ms": 362373,
+      "name": "No Good 4 Me (feat. Megaman, Romeo and Lisa Maffia)",
+      "url": "https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME"
+    },
+    {
+      "added_at": "2024-05-15 16:43:21",
+      "album": {
         "name": "Freak Like Me",
         "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
       },
@@ -519,6 +535,22 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
+        "name": "Summer Heat",
+        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 219626,
+      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
+      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
+    },
+    {
+      "added_at": "2024-05-15 16:43:21",
+      "album": {
         "name": "Love Shy",
         "url": "https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 221820,
       "name": "Love Shy - Club Asylum Remix",
       "url": "https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn"
-    },
-    {
-      "added_at": "2024-05-15 16:43:21",
-      "album": {
-        "name": "Summer Heat",
-        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
-      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -575,22 +591,6 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
-        "name": "Execute",
-        "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
-      },
-      "artists": [
-        {
-          "name": "Oxide & Neutrino",
-          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
-        }
-      ],
-      "duration_ms": 362373,
-      "name": "No Good 4 Me (feat. Megaman, Romeo and Lisa Maffia)",
-      "url": "https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME"
-    },
-    {
-      "added_at": "2024-05-15 16:43:21",
-      "album": {
         "name": "My Desire (Remixes)",
         "url": "https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 344957,
       "name": "My Desire - Dreem Team Remix",
       "url": "https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3"
-    },
-    {
-      "added_at": "2024-05-15 16:43:21",
-      "album": {
-        "name": "Sometimes It Snows In April",
-        "url": "https://open.spotify.com/album/5b7XYJnXatCeqBBRNlBPuO"
-      },
-      "artists": [
-        {
-          "name": "Amar",
-          "url": "https://open.spotify.com/artist/6QdjZOuApe5DjregmD5BLj"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Sometimes It Snows in April - Dreem House Dub Radio Edit",
-      "url": "https://open.spotify.com/track/3nIWuSwR8iIyew22d6mICJ"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -643,6 +627,22 @@
       "duration_ms": 332746,
       "name": "Masterblaster 2000 - Oracles Remix",
       "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
+    },
+    {
+      "added_at": "2024-05-15 16:43:21",
+      "album": {
+        "name": "Sometimes It Snows In April",
+        "url": "https://open.spotify.com/album/5b7XYJnXatCeqBBRNlBPuO"
+      },
+      "artists": [
+        {
+          "name": "Amar",
+          "url": "https://open.spotify.com/artist/6QdjZOuApe5DjregmD5BLj"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Sometimes It Snows in April - Dreem House Dub Radio Edit",
+      "url": "https://open.spotify.com/track/3nIWuSwR8iIyew22d6mICJ"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -723,6 +723,30 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
+        "name": "Poision",
+        "url": "https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL"
+      },
+      "artists": [
+        {
+          "name": "DJ Luck & MC Neat",
+          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
+        },
+        {
+          "name": "Scott Garcia",
+          "url": "https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b"
+        },
+        {
+          "name": "Shy Cookie",
+          "url": "https://open.spotify.com/artist/65wWCNrpeb8t3A6707RG5B"
+        }
+      ],
+      "duration_ms": 305026,
+      "name": "Poision",
+      "url": "https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj"
+    },
+    {
+      "added_at": "2024-05-15 16:43:21",
+      "album": {
         "name": "Now And Always: 20 Years Of Dreaming",
         "url": "https://open.spotify.com/album/7loeQSRUbnvwYLcmgt70D0"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 312758,
       "name": "Get Down - We Can Get Down",
       "url": "https://open.spotify.com/track/2IrVQQ9cR0W0igKz661O4p"
-    },
-    {
-      "added_at": "2024-05-15 16:43:21",
-      "album": {
-        "name": "Poision",
-        "url": "https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL"
-      },
-      "artists": [
-        {
-          "name": "DJ Luck & MC Neat",
-          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
-        },
-        {
-          "name": "Scott Garcia",
-          "url": "https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b"
-        },
-        {
-          "name": "Shy Cookie",
-          "url": "https://open.spotify.com/artist/65wWCNrpeb8t3A6707RG5B"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "Poision",
-      "url": "https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
-        "name": "PAY CLOSE ATTENTION: XL Recordings",
-        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
-      },
-      "artists": [
-        {
-          "name": "NuBirth",
-          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
-        }
-      ],
-      "duration_ms": 320156,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
-    },
-    {
-      "added_at": "2024-05-15 16:43:21",
-      "album": {
         "name": "Pure Garage Rewind",
         "url": "https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 355218,
       "name": "Love Bug - Bump Mix",
       "url": "https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH"
+    },
+    {
+      "added_at": "2024-05-15 16:43:21",
+      "album": {
+        "name": "PAY CLOSE ATTENTION: XL Recordings",
+        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
+      },
+      "artists": [
+        {
+          "name": "NuBirth",
+          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
+        }
+      ],
+      "duration_ms": 320156,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
+        "name": "Shut The Door",
+        "url": "https://open.spotify.com/album/5oWUNXF1v39yYcVWbb5GDy"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 438173,
+      "name": "Shut The Door",
+      "url": "https://open.spotify.com/track/6grf2vEapt8Fq61RuZQtS2"
+    },
+    {
+      "added_at": "2024-05-15 16:43:21",
+      "album": {
         "name": "Pick Me Up",
         "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 309520,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n"
-    },
-    {
-      "added_at": "2024-05-15 16:43:21",
-      "album": {
-        "name": "Shut The Door",
-        "url": "https://open.spotify.com/album/5oWUNXF1v39yYcVWbb5GDy"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 438173,
-      "name": "Shut The Door",
-      "url": "https://open.spotify.com/track/6grf2vEapt8Fq61RuZQtS2"
     },
     {
       "added_at": "2024-05-15 16:43:21",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-05-15 16:43:21",
       "album": {
-        "name": "House Tracks for the Dancefloor, Vol. One",
-        "url": "https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9"
+        "name": "4X4, Vol. 1",
+        "url": "https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk"
       },
       "artists": [
         {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
         }
       ],
-      "duration_ms": 372480,
-      "name": "Dancing for Heaven - Club",
-      "url": "https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu"
+      "duration_ms": 370405,
+      "name": "The Chant W.E.R",
+      "url": "https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3"
     }
   ],
   "unique_name": "UK Garage Classics",

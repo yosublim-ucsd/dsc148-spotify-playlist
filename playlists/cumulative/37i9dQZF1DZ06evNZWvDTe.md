@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-160 songs - 9 hr 39 min
+161 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Grind Day \(Remix\) \[feat\. Sarkodie & Medikal\]](https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Grind Day \(Remix\) \[feat\. Sarkodie & Medikal\]](https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez) | 4:02 | 2022-09-15 |  |
 | [Happy Day](https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Happy Day](https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk) | 3:32 | 2021-12-28 |  |
 | [Hasta La Vista](https://open.spotify.com/track/00rgPXyfLwcIfCRpPS63ic) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Hasta La Vista](https://open.spotify.com/album/5EF0IS1ZwjaMEbUgnDWLph) | 3:15 | 2021-12-28 | 2022-10-13 |
+| [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 | 2024-05-20 |  |
 | [Hello \(feat\. KiDi\)](https://open.spotify.com/track/51UajxghdmBlcW1WGU1lXa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 4:01 | 2021-12-30 | 2022-10-12 |
 | [Highest, Pt\. 1 \- Interlude](https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 0:35 | 2022-09-18 | 2023-12-18 |
 | [Homicide](https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81) | 3:03 | 2022-05-21 |  |
@@ -92,7 +93,7 @@
 | [Landlord](https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Landlord](https://open.spotify.com/album/2WQE1JGp2OwNlMyO4QB9LT) | 2:43 | 2023-01-18 | 2023-04-16 |
 | [Legend](https://open.spotify.com/track/1pnHv6UjLso4U09tZQBxXw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Alpha](https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr) | 3:44 | 2022-01-03 | 2022-09-06 |
 | [Light It Up](https://open.spotify.com/track/4zB6pw3SOjK3Gkz5ESssgd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 4:57 | 2022-03-26 | 2022-03-30 |
-| [LONELY \(feat\. Sarkodie\)](https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:09 | 2023-11-10 |  |
+| [LONELY \(feat\. Sarkodie\)](https://open.spotify.com/track/1z29fkHyKrvZDglpyptvq3) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:09 | 2023-11-10 | 2024-05-20 |
 | [Love Yourself](https://open.spotify.com/track/5YOvMsGOPTHvRCcctSlVNM) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:00 | 2022-04-09 | 2022-09-02 |
 | [Lucky \(feat\. Rudeboy\)](https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 4:27 | 2021-12-28 |  |
 | [M3gye Wo Girl \(feat\. Shatta Wale\)](https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [M3gye Wo Girl \(feat\. Shatta Wale\)](https://open.spotify.com/album/4MaseQ5e2j7Au8NaYrtyd4) | 3:31 | 2021-12-28 |  |

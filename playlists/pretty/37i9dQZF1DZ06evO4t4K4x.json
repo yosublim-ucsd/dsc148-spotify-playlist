@@ -1,12 +1,12 @@
 {
-  "description": "This is Delia Derbyshire. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 1992,
+  "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
+  "num_followers": 1993,
   "original_name": "This Is Delia Derbyshire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkaeAAAAAAAsqrxQ7fdF8MGDRL0Fdkzr",
+  "snapshot_id": "ZkfvgAAAAAAw5KAZwPWBhFxRfrEsQzIr",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electronic",
-        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+        "name": "Do What You Love",
+        "url": "https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj"
       },
       "artists": [
         {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Brian Hodgson",
-          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
-        },
-        {
-          "name": "Standard Music Library",
-          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
         }
       ],
-      "duration_ms": 114533,
-      "name": "Gothic Submarine",
-      "url": "https://open.spotify.com/track/4IpQr5HGDqqxJfjqg0hqID"
+      "duration_ms": 54053,
+      "name": "About Bridges Polyphonic Theme (From The Hooykaas / Stansfield Film)",
+      "url": "https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn"
     },
     {
       "added_at": null,
@@ -139,18 +131,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do What You Love",
-        "url": "https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj"
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
       },
       "artists": [
         {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Standard Music Library",
+          "url": "https://open.spotify.com/artist/6YMQJKnWaIkPgoHIUgRckS"
         }
       ],
-      "duration_ms": 54053,
-      "name": "About Bridges Polyphonic Theme (From The Hooykaas / Stansfield Film)",
-      "url": "https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn"
+      "duration_ms": 114533,
+      "name": "Gothic Submarine",
+      "url": "https://open.spotify.com/track/4IpQr5HGDqqxJfjqg0hqID"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol. 1",
-        "url": "https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v"
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 526068,
-      "name": "Falling, From the Dreams - Radio Version 1964",
-      "url": "https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU"
+      "duration_ms": 31760,
+      "name": "Environmental Studies",
+      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
     },
     {
       "added_at": null,
@@ -431,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+        "name": "Moogies Bloogies",
+        "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
       },
       "artists": [
         {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Anthony Newley",
+          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
         }
       ],
-      "duration_ms": 31760,
-      "name": "Environmental Studies",
-      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
+      "duration_ms": 94378,
+      "name": "I Decoded You (Moogies Bloogies, Pt. 2)",
+      "url": "https://open.spotify.com/track/3WEuSqvJ8kjyZhhnlC7CHw"
     },
     {
       "added_at": null,
@@ -487,28 +491,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moogies Bloogies",
-        "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
+        "name": "Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol. 1",
+        "url": "https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v"
       },
       "artists": [
         {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Anthony Newley",
-          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
         }
       ],
-      "duration_ms": 94378,
-      "name": "I Decoded You (Moogies Bloogies, Pt. 2)",
-      "url": "https://open.spotify.com/track/3WEuSqvJ8kjyZhhnlC7CHw"
+      "duration_ms": 526068,
+      "name": "Falling, From the Dreams - Radio Version 1964",
+      "url": "https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 41293,
-      "name": "A New View of Politics",
-      "url": "https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6"
+      "duration_ms": 108480,
+      "name": "The Afterlife, Pt. 1",
+      "url": "https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Afterlife",
-        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 108480,
-      "name": "The Afterlife, Pt. 1",
-      "url": "https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC"
+      "duration_ms": 41293,
+      "name": "A New View of Politics",
+      "url": "https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 57253,
-      "name": "Science and Health",
-      "url": "https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Afterlife",
         "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 352197,
       "name": "The Afterlife, Pt. 2",
       "url": "https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 57253,
+      "name": "Science and Health",
+      "url": "https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 59240,
-      "name": "Know Your Car (Get out and Get Under)",
-      "url": "https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Afterlife",
         "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 2113024,
       "name": "The Afterlife, Pt. 3",
       "url": "https://open.spotify.com/track/0XH8WkXHjq0Hq5BubQRxuM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 59240,
+      "name": "Know Your Car (Get out and Get Under)",
+      "url": "https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt"
     },
     {
       "added_at": null,

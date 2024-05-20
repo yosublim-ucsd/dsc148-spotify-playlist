@@ -2,7 +2,7 @@
 
 ### [This Is Libido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4zOsk6)
 
-> This is Libido\. The essential tracks, all in one playlist.
+> This is: Libido\. Alle wichtigen Tracks in einer Playlist.
 
 50 songs - 2 hr 55 min
 

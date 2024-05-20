@@ -2,7 +2,7 @@
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. Todos os maiores hits em uma só playlist.
+> This is Jon Hassell\. The essential tracks, all in one playlist.
 
 131 songs - 13 hr 5 min
 
@@ -12,7 +12,7 @@
 | [A La Dina](https://open.spotify.com/track/70KaHXdLkWGpYpxITkeBzM) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 3:27 | 2023-04-21 | 2024-04-22 |
 | [Abu Gil \- Live](https://open.spotify.com/track/3X0BvVXZ5Xpx0oPN0di5yO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 13:04 | 2022-05-30 | 2022-09-30 |
 | [Adios Saturn](https://open.spotify.com/track/3qT7EXtReLltWcnlpsYaur) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 1:57 | 2022-10-18 | 2023-02-16 |
-| [Adios Saturn](https://open.spotify.com/track/7HmsqYHRq6RJ9Ecfodc42J) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 1:57 | 2023-02-15 |  |
+| [Adios Saturn](https://open.spotify.com/track/7HmsqYHRq6RJ9Ecfodc42J) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 1:57 | 2023-02-15 | 2024-05-20 |
 | [Aerial View](https://open.spotify.com/track/4eQq64VWTwNJfMiEminGAK) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 2:33 | 2023-04-02 | 2024-04-02 |
 | [Air](https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:20 | 2022-05-29 | 2022-12-30 |
 | [Air Afrique \(Wind\)](https://open.spotify.com/track/0O6sbqgaXZMfE6m1iuh7lT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 3:59 | 2022-06-06 | 2023-08-14 |
@@ -53,7 +53,7 @@
 | [Emerald City](https://open.spotify.com/track/09bEaFophDjQMFCUcHSjL6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:08 | 2023-04-08 | 2024-05-04 |
 | [Empire I](https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 2:00 | 2022-05-29 |  |
 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 | 2022-05-30 |  |
-| [Empire III](https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:09 | 2022-05-29 | 2024-05-12 |
+| [Empire III](https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:09 | 2022-05-29 |  |
 | [Empire IV](https://open.spotify.com/track/4ZRIdK87L5YOfVZoywWV60) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 5:13 | 2022-05-29 | 2024-05-10 |
 | [Empire V](https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 3:40 | 2022-05-29 |  |
 | [Favela](https://open.spotify.com/track/5c5stvn9idPulAh0dy4xHD) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:55 | 2023-04-14 | 2024-05-09 |

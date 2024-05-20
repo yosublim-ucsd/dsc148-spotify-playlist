@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 149406,
       "name": "akl\u0131na ben gelicem",
       "url": "https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 191694,
       "name": "A\u011flama ben a\u011flar\u0131m",
       "url": "https://open.spotify.com/track/0JU2QfhTrgFsVq5yQ4YQlu"
@@ -5363,6 +5363,24 @@
     },
     {
       "album": {
+        "name": "Elini Ver",
+        "url": "https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN"
+      },
+      "artists": [
+        {
+          "name": "Amo988",
+          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142600,
+      "name": "Elini Ver",
+      "url": "https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR"
+    },
+    {
+      "album": {
         "name": "Ellerin Hani?",
         "url": "https://open.spotify.com/album/0PK542P19KxsrC0erdCNHy"
       },
@@ -6910,7 +6928,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 218086,
       "name": "G\u00f6r Bak",
       "url": "https://open.spotify.com/track/00zpoHL8I7zlPzWEbSYDgB"
@@ -9666,7 +9684,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-20",
       "duration_ms": 138363,
       "name": "Kennedy'i Ben Vurdum",
       "url": "https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8"
@@ -13252,7 +13270,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 142055,
       "name": "Pi\u015fman De\u011filim",
       "url": "https://open.spotify.com/track/4Sdj67b8WF9PhAXh4tvBi6"

@@ -1103,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/0hqNJlLvmldKAHivr48KRD"
+      },
+      "artists": [
+        {
+          "name": "Calm Chapter",
+          "url": "https://open.spotify.com/artist/7Bqsbmh24Qjg1sugGDNUoh"
+        },
+        {
+          "name": "Karamandi",
+          "url": "https://open.spotify.com/artist/7f767W2tNRInLUY8h38ooE"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152282,
+      "name": "Fernweh",
+      "url": "https://open.spotify.com/track/45NT6jGzWVYeoWbUHT2Yp6"
+    },
+    {
+      "album": {
         "name": "Crystal Clear",
         "url": "https://open.spotify.com/album/4PMOqn6bo9U228D2XzBoV4"
       },

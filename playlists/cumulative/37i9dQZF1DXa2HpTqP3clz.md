@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Missy Raines
 
-566 songs - 1 day 9 hr 41 min
+567 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Charlie Pickle](https://open.spotify.com/track/115TnBbSiS8Jxn6KQICZeQ) | [Sad Daddy](https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV) | [Charlie Pickle](https://open.spotify.com/album/7fLDKHCfXK4lrnNeCDSoJ9) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Charlie Pickle](https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV) | [Sad Daddy](https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV) | [Way Up In The Hills](https://open.spotify.com/album/5v15OKarMnhpGXwp6wXhbv) | 4:16 | 2024-02-23 | 2024-04-19 |
 | [Charm School \(feat\. Billy Strings & Chris Thile\)](https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Charm School \(feat\. Billy Strings & Chris Thile\)](https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs) | 8:03 | 2021-12-17 | 2023-04-15 |
-| [Chasin' Indigo](https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Chasin' Indigo](https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht) | 3:59 | 2024-04-26 |  |
+| [Chasin' Indigo](https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Chasin' Indigo](https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht) | 3:59 | 2024-04-26 | 2024-05-20 |
 | [Chasin' Skies](https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR) | [Tessa Lark](https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Chasin' Skies](https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N) | 2:38 | 2022-07-15 |  |
 | [Chasing Rainbows](https://open.spotify.com/track/6e86xgqEXDNF7vOOZ7WrV3) | [Casey Penn](https://open.spotify.com/artist/1rNmOdI3Gyd9GnqXDp095b) | [Chasing Rainbows](https://open.spotify.com/album/7n98xt9P9976k8DknakjDs) | 2:39 | 2022-06-11 | 2022-06-14 |
 | [Choices And Changes](https://open.spotify.com/track/4hqJJdwJuWx0y6sNcHIHYF) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Weighted Mind](https://open.spotify.com/album/1Nhg69P4YB6wBXuP6Kmhbe) | 3:19 | 2021-12-31 | 2023-04-05 |
@@ -270,6 +270,7 @@
 | [Jeremiah](https://open.spotify.com/track/6fQJurzJ7mB8VTRppbg8t7) | [Clint Roberts](https://open.spotify.com/artist/5OVHqPoHGsbQnMuLvLP0gd) | [Jeremiah](https://open.spotify.com/album/05AgUadKLcXpXwwNmwhPfC) | 3:24 | 2022-04-29 | 2022-05-08 |
 | [John](https://open.spotify.com/track/611n0K4uwT68HQSYUN7FQC) | [Wood & Wire](https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX) | [John](https://open.spotify.com/album/5pm6q0j3jSQAki4Oa2SjSV) | 2:55 | 2021-12-17 | 2022-10-18 |
 | [Jordan](https://open.spotify.com/track/45osKkEZgBHKbd9jnRFKuD) | [Darin and Brooke Aldridge](https://open.spotify.com/artist/5pwpynH9ZDP8ECECyMJFHK), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4), [Mark Fain](https://open.spotify.com/artist/3JpM4U00RW9t6VpO6MjynL) | [Jordan](https://open.spotify.com/album/7vSASd5xie3NUfDWAdJMfc) | 3:05 | 2023-03-24 | 2023-05-16 |
+| [Just Let Me Know](https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Just Let Me Know](https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg) | 2:48 | 2024-05-10 |  |
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2022-07-22 | 2024-04-19 |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Kentucky Blue](https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Bluegrassed](https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D) | 3:00 | 2024-05-10 |  |

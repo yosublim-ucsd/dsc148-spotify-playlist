@@ -1,6 +1,6 @@
 {
   "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
-  "num_followers": 69534,
+  "num_followers": 69539,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2024-05-16 09:35:17",
       "album": {
-        "name": "Natural Elements (with John McLaughlin)",
-        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
-      },
-      "artists": [
-        {
-          "name": "Shakti",
-          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
-        },
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Peace Of Mind (with John McLaughlin)",
-      "url": "https://open.spotify.com/track/4SVJkfw1Z69PHunArOJf8F"
-    },
-    {
-      "added_at": "2024-05-16 09:35:17",
-      "album": {
         "name": "Chanakya",
         "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
       },
@@ -387,18 +367,22 @@
     {
       "added_at": "2024-05-16 09:35:17",
       "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+        "name": "Natural Elements (with John McLaughlin)",
+        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
       },
       "artists": [
         {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+          "name": "Shakti",
+          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
         }
       ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+      "duration_ms": 202533,
+      "name": "Peace Of Mind (with John McLaughlin)",
+      "url": "https://open.spotify.com/track/4SVJkfw1Z69PHunArOJf8F"
     },
     {
       "added_at": "2024-05-16 09:35:17",
@@ -423,6 +407,22 @@
       "duration_ms": 158476,
       "name": "Garaj Garaj",
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2024-05-16 09:35:17",
+      "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2024-05-16 09:35:17",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-05-16 09:35:17",
       "album": {
+        "name": "Paniya",
+        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 190128,
+      "name": "Dil Mein Ab",
+      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
+    },
+    {
+      "added_at": "2024-05-16 09:35:17",
+      "album": {
         "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
         "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2024-05-16 09:35:17",
       "album": {
-        "name": "Paniya",
-        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 190128,
-      "name": "Dil Mein Ab",
-      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
-    },
-    {
-      "added_at": "2024-05-16 09:35:17",
-      "album": {
         "name": "Grounded in Space",
         "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 305613,
       "name": "Ghir Ghir",
       "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
+    },
+    {
+      "added_at": "2024-05-16 09:35:17",
+      "album": {
+        "name": "Making Music",
+        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
+      },
+      "artists": [
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        }
+      ],
+      "duration_ms": 749466,
+      "name": "Making Music",
+      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
     },
     {
       "added_at": "2024-05-16 09:35:17",
@@ -559,22 +575,6 @@
       "duration_ms": 390826,
       "name": "Shrini\u2019s Dream",
       "url": "https://open.spotify.com/track/6llehsN0Mgms7vs6J88zTX"
-    },
-    {
-      "added_at": "2024-05-16 09:35:17",
-      "album": {
-        "name": "Making Music",
-        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
-      },
-      "artists": [
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        }
-      ],
-      "duration_ms": 749466,
-      "name": "Making Music",
-      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
     },
     {
       "added_at": "2024-05-16 09:35:17",
@@ -751,6 +751,34 @@
     {
       "added_at": "2024-05-16 09:35:17",
       "album": {
+        "name": "As We Speak",
+        "url": "https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "duration_ms": 504051,
+      "name": "Pashto",
+      "url": "https://open.spotify.com/track/6vxP8D4gBHH1EiMmlzYmSL"
+    },
+    {
+      "added_at": "2024-05-16 09:35:17",
+      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI"
       },
@@ -783,34 +811,6 @@
       "duration_ms": 431026,
       "name": "Bending the Rules",
       "url": "https://open.spotify.com/track/5vatektse7X51NxS0g5Y32"
-    },
-    {
-      "added_at": "2024-05-16 09:35:17",
-      "album": {
-        "name": "As We Speak",
-        "url": "https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        },
-        {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
-        }
-      ],
-      "duration_ms": 504051,
-      "name": "Pashto",
-      "url": "https://open.spotify.com/track/6vxP8D4gBHH1EiMmlzYmSL"
     },
     {
       "added_at": "2024-05-16 09:35:17",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-05-16 09:35:17",
       "album": {
+        "name": "Natural Elements (with John McLaughlin)",
+        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
+      },
+      "artists": [
+        {
+          "name": "Shakti",
+          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "duration_ms": 347866,
+      "name": "Mind Ecology (with John McLaughlin)",
+      "url": "https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6"
+    },
+    {
+      "added_at": "2024-05-16 09:35:17",
+      "album": {
         "name": "Aaj Rang Hai",
         "url": "https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 205943,
       "name": "Aaj Rang Hai",
       "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
-    },
-    {
-      "added_at": "2024-05-16 09:35:17",
-      "album": {
-        "name": "Natural Elements (with John McLaughlin)",
-        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
-      },
-      "artists": [
-        {
-          "name": "Shakti",
-          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
-        },
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 347866,
-      "name": "Mind Ecology (with John McLaughlin)",
-      "url": "https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6"
     },
     {
       "added_at": "2024-05-16 09:35:17",
@@ -1027,26 +1027,18 @@
     {
       "added_at": "2024-05-16 09:35:17",
       "album": {
-        "name": "We for Love",
-        "url": "https://open.spotify.com/album/3GN5KAQHhR8MqwQea7VbXo"
+        "name": "Barsan Lagi",
+        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
       },
       "artists": [
         {
-          "name": "Amaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
-        },
-        {
-          "name": "Ayaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
-        },
-        {
-          "name": "Malini Awasthi",
-          "url": "https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1"
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
         }
       ],
-      "duration_ms": 293500,
-      "name": "Divine Krishna",
-      "url": "https://open.spotify.com/track/5XAY3PGTV5bbBv5cd6cVQk"
+      "duration_ms": 219456,
+      "name": "Barsan Lagi",
+      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
     }
   ],
   "unique_name": "Fusion Finds",

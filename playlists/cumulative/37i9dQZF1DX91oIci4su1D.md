@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-898 songs - 2 day 6 hr 26 min
+899 songs - 2 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Be Alone](https://open.spotify.com/track/6OAk8W4ebDp8UgOj6IBClU) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Be Alone](https://open.spotify.com/album/0Ky0tMHRkPpVLul0VA5CMa) | 3:39 | 2021-12-17 | 2023-02-25 |
 | [Be As One](https://open.spotify.com/track/6NOVQdyz96T7KSUvPTES80) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Cheryl Barnes](https://open.spotify.com/artist/5dKck1H0BEvXkxRpTDyQbn) | [Be As One](https://open.spotify.com/album/5K1iAnkO82DUoBoEGAWy3w) | 3:30 | 2022-03-25 | 2022-04-16 |
 | [Before It's Lost](https://open.spotify.com/track/1Mx0yKQlPxXYtudlB4GqIP) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Before It's Lost](https://open.spotify.com/album/0ZBDI00xeHdv7ucud2UB1g) | 3:18 | 2023-06-23 |  |
+| [Being Alone](https://open.spotify.com/track/0LkhrxxLxmitdXcSr7wfMQ) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Being Alone](https://open.spotify.com/album/2vfIWuuqhMmZHM1sAr8ewo) | 2:48 | 2024-05-17 |  |
 | [Benirrás](https://open.spotify.com/track/4ke138ZJyYRmLmEj5IKhRY) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Benirrás](https://open.spotify.com/album/6SLojWSR7K5P14fAifcdEF) | 8:16 | 2023-12-08 |  |
 | [BERLON](https://open.spotify.com/track/5BtXeXnFhOR0KIfvPBeCFf) | [Chris Bekker](https://open.spotify.com/artist/0gjLxpTbe5HoswzDI1YsIF), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [BERLON](https://open.spotify.com/album/2ckH2mUTmCzVXCtnYnhu08) | 5:44 | 2021-12-17 | 2022-04-02 |
 | [Beside Me](https://open.spotify.com/track/2WsFKU9K172qfsGveJPr5m) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [M6](https://open.spotify.com/artist/6jdFALQ8fljXpbb9c9NdNB), [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Beside Me](https://open.spotify.com/album/4DbjRoYlls2Ju2tHH3QwfN) | 2:53 | 2023-01-06 | 2023-10-14 |
@@ -265,7 +266,7 @@
 | [FALLEN](https://open.spotify.com/track/01rjAeNJdwdlcezdaszvHz) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [FALLEN](https://open.spotify.com/album/4BD1l3VuzzvXKmVA81eSPo) | 3:52 | 2023-09-08 |  |
 | [Fallen Ones](https://open.spotify.com/track/522YmcPwqhjeBuijxbpgct) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Fallen Ones](https://open.spotify.com/album/2sSfwyUmGOrCJJskFbqID8) | 3:26 | 2023-10-13 |  |
 | [Fallen Stars](https://open.spotify.com/track/678AzChcY2JJQT21ZYnCHf) | [SMR LVE](https://open.spotify.com/artist/06t1RxKOvEjISHqQBquslE), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Fallen Stars](https://open.spotify.com/album/17F1mdkI3JlNVW1b0Gzru6) | 4:49 | 2024-03-15 |  |
-| [Falling](https://open.spotify.com/track/4Izc8uSfjdZVA2W1twRS3k) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla) | [Falling](https://open.spotify.com/album/72NrJcnuzmgQUhp9LsrUlF) | 3:07 | 2024-04-12 |  |
+| [Falling](https://open.spotify.com/track/4Izc8uSfjdZVA2W1twRS3k) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla) | [Falling](https://open.spotify.com/album/72NrJcnuzmgQUhp9LsrUlF) | 3:07 | 2024-04-12 | 2024-05-20 |
 | [Falling](https://open.spotify.com/track/4zOSUnrmTMOQejyyluCZh3) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Osa Blu](https://open.spotify.com/artist/7wlPdryKXRY9IRxB00iPKo) | [Falling](https://open.spotify.com/album/4vr03HehxNm5c3h4q5QoPq) | 4:13 | 2021-12-17 | 2022-02-26 |
 | [Falling](https://open.spotify.com/track/5LI0pkjDAZa4nHGh32LImr) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Falling](https://open.spotify.com/album/4fcuj6nj9Fq6CVquHVTRSJ) | 3:51 | 2022-08-12 | 2023-06-10 |
 | [Falling Free](https://open.spotify.com/track/6pCPpsRjMvZsZC85bwH1u0) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [AunA](https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A) | [Falling Free](https://open.spotify.com/album/4SX2gEDnF0eCCnBWZHHFwS) | 4:02 | 2024-04-05 |  |

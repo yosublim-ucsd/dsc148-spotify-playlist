@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ferrugem, Billie Eilish, MC Caveirinha e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,022 likes - 67 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,239 likes - 67 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 19 | [Privacy](https://open.spotify.com/track/35kBl6QQ8AbQclnf5Gnfm0) | [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS), [Guga Divulga](https://open.spotify.com/artist/7544SbhjpkivsclUPtG1ej), [Alekzzada](https://open.spotify.com/artist/1tsplI0cqtyXUqF2b1Egur), [Avance Records](https://open.spotify.com/artist/2FOhucFfejpFhHIyyeRcbH), [Mc India](https://open.spotify.com/artist/0NseDkNLAVBv2OZY5wquS7) | [Privacy](https://open.spotify.com/album/5XxHx2NPykhbxNLHEOsQbU) | 2:07 |
 | 20 | [Faroeste](https://open.spotify.com/track/378UJu7ZahkCCYXduY4vZY) | [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY) | [Faroeste](https://open.spotify.com/album/0cNHgGexMhYEx7AltgWYH1) | 2:31 |
 | 21 | [Menina](https://open.spotify.com/track/0kZMzrMqhdqbkpS76H4IWa) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Menina](https://open.spotify.com/album/1LwvM5sLMX3w50dKitRzg1) | 3:43 |
-| 22 | [Toma Cuidado pra Não Se Apegar](https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 1:39 |
+| 22 | [Toma Cuidado pra Não Se Apegar](https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 1:39 |
 | 23 | [Língua dos Anjos](https://open.spotify.com/track/0AgluK6lXqHzjgTLkXMjlg) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [PORCELANA](https://open.spotify.com/album/4o1zqfzFJCsgIstBtZXlx3) | 2:14 |
 | 24 | [Eu Sinto Muito](https://open.spotify.com/track/5lgsS8jO4AVZnaM9j9IwgT) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Eu Sinto Muito](https://open.spotify.com/album/1dlUQFGqoBTZ5P2KO5ohgO) | 2:40 |
 | 25 | [Doce Boy](https://open.spotify.com/track/56UFY8s74kaEkBSsFhSiJA) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [Doce Boy](https://open.spotify.com/album/1BGmw1hnnwRV4NJ69wD4s9) | 2:18 |
